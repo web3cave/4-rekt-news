@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ape-coin.art/",
+          "author": null,
+          "description": "APE Coin | BAYC",
+          "link": "https://ape-coin.art/",
+          "publishedOn": "2022-03-25T18:00:02.000Z",
+          "wordCount": null,
+          "title": "APE Coin | BAYC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://alkimiya.io/",
+          "author": null,
+          "description": "Alkimiya",
+          "link": "https://alkimiya.io/",
+          "publishedOn": "2022-03-25T17:30:03.000Z",
+          "wordCount": 765,
+          "title": "Alkimiya",
+          "imageUrl": null
+        },
+        {
           "id": "https://sg.loans/",
           "author": null,
           "description": "SG.Loans | High Yield Lending & Loans Without Collateral",
@@ -16,16 +36,6 @@
           "imageUrl": "https://uploads-ssl.webflow.com/622aaa672910b13e009f36e5/623a2d0c93c65dc51e7c3e3a_seo-image.png"
         },
         {
-          "id": "https://ethresear.ch/t/shutterized-beacon-chain/12249",
-          "author": null,
-          "description": "Shutterized Beacon Chain",
-          "link": "https://ethresear.ch/t/shutterized-beacon-chain/12249",
-          "publishedOn": "2022-03-25T16:00:03.000Z",
-          "wordCount": 2181,
-          "title": "Shutterized Beacon Chain",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/e/e210129d82939ef6dab8679d52b2dd1e0bf8878a.png"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/139071/are-funds-safu-mitigating-defi-risk-with-aave-founder-stani-kulechov",
           "author": null,
           "description": "Are funds SAFU? Mitigating DeFi risk with Aave founder Stani Kulechov",
@@ -33,6 +43,16 @@
           "publishedOn": "2022-03-25T15:00:02.000Z",
           "wordCount": null,
           "title": "Are funds SAFU? Mitigating DeFi risk with Aave founder Stani Kulechov",
+          "imageUrl": null
+        },
+        {
+          "id": "https://polynya.medium.com/updated-thoughts-on-modular-blockchains-ce1b159fa1b3",
+          "author": null,
+          "description": "Updated thoughts on “modular blockchains”",
+          "link": "https://polynya.medium.com/updated-thoughts-on-modular-blockchains-ce1b159fa1b3",
+          "publishedOn": "2022-03-25T09:00:02.000Z",
+          "wordCount": 1218,
+          "title": "Updated thoughts on “modular blockchains”",
           "imageUrl": null
         },
         {
@@ -126,24 +146,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*cf_nHmZ_YMKWONZYpkYo5w.jpeg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=0xl8u7-KVwM",
-          "author": null,
-          "description": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Ep.333",
-          "link": "https://www.youtube.com/watch?v=0xl8u7-KVwM",
-          "publishedOn": "2022-03-24T22:00:02.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Ep.333",
-          "imageUrl": null
-        },
-        {
           "id": "https://unchainedpodcast.com/the-chopping-block-do-kwon-pitches-a-decentralized-nft-publishing-service/",
           "author": null,
           "description": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Unchained Podcast",
           "link": "https://unchainedpodcast.com/the-chopping-block-do-kwon-pitches-a-decentralized-nft-publishing-service/",
           "publishedOn": "2022-03-24T21:15:03.000Z",
-          "wordCount": 334,
+          "wordCount": 420,
           "title": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Unchained Podcast",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/03/UN333v2.jpg"
         },
         {
           "id": "https://www.justice.gov/usao-sdny/pr/two-defendants-charged-non-fungible-token-nft-fraud-and-money-laundering-scheme-0",
@@ -166,16 +176,6 @@
           "imageUrl": "https://hrf.org/wp-content/uploads/2021/06/HRF-BDF-logo-no-text-1-scaled-1.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=IHEt6MXC_nI&feature=youtu.be",
-          "author": null,
-          "description": "nnnnicholas.eth && austingriffith.eth build an attestation machine with 🏗 scaffold-eth",
-          "link": "https://www.youtube.com/watch?v=IHEt6MXC_nI&feature=youtu.be",
-          "publishedOn": "2022-03-24T21:15:02.000Z",
-          "wordCount": null,
-          "title": "nnnnicholas.eth && austingriffith.eth build an attestation machine with 🏗 scaffold-eth",
-          "imageUrl": null
-        },
-        {
           "id": "https://p.mirror.xyz/VlaQ_fH2NNXh0MNyhj4CI13wX8zwJ6boctVpagApPLc",
           "author": null,
           "description": "Thoughts on DAO Tooling",
@@ -191,9 +191,9 @@
           "description": "In first for Israeli banking, Leumi to enable crypto trade",
           "link": "https://www.reuters.com/article/idUSL5N2VR6OT",
           "publishedOn": "2022-03-24T21:15:02.000Z",
-          "wordCount": 218,
+          "wordCount": 443,
           "title": "In first for Israeli banking, Leumi to enable crypto trade",
-          "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20220324&t=2&i=1595299734&r=LYNXNPEI2N11C&w=800"
+          "imageUrl": "https://www.reuters.com/resizer/Nj_mJ273wjV7TG_FfJs-TjsSzxQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PUYIWD3E7RIZHK7YNUUMOCQZNY.jpg"
         },
         {
           "id": "https://www.paradigm.xyz/2022/03/token-compensation-a-brief-explainer-for-job-candidates",
