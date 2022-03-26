@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T17:30:51.886Z</id>
+    <id>urn:2022-03-26T18:39:47.591Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-26T17:30:51.886Z</updated>
+    <updated>2022-03-26T18:39:47.591Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Messari Engineering]]></title>
+        <id>https://engineering.messari.io/</id>
+        <link href="https://engineering.messari.io/"/>
+        <updated>2022-03-26T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Messari Engineering]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Particlon?]]></title>
+        <id>https://particlon.medium.com/what-is-particlon-ff5f67f165ad</id>
+        <link href="https://particlon.medium.com/what-is-particlon-ff5f67f165ad"/>
+        <updated>2022-03-26T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[What is Particlon?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updated thoughts on “modular blockchains”]]></title>
         <id>https://polynya.medium.com/updated-thoughts-on-modular-blockchains-ce1b159fa1b3</id>
@@ -61,16 +81,6 @@
         <link href="https://www.zerohedge.com/geopolitical/if-bitcoin-dies-freedom-dies-it"/>
         <updated>2022-03-26T14:30:03.000Z</updated>
         <summary type="html"><![CDATA[If Bitcoin Dies, Freedom Dies With It | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency]]></title>
-        <id>https://www.sec.gov/news/press-release/2022-51</id>
-        <link href="https://www.sec.gov/news/press-release/2022-51"/>
-        <updated>2022-03-26T13:30:04.000Z</updated>
-        <summary type="html"><![CDATA[SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://tim.mirror.xyz/M_3JZXBkvXnr3W1222WIDo1ipMuFymszjH-FP40CO5c"/>
         <updated>2022-03-25T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[AllCoreDevs Update 010 ⛓]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculates gas fees spent of last 365 days of RSK blocks]]></title>
-        <id>https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd</id>
-        <link href="https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd"/>
-        <updated>2022-03-25T20:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Calculates gas fees spent of last 365 days of RSK blocks]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
