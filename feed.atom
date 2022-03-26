@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-25T23:31:36.458Z</id>
+    <id>urn:2022-03-26T02:52:00.632Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-25T23:31:36.459Z</updated>
+    <updated>2022-03-26T02:52:00.632Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Messari Engineering]]></title>
         <id>https://engineering.messari.io/</id>
         <link href="https://engineering.messari.io/"/>
-        <updated>2022-03-25T23:00:03.000Z</updated>
+        <updated>2022-03-26T02:00:03.000Z</updated>
         <summary type="html"><![CDATA[Messari Engineering]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></title>
+        <id>https://revoke.cash/</id>
+        <link href="https://revoke.cash/"/>
+        <updated>2022-03-26T00:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Eth2 - HackMD]]></title>
+        <id>https://hackmd.io/@benjaminion/eth2_news</id>
+        <link href="https://hackmd.io/@benjaminion/eth2_news"/>
+        <updated>2022-03-25T23:30:03.000Z</updated>
+        <summary type="html"><![CDATA[What’s New in Eth2 - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -61,6 +81,16 @@
         <link href="https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd"/>
         <updated>2022-03-25T20:30:02.000Z</updated>
         <summary type="html"><![CDATA[Calculates gas fees spent of last 365 days of RSK blocks]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India’s Stiff Crypto Tax Legislation Becomes Law]]></title>
+        <id>https://www.coindesk.com/policy/2022/03/25/indias-stiff-crypto-tax-legislation-becomes-law/</id>
+        <link href="https://www.coindesk.com/policy/2022/03/25/indias-stiff-crypto-tax-legislation-becomes-law/"/>
+        <updated>2022-03-25T20:00:03.000Z</updated>
+        <summary type="html"><![CDATA[India’s Stiff Crypto Tax Legislation Becomes Law]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -131,36 +161,6 @@
         <link href="https://eigenphi.substack.com/p/how-one-stablecoins-arbitrage-strategy?r=1avow0&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web"/>
         <updated>2022-03-25T06:30:04.000Z</updated>
         <summary type="html"><![CDATA[How One Stablecoins Arbitrage Strategy Quietly Making US$113 Million Profit in 4 Months without Capital]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synapse has partnered with DFK Chain]]></title>
-        <id>https://synapseprotocol.medium.com/synapse-has-partnered-with-dfk-chain-a33b08dfcafb</id>
-        <link href="https://synapseprotocol.medium.com/synapse-has-partnered-with-dfk-chain-a33b08dfcafb"/>
-        <updated>2022-03-25T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Synapse has partnered with DFK Chain]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Is Open To Selling Natural Gas For Bitcoin, Gold | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/russia-open-selling-natural-gas-bitcoin-gold</id>
-        <link href="https://www.zerohedge.com/markets/russia-open-selling-natural-gas-bitcoin-gold"/>
-        <updated>2022-03-25T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Russia Is Open To Selling Natural Gas For Bitcoin, Gold | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto in Ukraine | Alex Bornyakov, Deputy Minister of Digital Transformation of Ukraine]]></title>
-        <id>https://www.youtube.com/watch?v=ezEvnLu6X4w&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=ezEvnLu6X4w&amp;feature=youtu.be"/>
-        <updated>2022-03-25T01:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Crypto in Ukraine | Alex Bornyakov, Deputy Minister of Digital Transformation of Ukraine]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
