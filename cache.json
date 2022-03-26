@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.grtiq.com/grtiq-podcast-57-jim-cousins/",
+          "author": null,
+          "description": "GRTiQ Podcast: Episode #57 Jim Cousins",
+          "link": "https://www.grtiq.com/grtiq-podcast-57-jim-cousins/",
+          "publishedOn": "2022-03-26T22:00:03.000Z",
+          "wordCount": 809,
+          "title": "GRTiQ Podcast: Episode #57 Jim Cousins",
+          "imageUrl": "https://www.grtiq.com/wp-content/uploads/2022/03/Twitter-Card-Jim-Cousins-2.png"
+        },
+        {
           "id": "https://lfgrow.ethglobal.com/",
           "author": null,
           "description": "LFGrow - Build the future of Decentralized Social Networks",
@@ -41,19 +51,9 @@
           "description": "Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability",
           "link": "https://thehackernews.com/2022/03/google-issues-urgent-chrome-update-to.html",
           "publishedOn": "2022-03-26T20:30:02.000Z",
-          "wordCount": 847,
+          "wordCount": 849,
           "title": "Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability",
           "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEhe4kI4fPWEvYG9ia8i9jo4TGUExUqxfVYERYGlXDOHtolech2eDZ1t68Ygq-Rm2KyDOptmayUsQQ8KWRS6YLPsnNM81pe5p-m9VRQ3jW80R7QesFXZ6BrtdfsBk9_pvdaAJUbvRR8si8Ro0mR-XltTDsPJ-2gNPRTn6yVm8yNWyn9cPdTUYrX5TsGA/s728-e100/chrome-update.jpg"
-        },
-        {
-          "id": "https://engineering.messari.io/",
-          "author": null,
-          "description": "Messari Engineering",
-          "link": "https://engineering.messari.io/",
-          "publishedOn": "2022-03-26T18:00:04.000Z",
-          "wordCount": 359,
-          "title": "Messari Engineering",
-          "imageUrl": "https://cdn.sanity.io/images/zf2ahfgc/production/ffb7c4f7b332df9fa77a90d96162acdd42f0768f-2400x1254.png"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/macleod-only-replacement-fiat-currency-credibly-backed-gold",
@@ -64,6 +64,16 @@
           "wordCount": 4256,
           "title": "Macleod: The Only Replacement For Fiat Is A Currency 'Credibly-Backed By Gold' | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://doomberg.substack.com/p/farmers-on-the-brink?s=w",
+          "author": null,
+          "description": "Farmers on the Brink",
+          "link": "https://doomberg.substack.com/p/farmers-on-the-brink?s=w",
+          "publishedOn": "2022-03-26T16:00:02.000Z",
+          "wordCount": 2510,
+          "title": "Farmers on the Brink",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b92af0f-5495-4f02-8c1d-6ad466bb595f_840x600.jpeg"
         },
         {
           "id": "https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279",
@@ -101,7 +111,7 @@
           "description": "OnlyFans star discovers father is subscriber: ‘Hottest Daddy user was my dad’",
           "link": "https://nypost.com/2022/03/25/onlyfans-star-discovers-her-dad-subscribes-to-her-channel/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-03-26T11:00:04.000Z",
-          "wordCount": 1224,
+          "wordCount": 1227,
           "title": "OnlyFans star discovers father is subscriber: ‘Hottest Daddy user was my dad’",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/03/tiktok-comp3.jpg?quality=90&strip=all&w=1024"
         },
@@ -134,16 +144,6 @@
           "wordCount": 2200,
           "title": "The Monkey Network",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fadbcc8b4-5b48-4014-9f06-9ff92ee9c0a7_600x600.png"
-        },
-        {
-          "id": "https://hackmd.io/@benjaminion/eth2_news",
-          "author": null,
-          "description": "What’s New in Eth2 - HackMD",
-          "link": "https://hackmd.io/@benjaminion/eth2_news",
-          "publishedOn": "2022-03-25T23:30:03.000Z",
-          "wordCount": 403,
-          "title": "What’s New in Eth2 - HackMD",
-          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         },
         {
           "id": "https://www.mollywhite.net/annotations/latecomers-guide-to-crypto",
