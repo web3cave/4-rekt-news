@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-26T15:35:44.936Z</id>
+    <id>urn:2022-03-26T16:57:05.049Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-26T15:35:44.936Z</updated>
+    <updated>2022-03-26T16:57:05.049Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -156,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Calculates gas fees spent of last 365 days of RSK blocks]]></title>
+        <id>https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd</id>
+        <link href="https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd"/>
+        <updated>2022-03-25T20:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Calculates gas fees spent of last 365 days of RSK blocks]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MIP6: Huntingdon Valley Bank Loan Syndication Collateral Onboarding Application]]></title>
         <id>https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219</id>
         <link href="https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219"/>
@@ -191,16 +201,6 @@
         <link href="https://alkimiya.io/"/>
         <updated>2022-03-25T17:30:03.000Z</updated>
         <summary type="html"><![CDATA[Alkimiya]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Disclosure NFTs, Disclosure DAOs, and Disclosure DIDs]]></title>
-        <id>https://chrisbrummer.medium.com/introducing-disclosure-nfts-disclosure-daos-and-disclosure-dids-9579e0e739fe</id>
-        <link href="https://chrisbrummer.medium.com/introducing-disclosure-nfts-disclosure-daos-and-disclosure-dids-9579e0e739fe"/>
-        <updated>2022-03-24T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Disclosure NFTs, Disclosure DAOs, and Disclosure DIDs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
