@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/news/press-release/2022-51",
+          "author": null,
+          "description": "SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency",
+          "link": "https://www.sec.gov/news/press-release/2022-51",
+          "publishedOn": "2022-03-26T09:30:04.000Z",
+          "wordCount": 799,
+          "title": "SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency",
+          "imageUrl": null
+        },
+        {
           "id": "https://ethresear.ch/t/shutterized-beacon-chain/12249",
           "author": null,
           "description": "Shutterized Beacon Chain",
@@ -46,14 +56,14 @@
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fadbcc8b4-5b48-4014-9f06-9ff92ee9c0a7_600x600.png"
         },
         {
-          "id": "https://www.sec.gov/news/press-release/2022-51",
+          "id": "https://nypost.com/2022/03/25/ukrainian-president-zelensky-in-talks-with-academy-to-make-oscars-appearance/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "author": null,
-          "description": "SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency",
-          "link": "https://www.sec.gov/news/press-release/2022-51",
+          "description": "Ukrainian President  Zelensky in talks with Academy to make Oscars appearance",
+          "link": "https://nypost.com/2022/03/25/ukrainian-president-zelensky-in-talks-with-academy-to-make-oscars-appearance/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "publishedOn": "2022-03-26T03:00:03.000Z",
-          "wordCount": 799,
-          "title": "SEC.gov | San Francisco Regional Director Erin E. Schneider to Leave Agency",
-          "imageUrl": null
+          "wordCount": 1106,
+          "title": "Ukrainian President  Zelensky in talks with Academy to make Oscars appearance",
+          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/03/oscars-comp-1.jpg?quality=90&strip=all&w=1024"
         },
         {
           "id": "https://hackmd.io/@benjaminion/eth2_news",
@@ -104,6 +114,16 @@
           "wordCount": 2463,
           "title": "AllCoreDevs Update 010 ⛓",
           "imageUrl": "https://images.mirror-media.xyz/publication-images/8e8ab19e-2f24-4b25-93d7-5ee35f57069a.png?height=1200&width=1200"
+        },
+        {
+          "id": "https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd",
+          "author": null,
+          "description": "Calculates gas fees spent of last 365 days of RSK blocks",
+          "link": "https://gist.github.com/philipdesmedt/ac2f072cdcb7b3820889c66558618fdd",
+          "publishedOn": "2022-03-25T20:30:02.000Z",
+          "wordCount": 332,
+          "title": "Calculates gas fees spent of last 365 days of RSK blocks",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
           "id": "https://d.mirror.xyz/Sjpxa2r_wxkQUGXUr8oO2PhBlyfIRgLBx2YevoXXwyY",
@@ -176,16 +196,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*cf_nHmZ_YMKWONZYpkYo5w.jpeg"
         },
         {
-          "id": "https://unchainedpodcast.com/the-chopping-block-do-kwon-pitches-a-decentralized-nft-publishing-service/",
-          "author": null,
-          "description": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Unchained Podcast",
-          "link": "https://unchainedpodcast.com/the-chopping-block-do-kwon-pitches-a-decentralized-nft-publishing-service/",
-          "publishedOn": "2022-03-24T21:15:03.000Z",
-          "wordCount": 420,
-          "title": "The Chopping Block: Do Kwon Pitches a Decentralized NFT Publishing Service - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/03/UN333v2.jpg"
-        },
-        {
           "id": "https://p.mirror.xyz/VlaQ_fH2NNXh0MNyhj4CI13wX8zwJ6boctVpagApPLc",
           "author": null,
           "description": "Thoughts on DAO Tooling",
@@ -194,16 +204,6 @@
           "wordCount": 2769,
           "title": "Thoughts on DAO Tooling",
           "imageUrl": "https://images.mirror-media.xyz/publication-images/sEm87-P3mp-DqxK3yKfW_.png?height=1600&width=3200"
-        },
-        {
-          "id": "https://www.paradigm.xyz/2022/03/token-compensation-a-brief-explainer-for-job-candidates",
-          "author": null,
-          "description": "Token compensation: a brief explainer for job candidates - Paradigm",
-          "link": "https://www.paradigm.xyz/2022/03/token-compensation-a-brief-explainer-for-job-candidates",
-          "publishedOn": "2022-03-24T19:00:04.000Z",
-          "wordCount": 891,
-          "title": "Token compensation: a brief explainer for job candidates - Paradigm",
-          "imageUrl": "https://paradigm-xyz.vercel.app/meta.png"
         }
       ]
     }
