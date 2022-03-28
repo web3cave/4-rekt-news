@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://play.decentraland.org/?island=Irdaj&position=103,76&realm=athena&utm_source=837x&utm_medium=Twitter&utm_campaign=YouMake+It+(Take+The+lead)",
+          "author": null,
+          "description": "Decentraland",
+          "link": "https://play.decentraland.org/?island=Irdaj&position=103,76&realm=athena&utm_source=837x&utm_medium=Twitter&utm_campaign=YouMake+It+(Take+The+lead)",
+          "publishedOn": "2022-03-28T11:00:03.000Z",
+          "wordCount": 34,
+          "title": "Decentraland",
+          "imageUrl": "https://cdn.decentraland.org/@dcl/explorer-website/0.0.1-2023348578.commit-812ea19/images/background-v3@1x.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/commodities/evs-are-cheaper-refueling-gas-cars-caveats-persist",
           "author": null,
           "description": "EVs Are Cheaper Than Refueling Gas Cars But Caveats Persist  | ZeroHedge",
@@ -64,16 +74,6 @@
           "wordCount": null,
           "title": "Akon - Smack That (Official Music Video) ft. Eminem",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c?gi=b2f0b6b45939",
-          "author": null,
-          "description": "Making your voice heard ahead of Thursday’s critical EU vote",
-          "link": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c?gi=b2f0b6b45939",
-          "publishedOn": "2022-03-28T06:00:02.000Z",
-          "wordCount": 774,
-          "title": "Making your voice heard ahead of Thursday’s critical EU vote",
-          "imageUrl": "https://miro.medium.com/max/1200/1*VwuvJGvn2gaLkvyhL9L-ng.png"
         },
         {
           "id": "https://starkware.co/starkex/",
@@ -191,7 +191,7 @@
           "description": "Postmortem: Cashio Hack",
           "link": "https://medium.com/@saberlabs/postmortem-cashio-hack-ecaf45301f48",
           "publishedOn": "2022-03-27T13:00:03.000Z",
-          "wordCount": 499,
+          "wordCount": 396,
           "title": "Postmortem: Cashio Hack",
           "imageUrl": null
         },
