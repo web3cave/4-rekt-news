@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.twitch.tv/videos/1439151375",
+          "author": null,
+          "description": "Interview & Chess w/ Su Zhu | Powered by !Deribit | #sponsored - botezlive on Twitch",
+          "link": "https://www.twitch.tv/videos/1439151375",
+          "publishedOn": "2022-03-29T18:00:03.000Z",
+          "wordCount": 1,
+          "title": "Interview & Chess w/ Su Zhu | Powered by !Deribit | #sponsored - botezlive on Twitch",
+          "imageUrl": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/06d8c683b4a52a563f67_botezlive_61003870597_9915131352//thumb/thumb1439151375-640x360.jpg"
+        },
+        {
+          "id": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
+          "author": null,
+          "description": "A Decentralized Escape Hatch for DAOs",
+          "link": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
+          "publishedOn": "2022-03-29T18:00:03.000Z",
+          "wordCount": 1303,
+          "title": "A Decentralized Escape Hatch for DAOs",
+          "imageUrl": "https://hackingdistributed.com/images/2016-bitcoin/hatch2.jpg"
+        },
+        {
+          "id": "https://venturebeat.com/2022/03/29/hackers-steal-620m-in-ethereum-and-dollars-in-axie-infinity-maker-sky-mavis-ronin-network/",
+          "author": null,
+          "description": "Hackers steal $620M in Ethereum and dollars from Axie Infinity maker Sky Mavis’ Ronin network",
+          "link": "https://venturebeat.com/2022/03/29/hackers-steal-620m-in-ethereum-and-dollars-in-axie-infinity-maker-sky-mavis-ronin-network/",
+          "publishedOn": "2022-03-29T18:00:02.000Z",
+          "wordCount": 1972,
+          "title": "Hackers steal $620M in Ethereum and dollars from Axie Infinity maker Sky Mavis’ Ronin network",
+          "imageUrl": "https://venturebeat.com/wp-content/uploads/2021/05/axie.jpg?w=1200&strip=all"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "author": null,
           "description": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "link": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "publishedOn": "2022-03-29T17:00:03.000Z",
-          "wordCount": 1027,
+          "wordCount": 1035,
           "title": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "imageUrl": "https://www.coindesk.com/resizer/gCvETk4I_5CYMBnnDJ6UXVIz2WY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVGWXOXSHVAIFGKL3IXJES7ZBM.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "Community Alert: Ronin Validators Compromised",
           "link": "https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w",
           "publishedOn": "2022-03-29T17:00:02.000Z",
-          "wordCount": 1154,
+          "wordCount": 1166,
           "title": "Community Alert: Ronin Validators Compromised",
           "imageUrl": null
         },
@@ -31,7 +61,7 @@
           "description": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "link": "https://www.amazon.com/dp/B08Z18GWD6/ref=nodl_?ref_=k4w_ss_store_lp&tag=ttrvin-20",
           "publishedOn": "2022-03-29T15:00:03.000Z",
-          "wordCount": null,
+          "wordCount": 3963,
           "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "imageUrl": null
         },
@@ -61,7 +91,7 @@
           "description": "How the FBI made its first NFT “rug pull” bust",
           "link": "https://www.businessofbusiness.com/articles/how-the-fbi-made-its-first-nft-rug-pull-bust-just-in-time-to-save-other-victims-from-the-same-fate/",
           "publishedOn": "2022-03-29T09:00:03.000Z",
-          "wordCount": 2296,
+          "wordCount": 2291,
           "title": "How the FBI made its first NFT “rug pull” bust",
           "imageUrl": "https://static.media.thinknum.com/media/blog/image/.thumbnails/B2_Frosites_Rugpull_featured-NTq7Si3q.jpg/B2_Frosites_Rugpull_featured-NTq7Si3q-770x400.jpg"
         },
@@ -101,7 +131,7 @@
           "description": "Mark Karpeles announces commemorative NFT drop for Mt. Gox users",
           "link": "https://cointelegraph.com/news/mark-karpeles-announces-commemorative-nft-drop-for-mt-gox-users",
           "publishedOn": "2022-03-29T03:30:02.000Z",
-          "wordCount": 954,
+          "wordCount": 951,
           "title": "Mark Karpeles announces commemorative NFT drop for Mt. Gox users",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvMGQyYTZmZWMtNzE5Ni00OTk2LTg5NDUtNDY4MDZmODA5NGIzLmpwZw==.jpg"
         },
@@ -126,16 +156,6 @@
           "imageUrl": "https://media.kaspersky.com/en/kaspersky.png"
         },
         {
-          "id": "https://anchor.fm/i-pledge-allegiance/episodes/Getty-Hill-on-whether-Uniswap-should-turn-on-Protocol-Fees-e1gce8k",
-          "author": null,
-          "description": "Getty Hill on whether Uniswap should turn on Protocol Fees by I Pledge Allegiance",
-          "link": "https://anchor.fm/i-pledge-allegiance/episodes/Getty-Hill-on-whether-Uniswap-should-turn-on-Protocol-Fees-e1gce8k",
-          "publishedOn": "2022-03-28T23:00:02.000Z",
-          "wordCount": 2685,
-          "title": "Getty Hill on whether Uniswap should turn on Protocol Fees by I Pledge Allegiance",
-          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/17756985/17756985-1632445974532-472303af88c35.jpg"
-        },
-        {
           "id": "https://anchor.fm/digitallyrare/episodes/Disco-A-Digital-Backpack-For-the-LARP-That-Is-Your-Life-e1gcqff",
           "author": null,
           "description": "Disco: A Digital Backpack For the LARP That Is Your Life by Digitally Rare",
@@ -146,16 +166,6 @@
           "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1909369/fab10bcacdd3458e.jpeg"
         },
         {
-          "id": "https://nftychat.xyz/",
-          "author": null,
-          "description": "nfty chat – Web3 Communities Coming Together",
-          "link": "https://nftychat.xyz/",
-          "publishedOn": "2022-03-28T21:00:03.000Z",
-          "wordCount": 11,
-          "title": "nfty chat – Web3 Communities Coming Together",
-          "imageUrl": "https://nftychat.xyz/public/thumbnail.png"
-        },
-        {
           "id": "https://mirror.xyz/blurdao.eth/4V0dY_-ob5rBxl664deMASnH2wRsgcrGS20lpdurBa0",
           "author": null,
           "description": "We raised $11m to build the best NFT marketplace for Pro traders",
@@ -164,16 +174,6 @@
           "wordCount": 284,
           "title": "We raised $11m to build the best NFT marketplace for Pro traders",
           "imageUrl": "https://mirror-media.imgix.net/nft/qV48y3s9GzATrjs5vWvXU.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and?s=w",
-          "author": null,
-          "description": "The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
-          "link": "https://shows.banklesshq.com/p/the-pow-vs-pos-debate-lyn-alden-and?s=w",
-          "publishedOn": "2022-03-28T19:00:02.000Z",
-          "wordCount": 517,
-          "title": "The PoW vs. PoS Debate | Lyn Alden & Justin Drake",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa75ceae-848b-4335-a476-0db49de848d7_2061x1159.jpeg"
         },
         {
           "id": "https://www.sec.gov/rules/proposed/2022/34-94524.pdf",
