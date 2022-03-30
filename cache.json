@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum.org/en/",
+          "author": null,
+          "description": "Home | ethereum.org",
+          "link": "https://ethereum.org/en/",
+          "publishedOn": "2022-03-30T11:30:04.000Z",
+          "wordCount": 1211,
+          "title": "Home | ethereum.org",
+          "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+        },
+        {
           "id": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=buffer61181&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
           "author": null,
           "description": "Bitcoin consumes more power than all these countries",
@@ -34,16 +44,6 @@
           "wordCount": 2961,
           "title": "bips/bip-0001.mediawiki at master · bitcoin/bips",
           "imageUrl": "https://opengraph.githubassets.com/35277ca88c3961563db3f185d525b5e15bb88d499474cd59528cb3a27cddfb96/bitcoin/bips"
-        },
-        {
-          "id": "https://www.lopp.net/bitcoin-information.html",
-          "author": null,
-          "description": "Jameson Lopp's Bitcoin Resources",
-          "link": "https://www.lopp.net/bitcoin-information.html",
-          "publishedOn": "2022-03-30T04:00:02.000Z",
-          "wordCount": 1366,
-          "title": "Jameson Lopp's Bitcoin Resources",
-          "imageUrl": "https://www.lopp.net/images/avatar.jpg"
         },
         {
           "id": "https://www.theblockcrypto.com/linked/137495/robinhoods-top-crypto-exec-is-leaving-sources-say",
@@ -191,7 +191,7 @@
           "description": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "link": "https://www.amazon.com/dp/B08Z18GWD6/ref=nodl_?ref_=k4w_ss_store_lp&tag=ttrvin-20",
           "publishedOn": "2022-03-29T15:00:03.000Z",
-          "wordCount": 3931,
+          "wordCount": null,
           "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "imageUrl": null
         },
