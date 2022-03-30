@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mMTfulMH6t0",
+          "author": null,
+          "description": "Let’s Do Neo QLED 8K #UnboxAndDiscover | Samsung",
+          "link": "https://www.youtube.com/watch?v=mMTfulMH6t0",
+          "publishedOn": "2022-03-30T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Let’s Do Neo QLED 8K #UnboxAndDiscover | Samsung",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.bitcoin.com/540-million-sleeping-bitcoins-2014-move-btc-possibly-linked-to-cryptsy-theft/",
+          "author": null,
+          "description": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
+          "link": "https://news.bitcoin.com/540-million-sleeping-bitcoins-2014-move-btc-possibly-linked-to-cryptsy-theft/",
+          "publishedOn": "2022-03-30T15:30:06.000Z",
+          "wordCount": 1595,
+          "title": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
+          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/03/shutterstock_1927528952.jpg"
+        },
+        {
           "id": "https://ethereum.org/en/",
           "author": null,
           "description": "Home | ethereum.org",
@@ -31,19 +51,9 @@
           "description": "The Infinite Exploitation Of Cryptocurrency",
           "link": "https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency",
           "publishedOn": "2022-03-30T10:00:03.000Z",
-          "wordCount": 2205,
+          "wordCount": 2208,
           "title": "The Infinite Exploitation Of Cryptocurrency",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFO5yLPDXsAIVHD4.jpg"
-        },
-        {
-          "id": "https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/",
-          "author": null,
-          "description": "Hackers Gaining Power of Subpoena Via Fake “Emergency Data Requests” – Krebs on Security",
-          "link": "https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/",
-          "publishedOn": "2022-03-30T09:00:03.000Z",
-          "wordCount": 4320,
-          "title": "Hackers Gaining Power of Subpoena Via Fake “Emergency Data Requests” – Krebs on Security",
-          "imageUrl": null
         },
         {
           "id": "https://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html",
@@ -121,7 +131,7 @@
           "description": "What Is Ripple and the XRP Cryptocurrency?",
           "link": "https://www.coindesk.com/learn/what-is-ripple-and-the-xrp-cryptocurrency/",
           "publishedOn": "2022-03-29T21:00:02.000Z",
-          "wordCount": 1863,
+          "wordCount": 1870,
           "title": "What Is Ripple and the XRP Cryptocurrency?",
           "imageUrl": "https://www.coindesk.com/resizer/MYsRZ1Tpry2gC2YfvFu4U3ftl9o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WCC5U5NE6RCXFKGRCF2BU47WUM.jpg"
         },
@@ -151,19 +161,9 @@
           "description": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
           "link": "https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/",
           "publishedOn": "2022-03-29T20:00:03.000Z",
-          "wordCount": 775,
+          "wordCount": 782,
           "title": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
           "imageUrl": "https://www.coindesk.com/resizer/Y8hH9QrMaV5uXdgy7kr6EXGcyUY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZSHUSA43JBWHP4AJWLCALJNPY.jpg"
-        },
-        {
-          "id": "https://cow-protocol.medium.com/cowdao-closes-a-23m-investment-round-9b841abcdbbe",
-          "author": null,
-          "description": "CoWDAO closes a $23M investment round",
-          "link": "https://cow-protocol.medium.com/cowdao-closes-a-23m-investment-round-9b841abcdbbe",
-          "publishedOn": "2022-03-29T19:00:02.000Z",
-          "wordCount": 804,
-          "title": "CoWDAO closes a $23M investment round",
-          "imageUrl": "https://miro.medium.com/max/1200/1*q1C8dRorDOdVougnXaSDCw.png"
         },
         {
           "id": "https://www.gemini.com/blog/gemini-now-supports-maple-finance-mpl-defi-pulse-index-dpi-index-cooperative",
@@ -191,7 +191,7 @@
           "description": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "link": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "publishedOn": "2022-03-29T17:00:03.000Z",
-          "wordCount": 1028,
+          "wordCount": 1035,
           "title": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "imageUrl": "https://www.coindesk.com/resizer/gCvETk4I_5CYMBnnDJ6UXVIz2WY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVGWXOXSHVAIFGKL3IXJES7ZBM.jpg"
         },
