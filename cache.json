@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ava-labs/avalanchego/releases/tag/v1.7.9",
+          "author": null,
+          "description": "Release Apricot Phase 5 - Patch 9 · ava-labs/avalanchego",
+          "link": "https://github.com/ava-labs/avalanchego/releases/tag/v1.7.9",
+          "publishedOn": "2022-03-30T01:00:03.000Z",
+          "wordCount": 371,
+          "title": "Release Apricot Phase 5 - Patch 9 · ava-labs/avalanchego",
+          "imageUrl": "https://opengraph.githubassets.com/a7d7f49a7796d4fc2a0979699c557e4d8160c580be92aacf231fa2ae1df19f45/ava-labs/avalanchego/releases/tag/v1.7.9"
+        },
+        {
+          "id": "https://vitalik.ca/general/2022/03/29/road.html",
+          "author": null,
+          "description": "The roads not taken",
+          "link": "https://vitalik.ca/general/2022/03/29/road.html",
+          "publishedOn": "2022-03-30T01:00:02.000Z",
+          "wordCount": 3109,
+          "title": "The roads not taken",
+          "imageUrl": null
+        },
+        {
           "id": "https://metaversal.banklesshq.com/p/analyzing-the-ronin-bridge-hack?s=w",
           "author": null,
           "description": "Analyzing the Ronin bridge hack",
@@ -31,7 +51,7 @@
           "description": "What Is Ripple and the XRP Cryptocurrency?",
           "link": "https://www.coindesk.com/learn/what-is-ripple-and-the-xrp-cryptocurrency/",
           "publishedOn": "2022-03-29T21:00:02.000Z",
-          "wordCount": 1874,
+          "wordCount": 1869,
           "title": "What Is Ripple and the XRP Cryptocurrency?",
           "imageUrl": "https://www.coindesk.com/resizer/MYsRZ1Tpry2gC2YfvFu4U3ftl9o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WCC5U5NE6RCXFKGRCF2BU47WUM.jpg"
         },
@@ -43,7 +63,7 @@
           "publishedOn": "2022-03-29T21:00:02.000Z",
           "wordCount": 2961,
           "title": "bips/bip-0001.mediawiki at master · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/566cb12f3d0bd608ca0c54ac78b1d3eac7dccd55f780c35db2db8ffb102c9cff/bitcoin/bips"
+          "imageUrl": "https://opengraph.githubassets.com/ac6498ca85f6a3b22878b18c9ee03f74043bcf2bfe56e0edcaeeedd87cb4b4ca/bitcoin/bips"
         },
         {
           "id": "https://www.youtube.com/watch?v=efYdMSfUPXs&feature=youtu.be",
@@ -66,6 +86,16 @@
           "imageUrl": "https://jeffkoonsmoonphases.com/share.jpg"
         },
         {
+          "id": "https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/",
+          "author": null,
+          "description": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
+          "link": "https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/",
+          "publishedOn": "2022-03-29T20:00:03.000Z",
+          "wordCount": 703,
+          "title": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
+          "imageUrl": "https://www.coindesk.com/resizer/Y8hH9QrMaV5uXdgy7kr6EXGcyUY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZSHUSA43JBWHP4AJWLCALJNPY.jpg"
+        },
+        {
           "id": "https://www.axios.com/scoop-onlyfans-wants-to-go-public-7fe6c806-5720-47a7-b11c-49f551f70545.html",
           "author": null,
           "description": "Scoop: OnlyFans wants to go public through a SPAC",
@@ -86,24 +116,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*q1C8dRorDOdVougnXaSDCw.png"
         },
         {
-          "id": "https://www.cleanupbitcoin.com/",
+          "id": "https://cleanupbitcoin.com/",
           "author": null,
           "description": "Bitcoin. Change the code, not the climate.",
-          "link": "https://www.cleanupbitcoin.com/",
+          "link": "https://cleanupbitcoin.com/",
           "publishedOn": "2022-03-29T18:30:03.000Z",
           "wordCount": 825,
           "title": "Bitcoin. Change the code, not the climate.",
           "imageUrl": "https://cleanupbitcoin.com/og/og_image.png"
-        },
-        {
-          "id": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
-          "author": null,
-          "description": "A Decentralized Escape Hatch for DAOs",
-          "link": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
-          "publishedOn": "2022-03-29T18:00:03.000Z",
-          "wordCount": 1303,
-          "title": "A Decentralized Escape Hatch for DAOs",
-          "imageUrl": "https://hackingdistributed.com/images/2016-bitcoin/hatch2.jpg"
         },
         {
           "id": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
@@ -111,7 +131,7 @@
           "description": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "link": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "publishedOn": "2022-03-29T17:00:03.000Z",
-          "wordCount": 1040,
+          "wordCount": 1032,
           "title": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "imageUrl": "https://www.coindesk.com/resizer/gCvETk4I_5CYMBnnDJ6UXVIz2WY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVGWXOXSHVAIFGKL3IXJES7ZBM.jpg"
         },
@@ -131,7 +151,7 @@
           "description": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "link": "https://www.amazon.com/dp/B08Z18GWD6/ref=nodl_?ref_=k4w_ss_store_lp&tag=ttrvin-20",
           "publishedOn": "2022-03-29T15:00:03.000Z",
-          "wordCount": 4062,
+          "wordCount": 3973,
           "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "imageUrl": null
         },
@@ -151,7 +171,7 @@
           "description": "Making your voice heard ahead of Thursday’s critical EU vote",
           "link": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c?gi=b2f0b6b45939",
           "publishedOn": "2022-03-29T10:00:02.000Z",
-          "wordCount": 851,
+          "wordCount": 860,
           "title": "Making your voice heard ahead of Thursday’s critical EU vote",
           "imageUrl": "https://miro.medium.com/max/1200/1*VwuvJGvn2gaLkvyhL9L-ng.png"
         },
@@ -166,32 +186,12 @@
           "imageUrl": "https://static.media.thinknum.com/media/blog/image/.thumbnails/B2_Frosites_Rugpull_featured-NTq7Si3q.jpg/B2_Frosites_Rugpull_featured-NTq7Si3q-770x400.jpg"
         },
         {
-          "id": "https://aswathdamodaran.blogspot.com/2022/03/esgs-russia-test-moment-to-shine-or.html",
-          "author": null,
-          "description": "ESG's Russia Test: Trial by Fire or Crash and Burn?",
-          "link": "https://aswathdamodaran.blogspot.com/2022/03/esgs-russia-test-moment-to-shine-or.html",
-          "publishedOn": "2022-03-29T05:00:03.000Z",
-          "wordCount": 4256,
-          "title": "ESG's Russia Test: Trial by Fire or Crash and Burn?",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJoVwtVC1UZKSKRPyka7-i_56ikU4lw9y_pW8R46hhVoIVeu_hynsvvdkCzh0luWmO9pf7CvJT8ZPcOG_5JL2PZY7JiFdgD0Gr2Wc0PJeQetikWA16Mv9v8z481aOZPDdjaB-8PPZxFN-ffO5on9-9sDCutf-jH9SgDliJQ5rt9RAiKBTVSOjXc9rN/w1200-h630-p-k-no-nu/LevESG.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XGjXWIAF2mU&feature=youtu.be",
-          "author": null,
-          "description": "PARALLEL Game Basics - Rules & Mechanics",
-          "link": "https://www.youtube.com/watch?v=XGjXWIAF2mU&feature=youtu.be",
-          "publishedOn": "2022-03-29T05:00:03.000Z",
-          "wordCount": null,
-          "title": "PARALLEL Game Basics - Rules & Mechanics",
-          "imageUrl": null
-        },
-        {
           "id": "https://cointelegraph.com/news/mark-karpeles-announces-commemorative-nft-drop-for-mt-gox-users",
           "author": null,
           "description": "Mark Karpeles announces commemorative NFT drop for Mt. Gox users",
           "link": "https://cointelegraph.com/news/mark-karpeles-announces-commemorative-nft-drop-for-mt-gox-users",
           "publishedOn": "2022-03-29T03:30:02.000Z",
-          "wordCount": 950,
+          "wordCount": 944,
           "title": "Mark Karpeles announces commemorative NFT drop for Mt. Gox users",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvMGQyYTZmZWMtNzE5Ni00OTk2LTg5NDUtNDY4MDZmODA5NGIzLmpwZw==.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "When Nokia Pulled Out of Russia, a Vast Surveillance System Remained",
           "link": "https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html",
           "publishedOn": "2022-03-28T13:00:02.000Z",
-          "wordCount": 2307,
+          "wordCount": 2299,
           "title": "When Nokia Pulled Out of Russia, a Vast Surveillance System Remained",
           "imageUrl": "https://static01.nyt.com/images/2022/03/23/business/00russia-surveillance1/00russia-surveillance1-facebookJumbo.jpg"
         }
