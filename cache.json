@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki",
-          "author": null,
-          "description": "bips/bip-0001.mediawiki at master · bitcoin/bips",
-          "link": "https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki",
-          "publishedOn": "2022-03-30T02:30:03.000Z",
-          "wordCount": 2961,
-          "title": "bips/bip-0001.mediawiki at master · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/ac6498ca85f6a3b22878b18c9ee03f74043bcf2bfe56e0edcaeeedd87cb4b4ca/bitcoin/bips"
-        },
-        {
           "id": "https://dflow.net/blog/announce-seed",
           "author": null,
           "description": "Announcing our $2M Seed Round Raise Co-Led by Multicoin Capital and Framework Ventures | DFlow Blog",
@@ -136,6 +126,16 @@
           "imageUrl": "https://cleanupbitcoin.com/og/og_image.png"
         },
         {
+          "id": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
+          "author": null,
+          "description": "A Decentralized Escape Hatch for DAOs",
+          "link": "https://hackingdistributed.com/2016/07/11/decentralized-escape-hatches-for-smart-contracts/",
+          "publishedOn": "2022-03-29T18:00:03.000Z",
+          "wordCount": 1303,
+          "title": "A Decentralized Escape Hatch for DAOs",
+          "imageUrl": "https://hackingdistributed.com/images/2016-bitcoin/hatch2.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "author": null,
           "description": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
@@ -161,7 +161,7 @@
           "description": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "link": "https://www.amazon.com/dp/B08Z18GWD6/ref=nodl_?ref_=k4w_ss_store_lp&tag=ttrvin-20",
           "publishedOn": "2022-03-29T15:00:03.000Z",
-          "wordCount": 4044,
+          "wordCount": 3904,
           "title": "The Blocksize War: The battle for control over Bitcoin’s protocol rules eBook : Bier, Jonathan",
           "imageUrl": null
         },
