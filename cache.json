@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://protectdefi.org/",
+          "author": null,
+          "description": "Email a comment to the SEC",
+          "link": "https://protectdefi.org/",
+          "publishedOn": "2022-03-30T17:00:03.000Z",
+          "wordCount": 1391,
+          "title": "Email a comment to the SEC",
+          "imageUrl": "https://dontmakeitworse.files.wordpress.com/2022/03/featured-3.jpg"
+        },
+        {
+          "id": "https://medium.com/nifty-gateway/nifty-gateway-x-samsung-electronics-is-here-96b3a4c8ed98",
+          "author": null,
+          "description": "Nifty Gateway x Samsung Electronics is here!",
+          "link": "https://medium.com/nifty-gateway/nifty-gateway-x-samsung-electronics-is-here-96b3a4c8ed98",
+          "publishedOn": "2022-03-30T17:00:03.000Z",
+          "wordCount": 483,
+          "title": "Nifty Gateway x Samsung Electronics is here!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*kqAWDaacGO9LQu2y30Yozw.png"
+        },
+        {
+          "id": "https://www.paradigm.xyz/2022/03/foundry-02",
+          "author": null,
+          "description": "Announcing Foundry v0.2.0 - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/03/foundry-02",
+          "publishedOn": "2022-03-30T17:00:02.000Z",
+          "wordCount": 2476,
+          "title": "Announcing Foundry v0.2.0 - Paradigm",
+          "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.png"
+        },
+        {
+          "id": "https://adamlevy.io/2022/03/29/the-collectors-guide-to-music-nfts-owning-vs-patronage/",
+          "author": null,
+          "description": "The Collector’s Guide To Music NFTs: Owning vs. Patronage",
+          "link": "https://adamlevy.io/2022/03/29/the-collectors-guide-to-music-nfts-owning-vs-patronage/",
+          "publishedOn": "2022-03-30T16:30:03.000Z",
+          "wordCount": 11704,
+          "title": "The Collector’s Guide To Music NFTs: Owning vs. Patronage",
+          "imageUrl": "https://adamlevy.io/wp-content/uploads/2022/03/The-Collectors-Guide-To-Music-NFTs-Owning-vs.-Patronage-Justin-Blau-Adam-Levy-Mint.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mMTfulMH6t0",
           "author": null,
           "description": "Let’s Do Neo QLED 8K #UnboxAndDiscover | Samsung",
@@ -21,9 +61,19 @@
           "description": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
           "link": "https://news.bitcoin.com/540-million-sleeping-bitcoins-2014-move-btc-possibly-linked-to-cryptsy-theft/",
           "publishedOn": "2022-03-30T15:30:06.000Z",
-          "wordCount": 1595,
+          "wordCount": 1619,
           "title": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/03/shutterstock_1927528952.jpg"
+        },
+        {
+          "id": "https://insights.deribit.com/market-research/the-future-of-on-chain-trading/",
+          "author": null,
+          "description": "The Future of On-Chain Trading - Deribit Insights",
+          "link": "https://insights.deribit.com/market-research/the-future-of-on-chain-trading/",
+          "publishedOn": "2022-03-30T15:30:06.000Z",
+          "wordCount": 1515,
+          "title": "The Future of On-Chain Trading - Deribit Insights",
+          "imageUrl": "https://insights.deribit.com/wp-content/uploads/2022/03/The-Future-of-On-Chain-Trading.jpg"
         },
         {
           "id": "https://ethereum.org/en/",
@@ -51,29 +101,9 @@
           "description": "The Infinite Exploitation Of Cryptocurrency",
           "link": "https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency",
           "publishedOn": "2022-03-30T10:00:03.000Z",
-          "wordCount": 2208,
+          "wordCount": 2218,
           "title": "The Infinite Exploitation Of Cryptocurrency",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFO5yLPDXsAIVHD4.jpg"
-        },
-        {
-          "id": "https://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html",
-          "author": null,
-          "description": "A Brief Overview of Auditing XCMv2",
-          "link": "https://blog.quarkslab.com/a-brief-overview-of-auditing-xcmv2.html",
-          "publishedOn": "2022-03-30T08:00:03.000Z",
-          "wordCount": 1928,
-          "title": "A Brief Overview of Auditing XCMv2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki",
-          "author": null,
-          "description": "bips/bip-0001.mediawiki at master · bitcoin/bips",
-          "link": "https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki",
-          "publishedOn": "2022-03-30T07:00:03.000Z",
-          "wordCount": 2961,
-          "title": "bips/bip-0001.mediawiki at master · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/3a31558943b481f043ba5c65c8f13e53d1d63f3b69e9a8dcb93da78a208f21b2/bitcoin/bips"
         },
         {
           "id": "https://www.theblockcrypto.com/linked/137495/robinhoods-top-crypto-exec-is-leaving-sources-say",
@@ -131,7 +161,7 @@
           "description": "What Is Ripple and the XRP Cryptocurrency?",
           "link": "https://www.coindesk.com/learn/what-is-ripple-and-the-xrp-cryptocurrency/",
           "publishedOn": "2022-03-29T21:00:02.000Z",
-          "wordCount": 1870,
+          "wordCount": 1873,
           "title": "What Is Ripple and the XRP Cryptocurrency?",
           "imageUrl": "https://www.coindesk.com/resizer/MYsRZ1Tpry2gC2YfvFu4U3ftl9o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WCC5U5NE6RCXFKGRCF2BU47WUM.jpg"
         },
@@ -146,44 +176,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.jeffkoonsmoonphases.com/",
-          "author": null,
-          "description": "Jeff Koons Moon Phases",
-          "link": "https://www.jeffkoonsmoonphases.com/",
-          "publishedOn": "2022-03-29T20:00:03.000Z",
-          "wordCount": 39,
-          "title": "Jeff Koons Moon Phases",
-          "imageUrl": "https://jeffkoonsmoonphases.com/share.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/",
           "author": null,
           "description": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
           "link": "https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/",
           "publishedOn": "2022-03-29T20:00:03.000Z",
-          "wordCount": 782,
+          "wordCount": 785,
           "title": "Axie Infinity’s Ronin Network Suffers $625M Exploit",
           "imageUrl": "https://www.coindesk.com/resizer/Y8hH9QrMaV5uXdgy7kr6EXGcyUY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QZSHUSA43JBWHP4AJWLCALJNPY.jpg"
-        },
-        {
-          "id": "https://www.gemini.com/blog/gemini-now-supports-maple-finance-mpl-defi-pulse-index-dpi-index-cooperative",
-          "author": null,
-          "description": "Gemini Now Supports Maple Finance (MPL), DeFi Pulse Index (DPI), Index Cooperative (INDEX), and More | Gemini",
-          "link": "https://www.gemini.com/blog/gemini-now-supports-maple-finance-mpl-defi-pulse-index-dpi-index-cooperative",
-          "publishedOn": "2022-03-29T19:00:02.000Z",
-          "wordCount": 1260,
-          "title": "Gemini Now Supports Maple Finance (MPL), DeFi Pulse Index (DPI), Index Cooperative (INDEX), and More | Gemini",
-          "imageUrl": "https://images.ctfassets.net/jg6lo9a2ukvr/2G0IgKT9OqsKI1dhymwFvi/bfbf6060b6e99a917d155433480f8c8e/Blog_Header_Bulbasaur-1.png"
-        },
-        {
-          "id": "https://www.cleanupbitcoin.com/",
-          "author": null,
-          "description": "Bitcoin. Change the code, not the climate.",
-          "link": "https://www.cleanupbitcoin.com/",
-          "publishedOn": "2022-03-29T18:30:03.000Z",
-          "wordCount": 825,
-          "title": "Bitcoin. Change the code, not the climate.",
-          "imageUrl": "https://cleanupbitcoin.com/og/og_image.png"
         },
         {
           "id": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
@@ -191,7 +191,7 @@
           "description": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "link": "https://www.coindesk.com/business/2022/03/29/delphi-digital-leads-5m-seed-round-for-money-market-protocol-zklend/",
           "publishedOn": "2022-03-29T17:00:03.000Z",
-          "wordCount": 1035,
+          "wordCount": 1040,
           "title": "Delphi Digital Leads $5M Seed Round for Money Market Protocol ZkLend",
           "imageUrl": "https://www.coindesk.com/resizer/gCvETk4I_5CYMBnnDJ6UXVIz2WY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVGWXOXSHVAIFGKL3IXJES7ZBM.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Community Alert: Ronin Validators Compromised",
           "link": "https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w",
           "publishedOn": "2022-03-29T17:00:02.000Z",
-          "wordCount": 1122,
+          "wordCount": 1120,
           "title": "Community Alert: Ronin Validators Compromised",
           "imageUrl": null
         }
