@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PT72hAbm2Eo&feature=youtu.be",
+          "author": null,
+          "description": "DeFi - Past, Present and Future",
+          "link": "https://www.youtube.com/watch?v=PT72hAbm2Eo&feature=youtu.be",
+          "publishedOn": "2022-03-31T01:00:03.000Z",
+          "wordCount": null,
+          "title": "DeFi - Past, Present and Future",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/",
+          "author": null,
+          "description": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
+          "link": "https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/",
+          "publishedOn": "2022-03-31T00:30:02.000Z",
+          "wordCount": 2423,
+          "title": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
+          "imageUrl": "https://www.coindesk.com/resizer/a7Z10AoYMSBY9dv79YcVpWh1CRI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/43JJZ2Z5D5FTBEGAJL2EYDUD34.jpg"
+        },
+        {
+          "id": "https://vitalik.ca/general/2020/03/21/garbled.html",
+          "author": null,
+          "description": "A Quick Garbled Circuits Primer",
+          "link": "https://vitalik.ca/general/2020/03/21/garbled.html",
+          "publishedOn": "2022-03-31T00:30:02.000Z",
+          "wordCount": 1871,
+          "title": "A Quick Garbled Circuits Primer",
+          "imageUrl": null
+        },
+        {
           "id": "https://newsletter.banklesshq.com/p/4-misconceptions-about-pos-vs-pow?s=w",
           "author": null,
           "description": "4 Misconceptions about PoS vs PoW",
           "link": "https://newsletter.banklesshq.com/p/4-misconceptions-about-pos-vs-pow?s=w",
           "publishedOn": "2022-03-30T23:00:02.000Z",
-          "wordCount": 3873,
+          "wordCount": 3888,
           "title": "4 Misconceptions about PoS vs PoW",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff9c276d-9de6-480a-a5b2-ad08ef1faca8_2667x1500.jpeg"
-        },
-        {
-          "id": "https://www.ft.com/content/f18cf835-02a0-44ff-875f-7de7facba54e",
-          "author": null,
-          "description": "A new world of currency disorder looms",
-          "link": "https://www.ft.com/content/f18cf835-02a0-44ff-875f-7de7facba54e",
-          "publishedOn": "2022-03-30T21:30:02.000Z",
-          "wordCount": 1045,
-          "title": "A new world of currency disorder looms",
-          "imageUrl": null
         },
         {
           "id": "https://www.coindesk.com/policy/2022/03/29/new-jersey-orders-voyager-digital-to-cease-and-desist-crypto-interest-offering/",
@@ -31,7 +51,7 @@
           "description": "New Jersey Orders Voyager Digital to 'Cease and Desist' Crypto Interest Offering",
           "link": "https://www.coindesk.com/policy/2022/03/29/new-jersey-orders-voyager-digital-to-cease-and-desist-crypto-interest-offering/",
           "publishedOn": "2022-03-30T21:00:02.000Z",
-          "wordCount": 954,
+          "wordCount": 953,
           "title": "New Jersey Orders Voyager Digital to 'Cease and Desist' Crypto Interest Offering",
           "imageUrl": "https://www.coindesk.com/resizer/ik3yzTKB5WePHh6yZU2Y-5La4Ho=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GJF4UDC2LNGK3ERMFCXNYPNSDM.png"
         },
@@ -116,6 +136,16 @@
           "imageUrl": "https://dontmakeitworse.files.wordpress.com/2022/03/featured-3.jpg"
         },
         {
+          "id": "https://medium.com/nifty-gateway/nifty-gateway-x-samsung-electronics-is-here-96b3a4c8ed98",
+          "author": null,
+          "description": "Nifty Gateway x Samsung Electronics is here!",
+          "link": "https://medium.com/nifty-gateway/nifty-gateway-x-samsung-electronics-is-here-96b3a4c8ed98",
+          "publishedOn": "2022-03-30T17:00:03.000Z",
+          "wordCount": 483,
+          "title": "Nifty Gateway x Samsung Electronics is here!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*kqAWDaacGO9LQu2y30Yozw.png"
+        },
+        {
           "id": "https://www.paradigm.xyz/2022/03/foundry-02",
           "author": null,
           "description": "Announcing Foundry v0.2.0 - Paradigm",
@@ -126,12 +156,22 @@
           "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.jpg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=mMTfulMH6t0",
+          "author": null,
+          "description": "Let’s Do Neo QLED 8K #UnboxAndDiscover | Samsung",
+          "link": "https://www.youtube.com/watch?v=mMTfulMH6t0",
+          "publishedOn": "2022-03-30T16:00:03.000Z",
+          "wordCount": null,
+          "title": "Let’s Do Neo QLED 8K #UnboxAndDiscover | Samsung",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.bitcoin.com/540-million-sleeping-bitcoins-2014-move-btc-possibly-linked-to-cryptsy-theft/",
           "author": null,
           "description": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
           "link": "https://news.bitcoin.com/540-million-sleeping-bitcoins-2014-move-btc-possibly-linked-to-cryptsy-theft/",
           "publishedOn": "2022-03-30T15:30:06.000Z",
-          "wordCount": 1613,
+          "wordCount": 1612,
           "title": "$540 Million Worth of 'Sleeping Bitcoins' From 2014 Move — BTC Possibly Linked to Cryptsy Theft – Bitcoin News",
           "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/03/shutterstock_1927528952.jpg"
         },
@@ -146,26 +186,6 @@
           "imageUrl": "https://insights.deribit.com/wp-content/uploads/2022/03/The-Future-of-On-Chain-Trading.jpg"
         },
         {
-          "id": "https://ethereum.org/en/",
-          "author": null,
-          "description": "Home | ethereum.org",
-          "link": "https://ethereum.org/en/",
-          "publishedOn": "2022-03-30T11:30:04.000Z",
-          "wordCount": 1211,
-          "title": "Home | ethereum.org",
-          "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
-        },
-        {
-          "id": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=buffer61181&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "author": null,
-          "description": "Bitcoin consumes more power than all these countries",
-          "link": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=buffer61181&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "publishedOn": "2022-03-30T11:00:03.000Z",
-          "wordCount": 1602,
-          "title": "Bitcoin consumes more power than all these countries",
-          "imageUrl": "https://assets.weforum.org/editor/TAdVNkWNaRDYnOWWx4VaBRvEBdVnUKrsUU9VFRQslM4.jpg"
-        },
-        {
           "id": "https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency",
           "author": null,
           "description": "The Infinite Exploitation Of Cryptocurrency",
@@ -174,26 +194,6 @@
           "wordCount": 2217,
           "title": "The Infinite Exploitation Of Cryptocurrency",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFO5yLPDXsAIVHD4.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/linked/137495/robinhoods-top-crypto-exec-is-leaving-sources-say",
-          "author": null,
-          "description": "Robinhood's top crypto exec is leaving",
-          "link": "https://www.theblockcrypto.com/linked/137495/robinhoods-top-crypto-exec-is-leaving-sources-say",
-          "publishedOn": "2022-03-30T03:00:03.000Z",
-          "wordCount": null,
-          "title": "Robinhood's top crypto exec is leaving",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dflow.net/blog/announce-seed",
-          "author": null,
-          "description": "Announcing our $2M Seed Round Raise Co-Led by Multicoin Capital and Framework Ventures | DFlow Blog",
-          "link": "https://dflow.net/blog/announce-seed",
-          "publishedOn": "2022-03-30T02:00:03.000Z",
-          "wordCount": 296,
-          "title": "Announcing our $2M Seed Round Raise Co-Led by Multicoin Capital and Framework Ventures | DFlow Blog",
-          "imageUrl": "https://dflow.net/images/blog/bg-seed-round.jpg"
         },
         {
           "id": "https://vitalik.ca/general/2022/03/29/road.html",
