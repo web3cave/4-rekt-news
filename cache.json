@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://analytics.synapseprotocol.com/",
+          "author": null,
+          "description": "Synapse Analytics",
+          "link": "https://analytics.synapseprotocol.com/",
+          "publishedOn": "2022-03-31T21:30:03.000Z",
+          "wordCount": 10,
+          "title": "Synapse Analytics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
           "author": null,
           "description": "SEC.gov | Staff Accounting Bulletin No. 121",
@@ -13,16 +23,6 @@
           "publishedOn": "2022-03-31T21:00:02.000Z",
           "wordCount": 2800,
           "title": "SEC.gov | Staff Accounting Bulletin No. 121",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sec.gov/news/statement/peirce-response-sab-121-033122",
-          "author": null,
-          "description": "SEC.gov | Response to Staff Accounting Bulletin No. 121",
-          "link": "https://www.sec.gov/news/statement/peirce-response-sab-121-033122",
-          "publishedOn": "2022-03-31T21:00:02.000Z",
-          "wordCount": 1218,
-          "title": "SEC.gov | Response to Staff Accounting Bulletin No. 121",
           "imageUrl": null
         },
         {
@@ -34,6 +34,16 @@
           "wordCount": 463,
           "title": "Joining Synapse",
           "imageUrl": "https://super-static-assets.s3.amazonaws.com/596c251a-e028-4ec3-9273-28c8e4beabdf/images/67777c84-b202-4433-8a28-d7d2dfe9d4de.png"
+        },
+        {
+          "id": "https://www.sec.gov/news/statement/peirce-response-sab-121-033122",
+          "author": null,
+          "description": "SEC.gov | Response to Staff Accounting Bulletin No. 121",
+          "link": "https://www.sec.gov/news/statement/peirce-response-sab-121-033122",
+          "publishedOn": "2022-03-31T21:00:02.000Z",
+          "wordCount": 1218,
+          "title": "SEC.gov | Response to Staff Accounting Bulletin No. 121",
+          "imageUrl": null
         },
         {
           "id": "https://mirror.xyz/0x3fcAf7DDf64E6e109B1e2A5CC17875D4a5993F39/bctuLRkf7oBL4mMJ9lPf0y0blFjBDslTUfUL0CEk1gc",
@@ -66,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://plotchy.substack.com/p/solving-paradigmctfs-jop-",
-          "author": null,
-          "description": "Solving ParadigmCTF's JOP 🦘",
-          "link": "https://plotchy.substack.com/p/solving-paradigmctfs-jop-",
-          "publishedOn": "2022-03-31T19:00:03.000Z",
-          "wordCount": 5785,
-          "title": "Solving ParadigmCTF's JOP 🦘",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e8ab00c-509d-428e-bac4-ab7e2ea6e605_400x400.jpeg"
-        },
-        {
           "id": "https://earn.polynomial.fi/",
           "author": null,
           "description": "Polynomial Earn",
@@ -84,6 +84,16 @@
           "wordCount": 134,
           "title": "Polynomial Earn",
           "imageUrl": "https://i.imgur.com/AfTjev6.png"
+        },
+        {
+          "id": "https://plotchy.substack.com/p/solving-paradigmctfs-jop-",
+          "author": null,
+          "description": "Solving ParadigmCTF's JOP 🦘",
+          "link": "https://plotchy.substack.com/p/solving-paradigmctfs-jop-",
+          "publishedOn": "2022-03-31T19:00:03.000Z",
+          "wordCount": 5785,
+          "title": "Solving ParadigmCTF's JOP 🦘",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e8ab00c-509d-428e-bac4-ab7e2ea6e605_400x400.jpeg"
         },
         {
           "id": "https://www.bitcoinbrief.io/p/the-constitutional-argument-for-adoption",
@@ -101,7 +111,7 @@
           "description": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "link": "https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals/",
           "publishedOn": "2022-03-31T16:00:03.000Z",
-          "wordCount": 805,
+          "wordCount": 804,
           "title": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "imageUrl": "https://www.coindesk.com/resizer/u2tdk0TItd-i7aiRBECm5dgW6YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYRL7JWJIVC6LJI2NCQ4YQOOHE.jpg"
         },
@@ -121,19 +131,9 @@
           "description": "Announcing Footium’s $3.35m Seed Round",
           "link": "https://medium.com/footium/announcing-footiums-3-35m-seed-round-c43242fd5a31",
           "publishedOn": "2022-03-31T15:00:02.000Z",
-          "wordCount": 1127,
+          "wordCount": 1158,
           "title": "Announcing Footium’s $3.35m Seed Round",
           "imageUrl": "https://miro.medium.com/max/1200/1*wxPKCmArD6RZmyBuY9oKFw.png"
-        },
-        {
-          "id": "https://zeroknowledge.fm/224-2/",
-          "author": null,
-          "description": "Episode 224: Foundry with Georgios Konstantopoulos - ZK Podcast",
-          "link": "https://zeroknowledge.fm/224-2/",
-          "publishedOn": "2022-03-31T13:00:02.000Z",
-          "wordCount": 1372,
-          "title": "Episode 224: Foundry with Georgios Konstantopoulos - ZK Podcast",
-          "imageUrl": "https://i0.wp.com/zeroknowledge.fm/wp-content/uploads/2022/03/Ep-224-ZKFM-Cover-Square-1080x1080-1.png?fit=1080%2C1080&ssl=1"
         },
         {
           "id": "https://bford.info/2019/09/23/rational/",
@@ -171,7 +171,7 @@
           "description": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
           "link": "https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/",
           "publishedOn": "2022-03-31T00:30:02.000Z",
-          "wordCount": 2426,
+          "wordCount": 2425,
           "title": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
           "imageUrl": "https://www.coindesk.com/resizer/a7Z10AoYMSBY9dv79YcVpWh1CRI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/43JJZ2Z5D5FTBEGAJL2EYDUD34.jpg"
         },
