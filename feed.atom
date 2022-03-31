@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-31T08:23:11.189Z</id>
+    <id>urn:2022-03-31T09:21:35.030Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-31T08:23:11.189Z</updated>
+    <updated>2022-03-31T09:21:35.030Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,6 +91,16 @@
         <link href="https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/"/>
         <updated>2022-03-31T00:30:02.000Z</updated>
         <summary type="html"><![CDATA[Can Avalanche Win Over Wall Street and 'Degens' Alike?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Garbled Circuits Primer]]></title>
+        <id>https://vitalik.ca/general/2020/03/21/garbled.html</id>
+        <link href="https://vitalik.ca/general/2020/03/21/garbled.html"/>
+        <updated>2022-03-31T00:30:02.000Z</updated>
+        <summary type="html"><![CDATA[A Quick Garbled Circuits Primer]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -186,21 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Infinite Exploitation Of Cryptocurrency]]></title>
-        <id>https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency</id>
-        <link href="https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency"/>
-        <updated>2022-03-30T10:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Infinite Exploitation Of Cryptocurrency]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The roads not taken]]></title>
-        <id>https://vitalik.ca/general/2022/03/29/road.html</id>
-        <link href="https://vitalik.ca/general/2022/03/29/road.html"/>
-        <updated>2022-03-30T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The roads not taken]]></summary>
+        <title type="html"><![CDATA[The Future of On-Chain Trading - Deribit Insights]]></title>
+        <id>https://insights.deribit.com/market-research/the-future-of-on-chain-trading/</id>
+        <link href="https://insights.deribit.com/market-research/the-future-of-on-chain-trading/"/>
+        <updated>2022-03-30T15:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The Future of On-Chain Trading - Deribit Insights]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
