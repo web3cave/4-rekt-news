@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-01T07:20:34.275Z</id>
+    <id>urn:2022-04-01T08:26:22.112Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-01T07:20:34.275Z</updated>
+    <updated>2022-04-01T08:26:22.112Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Happy April Fools - Osmosis]]></title>
+        <id>https://dogemos.exchange/</id>
+        <link href="https://dogemos.exchange/"/>
+        <updated>2022-04-01T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Happy April Fools - Osmosis]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math & Engineering]]></title>
+        <id>https://xn--2-umb.com/22/approximation/index.html</id>
+        <link href="https://xn--2-umb.com/22/approximation/index.html"/>
+        <updated>2022-04-01T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Math & Engineering]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“This Shouldn’t Happen”: Inside the Virus-Hunting Nonprofit at the Center of the Lab-Leak Controversy]]></title>
         <id>https://www.vanityfair.com/news/2022/03/the-virus-hunting-nonprofit-at-the-center-of-the-lab-leak-controversy</id>
@@ -181,26 +201,6 @@
         <link href="https://medium.com/footium/announcing-footiums-3-35m-seed-round-c43242fd5a31"/>
         <updated>2022-03-31T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Announcing Footium’s $3.35m Seed Round]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verse: The Hyperexchange Protocol]]></title>
-        <id>https://neuroswish.mirror.xyz/i7_5J7vyc-bg7r6pVzUNKH3bw_uQ6I1zPsTEmbiRktc</id>
-        <link href="https://neuroswish.mirror.xyz/i7_5J7vyc-bg7r6pVzUNKH3bw_uQ6I1zPsTEmbiRktc"/>
-        <updated>2022-03-31T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Verse: The Hyperexchange Protocol]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Foundry v0.2.0 - Paradigm]]></title>
-        <id>https://www.paradigm.xyz/2022/03/foundry-02</id>
-        <link href="https://www.paradigm.xyz/2022/03/foundry-02"/>
-        <updated>2022-03-30T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Foundry v0.2.0 - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

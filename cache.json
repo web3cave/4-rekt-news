@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dogemos.exchange/",
+          "author": null,
+          "description": "Happy April Fools - Osmosis",
+          "link": "https://dogemos.exchange/",
+          "publishedOn": "2022-04-01T07:30:04.000Z",
+          "wordCount": 22,
+          "title": "Happy April Fools - Osmosis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xn--2-umb.com/22/approximation/index.html",
+          "author": null,
+          "description": "Math & Engineering",
+          "link": "https://xn--2-umb.com/22/approximation/index.html",
+          "publishedOn": "2022-04-01T07:00:02.000Z",
+          "wordCount": 3858,
+          "title": "Math & Engineering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.vanityfair.com/news/2022/03/the-virus-hunting-nonprofit-at-the-center-of-the-lab-leak-controversy",
           "author": null,
           "description": "“This Shouldn’t Happen”: Inside the Virus-Hunting Nonprofit at the Center of the Lab-Leak Controversy",
@@ -171,7 +191,7 @@
           "description": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "link": "https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals/",
           "publishedOn": "2022-03-31T16:00:03.000Z",
-          "wordCount": 805,
+          "wordCount": 801,
           "title": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "imageUrl": "https://www.coindesk.com/resizer/u2tdk0TItd-i7aiRBECm5dgW6YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYRL7JWJIVC6LJI2NCQ4YQOOHE.jpg"
         },
@@ -184,26 +204,6 @@
           "wordCount": 1158,
           "title": "Announcing Footium’s $3.35m Seed Round",
           "imageUrl": "https://miro.medium.com/max/1200/1*wxPKCmArD6RZmyBuY9oKFw.png"
-        },
-        {
-          "id": "https://neuroswish.mirror.xyz/i7_5J7vyc-bg7r6pVzUNKH3bw_uQ6I1zPsTEmbiRktc",
-          "author": null,
-          "description": "Verse: The Hyperexchange Protocol",
-          "link": "https://neuroswish.mirror.xyz/i7_5J7vyc-bg7r6pVzUNKH3bw_uQ6I1zPsTEmbiRktc",
-          "publishedOn": "2022-03-31T01:00:03.000Z",
-          "wordCount": 1740,
-          "title": "Verse: The Hyperexchange Protocol",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/rW1lDpNyquFJrdumjH59z.jpeg?height=1000&width=2000"
-        },
-        {
-          "id": "https://www.paradigm.xyz/2022/03/foundry-02",
-          "author": null,
-          "description": "Announcing Foundry v0.2.0 - Paradigm",
-          "link": "https://www.paradigm.xyz/2022/03/foundry-02",
-          "publishedOn": "2022-03-30T17:00:02.000Z",
-          "wordCount": 2476,
-          "title": "Announcing Foundry v0.2.0 - Paradigm",
-          "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.jpg"
         }
       ]
     }
