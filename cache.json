@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.cnet.com/personal-finance/why-people-have-spent-90m-on-nft-stick-figures/",
+          "author": null,
+          "description": "Why People Have Spent $90M on NFT Stick Figures",
+          "link": "https://www.cnet.com/personal-finance/why-people-have-spent-90m-on-nft-stick-figures/",
+          "publishedOn": "2022-04-01T03:00:03.000Z",
+          "wordCount": 1786,
+          "title": "Why People Have Spent $90M on NFT Stick Figures",
+          "imageUrl": "https://www.cnet.com/a/img/resize/94b249df0565b39c68f9bebd09934694a0a771a2/2022/03/31/a8be8d9e-810f-43f0-a271-04b6272c4c93/screenshot-2022-04-01-102343.png?auto=webp&fit=crop&height=630&width=1200"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/140060/former-coinbase-ventures-lead-max-bronstein-joins-bridge-project-synapse-as-coo",
+          "author": null,
+          "description": "Former Coinbase Ventures lead Max Bronstein joins bridge project Synapse as COO",
+          "link": "https://www.theblockcrypto.com/post/140060/former-coinbase-ventures-lead-max-bronstein-joins-bridge-project-synapse-as-coo",
+          "publishedOn": "2022-04-01T02:00:02.000Z",
+          "wordCount": 990,
+          "title": "Former Coinbase Ventures lead Max Bronstein joins bridge project Synapse as COO",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210623_DeFi_Attacks_Second_Recap-Research.jpg"
+        },
+        {
+          "id": "https://amsterdot.io/",
+          "author": null,
+          "description": "Amsterdot",
+          "link": "https://amsterdot.io/",
+          "publishedOn": "2022-04-01T02:00:02.000Z",
+          "wordCount": 653,
+          "title": "Amsterdot",
+          "imageUrl": "https://res.cloudinary.com/coderkin/image/upload/v1648731047/amsterDOT/meta-v2_oq32v3.png"
+        },
+        {
           "id": "https://cryptohayes.medium.com/five-ducking-digits-cd92a7ab72ce",
           "author": null,
           "description": "Five Ducking Digits",
@@ -26,16 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
-          "author": null,
-          "description": "SEC.gov | Staff Accounting Bulletin No. 121",
-          "link": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
-          "publishedOn": "2022-03-31T21:00:02.000Z",
-          "wordCount": 2800,
-          "title": "SEC.gov | Staff Accounting Bulletin No. 121",
-          "imageUrl": null
-        },
-        {
           "id": "https://maxbronstein.xyz/joining-synapse",
           "author": null,
           "description": "Joining Synapse",
@@ -44,6 +64,16 @@
           "wordCount": 463,
           "title": "Joining Synapse",
           "imageUrl": "https://super-static-assets.s3.amazonaws.com/596c251a-e028-4ec3-9273-28c8e4beabdf/images/67777c84-b202-4433-8a28-d7d2dfe9d4de.png"
+        },
+        {
+          "id": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
+          "author": null,
+          "description": "SEC.gov | Staff Accounting Bulletin No. 121",
+          "link": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
+          "publishedOn": "2022-03-31T21:00:02.000Z",
+          "wordCount": 2800,
+          "title": "SEC.gov | Staff Accounting Bulletin No. 121",
+          "imageUrl": null
         },
         {
           "id": "https://www.sec.gov/news/statement/peirce-response-sab-121-033122",
@@ -106,14 +136,14 @@
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e8ab00c-509d-428e-bac4-ab7e2ea6e605_400x400.jpeg"
         },
         {
-          "id": "https://www.bitcoinbrief.io/p/the-constitutional-argument-for-adoption",
+          "id": "https://www.forbes.com/sites/peterizzo/2022/03/31/why-bitcoin-uses-energy/",
           "author": null,
-          "description": "The Constitutional Argument for State Adoption of Bitcoin as Legal Tender (Part I of IV)",
-          "link": "https://www.bitcoinbrief.io/p/the-constitutional-argument-for-adoption",
-          "publishedOn": "2022-03-31T16:30:02.000Z",
-          "wordCount": 1575,
-          "title": "The Constitutional Argument for State Adoption of Bitcoin as Legal Tender (Part I of IV)",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F430023bc-d4bd-4056-94d4-31518f7cde0b_567x627.jpeg"
+          "description": "Why Bitcoin Uses Energy",
+          "link": "https://www.forbes.com/sites/peterizzo/2022/03/31/why-bitcoin-uses-energy/",
+          "publishedOn": "2022-03-31T19:00:03.000Z",
+          "wordCount": 2610,
+          "title": "Why Bitcoin Uses Energy",
+          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6245a308f042d7ccdedcafcf/0x0.jpg?format=jpg&width=1200"
         },
         {
           "id": "https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals/",
@@ -121,7 +151,7 @@
           "description": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "link": "https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals/",
           "publishedOn": "2022-03-31T16:00:03.000Z",
-          "wordCount": 805,
+          "wordCount": 804,
           "title": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "imageUrl": "https://www.coindesk.com/resizer/u2tdk0TItd-i7aiRBECm5dgW6YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYRL7JWJIVC6LJI2NCQ4YQOOHE.jpg"
         },
@@ -144,36 +174,6 @@
           "wordCount": 1372,
           "title": "Episode 224: Foundry with Georgios Konstantopoulos - ZK Podcast",
           "imageUrl": "https://i0.wp.com/zeroknowledge.fm/wp-content/uploads/2022/03/Ep-224-ZKFM-Cover-Square-1080x1080-1.png?fit=1080%2C1080&ssl=1"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X2z_YIeettE",
-          "author": null,
-          "description": "Axie Infinity: Origin - Official Gameplay Trailer",
-          "link": "https://www.youtube.com/watch?v=X2z_YIeettE",
-          "publishedOn": "2022-03-31T05:00:02.000Z",
-          "wordCount": null,
-          "title": "Axie Infinity: Origin - Official Gameplay Trailer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://axie.substack.com/p/originsoftlaunch",
-          "author": null,
-          "description": "Origin Launch Week Starts Now!",
-          "link": "https://axie.substack.com/p/originsoftlaunch",
-          "publishedOn": "2022-03-31T04:30:03.000Z",
-          "wordCount": 843,
-          "title": "Origin Launch Week Starts Now!",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33a4f65-04a0-4d11-b156-a4a1b8be5068_1080x1080.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/33-year-old-crypto-expert-shot-5-times-point-blank-range-nyc-attempt-steal-his-450000",
-          "author": null,
-          "description": "Crypto Expert Ambushed, Shot 5 Times At NYC Hotel, In Attempted Robbery Of His $450,000 Richard Mille Watch | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/33-year-old-crypto-expert-shot-5-times-point-blank-range-nyc-attempt-steal-his-450000",
-          "publishedOn": "2022-03-31T02:00:02.000Z",
-          "wordCount": 667,
-          "title": "Crypto Expert Ambushed, Shot 5 Times At NYC Hotel, In Attempted Robbery Of His $450,000 Richard Mille Watch | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://neuroswish.mirror.xyz/i7_5J7vyc-bg7r6pVzUNKH3bw_uQ6I1zPsTEmbiRktc",
