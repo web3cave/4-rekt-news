@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptohayes.medium.com/five-ducking-digits-cd92a7ab72ce",
+          "author": null,
+          "description": "Five Ducking Digits",
+          "link": "https://cryptohayes.medium.com/five-ducking-digits-cd92a7ab72ce",
+          "publishedOn": "2022-04-01T00:30:02.000Z",
+          "wordCount": 5849,
+          "title": "Five Ducking Digits",
+          "imageUrl": "https://miro.medium.com/max/400/0*KeT246MRJqcKqFMP"
+        },
+        {
           "id": "https://analytics.synapseprotocol.com/",
           "author": null,
           "description": "Synapse Analytics",
@@ -51,7 +61,7 @@
           "description": "Element DAO, ELFI Voting Distribution",
           "link": "https://mirror.xyz/0x3fcAf7DDf64E6e109B1e2A5CC17875D4a5993F39/bctuLRkf7oBL4mMJ9lPf0y0blFjBDslTUfUL0CEk1gc",
           "publishedOn": "2022-03-31T20:30:04.000Z",
-          "wordCount": 1525,
+          "wordCount": 1552,
           "title": "Element DAO, ELFI Voting Distribution",
           "imageUrl": "https://mirror-media.imgix.net/nft/_e5SXHlowK2SRe1AcvUST.png?h=null&w=null&auto=compress"
         },
@@ -111,19 +121,9 @@
           "description": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "link": "https://www.coindesk.com/policy/2022/03/31/eu-parliament-votes-on-privacy-busting-crypto-rules-industry-rails-against-proposals/",
           "publishedOn": "2022-03-31T16:00:03.000Z",
-          "wordCount": 806,
+          "wordCount": 805,
           "title": "EU Parliament Votes on Privacy-Busting Crypto Rules as Industry Rails Against Proposals",
           "imageUrl": "https://www.coindesk.com/resizer/u2tdk0TItd-i7aiRBECm5dgW6YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYRL7JWJIVC6LJI2NCQ4YQOOHE.jpg"
-        },
-        {
-          "id": "https://engineering.messari.io/",
-          "author": null,
-          "description": "Messari Engineering",
-          "link": "https://engineering.messari.io/",
-          "publishedOn": "2022-03-31T15:30:03.000Z",
-          "wordCount": 356,
-          "title": "Messari Engineering",
-          "imageUrl": "https://cdn.sanity.io/images/zf2ahfgc/production/ffb7c4f7b332df9fa77a90d96162acdd42f0768f-2400x1254.png"
         },
         {
           "id": "https://medium.com/footium/announcing-footiums-3-35m-seed-round-c43242fd5a31",
@@ -136,14 +136,34 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*wxPKCmArD6RZmyBuY9oKFw.png"
         },
         {
-          "id": "https://bford.info/2019/09/23/rational/",
+          "id": "https://zeroknowledge.fm/224-2/",
           "author": null,
-          "description": "Rationality is Self-Defeating in Permissionless Systems – Bryan Ford's Home Page",
-          "link": "https://bford.info/2019/09/23/rational/",
+          "description": "Episode 224: Foundry with Georgios Konstantopoulos - ZK Podcast",
+          "link": "https://zeroknowledge.fm/224-2/",
+          "publishedOn": "2022-03-31T13:00:02.000Z",
+          "wordCount": 1372,
+          "title": "Episode 224: Foundry with Georgios Konstantopoulos - ZK Podcast",
+          "imageUrl": "https://i0.wp.com/zeroknowledge.fm/wp-content/uploads/2022/03/Ep-224-ZKFM-Cover-Square-1080x1080-1.png?fit=1080%2C1080&ssl=1"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=X2z_YIeettE",
+          "author": null,
+          "description": "Axie Infinity: Origin - Official Gameplay Trailer",
+          "link": "https://www.youtube.com/watch?v=X2z_YIeettE",
           "publishedOn": "2022-03-31T05:00:02.000Z",
-          "wordCount": 3445,
-          "title": "Rationality is Self-Defeating in Permissionless Systems – Bryan Ford's Home Page",
+          "wordCount": null,
+          "title": "Axie Infinity: Origin - Official Gameplay Trailer",
           "imageUrl": null
+        },
+        {
+          "id": "https://axie.substack.com/p/originsoftlaunch",
+          "author": null,
+          "description": "Origin Launch Week Starts Now!",
+          "link": "https://axie.substack.com/p/originsoftlaunch",
+          "publishedOn": "2022-03-31T04:30:03.000Z",
+          "wordCount": 843,
+          "title": "Origin Launch Week Starts Now!",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd33a4f65-04a0-4d11-b156-a4a1b8be5068_1080x1080.jpeg"
         },
         {
           "id": "https://www.zerohedge.com/markets/33-year-old-crypto-expert-shot-5-times-point-blank-range-nyc-attempt-steal-his-450000",
@@ -166,16 +186,6 @@
           "imageUrl": "https://images.mirror-media.xyz/publication-images/rW1lDpNyquFJrdumjH59z.jpeg?height=1000&width=2000"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/",
-          "author": null,
-          "description": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
-          "link": "https://www.coindesk.com/business/2022/03/30/can-avalanche-win-over-wall-street-and-degens-alike/",
-          "publishedOn": "2022-03-31T00:30:02.000Z",
-          "wordCount": 2427,
-          "title": "Can Avalanche Win Over Wall Street and 'Degens' Alike?",
-          "imageUrl": "https://www.coindesk.com/resizer/a7Z10AoYMSBY9dv79YcVpWh1CRI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/43JJZ2Z5D5FTBEGAJL2EYDUD34.jpg"
-        },
-        {
           "id": "https://dune.xyz/blog/started-from-the-bottom",
           "author": null,
           "description": "Started From The Bottom - from nobody to unicorn in 3 years",
@@ -184,16 +194,6 @@
           "wordCount": 2444,
           "title": "Started From The Bottom - from nobody to unicorn in 3 years",
           "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/46ba1b0ad50eebf61a7da0108325144926f28aa9-4032x3024.jpg?w=1200&fm=jpg"
-        },
-        {
-          "id": "https://protectdefi.org/",
-          "author": null,
-          "description": "Email a comment to the SEC",
-          "link": "https://protectdefi.org/",
-          "publishedOn": "2022-03-30T17:00:03.000Z",
-          "wordCount": 1398,
-          "title": "Email a comment to the SEC",
-          "imageUrl": "https://dontmakeitworse.files.wordpress.com/2022/03/featured-3.jpg"
         },
         {
           "id": "https://www.paradigm.xyz/2022/03/foundry-02",
