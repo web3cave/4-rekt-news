@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eprint.iacr.org/2021/1147",
+          "author": null,
+          "description": "Cryptology ePrint Archive: Report 2021/1147 - Clockwork Finance: Automated Analysis of Economic Security in Smart...",
+          "link": "https://eprint.iacr.org/2021/1147",
+          "publishedOn": "2022-04-02T18:00:03.000Z",
+          "wordCount": 366,
+          "title": "Cryptology ePrint Archive: Report 2021/1147 - Clockwork Finance: Automated Analysis of Economic Security in Smart...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://unchainedpodcast.com/bridge-hacks-have-caused-1-billion-in-losses-heres-why-bridge-security-is-tricky/",
+          "author": null,
+          "description": "Bridge Hacks Have Caused ~$1 Billion in Losses. Here’s Why Bridge Security Is Tricky - Unchained Podcast",
+          "link": "https://unchainedpodcast.com/bridge-hacks-have-caused-1-billion-in-losses-heres-why-bridge-security-is-tricky/",
+          "publishedOn": "2022-04-02T17:30:05.000Z",
+          "wordCount": 317,
+          "title": "Bridge Hacks Have Caused ~$1 Billion in Losses. Here’s Why Bridge Security Is Tricky - Unchained Podcast",
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN336.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FO5N4eKzdp4&feature=youtu.be",
           "author": null,
           "description": "Cross-chain vs multi-chain, LFGrow finalists & more - The Daily Gwei Refuel #346 - Ethereum Updates",
@@ -44,16 +64,6 @@
           "wordCount": 795,
           "title": "DeFi protocol Inverse Finance suffers exploit, loss of $15 million in crypto",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210715_Institutional-DeFi.jpg"
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/breaking-wells-fargo-arena-now-bankless?s=r",
-          "author": null,
-          "description": "BREAKING: Wells Fargo Arena now Bankless Arena",
-          "link": "https://newsletter.banklesshq.com/p/breaking-wells-fargo-arena-now-bankless?s=r",
-          "publishedOn": "2022-04-02T14:00:03.000Z",
-          "wordCount": 797,
-          "title": "BREAKING: Wells Fargo Arena now Bankless Arena",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c8bcc0a-726d-4eaf-bf2b-84e772927013_1280x720.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=Kn1WlunVFts",
@@ -111,7 +121,7 @@
           "description": "BUIDLING OUR WEB3 FUTURE",
           "link": "https://starrwilliam.medium.com/buidling-our-web3-future-4d51a0ef850a",
           "publishedOn": "2022-04-02T00:00:03.000Z",
-          "wordCount": 2258,
+          "wordCount": 2353,
           "title": "BUIDLING OUR WEB3 FUTURE",
           "imageUrl": "https://miro.medium.com/max/1000/1*QLDwFSc4Ge5nVL3_FdFIoQ.jpeg"
         },
@@ -134,16 +144,6 @@
           "wordCount": null,
           "title": "ShapeShift DAO's Coin Center Benefit Dinner - ETH Denver 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/blockchain/blockchain-com-builds-the-worlds-largest-satoshi-bitcoin-whitepaper-b2938354a6e6",
-          "author": null,
-          "description": "Blockchain.com builds the world’s largest Satoshi Bitcoin whitepaper",
-          "link": "https://medium.com/blockchain/blockchain-com-builds-the-worlds-largest-satoshi-bitcoin-whitepaper-b2938354a6e6",
-          "publishedOn": "2022-04-01T19:30:06.000Z",
-          "wordCount": 412,
-          "title": "Blockchain.com builds the world’s largest Satoshi Bitcoin whitepaper",
-          "imageUrl": "https://miro.medium.com/max/1200/1*e9OsDeuKi6ukCJUotzO8SQ.jpeg"
         },
         {
           "id": "https://www.blockchain.com/",
@@ -171,7 +171,7 @@
           "description": "We hate all of you, we’re building Pessimistic Rollups now",
           "link": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
           "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 712,
+          "wordCount": 834,
           "title": "We hate all of you, we’re building Pessimistic Rollups now",
           "imageUrl": "https://miro.medium.com/max/720/1*CRFFGoOueJu6vEUvl-IR6A.jpeg"
         },
