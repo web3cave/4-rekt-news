@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bis.org/events/220404_defi.htm",
+          "author": null,
+          "description": "Does safe DeFi require CBDCs?",
+          "link": "https://www.bis.org/events/220404_defi.htm",
+          "publishedOn": "2022-04-02T19:00:02.000Z",
+          "wordCount": 5012,
+          "title": "Does safe DeFi require CBDCs?",
+          "imageUrl": "https://www.bis.org/img/bislogo_og.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=_Drfcw8f3Bs",
+          "author": null,
+          "description": "Hiroyuki Sawano  “Attack on Titan” Vogel im käfig live YOUSEEBIGGIRL/T:T",
+          "link": "https://www.youtube.com/watch?app=desktop&v=_Drfcw8f3Bs",
+          "publishedOn": "2022-04-02T18:30:03.000Z",
+          "wordCount": null,
+          "title": "Hiroyuki Sawano  “Attack on Titan” Vogel im käfig live YOUSEEBIGGIRL/T:T",
+          "imageUrl": null
+        },
+        {
           "id": "https://eprint.iacr.org/2021/1147",
           "author": null,
           "description": "Cryptology ePrint Archive: Report 2021/1147 - Clockwork Finance: Automated Analysis of Economic Security in Smart...",
@@ -26,10 +46,10 @@
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN336.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=FO5N4eKzdp4&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=FO5N4eKzdp4&t=913s",
           "author": null,
           "description": "Cross-chain vs multi-chain, LFGrow finalists & more - The Daily Gwei Refuel #346 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=FO5N4eKzdp4&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=FO5N4eKzdp4&t=913s",
           "publishedOn": "2022-04-02T17:00:03.000Z",
           "wordCount": null,
           "title": "Cross-chain vs multi-chain, LFGrow finalists & more - The Daily Gwei Refuel #346 - Ethereum Updates",
@@ -44,6 +64,16 @@
           "wordCount": 871,
           "title": "OurNetwork: Issue #115",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ed7e82a-7590-41b8-b757-db08b81db474_420x300.jpeg"
+        },
+        {
+          "id": "https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/",
+          "author": null,
+          "description": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
+          "link": "https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/",
+          "publishedOn": "2022-04-02T16:30:03.000Z",
+          "wordCount": 2172,
+          "title": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
+          "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2022/03/31100235/cover-eth-768x403.jpg"
         },
         {
           "id": "https://gov.gitcoin.co/t/an-evolutionary-lens-on-web3-open-source-software/10293",
@@ -96,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://shellprotocol.io/posts/launching-our-government-toucan/",
-          "author": null,
-          "description": "Launching our Government Toucan",
-          "link": "https://shellprotocol.io/posts/launching-our-government-toucan/",
-          "publishedOn": "2022-04-02T02:00:03.000Z",
-          "wordCount": 558,
-          "title": "Launching our Government Toucan",
-          "imageUrl": "https://shellprotocol.io/static/img/toucan-card.png"
-        },
-        {
           "id": "https://multicoin.capital/2022/04/01/fractal-the-web3-amusement-park/",
           "author": null,
           "description": "Fractal: The Web3 Amusement Park",
@@ -121,19 +141,9 @@
           "description": "BUIDLING OUR WEB3 FUTURE",
           "link": "https://starrwilliam.medium.com/buidling-our-web3-future-4d51a0ef850a",
           "publishedOn": "2022-04-02T00:00:03.000Z",
-          "wordCount": 2353,
+          "wordCount": 2258,
           "title": "BUIDLING OUR WEB3 FUTURE",
           "imageUrl": "https://miro.medium.com/max/1000/1*QLDwFSc4Ge5nVL3_FdFIoQ.jpeg"
-        },
-        {
-          "id": "https://medium.com/@JackLongarzo/rari-capital-fuse-security-upgrade-report-e5d154c16250",
-          "author": null,
-          "description": "Rari Capital: Fuse Security Upgrade Report",
-          "link": "https://medium.com/@JackLongarzo/rari-capital-fuse-security-upgrade-report-e5d154c16250",
-          "publishedOn": "2022-04-01T21:00:02.000Z",
-          "wordCount": 840,
-          "title": "Rari Capital: Fuse Security Upgrade Report",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=mNlkfioAEtE&feature=youtu.be",
@@ -156,22 +166,12 @@
           "imageUrl": "https://www.blockchain.com/static/img/home/opengraph.png"
         },
         {
-          "id": "https://github.com/ethereum/pm/issues/500",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/500",
-          "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 2265,
-          "title": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/e4faee8205a13c59996799cc97013277dd8a144ce6c34c65a1b698ead0dd40a5/ethereum/pm/issues/500"
-        },
-        {
           "id": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
           "author": null,
           "description": "We hate all of you, we’re building Pessimistic Rollups now",
           "link": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
           "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 834,
+          "wordCount": 712,
           "title": "We hate all of you, we’re building Pessimistic Rollups now",
           "imageUrl": "https://miro.medium.com/max/720/1*CRFFGoOueJu6vEUvl-IR6A.jpeg"
         },
