@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=woW1nAWFTEI&feature=youtu.be",
+          "author": null,
+          "description": "The Bullish Case for MKR |  Sam MacPherson, Niklas Kunkel & monetsupply.eth",
+          "link": "https://www.youtube.com/watch?v=woW1nAWFTEI&feature=youtu.be",
+          "publishedOn": "2022-04-02T03:00:03.000Z",
+          "wordCount": null,
+          "title": "The Bullish Case for MKR |  Sam MacPherson, Niklas Kunkel & monetsupply.eth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=99ywhhYN-vk&feature=youtu.be",
+          "author": null,
+          "description": "Bankless 🤝 Daily Gwei Livestream",
+          "link": "https://www.youtube.com/watch?v=99ywhhYN-vk&feature=youtu.be",
+          "publishedOn": "2022-04-02T02:00:04.000Z",
+          "wordCount": null,
+          "title": "Bankless 🤝 Daily Gwei Livestream",
+          "imageUrl": null
+        },
+        {
           "id": "https://multicoin.capital/2022/04/01/fractal-the-web3-amusement-park/",
           "author": null,
           "description": "Fractal: The Web3 Amusement Park",
@@ -61,19 +81,19 @@
           "description": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/500",
           "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 2113,
+          "wordCount": 2184,
           "title": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/02b055417ad15956ec2d1af7355d723c45b5383c85bf619a2f144422add0484c/ethereum/pm/issues/500"
+          "imageUrl": "https://opengraph.githubassets.com/946a71555bb2a05e939db50d69a9485a197ef8ca28c001b92521861f5d798804/ethereum/pm/issues/500"
         },
         {
-          "id": "https://unchainedpodcast.com/bridge-hacks-have-caused-1-billion-in-losses-heres-why-bridge-security-is-tricky/",
+          "id": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
           "author": null,
-          "description": "Bridge Hacks Have Caused ~$1 Billion in Losses. Here’s Why Bridge Security Is Tricky - Unchained Podcast",
-          "link": "https://unchainedpodcast.com/bridge-hacks-have-caused-1-billion-in-losses-heres-why-bridge-security-is-tricky/",
-          "publishedOn": "2022-04-01T18:00:07.000Z",
-          "wordCount": 317,
-          "title": "Bridge Hacks Have Caused ~$1 Billion in Losses. Here’s Why Bridge Security Is Tricky - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN336.jpg"
+          "description": "We hate all of you, we’re building Pessimistic Rollups now",
+          "link": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
+          "publishedOn": "2022-04-01T19:00:03.000Z",
+          "wordCount": 712,
+          "title": "We hate all of you, we’re building Pessimistic Rollups now",
+          "imageUrl": "https://miro.medium.com/max/720/1*CRFFGoOueJu6vEUvl-IR6A.jpeg"
         },
         {
           "id": "https://newsletter.banklesshq.com/p/breaking-wells-fargo-arena-now-bankless?s=r",
@@ -106,10 +126,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=HgPSYgBtq1U&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=HgPSYgBtq1U",
           "author": null,
           "description": "The Sovereign Individual - with Su Zhu and Hasu",
-          "link": "https://www.youtube.com/watch?v=HgPSYgBtq1U&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=HgPSYgBtq1U",
           "publishedOn": "2022-04-01T14:00:11.000Z",
           "wordCount": null,
           "title": "The Sovereign Individual - with Su Zhu and Hasu",
@@ -156,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://forum.makerdao.com/t/6s-capital-state-of-the-business/4420/48",
-          "author": null,
-          "description": "6s Capital - State of the Business",
-          "link": "https://forum.makerdao.com/t/6s-capital-state-of-the-business/4420/48",
-          "publishedOn": "2022-04-01T03:00:03.000Z",
-          "wordCount": 4943,
-          "title": "6s Capital - State of the Business",
-          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/2/2a069082a39867d65a3bc49d57947d179996c0a8.png"
-        },
-        {
           "id": "https://www.newscientist.com/article/2314395-robot-made-of-magnetic-slime-could-grab-objects-inside-your-body/",
           "author": null,
           "description": "Robot made of magnetic slime could grab objects inside your body",
@@ -184,16 +194,6 @@
           "wordCount": 5864,
           "title": "Five Ducking Digits",
           "imageUrl": "https://miro.medium.com/max/400/0*KeT246MRJqcKqFMP"
-        },
-        {
-          "id": "https://blog.sudoswap.xyz/announcing-sudoamm.html",
-          "author": null,
-          "description": "sudoswap blog",
-          "link": "https://blog.sudoswap.xyz/announcing-sudoamm.html",
-          "publishedOn": "2022-03-31T23:00:02.000Z",
-          "wordCount": 616,
-          "title": "sudoswap blog",
-          "imageUrl": null
         },
         {
           "id": "https://guidetoweb3.xyz/",
