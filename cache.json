@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://friendsies.io/",
+          "author": null,
+          "description": "fRiENDSiES",
+          "link": "https://friendsies.io/",
+          "publishedOn": "2022-04-02T22:00:02.000Z",
+          "wordCount": 9,
+          "title": "fRiENDSiES",
+          "imageUrl": null
+        },
+        {
           "id": "https://uncommoncore.co/interest-rates-are-the-next-battleground-in-the-stablecoin-wars/",
           "author": null,
           "description": "Interest Rates are the Next Battleground in the Stablecoin Wars - Uncommon Core by Su Zhu and Hasu",
@@ -24,6 +34,16 @@
           "wordCount": null,
           "title": "What is Cult DAO? 'The DAO' 2.0?",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/brockelmore/solvm",
+          "author": null,
+          "description": "GitHub - brockelmore/solvm: evm inception",
+          "link": "https://github.com/brockelmore/solvm",
+          "publishedOn": "2022-04-02T21:00:02.000Z",
+          "wordCount": 548,
+          "title": "GitHub - brockelmore/solvm: evm inception",
+          "imageUrl": "https://opengraph.githubassets.com/886c212be194f6e566a082d4c96d0d9805c32276ff76e6e3f7cfac3fa0462171/brockelmore/solvm"
         },
         {
           "id": "https://www.youtube.com/watch?app=desktop&v=2xjJXT0C0X4",
@@ -54,16 +74,6 @@
           "wordCount": 317,
           "title": "Bridge Hacks Have Caused ~$1 Billion in Losses. Here’s Why Bridge Security Is Tricky - Unchained Podcast",
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN336.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FO5N4eKzdp4&feature=youtu.be",
-          "author": null,
-          "description": "Cross-chain vs multi-chain, LFGrow finalists & more - The Daily Gwei Refuel #346 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=FO5N4eKzdp4&feature=youtu.be",
-          "publishedOn": "2022-04-02T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Cross-chain vs multi-chain, LFGrow finalists & more - The Daily Gwei Refuel #346 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-115",
@@ -146,16 +156,6 @@
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/terra/original/1X/367352a10df100b123cd0bae63e27b68844d58be.png"
         },
         {
-          "id": "https://starrwilliam.medium.com/buidling-our-web3-future-4d51a0ef850a",
-          "author": null,
-          "description": "BUIDLING OUR WEB3 FUTURE",
-          "link": "https://starrwilliam.medium.com/buidling-our-web3-future-4d51a0ef850a",
-          "publishedOn": "2022-04-02T00:00:03.000Z",
-          "wordCount": 2353,
-          "title": "BUIDLING OUR WEB3 FUTURE",
-          "imageUrl": "https://miro.medium.com/max/1000/1*QLDwFSc4Ge5nVL3_FdFIoQ.jpeg"
-        },
-        {
           "id": "https://www.blockchain.com/",
           "author": null,
           "description": "Blockchain.com - The Most Trusted Crypto Company",
@@ -171,7 +171,7 @@
           "description": "We hate all of you, we’re building Pessimistic Rollups now",
           "link": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
           "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 834,
+          "wordCount": 712,
           "title": "We hate all of you, we’re building Pessimistic Rollups now",
           "imageUrl": "https://miro.medium.com/max/720/1*CRFFGoOueJu6vEUvl-IR6A.jpeg"
         },
