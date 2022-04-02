@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/jlopp/cleancoin",
+          "author": null,
+          "description": "GitHub - jlopp/cleancoin: The most environmentally friendly version of bitcoin.",
+          "link": "https://github.com/jlopp/cleancoin",
+          "publishedOn": "2022-04-02T11:30:03.000Z",
+          "wordCount": 925,
+          "title": "GitHub - jlopp/cleancoin: The most environmentally friendly version of bitcoin.",
+          "imageUrl": "https://opengraph.githubassets.com/0b6a6b1cabba0c9e9fe984c11f6782c7543656aa1171ff37ffd8f932301a2f8a/jlopp/cleancoin"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Kn1WlunVFts",
           "author": null,
           "description": "The Best Ethereum Merge Explainer You'll Ever See",
@@ -14,16 +24,6 @@
           "wordCount": null,
           "title": "The Best Ethereum Merge Explainer You'll Ever See",
           "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/breaking-wells-fargo-arena-now-bankless?s=r",
-          "author": null,
-          "description": "BREAKING: Wells Fargo Arena now Bankless Arena",
-          "link": "https://newsletter.banklesshq.com/p/breaking-wells-fargo-arena-now-bankless?s=r",
-          "publishedOn": "2022-04-02T09:00:02.000Z",
-          "wordCount": 800,
-          "title": "BREAKING: Wells Fargo Arena now Bankless Arena",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c8bcc0a-726d-4eaf-bf2b-84e772927013_1280x720.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=woW1nAWFTEI&feature=youtu.be",
@@ -141,9 +141,9 @@
           "description": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/500",
           "publishedOn": "2022-04-01T19:00:03.000Z",
-          "wordCount": 2184,
+          "wordCount": 2265,
           "title": "Ethereum Core Devs Meeting 135 Agenda · Issue #500 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/946a71555bb2a05e939db50d69a9485a197ef8ca28c001b92521861f5d798804/ethereum/pm/issues/500"
+          "imageUrl": "https://opengraph.githubassets.com/e4faee8205a13c59996799cc97013277dd8a144ce6c34c65a1b698ead0dd40a5/ethereum/pm/issues/500"
         },
         {
           "id": "https://medium.com/ethereum-optimism/we-hate-all-of-you-were-building-pessimistic-rollups-now-9fa0c189813c",
@@ -166,10 +166,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=HgPSYgBtq1U&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=HgPSYgBtq1U",
           "author": null,
           "description": "The Sovereign Individual - with Su Zhu and Hasu",
-          "link": "https://www.youtube.com/watch?v=HgPSYgBtq1U&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=HgPSYgBtq1U",
           "publishedOn": "2022-04-01T14:00:11.000Z",
           "wordCount": null,
           "title": "The Sovereign Individual - with Su Zhu and Hasu",
