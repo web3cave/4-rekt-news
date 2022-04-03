@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ameensol/streampie",
+          "author": null,
+          "description": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
+          "link": "https://github.com/ameensol/streampie",
+          "publishedOn": "2022-04-03T19:00:03.000Z",
+          "wordCount": 1240,
+          "title": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
+          "imageUrl": "https://opengraph.githubassets.com/a56d74ed79a25230dba88b1a97e2aafd141d2d981c1b105e6dd681260d7e1255/ameensol/streampie"
+        },
+        {
+          "id": "https://mirror.xyz/ocelotlabs.eth/9vtP5Tc-V_zRTMZ907DmmCWxUgIS4g-nKMrsckcZW7A",
+          "author": null,
+          "description": "Mezcal, A New Vision For Celo",
+          "link": "https://mirror.xyz/ocelotlabs.eth/9vtP5Tc-V_zRTMZ907DmmCWxUgIS4g-nKMrsckcZW7A",
+          "publishedOn": "2022-04-03T19:00:03.000Z",
+          "wordCount": 1567,
+          "title": "Mezcal, A New Vision For Celo",
+          "imageUrl": "https://mirror-media.imgix.net/nft/A4rxLSsf815zWWiB2zyad.png?h=null&w=null&auto=compress"
+        },
+        {
           "id": "https://vires.finance/",
           "author": null,
           "description": "The Liquidity Protocol for Lending and Borrowing Assets – VIRES.FINANCE",
@@ -41,7 +61,7 @@
           "description": "Set WAVES/USDN/EURN Liquidation Threshold to 1, Max Borrow APR for all assets to 400",
           "link": "https://forum.vires.finance/t/set-waves-usdn-eurn-liquidation-threshold-to-1-max-borrow-apr-for-all-assets-to-400/128",
           "publishedOn": "2022-04-03T18:00:02.000Z",
-          "wordCount": 1076,
+          "wordCount": 1174,
           "title": "Set WAVES/USDN/EURN Liquidation Threshold to 1, Max Borrow APR for all assets to 400",
           "imageUrl": "https://forum.vires.finance/uploads/db5848/original/1X/c67b6a5e58d7e7c219dd62cb705f03868cdf68ac.png"
         },
@@ -51,7 +71,7 @@
           "description": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "link": "https://howardlindzon.com/sunday-reads-here-comes-crypto-again/",
           "publishedOn": "2022-04-03T17:00:02.000Z",
-          "wordCount": 450,
+          "wordCount": 448,
           "title": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "imageUrl": "https://howardlindzon.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-03-at-6.03.48-AM-1024x569.png"
         },
@@ -84,16 +104,6 @@
           "wordCount": 3544,
           "title": "How to Back Up a Seed Phrase",
           "imageUrl": "https://blog.lopp.net/content/images/2022/03/recovery.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/140334/a-dao-is-selling-nfts-for-the-right-to-tweet-in-a-bizarre-experiment",
-          "author": null,
-          "description": "A DAO is selling NFTs for the right to tweet — in a bizarre experiment",
-          "link": "https://www.theblockcrypto.com/post/140334/a-dao-is-selling-nfts-for-the-right-to-tweet-in-a-bizarre-experiment",
-          "publishedOn": "2022-04-03T14:30:02.000Z",
-          "wordCount": 1144,
-          "title": "A DAO is selling NFTs for the right to tweet — in a bizarre experiment",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220207_Twitter-Generic.jpg"
         },
         {
           "id": "https://uncommoncore.co/interest-rates-are-the-next-battleground-in-the-stablecoin-wars/",
@@ -136,22 +146,12 @@
           "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.jpg"
         },
         {
-          "id": "https://www.forbes.com/sites/martinrivers/2022/04/03/is-bitcoin-really-that-bad-for-the-environment/",
-          "author": null,
-          "description": "Is Bitcoin Really That Bad For The Environment?",
-          "link": "https://www.forbes.com/sites/martinrivers/2022/04/03/is-bitcoin-really-that-bad-for-the-environment/",
-          "publishedOn": "2022-04-03T10:00:02.000Z",
-          "wordCount": 3889,
-          "title": "Is Bitcoin Really That Bad For The Environment?",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/624892ae15b181434585909c/0x0.jpg?format=jpg&width=1200"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2022/03/30/bitcoiner-bruce-fenton-confirms-hes-running-for-new-hampshires-senate-seat/",
           "author": null,
           "description": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "link": "https://www.coindesk.com/policy/2022/03/30/bitcoiner-bruce-fenton-confirms-hes-running-for-new-hampshires-senate-seat/",
           "publishedOn": "2022-04-03T03:00:03.000Z",
-          "wordCount": 798,
+          "wordCount": 799,
           "title": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "imageUrl": "https://www.coindesk.com/resizer/7hzSq2NBRCLFOgMTr1l8AcmtWto=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZVLX3AHOIZCE5AMG2SFU45BCLE.jpg"
         },
@@ -183,7 +183,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/a3158f2b204911ec67336252c057ab6a885e319bf13a4b3f3e70b9e4c479af44/brockelmore/solvm"
+          "imageUrl": "https://opengraph.githubassets.com/f33a29a38a570e17144f1daf841b5954b7de28275dbad3f06af05601566f83c3/brockelmore/solvm"
         },
         {
           "id": "https://vitalik.ca/general/2022/04/01/maximalist.html",
