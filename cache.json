@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l_pIrHVz87I&feature=youtu.be",
+          "author": null,
+          "description": "zkStudyClub: Zero-Knowledge Proofs Security, in Practice [JP Aumasson, Taurus]",
+          "link": "https://www.youtube.com/watch?v=l_pIrHVz87I&feature=youtu.be",
+          "publishedOn": "2022-04-03T11:30:02.000Z",
+          "wordCount": null,
+          "title": "zkStudyClub: Zero-Knowledge Proofs Security, in Practice [JP Aumasson, Taurus]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.paradigm.xyz/2022/03/foundry-02",
           "author": null,
           "description": "Announcing Foundry v0.2.0 - Paradigm",
@@ -26,22 +36,12 @@
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/624892ae15b181434585909c/0x0.jpg?format=jpg&width=1200"
         },
         {
-          "id": "https://www.youtube.com/watch?t=285&v=8GY4m022tgo&feature=youtu.be",
-          "author": null,
-          "description": "Quantum Locking Will Blow Your Mind—How Does it Work?",
-          "link": "https://www.youtube.com/watch?t=285&v=8GY4m022tgo&feature=youtu.be",
-          "publishedOn": "2022-04-03T09:00:03.000Z",
-          "wordCount": null,
-          "title": "Quantum Locking Will Blow Your Mind—How Does it Work?",
-          "imageUrl": null
-        },
-        {
           "id": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
           "author": null,
           "description": "Examining the Emotional Drivers for ‘Locking Tokens’",
           "link": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
           "publishedOn": "2022-04-03T05:00:02.000Z",
-          "wordCount": 2522,
+          "wordCount": 2513,
           "title": "Examining the Emotional Drivers for ‘Locking Tokens’",
           "imageUrl": "https://miro.medium.com/max/972/0*ik6q3jzk-OOR-dxw.png"
         },
@@ -51,7 +51,7 @@
           "description": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "link": "https://www.coindesk.com/policy/2022/03/30/bitcoiner-bruce-fenton-confirms-hes-running-for-new-hampshires-senate-seat/",
           "publishedOn": "2022-04-03T03:00:03.000Z",
-          "wordCount": 798,
+          "wordCount": 799,
           "title": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "imageUrl": "https://www.coindesk.com/resizer/7hzSq2NBRCLFOgMTr1l8AcmtWto=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZVLX3AHOIZCE5AMG2SFU45BCLE.jpg"
         },
@@ -103,7 +103,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/cee5d30142d01b36c20818f2a0ee3665b0afe93ae2783ff2cddac2c63ecbd338/brockelmore/solvm"
+          "imageUrl": "https://opengraph.githubassets.com/266a46e04a66057d917402f6fef3a07f2e79c527010faea7dfbb993563b21ba0/brockelmore/solvm"
         },
         {
           "id": "https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000",
@@ -151,7 +151,7 @@
           "description": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
           "link": "https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/",
           "publishedOn": "2022-04-02T16:30:03.000Z",
-          "wordCount": 2172,
+          "wordCount": 2176,
           "title": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
           "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2022/03/31100235/cover-eth-768x403.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "DeFi protocol Inverse Finance suffers exploit, loss of $15 million in crypto",
           "link": "https://www.theblockcrypto.com/linked/140318/defi-protocol-inverse-finance-suffers-exploit-loss-of-15-million-in-crypto?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-04-02T15:00:02.000Z",
-          "wordCount": 782,
+          "wordCount": 785,
           "title": "DeFi protocol Inverse Finance suffers exploit, loss of $15 million in crypto",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210715_Institutional-DeFi.jpg"
         },
