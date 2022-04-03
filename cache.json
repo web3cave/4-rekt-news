@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?t=285&v=8GY4m022tgo&feature=youtu.be",
+          "author": null,
+          "description": "Quantum Locking Will Blow Your Mind—How Does it Work?",
+          "link": "https://www.youtube.com/watch?t=285&v=8GY4m022tgo&feature=youtu.be",
+          "publishedOn": "2022-04-03T09:00:03.000Z",
+          "wordCount": null,
+          "title": "Quantum Locking Will Blow Your Mind—How Does it Work?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pubmed.ncbi.nlm.nih.gov/23489753/",
+          "author": null,
+          "description": "Atherosclerosis across 4000 years of human history: the Horus study of four ancient populations - PubMed",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/23489753/",
+          "publishedOn": "2022-04-03T09:00:03.000Z",
+          "wordCount": 2325,
+          "title": "Atherosclerosis across 4000 years of human history: the Horus study of four ancient populations - PubMed",
+          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
+        },
+        {
           "id": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
           "author": null,
           "description": "Examining the Emotional Drivers for ‘Locking Tokens’",
           "link": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
           "publishedOn": "2022-04-03T05:00:02.000Z",
-          "wordCount": 2522,
+          "wordCount": 2513,
           "title": "Examining the Emotional Drivers for ‘Locking Tokens’",
           "imageUrl": "https://miro.medium.com/max/972/0*ik6q3jzk-OOR-dxw.png"
         },
@@ -21,7 +41,7 @@
           "description": "Should Gnosis Help Reimburse Some of The Lost Funds on Agave",
           "link": "https://forum.gnosis.io/t/should-gnosis-help-reimburse-some-of-the-lost-funds-on-agave/4215/24?u=monstrosity",
           "publishedOn": "2022-04-03T04:00:03.000Z",
-          "wordCount": 6921,
+          "wordCount": 7533,
           "title": "Should Gnosis Help Reimburse Some of The Lost Funds on Agave",
           "imageUrl": "https://forum.gnosis.io/uploads/default/original/2X/9/91c6f11f855d63a24b181ca83a2bdc36fbe9189e.png"
         },
@@ -31,7 +51,7 @@
           "description": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "link": "https://www.coindesk.com/policy/2022/03/30/bitcoiner-bruce-fenton-confirms-hes-running-for-new-hampshires-senate-seat/",
           "publishedOn": "2022-04-03T03:00:03.000Z",
-          "wordCount": 798,
+          "wordCount": 799,
           "title": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
           "imageUrl": "https://www.coindesk.com/resizer/7hzSq2NBRCLFOgMTr1l8AcmtWto=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZVLX3AHOIZCE5AMG2SFU45BCLE.jpg"
         },
@@ -93,17 +113,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/d800164d888918260a44351a429265c03a2292cc1394e875fc6e5ee44e591e01/brockelmore/solvm"
-        },
-        {
-          "id": "https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000",
-          "author": null,
-          "description": "Adding a 2Pool base implementation of USDC/USDT",
-          "link": "https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000",
-          "publishedOn": "2022-04-02T21:00:02.000Z",
-          "wordCount": 1118,
-          "title": "Adding a 2Pool base implementation of USDC/USDT",
-          "imageUrl": "https://gov.curve.fi/uploads/default/original/1X/236e8d42f0282109552eb0849f8987a75ca5b51b.png"
+          "imageUrl": "https://opengraph.githubassets.com/f98dd9e4dc0215b2ec0a86bf9487a131fb6493f58a9bddfc907b1b7bdb8aae83/brockelmore/solvm"
         },
         {
           "id": "https://eprint.iacr.org/2021/1147",
@@ -141,7 +151,7 @@
           "description": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
           "link": "https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/",
           "publishedOn": "2022-04-02T16:30:03.000Z",
-          "wordCount": 2171,
+          "wordCount": 2172,
           "title": "Ethereum and the Merge to Proof-of-Stake With Trent Van Epps",
           "imageUrl": "https://static.cryptobriefing.com/wp-content/uploads/2022/03/31100235/cover-eth-768x403.jpg"
         },
@@ -164,16 +174,6 @@
           "wordCount": 782,
           "title": "DeFi protocol Inverse Finance suffers exploit, loss of $15 million in crypto",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210715_Institutional-DeFi.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kn1WlunVFts",
-          "author": null,
-          "description": "The Best Ethereum Merge Explainer You'll Ever See",
-          "link": "https://www.youtube.com/watch?v=Kn1WlunVFts",
-          "publishedOn": "2022-04-02T09:30:04.000Z",
-          "wordCount": null,
-          "title": "The Best Ethereum Merge Explainer You'll Ever See",
-          "imageUrl": null
         },
         {
           "id": "https://www.blockchain.com/",
