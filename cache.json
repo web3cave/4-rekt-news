@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.paradigm.xyz/2022/03/foundry-02",
+          "author": null,
+          "description": "Announcing Foundry v0.2.0 - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/03/foundry-02",
+          "publishedOn": "2022-04-03T11:00:04.000Z",
+          "wordCount": 2476,
+          "title": "Announcing Foundry v0.2.0 - Paradigm",
+          "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.jpg"
+        },
+        {
+          "id": "https://www.forbes.com/sites/martinrivers/2022/04/03/is-bitcoin-really-that-bad-for-the-environment/",
+          "author": null,
+          "description": "Is Bitcoin Really That Bad For The Environment?",
+          "link": "https://www.forbes.com/sites/martinrivers/2022/04/03/is-bitcoin-really-that-bad-for-the-environment/",
+          "publishedOn": "2022-04-03T10:00:02.000Z",
+          "wordCount": 3889,
+          "title": "Is Bitcoin Really That Bad For The Environment?",
+          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/624892ae15b181434585909c/0x0.jpg?format=jpg&width=1200"
+        },
+        {
           "id": "https://www.youtube.com/watch?t=285&v=8GY4m022tgo&feature=youtu.be",
           "author": null,
           "description": "Quantum Locking Will Blow Your Mind—How Does it Work?",
@@ -14,26 +34,6 @@
           "wordCount": null,
           "title": "Quantum Locking Will Blow Your Mind—How Does it Work?",
           "imageUrl": null
-        },
-        {
-          "id": "https://pubmed.ncbi.nlm.nih.gov/23489753/",
-          "author": null,
-          "description": "Atherosclerosis across 4000 years of human history: the Horus study of four ancient populations - PubMed",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/23489753/",
-          "publishedOn": "2022-04-03T09:00:03.000Z",
-          "wordCount": 2325,
-          "title": "Atherosclerosis across 4000 years of human history: the Horus study of four ancient populations - PubMed",
-          "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image.png"
-        },
-        {
-          "id": "https://racc0ons.com/",
-          "author": null,
-          "description": "raCC0ons - public domain raccoon NFTs",
-          "link": "https://racc0ons.com/",
-          "publishedOn": "2022-04-03T07:00:02.000Z",
-          "wordCount": 160,
-          "title": "raCC0ons - public domain raccoon NFTs",
-          "imageUrl": ""
         },
         {
           "id": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
@@ -103,7 +103,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/f98dd9e4dc0215b2ec0a86bf9487a131fb6493f58a9bddfc907b1b7bdb8aae83/brockelmore/solvm"
+          "imageUrl": "https://opengraph.githubassets.com/cee5d30142d01b36c20818f2a0ee3665b0afe93ae2783ff2cddac2c63ecbd338/brockelmore/solvm"
         },
         {
           "id": "https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000",
@@ -201,7 +201,7 @@
           "description": "Five Ducking Digits",
           "link": "https://cryptohayes.medium.com/five-ducking-digits-cd92a7ab72ce",
           "publishedOn": "2022-04-01T00:30:02.000Z",
-          "wordCount": 5934,
+          "wordCount": 5936,
           "title": "Five Ducking Digits",
           "imageUrl": "https://miro.medium.com/max/400/0*KeT246MRJqcKqFMP"
         }
