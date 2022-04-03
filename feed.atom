@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T15:21:20.417Z</id>
+    <id>urn:2022-04-03T16:28:34.212Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-03T15:21:20.417Z</updated>
+    <updated>2022-04-03T16:28:34.212Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://hal.inria.fr/hal-01966561"/>
         <updated>2022-04-03T13:00:09.000Z</updated>
         <summary type="html"><![CDATA[Decentralizing the Social Web]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] Fliegel.pdf]]></title>
+        <id>http://www.cs.otago.ac.nz/cosc345/resources/Fliegel.pdf</id>
+        <link href="http://www.cs.otago.ac.nz/cosc345/resources/Fliegel.pdf"/>
+        <updated>2022-04-03T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] Fliegel.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://github.com/brockelmore/solvm"/>
         <updated>2022-04-02T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - brockelmore/solvm: evm inception]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum and the Merge to Proof-of-Stake With Trent Van Epps]]></title>
-        <id>https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/</id>
-        <link href="https://cryptobriefing.com/ethereum-merge-proof-of-stake-with-trent-van-epps/"/>
-        <updated>2022-04-02T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum and the Merge to Proof-of-Stake With Trent Van Epps]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
