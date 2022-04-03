@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-03T06:25:08.663Z</id>
+    <id>urn:2022-04-03T07:19:22.178Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-03T06:25:08.663Z</updated>
+    <updated>2022-04-03T07:19:22.178Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[lootloose/LootLooseMeta.t.sol at master · gakonst/lootloose]]></title>
-        <id>https://github.com/gakonst/lootloose/blob/master/src/test/LootLooseMeta.t.sol#L98</id>
-        <link href="https://github.com/gakonst/lootloose/blob/master/src/test/LootLooseMeta.t.sol#L98"/>
-        <updated>2022-04-03T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[lootloose/LootLooseMeta.t.sol at master · gakonst/lootloose]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Examining the Emotional Drivers for ‘Locking Tokens’]]></title>
         <id>https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw</id>
@@ -101,6 +91,16 @@
         <link href="https://github.com/brockelmore/solvm"/>
         <updated>2022-04-02T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - brockelmore/solvm: evm inception]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding a 2Pool base implementation of USDC/USDT]]></title>
+        <id>https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000</id>
+        <link href="https://gov.curve.fi/t/adding-a-2pool-base-implementation-of-usdc-usdt/3000"/>
+        <updated>2022-04-02T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Adding a 2Pool base implementation of USDC/USDT]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
