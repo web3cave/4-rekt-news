@@ -6,12 +6,52 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vires.finance/",
+          "author": null,
+          "description": "The Liquidity Protocol for Lending and Borrowing Assets – VIRES.FINANCE",
+          "link": "https://vires.finance/",
+          "publishedOn": "2022-04-03T18:00:03.000Z",
+          "wordCount": 22,
+          "title": "The Liquidity Protocol for Lending and Borrowing Assets – VIRES.FINANCE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gnosischain.com/",
+          "author": null,
+          "description": "Gnosis Beacon Chain",
+          "link": "https://www.gnosischain.com/",
+          "publishedOn": "2022-04-03T18:00:03.000Z",
+          "wordCount": 533,
+          "title": "Gnosis Beacon Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://docs.gnosischain.com/",
+          "author": null,
+          "description": "GBC Introduction - Gnosis Chain",
+          "link": "https://docs.gnosischain.com/",
+          "publishedOn": "2022-04-03T18:00:03.000Z",
+          "wordCount": 336,
+          "title": "GBC Introduction - Gnosis Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.vires.finance/t/set-waves-usdn-eurn-liquidation-threshold-to-1-max-borrow-apr-for-all-assets-to-400/128",
+          "author": null,
+          "description": "Set WAVES/USDN/EURN Liquidation Threshold to 1, Max Borrow APR for all assets to 400",
+          "link": "https://forum.vires.finance/t/set-waves-usdn-eurn-liquidation-threshold-to-1-max-borrow-apr-for-all-assets-to-400/128",
+          "publishedOn": "2022-04-03T18:00:02.000Z",
+          "wordCount": 1076,
+          "title": "Set WAVES/USDN/EURN Liquidation Threshold to 1, Max Borrow APR for all assets to 400",
+          "imageUrl": "https://forum.vires.finance/uploads/db5848/original/1X/c67b6a5e58d7e7c219dd62cb705f03868cdf68ac.png"
+        },
+        {
           "id": "https://howardlindzon.com/sunday-reads-here-comes-crypto-again/",
           "author": null,
           "description": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "link": "https://howardlindzon.com/sunday-reads-here-comes-crypto-again/",
           "publishedOn": "2022-04-03T17:00:02.000Z",
-          "wordCount": 460,
+          "wordCount": 450,
           "title": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "imageUrl": "https://howardlindzon.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-03-at-6.03.48-AM-1024x569.png"
         },
@@ -61,7 +101,7 @@
           "description": "Interest Rates are the Next Battleground in the Stablecoin Wars - Uncommon Core by Su Zhu and Hasu",
           "link": "https://uncommoncore.co/interest-rates-are-the-next-battleground-in-the-stablecoin-wars/",
           "publishedOn": "2022-04-03T13:00:09.000Z",
-          "wordCount": 869,
+          "wordCount": 874,
           "title": "Interest Rates are the Next Battleground in the Stablecoin Wars - Uncommon Core by Su Zhu and Hasu",
           "imageUrl": "https://uncommoncore.co/wp-content/uploads/2019/02/standoff1-768x481.png"
         },
@@ -73,16 +113,6 @@
           "publishedOn": "2022-04-03T13:00:09.000Z",
           "wordCount": 496,
           "title": "Decentralizing the Social Web",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.cs.otago.ac.nz/cosc345/resources/Fliegel.pdf",
-          "author": null,
-          "description": "[PDF] Fliegel.pdf",
-          "link": "http://www.cs.otago.ac.nz/cosc345/resources/Fliegel.pdf",
-          "publishedOn": "2022-04-03T13:00:09.000Z",
-          "wordCount": 13566,
-          "title": "[PDF] Fliegel.pdf",
           "imageUrl": null
         },
         {
@@ -116,16 +146,6 @@
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/624892ae15b181434585909c/0x0.jpg?format=jpg&width=1200"
         },
         {
-          "id": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
-          "author": null,
-          "description": "Examining the Emotional Drivers for ‘Locking Tokens’",
-          "link": "https://beethovenxio.medium.com/examining-the-emotional-drivers-for-locking-tokens-aa5e37e5509e?source=social.tw",
-          "publishedOn": "2022-04-03T05:00:02.000Z",
-          "wordCount": 2597,
-          "title": "Examining the Emotional Drivers for ‘Locking Tokens’",
-          "imageUrl": "https://miro.medium.com/max/972/0*ik6q3jzk-OOR-dxw.png"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2022/03/30/bitcoiner-bruce-fenton-confirms-hes-running-for-new-hampshires-senate-seat/",
           "author": null,
           "description": "Bitcoiner Bruce Fenton Confirms He’s Running for New Hampshire Senate Seat",
@@ -141,19 +161,9 @@
           "description": "Pudgy Penguins NFT Collection Looks to Next Chapter With $2.5M Sale",
           "link": "https://www.coindesk.com/markets/2022/04/02/pudgy-penguins-nft-collection-looks-to-next-chapter-with-25m-sale/",
           "publishedOn": "2022-04-03T01:00:02.000Z",
-          "wordCount": 1920,
+          "wordCount": 1919,
           "title": "Pudgy Penguins NFT Collection Looks to Next Chapter With $2.5M Sale",
           "imageUrl": "https://www.coindesk.com/resizer/rEFnZQiKge7sxR4-h4crPpU3OmM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4JZAPI2SJJB6LDEGIRSYM6M2KM.png"
-        },
-        {
-          "id": "https://friendsies.io/",
-          "author": null,
-          "description": "fRiENDSiES",
-          "link": "https://friendsies.io/",
-          "publishedOn": "2022-04-02T22:00:02.000Z",
-          "wordCount": 9,
-          "title": "fRiENDSiES",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=6IoAp1f3tVk&feature=youtu.be",
@@ -173,17 +183,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/714a4842f8a2458a145833e64ce0ea045bbf923ad2a841164720d5af5649759b/brockelmore/solvm"
-        },
-        {
-          "id": "https://gov.gitcoin.co/t/an-evolutionary-lens-on-web3-open-source-software/10293",
-          "author": null,
-          "description": "An Evolutionary Lens on Web3/Open Source Software 🔎",
-          "link": "https://gov.gitcoin.co/t/an-evolutionary-lens-on-web3-open-source-software/10293",
-          "publishedOn": "2022-04-02T15:00:02.000Z",
-          "wordCount": 1209,
-          "title": "An Evolutionary Lens on Web3/Open Source Software 🔎",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard11/uploads/gitcoin1/optimized/2X/a/a00f2070303674cf373e0e65bdbf4fe5ce074aac_2_772x1024.png"
+          "imageUrl": "https://opengraph.githubassets.com/a3158f2b204911ec67336252c057ab6a885e319bf13a4b3f3e70b9e4c479af44/brockelmore/solvm"
         },
         {
           "id": "https://vitalik.ca/general/2022/04/01/maximalist.html",
