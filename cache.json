@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://eva.mirror.xyz/r4LxVs66QL_Ia8IjisHK9O5GwjSkFeF542OTzZL9FKo",
+          "id": "https://www.bis.org/events/220404_defi.htm",
           "author": null,
-          "description": "Dynamic DAOs",
-          "link": "https://eva.mirror.xyz/r4LxVs66QL_Ia8IjisHK9O5GwjSkFeF542OTzZL9FKo",
-          "publishedOn": "2022-04-04T07:00:02.000Z",
-          "wordCount": 1170,
-          "title": "Dynamic DAOs",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/Wy71hewIMPwtRzzP9rqM9.jpeg?height=320&width=640"
+          "description": "Does safe DeFi require CBDCs?",
+          "link": "https://www.bis.org/events/220404_defi.htm",
+          "publishedOn": "2022-04-04T09:00:03.000Z",
+          "wordCount": 5012,
+          "title": "Does safe DeFi require CBDCs?",
+          "imageUrl": "https://www.bis.org/img/bislogo_og.jpg"
+        },
+        {
+          "id": "https://ethresear.ch/t/simplified-ssle/12315",
+          "author": null,
+          "description": "Simplified SSLE",
+          "link": "https://ethresear.ch/t/simplified-ssle/12315",
+          "publishedOn": "2022-04-04T09:00:02.000Z",
+          "wordCount": 1280,
+          "title": "Simplified SSLE",
+          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/1c2c264aaa07e00bee9b01fd7bffa8290365abac.png"
         },
         {
           "id": "https://discuss.ens.domains/t/transitioning-the-dao-to-an-rfp-model/11821",
@@ -71,7 +81,7 @@
           "description": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
           "link": "https://github.com/ameensol/streampie",
           "publishedOn": "2022-04-03T19:00:03.000Z",
-          "wordCount": 1240,
+          "wordCount": 1106,
           "title": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
           "imageUrl": "https://opengraph.githubassets.com/a56d74ed79a25230dba88b1a97e2aafd141d2d981c1b105e6dd681260d7e1255/ameensol/streampie"
         },
@@ -174,16 +184,6 @@
           "wordCount": 496,
           "title": "Decentralizing the Social Web",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.paradigm.xyz/2022/03/foundry-02",
-          "author": null,
-          "description": "Announcing Foundry v0.2.0 - Paradigm",
-          "link": "https://www.paradigm.xyz/2022/03/foundry-02",
-          "publishedOn": "2022-04-03T11:00:04.000Z",
-          "wordCount": 2476,
-          "title": "Announcing Foundry v0.2.0 - Paradigm",
-          "imageUrl": "https://paradigm-xyz.vercel.app/static/foundry-02.jpg"
         },
         {
           "id": "https://vitalik.ca/general/2022/04/01/maximalist.html",

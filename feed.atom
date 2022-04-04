@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T08:25:55.406Z</id>
+    <id>urn:2022-04-04T09:21:13.132Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-04T08:25:55.406Z</updated>
+    <updated>2022-04-04T09:21:13.132Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Dynamic DAOs]]></title>
-        <id>https://eva.mirror.xyz/r4LxVs66QL_Ia8IjisHK9O5GwjSkFeF542OTzZL9FKo</id>
-        <link href="https://eva.mirror.xyz/r4LxVs66QL_Ia8IjisHK9O5GwjSkFeF542OTzZL9FKo"/>
-        <updated>2022-04-04T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Dynamic DAOs]]></summary>
+        <title type="html"><![CDATA[Does safe DeFi require CBDCs?]]></title>
+        <id>https://www.bis.org/events/220404_defi.htm</id>
+        <link href="https://www.bis.org/events/220404_defi.htm"/>
+        <updated>2022-04-04T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Does safe DeFi require CBDCs?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplified SSLE]]></title>
+        <id>https://ethresear.ch/t/simplified-ssle/12315</id>
+        <link href="https://ethresear.ch/t/simplified-ssle/12315"/>
+        <updated>2022-04-04T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Simplified SSLE]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://hal.inria.fr/hal-01966561"/>
         <updated>2022-04-03T13:00:09.000Z</updated>
         <summary type="html"><![CDATA[Decentralizing the Social Web]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Foundry v0.2.0 - Paradigm]]></title>
-        <id>https://www.paradigm.xyz/2022/03/foundry-02</id>
-        <link href="https://www.paradigm.xyz/2022/03/foundry-02"/>
-        <updated>2022-04-03T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Foundry v0.2.0 - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
