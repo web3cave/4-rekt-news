@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wk28cgCG3Ho",
+          "author": null,
+          "description": "Jamie xx- All Under One Roof Raving",
+          "link": "https://www.youtube.com/watch?v=wk28cgCG3Ho",
+          "publishedOn": "2022-04-04T17:00:03.000Z",
+          "wordCount": null,
+          "title": "Jamie xx- All Under One Roof Raving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/neodyme-labs/solana-security-txt",
+          "author": null,
+          "description": "GitHub - neodyme-labs/solana-security-txt: security.txt for Solana Contracts",
+          "link": "https://github.com/neodyme-labs/solana-security-txt",
+          "publishedOn": "2022-04-04T17:00:02.000Z",
+          "wordCount": 1572,
+          "title": "GitHub - neodyme-labs/solana-security-txt: security.txt for Solana Contracts",
+          "imageUrl": "https://opengraph.githubassets.com/b0e8bd2cb14d508c73af5c2a42399ef3d933e2e16d4df46ce197a4b3613de4ae/neodyme-labs/solana-security-txt"
+        },
+        {
+          "id": "https://medium.com/starkware/starkgate-alpha-35d01d21e3af",
+          "author": null,
+          "description": "StarkGate Alpha",
+          "link": "https://medium.com/starkware/starkgate-alpha-35d01d21e3af",
+          "publishedOn": "2022-04-04T17:00:02.000Z",
+          "wordCount": 719,
+          "title": "StarkGate Alpha",
+          "imageUrl": "https://miro.medium.com/max/1200/1*4HilekOQgIKVFF5xQ7vFcg.png"
+        },
+        {
           "id": "https://www.gov.uk/government/news/government-sets-out-plan-to-make-uk-a-global-cryptoasset-technology-hub",
           "author": null,
           "description": "Government sets out plan to make UK a global cryptoasset technology hub",
@@ -24,36 +54,6 @@
           "wordCount": 1226,
           "title": "BitMEX lays off 75 employees after bank acquisition collapses",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/10/20211221_bitmex_Generic.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/rabobank-anyone-thinking-zelenskiy-about-sign-peace-deal-making-territorial-concessions",
-          "author": null,
-          "description": "Rabobank: Anyone Thinking Zelenskiy Is About To Sign A Peace Deal Making Territorial Concessions Is Delusional |...",
-          "link": "https://www.zerohedge.com/markets/rabobank-anyone-thinking-zelenskiy-about-sign-peace-deal-making-territorial-concessions",
-          "publishedOn": "2022-04-04T15:00:03.000Z",
-          "wordCount": 2199,
-          "title": "Rabobank: Anyone Thinking Zelenskiy Is About To Sign A Peace Deal Making Territorial Concessions Is Delusional |...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/cold-snap-sends-french-power-prices-13-year-high",
-          "author": null,
-          "description": "Cold Snap Sends French Power Prices To 13-Year High  | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/cold-snap-sends-french-power-prices-13-year-high",
-          "publishedOn": "2022-04-04T15:00:03.000Z",
-          "wordCount": 504,
-          "title": "Cold Snap Sends French Power Prices To 13-Year High  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/niall-ferguson-seven-worst-case-scenarios-war-ukraine",
-          "author": null,
-          "description": "Niall Ferguson: Seven Worst-Case Scenarios From The War In Ukraine | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/niall-ferguson-seven-worst-case-scenarios-war-ukraine",
-          "publishedOn": "2022-04-04T15:00:03.000Z",
-          "wordCount": 3783,
-          "title": "Niall Ferguson: Seven Worst-Case Scenarios From The War In Ukraine | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.theblockcrypto.com/linked/140426/elon-musk-has-taken-a-9-2-stake-in-twitter?utm_source=twitter&utm_medium=social",
@@ -86,16 +86,6 @@
           "imageUrl": "https://miro.medium.com/max/800/1*BDSI-MdXwznP67dIms4H-A.jpeg"
         },
         {
-          "id": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "author": null,
-          "description": "Bitcoin consumes more power than all these countries",
-          "link": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "publishedOn": "2022-04-04T12:00:03.000Z",
-          "wordCount": 1604,
-          "title": "Bitcoin consumes more power than all these countries",
-          "imageUrl": "https://assets.weforum.org/editor/TAdVNkWNaRDYnOWWx4VaBRvEBdVnUKrsUU9VFRQslM4.jpg"
-        },
-        {
           "id": "https://www.bis.org/events/220404_defi.htm",
           "author": null,
           "description": "Does safe DeFi require CBDCs?",
@@ -114,6 +104,26 @@
           "wordCount": 1284,
           "title": "Simplified SSLE",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/1c2c264aaa07e00bee9b01fd7bffa8290365abac.png"
+        },
+        {
+          "id": "https://github.com/FawadHa1der/ricks-cairo-contracts",
+          "author": null,
+          "description": "GitHub - FawadHa1der/ricks-cairo-contracts: OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK...",
+          "link": "https://github.com/FawadHa1der/ricks-cairo-contracts",
+          "publishedOn": "2022-04-04T09:00:02.000Z",
+          "wordCount": 1147,
+          "title": "GitHub - FawadHa1der/ricks-cairo-contracts: OpenZeppelin Contracts written in Cairo for StarkNet, a decentralized ZK...",
+          "imageUrl": "https://opengraph.githubassets.com/a2a6285396fcc38e7d6397a9f1c444ff256ab17ead5a72ec6f0505adaf15c3d5/FawadHa1der/ricks-cairo-contracts"
+        },
+        {
+          "id": "https://www.paradigm.xyz/2021/10/ricks",
+          "author": null,
+          "description": "RICKS - Paradigm",
+          "link": "https://www.paradigm.xyz/2021/10/ricks",
+          "publishedOn": "2022-04-04T09:00:02.000Z",
+          "wordCount": 2766,
+          "title": "RICKS - Paradigm",
+          "imageUrl": "https://paradigm-xyz.vercel.app/static/meta-ricks.png"
         },
         {
           "id": "https://discuss.ens.domains/t/transitioning-the-dao-to-an-rfp-model/11821",
@@ -164,16 +174,6 @@
           "wordCount": 1569,
           "title": "Mezcal, A New Vision For Celo",
           "imageUrl": "https://mirror-media.imgix.net/nft/A4rxLSsf815zWWiB2zyad.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://github.com/ameensol/streampie",
-          "author": null,
-          "description": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
-          "link": "https://github.com/ameensol/streampie",
-          "publishedOn": "2022-04-03T19:00:03.000Z",
-          "wordCount": 1240,
-          "title": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
-          "imageUrl": "https://opengraph.githubassets.com/a56d74ed79a25230dba88b1a97e2aafd141d2d981c1b105e6dd681260d7e1255/ameensol/streampie"
         },
         {
           "id": "https://forum.vires.finance/t/set-waves-usdn-eurn-liquidation-threshold-to-1-max-borrow-apr-for-all-assets-to-400/128",
