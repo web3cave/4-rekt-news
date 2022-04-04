@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.coinbase.com/namaste-india-8eb5136541c8?gi=e55fa3c259bd",
+          "author": null,
+          "description": "Namaste, India! 🇮🇳",
+          "link": "https://blog.coinbase.com/namaste-india-8eb5136541c8?gi=e55fa3c259bd",
+          "publishedOn": "2022-04-04T12:30:02.000Z",
+          "wordCount": 451,
+          "title": "Namaste, India! 🇮🇳",
+          "imageUrl": "https://miro.medium.com/max/800/1*BDSI-MdXwznP67dIms4H-A.jpeg"
+        },
+        {
+          "id": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+          "author": null,
+          "description": "Bitcoin consumes more power than all these countries",
+          "link": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+          "publishedOn": "2022-04-04T12:00:03.000Z",
+          "wordCount": 1604,
+          "title": "Bitcoin consumes more power than all these countries",
+          "imageUrl": "https://assets.weforum.org/editor/TAdVNkWNaRDYnOWWx4VaBRvEBdVnUKrsUU9VFRQslM4.jpg"
+        },
+        {
+          "id": "https://www.bis.org/events/220404_defi.htm",
+          "author": null,
+          "description": "Does safe DeFi require CBDCs?",
+          "link": "https://www.bis.org/events/220404_defi.htm",
+          "publishedOn": "2022-04-04T11:30:02.000Z",
+          "wordCount": 5012,
+          "title": "Does safe DeFi require CBDCs?",
+          "imageUrl": "https://www.bis.org/img/bislogo_og.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/commodities/why-gold-coin-demand-doesnt-drive-gold-price",
           "author": null,
           "description": "Why Gold Coin Demand Doesn't Drive The Gold Price | ZeroHedge",
@@ -31,7 +61,7 @@
           "description": "Transitioning the DAO to an RFP model",
           "link": "https://discuss.ens.domains/t/transitioning-the-dao-to-an-rfp-model/11821",
           "publishedOn": "2022-04-04T03:30:02.000Z",
-          "wordCount": 1806,
+          "wordCount": 1963,
           "title": "Transitioning the DAO to an RFP model",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -44,6 +74,16 @@
           "wordCount": 1449,
           "title": "Greenpeace Is Pushing to Change How Bitcoin Works to Cut Emissions",
           "imageUrl": "https://video-images.vice.com/articles/624359565ebecb009b25a489/lede/1648581331076-untitled-design-50.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/german-retailers-increase-food-prices-20-50-monday",
+          "author": null,
+          "description": "German Retailers To Increase Food Prices By 20-50% On Monday | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/german-retailers-increase-food-prices-20-50-monday",
+          "publishedOn": "2022-04-03T21:30:02.000Z",
+          "wordCount": 806,
+          "title": "German Retailers To Increase Food Prices By 20-50% On Monday | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/covid-19/new-york-city-will-mandate-masks-children-under-5-years-old",
@@ -81,7 +121,7 @@
           "description": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
           "link": "https://github.com/ameensol/streampie",
           "publishedOn": "2022-04-03T19:00:03.000Z",
-          "wordCount": 1240,
+          "wordCount": 1092,
           "title": "GitHub - ameensol/streampie: RageStream functionality added to Sablier",
           "imageUrl": "https://opengraph.githubassets.com/a56d74ed79a25230dba88b1a97e2aafd141d2d981c1b105e6dd681260d7e1255/ameensol/streampie"
         },
@@ -93,26 +133,6 @@
           "publishedOn": "2022-04-03T18:00:03.000Z",
           "wordCount": 22,
           "title": "The Liquidity Protocol for Lending and Borrowing Assets – VIRES.FINANCE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.gnosischain.com/",
-          "author": null,
-          "description": "Gnosis Beacon Chain",
-          "link": "https://www.gnosischain.com/",
-          "publishedOn": "2022-04-03T18:00:03.000Z",
-          "wordCount": 533,
-          "title": "Gnosis Beacon Chain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.gnosischain.com/",
-          "author": null,
-          "description": "GBC Introduction - Gnosis Chain",
-          "link": "https://docs.gnosischain.com/",
-          "publishedOn": "2022-04-03T18:00:03.000Z",
-          "wordCount": 336,
-          "title": "GBC Introduction - Gnosis Chain",
           "imageUrl": null
         },
         {
@@ -131,7 +151,7 @@
           "description": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "link": "https://howardlindzon.com/sunday-reads-here-comes-crypto-again/",
           "publishedOn": "2022-04-03T17:00:02.000Z",
-          "wordCount": 448,
+          "wordCount": 457,
           "title": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "imageUrl": "https://howardlindzon.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-03-at-6.03.48-AM-1024x569.png"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://hyperlootproject.com/hyperloot-og-image-facebook.jpg"
         },
         {
-          "id": "https://blog.lopp.net/how-the-sec-nearly-destroyed-my-retirement-account/",
-          "author": null,
-          "description": "How the SEC Nearly Destroyed my Retirement Account",
-          "link": "https://blog.lopp.net/how-the-sec-nearly-destroyed-my-retirement-account/",
-          "publishedOn": "2022-04-03T15:00:05.000Z",
-          "wordCount": 1450,
-          "title": "How the SEC Nearly Destroyed my Retirement Account",
-          "imageUrl": "https://blog.lopp.net/content/images/2020/04/nuke.jpg"
-        },
-        {
           "id": "https://blog.lopp.net/how-to-back-up-a-seed-phrase/",
           "author": null,
           "description": "How to Back Up a Seed Phrase",
@@ -174,16 +184,6 @@
           "wordCount": 3544,
           "title": "How to Back Up a Seed Phrase",
           "imageUrl": "https://blog.lopp.net/content/images/2022/03/recovery.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/140334/a-dao-is-selling-nfts-for-the-right-to-tweet-in-a-bizarre-experiment",
-          "author": null,
-          "description": "A DAO is selling NFTs for the right to tweet — in a bizarre experiment",
-          "link": "https://www.theblockcrypto.com/post/140334/a-dao-is-selling-nfts-for-the-right-to-tweet-in-a-bizarre-experiment",
-          "publishedOn": "2022-04-03T14:30:02.000Z",
-          "wordCount": 1130,
-          "title": "A DAO is selling NFTs for the right to tweet — in a bizarre experiment",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220207_Twitter-Generic.jpg"
         },
         {
           "id": "https://vitalik.ca/general/2022/04/01/maximalist.html",
