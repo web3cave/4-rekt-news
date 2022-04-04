@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/k06a/prb-math/commit/3d0f38611e6c86ac295b4ec4803815f8ae6d2810",
+          "author": null,
+          "description": "Optimize exp2 with batching bit checks · k06a/prb-math@3d0f386",
+          "link": "https://github.com/k06a/prb-math/commit/3d0f38611e6c86ac295b4ec4803815f8ae6d2810",
+          "publishedOn": "2022-04-04T20:00:03.000Z",
+          "wordCount": 287,
+          "title": "Optimize exp2 with batching bit checks · k06a/prb-math@3d0f386",
+          "imageUrl": "https://opengraph.githubassets.com/021f3cfc997b907468ef8975c82565b68c8db8aff768dc7c914c3b7605b181f7/k06a/prb-math/commit/3d0f38611e6c86ac295b4ec4803815f8ae6d2810"
+        },
+        {
           "id": "https://www.paradigm.xyz/2022/04/gda",
           "author": null,
           "description": "Gradual Dutch Auctions - Paradigm",
           "link": "https://www.paradigm.xyz/2022/04/gda",
           "publishedOn": "2022-04-04T19:00:02.000Z",
-          "wordCount": 1267,
+          "wordCount": 1278,
           "title": "Gradual Dutch Auctions - Paradigm",
           "imageUrl": "https://paradigm-xyz.vercel.app/static/gda_title_card.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
           "link": "https://members.delphidigital.io/media/disruptors-why-daos-with-tracheopteryx",
           "publishedOn": "2022-04-04T19:00:02.000Z",
-          "wordCount": 698,
+          "wordCount": 649,
           "title": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/03/Trach-Dirsuptors-Youtube.png"
         },
@@ -154,16 +164,6 @@
           "wordCount": 1978,
           "title": "Transitioning the DAO to an RFP model",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
-        },
-        {
-          "id": "https://www.vice.com/en/article/93bvvz/greenpeace-is-pushing-to-change-how-bitcoin-works-to-cut-emissions",
-          "author": null,
-          "description": "Greenpeace Is Pushing to Change How Bitcoin Works to Cut Emissions",
-          "link": "https://www.vice.com/en/article/93bvvz/greenpeace-is-pushing-to-change-how-bitcoin-works-to-cut-emissions",
-          "publishedOn": "2022-04-03T22:00:03.000Z",
-          "wordCount": 1449,
-          "title": "Greenpeace Is Pushing to Change How Bitcoin Works to Cut Emissions",
-          "imageUrl": "https://video-images.vice.com/articles/624359565ebecb009b25a489/lede/1648581331076-untitled-design-50.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
         },
         {
           "id": "https://mirror.xyz/ocelotlabs.eth/9vtP5Tc-V_zRTMZ907DmmCWxUgIS4g-nKMrsckcZW7A",
