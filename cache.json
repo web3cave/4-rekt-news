@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=wk28cgCG3Ho",
+          "id": "https://www.paradigm.xyz/2022/04/gda",
           "author": null,
-          "description": "Jamie xx- All Under One Roof Raving",
-          "link": "https://www.youtube.com/watch?v=wk28cgCG3Ho",
-          "publishedOn": "2022-04-04T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Jamie xx- All Under One Roof Raving",
-          "imageUrl": null
+          "description": "Gradual Dutch Auctions - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/04/gda",
+          "publishedOn": "2022-04-04T19:00:02.000Z",
+          "wordCount": 1267,
+          "title": "Gradual Dutch Auctions - Paradigm",
+          "imageUrl": "https://paradigm-xyz.vercel.app/static/gda_title_card.jpg"
+        },
+        {
+          "id": "https://members.delphidigital.io/media/disruptors-why-daos-with-tracheopteryx",
+          "author": null,
+          "description": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
+          "link": "https://members.delphidigital.io/media/disruptors-why-daos-with-tracheopteryx",
+          "publishedOn": "2022-04-04T19:00:02.000Z",
+          "wordCount": 625,
+          "title": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
+          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/03/Trach-Dirsuptors-Youtube.png"
         },
         {
           "id": "https://github.com/neodyme-labs/solana-security-txt",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-04-04T17:00:02.000Z",
           "wordCount": 1569,
           "title": "GitHub - neodyme-labs/solana-security-txt: security.txt for Solana Contracts",
-          "imageUrl": "https://opengraph.githubassets.com/b0e8bd2cb14d508c73af5c2a42399ef3d933e2e16d4df46ce197a4b3613de4ae/neodyme-labs/solana-security-txt"
+          "imageUrl": "https://opengraph.githubassets.com/8879b43ca24e1c5b32bdaf511b7e8a95ed5bced9e9378c5a6a88fbeb83d735e8/neodyme-labs/solana-security-txt"
         },
         {
           "id": "https://medium.com/starkware/starkgate-alpha-35d01d21e3af",
@@ -86,6 +96,16 @@
           "imageUrl": "https://miro.medium.com/max/800/1*BDSI-MdXwznP67dIms4H-A.jpeg"
         },
         {
+          "id": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+          "author": null,
+          "description": "Bitcoin consumes more power than all these countries",
+          "link": "https://www.weforum.org/agenda/2017/12/bitcoin-consume-more-power-than-world-2020?utm_content=bufferada1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+          "publishedOn": "2022-04-04T12:00:03.000Z",
+          "wordCount": 1602,
+          "title": "Bitcoin consumes more power than all these countries",
+          "imageUrl": "https://assets.weforum.org/editor/TAdVNkWNaRDYnOWWx4VaBRvEBdVnUKrsUU9VFRQslM4.jpg"
+        },
+        {
           "id": "https://www.bis.org/events/220404_defi.htm",
           "author": null,
           "description": "Does safe DeFi require CBDCs?",
@@ -144,26 +164,6 @@
           "wordCount": 1449,
           "title": "Greenpeace Is Pushing to Change How Bitcoin Works to Cut Emissions",
           "imageUrl": "https://video-images.vice.com/articles/624359565ebecb009b25a489/lede/1648581331076-untitled-design-50.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/new-york-city-will-mandate-masks-children-under-5-years-old",
-          "author": null,
-          "description": "New York City Will Mandate Masks For Children Under 5 Years Old | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/new-york-city-will-mandate-masks-children-under-5-years-old",
-          "publishedOn": "2022-04-03T21:00:02.000Z",
-          "wordCount": 647,
-          "title": "New York City Will Mandate Masks For Children Under 5 Years Old | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer?s=w",
-          "author": null,
-          "description": "The Next Phase of Humanity with Metadreamer | Layer Zero",
-          "link": "https://shows.banklesshq.com/p/the-cosmic-circus-with-metadreamer?s=w",
-          "publishedOn": "2022-04-03T19:30:02.000Z",
-          "wordCount": 473,
-          "title": "The Next Phase of Humanity with Metadreamer | Layer Zero",
-          "imageUrl": "https://cdn.substack.com/image/youtube/w_728,c_limit/oqeeZwQr7TQ"
         },
         {
           "id": "https://mirror.xyz/ocelotlabs.eth/9vtP5Tc-V_zRTMZ907DmmCWxUgIS4g-nKMrsckcZW7A",
