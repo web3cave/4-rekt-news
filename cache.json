@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://raoulpal.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile",
-          "author": null,
-          "description": "Raoul’s Thoughts on Random Stuff",
-          "link": "https://raoulpal.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile",
-          "publishedOn": "2022-04-04T01:00:03.000Z",
-          "wordCount": 176,
-          "title": "Raoul’s Thoughts on Random Stuff",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fraoulpal.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3Df57d2347bd6c81218c2d98e6c7e4674b%3Fversion%3D3"
-        },
-        {
           "id": "https://www.vice.com/en/article/93bvvz/greenpeace-is-pushing-to-change-how-bitcoin-works-to-cut-emissions",
           "author": null,
           "description": "Greenpeace Is Pushing to Change How Bitcoin Works to Cut Emissions",
@@ -111,7 +101,7 @@
           "description": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "link": "https://howardlindzon.com/sunday-reads-here-comes-crypto-again/",
           "publishedOn": "2022-04-03T17:00:02.000Z",
-          "wordCount": 457,
+          "wordCount": 461,
           "title": "Sunday Reads - Here Comes Crypto ...Again - Howard Lindzon",
           "imageUrl": "https://howardlindzon.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-03-at-6.03.48-AM-1024x569.png"
         },
@@ -156,6 +146,16 @@
           "imageUrl": "https://blog.lopp.net/content/images/2022/03/recovery.jpg"
         },
         {
+          "id": "https://hal.inria.fr/hal-01966561",
+          "author": null,
+          "description": "Decentralizing the Social Web",
+          "link": "https://hal.inria.fr/hal-01966561",
+          "publishedOn": "2022-04-03T13:00:09.000Z",
+          "wordCount": 496,
+          "title": "Decentralizing the Social Web",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.paradigm.xyz/2022/03/foundry-02",
           "author": null,
           "description": "Announcing Foundry v0.2.0 - Paradigm",
@@ -183,7 +183,7 @@
           "publishedOn": "2022-04-02T21:00:02.000Z",
           "wordCount": 582,
           "title": "GitHub - brockelmore/solvm: evm inception",
-          "imageUrl": "https://opengraph.githubassets.com/a3adaf2d09329798c1b0ccca96a676cd6b6ac4d043820d00b90e8a857c9a803c/brockelmore/solvm"
+          "imageUrl": "https://opengraph.githubassets.com/b9ecdf1d5f13d2b9dae23f4efb280c51416a276e5cbc40f2c823db19663b7261/brockelmore/solvm"
         },
         {
           "id": "https://vitalik.ca/general/2022/04/01/maximalist.html",
