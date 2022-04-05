@@ -26,16 +26,6 @@
           "imageUrl": "https://images.mirror-media.xyz/publication-images/8e8ab19e-2f24-4b25-93d7-5ee35f57069a.png?height=1200&width=1200"
         },
         {
-          "id": "https://nakaflow.io/",
-          "author": null,
-          "description": "Chainflow.io",
-          "link": "https://nakaflow.io/",
-          "publishedOn": "2022-04-05T01:30:03.000Z",
-          "wordCount": 25,
-          "title": "Chainflow.io",
-          "imageUrl": null
-        },
-        {
           "id": "https://nftevening.com/paris-hilton-is-claiming-to-be-anonymous-nft-artist-pak/",
           "author": null,
           "description": "Paris Hilton Is Claiming To Be Anonymous NFT Artist Pak",
@@ -54,6 +44,16 @@
           "wordCount": 2737,
           "title": "Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance",
           "imageUrl": "http://2.bp.blogspot.com/-qRz-hnwUdY4/WulXSQ6Rv4I/AAAAAAAATvQ/shk7KsphA0c3E3nUMsDVASqYaH0PhLPNwCK4BGAYYCw/s1600/GoogleAI_logo_horizontal_color_rgb.png"
+        },
+        {
+          "id": "https://blog.openzeppelin.com/15-billion-rugpull-vulnerability-in-convex-finance-protocol-uncovered-and-resolved/",
+          "author": null,
+          "description": "$15 Billion Rugpull Vulnerability in Convex Finance protocol Uncovered and Resolved - OpenZeppelin blog",
+          "link": "https://blog.openzeppelin.com/15-billion-rugpull-vulnerability-in-convex-finance-protocol-uncovered-and-resolved/",
+          "publishedOn": "2022-04-05T01:00:03.000Z",
+          "wordCount": 1339,
+          "title": "$15 Billion Rugpull Vulnerability in Convex Finance protocol Uncovered and Resolved - OpenZeppelin blog",
+          "imageUrl": "https://blog.openzeppelin.com/wp-content/uploads/2022/04/Convex-Story-Cover2.png"
         },
         {
           "id": "https://newsletter.banklesshq.com/p/the-eth-bond-market-lite?s=w",
@@ -91,7 +91,7 @@
           "description": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
           "link": "https://members.delphidigital.io/media/disruptors-why-daos-with-tracheopteryx",
           "publishedOn": "2022-04-04T19:00:02.000Z",
-          "wordCount": 683,
+          "wordCount": 686,
           "title": "DISRUPTORS: Why DAOs? With Tracheopteryx - Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/03/Trach-Dirsuptors-Youtube.png"
         },
@@ -101,9 +101,19 @@
           "description": "GitHub - neodyme-labs/solana-security-txt: security.txt for Solana Contracts",
           "link": "https://github.com/neodyme-labs/solana-security-txt",
           "publishedOn": "2022-04-04T17:00:02.000Z",
-          "wordCount": 1569,
+          "wordCount": 1561,
           "title": "GitHub - neodyme-labs/solana-security-txt: security.txt for Solana Contracts",
-          "imageUrl": "https://opengraph.githubassets.com/8879b43ca24e1c5b32bdaf511b7e8a95ed5bced9e9378c5a6a88fbeb83d735e8/neodyme-labs/solana-security-txt"
+          "imageUrl": "https://opengraph.githubassets.com/55db02fa876c6b34e1dc4bfa07e1f7e6b60211ba0a72b6cd98e9263b6479375b/neodyme-labs/solana-security-txt"
+        },
+        {
+          "id": "https://medium.com/starkware/starkgate-alpha-35d01d21e3af",
+          "author": null,
+          "description": "StarkGate Alpha",
+          "link": "https://medium.com/starkware/starkgate-alpha-35d01d21e3af",
+          "publishedOn": "2022-04-04T17:00:02.000Z",
+          "wordCount": 719,
+          "title": "StarkGate Alpha",
+          "imageUrl": "https://miro.medium.com/max/1200/1*4HilekOQgIKVFF5xQ7vFcg.png"
         },
         {
           "id": "https://www.gov.uk/government/news/government-sets-out-plan-to-make-uk-a-global-cryptoasset-technology-hub",
@@ -194,16 +204,6 @@
           "wordCount": 2766,
           "title": "RICKS - Paradigm",
           "imageUrl": "https://paradigm-xyz.vercel.app/static/meta-ricks.png"
-        },
-        {
-          "id": "https://avgjoescrypto.substack.com/p/the-curve-wars-go-hot?r=r78rm&s=w&utm_campaign=post&utm_medium=web&utm_source=direct",
-          "author": null,
-          "description": "The Curve Wars Go Hot",
-          "link": "https://avgjoescrypto.substack.com/p/the-curve-wars-go-hot?r=r78rm&s=w&utm_campaign=post&utm_medium=web&utm_source=direct",
-          "publishedOn": "2022-04-03T16:30:03.000Z",
-          "wordCount": 2285,
-          "title": "The Curve Wars Go Hot",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F825dd775-6c3b-466e-b006-854910d13cfe_1412x828.jpeg"
         }
       ]
     }
