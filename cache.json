@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bis.org/events/220404_defi.htm",
+          "author": null,
+          "description": "Does safe DeFi require CBDCs?",
+          "link": "https://www.bis.org/events/220404_defi.htm",
+          "publishedOn": "2022-04-05T20:00:04.000Z",
+          "wordCount": 5012,
+          "title": "Does safe DeFi require CBDCs?",
+          "imageUrl": "https://www.bis.org/img/bislogo_og.jpg"
+        },
+        {
+          "id": "https://semaphore.zkparty.net/",
+          "author": null,
+          "description": "Trusted Setup",
+          "link": "https://semaphore.zkparty.net/",
+          "publishedOn": "2022-04-05T20:00:03.000Z",
+          "wordCount": 2,
+          "title": "Trusted Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://roninblockchain.substack.com/p/securing-ronin?s=w",
+          "author": null,
+          "description": "Securing Ronin",
+          "link": "https://roninblockchain.substack.com/p/securing-ronin?s=w",
+          "publishedOn": "2022-04-05T20:00:02.000Z",
+          "wordCount": 556,
+          "title": "Securing Ronin",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feb115c4b-72a5-4890-b43c-83540a3bda70_1600x511.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5k834n4v3Kw&feature=youtu.be",
           "author": null,
           "description": "Ethereum staking on fire, Zapper mobile app and more - The Daily Gwei Refuel #347 - Ethereum Updates",
@@ -14,16 +44,6 @@
           "wordCount": null,
           "title": "Ethereum staking on fire, Zapper mobile app and more - The Daily Gwei Refuel #347 - Ethereum Updates",
           "imageUrl": null
-        },
-        {
-          "id": "https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits",
-          "author": null,
-          "description": "Single-Chip Processors Have Reached Their Limits",
-          "link": "https://spectrum.ieee.org/single-chip-processors-have-reached-their-limits",
-          "publishedOn": "2022-04-05T19:00:03.000Z",
-          "wordCount": 10998,
-          "title": "Single-Chip Processors Have Reached Their Limits",
-          "imageUrl": "https://spectrum.ieee.org/media-library/a-flat-black-square-with-two-iridescent-computer-chips-connected-in-the-middle.jpg?id=29633894&width=1200&coordinates=0%2C177%2C0%2C178&height=600"
         },
         {
           "id": "https://www.youtube.com/channel/UC9Yy99ZlQIX9-PdG_xHj43Q",
@@ -46,16 +66,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*1-Rvq-Gen5e-BNl8sTkOZQ.jpeg"
         },
         {
-          "id": "https://gaterepo.com/",
-          "author": null,
-          "description": "GateRepo - Token-gated GitHub Repositories",
-          "link": "https://gaterepo.com/",
-          "publishedOn": "2022-04-05T17:30:02.000Z",
-          "wordCount": 25,
-          "title": "GateRepo - Token-gated GitHub Repositories",
-          "imageUrl": "https://gaterepo.com/meta.png"
-        },
-        {
           "id": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html",
           "author": null,
           "description": "[bitcoin-dev] Taro: A Taproot Asset Representation Overlay",
@@ -66,12 +76,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://gaterepo.com/",
+          "author": null,
+          "description": "GateRepo - Token-gated GitHub Repositories",
+          "link": "https://gaterepo.com/",
+          "publishedOn": "2022-04-05T17:30:02.000Z",
+          "wordCount": 25,
+          "title": "GateRepo - Token-gated GitHub Repositories",
+          "imageUrl": "https://gaterepo.com/meta.png"
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/140639/kraken-to-release-structured-products-for-staking-focused-on-institutional-investors",
           "author": null,
           "description": "Kraken to release structured products for staking focused on institutional investors",
           "link": "https://www.theblockcrypto.com/post/140639/kraken-to-release-structured-products-for-staking-focused-on-institutional-investors",
           "publishedOn": "2022-04-05T17:00:08.000Z",
-          "wordCount": 1072,
+          "wordCount": 1107,
           "title": "Kraken to release structured products for staking focused on institutional investors",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Kraken-ETH.jpg"
         },
@@ -91,7 +111,7 @@
           "description": "FTX.US backs 'Flash Boys' exchange IEX as firm maps out crypto strategy",
           "link": "https://www.theblockcrypto.com/post/140542/ftx-backs-flash-boys-exchange-iex-in-undisclosed-investment-as-firm-plots-crypto-journey",
           "publishedOn": "2022-04-05T13:00:03.000Z",
-          "wordCount": 1388,
+          "wordCount": 1423,
           "title": "FTX.US backs 'Flash Boys' exchange IEX as firm maps out crypto strategy",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210722_Brad_katsuyama_IEX.jpg"
         },
@@ -114,16 +134,6 @@
           "wordCount": 2687,
           "title": "SEC.gov | Prepared Remarks of Gary Gensler On Crypto Markets Penn Law Capital Markets Association Annual Conference",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/hun3y.eth/bVRApA7dpCo31bc8naN2DaGfECc3dxJqEj2vu75hTFU",
-          "author": null,
-          "description": "Body Language",
-          "link": "https://mirror.xyz/hun3y.eth/bVRApA7dpCo31bc8naN2DaGfECc3dxJqEj2vu75hTFU",
-          "publishedOn": "2022-04-05T03:30:02.000Z",
-          "wordCount": 743,
-          "title": "Body Language",
-          "imageUrl": "https://mirror-media.imgix.net/nft/V0rgsXEvvpljQ6iwgKD3Q.jpg?h=null&w=null&auto=compress"
         },
         {
           "id": "https://blog.ethereum.org/2021/12/13/client-incentive-program/",
@@ -161,7 +171,7 @@
           "description": "$15 Billion Rugpull Vulnerability in Convex Finance protocol Uncovered and Resolved - OpenZeppelin blog",
           "link": "https://blog.openzeppelin.com/15-billion-rugpull-vulnerability-in-convex-finance-protocol-uncovered-and-resolved/",
           "publishedOn": "2022-04-05T01:00:03.000Z",
-          "wordCount": 1351,
+          "wordCount": 1349,
           "title": "$15 Billion Rugpull Vulnerability in Convex Finance protocol Uncovered and Resolved - OpenZeppelin blog",
           "imageUrl": "https://blog.openzeppelin.com/wp-content/uploads/2022/04/Convex-Story-Cover2.png"
         },
@@ -174,16 +184,6 @@
           "wordCount": 1942,
           "title": "The ETH Bond Market [LITE]",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f3c0a6f-88fe-4458-aeda-539ae5a0f17a_2334x862.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pAxuQ7PIl8g",
-          "author": null,
-          "description": "Axelar Tutorial - Building Cross-Chain NFT Example",
-          "link": "https://www.youtube.com/watch?v=pAxuQ7PIl8g",
-          "publishedOn": "2022-04-05T01:00:03.000Z",
-          "wordCount": null,
-          "title": "Axelar Tutorial - Building Cross-Chain NFT Example",
-          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/04/gda",
