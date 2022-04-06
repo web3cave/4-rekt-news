@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://anchor.projectserum.com/",
+          "author": null,
+          "description": "anchor",
+          "link": "https://anchor.projectserum.com/",
+          "publishedOn": "2022-04-06T01:30:02.000Z",
+          "wordCount": 9,
+          "title": "anchor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/c/UnchainedPodcast",
+          "author": null,
+          "description": "Unchained Podcast - YouTube",
+          "link": "https://www.youtube.com/c/UnchainedPodcast",
+          "publishedOn": "2022-04-06T01:00:03.000Z",
+          "wordCount": 14,
+          "title": "Unchained Podcast - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "id": "https://fatmac.substack.com/p/why-maple-finances-milkshakes-will?s=w",
+          "author": null,
+          "description": "Why Maple Finance's Milkshakes Will Bring All the Boys (Banks) to the (DeFi) Yard",
+          "link": "https://fatmac.substack.com/p/why-maple-finances-milkshakes-will?s=w",
+          "publishedOn": "2022-04-06T00:00:03.000Z",
+          "wordCount": 5469,
+          "title": "Why Maple Finance's Milkshakes Will Bring All the Boys (Banks) to the (DeFi) Yard",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3904a1ea-dcfb-42ca-a18f-b8826a3a5c1c_1328x387.png"
+        },
+        {
           "id": "https://www.axios.com/sec-head-has-four-new-questions-about-crypto-cfbd989f-1ab2-46d8-9cab-1662d03dac46.html",
           "author": null,
           "description": "SEC head has four new questions about crypto",
@@ -41,7 +71,7 @@
           "description": "Lightning Labs unveils new protocol for Lightning Network stablecoins as it raises $70 million",
           "link": "https://www.theblockcrypto.com/post/140560/lightning-labs-taro-protocol-stablecoins-fundraise",
           "publishedOn": "2022-04-05T21:00:02.000Z",
-          "wordCount": 1156,
+          "wordCount": 1187,
           "title": "Lightning Labs unveils new protocol for Lightning Network stablecoins as it raises $70 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/IMG-20210617-WA0010-1.jpg"
         },
@@ -111,7 +141,7 @@
           "description": "Kraken to release structured products for staking focused on institutional investors",
           "link": "https://www.theblockcrypto.com/post/140639/kraken-to-release-structured-products-for-staking-focused-on-institutional-investors",
           "publishedOn": "2022-04-05T17:00:08.000Z",
-          "wordCount": 1108,
+          "wordCount": 1112,
           "title": "Kraken to release structured products for staking focused on institutional investors",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Kraken-ETH.jpg"
         },
@@ -121,7 +151,7 @@
           "description": "FTX.US backs 'Flash Boys' exchange IEX as firm maps out crypto strategy",
           "link": "https://www.theblockcrypto.com/post/140542/ftx-backs-flash-boys-exchange-iex-in-undisclosed-investment-as-firm-plots-crypto-journey",
           "publishedOn": "2022-04-05T13:00:03.000Z",
-          "wordCount": 1424,
+          "wordCount": 1428,
           "title": "FTX.US backs 'Flash Boys' exchange IEX as firm maps out crypto strategy",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210722_Brad_katsuyama_IEX.jpg"
         },
@@ -144,36 +174,6 @@
           "wordCount": 2666,
           "title": "SEC.gov | Prepared Remarks of Gary Gensler On Crypto Markets Penn Law Capital Markets Association Annual Conference",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/hun3y.eth/bVRApA7dpCo31bc8naN2DaGfECc3dxJqEj2vu75hTFU",
-          "author": null,
-          "description": "Body Language",
-          "link": "https://mirror.xyz/hun3y.eth/bVRApA7dpCo31bc8naN2DaGfECc3dxJqEj2vu75hTFU",
-          "publishedOn": "2022-04-05T03:30:02.000Z",
-          "wordCount": 743,
-          "title": "Body Language",
-          "imageUrl": "https://mirror-media.imgix.net/nft/V0rgsXEvvpljQ6iwgKD3Q.jpg?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://blog.ethereum.org/2021/12/13/client-incentive-program/",
-          "author": null,
-          "description": "Announcing the Client Incentive Program",
-          "link": "https://blog.ethereum.org/2021/12/13/client-incentive-program/",
-          "publishedOn": "2022-04-05T02:00:02.000Z",
-          "wordCount": 2551,
-          "title": "Announcing the Client Incentive Program",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
-          "id": "https://tim.mirror.xyz/M_3JZXBkvXnr3W1222WIDo1ipMuFymszjH-FP40CO5c",
-          "author": null,
-          "description": "AllCoreDevs Update 010 ⛓",
-          "link": "https://tim.mirror.xyz/M_3JZXBkvXnr3W1222WIDo1ipMuFymszjH-FP40CO5c",
-          "publishedOn": "2022-04-05T02:00:02.000Z",
-          "wordCount": 2463,
-          "title": "AllCoreDevs Update 010 ⛓",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/8e8ab19e-2f24-4b25-93d7-5ee35f57069a.png?height=1200&width=1200"
         },
         {
           "id": "https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html",
