@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://hyperspace.xyz/",
+          "author": null,
+          "description": "Hyperspace | Solana NFT Marketplace",
+          "link": "https://hyperspace.xyz/",
+          "publishedOn": "2022-04-06T17:00:07.000Z",
+          "wordCount": 49,
+          "title": "Hyperspace | Solana NFT Marketplace",
+          "imageUrl": "https://storage.googleapis.com/feliz-crypto/hyperspace.jpeg"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/140709/sequoia-capital-explains-what-crypto-founders-want-from-vcs",
+          "author": null,
+          "description": "Sequoia Capital explains what crypto founders want from VCs",
+          "link": "https://www.theblockcrypto.com/post/140709/sequoia-capital-explains-what-crypto-founders-want-from-vcs",
+          "publishedOn": "2022-04-06T16:30:04.000Z",
+          "wordCount": 1244,
+          "title": "Sequoia Capital explains what crypto founders want from VCs",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220331_TheScoop_MichelleBailhe_ShaunMaguire_16_x_9.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6eOU5OaKd8s&feature=youtu.be",
           "author": null,
           "description": "UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs Bull",
@@ -21,7 +41,7 @@
           "description": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-labs-makes-strategic-investment-in-stepn-421499824684903657",
           "publishedOn": "2022-04-06T16:30:03.000Z",
-          "wordCount": 787,
+          "wordCount": 797,
           "title": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/77ec4e71-7234-4927-a0fe-c7999d47df48.png"
         },
@@ -31,7 +51,7 @@
           "description": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
           "link": "https://www.theblockcrypto.com/post/140833/binance-us-raises-funding-200-million-4-5-billion-valuation",
           "publishedOn": "2022-04-06T15:00:03.000Z",
-          "wordCount": 1178,
+          "wordCount": 1130,
           "title": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/09/20190923_Binance-US-Daily.jpg"
         },
@@ -41,7 +61,7 @@
           "description": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "link": "https://www.theblockcrypto.com/post/140751/near-protocol-raises-350-million-in-new-funding-round-led-by-tiger-global",
           "publishedOn": "2022-04-06T14:00:02.000Z",
-          "wordCount": 1074,
+          "wordCount": 1012,
           "title": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/210921_Funding_Money_General.jpg"
         },
@@ -126,16 +146,6 @@
           "imageUrl": "https://miro.medium.com/max/1060/1*n6GUYODFDepALN5sD9kW6Q.jpeg"
         },
         {
-          "id": "https://www.youtube.com/c/UnchainedPodcast",
-          "author": null,
-          "description": "Unchained Podcast - YouTube",
-          "link": "https://www.youtube.com/c/UnchainedPodcast",
-          "publishedOn": "2022-04-06T01:00:03.000Z",
-          "wordCount": 14,
-          "title": "Unchained Podcast - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
           "id": "https://fatmac.substack.com/p/why-maple-finances-milkshakes-will?s=w",
           "author": null,
           "description": "Why Maple Finance's Milkshakes Will Bring All the Boys (Banks) to the (DeFi) Yard",
@@ -156,16 +166,6 @@
           "imageUrl": "https://images.axios.com/ZXebrW5gvm3Ugi78op1idoUaUEQ=/0x60:4760x2738/1366x768/2022/04/04/1649108742477.jpg"
         },
         {
-          "id": "https://www.liquidmarketplace.io/",
-          "author": null,
-          "description": "HOME | Liquid Marketplace",
-          "link": "https://www.liquidmarketplace.io/",
-          "publishedOn": "2022-04-05T21:00:02.000Z",
-          "wordCount": 117,
-          "title": "HOME | Liquid Marketplace",
-          "imageUrl": "https://static.wixstatic.com/media/43c14d_028a7222633d4ab5b00454ef85e6ca43%7Emv2.png/v1/fit/w_2500,h_1330,al_c/43c14d_028a7222633d4ab5b00454ef85e6ca43%7Emv2.png"
-        },
-        {
           "id": "https://semaphore.zkparty.net/",
           "author": null,
           "description": "Trusted Setup",
@@ -181,19 +181,9 @@
           "description": "Securing Ronin",
           "link": "https://roninblockchain.substack.com/p/securing-ronin?s=w",
           "publishedOn": "2022-04-05T20:00:02.000Z",
-          "wordCount": 556,
+          "wordCount": 555,
           "title": "Securing Ronin",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feb115c4b-72a5-4890-b43c-83540a3bda70_1600x511.png"
-        },
-        {
-          "id": "https://neonlabsorg.medium.com/neon-evm-alpha-now-live-on-solana-devnet-c326dc12267c",
-          "author": null,
-          "description": "Neon EVM Alpha — Now Live on Solana Devnet",
-          "link": "https://neonlabsorg.medium.com/neon-evm-alpha-now-live-on-solana-devnet-c326dc12267c",
-          "publishedOn": "2022-04-05T18:00:03.000Z",
-          "wordCount": 1007,
-          "title": "Neon EVM Alpha — Now Live on Solana Devnet",
-          "imageUrl": "https://miro.medium.com/max/1200/1*1-Rvq-Gen5e-BNl8sTkOZQ.jpeg"
         },
         {
           "id": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html",
@@ -204,6 +194,16 @@
           "wordCount": 566,
           "title": "[bitcoin-dev] Taro: A Taproot Asset Representation Overlay",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/@lightning_labs/number-of-people-go-up-or-bitcoin-as-the-worlds-protocol-of-value-d1df7cefca37",
+          "author": null,
+          "description": "Number of People Go Up, or Bitcoin as the World’s Protocol of Value",
+          "link": "https://medium.com/@lightning_labs/number-of-people-go-up-or-bitcoin-as-the-worlds-protocol-of-value-d1df7cefca37",
+          "publishedOn": "2022-04-05T17:00:08.000Z",
+          "wordCount": 981,
+          "title": "Number of People Go Up, or Bitcoin as the World’s Protocol of Value",
+          "imageUrl": "https://miro.medium.com/max/828/1*LlRhmcOFmOPXbk8sO_fTzA.jpeg"
         }
       ]
     }
