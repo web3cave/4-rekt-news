@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/gakonst/foundry/pull/1208",
+          "author": null,
+          "description": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · gakonst/foundry",
+          "link": "https://github.com/gakonst/foundry/pull/1208",
+          "publishedOn": "2022-04-06T16:00:03.000Z",
+          "wordCount": 1749,
+          "title": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · gakonst/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/a6da9f3f66c52760ff4dc5b20f6ac618cddb60b8e50894757531eb2990c6a0ce/gakonst/foundry/pull/1208"
+        },
+        {
+          "id": "https://www.sec.gov/litigation/admin/2022/34-94591.pdf",
+          "author": null,
+          "description": "[PDF] 34-94591.pdf",
+          "link": "https://www.sec.gov/litigation/admin/2022/34-94591.pdf",
+          "publishedOn": "2022-04-06T15:30:05.000Z",
+          "wordCount": 5506,
+          "title": "[PDF] 34-94591.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/140833/binance-us-raises-funding-200-million-4-5-billion-valuation",
           "author": null,
           "description": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
           "link": "https://www.theblockcrypto.com/post/140833/binance-us-raises-funding-200-million-4-5-billion-valuation",
           "publishedOn": "2022-04-06T15:00:03.000Z",
-          "wordCount": 1220,
+          "wordCount": 1218,
           "title": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/09/20190923_Binance-US-Daily.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "link": "https://www.theblockcrypto.com/post/140751/near-protocol-raises-350-million-in-new-funding-round-led-by-tiger-global",
           "publishedOn": "2022-04-06T14:00:02.000Z",
-          "wordCount": 1079,
+          "wordCount": 1072,
           "title": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/210921_Funding_Money_General.jpg"
         },
@@ -54,16 +74,6 @@
           "wordCount": 654,
           "title": "Binance Staking Launches UST Staking with Up to 19.63% APY | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
-        },
-        {
-          "id": "https://lightning.engineering/posts/2022-4-5-taro-launch/",
-          "author": null,
-          "description": "Announcing Taro: A New Protocol for Multi-Asset Bitcoin and Lightning 🍠💱🌍",
-          "link": "https://lightning.engineering/posts/2022-4-5-taro-launch/",
-          "publishedOn": "2022-04-06T07:00:03.000Z",
-          "wordCount": 1467,
-          "title": "Announcing Taro: A New Protocol for Multi-Asset Bitcoin and Lightning 🍠💱🌍",
-          "imageUrl": null
         },
         {
           "id": "https://bcc-research.github.io/CFMMRouter.jl/dev/method/#Solution-method",
@@ -171,7 +181,7 @@
           "description": "Neon EVM Alpha — Now Live on Solana Devnet",
           "link": "https://neonlabsorg.medium.com/neon-evm-alpha-now-live-on-solana-devnet-c326dc12267c",
           "publishedOn": "2022-04-05T18:00:03.000Z",
-          "wordCount": 942,
+          "wordCount": 1007,
           "title": "Neon EVM Alpha — Now Live on Solana Devnet",
           "imageUrl": "https://miro.medium.com/max/1200/1*1-Rvq-Gen5e-BNl8sTkOZQ.jpeg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 566,
           "title": "[bitcoin-dev] Taro: A Taproot Asset Representation Overlay",
           "imageUrl": null
-        },
-        {
-          "id": "https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html",
-          "author": null,
-          "description": "Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance",
-          "link": "https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html",
-          "publishedOn": "2022-04-05T01:00:03.000Z",
-          "wordCount": 2737,
-          "title": "Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance",
-          "imageUrl": "http://2.bp.blogspot.com/-qRz-hnwUdY4/WulXSQ6Rv4I/AAAAAAAATvQ/shk7KsphA0c3E3nUMsDVASqYaH0PhLPNwCK4BGAYYCw/s1600/GoogleAI_logo_horizontal_color_rgb.png"
         }
       ]
     }
