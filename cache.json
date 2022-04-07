@@ -61,7 +61,7 @@
           "description": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "link": "https://www.wsj.com/articles/gm-crypto-bitcoin-nfts-twitter-11649261057",
           "publishedOn": "2022-04-06T22:00:04.000Z",
-          "wordCount": 1927,
+          "wordCount": 948,
           "title": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "imageUrl": "https://images.wsj.net/im-519002/social"
         },
@@ -71,7 +71,7 @@
           "description": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "link": "https://www.coindesk.com/policy/2022/04/06/top-us-lawmaker-proposes-sweeping-stablecoin-regulation-framework/",
           "publishedOn": "2022-04-06T21:00:02.000Z",
-          "wordCount": 995,
+          "wordCount": 996,
           "title": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "imageUrl": "https://www.coindesk.com/resizer/8iEbDFrP8hGVpVFvRYjMKrGj0To=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QPZQMPNNJ5B4JIK4NH7UVQDSB4.jpg"
         },
@@ -86,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://hyperspace.xyz/",
-          "author": null,
-          "description": "Hyperspace | Solana NFT Marketplace",
-          "link": "https://hyperspace.xyz/",
-          "publishedOn": "2022-04-06T17:00:07.000Z",
-          "wordCount": 49,
-          "title": "Hyperspace | Solana NFT Marketplace",
-          "imageUrl": "https://storage.googleapis.com/feliz-crypto/hyperspace.jpeg"
-        },
-        {
           "id": "https://www.theblockcrypto.com/linked/140690/opensea-goes-live-with-support-for-solana-based-nfts",
           "author": null,
           "description": "OpenSea goes live with support for Solana-based NFTs",
@@ -106,10 +96,20 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210915_OpenSea.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=6eOU5OaKd8s&feature=youtu.be",
+          "id": "https://hyperspace.xyz/",
+          "author": null,
+          "description": "Hyperspace | Solana NFT Marketplace",
+          "link": "https://hyperspace.xyz/",
+          "publishedOn": "2022-04-06T17:00:07.000Z",
+          "wordCount": 49,
+          "title": "Hyperspace | Solana NFT Marketplace",
+          "imageUrl": "https://storage.googleapis.com/feliz-crypto/hyperspace.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6eOU5OaKd8s&t=4813s",
           "author": null,
           "description": "UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs Bull",
-          "link": "https://www.youtube.com/watch?v=6eOU5OaKd8s&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=6eOU5OaKd8s&t=4813s",
           "publishedOn": "2022-04-06T16:30:03.000Z",
           "wordCount": null,
           "title": "UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs Bull",
@@ -121,7 +121,7 @@
           "description": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-labs-makes-strategic-investment-in-stepn-421499824684903657",
           "publishedOn": "2022-04-06T16:30:03.000Z",
-          "wordCount": 795,
+          "wordCount": 791,
           "title": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/77ec4e71-7234-4927-a0fe-c7999d47df48.png"
         },
@@ -151,9 +151,19 @@
           "description": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-leads-$150m-funding-round-of-sky-mavis-the-creator-of-axie-infinity-to-restore-funds-on-the-ronin-bridge-and-to-build-a-sustainable-global-ecosystem-421499824684903659",
           "publishedOn": "2022-04-06T11:30:03.000Z",
-          "wordCount": 887,
+          "wordCount": 883,
           "title": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/b06e0d6c-4d21-49e9-935a-492b7383369c.png"
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-4626",
+          "author": null,
+          "description": "EIP-4626: Tokenized Vault Standard",
+          "link": "https://eips.ethereum.org/EIPS/eip-4626",
+          "publishedOn": "2022-04-06T11:30:03.000Z",
+          "wordCount": 3537,
+          "title": "EIP-4626: Tokenized Vault Standard",
+          "imageUrl": null
         },
         {
           "id": "https://axie.substack.com/p/funding",
@@ -186,22 +196,12 @@
           "imageUrl": "https://gaterepo.com/meta.png"
         },
         {
-          "id": "https://dev.optimism.io/",
-          "author": null,
-          "description": "The Optimistic Dev Blog",
-          "link": "https://dev.optimism.io/",
-          "publishedOn": "2022-04-06T03:30:03.000Z",
-          "wordCount": 279,
-          "title": "The Optimistic Dev Blog",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/dragonfly-research/token-compensation-for-web3-startups-47621640a6ba",
           "author": null,
           "description": "Token Compensation for Web3 Startups",
           "link": "https://medium.com/dragonfly-research/token-compensation-for-web3-startups-47621640a6ba",
           "publishedOn": "2022-04-06T03:00:03.000Z",
-          "wordCount": 3291,
+          "wordCount": 3349,
           "title": "Token Compensation for Web3 Startups",
           "imageUrl": "https://miro.medium.com/max/1060/1*n6GUYODFDepALN5sD9kW6Q.jpeg"
         }

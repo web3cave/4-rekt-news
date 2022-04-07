@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-07T02:56:03.232Z</id>
+    <id>urn:2022-04-07T03:33:01.794Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-07T02:56:03.232Z</updated>
+    <updated>2022-04-07T03:33:01.794Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,16 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyperspace | Solana NFT Marketplace]]></title>
-        <id>https://hyperspace.xyz/</id>
-        <link href="https://hyperspace.xyz/"/>
-        <updated>2022-04-06T17:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Hyperspace | Solana NFT Marketplace]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenSea goes live with support for Solana-based NFTs]]></title>
         <id>https://www.theblockcrypto.com/linked/140690/opensea-goes-live-with-support-for-solana-based-nfts</id>
         <link href="https://www.theblockcrypto.com/linked/140690/opensea-goes-live-with-support-for-solana-based-nfts"/>
@@ -106,9 +96,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hyperspace | Solana NFT Marketplace]]></title>
+        <id>https://hyperspace.xyz/</id>
+        <link href="https://hyperspace.xyz/"/>
+        <updated>2022-04-06T17:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Hyperspace | Solana NFT Marketplace]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs Bull]]></title>
-        <id>https://www.youtube.com/watch?v=6eOU5OaKd8s&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=6eOU5OaKd8s&amp;feature=youtu.be"/>
+        <id>https://www.youtube.com/watch?v=6eOU5OaKd8s&amp;t=4813s</id>
+        <link href="https://www.youtube.com/watch?v=6eOU5OaKd8s&amp;t=4813s"/>
         <updated>2022-04-06T16:30:03.000Z</updated>
         <summary type="html"><![CDATA[UST: New Paradigm or Ticking Time Bomb? | Terra Bear vs Bull]]></summary>
         <author>
@@ -156,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EIP-4626: Tokenized Vault Standard]]></title>
+        <id>https://eips.ethereum.org/EIPS/eip-4626</id>
+        <link href="https://eips.ethereum.org/EIPS/eip-4626"/>
+        <updated>2022-04-06T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[EIP-4626: Tokenized Vault Standard]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sky Mavis Raises $150M Led By Binance, Funds to be Restored on the Ronin Bridge]]></title>
         <id>https://axie.substack.com/p/funding</id>
         <link href="https://axie.substack.com/p/funding"/>
@@ -181,16 +191,6 @@
         <link href="https://gaterepo.com/"/>
         <updated>2022-04-06T04:30:03.000Z</updated>
         <summary type="html"><![CDATA[GateRepo - Token-gated GitHub Repositories]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Optimistic Dev Blog]]></title>
-        <id>https://dev.optimism.io/</id>
-        <link href="https://dev.optimism.io/"/>
-        <updated>2022-04-06T03:30:03.000Z</updated>
-        <summary type="html"><![CDATA[The Optimistic Dev Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
