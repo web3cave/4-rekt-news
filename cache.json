@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://new.slingshot.finance/",
+          "author": null,
+          "description": "Slingshot - Decentralized Trading Platform",
+          "link": "https://new.slingshot.finance/",
+          "publishedOn": "2022-04-07T01:00:03.000Z",
+          "wordCount": 13,
+          "title": "Slingshot - Decentralized Trading Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gist.github.com/EvanVanNessEth/085ea9af2c35d95acf8fa90461165188",
+          "author": null,
+          "description": "Attestation",
+          "link": "https://gist.github.com/EvanVanNessEth/085ea9af2c35d95acf8fa90461165188",
+          "publishedOn": "2022-04-07T01:00:03.000Z",
+          "wordCount": 617,
+          "title": "Attestation",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
           "id": "https://semaphore.zkparty.net/",
           "author": null,
           "description": "Trusted Setup",
@@ -21,9 +41,19 @@
           "description": "Facebook owner Meta targets finance with ‘Zuck Bucks’ and creator coins",
           "link": "https://www.ft.com/content/50fbe9ba-32c8-4caf-a34e-234031019371",
           "publishedOn": "2022-04-06T23:00:05.000Z",
-          "wordCount": 1085,
+          "wordCount": 1075,
           "title": "Facebook owner Meta targets finance with ‘Zuck Bucks’ and creator coins",
           "imageUrl": null
+        },
+        {
+          "id": "https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol",
+          "author": null,
+          "description": "A Self-Authenticating Social Protocol",
+          "link": "https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol",
+          "publishedOn": "2022-04-06T22:30:03.000Z",
+          "wordCount": 1653,
+          "title": "A Self-Authenticating Social Protocol",
+          "imageUrl": "https://blueskyweb.xyz/images/blogposts/self-authenticating-social-protocol.png"
         },
         {
           "id": "https://www.wsj.com/articles/gm-crypto-bitcoin-nfts-twitter-11649261057",
@@ -31,7 +61,7 @@
           "description": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "link": "https://www.wsj.com/articles/gm-crypto-bitcoin-nfts-twitter-11649261057",
           "publishedOn": "2022-04-06T22:00:04.000Z",
-          "wordCount": 945,
+          "wordCount": 948,
           "title": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "imageUrl": "https://images.wsj.net/im-519002/social"
         },
@@ -41,19 +71,9 @@
           "description": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "link": "https://www.coindesk.com/policy/2022/04/06/top-us-lawmaker-proposes-sweeping-stablecoin-regulation-framework/",
           "publishedOn": "2022-04-06T21:00:02.000Z",
-          "wordCount": 991,
+          "wordCount": 996,
           "title": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "imageUrl": "https://www.coindesk.com/resizer/8iEbDFrP8hGVpVFvRYjMKrGj0To=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QPZQMPNNJ5B4JIK4NH7UVQDSB4.jpg"
-        },
-        {
-          "id": "https://medium.com/yield-guild-games/introducing-yggs-game-subdao-yggspl-14310f1c0904",
-          "author": null,
-          "description": "Introducing YGG’s game subDAO, YGGSPL",
-          "link": "https://medium.com/yield-guild-games/introducing-yggs-game-subdao-yggspl-14310f1c0904",
-          "publishedOn": "2022-04-06T20:00:03.000Z",
-          "wordCount": 1715,
-          "title": "Introducing YGG’s game subDAO, YGGSPL",
-          "imageUrl": "https://miro.medium.com/max/1200/0*LLlVS3oMYhK8McLB"
         },
         {
           "id": "https://www.youtube.com/watch?v=Fiiib9oqTB0",
@@ -101,7 +121,7 @@
           "description": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-labs-makes-strategic-investment-in-stepn-421499824684903657",
           "publishedOn": "2022-04-06T16:30:03.000Z",
-          "wordCount": 796,
+          "wordCount": 790,
           "title": "Binance Labs Makes Strategic Investment in STEPN | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/77ec4e71-7234-4927-a0fe-c7999d47df48.png"
         },
@@ -131,19 +151,9 @@
           "description": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-leads-$150m-funding-round-of-sky-mavis-the-creator-of-axie-infinity-to-restore-funds-on-the-ronin-bridge-and-to-build-a-sustainable-global-ecosystem-421499824684903659",
           "publishedOn": "2022-04-06T11:30:03.000Z",
-          "wordCount": 890,
+          "wordCount": 879,
           "title": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/b06e0d6c-4d21-49e9-935a-492b7383369c.png"
-        },
-        {
-          "id": "https://eips.ethereum.org/EIPS/eip-4626",
-          "author": null,
-          "description": "EIP-4626: Tokenized Vault Standard",
-          "link": "https://eips.ethereum.org/EIPS/eip-4626",
-          "publishedOn": "2022-04-06T11:30:03.000Z",
-          "wordCount": 3537,
-          "title": "EIP-4626: Tokenized Vault Standard",
-          "imageUrl": null
         },
         {
           "id": "https://axie.substack.com/p/funding",
@@ -174,16 +184,6 @@
           "wordCount": 25,
           "title": "GateRepo - Token-gated GitHub Repositories",
           "imageUrl": "https://gaterepo.com/meta.png"
-        },
-        {
-          "id": "https://trent.mirror.xyz/jtseh00dkSWP8_PndXf4cW2lJC_VpG1w73sj2ViFGqc",
-          "author": null,
-          "description": "Quick thoughts on the Merge and GPUs",
-          "link": "https://trent.mirror.xyz/jtseh00dkSWP8_PndXf4cW2lJC_VpG1w73sj2ViFGqc",
-          "publishedOn": "2022-04-06T04:00:06.000Z",
-          "wordCount": 700,
-          "title": "Quick thoughts on the Merge and GPUs",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/d7c1f1f0-1f0d-48f6-975a-dd35ed60deb0.jpg?height=400&width=400"
         },
         {
           "id": "https://dev.optimism.io/",
