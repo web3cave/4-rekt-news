@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptocurrencyclass.github.io/",
+          "author": null,
+          "description": "Cryptocurrency Class 2022",
+          "link": "https://cryptocurrencyclass.github.io/",
+          "publishedOn": "2022-04-07T13:00:07.000Z",
+          "wordCount": 853,
+          "title": "Cryptocurrency Class 2022",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg"
+        },
+        {
           "id": "https://cn.etherscan.com/",
           "author": null,
           "description": "Etherscan China Ethereum (ETH) Blockchain Explorer",
           "link": "https://cn.etherscan.com/",
           "publishedOn": "2022-04-07T07:00:03.000Z",
-          "wordCount": 446,
+          "wordCount": 440,
           "title": "Etherscan China Ethereum (ETH) Blockchain Explorer",
           "imageUrl": "https://etherscan.io/images/brandassets/etherscan-logo-circle.jpg"
         },
@@ -44,6 +54,16 @@
           "wordCount": 2434,
           "title": "SEC.gov | Commission Statement Relating to Certain Administrative Adjudications",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.washingtonpost.com/national-security/2022/04/06/pentagon-russia-withdraws-kyiv-chernihiv/",
+          "author": null,
+          "description": "Pentagon: Russia has fully withdrawn from Kyiv, Chernihiv",
+          "link": "https://www.washingtonpost.com/national-security/2022/04/06/pentagon-russia-withdraws-kyiv-chernihiv/",
+          "publishedOn": "2022-04-07T03:00:04.000Z",
+          "wordCount": 1304,
+          "title": "Pentagon: Russia has fully withdrawn from Kyiv, Chernihiv",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLJKSNVRWYI6ZHN5BVDATVCMDQ.jpg&w=1440"
         },
         {
           "id": "https://new.slingshot.finance/",
@@ -101,7 +121,7 @@
           "description": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "link": "https://www.wsj.com/articles/gm-crypto-bitcoin-nfts-twitter-11649261057",
           "publishedOn": "2022-04-06T22:00:04.000Z",
-          "wordCount": 891,
+          "wordCount": 1937,
           "title": "‘Gm’: A Jolly Crypto Greeting Goes Viral, Sparks Squabbles",
           "imageUrl": "https://images.wsj.net/im-519002/social"
         },
@@ -121,7 +141,7 @@
           "description": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "link": "https://www.coindesk.com/policy/2022/04/06/top-us-lawmaker-proposes-sweeping-stablecoin-regulation-framework/",
           "publishedOn": "2022-04-06T21:00:02.000Z",
-          "wordCount": 995,
+          "wordCount": 992,
           "title": "Top US Lawmaker Proposes Sweeping Stablecoin Regulation Framework",
           "imageUrl": "https://www.coindesk.com/resizer/8iEbDFrP8hGVpVFvRYjMKrGj0To=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QPZQMPNNJ5B4JIK4NH7UVQDSB4.jpg"
         },
@@ -151,7 +171,7 @@
           "description": "OpenSea goes live with support for Solana-based NFTs",
           "link": "https://www.theblockcrypto.com/linked/140690/opensea-goes-live-with-support-for-solana-based-nfts",
           "publishedOn": "2022-04-06T17:00:07.000Z",
-          "wordCount": 775,
+          "wordCount": 824,
           "title": "OpenSea goes live with support for Solana-based NFTs",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210915_OpenSea.jpg"
         },
@@ -176,34 +196,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblockcrypto.com/post/140833/binance-us-raises-funding-200-million-4-5-billion-valuation",
-          "author": null,
-          "description": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
-          "link": "https://www.theblockcrypto.com/post/140833/binance-us-raises-funding-200-million-4-5-billion-valuation",
-          "publishedOn": "2022-04-06T15:00:03.000Z",
-          "wordCount": 1095,
-          "title": "Binance.US raises over $200 million at a $4.5 billion pre-money valuation",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/09/20190923_Binance-US-Daily.jpg"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/140751/near-protocol-raises-350-million-in-new-funding-round-led-by-tiger-global",
           "author": null,
           "description": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "link": "https://www.theblockcrypto.com/post/140751/near-protocol-raises-350-million-in-new-funding-round-led-by-tiger-global",
           "publishedOn": "2022-04-06T14:00:02.000Z",
-          "wordCount": 1021,
+          "wordCount": 1071,
           "title": "NEAR Protocol raises $350 million in new funding round led by Tiger Global",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/210921_Funding_Money_General.jpg"
-        },
-        {
-          "id": "https://www.binance.com/en/blog/ecosystem/binance-leads-$150m-funding-round-of-sky-mavis-the-creator-of-axie-infinity-to-restore-funds-on-the-ronin-bridge-and-to-build-a-sustainable-global-ecosystem-421499824684903659",
-          "author": null,
-          "description": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
-          "link": "https://www.binance.com/en/blog/ecosystem/binance-leads-$150m-funding-round-of-sky-mavis-the-creator-of-axie-infinity-to-restore-funds-on-the-ronin-bridge-and-to-build-a-sustainable-global-ecosystem-421499824684903659",
-          "publishedOn": "2022-04-06T11:30:03.000Z",
-          "wordCount": 881,
-          "title": "Binance Leads $150M Funding Round of Sky Mavis, the Creator of Axie Infinity, to Restore Funds on the Ronin Bridge...",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220406/b06e0d6c-4d21-49e9-935a-492b7383369c.png"
         }
       ]
     }
