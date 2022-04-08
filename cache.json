@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jeQUh91Evkk",
+          "author": null,
+          "description": "1-Gitcoin: Ethers Phoenix",
+          "link": "https://www.youtube.com/watch?v=jeQUh91Evkk",
+          "publishedOn": "2022-04-08T15:00:11.000Z",
+          "wordCount": null,
+          "title": "1-Gitcoin: Ethers Phoenix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.cosmos.network/t/proposal-draft-include-cosmwasm-in-rho-upgrade/6243",
+          "author": null,
+          "description": "[Proposal ##][DRAFT] Include CosmWasm in Rho Upgrade",
+          "link": "https://forum.cosmos.network/t/proposal-draft-include-cosmwasm-in-rho-upgrade/6243",
+          "publishedOn": "2022-04-08T14:30:04.000Z",
+          "wordCount": 2230,
+          "title": "[Proposal ##][DRAFT] Include CosmWasm in Rho Upgrade",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard11/uploads/cosmos1/original/2X/2/2a3beb3e0f97ddad3b51a8d0d4a22abaa95604d8.png"
+        },
+        {
           "id": "https://www.youtube.com/c/TheMoneyMovement?utm_campaign=Campaign%20%7C%20The%20Money%20Movement&utm_content=203380902&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
           "author": null,
           "description": "The Money Movement - YouTube",
@@ -91,7 +111,7 @@
           "description": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "link": "https://www.coindesk.com/markets/2022/04/07/terra-backers-buy-200m-in-avax-tokens-bolstering-crypto-reserves-beyond-btc/",
           "publishedOn": "2022-04-08T03:30:04.000Z",
-          "wordCount": 732,
+          "wordCount": 728,
           "title": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "imageUrl": "https://www.coindesk.com/resizer/IV7zccq678fTC1Kms95TXdoYQbw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZUZVPE32XNBGNKYJVO22LNFZ6Y.jpeg"
         },
@@ -111,7 +131,7 @@
           "description": "GitHub - mds1/drai",
           "link": "https://github.com/mds1/drai",
           "publishedOn": "2022-04-08T01:00:03.000Z",
-          "wordCount": 998,
+          "wordCount": 1015,
           "title": "GitHub - mds1/drai",
           "imageUrl": "https://opengraph.githubassets.com/6cb35f816c72b0b35ecdab95827193e24a583522dc87b0a31f6632370b597ef4/mds1/drai"
         },
@@ -121,7 +141,7 @@
           "description": "Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments",
           "link": "https://www.coindesk.com/business/2022/04/07/jack-mallers-strike-announces-shopify-integration-for-bitcoin-lightning-payments/",
           "publishedOn": "2022-04-08T01:00:03.000Z",
-          "wordCount": 793,
+          "wordCount": 789,
           "title": "Jack Mallers’ Strike Announces Shopify Integration for Bitcoin Lightning Payments",
           "imageUrl": "https://www.coindesk.com/resizer/SbzeGPEfnZR9SR8ccZOFzbnSOxw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HPYINNVRKRBFLONS4FZNGUHZEE.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/balancer/optimized/2X/8/83ffc16bfc2260f3df5a5a3ce44e59ab2c5de5e3_2_1023x341.jpeg"
         },
         {
-          "id": "https://www.vice.com/en/article/qjb5ep/sex-workers-banned-from-banks-turn-to-crypto",
-          "author": null,
-          "description": "Sex Workers Banned from Banks Turn to Crypto",
-          "link": "https://www.vice.com/en/article/qjb5ep/sex-workers-banned-from-banks-turn-to-crypto",
-          "publishedOn": "2022-04-07T17:00:03.000Z",
-          "wordCount": 649,
-          "title": "Sex Workers Banned from Banks Turn to Crypto",
-          "imageUrl": "https://video-images.vice.com/articles/624dfe1ae96c90009d27df69/lede/1649278493451-screen-shot-2022-04-06-at-44856-pm.png?image-resize-opts=Y3JvcD0xeHc6MC43Nzc0eGg7MHh3LDAuMTYzOHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-        },
-        {
           "id": "https://semaphore.zkparty.net/",
           "author": null,
           "description": "Trusted Setup",
@@ -194,16 +204,6 @@
           "wordCount": 2,
           "title": "Trusted Setup",
           "imageUrl": null
-        },
-        {
-          "id": "https://openai.com/dall-e-2/",
-          "author": null,
-          "description": "DALL·E 2",
-          "link": "https://openai.com/dall-e-2/",
-          "publishedOn": "2022-04-06T19:00:06.000Z",
-          "wordCount": 722,
-          "title": "DALL·E 2",
-          "imageUrl": "https://openai.com/content/images/2022/04/dall-e-2-og.jpg"
         }
       ]
     }
