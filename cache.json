@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://frontier.osmosis.zone/",
+          "author": null,
+          "description": "Osmosis - The Cosmos Interchain AMM",
+          "link": "https://frontier.osmosis.zone/",
+          "publishedOn": "2022-04-08T23:00:03.000Z",
+          "wordCount": 3,
+          "title": "Osmosis - The Cosmos Interchain AMM",
+          "imageUrl": "https://app.osmosis.zone/public/assets/osmosis-og.jpg"
+        },
+        {
+          "id": "https://cryptostaker.com/david-hoffman-bankless-interview/",
+          "author": null,
+          "description": "\"Ethereum Will Grow To $5T This Decade And The ETH Staking Industry Is Going To Be Insane..\" David Hoffman Is...",
+          "link": "https://cryptostaker.com/david-hoffman-bankless-interview/",
+          "publishedOn": "2022-04-08T23:00:03.000Z",
+          "wordCount": 2343,
+          "title": "\"Ethereum Will Grow To $5T This Decade And The ETH Staking Industry Is Going To Be Insane..\" David Hoffman Is...",
+          "imageUrl": "https://cryptostaker.com/wp-content/uploads/2022/04/david-hoffman-bankless-crypto.jpg"
+        },
+        {
           "id": "https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk-6529-mXg5",
           "author": null,
           "description": "The World According to Punk 6529 | Real Vision",
@@ -24,6 +44,16 @@
           "wordCount": 653,
           "title": "Strike Launches Shopify Integration Bringing Bitcoin Lighting Payments to Merchants",
           "imageUrl": "https://mms.businesswire.com/media/20220407005830/en/1414742/23/strike_logo_black.jpg"
+        },
+        {
+          "id": "https://firstdayout.driftershoots.com/",
+          "author": null,
+          "description": "First Day Out",
+          "link": "https://firstdayout.driftershoots.com/",
+          "publishedOn": "2022-04-08T21:00:02.000Z",
+          "wordCount": 439,
+          "title": "First Day Out",
+          "imageUrl": "/self-portrait.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=ko6K82pXcPA&feature=youtu.be",
@@ -51,19 +81,9 @@
           "description": "Here’s Why USDN De-Pegged From the Dollar – And Why UST Might Too - Unchained Podcast",
           "link": "https://unchainedpodcast.com/heres-why-usdn-de-pegged-from-the-dollar-and-why-ust-might-too/",
           "publishedOn": "2022-04-08T19:30:03.000Z",
-          "wordCount": 269,
+          "wordCount": 378,
           "title": "Here’s Why USDN De-Pegged From the Dollar – And Why UST Might Too - Unchained Podcast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/0xaeD5D0c25EC30283DAE4ba512dd249d468323660/SxxerO10zGc6-Qj0LI_aq8IjcESqjJY67kNpd4GwDl4",
-          "author": null,
-          "description": "Wait, It's All Layer Zero?",
-          "link": "https://mirror.xyz/0xaeD5D0c25EC30283DAE4ba512dd249d468323660/SxxerO10zGc6-Qj0LI_aq8IjcESqjJY67kNpd4GwDl4",
-          "publishedOn": "2022-04-08T19:00:07.000Z",
-          "wordCount": 2294,
-          "title": "Wait, It's All Layer Zero?",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/S9MKJQE-A1a2uAHF4Ynpq.jpg?height=600&width=600"
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN339.jpg"
         },
         {
           "id": "https://nation3.org/manifesto",
@@ -74,16 +94,6 @@
           "wordCount": 1096,
           "title": "Nation3 Manifesto",
           "imageUrl": "https://nation3.org/social/manifesto.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Vx8ZE59B288&feature=youtu.be",
-          "author": null,
-          "description": "Head to Head with our mystery guest || a Defiant SPECIAL",
-          "link": "https://www.youtube.com/watch?v=Vx8ZE59B288&feature=youtu.be",
-          "publishedOn": "2022-04-08T18:00:05.000Z",
-          "wordCount": null,
-          "title": "Head to Head with our mystery guest || a Defiant SPECIAL",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/@gmx.io/x4-protocol-controlled-exchange-c931cd9a1ae9",
@@ -171,7 +181,7 @@
           "description": "“Up or Down Bls Sirs?!”",
           "link": "https://fooo69.medium.com/up-or-down-bls-sirs-876c0a82e4d2",
           "publishedOn": "2022-04-08T02:30:02.000Z",
-          "wordCount": 1817,
+          "wordCount": 1866,
           "title": "“Up or Down Bls Sirs?!”",
           "imageUrl": "https://miro.medium.com/freeze/max/450/1*KiEFGt3UrP1HQD7KPM5Mfg.gif"
         },
@@ -194,16 +204,6 @@
           "wordCount": 7261,
           "title": "Decentralization for Web3 Builders: Principles, Models, How",
           "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/04/web2centralizationvsweb3decentralization_milesjennings_a16zcrypto.jpg"
-        },
-        {
-          "id": "https://semaphore.zkparty.net/",
-          "author": null,
-          "description": "Trusted Setup",
-          "link": "https://semaphore.zkparty.net/",
-          "publishedOn": "2022-04-06T23:00:06.000Z",
-          "wordCount": 2,
-          "title": "Trusted Setup",
-          "imageUrl": null
         }
       ]
     }
