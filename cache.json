@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://content.govdelivery.com/accounts/USTREAS/bulletins/3126812",
+          "author": null,
+          "description": "Remarks from Secretary of the Treasury Janet L. Yellen on Digital Assets",
+          "link": "https://content.govdelivery.com/accounts/USTREAS/bulletins/3126812",
+          "publishedOn": "2022-04-08T05:00:03.000Z",
+          "wordCount": 3566,
+          "title": "Remarks from Secretary of the Treasury Janet L. Yellen on Digital Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-banks",
+          "author": null,
+          "description": "Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-banks",
+          "publishedOn": "2022-04-08T05:00:03.000Z",
+          "wordCount": 1106,
+          "title": "Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/markets/2022/04/07/terra-backers-buy-200m-in-avax-tokens-bolstering-crypto-reserves-beyond-btc/",
           "author": null,
           "description": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "link": "https://www.coindesk.com/markets/2022/04/07/terra-backers-buy-200m-in-avax-tokens-bolstering-crypto-reserves-beyond-btc/",
           "publishedOn": "2022-04-08T03:30:04.000Z",
-          "wordCount": 741,
+          "wordCount": 743,
           "title": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "imageUrl": "https://www.coindesk.com/resizer/IV7zccq678fTC1Kms95TXdoYQbw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZUZVPE32XNBGNKYJVO22LNFZ6Y.jpeg"
         },
@@ -56,16 +76,6 @@
           "imageUrl": "https://yt3.ggpht.com/ytc/AKedOLRqTIkC09Gk17Pu78JVAv2lQ5t_ZU-8cNn3usP4=s900-c-k-c0x00ffffff-no-rj"
         },
         {
-          "id": "https://www.zerohedge.com/markets/stunning-speech-peter-thiel-blasts-buffett-dimon-and-fink-finance-gerontocracy-sees-bitcoin",
-          "author": null,
-          "description": "In Stunning Speech, Peter Thiel Blasts Buffett, Dimon, & Fink As \"Finance Gerontocracy\"; Sees Bitcoin Rising 100-Fold...",
-          "link": "https://www.zerohedge.com/markets/stunning-speech-peter-thiel-blasts-buffett-dimon-and-fink-finance-gerontocracy-sees-bitcoin",
-          "publishedOn": "2022-04-07T23:30:02.000Z",
-          "wordCount": 1427,
-          "title": "In Stunning Speech, Peter Thiel Blasts Buffett, Dimon, & Fink As \"Finance Gerontocracy\"; Sees Bitcoin Rising 100-Fold...",
-          "imageUrl": null
-        },
-        {
           "id": "https://gov.curve.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-vefunder-gauge/3032",
           "author": null,
           "description": "Proposal to fund the Protocol Guild Pilot via a veFunder Gauge",
@@ -103,16 +113,6 @@
           "publishedOn": "2022-04-07T19:00:06.000Z",
           "wordCount": 2582,
           "title": "[PDF] New_Leadership_Team_Press_Release.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://geth.ethereum.org/docs/vulnerabilities/vulnerabilities",
-          "author": null,
-          "description": "Vulnerability disclosure | Go Ethereum",
-          "link": "https://geth.ethereum.org/docs/vulnerabilities/vulnerabilities",
-          "publishedOn": "2022-04-07T19:00:06.000Z",
-          "wordCount": 761,
-          "title": "Vulnerability disclosure | Go Ethereum",
           "imageUrl": null
         },
         {
@@ -173,7 +173,7 @@
           "publishedOn": "2022-04-07T14:00:07.000Z",
           "wordCount": 797,
           "title": "GitHub - ZeframLou/trustus: Trust-minimized way to access offchain data onchain",
-          "imageUrl": "https://opengraph.githubassets.com/ff8f5e11f6c984063f71b67de0ab7c09039404fdc77e0cda50405f18d0c29955/ZeframLou/trustus"
+          "imageUrl": "https://opengraph.githubassets.com/b2d644ea80e3be661e8032eef73517997dd5b9a3c7273ae5444dbbc97825f960/ZeframLou/trustus"
         },
         {
           "id": "https://axie.substack.com/p/axieorigin",
