@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.aperture.finance/",
+          "author": null,
+          "description": "Aperture Finance",
+          "link": "https://app.aperture.finance/",
+          "publishedOn": "2022-04-08T08:00:06.000Z",
+          "wordCount": 10,
+          "title": "Aperture Finance",
+          "imageUrl": "https://i.imgur.com/YSGPX8e.png"
+        },
+        {
           "id": "https://medium.com/offchainlabs/its-nitro-time-86944693bf29",
           "author": null,
           "description": "It’s Nitro time",
@@ -36,12 +46,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/political/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-banks",
+          "author": null,
+          "description": "Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/over-150-suspicious-hunter-or-james-biden-financial-transactions-flagged-banks",
+          "publishedOn": "2022-04-08T05:00:03.000Z",
+          "wordCount": 1106,
+          "title": "Over 150 Suspicious Hunter Or James Biden Financial Transactions Flagged By Banks | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/markets/2022/04/07/terra-backers-buy-200m-in-avax-tokens-bolstering-crypto-reserves-beyond-btc/",
           "author": null,
           "description": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "link": "https://www.coindesk.com/markets/2022/04/07/terra-backers-buy-200m-in-avax-tokens-bolstering-crypto-reserves-beyond-btc/",
           "publishedOn": "2022-04-08T03:30:04.000Z",
-          "wordCount": 743,
+          "wordCount": 736,
           "title": "Terra Backers Buy $200M in AVAX Tokens, Bolstering Crypto Reserves Beyond BTC",
           "imageUrl": "https://www.coindesk.com/resizer/IV7zccq678fTC1Kms95TXdoYQbw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZUZVPE32XNBGNKYJVO22LNFZ6Y.jpeg"
         },
@@ -61,7 +81,7 @@
           "description": "GitHub - mds1/drai",
           "link": "https://github.com/mds1/drai",
           "publishedOn": "2022-04-08T01:00:03.000Z",
-          "wordCount": 1015,
+          "wordCount": 942,
           "title": "GitHub - mds1/drai",
           "imageUrl": "https://opengraph.githubassets.com/0a7582122dfec925c7eddc1ea61fb333d08e8760ec4e015263c9793b270aea22/mds1/drai"
         },
@@ -94,16 +114,6 @@
           "wordCount": 1967,
           "title": "Proposal to fund the Protocol Guild Pilot via a veFunder Gauge",
           "imageUrl": "https://gov.curve.fi/uploads/default/original/1X/236e8d42f0282109552eb0849f8987a75ca5b51b.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jeQUh91Evkk",
-          "author": null,
-          "description": "1-Gitcoin: Ethers Phoenix",
-          "link": "https://www.youtube.com/watch?v=jeQUh91Evkk",
-          "publishedOn": "2022-04-07T21:00:03.000Z",
-          "wordCount": null,
-          "title": "1-Gitcoin: Ethers Phoenix",
-          "imageUrl": null
         },
         {
           "id": "https://www.theblockcrypto.com/linked/141023/bank-of-englands-fintech-chief-says-he-has-left-to-join-fireblocks?utm_source=twitter&utm_medium=social",
@@ -161,7 +171,7 @@
           "description": "[Proposal] Allowlist Aura Finance in Balancer VotingEscrow",
           "link": "https://forum.balancer.fi/t/proposal-allowlist-aura-finance-in-balancer-votingescrow/2708",
           "publishedOn": "2022-04-07T18:30:03.000Z",
-          "wordCount": 1451,
+          "wordCount": 1551,
           "title": "[Proposal] Allowlist Aura Finance in Balancer VotingEscrow",
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/balancer/optimized/2X/8/83ffc16bfc2260f3df5a5a3ce44e59ab2c5de5e3_2_1023x341.jpeg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 649,
           "title": "Sex Workers Banned from Banks Turn to Crypto",
           "imageUrl": "https://video-images.vice.com/articles/624dfe1ae96c90009d27df69/lede/1649278493451-screen-shot-2022-04-06-at-44856-pm.png?image-resize-opts=Y3JvcD0xeHc6MC43Nzc0eGg7MHh3LDAuMTYzOHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-        },
-        {
-          "id": "https://github.com/ZeframLou/trustus",
-          "author": null,
-          "description": "GitHub - ZeframLou/trustus: Trust-minimized way to access offchain data onchain",
-          "link": "https://github.com/ZeframLou/trustus",
-          "publishedOn": "2022-04-07T14:00:07.000Z",
-          "wordCount": 797,
-          "title": "GitHub - ZeframLou/trustus: Trust-minimized way to access offchain data onchain",
-          "imageUrl": "https://opengraph.githubassets.com/c92b8c21a25c3f891bb2cecd7715fd9570b952fd6e7920b30c9efbfd195c5aea/ZeframLou/trustus"
         },
         {
           "id": "https://semaphore.zkparty.net/",
