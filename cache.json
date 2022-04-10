@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.economist.com/europe/finland-is-hurtling-towards-nato-membership/21808705",
+          "author": null,
+          "description": "Finland is hurtling towards NATO membership",
+          "link": "https://www.economist.com/europe/finland-is-hurtling-towards-nato-membership/21808705",
+          "publishedOn": "2022-04-10T07:00:03.000Z",
+          "wordCount": 1678,
+          "title": "Finland is hurtling towards NATO membership",
+          "imageUrl": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/2022/04/articles/main/20220409_eup509_2.jpg"
+        },
+        {
           "id": "https://www.ft.com/content/16eaf1b9-08fb-4454-a4eb-ac662cdd8590",
           "author": null,
           "description": "Web3 is yet to take off despite the hype",
           "link": "https://www.ft.com/content/16eaf1b9-08fb-4454-a4eb-ac662cdd8590",
           "publishedOn": "2022-04-10T05:30:04.000Z",
-          "wordCount": 1651,
+          "wordCount": 1654,
           "title": "Web3 is yet to take off despite the hype",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67b98cc1-e8e3-4fb9-8317-b726197b961d.jpg?source=next-opengraph&fit=scale-down&width=900"
         },
@@ -31,7 +41,7 @@
           "description": "r/ethereum - Raise your Hand if you own Ethereum - Ouch",
           "link": "https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
           "publishedOn": "2022-04-09T23:00:03.000Z",
-          "wordCount": 675,
+          "wordCount": 688,
           "title": "r/ethereum - Raise your Hand if you own Ethereum - Ouch",
           "imageUrl": "https://external-preview.redd.it/VH197AXbUrv1iMNXNlk09h7khDjZA1xb3uS2nizL7qc.png?format=pjpg&auto=webp&s=1030153387bca7d3ba51f5d41f90a1ba0a3db0a4"
         },
@@ -61,7 +71,7 @@
           "description": "First decentralized FIAT gateway infrastructure in US- Beta Launch on Avalanche",
           "link": "https://medium.com/@metlco/first-decentralized-fiat-gateway-infrastructure-in-us-beta-launch-on-avalanche-9f3ca38f8781",
           "publishedOn": "2022-04-09T21:00:03.000Z",
-          "wordCount": 1254,
+          "wordCount": 1252,
           "title": "First decentralized FIAT gateway infrastructure in US- Beta Launch on Avalanche",
           "imageUrl": "https://miro.medium.com/max/1200/1*Gb3oaWsw4WQDNUPb6vsFqQ.jpeg"
         },
@@ -94,6 +104,16 @@
           "wordCount": 1341,
           "title": "Why The Digital Dollar Will Destroy Free Speech | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://startrek.xyz/",
+          "author": null,
+          "description": "Star Trek Continuum NFTs | Calling All Captains",
+          "link": "https://startrek.xyz/",
+          "publishedOn": "2022-04-09T19:00:02.000Z",
+          "wordCount": 144,
+          "title": "Star Trek Continuum NFTs | Calling All Captains",
+          "imageUrl": "https://startrek.xyz/images/kiwi/og-image.png"
         },
         {
           "id": "https://cryptofees.info/",
@@ -131,29 +151,19 @@
           "description": "Box - 1st Blockchain Attached Storage solution to cloud computing | Product Hunt",
           "link": "https://www.producthunt.com/posts/box-2",
           "publishedOn": "2022-04-09T13:00:02.000Z",
-          "wordCount": 168,
+          "wordCount": 175,
           "title": "Box - 1st Blockchain Attached Storage solution to cloud computing | Product Hunt",
           "imageUrl": "https://ph-files.imgix.net/81373c04-26af-4d30-9849-8c261211ab10.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://decrypt.co/97328/cme-reference-rates-indices-solana-cardano-polygon-altcoins",
+          "id": "https://medium.com/@twister-cash/introducing-twister-cash-569c646a3ed2",
           "author": null,
-          "description": "CME Adds Reference Rates for Solana, Cardano, Polygon and Other Altcoins - Decrypt",
-          "link": "https://decrypt.co/97328/cme-reference-rates-indices-solana-cardano-polygon-altcoins",
-          "publishedOn": "2022-04-09T12:30:03.000Z",
-          "wordCount": 959,
-          "title": "CME Adds Reference Rates for Solana, Cardano, Polygon and Other Altcoins - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/cme-group-crypto-gID_6.jpeg"
-        },
-        {
-          "id": "https://axie.substack.com/p/origin-education-challenge?s=w",
-          "author": null,
-          "description": "Origin Education Challenge!",
-          "link": "https://axie.substack.com/p/origin-education-challenge?s=w",
-          "publishedOn": "2022-04-09T12:00:05.000Z",
-          "wordCount": 417,
-          "title": "Origin Education Challenge!",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c2eebd7-8a15-4195-b801-e86fc5cd81ba_2146x993.png"
+          "description": "Introducing Twister Cash",
+          "link": "https://medium.com/@twister-cash/introducing-twister-cash-569c646a3ed2",
+          "publishedOn": "2022-04-09T09:00:03.000Z",
+          "wordCount": 1007,
+          "title": "Introducing Twister Cash",
+          "imageUrl": "https://miro.medium.com/max/960/1*zAcavQ_UN5TxGHBRixw-Ig.png"
         },
         {
           "id": "https://www.symphonious.net/2022/04/09/exploring-eth2-stealing-inclusion-fees-from-public-beacon-nodes/",
@@ -174,16 +184,6 @@
           "wordCount": 2343,
           "title": "\"Ethereum Will Grow To $5T This Decade And The ETH Staking Industry Is Going To Be Insane..\" David Hoffman Is...",
           "imageUrl": "https://cryptostaker.com/wp-content/uploads/2022/04/david-hoffman-bankless-crypto.jpg"
-        },
-        {
-          "id": "https://gov.curve.fi/t/sidechain-l2-gauge-replacements-migration/3045",
-          "author": null,
-          "description": "Sidechain/L2 Gauge Replacements/Migration",
-          "link": "https://gov.curve.fi/t/sidechain-l2-gauge-replacements-migration/3045",
-          "publishedOn": "2022-04-08T23:00:02.000Z",
-          "wordCount": 274,
-          "title": "Sidechain/L2 Gauge Replacements/Migration",
-          "imageUrl": "https://gov.curve.fi/uploads/default/original/1X/236e8d42f0282109552eb0849f8987a75ca5b51b.png"
         },
         {
           "id": "https://firstdayout.driftershoots.com/",
