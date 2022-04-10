@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://mayweverse.io/",
+          "author": null,
+          "description": "Mayweverse",
+          "link": "https://mayweverse.io/",
+          "publishedOn": "2022-04-10T01:00:02.000Z",
+          "wordCount": 376,
+          "title": "Mayweverse",
+          "imageUrl": null
+        },
+        {
+          "id": "http://vseth.info/",
+          "author": null,
+          "description": "vseth",
+          "link": "http://vseth.info/",
+          "publishedOn": "2022-04-10T00:30:02.000Z",
+          "wordCount": 1,
+          "title": "vseth",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/",
           "author": null,
           "description": "r/ethereum - Raise your Hand if you own Ethereum - Ouch",
           "link": "https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/",
           "publishedOn": "2022-04-09T23:00:03.000Z",
-          "wordCount": 511,
+          "wordCount": 549,
           "title": "r/ethereum - Raise your Hand if you own Ethereum - Ouch",
           "imageUrl": "https://external-preview.redd.it/VH197AXbUrv1iMNXNlk09h7khDjZA1xb3uS2nizL7qc.png?format=pjpg&auto=webp&s=1030153387bca7d3ba51f5d41f90a1ba0a3db0a4"
         },
@@ -116,16 +136,6 @@
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c2eebd7-8a15-4195-b801-e86fc5cd81ba_2146x993.png"
         },
         {
-          "id": "https://www.youtube.com/gmoneynft",
-          "author": null,
-          "description": "gmoneynft - YouTube",
-          "link": "https://www.youtube.com/gmoneynft",
-          "publishedOn": "2022-04-09T05:00:03.000Z",
-          "wordCount": 13,
-          "title": "gmoneynft - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/d_76rcJyTs46rZiVyWFVB9ptLT2b0LVEuBDm4IwUuoyoCRMFvPwkr8PjbeLfMfgyf83kIe9D=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
           "id": "https://roundtable.io/news-causes/exclusive-ukrainian-deputy-minister-makes-live-appeal-to-world-crypto-community",
           "author": null,
           "description": "Exclusive: Ukrainian Deputy Minister Makes Live Appeal to World Crypto Community - Roundtable",
@@ -143,16 +153,6 @@
           "publishedOn": "2022-04-09T02:30:03.000Z",
           "wordCount": 779,
           "title": "Exploring Eth2: Stealing Inclusion Fees from Public Beacon Nodes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://allowlist.moonbirds.io/",
-          "author": null,
-          "description": "Moonbirds: The official PROOF PFP",
-          "link": "https://allowlist.moonbirds.io/",
-          "publishedOn": "2022-04-09T02:30:03.000Z",
-          "wordCount": 13,
-          "title": "Moonbirds: The official PROOF PFP",
           "imageUrl": null
         },
         {
