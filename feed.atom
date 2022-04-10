@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T02:58:12.613Z</id>
+    <id>urn:2022-04-10T03:35:13.204Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-10T02:58:12.613Z</updated>
+    <updated>2022-04-10T03:35:13.204Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://mayweverse.io/"/>
         <updated>2022-04-10T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[Mayweverse]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vseth]]></title>
-        <id>http://vseth.info/</id>
-        <link href="http://vseth.info/"/>
-        <updated>2022-04-10T00:30:02.000Z</updated>
-        <summary type="html"><![CDATA[vseth]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -71,6 +61,16 @@
         <link href="https://snowtrace.io/address/0xb7e7d49b09833b4f9d171c92768c8dffcc5b2052#code"/>
         <updated>2022-04-09T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Contract Address 0xb7e7d49b09833b4f9d171c92768c8dffcc5b2052 | SnowTrace]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maria — iPad Reading App]]></title>
+        <id>https://www.maria.education/</id>
+        <link href="https://www.maria.education/"/>
+        <updated>2022-04-09T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Maria — iPad Reading App]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
