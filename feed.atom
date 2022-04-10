@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-10T05:18:45.076Z</id>
+    <id>urn:2022-04-10T06:25:30.508Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-10T05:18:45.076Z</updated>
+    <updated>2022-04-10T06:25:30.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 is yet to take off despite the hype]]></title>
+        <id>https://www.ft.com/content/16eaf1b9-08fb-4454-a4eb-ac662cdd8590</id>
+        <link href="https://www.ft.com/content/16eaf1b9-08fb-4454-a4eb-ac662cdd8590"/>
+        <updated>2022-04-10T05:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Web3 is yet to take off despite the hype]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayweverse]]></title>
         <id>https://mayweverse.io/</id>
@@ -17,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[r/ethereum - Raise your Hand if you own Ethereum - Ouch]]></title>
-        <id>https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/</id>
-        <link href="https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/"/>
+        <id>https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf</id>
+        <link href="https://www.reddit.com/r/ethereum/comments/tzzzt5/raise_your_hand_if_you_own_ethereum_ouch/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf"/>
         <updated>2022-04-09T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[r/ethereum - Raise your Hand if you own Ethereum - Ouch]]></summary>
         <author>
@@ -151,16 +161,6 @@
         <link href="https://www.symphonious.net/2022/04/09/exploring-eth2-stealing-inclusion-fees-from-public-beacon-nodes/"/>
         <updated>2022-04-09T02:30:03.000Z</updated>
         <summary type="html"><![CDATA[Exploring Eth2: Stealing Inclusion Fees from Public Beacon Nodes]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New in Eth2 - HackMD]]></title>
-        <id>https://hackmd.io/@benjaminion/eth2_news</id>
-        <link href="https://hackmd.io/@benjaminion/eth2_news"/>
-        <updated>2022-04-09T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[What’s New in Eth2 - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
