@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://research.lido.fi/t/announcement-onboarding-for-ethereum-wave-4/2024",
+          "author": null,
+          "description": "Announcement: Onboarding for (Ethereum Wave 4)",
+          "link": "https://research.lido.fi/t/announcement-onboarding-for-ethereum-wave-4/2024",
+          "publishedOn": "2022-04-11T23:00:03.000Z",
+          "wordCount": 314,
+          "title": "Announcement: Onboarding for (Ethereum Wave 4)",
+          "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/lido/original/1X/8d3e77d0e4936c97f2b6189ab18370bd88fbe91e.png"
+        },
+        {
+          "id": "https://www.cbsnews.com/video/can-cryptocurrency-go-mainstream/",
+          "author": null,
+          "description": "Can cryptocurrency go mainstream?",
+          "link": "https://www.cbsnews.com/video/can-cryptocurrency-go-mainstream/",
+          "publishedOn": "2022-04-11T23:00:03.000Z",
+          "wordCount": 288,
+          "title": "Can cryptocurrency go mainstream?",
+          "imageUrl": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/10/4919ef36-b470-43e7-93e9-f47fed8d8c42/thumbnail/1200x630/17bda80d117f3e17caba2b8ab5d039ca/dblock-crypto-955330-640x360.jpg"
+        },
+        {
+          "id": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3d7f31ce576d",
+          "author": null,
+          "description": "Increasing transparency for new asset listings on Coinbase",
+          "link": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3d7f31ce576d",
+          "publishedOn": "2022-04-11T22:30:02.000Z",
+          "wordCount": 991,
+          "title": "Increasing transparency for new asset listings on Coinbase",
+          "imageUrl": "https://miro.medium.com/max/1200/0*qDW4ne0fc71Ki3Zz"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/russia-threatens-legal-action-if-us-treasury-forces-it-sovereign-debt-default",
           "author": null,
           "description": "Russia Threatens Legal Action If US Treasury Forces It Into Sovereign Debt Default | ZeroHedge",
@@ -41,19 +71,9 @@
           "description": "Former Ethereum Developer Virgil Griffith to Be Sentenced in New York Court Tomorrow",
           "link": "https://www.coindesk.com/business/2022/04/11/former-ethereum-developer-virgil-griffith-to-be-sentenced-in-new-york-court-tomorrow/",
           "publishedOn": "2022-04-11T21:00:04.000Z",
-          "wordCount": 1701,
+          "wordCount": 1710,
           "title": "Former Ethereum Developer Virgil Griffith to Be Sentenced in New York Court Tomorrow",
           "imageUrl": "https://www.coindesk.com/resizer/kfUdY3q8KxniZpnwkY60OhO1LAM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VPF43OF7B5BCPEL7ME3E72JS6A.jpg"
-        },
-        {
-          "id": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html",
-          "author": null,
-          "description": "[bitcoin-dev] Taro: A Taproot Asset Representation Overlay",
-          "link": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020196.html",
-          "publishedOn": "2022-04-11T21:00:04.000Z",
-          "wordCount": 566,
-          "title": "[bitcoin-dev] Taro: A Taproot Asset Representation Overlay",
-          "imageUrl": null
         },
         {
           "id": "https://uniswap.org/blog/ventures",
@@ -71,7 +91,7 @@
           "description": "Bored Apes Go Hollywood With Coinbase-Produced Movie Trilogy",
           "link": "https://www.coindesk.com/business/2022/04/11/bored-apes-go-hollywood-with-coinbase-produced-movie-trilogy/",
           "publishedOn": "2022-04-11T21:00:03.000Z",
-          "wordCount": 1067,
+          "wordCount": 1076,
           "title": "Bored Apes Go Hollywood With Coinbase-Produced Movie Trilogy",
           "imageUrl": "https://www.coindesk.com/resizer/ROrGJFVT-25YJRDlY9A7GJW0Gy0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGCO3XZTFBET3PJXHTVDE3N5RQ.jpeg"
         },
@@ -111,19 +131,9 @@
           "description": "Want to See the Future of Banks? Look at Telcos",
           "link": "https://www.coindesk.com/layer2/2022/04/11/want-to-see-the-future-of-banks-look-at-telcos/",
           "publishedOn": "2022-04-11T17:00:03.000Z",
-          "wordCount": 1652,
+          "wordCount": 1658,
           "title": "Want to See the Future of Banks? Look at Telcos",
           "imageUrl": "https://www.coindesk.com/resizer/qpNINAetAjUtRc3L2WDiVFw3WD8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UUDLRUD3UFFOTAM25IBLYITUFQ.jpg"
-        },
-        {
-          "id": "https://github.com/project-serum/anchor/pull/1758",
-          "author": null,
-          "description": "integer arithmetic safe by default w/o checked by cavemanloverboy · Pull Request #1758 · project-serum/anchor",
-          "link": "https://github.com/project-serum/anchor/pull/1758",
-          "publishedOn": "2022-04-11T14:00:02.000Z",
-          "wordCount": 680,
-          "title": "integer arithmetic safe by default w/o checked by cavemanloverboy · Pull Request #1758 · project-serum/anchor",
-          "imageUrl": "https://opengraph.githubassets.com/541cbda36ba5f452541ae1ab0fcd8765e4429171ae135909e2e5841d9c33cf59/project-serum/anchor/pull/1758"
         },
         {
           "id": "https://www.theblockcrypto.com/post/141447/former-bitmex-ceo-arthur-hayes-predicts-coming-crypto-carnage",
@@ -141,7 +151,7 @@
           "description": "mainnet/gentx at master · cosmos/mainnet",
           "link": "https://github.com/cosmos/mainnet/tree/master/gentx",
           "publishedOn": "2022-04-11T09:00:02.000Z",
-          "wordCount": 988,
+          "wordCount": 537,
           "title": "mainnet/gentx at master · cosmos/mainnet",
           "imageUrl": "https://opengraph.githubassets.com/157bd74dd77178674a7ddc6017df7408b57732ceb906155ad79b1923f14da1e5/cosmos/mainnet"
         },
@@ -164,16 +174,6 @@
           "wordCount": 2599,
           "title": "Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols",
           "imageUrl": "https://static01.nyt.com/images/2022/04/09/us/politics/00dc-cryptolobby1/00dc-cryptolobby1-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.fastcompany.com/90736343/how-epic-games-is-changing-gaming-and-maybe-the-metaverse",
-          "author": null,
-          "description": "How Epic Games is changing gaming—and maybe the metaverse",
-          "link": "https://www.fastcompany.com/90736343/how-epic-games-is-changing-gaming-and-maybe-the-metaverse",
-          "publishedOn": "2022-04-11T02:00:03.000Z",
-          "wordCount": 3467,
-          "title": "How Epic Games is changing gaming—and maybe the metaverse",
-          "imageUrl": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/03/p-1-what-epicand8217s-new-unreal-engine-5-means-for-the-gaming-the-metaverse-and-the-future-webNanite.jpg"
         },
         {
           "id": "https://blog.bitmex.com/the-q-trap/",
@@ -201,7 +201,7 @@
           "description": "GitHub - dethcrypto/dethcode: View source of deployed Ethereum contracts in VSCode",
           "link": "https://github.com/dethcrypto/dethcode",
           "publishedOn": "2022-04-10T19:00:03.000Z",
-          "wordCount": 1003,
+          "wordCount": 1009,
           "title": "GitHub - dethcrypto/dethcode: View source of deployed Ethereum contracts in VSCode",
           "imageUrl": "https://repository-images.githubusercontent.com/438402257/8db54043-826d-4a1b-bbda-c0b584f650b4"
         }
