@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-11T03:12:14.592Z</id>
+    <id>urn:2022-04-11T04:27:49.216Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-11T03:12:14.592Z</updated>
+    <updated>2022-04-11T04:27:49.216Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Academy]]></title>
-        <id>https://www.thecryptoacademy.io/</id>
-        <link href="https://www.thecryptoacademy.io/"/>
-        <updated>2022-04-11T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[The Crypto Academy]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cereal Grain Lipids - an overview | ScienceDirect Topics]]></title>
         <id>https://www.sciencedirect.com/topics/food-science/cereal-grain-lipids</id>
@@ -141,6 +131,16 @@
         <link href="https://medium.com/@breederDAOcommunity/breed-public-sale-token-launch-auction-tla-on-copper-51483a0197f9"/>
         <updated>2022-04-10T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[$BREED Public Sale — Token Launch Auction (TLA) on Copper]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading Ethereum]]></title>
+        <id>https://eth2book.info/altair/part2/building_blocks/randomness/</id>
+        <link href="https://eth2book.info/altair/part2/building_blocks/randomness/"/>
+        <updated>2022-04-10T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
