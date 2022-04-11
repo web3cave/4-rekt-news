@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://claim.tryshowtime.com/",
+          "author": null,
+          "description": "Showtime | Genesis NFT Drop",
+          "link": "https://claim.tryshowtime.com/",
+          "publishedOn": "2022-04-11T11:00:04.000Z",
+          "wordCount": 129,
+          "title": "Showtime | Genesis NFT Drop",
+          "imageUrl": "https://claim.tryshowtime.com/images/card.jpg"
+        },
+        {
+          "id": "https://github.com/cosmos/interchain-security/pull/28",
+          "author": null,
+          "description": "feat: Add Consumer chain initiated slashing by sainoe · Pull Request #28 · cosmos/interchain-security",
+          "link": "https://github.com/cosmos/interchain-security/pull/28",
+          "publishedOn": "2022-04-11T11:00:03.000Z",
+          "wordCount": 5154,
+          "title": "feat: Add Consumer chain initiated slashing by sainoe · Pull Request #28 · cosmos/interchain-security",
+          "imageUrl": "https://opengraph.githubassets.com/7b04496a7895f559258dfbe31f0337ce5bd4f575bc8326a1a628833a0f551aaa/cosmos/interchain-security/pull/28"
+        },
+        {
+          "id": "https://www.zerohedge.com/crypto/bitcoin-freedom",
+          "author": null,
+          "description": "\"Bitcoin Is Freedom\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/bitcoin-freedom",
+          "publishedOn": "2022-04-11T11:00:03.000Z",
+          "wordCount": 766,
+          "title": "\"Bitcoin Is Freedom\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uSxlZQUqVPY&feature=youtu.be",
+          "author": null,
+          "description": "Madvillain - Strange Ways (Official Video)",
+          "link": "https://www.youtube.com/watch?v=uSxlZQUqVPY&feature=youtu.be",
+          "publishedOn": "2022-04-11T11:00:03.000Z",
+          "wordCount": null,
+          "title": "Madvillain - Strange Ways (Official Video)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/true-size-africa-shocking",
           "author": null,
           "description": "The True Size Of Africa Is Shocking | ZeroHedge",
@@ -13,16 +53,6 @@
           "publishedOn": "2022-04-11T09:30:03.000Z",
           "wordCount": 337,
           "title": "The True Size Of Africa Is Shocking | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/elon-musk-will-no-longer-join-twitter-board-directors",
-          "author": null,
-          "description": "Elon Musk Will No Longer Join Twitter Board Of Directors | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/elon-musk-will-no-longer-join-twitter-board-directors",
-          "publishedOn": "2022-04-11T09:00:03.000Z",
-          "wordCount": 436,
-          "title": "Elon Musk Will No Longer Join Twitter Board Of Directors | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -36,32 +66,12 @@
           "imageUrl": "https://opengraph.githubassets.com/157bd74dd77178674a7ddc6017df7408b57732ceb906155ad79b1923f14da1e5/cosmos/mainnet"
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/china-undercuts-sanctions-russia-where-are-consequences",
-          "author": null,
-          "description": "China Undercuts Sanctions On Russia: Where Are The \"Consequences\"? | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/china-undercuts-sanctions-russia-where-are-consequences",
-          "publishedOn": "2022-04-11T05:00:03.000Z",
-          "wordCount": 1622,
-          "title": "China Undercuts Sanctions On Russia: Where Are The \"Consequences\"? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-7ZuwHh-kIw&feature=youtu.be",
-          "author": null,
-          "description": "The TreeTrunk",
-          "link": "https://www.youtube.com/watch?v=-7ZuwHh-kIw&feature=youtu.be",
-          "publishedOn": "2022-04-11T04:30:03.000Z",
-          "wordCount": null,
-          "title": "The TreeTrunk",
-          "imageUrl": null
-        },
-        {
           "id": "https://cryptohayes.medium.com/the-q-trap-f1a38312f00f",
           "author": null,
           "description": "The Q-Trap",
           "link": "https://cryptohayes.medium.com/the-q-trap-f1a38312f00f",
           "publishedOn": "2022-04-11T03:00:03.000Z",
-          "wordCount": 3601,
+          "wordCount": 3599,
           "title": "The Q-Trap",
           "imageUrl": "https://miro.medium.com/max/975/1*0pjCTAXM7Eh7yactA1rEzA.png"
         },
@@ -104,16 +114,6 @@
           "wordCount": 158,
           "title": "Spitfire Audio — Sample Libraries and Virtual Instruments",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/layer2/2022/04/10/while-you-were-out-partying-i-studied-bitcoin-development/",
-          "author": null,
-          "description": "While You Were Out Partying, I Studied Bitcoin Development",
-          "link": "https://www.coindesk.com/layer2/2022/04/10/while-you-were-out-partying-i-studied-bitcoin-development/",
-          "publishedOn": "2022-04-10T22:30:04.000Z",
-          "wordCount": 1308,
-          "title": "While You Were Out Partying, I Studied Bitcoin Development",
-          "imageUrl": "https://www.coindesk.com/resizer/yaqfI4FXuqJjyPU2QQwC8YpT_Xw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UDPRJLH7XJCPVI3E2UW2MZF4TQ.jpg"
         },
         {
           "id": "https://www.zerohedge.com/crypto/true-inflation-rate-132-censorship-resistant-price-tracker-built-blockchain",
