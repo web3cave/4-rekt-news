@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.cnbc.com/2022/04/13/meta-plans-to-take-a-nearly-50percent-cut-on-nft-sales-in-its-metaverse.html",
+          "author": null,
+          "description": "Meta plans to take a nearly 50% cut on virtual asset sales in its metaverse",
+          "link": "https://www.cnbc.com/2022/04/13/meta-plans-to-take-a-nearly-50percent-cut-on-nft-sales-in-its-metaverse.html",
+          "publishedOn": "2022-04-13T16:00:04.000Z",
+          "wordCount": 841,
+          "title": "Meta plans to take a nearly 50% cut on virtual asset sales in its metaverse",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106986799-1639005421186-CreateAWorldOfYourOwn_1.png?v=1639006398&w=1920&h=1080"
+        },
+        {
+          "id": "https://hackernoon.com/18-misconceptions-gamers-have-about-nfts",
+          "author": null,
+          "description": "18 Misconceptions Gamers have about NFTs | HackerNoon",
+          "link": "https://hackernoon.com/18-misconceptions-gamers-have-about-nfts",
+          "publishedOn": "2022-04-13T15:00:07.000Z",
+          "wordCount": 11635,
+          "title": "18 Misconceptions Gamers have about NFTs | HackerNoon",
+          "imageUrl": "https://cdn.hackernoon.com/images/c47hiokXpZM9UMypvvhmlx3uSoC2-dy93lsy.jpeg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/04/12/former-ethereum-developer-virgil-griffith-sentenced-to-5-years-in-prison-for-north-korea-trip/",
           "author": null,
           "description": "Former Ethereum Developer Virgil Griffith Sentenced to 5+ Years in Prison for North Korea Trip",
           "link": "https://www.coindesk.com/business/2022/04/12/former-ethereum-developer-virgil-griffith-sentenced-to-5-years-in-prison-for-north-korea-trip/",
           "publishedOn": "2022-04-13T09:00:05.000Z",
-          "wordCount": 1562,
+          "wordCount": 1556,
           "title": "Former Ethereum Developer Virgil Griffith Sentenced to 5+ Years in Prison for North Korea Trip",
           "imageUrl": "https://www.coindesk.com/resizer/zwKcMneuyuoEDvmH75SGFtM37Lo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SMSMZIUKBBDBJN2VXNMCAUOTHU.jpg"
         },
@@ -36,22 +56,12 @@
           "imageUrl": "https://i0.wp.com/nav.al/wp-content/uploads/2019/12/Navatar.png?fit=1080%2C1080&ssl=1"
         },
         {
-          "id": "https://www.forbes.com/sites/truebridge/2022/04/12/midas-brink-list-venture-capital-rising-stars-for-2022/?sh=74a984557895",
-          "author": null,
-          "description": "The Midas Brink List: Meet Venture Capital’s Rising Stars For 2022",
-          "link": "https://www.forbes.com/sites/truebridge/2022/04/12/midas-brink-list-venture-capital-rising-stars-for-2022/?sh=74a984557895",
-          "publishedOn": "2022-04-13T02:30:03.000Z",
-          "wordCount": 2375,
-          "title": "The Midas Brink List: Meet Venture Capital’s Rising Stars For 2022",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6254a9deb4ec4a48cb01f239/0x0.jpg?format=jpg&crop=688,388,x78,y0,safe&width=1200"
-        },
-        {
           "id": "https://nypost.com/2022/04/12/meta-will-keep-nearly-50-cut-of-virtual-item-sales-in-metaverse/?utm_source=NYPTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow",
           "author": null,
           "description": "You can sell items in the metaverse — but Meta will keep a nearly 50% cut",
           "link": "https://nypost.com/2022/04/12/meta-will-keep-nearly-50-cut-of-virtual-item-sales-in-metaverse/?utm_source=NYPTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow",
           "publishedOn": "2022-04-13T01:00:02.000Z",
-          "wordCount": 1282,
+          "wordCount": 1272,
           "title": "You can sell items in the metaverse — but Meta will keep a nearly 50% cut",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/04/meta-gets-nearly-50-percent-of-sales-01.jpg?quality=75&strip=all&w=1024"
         },
@@ -116,16 +126,6 @@
           "imageUrl": "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/7/7/7/14777_tdbank_283500.jpg"
         },
         {
-          "id": "https://decrypt.co/97117/yellen-havent-seen-significant-evasion-sanctions-using-crypto",
-          "author": null,
-          "description": "Yellen: 'We Haven't Seen Significant Evasion' of Sanctions Using Crypto - Decrypt",
-          "link": "https://decrypt.co/97117/yellen-havent-seen-significant-evasion-sanctions-using-crypto",
-          "publishedOn": "2022-04-12T19:00:03.000Z",
-          "wordCount": 790,
-          "title": "Yellen: 'We Haven't Seen Significant Evasion' of Sanctions Using Crypto - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Janet-Yellen-gID_2.jpeg"
-        },
-        {
           "id": "http://www.innercitypress.com/sdnynotrial5nkgriffithcyptoicp041222.html",
           "author": null,
           "description": "Virgil Griffith Gets 63 Months After Pled To North Korea\n      Sanctions Violation Conspiracy $100,000 Fine Too",
@@ -171,7 +171,7 @@
           "description": "Bitcoin fans are psychopaths who don’t care about anyone, study shows",
           "link": "https://nypost.com/2022/04/12/bitcoin-fans-are-psychopaths-who-dont-care-about-anyone-study-shows/?utm_source=NYPTwitter&utm_medium=SocialFlow&utm_campaign=SocialFlow",
           "publishedOn": "2022-04-12T17:00:12.000Z",
-          "wordCount": 1202,
+          "wordCount": 1196,
           "title": "Bitcoin fans are psychopaths who don’t care about anyone, study shows",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/04/bitcoin-fans-are-psychpaths-study-shows-04.jpg?quality=75&strip=all&w=1024"
         },
