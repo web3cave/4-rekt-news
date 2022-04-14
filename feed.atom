@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-14T21:19:39.320Z</id>
+    <id>urn:2022-04-14T22:22:52.538Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-14T21:19:39.320Z</updated>
+    <updated>2022-04-14T22:22:52.539Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://optimism.mirror.xyz/"/>
         <updated>2022-04-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Optimism]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></title>
+        <id>https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w</id>
+        <link href="https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w"/>
+        <updated>2022-04-14T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://github.com/w1nt3r-eth/hot-chain-svg"/>
         <updated>2022-04-14T03:30:05.000Z</updated>
         <summary type="html"><![CDATA[GitHub - w1nt3r-eth/hot-chain-svg]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fellowship program]]></title>
-        <id>https://yacademy.dev/fellowship-program/</id>
-        <link href="https://yacademy.dev/fellowship-program/"/>
-        <updated>2022-04-13T23:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Fellowship program]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
