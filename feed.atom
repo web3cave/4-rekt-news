@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T04:40:53.596Z</id>
+    <id>urn:2022-04-15T05:25:01.100Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-15T04:40:53.596Z</updated>
+    <updated>2022-04-15T05:25:01.100Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism]]></title>
+        <id>https://optimism.mirror.xyz/</id>
+        <link href="https://optimism.mirror.xyz/"/>
+        <updated>2022-04-15T05:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Optimism]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 Crypto Market Sizing Report & 2022 Forecast]]></title>
         <id>https://crypto.com/research/2021-crypto-market-sizing-report-2022-forecast</id>
@@ -131,16 +141,6 @@
         <link href="https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/"/>
         <updated>2022-04-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></title>
-        <id>https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w</id>
-        <link href="https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w"/>
-        <updated>2022-04-14T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
