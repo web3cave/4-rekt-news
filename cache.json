@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/twitter-board-adopts-poison-pill-thwart-musk-takeover-exposing-itself-titanic-legal",
+          "author": null,
+          "description": "Twitter Board Adopts \"Poison Pill\" To Thwart Musk Takeover, Exposing Itself To \"Titanic\" Legal Liability | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/twitter-board-adopts-poison-pill-thwart-musk-takeover-exposing-itself-titanic-legal",
+          "publishedOn": "2022-04-15T20:00:06.000Z",
+          "wordCount": 1425,
+          "title": "Twitter Board Adopts \"Poison Pill\" To Thwart Musk Takeover, Exposing Itself To \"Titanic\" Legal Liability | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://protectdefi.org/",
+          "author": null,
+          "description": "Email a comment to the SEC",
+          "link": "https://protectdefi.org/",
+          "publishedOn": "2022-04-15T18:30:07.000Z",
+          "wordCount": 1398,
+          "title": "Email a comment to the SEC",
+          "imageUrl": "https://dontmakeitworse.files.wordpress.com/2022/03/featured-3.jpg"
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/142081/ethereum-mixer-tornado-cash-now-blocks-sanctioned-addresses",
           "author": null,
           "description": "Ethereum mixer Tornado Cash blocks sanctioned addresses from its frontend",
           "link": "https://www.theblockcrypto.com/post/142081/ethereum-mixer-tornado-cash-now-blocks-sanctioned-addresses",
           "publishedOn": "2022-04-15T18:00:03.000Z",
-          "wordCount": 1112,
+          "wordCount": 1123,
           "title": "Ethereum mixer Tornado Cash blocks sanctioned addresses from its frontend",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200603_Tornado_Privacy-Daily.jpg"
         },
@@ -61,9 +81,9 @@
           "description": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
           "link": "https://unchainedpodcast.com/why-ethereums-merge-was-delayed-and-why-it-wont-reduce-gas-fees-much/",
           "publishedOn": "2022-04-15T14:30:03.000Z",
-          "wordCount": 330,
+          "wordCount": 505,
           "title": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN341.jpg"
         },
         {
           "id": "https://decrypt.co/97913/sec-proposal-redefine-exchange-unconstitutional-says-coin-center?utm_source=twitter&utm_medium=social&utm_campaign=auto",
@@ -86,16 +106,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*ZSiLNbmUFxq9rjOc"
         },
         {
-          "id": "https://blog.0x.org/measuring-the-impact-of-hidden-dex-costs/",
-          "author": null,
-          "description": "Measuring the impact of hidden DEX costs",
-          "link": "https://blog.0x.org/measuring-the-impact-of-hidden-dex-costs/",
-          "publishedOn": "2022-04-15T11:00:03.000Z",
-          "wordCount": 2712,
-          "title": "Measuring the impact of hidden DEX costs",
-          "imageUrl": "https://blog.0x.org/content/images/2022/04/hidden-costs.png"
-        },
-        {
           "id": "https://revoke.cash/",
           "author": null,
           "description": "Revoke.cash - Revoke your Ethereum token allowances",
@@ -106,22 +116,12 @@
           "imageUrl": "https://revoke.cash/revoke-card.png"
         },
         {
-          "id": "https://mirror.xyz/pangeadao.eth/aSJQmDWtysbWlOTcpo5xllxuaMYDTdRMpMRoY50-Y-w",
-          "author": null,
-          "description": "Pangea ($PNGA) Token Economics",
-          "link": "https://mirror.xyz/pangeadao.eth/aSJQmDWtysbWlOTcpo5xllxuaMYDTdRMpMRoY50-Y-w",
-          "publishedOn": "2022-04-15T03:00:03.000Z",
-          "wordCount": 2611,
-          "title": "Pangea ($PNGA) Token Economics",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/_yp4Ws1hMdv-j7OKZ4tKa.png?height=1000&width=2000"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
           "author": null,
           "description": "Ethereum Merge No Longer Expected in June",
           "link": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
           "publishedOn": "2022-04-15T01:30:03.000Z",
-          "wordCount": 1153,
+          "wordCount": 1171,
           "title": "Ethereum Merge No Longer Expected in June",
           "imageUrl": "https://www.coindesk.com/resizer/V8O_NtVI8UDtOITfu1kfllcrX44=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T6WQVHOL25BKVKLRSGTHE5PP7I.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Foundry",
           "link": "https://github.com/foundry-rs/",
           "publishedOn": "2022-04-15T01:00:08.000Z",
-          "wordCount": 495,
+          "wordCount": 491,
           "title": "Foundry",
           "imageUrl": "https://avatars.githubusercontent.com/u/99892494?s=280&v=4"
         },
@@ -151,7 +151,7 @@
           "description": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "link": "https://www.coindesk.com/business/2022/04/14/olympusdao-co-founder-doxxed-lawsuit-claims-to-unmask-apollo/",
           "publishedOn": "2022-04-14T21:00:03.000Z",
-          "wordCount": 1387,
+          "wordCount": 1403,
           "title": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "imageUrl": "https://www.coindesk.com/resizer/HI6oASQlpwlfuwIvHCiNQzyelbE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHKGAK5MXFCRXEZM5FHSUNU7EY.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
           "link": "https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/",
           "publishedOn": "2022-04-14T19:00:03.000Z",
-          "wordCount": 1103,
+          "wordCount": 1120,
           "title": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
           "imageUrl": "https://www.coindesk.com/resizer/jO6o_Ko5oY7JjG0-AKm9tsZeNYg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BIUJQNK5LNELZNBQV5WL6HLYAU.jpeg"
         },
