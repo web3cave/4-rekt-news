@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eth.build/",
+          "author": null,
+          "description": "ETH.Build - Educational Sandbox For Web3",
+          "link": "https://eth.build/",
+          "publishedOn": "2022-04-15T21:00:03.000Z",
+          "wordCount": 428,
+          "title": "ETH.Build - Educational Sandbox For Web3",
+          "imageUrl": "https://eth.build/title.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/twitter-board-adopts-poison-pill-thwart-musk-takeover-exposing-itself-titanic-legal",
           "author": null,
           "description": "Twitter Board Adopts \"Poison Pill\" To Thwart Musk Takeover, Exposing Itself To \"Titanic\" Legal Liability | ZeroHedge",
@@ -81,9 +91,9 @@
           "description": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
           "link": "https://unchainedpodcast.com/why-ethereums-merge-was-delayed-and-why-it-wont-reduce-gas-fees-much/",
           "publishedOn": "2022-04-15T14:30:03.000Z",
-          "wordCount": 505,
+          "wordCount": 302,
           "title": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN341.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://decrypt.co/97913/sec-proposal-redefine-exchange-unconstitutional-says-coin-center?utm_source=twitter&utm_medium=social&utm_campaign=auto",
@@ -121,7 +131,7 @@
           "description": "Ethereum Merge No Longer Expected in June",
           "link": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
           "publishedOn": "2022-04-15T01:30:03.000Z",
-          "wordCount": 1171,
+          "wordCount": 1209,
           "title": "Ethereum Merge No Longer Expected in June",
           "imageUrl": "https://www.coindesk.com/resizer/V8O_NtVI8UDtOITfu1kfllcrX44=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T6WQVHOL25BKVKLRSGTHE5PP7I.jpg"
         },
@@ -151,7 +161,7 @@
           "description": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "link": "https://www.coindesk.com/business/2022/04/14/olympusdao-co-founder-doxxed-lawsuit-claims-to-unmask-apollo/",
           "publishedOn": "2022-04-14T21:00:03.000Z",
-          "wordCount": 1403,
+          "wordCount": 1443,
           "title": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "imageUrl": "https://www.coindesk.com/resizer/HI6oASQlpwlfuwIvHCiNQzyelbE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHKGAK5MXFCRXEZM5FHSUNU7EY.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 786,
           "title": "SEC.gov | Job Opportunity in the Office of Commissioner Peirce",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/",
-          "author": null,
-          "description": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
-          "link": "https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/",
-          "publishedOn": "2022-04-14T19:00:03.000Z",
-          "wordCount": 1120,
-          "title": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
-          "imageUrl": "https://www.coindesk.com/resizer/jO6o_Ko5oY7JjG0-AKm9tsZeNYg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BIUJQNK5LNELZNBQV5WL6HLYAU.jpeg"
         },
         {
           "id": "https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w",
