@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.0x.org/measuring-the-impact-of-hidden-dex-costs/",
+          "author": null,
+          "description": "Measuring the impact of hidden DEX costs",
+          "link": "https://blog.0x.org/measuring-the-impact-of-hidden-dex-costs/",
+          "publishedOn": "2022-04-15T11:00:03.000Z",
+          "wordCount": 2712,
+          "title": "Measuring the impact of hidden DEX costs",
+          "imageUrl": "https://blog.0x.org/content/images/2022/04/hidden-costs.png"
+        },
+        {
+          "id": "https://revoke.cash/",
+          "author": null,
+          "description": "Revoke.cash - Revoke your Ethereum token allowances",
+          "link": "https://revoke.cash/",
+          "publishedOn": "2022-04-15T11:00:02.000Z",
+          "wordCount": 24,
+          "title": "Revoke.cash - Revoke your Ethereum token allowances",
+          "imageUrl": "https://revoke.cash/revoke-card.png"
+        },
+        {
           "id": "https://crypto.com/research/2021-crypto-market-sizing-report-2022-forecast",
           "author": null,
           "description": "2021 Crypto Market Sizing Report & 2022 Forecast",
@@ -14,16 +34,6 @@
           "wordCount": 357,
           "title": "2021 Crypto Market Sizing Report & 2022 Forecast",
           "imageUrl": "https://content-hub-static.crypto.com/static/f7b8bd751932a84d82f419f98ab7f93a/5a071/220120-Header-Banner.png"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/linked/141934/elon-musk-makes-cash-offer-to-buy-twitter?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Elon Musk makes $41.4 billion cash offer to buy Twitter",
-          "link": "https://www.theblockcrypto.com/linked/141934/elon-musk-makes-cash-offer-to-buy-twitter?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-04-15T09:30:03.000Z",
-          "wordCount": 839,
-          "title": "Elon Musk makes $41.4 billion cash offer to buy Twitter",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210721_Elon_Musk_Jack_Dorsey.jpg"
         },
         {
           "id": "https://uniswap.org/blog/widget",
@@ -61,7 +71,7 @@
           "description": "Ethereum Merge No Longer Expected in June",
           "link": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
           "publishedOn": "2022-04-15T01:30:03.000Z",
-          "wordCount": 1227,
+          "wordCount": 1225,
           "title": "Ethereum Merge No Longer Expected in June",
           "imageUrl": "https://www.coindesk.com/resizer/V8O_NtVI8UDtOITfu1kfllcrX44=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T6WQVHOL25BKVKLRSGTHE5PP7I.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Foundry",
           "link": "https://github.com/foundry-rs/",
           "publishedOn": "2022-04-15T01:00:08.000Z",
-          "wordCount": 491,
+          "wordCount": 495,
           "title": "Foundry",
           "imageUrl": "https://avatars.githubusercontent.com/u/99892494?s=280&v=4"
         },
@@ -151,7 +161,7 @@
           "description": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
           "link": "https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/",
           "publishedOn": "2022-04-14T19:00:03.000Z",
-          "wordCount": 1177,
+          "wordCount": 1176,
           "title": "US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit",
           "imageUrl": "https://www.coindesk.com/resizer/jO6o_Ko5oY7JjG0-AKm9tsZeNYg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BIUJQNK5LNELZNBQV5WL6HLYAU.jpeg"
         },
@@ -176,16 +186,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*ncrxjDbI1pwqbUryxYBqzg.png"
         },
         {
-          "id": "https://www.artblocks.io/project/283",
-          "author": null,
-          "description": "OnChainChain - Rizzle, Sebi, Miguelgarest | Art Blocks",
-          "link": "https://www.artblocks.io/project/283",
-          "publishedOn": "2022-04-14T15:00:03.000Z",
-          "wordCount": 1232,
-          "title": "OnChainChain - Rizzle, Sebi, Miguelgarest | Art Blocks",
-          "imageUrl": "https://artblocks-mainnet.s3.amazonaws.com/283000425.png"
-        },
-        {
           "id": "https://github.com/rainbow-me/rainbow-extension",
           "author": null,
           "description": "GitHub - rainbow-me/rainbow-extension: 🌈",
@@ -193,7 +193,7 @@
           "publishedOn": "2022-04-13T23:00:06.000Z",
           "wordCount": 320,
           "title": "GitHub - rainbow-me/rainbow-extension: 🌈",
-          "imageUrl": "https://opengraph.githubassets.com/ddaf2c399c342c4f7a4a0a331fa901207a9afc1b155de525b3631a48cdf55e38/rainbow-me/rainbow-extension"
+          "imageUrl": "https://opengraph.githubassets.com/e2454e46c8e2291bf63cf01ef4198df56c256f781cf29274d8552d741cded907/rainbow-me/rainbow-extension"
         },
         {
           "id": "https://www.paradigm.xyz/2022/04/zk-hardware",
