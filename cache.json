@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://uniswap.org/blog/widget",
+          "author": null,
+          "description": "Introducing The Swap Widget",
+          "link": "https://uniswap.org/blog/widget",
+          "publishedOn": "2022-04-15T06:00:06.000Z",
+          "wordCount": 380,
+          "title": "Introducing The Swap Widget",
+          "imageUrl": "https://uniswap.org/images/posts/widget/widget_promo.gif"
+        },
+        {
           "id": "https://optimism.mirror.xyz/",
           "author": null,
           "description": "Optimism",
@@ -41,7 +51,7 @@
           "description": "Ethereum Merge No Longer Expected in June",
           "link": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
           "publishedOn": "2022-04-15T01:30:03.000Z",
-          "wordCount": 1225,
+          "wordCount": 1227,
           "title": "Ethereum Merge No Longer Expected in June",
           "imageUrl": "https://www.coindesk.com/resizer/V8O_NtVI8UDtOITfu1kfllcrX44=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T6WQVHOL25BKVKLRSGTHE5PP7I.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "link": "https://www.coindesk.com/business/2022/04/14/olympusdao-co-founder-doxxed-lawsuit-claims-to-unmask-apollo/",
           "publishedOn": "2022-04-14T21:00:03.000Z",
-          "wordCount": 1459,
+          "wordCount": 1461,
           "title": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
           "imageUrl": "https://www.coindesk.com/resizer/HI6oASQlpwlfuwIvHCiNQzyelbE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHKGAK5MXFCRXEZM5FHSUNU7EY.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 71409,
           "title": "[PDF] Risley v. Universal Navigation Inc. et al. - 1:22-cv-02780",
           "imageUrl": null
-        },
-        {
-          "id": "https://web3isgoinggreat.com/?id=2022-04-13-2",
-          "author": null,
-          "description": "NFT collector gets $280 top bid for the Jack Dorsey tweet NFT he bought for $2.9 million last year",
-          "link": "https://web3isgoinggreat.com/?id=2022-04-13-2",
-          "publishedOn": "2022-04-13T23:00:06.000Z",
-          "wordCount": 1944,
-          "title": "NFT collector gets $280 top bid for the Jack Dorsey tweet NFT he bought for $2.9 million last year",
-          "imageUrl": "https://storage.googleapis.com/primary-web3/entryImages/resized/firsttweet_500.webp"
         },
         {
           "id": "https://github.com/rainbow-me/rainbow-extension",
