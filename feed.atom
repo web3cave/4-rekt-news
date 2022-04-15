@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T06:26:52.545Z</id>
+    <id>urn:2022-04-15T07:20:38.462Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-15T06:26:52.545Z</updated>
+    <updated>2022-04-15T07:20:38.462Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,16 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VCs are in hot pursuit of fintech and crypto startups, spending $30 billion — $1 out of every $5 of investment — in...]]></title>
-        <id>https://www.businessinsider.com/vcs-invested-288-billion-fintech-crypto-startups-first-quarter-2022-4</id>
-        <link href="https://www.businessinsider.com/vcs-invested-288-billion-fintech-crypto-startups-first-quarter-2022-4"/>
-        <updated>2022-04-15T00:00:02.000Z</updated>
-        <summary type="html"><![CDATA[VCs are in hot pursuit of fintech and crypto startups, spending $30 billion — $1 out of every $5 of investment — in...]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ShapeShift DAO]]></title>
         <id>https://app.shapeshift.com/</id>
         <link href="https://app.shapeshift.com/"/>
@@ -151,6 +141,16 @@
         <link href="https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/"/>
         <updated>2022-04-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[US Officials Tie North Korean Hacker Group to Axie’s Ronin Exploit]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></title>
+        <id>https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w</id>
+        <link href="https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w"/>
+        <updated>2022-04-14T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
