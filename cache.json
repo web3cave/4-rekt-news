@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi",
+          "author": null,
+          "description": "ETH.BUILD - YouTube",
+          "link": "https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi",
+          "publishedOn": "2022-04-16T08:30:02.000Z",
+          "wordCount": 13,
+          "title": "ETH.BUILD - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/30pa790tIIA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDaXVJNN5qIMgkBlkvb_9trOYtMWA&days_since_epoch=19098"
+        },
+        {
+          "id": "https://www.dbnewswire.com/",
+          "author": null,
+          "description": "DB Newswire",
+          "link": "https://www.dbnewswire.com/",
+          "publishedOn": "2022-04-16T05:30:03.000Z",
+          "wordCount": 228,
+          "title": "DB Newswire",
+          "imageUrl": null
+        },
+        {
           "id": "https://electriccoin.co/blog/new-release-4-7-0/",
           "author": null,
           "description": "New Release 4.7.0 - Electric Coin Company",
@@ -16,22 +36,12 @@
           "imageUrl": "https://electriccoin.co/wp-content/uploads/2022/04/New-Release-470.png"
         },
         {
-          "id": "https://www.kaspersky.com/about/press-releases/2022_snatch-that-crypto-bluenoroff-threat-actor-drains-cryptocurrency-startups-accounts",
-          "author": null,
-          "description": "Snatch that crypto: BlueNoroff threat actor drains cryptocurrency startups’ accounts",
-          "link": "https://www.kaspersky.com/about/press-releases/2022_snatch-that-crypto-bluenoroff-threat-actor-drains-cryptocurrency-startups-accounts",
-          "publishedOn": "2022-04-16T02:30:03.000Z",
-          "wordCount": 1801,
-          "title": "Snatch that crypto: BlueNoroff threat actor drains cryptocurrency startups’ accounts",
-          "imageUrl": "https://media.kaspersky.com/en/kaspersky.png"
-        },
-        {
           "id": "https://www.prnewswire.com/news-releases/twitter-adopts-limited-duration-shareholder-rights-plan-enabling-all-shareholders-to-realize-full-value-of-company-301526627.html",
           "author": null,
           "description": "Twitter Adopts Limited Duration Shareholder Rights Plan, Enabling All Shareholders to Realize Full Value of Company",
           "link": "https://www.prnewswire.com/news-releases/twitter-adopts-limited-duration-shareholder-rights-plan-enabling-all-shareholders-to-realize-full-value-of-company-301526627.html",
           "publishedOn": "2022-04-16T02:00:04.000Z",
-          "wordCount": 1613,
+          "wordCount": 1578,
           "title": "Twitter Adopts Limited Duration Shareholder Rights Plan, Enabling All Shareholders to Realize Full Value of Company",
           "imageUrl": null
         },
@@ -54,6 +64,16 @@
           "wordCount": 443,
           "title": "Moonbirds: The official PROOF PFP",
           "imageUrl": "https://moonbirds.xyz/moonbirds-openGraph.png"
+        },
+        {
+          "id": "https://tornado.cash/",
+          "author": null,
+          "description": "Tornado.Cash",
+          "link": "https://tornado.cash/",
+          "publishedOn": "2022-04-15T23:30:05.000Z",
+          "wordCount": 3,
+          "title": "Tornado.Cash",
+          "imageUrl": "https://tornado.cash/tw.png"
         },
         {
           "id": "https://www.ftxpolicy.com/ftx-guaranty-fund",
@@ -176,16 +196,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*ZSiLNbmUFxq9rjOc"
         },
         {
-          "id": "https://revoke.cash/",
-          "author": null,
-          "description": "Revoke.cash - Revoke your Ethereum token allowances",
-          "link": "https://revoke.cash/",
-          "publishedOn": "2022-04-15T11:00:02.000Z",
-          "wordCount": 24,
-          "title": "Revoke.cash - Revoke your Ethereum token allowances",
-          "imageUrl": "https://revoke.cash/revoke-card.png"
-        },
-        {
           "id": "https://80000hours.org/podcast/episodes/sam-bankman-fried-high-risk-approach-to-crypto-and-doing-good/",
           "author": null,
           "description": "Sam Bankman-Fried on taking a high-risk approach to crypto and doing good",
@@ -194,16 +204,6 @@
           "wordCount": 47652,
           "title": "Sam Bankman-Fried on taking a high-risk approach to crypto and doing good",
           "imageUrl": "https://80000hours.org/wp-content/uploads/2022/04/larry2.jpeg"
-        },
-        {
-          "id": "https://blog.lido.fi/the-next-chapter-for-lido/",
-          "author": null,
-          "description": "The Next Chapter for Lido | Lido Finance",
-          "link": "https://blog.lido.fi/the-next-chapter-for-lido/",
-          "publishedOn": "2022-04-14T21:00:02.000Z",
-          "wordCount": 1979,
-          "title": "The Next Chapter for Lido | Lido Finance",
-          "imageUrl": "https://blog.lido.fi/content/images/2022/04/1200x675--47-.png"
         }
       ]
     }

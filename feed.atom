@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T08:25:08.895Z</id>
+    <id>urn:2022-04-16T09:19:45.337Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T08:25:08.895Z</updated>
+    <updated>2022-04-16T09:19:45.337Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH.BUILD - YouTube]]></title>
+        <id>https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi</id>
+        <link href="https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi"/>
+        <updated>2022-04-16T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[ETH.BUILD - YouTube]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DB Newswire]]></title>
+        <id>https://www.dbnewswire.com/</id>
+        <link href="https://www.dbnewswire.com/"/>
+        <updated>2022-04-16T05:30:03.000Z</updated>
+        <summary type="html"><![CDATA[DB Newswire]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Release 4.7.0 - Electric Coin Company]]></title>
         <id>https://electriccoin.co/blog/new-release-4-7-0/</id>
         <link href="https://electriccoin.co/blog/new-release-4-7-0/"/>
         <updated>2022-04-16T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[New Release 4.7.0 - Electric Coin Company]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snatch that crypto: BlueNoroff threat actor drains cryptocurrency startups’ accounts]]></title>
-        <id>https://www.kaspersky.com/about/press-releases/2022_snatch-that-crypto-bluenoroff-threat-actor-drains-cryptocurrency-startups-accounts</id>
-        <link href="https://www.kaspersky.com/about/press-releases/2022_snatch-that-crypto-bluenoroff-threat-actor-drains-cryptocurrency-startups-accounts"/>
-        <updated>2022-04-16T02:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Snatch that crypto: BlueNoroff threat actor drains cryptocurrency startups’ accounts]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -51,6 +61,16 @@
         <link href="https://moonbirds.xyz/"/>
         <updated>2022-04-16T01:00:05.000Z</updated>
         <summary type="html"><![CDATA[Moonbirds: The official PROOF PFP]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tornado.Cash]]></title>
+        <id>https://tornado.cash/</id>
+        <link href="https://tornado.cash/"/>
+        <updated>2022-04-15T23:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Tornado.Cash]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -176,31 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></title>
-        <id>https://revoke.cash/</id>
-        <link href="https://revoke.cash/"/>
-        <updated>2022-04-15T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sam Bankman-Fried on taking a high-risk approach to crypto and doing good]]></title>
         <id>https://80000hours.org/podcast/episodes/sam-bankman-fried-high-risk-approach-to-crypto-and-doing-good/</id>
         <link href="https://80000hours.org/podcast/episodes/sam-bankman-fried-high-risk-approach-to-crypto-and-doing-good/"/>
         <updated>2022-04-15T01:30:03.000Z</updated>
         <summary type="html"><![CDATA[Sam Bankman-Fried on taking a high-risk approach to crypto and doing good]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Chapter for Lido | Lido Finance]]></title>
-        <id>https://blog.lido.fi/the-next-chapter-for-lido/</id>
-        <link href="https://blog.lido.fi/the-next-chapter-for-lido/"/>
-        <updated>2022-04-14T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Next Chapter for Lido | Lido Finance]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
