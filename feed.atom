@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T04:27:23.896Z</id>
+    <id>urn:2022-04-16T05:18:47.608Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T04:27:23.896Z</updated>
+    <updated>2022-04-16T05:18:47.608Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Release 4.7.0 - Electric Coin Company]]></title>
+        <id>https://electriccoin.co/blog/new-release-4-7-0/</id>
+        <link href="https://electriccoin.co/blog/new-release-4-7-0/"/>
+        <updated>2022-04-16T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[New Release 4.7.0 - Electric Coin Company]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snatch that crypto: BlueNoroff threat actor drains cryptocurrency startups’ accounts]]></title>
         <id>https://www.kaspersky.com/about/press-releases/2022_snatch-that-crypto-bluenoroff-threat-actor-drains-cryptocurrency-startups-accounts</id>
@@ -191,16 +201,6 @@
         <link href="https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w"/>
         <updated>2022-04-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Community Alert: Ronin Validators Compromised]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware Acceleration for Zero Knowledge Proofs - Paradigm]]></title>
-        <id>https://www.paradigm.xyz/2022/04/zk-hardware</id>
-        <link href="https://www.paradigm.xyz/2022/04/zk-hardware"/>
-        <updated>2022-04-13T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Hardware Acceleration for Zero Knowledge Proofs - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
