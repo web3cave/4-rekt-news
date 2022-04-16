@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://moonbirds.xyz/",
+          "author": null,
+          "description": "Moonbirds: The official PROOF PFP",
+          "link": "https://moonbirds.xyz/",
+          "publishedOn": "2022-04-16T01:00:05.000Z",
+          "wordCount": 443,
+          "title": "Moonbirds: The official PROOF PFP",
+          "imageUrl": "https://moonbirds.xyz/moonbirds-openGraph.png"
+        },
+        {
+          "id": "https://tornado.cash/",
+          "author": null,
+          "description": "Tornado.Cash",
+          "link": "https://tornado.cash/",
+          "publishedOn": "2022-04-15T23:30:05.000Z",
+          "wordCount": 3,
+          "title": "Tornado.Cash",
+          "imageUrl": "https://tornado.cash/tw.png"
+        },
+        {
           "id": "https://www.ftxpolicy.com/ftx-guaranty-fund",
           "author": null,
           "description": "www.ftxpolicy.com - made with Softr",
@@ -13,6 +33,16 @@
           "publishedOn": "2022-04-15T22:00:05.000Z",
           "wordCount": 2142,
           "title": "www.ftxpolicy.com - made with Softr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JXbOeiPN_uE",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting #136 [2022-4-15]",
+          "link": "https://www.youtube.com/watch?v=JXbOeiPN_uE",
+          "publishedOn": "2022-04-15T22:00:05.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #136 [2022-4-15]",
           "imageUrl": null
         },
         {
@@ -31,7 +61,7 @@
           "description": "Twitter Board Adopts \"Poison Pill\" To Thwart Musk Takeover, Exposing Itself To \"Titanic\" Legal Liability | ZeroHedge",
           "link": "https://www.zerohedge.com/markets/twitter-board-adopts-poison-pill-thwart-musk-takeover-exposing-itself-titanic-legal",
           "publishedOn": "2022-04-15T20:00:06.000Z",
-          "wordCount": 1425,
+          "wordCount": 1806,
           "title": "Twitter Board Adopts \"Poison Pill\" To Thwart Musk Takeover, Exposing Itself To \"Titanic\" Legal Liability | ZeroHedge",
           "imageUrl": null
         },
@@ -101,9 +131,9 @@
           "description": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
           "link": "https://unchainedpodcast.com/why-ethereums-merge-was-delayed-and-why-it-wont-reduce-gas-fees-much/",
           "publishedOn": "2022-04-15T14:30:03.000Z",
-          "wordCount": 505,
+          "wordCount": 308,
           "title": "Why Ethereum's Merge Was Delayed and Why It Won't Reduce Gas Fees Much - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN341.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://decrypt.co/97913/sec-proposal-redefine-exchange-unconstitutional-says-coin-center?utm_source=twitter&utm_medium=social&utm_campaign=auto",
@@ -136,16 +166,6 @@
           "imageUrl": "https://revoke.cash/revoke-card.png"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
-          "author": null,
-          "description": "Ethereum Merge No Longer Expected in June",
-          "link": "https://www.coindesk.com/business/2022/04/13/ethereum-merge-no-longer-expected-in-june/",
-          "publishedOn": "2022-04-15T01:30:03.000Z",
-          "wordCount": 1212,
-          "title": "Ethereum Merge No Longer Expected in June",
-          "imageUrl": "https://www.coindesk.com/resizer/V8O_NtVI8UDtOITfu1kfllcrX44=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T6WQVHOL25BKVKLRSGTHE5PP7I.jpg"
-        },
-        {
           "id": "https://80000hours.org/podcast/episodes/sam-bankman-fried-high-risk-approach-to-crypto-and-doing-good/",
           "author": null,
           "description": "Sam Bankman-Fried on taking a high-risk approach to crypto and doing good",
@@ -156,16 +176,6 @@
           "imageUrl": "https://80000hours.org/wp-content/uploads/2022/04/larry2.jpeg"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/04/14/olympusdao-co-founder-doxxed-lawsuit-claims-to-unmask-apollo/",
-          "author": null,
-          "description": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
-          "link": "https://www.coindesk.com/business/2022/04/14/olympusdao-co-founder-doxxed-lawsuit-claims-to-unmask-apollo/",
-          "publishedOn": "2022-04-14T21:00:03.000Z",
-          "wordCount": 1444,
-          "title": "OlympusDAO Co-Founder Doxxed? Lawsuit Claims to Unmask 'Apollo'",
-          "imageUrl": "https://www.coindesk.com/resizer/HI6oASQlpwlfuwIvHCiNQzyelbE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHKGAK5MXFCRXEZM5FHSUNU7EY.jpg"
-        },
-        {
           "id": "https://blog.lido.fi/the-next-chapter-for-lido/",
           "author": null,
           "description": "The Next Chapter for Lido | Lido Finance",
@@ -174,16 +184,6 @@
           "wordCount": 1979,
           "title": "The Next Chapter for Lido | Lido Finance",
           "imageUrl": "https://blog.lido.fi/content/images/2022/04/1200x675--47-.png"
-        },
-        {
-          "id": "https://www.sec.gov/ohr/job-opportunity-office-commissioner-peirce",
-          "author": null,
-          "description": "SEC.gov | Job Opportunity in the Office of Commissioner Peirce",
-          "link": "https://www.sec.gov/ohr/job-opportunity-office-commissioner-peirce",
-          "publishedOn": "2022-04-14T20:00:05.000Z",
-          "wordCount": 786,
-          "title": "SEC.gov | Job Opportunity in the Office of Commissioner Peirce",
-          "imageUrl": null
         },
         {
           "id": "https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=w",
