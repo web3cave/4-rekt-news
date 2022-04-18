@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html",
+          "author": null,
+          "description": "Vampire Attack Twitter",
+          "link": "https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html",
+          "publishedOn": "2022-04-18T00:00:02.000Z",
+          "wordCount": 486,
+          "title": "Vampire Attack Twitter",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/technology/portable-nuclear-device-missing-eastern-pennsylvania",
           "author": null,
           "description": "Portable Nuclear Device Missing In Eastern Pennsylvania | ZeroHedge",
@@ -86,16 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "http://paulgraham.com/heresy.html",
-          "author": null,
-          "description": "Heresy",
-          "link": "http://paulgraham.com/heresy.html",
-          "publishedOn": "2022-04-17T23:00:04.000Z",
-          "wordCount": 2080,
-          "title": "Heresy",
-          "imageUrl": null
-        },
-        {
           "id": "https://wallet.near.org/",
           "author": null,
           "description": "NEAR Wallet",
@@ -111,7 +111,7 @@
           "description": "GitHub - TimNooren/pytest-cairo: Write tests in cairo-lang",
           "link": "https://github.com/TimNooren/pytest-cairo",
           "publishedOn": "2022-04-17T22:30:05.000Z",
-          "wordCount": 1082,
+          "wordCount": 1101,
           "title": "GitHub - TimNooren/pytest-cairo: Write tests in cairo-lang",
           "imageUrl": "https://opengraph.githubassets.com/1b94865a9ca97e18b225c2dd93402984f6884e0194ea22411b37284c6d02c107/TimNooren/pytest-cairo"
         },
@@ -176,12 +176,22 @@
           "imageUrl": "https://blog.openzeppelin.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-12-at-1.59.33-PM.png"
         },
         {
+          "id": "https://github.com/tevrat-aksoy/saddle-cairo",
+          "author": null,
+          "description": "GitHub - tevrat-aksoy/saddle-cairo: Saddle finance contracts cairo implemention",
+          "link": "https://github.com/tevrat-aksoy/saddle-cairo",
+          "publishedOn": "2022-04-17T15:00:03.000Z",
+          "wordCount": 390,
+          "title": "GitHub - tevrat-aksoy/saddle-cairo: Saddle finance contracts cairo implemention",
+          "imageUrl": "https://opengraph.githubassets.com/5cd03b6dd9b888a0ba05932734756c5036d61c161f36023f8324367a943a7487/tevrat-aksoy/saddle-cairo"
+        },
+        {
           "id": "https://newatlas.com/space/greenlaunch-space-cannon-gas-launch/",
           "author": null,
           "description": "Hypersonic space cannon promises 10 minutes from ground to orbit",
           "link": "https://newatlas.com/space/greenlaunch-space-cannon-gas-launch/",
           "publishedOn": "2022-04-17T13:30:03.000Z",
-          "wordCount": 1507,
+          "wordCount": 1505,
           "title": "Hypersonic space cannon promises 10 minutes from ground to orbit",
           "imageUrl": "https://assets.newatlas.com/dims4/default/b96957e/2147483647/strip/true/crop/2160x1134+0+153/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2e%2F2a%2F354f2d704fa6a7efeadd8b4e0c0a%2Fscreen-shot-2022-04-13-at-1.30.15%20pm%20%282%29.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": null,
           "title": "Genesis Museum  (@mintfaced tour)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cryptobahamas.com/",
-          "author": null,
-          "description": "Crypto Bahamas",
-          "link": "https://www.cryptobahamas.com/",
-          "publishedOn": "2022-04-15T17:30:04.000Z",
-          "wordCount": 185,
-          "title": "Crypto Bahamas",
-          "imageUrl": "https://assets.website-files.com/62065fa3cb640539da703f3f/620bdb8ef1135142dbb749fb_crypto-bahamas-open-graph.jpg"
         }
       ]
     }
