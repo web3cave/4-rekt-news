@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum.foundation/report-2022-04.pdf",
+          "author": null,
+          "description": "[PDF] report-2022-04.pdf",
+          "link": "https://ethereum.foundation/report-2022-04.pdf",
+          "publishedOn": "2022-04-18T09:30:03.000Z",
+          "wordCount": 238942,
+          "title": "[PDF] report-2022-04.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://cowboystatedaily.com/2022/04/17/she-has-risen-grizzly-399-and-four-cubs-have-been-spotted/",
           "author": null,
           "description": "“She Has Risen!” — Grizzly 399 And Four Cubs Have Awakened | Cowboy State Daily",
@@ -24,16 +34,6 @@
           "wordCount": 17658,
           "title": "GitHub - sigp/solidity-security-blog: Comprehensive list of known attack vectors and common anti-patterns",
           "imageUrl": "https://opengraph.githubassets.com/27169b59ee6c104fa026dad663f49f3f6a614c03b38f6198d7080f85411b347b/sigp/solidity-security-blog"
-        },
-        {
-          "id": "https://github.com/trailofbits/publications",
-          "author": null,
-          "description": "GitHub - trailofbits/publications: Publications from Trail of Bits",
-          "link": "https://github.com/trailofbits/publications",
-          "publishedOn": "2022-04-18T06:00:03.000Z",
-          "wordCount": 3798,
-          "title": "GitHub - trailofbits/publications: Publications from Trail of Bits",
-          "imageUrl": "https://opengraph.githubassets.com/d0c43a0e9b4bd5ed5c4e8c9e718a39ff945e5b3b9d0e2162a757ad429570fb96/trailofbits/publications"
         },
         {
           "id": "https://pluralistic.net/2022/03/18/greshams-carbon-law/#papal-indulgences",
@@ -181,7 +181,7 @@
           "description": "MakerDAO issues warning after a flash loan is used to pass a governance vote",
           "link": "https://www.theblockcrypto.com/post/82721/makerdao-issues-warning-after-a-flash-loan-is-used-to-pass-a-governance-vote",
           "publishedOn": "2022-04-17T18:00:02.000Z",
-          "wordCount": 1069,
+          "wordCount": 1064,
           "title": "MakerDAO issues warning after a flash loan is used to pass a governance vote",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/maker-logo.jpg"
         },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T09:21:14.078Z</id>
+    <id>urn:2022-04-18T10:24:54.467Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-18T09:21:14.078Z</updated>
+    <updated>2022-04-18T10:24:54.467Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] report-2022-04.pdf]]></title>
+        <id>https://ethereum.foundation/report-2022-04.pdf</id>
+        <link href="https://ethereum.foundation/report-2022-04.pdf"/>
+        <updated>2022-04-18T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] report-2022-04.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“She Has Risen!” — Grizzly 399 And Four Cubs Have Awakened | Cowboy State Daily]]></title>
         <id>https://cowboystatedaily.com/2022/04/17/she-has-risen-grizzly-399-and-four-cubs-have-been-spotted/</id>
@@ -21,16 +31,6 @@
         <link href="https://github.com/sigp/solidity-security-blog"/>
         <updated>2022-04-18T06:00:03.000Z</updated>
         <summary type="html"><![CDATA[GitHub - sigp/solidity-security-blog: Comprehensive list of known attack vectors and common anti-patterns]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - trailofbits/publications: Publications from Trail of Bits]]></title>
-        <id>https://github.com/trailofbits/publications</id>
-        <link href="https://github.com/trailofbits/publications"/>
-        <updated>2022-04-18T06:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - trailofbits/publications: Publications from Trail of Bits]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
