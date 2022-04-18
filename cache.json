@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QeWBS0JBNzQ",
+          "author": null,
+          "description": "Lady Gaga - The Edge Of Glory (Official Music Video)",
+          "link": "https://www.youtube.com/watch?v=QeWBS0JBNzQ",
+          "publishedOn": "2022-04-18T23:00:04.000Z",
+          "wordCount": null,
+          "title": "Lady Gaga - The Edge Of Glory (Official Music Video)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry/pull/1339",
+          "author": null,
+          "description": "feat(cheatcode): chainId() - modify block.chainid by aureliusbtc · Pull Request #1339 · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/pull/1339",
+          "publishedOn": "2022-04-18T23:00:03.000Z",
+          "wordCount": 903,
+          "title": "feat(cheatcode): chainId() - modify block.chainid by aureliusbtc · Pull Request #1339 · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/fa6f98d81cef4c6c0291bb496d2296c20d3a4a4f710381f7067b6fa188612b53/foundry-rs/foundry/pull/1339"
+        },
+        {
           "id": "https://www.hardtowrite.com/pathogens/",
           "author": null,
           "description": "Endemic Pathogens Are Making You Crazy And Then Killing You: Toxoplasmosis Spotlight",
@@ -24,26 +44,6 @@
           "wordCount": 1013,
           "title": "Introducing Fuel - The Fastest Modular Execution Layer",
           "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/04/Fuel_Trailer_Still_10.jpeg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LFG7cmWfLJY&ab_channel=MeansofCreation",
-          "author": null,
-          "description": "DAOs Explained ft. Tracheopteryx",
-          "link": "https://www.youtube.com/watch?v=LFG7cmWfLJY&ab_channel=MeansofCreation",
-          "publishedOn": "2022-04-18T21:00:04.000Z",
-          "wordCount": null,
-          "title": "DAOs Explained ft. Tracheopteryx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/rivian-ceo-warns-coming-ev-battery-supply-shortage",
-          "author": null,
-          "description": "Rivian CEO Warns Of Coming EV Battery Supply Shortage | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/rivian-ceo-warns-coming-ev-battery-supply-shortage",
-          "publishedOn": "2022-04-18T21:00:04.000Z",
-          "wordCount": 566,
-          "title": "Rivian CEO Warns Of Coming EV Battery Supply Shortage | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=m4vYEn_Twog",
@@ -116,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.law360.com/fintech/articles/1484702/del-judge-awards-25m-in-novel-crypto-pay-damage-suit?nl_pk=40477ddb-86d6-4efb-a3c6-2ef9dad27323&utm_source=newsletter&utm_medium=email&utm_campaign=fintech&utm_content=2022-04-18",
-          "author": null,
-          "description": "Del. Judge Awards $25M In Novel Crypto-Pay Damage Suit - Law360",
-          "link": "https://www.law360.com/fintech/articles/1484702/del-judge-awards-25m-in-novel-crypto-pay-damage-suit?nl_pk=40477ddb-86d6-4efb-a3c6-2ef9dad27323&utm_source=newsletter&utm_medium=email&utm_campaign=fintech&utm_content=2022-04-18",
-          "publishedOn": "2022-04-18T17:00:02.000Z",
-          "wordCount": 1179,
-          "title": "Del. Judge Awards $25M In Novel Crypto-Pay Damage Suit - Law360",
-          "imageUrl": "https://www.law360.com/images/law360-stacked.png"
-        },
-        {
           "id": "https://anchor.fm/digitallyrare/episodes/pr1s0n-art--Restoring-Justice-And-The-Dignity-of-Returning-Citizens-e1ha9s1",
           "author": null,
           "description": "pr1s0n.art — Restoring Justice And The Dignity of Returning Citizens by Digitally Rare",
@@ -136,12 +126,22 @@
           "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1909369/fab10bcacdd3458e.jpeg"
         },
         {
+          "id": "https://www.law360.com/fintech/articles/1484702/del-judge-awards-25m-in-novel-crypto-pay-damage-suit?nl_pk=40477ddb-86d6-4efb-a3c6-2ef9dad27323&utm_source=newsletter&utm_medium=email&utm_campaign=fintech&utm_content=2022-04-18",
+          "author": null,
+          "description": "Del. Judge Awards $25M In Novel Crypto-Pay Damage Suit - Law360",
+          "link": "https://www.law360.com/fintech/articles/1484702/del-judge-awards-25m-in-novel-crypto-pay-damage-suit?nl_pk=40477ddb-86d6-4efb-a3c6-2ef9dad27323&utm_source=newsletter&utm_medium=email&utm_campaign=fintech&utm_content=2022-04-18",
+          "publishedOn": "2022-04-18T17:00:02.000Z",
+          "wordCount": 1179,
+          "title": "Del. Judge Awards $25M In Novel Crypto-Pay Damage Suit - Law360",
+          "imageUrl": "https://www.law360.com/images/law360-stacked.png"
+        },
+        {
           "id": "https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=latest_headlines",
           "author": null,
           "description": "Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.",
           "link": "https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=latest_headlines",
           "publishedOn": "2022-04-18T16:00:05.000Z",
-          "wordCount": 1012,
+          "wordCount": 1013,
           "title": "Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.",
           "imageUrl": "https://images.wsj.net/im-525836/social"
         },
