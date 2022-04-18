@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.hardtowrite.com/pathogens/",
+          "author": null,
+          "description": "Endemic Pathogens Are Making You Crazy And Then Killing You: Toxoplasmosis Spotlight",
+          "link": "https://www.hardtowrite.com/pathogens/",
+          "publishedOn": "2022-04-18T22:15:03.000Z",
+          "wordCount": 5834,
+          "title": "Endemic Pathogens Are Making You Crazy And Then Killing You: Toxoplasmosis Spotlight",
+          "imageUrl": "https://www.hardtowrite.com/content/images/2022/04/maxresdefault-3.jpg"
+        },
+        {
+          "id": "https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/",
+          "author": null,
+          "description": "Introducing Fuel - The Fastest Modular Execution Layer",
+          "link": "https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/",
+          "publishedOn": "2022-04-18T21:30:05.000Z",
+          "wordCount": 1013,
+          "title": "Introducing Fuel - The Fastest Modular Execution Layer",
+          "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/04/Fuel_Trailer_Still_10.jpeg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LFG7cmWfLJY&ab_channel=MeansofCreation",
           "author": null,
           "description": "DAOs Explained ft. Tracheopteryx",
@@ -13,26 +33,6 @@
           "publishedOn": "2022-04-18T21:00:04.000Z",
           "wordCount": null,
           "title": "DAOs Explained ft. Tracheopteryx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kvWM2obNMyI&list=TLGGIdUIQL3ras4xODA0MjAyMg",
-          "author": null,
-          "description": "DopeWars: ETH Denver Documentary",
-          "link": "https://www.youtube.com/watch?v=kvWM2obNMyI&list=TLGGIdUIQL3ras4xODA0MjAyMg",
-          "publishedOn": "2022-04-18T21:00:04.000Z",
-          "wordCount": null,
-          "title": "DopeWars: ETH Denver Documentary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LamcvtN3ovs&ab_channel=MackenzieDavenport",
-          "author": null,
-          "description": "Loot: The Universe in a JPEG",
-          "link": "https://www.youtube.com/watch?v=LamcvtN3ovs&ab_channel=MackenzieDavenport",
-          "publishedOn": "2022-04-18T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Loot: The Universe in a JPEG",
           "imageUrl": null
         },
         {
@@ -141,7 +141,7 @@
           "description": "Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.",
           "link": "https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=latest_headlines",
           "publishedOn": "2022-04-18T16:00:05.000Z",
-          "wordCount": 1015,
+          "wordCount": 1012,
           "title": "Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.",
           "imageUrl": "https://images.wsj.net/im-525836/social"
         },
