@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rekt.news/big-phish/",
+          "author": null,
+          "description": "Rekt - Big Phish",
+          "link": "https://rekt.news/big-phish/",
+          "publishedOn": "2022-04-19T14:00:03.000Z",
+          "wordCount": 1466,
+          "title": "Rekt - Big Phish",
+          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/04/bigphish-header.png"
+        },
+        {
           "id": "https://andrecronje.medium.com/crypto-regulation-vs-regulated-crypto-aae56b36dcd8",
           "author": null,
           "description": "Crypto Regulation vs Regulated Crypto",
@@ -66,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://newsletter.banklesshq.com/p/decade-wealth-lite?s=w",
-          "author": null,
-          "description": "Decade Wealth [LITE]",
-          "link": "https://newsletter.banklesshq.com/p/decade-wealth-lite?s=w",
-          "publishedOn": "2022-04-19T01:30:05.000Z",
-          "wordCount": 2013,
-          "title": "Decade Wealth [LITE]",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd12b8914-f142-4cb2-949f-87d97aaca5fa_1454x988.png"
-        },
-        {
           "id": "https://theblockchainassociation.org/wp-content/uploads/2022/04/Blockchain-Association-Comment-Letter-on-S7-02-22-2022-04-18.pdf",
           "author": null,
           "description": "[PDF] Blockchain-Association-Comment-Letter-on-S7-02-22-2022-04-18.pdf",
@@ -91,7 +91,7 @@
           "description": "subgraphs/subgraphs/_reference_/src/Prices at master · messari/subgraphs",
           "link": "https://github.com/messari/subgraphs/tree/master/subgraphs/_reference_/src/Prices",
           "publishedOn": "2022-04-19T00:00:03.000Z",
-          "wordCount": 690,
+          "wordCount": 598,
           "title": "subgraphs/subgraphs/_reference_/src/Prices at master · messari/subgraphs",
           "imageUrl": "https://opengraph.githubassets.com/445aea57753a3af30741c4ba5f22ff3879cc08e5fd1b3a11ae30cc665b5ae0c4/messari/subgraphs"
         },
