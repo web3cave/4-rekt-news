@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://leighcuen.substack.com/p/how-to-create-a-bitcoin-dao",
+          "author": null,
+          "description": "How to create a Bitcoin DAO",
+          "link": "https://leighcuen.substack.com/p/how-to-create-a-bitcoin-dao",
+          "publishedOn": "2022-04-20T07:30:02.000Z",
+          "wordCount": 1980,
+          "title": "How to create a Bitcoin DAO",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F481f27a7-fbeb-48a0-bff3-a6264e22d682_956x1090.png"
+        },
+        {
           "id": "https://medium.com/avalancheavax/yeti-finance-launches-on-avalanche-expanding-borrowing-strategies-and-liquidity-d6c84d1f2128",
           "author": null,
           "description": "Yeti Finance Launches on Avalanche, Expanding Borrowing Strategies and Liquidity",
@@ -24,16 +34,6 @@
           "wordCount": 1484,
           "title": "Messari, a pillar of the crypto ecosystem, invests treasury funds in Circle Yield",
           "imageUrl": "https://www.circle.com/hubfs/Customer%20Stories/share-customer-messari.png#keepProtocol"
-        },
-        {
-          "id": "https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html",
-          "author": null,
-          "description": "Netflix shares crater 23% after company reports it lost subscribers for the first time in more than 10 years",
-          "link": "https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html",
-          "publishedOn": "2022-04-20T04:30:03.000Z",
-          "wordCount": 916,
-          "title": "Netflix shares crater 23% after company reports it lost subscribers for the first time in more than 10 years",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107004478-1642768833691-gettyimages-1235967809-AFP_9PX6RG.jpg?v=1650399380&w=1920&h=1080"
         },
         {
           "id": "https://www.cryptobeaver.io/",
@@ -201,7 +201,7 @@
           "description": "Layer Two Amsterdam",
           "link": "https://amsterdam.l2beat.com/",
           "publishedOn": "2022-04-19T10:00:07.000Z",
-          "wordCount": 2349,
+          "wordCount": 2352,
           "title": "Layer Two Amsterdam",
           "imageUrl": "https://amsterdam.l2beat.com/images/meta.png"
         }
