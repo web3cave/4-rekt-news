@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-20T09:21:57.925Z</id>
+    <id>urn:2022-04-20T10:24:27.560Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-20T09:21:57.925Z</updated>
+    <updated>2022-04-20T10:24:27.560Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,21 +36,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix shares crater 23% after company reports it lost subscribers for the first time in more than 10 years]]></title>
-        <id>https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html</id>
-        <link href="https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html"/>
-        <updated>2022-04-20T04:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Netflix shares crater 23% after company reports it lost subscribers for the first time in more than 10 years]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The CryptoBeaver Goes to Washington]]></title>
         <id>https://www.cryptobeaver.io/</id>
         <link href="https://www.cryptobeaver.io/"/>
         <updated>2022-04-20T04:00:03.000Z</updated>
         <summary type="html"><![CDATA[The CryptoBeaver Goes to Washington]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-21449: Psychic Signatures in Java]]></title>
+        <id>https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/</id>
+        <link href="https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/"/>
+        <updated>2022-04-20T02:00:03.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-21449: Psychic Signatures in Java]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
