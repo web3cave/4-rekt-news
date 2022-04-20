@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://nftpricefloor.com/",
-          "author": null,
-          "description": "NFT Price Floor · Non-Fungible Token prices, charts and sales data tracker",
-          "link": "https://nftpricefloor.com/",
-          "publishedOn": "2022-04-20T21:00:05.000Z",
-          "wordCount": 116,
-          "title": "NFT Price Floor · Non-Fungible Token prices, charts and sales data tracker",
-          "imageUrl": "https://s3.amazonaws.com/cdn.nftpricefloor/assets/FAV-NFT150px.png"
-        },
-        {
           "id": "https://primitive.xyz/",
           "author": null,
           "description": "Home | Primitive",
@@ -24,6 +14,16 @@
           "wordCount": 178,
           "title": "Home | Primitive",
           "imageUrl": "https://website-metadata.s3.amazonaws.com/DarkMark.png"
+        },
+        {
+          "id": "https://nftpricefloor.com/",
+          "author": null,
+          "description": "NFT Price Floor · Non-Fungible Token prices, charts and sales data tracker",
+          "link": "https://nftpricefloor.com/",
+          "publishedOn": "2022-04-20T21:00:05.000Z",
+          "wordCount": 116,
+          "title": "NFT Price Floor · Non-Fungible Token prices, charts and sales data tracker",
+          "imageUrl": "https://s3.amazonaws.com/cdn.nftpricefloor/assets/FAV-NFT150px.png"
         },
         {
           "id": "https://www.axios.com/newsletters/axios-crypto-ab640781-0464-4171-9bb2-7d9eaba4b51f.html",
@@ -121,7 +121,7 @@
           "description": "Introducing the SynFutures V2 Testnet",
           "link": "https://medium.com/synfutures/introducing-the-synfutures-v2-testnet-3e6eb5c6770d",
           "publishedOn": "2022-04-20T15:30:07.000Z",
-          "wordCount": 952,
+          "wordCount": 963,
           "title": "Introducing the SynFutures V2 Testnet",
           "imageUrl": "https://miro.medium.com/max/1200/0*TtHvLyoUa_u5DKwW"
         },
