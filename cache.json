@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://variety.com/2022/tv/news/cnn-plus-shut-down-warner-bros-discovery-1235237913/",
+          "author": null,
+          "description": "Warner Bros. Discovery Shuts Down CNN+",
+          "link": "https://variety.com/2022/tv/news/cnn-plus-shut-down-warner-bros-discovery-1235237913/",
+          "publishedOn": "2022-04-21T17:00:06.000Z",
+          "wordCount": 1900,
+          "title": "Warner Bros. Discovery Shuts Down CNN+",
+          "imageUrl": "https://variety.com/wp-content/uploads/2021/07/featured_cnn_plus.jpg?w=1024"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "author": null,
           "description": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "link": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "publishedOn": "2022-04-21T15:00:04.000Z",
-          "wordCount": 911,
+          "wordCount": 980,
           "title": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "imageUrl": "https://www.coindesk.com/resizer/1Qq009qQiaSa1CCsM2moCBi_AaE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CMRRCLH7PFGXDLKH7JBFMYUDNA.jpeg"
+        },
+        {
+          "id": "https://www.thebigwhale.io/article/macron-french-innovation-audacity-and-genius-have-made-our-greatness-and-our-success",
+          "author": null,
+          "description": "Macron : \"French innovation, audacity and genius have made our greatness and our success\"",
+          "link": "https://www.thebigwhale.io/article/macron-french-innovation-audacity-and-genius-have-made-our-greatness-and-our-success",
+          "publishedOn": "2022-04-21T15:00:04.000Z",
+          "wordCount": 2636,
+          "title": "Macron : \"French innovation, audacity and genius have made our greatness and our success\"",
+          "imageUrl": "https://global-uploads.webflow.com/6228625c9e66d45d07b10795/626156a46f946204f0613ecf_Capture%20d%E2%80%99e%CC%81cran%202022-04-21%20a%CC%80%2015.51.36.png"
         },
         {
           "id": "https://www.hejustinsun.com/post/an-open-letter-on-the-issuance-of-usdd-a-decentralized-algorithmic-stablecoin-on-tron",
@@ -36,24 +56,24 @@
           "imageUrl": "https://s3.amazonaws.com/cdn.nftpricefloor/assets/FAV-NFT150px.png"
         },
         {
-          "id": "https://www.youtube.com/watch?app=desktop&v=CdgjGykrByM",
-          "author": null,
-          "description": "Vitalik: Ethereum, Part 2",
-          "link": "https://www.youtube.com/watch?app=desktop&v=CdgjGykrByM",
-          "publishedOn": "2022-04-21T13:30:04.000Z",
-          "wordCount": null,
-          "title": "Vitalik: Ethereum, Part 2",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/142799/goldman-sachs-reportedly-seeking-closer-ties-with-ftx-crypto-exchange",
           "author": null,
           "description": "Goldman Sachs reportedly seeking closer ties with FTX crypto exchange",
           "link": "https://www.theblockcrypto.com/post/142799/goldman-sachs-reportedly-seeking-closer-ties-with-ftx-crypto-exchange",
           "publishedOn": "2022-04-21T13:00:05.000Z",
-          "wordCount": 1008,
+          "wordCount": 978,
           "title": "Goldman Sachs reportedly seeking closer ties with FTX crypto exchange",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210514_FTX.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SCIuwh9ya8U",
+          "author": null,
+          "description": "Zero Knowledge Summit Amsterdam 2022",
+          "link": "https://www.youtube.com/watch?v=SCIuwh9ya8U",
+          "publishedOn": "2022-04-21T13:00:05.000Z",
+          "wordCount": null,
+          "title": "Zero Knowledge Summit Amsterdam 2022",
+          "imageUrl": null
         },
         {
           "id": "https://cobie.substack.com/p/apecoin-and-the-death-of-staking",
@@ -176,16 +196,6 @@
           "imageUrl": "https://paradigm-xyz.vercel.app/meta.png"
         },
         {
-          "id": "https://docs.looksrare.org/blog/looksrare-listing-rewards-list-nfts-earn-looks",
-          "author": null,
-          "description": "LooksRare Listing Rewards: List NFTs, earn LOOKS! | LooksRare Docs",
-          "link": "https://docs.looksrare.org/blog/looksrare-listing-rewards-list-nfts-earn-looks",
-          "publishedOn": "2022-04-20T17:00:02.000Z",
-          "wordCount": 811,
-          "title": "LooksRare Listing Rewards: List NFTs, earn LOOKS! | LooksRare Docs",
-          "imageUrl": "https://docs.looksrare.org/assets/images/blog-fd10d3fc5d3921fb0baf46e74cf96925.png"
-        },
-        {
           "id": "https://nft.coinbase.com/",
           "author": null,
           "description": "Coinbase NFT",
@@ -194,16 +204,6 @@
           "wordCount": 163,
           "title": "Coinbase NFT",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.spruceid.com/spruce-raises-34m-to-unbundle-the-login-for-a-user-controlled-web/",
-          "author": null,
-          "description": "Spruce Raises $34M to Unbundle the Login for a User-Controlled Web",
-          "link": "https://blog.spruceid.com/spruce-raises-34m-to-unbundle-the-login-for-a-user-controlled-web/",
-          "publishedOn": "2022-04-20T15:00:03.000Z",
-          "wordCount": 563,
-          "title": "Spruce Raises $34M to Unbundle the Login for a User-Controlled Web",
-          "imageUrl": "https://blog.spruceid.com/content/images/2022/04/Series-A.png"
         }
       ]
     }
