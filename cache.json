@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://suprecords.com/",
+          "author": null,
+          "description": "Sup? Records",
+          "link": "https://suprecords.com/",
+          "publishedOn": "2022-04-21T01:00:04.000Z",
+          "wordCount": 13,
+          "title": "Sup? Records",
+          "imageUrl": null
+        },
+        {
           "id": "https://primitive.xyz/",
           "author": null,
           "description": "Home | Primitive",
@@ -64,16 +74,6 @@
           "wordCount": 486,
           "title": "Joining Paradigm - Paradigm",
           "imageUrl": "https://paradigm-xyz.vercel.app/meta.png"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/142552/gauntlets-tarun-chitra-explains-the-keys-to-building-a-successful-defi-project",
-          "author": null,
-          "description": "Gauntlet's Tarun Chitra explains the keys to building a successful DeFi project",
-          "link": "https://www.theblockcrypto.com/post/142552/gauntlets-tarun-chitra-explains-the-keys-to-building-a-successful-defi-project",
-          "publishedOn": "2022-04-20T17:00:03.000Z",
-          "wordCount": 1441,
-          "title": "Gauntlet's Tarun Chitra explains the keys to building a successful DeFi project",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220331_TheScoop_Tarun_Chitra_16-x-9_.jpg"
         },
         {
           "id": "https://lite.instadapp.io/",
@@ -141,9 +141,19 @@
           "description": "What’s $NEXT?",
           "link": "https://blog.connext.network/whats-next-d3044de49397?gi=df91dbb9f63",
           "publishedOn": "2022-04-20T15:00:02.000Z",
-          "wordCount": 1150,
+          "wordCount": 1148,
           "title": "What’s $NEXT?",
           "imageUrl": "https://miro.medium.com/max/1200/0*2l_Soz-YgHpjvWCx"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/142641/makerdao-starknet-integration-ethereum-layer-2",
+          "author": null,
+          "description": "MakerDAO integrating Ethereum Layer 2 StarkNet next week",
+          "link": "https://www.theblockcrypto.com/post/142641/makerdao-starknet-integration-ethereum-layer-2",
+          "publishedOn": "2022-04-20T15:00:02.000Z",
+          "wordCount": 1065,
+          "title": "MakerDAO integrating Ethereum Layer 2 StarkNet next week",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/08/20210818_War_On_Stablecoins.jpg"
         },
         {
           "id": "https://www.theblockcrypto.com/post/142684/coinbase-nft-marketplace-beta-launch",
@@ -156,6 +166,16 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/08/20200824_Coinbase-Daily_1.jpg"
         },
         {
+          "id": "https://www.theblockcrypto.com/linked/142651/coinbase-shows-price-page-for-optimism-suggesting-a-token-could-be-on-the-way?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Coinbase shows price page for Optimism, suggesting a token could be on the way",
+          "link": "https://www.theblockcrypto.com/linked/142651/coinbase-shows-price-page-for-optimism-suggesting-a-token-could-be-on-the-way?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-04-20T11:30:02.000Z",
+          "wordCount": 987,
+          "title": "Coinbase shows price page for Optimism, suggesting a token could be on the way",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/08/20210811_Coinbase_ETH.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LhzpaxmSWTA",
           "author": null,
           "description": "Office Hours #69 with Not3Lau Brothers",
@@ -164,26 +184,6 @@
           "wordCount": null,
           "title": "Office Hours #69 with Not3Lau Brothers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cryptobeaver.io/",
-          "author": null,
-          "description": "The CryptoBeaver Goes to Washington",
-          "link": "https://www.cryptobeaver.io/",
-          "publishedOn": "2022-04-20T04:00:03.000Z",
-          "wordCount": 13,
-          "title": "The CryptoBeaver Goes to Washington",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thegraph.com/graph-day/2022/",
-          "author": null,
-          "description": "Graph Day - June 2, 2022",
-          "link": "https://thegraph.com/graph-day/2022/",
-          "publishedOn": "2022-04-20T02:30:04.000Z",
-          "wordCount": 309,
-          "title": "Graph Day - June 2, 2022",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-day.jpg"
         },
         {
           "id": "https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/",
