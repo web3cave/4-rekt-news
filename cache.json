@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?app=desktop&v=CdgjGykrByM",
+          "author": null,
+          "description": "Vitalik: Ethereum, Part 2",
+          "link": "https://www.youtube.com/watch?app=desktop&v=CdgjGykrByM",
+          "publishedOn": "2022-04-21T09:30:04.000Z",
+          "wordCount": null,
+          "title": "Vitalik: Ethereum, Part 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/142552/gauntlets-tarun-chitra-explains-the-keys-to-building-a-successful-defi-project",
           "author": null,
           "description": "Gauntlet's Tarun Chitra explains the keys to building a successful DeFi project",
           "link": "https://www.theblockcrypto.com/post/142552/gauntlets-tarun-chitra-explains-the-keys-to-building-a-successful-defi-project",
           "publishedOn": "2022-04-21T07:30:03.000Z",
-          "wordCount": 1435,
+          "wordCount": 1399,
           "title": "Gauntlet's Tarun Chitra explains the keys to building a successful DeFi project",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220331_TheScoop_Tarun_Chitra_16-x-9_.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Introducing Berachain",
           "link": "https://medium.com/berachain-foundation/introducing-berachain-4f7dc3032c17",
           "publishedOn": "2022-04-21T07:00:03.000Z",
-          "wordCount": 1276,
+          "wordCount": 1275,
           "title": "Introducing Berachain",
           "imageUrl": "https://miro.medium.com/max/680/1*E-6eRJIkMhq8GKlm4264Pw.jpeg"
         },
@@ -181,7 +191,7 @@
           "description": "What’s $NEXT?",
           "link": "https://blog.connext.network/whats-next-d3044de49397?gi=df91dbb9f63",
           "publishedOn": "2022-04-20T15:00:02.000Z",
-          "wordCount": 1148,
+          "wordCount": 1146,
           "title": "What’s $NEXT?",
           "imageUrl": "https://miro.medium.com/max/1200/0*2l_Soz-YgHpjvWCx"
         },
@@ -191,19 +201,9 @@
           "description": "Coinbase NFT marketplace goes live in beta for select customers",
           "link": "https://www.theblockcrypto.com/post/142684/coinbase-nft-marketplace-beta-launch",
           "publishedOn": "2022-04-20T14:30:04.000Z",
-          "wordCount": 1214,
+          "wordCount": 1194,
           "title": "Coinbase NFT marketplace goes live in beta for select customers",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/08/20200824_Coinbase-Daily_1.jpg"
-        },
-        {
-          "id": "https://optimism.mirror.xyz/Fdpds7l4yE2VDpLN4AZQUCjpBYdoPrIHw6a4uzUepmw",
-          "author": null,
-          "description": "A New Chapter",
-          "link": "https://optimism.mirror.xyz/Fdpds7l4yE2VDpLN4AZQUCjpBYdoPrIHw6a4uzUepmw",
-          "publishedOn": "2022-04-19T18:30:03.000Z",
-          "wordCount": 973,
-          "title": "A New Chapter",
-          "imageUrl": "https://mirror-media.imgix.net/nft/LO2YtsuBf5bCRQzp5mEOd.png?h=null&w=null&auto=compress"
         }
       ]
     }
