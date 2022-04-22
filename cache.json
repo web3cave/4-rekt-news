@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU&feature=youtu.be",
+          "author": null,
+          "description": "Future Money: What Is Zcash?",
+          "link": "https://www.youtube.com/watch?v=J1Nr1VL5dGU&feature=youtu.be",
+          "publishedOn": "2022-04-22T21:30:05.000Z",
+          "wordCount": null,
+          "title": "Future Money: What Is Zcash?",
+          "imageUrl": null
+        },
+        {
           "id": "https://unchainedpodcast.com/why-the-secs-proposed-rules-affecting-defi-could-violate-the-first-amendment/",
           "author": null,
           "description": "Why the SEC's Proposed Rules Affecting DeFi Could Violate the First Amendment - Unchained Podcast",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-04-22T17:00:04.000Z",
           "wordCount": 615,
           "title": "An Earth Day Message To The New York State Legislature - AVC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zzWrlIKuYJc",
-          "author": null,
-          "description": "ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta",
-          "link": "https://www.youtube.com/watch?v=zzWrlIKuYJc",
-          "publishedOn": "2022-04-22T17:00:04.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: Merge Alpha | Optimism Token?! | Ethereum Foundation Report | Coinbase NFT Beta",
           "imageUrl": null
         },
         {
@@ -81,9 +81,19 @@
           "description": "Stripe Taps Polygon to Allow Customers to Make Payments in USDC",
           "link": "https://www.coindesk.com/business/2022/04/21/stripe-taps-polygon-to-allow-customers-to-make-payments-in-usdc/",
           "publishedOn": "2022-04-22T14:30:04.000Z",
-          "wordCount": 811,
+          "wordCount": 784,
           "title": "Stripe Taps Polygon to Allow Customers to Make Payments in USDC",
           "imageUrl": "https://www.coindesk.com/resizer/5bAhgAyDUgdVsso0jWh9PGnFAyo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YO52QMAYHVBONP5XVJY4JU3RE4.jpeg"
+        },
+        {
+          "id": "https://yakuzapandas.io/",
+          "author": null,
+          "description": "Yakuza",
+          "link": "https://yakuzapandas.io/",
+          "publishedOn": "2022-04-22T12:00:03.000Z",
+          "wordCount": 878,
+          "title": "Yakuza",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=sBw5qgf1wFc&utm_campaign=Campaign%20%7C%20The%20Money%20Movement&utm_content=204842754&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
@@ -106,20 +116,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://consensys.net/blog/metamask/metamask-mobile-launches-first-hardware-wallet-integration-with-keystone/?utm_source=twitter&utm_medium=organicsocial&utm_campaign=_announcement",
-          "author": null,
-          "description": "MetaMask Mobile Launches First Hardware Wallet Integration With Keystone | ConsenSys",
-          "link": "https://consensys.net/blog/metamask/metamask-mobile-launches-first-hardware-wallet-integration-with-keystone/?utm_source=twitter&utm_medium=organicsocial&utm_campaign=_announcement",
-          "publishedOn": "2022-04-22T03:30:03.000Z",
-          "wordCount": 764,
-          "title": "MetaMask Mobile Launches First Hardware Wallet Integration With Keystone | ConsenSys",
-          "imageUrl": "https://cdn.consensys.net/uploads/2022/04/21204016/mobile-x-keystone-feature.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7x_DW6yLtUI",
+          "id": "https://www.youtube.com/watch?v=7x_DW6yLtUI&feature=youtu.be",
           "author": null,
           "description": "HALEEK MAUL - VERIFIED FEAT. CHIIEF DIIN (OFFICIAL MUSIC VIDEO)",
-          "link": "https://www.youtube.com/watch?v=7x_DW6yLtUI",
+          "link": "https://www.youtube.com/watch?v=7x_DW6yLtUI&feature=youtu.be",
           "publishedOn": "2022-04-21T22:30:03.000Z",
           "wordCount": null,
           "title": "HALEEK MAUL - VERIFIED FEAT. CHIIEF DIIN (OFFICIAL MUSIC VIDEO)",
@@ -141,9 +141,9 @@
           "description": "Anata NFT | Metadrop",
           "link": "https://metadrop.com/drops/anata",
           "publishedOn": "2022-04-21T21:00:05.000Z",
-          "wordCount": 773,
+          "wordCount": 772,
           "title": "Anata NFT | Metadrop",
-          "imageUrl": "https://metadrop-iu8o7reuo-asymmetriclabs.vercel.app/_next/static/media/ogImage_optimized.c04b94fd.png"
+          "imageUrl": "https://metadrop-xlp0qv26i-asymmetriclabs.vercel.app/_next/static/media/ogImage_optimized.c04b94fd.png"
         },
         {
           "id": "https://deadline.com/2022/04/scott-free-camila-russos-infinite-machine-1235007466/",
@@ -151,7 +151,7 @@
           "description": "Scott Free Boards Feature Adaptation Of Camila Russo’s ‘Infinite Machine’",
           "link": "https://deadline.com/2022/04/scott-free-camila-russos-infinite-machine-1235007466/",
           "publishedOn": "2022-04-21T19:30:03.000Z",
-          "wordCount": 1298,
+          "wordCount": 1277,
           "title": "Scott Free Boards Feature Adaptation Of Camila Russo’s ‘Infinite Machine’",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/04/Scott-Free-Infinite-Machine.jpg?w=1000"
         },
