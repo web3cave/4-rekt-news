@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-23T14:19:14.202Z</id>
+    <id>urn:2022-04-23T15:22:32.382Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-23T14:19:14.202Z</updated>
+    <updated>2022-04-23T15:22:32.382Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Permissionless: The Cultural Event of the Year]]></title>
+        <id>https://blockworks.co/events/permissionless/</id>
+        <link href="https://blockworks.co/events/permissionless/"/>
+        <updated>2022-04-23T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Permissionless: The Cultural Event of the Year]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - gakonst/ark-circom: Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.]]></title>
         <id>https://github.com/gakonst/ark-circom</id>
@@ -96,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aku is one of the world’s first-ever digital explorers]]></title>
+        <id>https://aku.world/</id>
+        <link href="https://aku.world/"/>
+        <updated>2022-04-22T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Aku is one of the world’s first-ever digital explorers]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why the SEC's Proposed Rules Affecting DeFi Could Violate the First Amendment - Unchained Podcast]]></title>
         <id>https://unchainedpodcast.com/why-the-secs-proposed-rules-affecting-defi-could-violate-the-first-amendment/</id>
         <link href="https://unchainedpodcast.com/why-the-secs-proposed-rules-affecting-defi-could-violate-the-first-amendment/"/>
@@ -136,31 +156,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap Labs now blocks certain crypto wallets from its app's frontend]]></title>
-        <id>https://www.theblockcrypto.com/post/143036/uniswap-labs-now-blocks-crypto-wallets-frontend</id>
-        <link href="https://www.theblockcrypto.com/post/143036/uniswap-labs-now-blocks-crypto-wallets-frontend"/>
-        <updated>2022-04-22T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs now blocks certain crypto wallets from its app's frontend]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Expanding global payouts with crypto]]></title>
         <id>https://stripe.com/blog/expanding-global-payouts-with-crypto</id>
         <link href="https://stripe.com/blog/expanding-global-payouts-with-crypto"/>
         <updated>2022-04-22T14:30:04.000Z</updated>
         <summary type="html"><![CDATA[Expanding global payouts with crypto]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Taps Polygon to Allow Customers to Make Payments in USDC]]></title>
-        <id>https://www.coindesk.com/business/2022/04/21/stripe-taps-polygon-to-allow-customers-to-make-payments-in-usdc/</id>
-        <link href="https://www.coindesk.com/business/2022/04/21/stripe-taps-polygon-to-allow-customers-to-make-payments-in-usdc/"/>
-        <updated>2022-04-22T14:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Stripe Taps Polygon to Allow Customers to Make Payments in USDC]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
