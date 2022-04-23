@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://avc.com/2022/04/an-earth-day-message-to-the-new-york-state-legislature/",
+          "author": null,
+          "description": "An Earth Day Message To The New York State Legislature - AVC",
+          "link": "https://avc.com/2022/04/an-earth-day-message-to-the-new-york-state-legislature/",
+          "publishedOn": "2022-04-23T12:30:03.000Z",
+          "wordCount": 615,
+          "title": "An Earth Day Message To The New York State Legislature - AVC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IDzIkofm1-E&",
+          "author": null,
+          "description": "Mapping the Furry Fandom",
+          "link": "https://www.youtube.com/watch?v=IDzIkofm1-E&",
+          "publishedOn": "2022-04-23T11:30:03.000Z",
+          "wordCount": null,
+          "title": "Mapping the Furry Fandom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://graph.bunnypa.ws/",
+          "author": null,
+          "description": "FurlandWeb",
+          "link": "https://graph.bunnypa.ws/",
+          "publishedOn": "2022-04-23T11:30:03.000Z",
+          "wordCount": 9,
+          "title": "FurlandWeb",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.binance.com/en/blog/leadership/binance--russia-openness-transparency-and-honesty-421499824684903741?fbclid=IwAR3Kye5BJ_iWJh7eMMKIYDbZSzaoLuJsDLFt0UlT4nd709Hf_GTgj4EEVOs",
           "author": null,
           "description": "Binance & Russia: Openness, Transparency and Honesty | Binance Blog",
@@ -46,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.voltprotocol.io/",
-          "author": null,
-          "description": "VOLT Protocol",
-          "link": "https://www.voltprotocol.io/",
-          "publishedOn": "2022-04-23T03:30:03.000Z",
-          "wordCount": 10,
-          "title": "VOLT Protocol",
-          "imageUrl": "/volt-logo.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU&feature=youtu.be",
           "author": null,
           "description": "Future Money: What Is Zcash?",
@@ -64,16 +84,6 @@
           "wordCount": null,
           "title": "Future Money: What Is Zcash?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/143047/metamask-stops-working-as-infura-suffers-another-service-outage",
-          "author": null,
-          "description": "MetaMask stops working as Infura suffers another service outage",
-          "link": "https://www.theblockcrypto.com/post/143047/metamask-stops-working-as-infura-suffers-another-service-outage",
-          "publishedOn": "2022-04-22T21:30:05.000Z",
-          "wordCount": 954,
-          "title": "MetaMask stops working as Infura suffers another service outage",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210716_Metamask_Phishing.jpg"
         },
         {
           "id": "https://unchainedpodcast.com/why-the-secs-proposed-rules-affecting-defi-could-violate-the-first-amendment/",
@@ -96,22 +106,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.cnbc.com/2022/04/22/republicans-demand-twitter-board-save-records-on-musks-bid.html",
-          "author": null,
-          "description": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
-          "link": "https://www.cnbc.com/2022/04/22/republicans-demand-twitter-board-save-records-on-musks-bid.html",
-          "publishedOn": "2022-04-22T17:00:04.000Z",
-          "wordCount": 878,
-          "title": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107003369-1642620919055-gettyimages-1237835363-house_gop636_011922.jpeg?v=1642620976&w=1920&h=1080"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/143018/twitter-to-test-out-stripes-newly-added-support-for-usdc-payments",
           "author": null,
           "description": "Twitter to test out Stripe's newly added support for USDC payments",
           "link": "https://www.theblockcrypto.com/post/143018/twitter-to-test-out-stripes-newly-added-support-for-usdc-payments",
           "publishedOn": "2022-04-22T17:00:04.000Z",
-          "wordCount": 891,
+          "wordCount": 848,
           "title": "Twitter to test out Stripe's newly added support for USDC payments",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200505_USDC-Daily.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Uniswap Labs now blocks certain crypto wallets from its app's frontend",
           "link": "https://www.theblockcrypto.com/post/143036/uniswap-labs-now-blocks-crypto-wallets-frontend",
           "publishedOn": "2022-04-22T17:00:03.000Z",
-          "wordCount": 1134,
+          "wordCount": 1129,
           "title": "Uniswap Labs now blocks certain crypto wallets from its app's frontend",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Uniswap_V3.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Stripe Taps Polygon to Allow Customers to Make Payments in USDC",
           "link": "https://www.coindesk.com/business/2022/04/21/stripe-taps-polygon-to-allow-customers-to-make-payments-in-usdc/",
           "publishedOn": "2022-04-22T14:30:04.000Z",
-          "wordCount": 782,
+          "wordCount": 784,
           "title": "Stripe Taps Polygon to Allow Customers to Make Payments in USDC",
           "imageUrl": "https://www.coindesk.com/resizer/5bAhgAyDUgdVsso0jWh9PGnFAyo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YO52QMAYHVBONP5XVJY4JU3RE4.jpeg"
         },
