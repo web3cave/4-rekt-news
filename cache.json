@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://thegraph.com/graph-day/2022/",
+          "author": null,
+          "description": "Graph Day - June 2, 2022",
+          "link": "https://thegraph.com/graph-day/2022/",
+          "publishedOn": "2022-04-22T23:00:03.000Z",
+          "wordCount": 309,
+          "title": "Graph Day - June 2, 2022",
+          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-day.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU&feature=youtu.be",
           "author": null,
           "description": "Future Money: What Is Zcash?",
@@ -24,6 +34,16 @@
           "wordCount": 469,
           "title": "Why the SEC's Proposed Rules Affecting DeFi Could Violate the First Amendment - Unchained Podcast",
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN344.jpg"
+        },
+        {
+          "id": "https://www.artblocks.io/project/294",
+          "author": null,
+          "description": "Alien DNA - Shvembldr | Art Blocks",
+          "link": "https://www.artblocks.io/project/294",
+          "publishedOn": "2022-04-22T19:30:04.000Z",
+          "wordCount": 1206,
+          "title": "Alien DNA - Shvembldr | Art Blocks",
+          "imageUrl": "https://artblocks-mainnet.s3.amazonaws.com/294000146.png"
         },
         {
           "id": "https://avc.com/2022/04/an-earth-day-message-to-the-new-york-state-legislature/",
@@ -51,7 +71,7 @@
           "description": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
           "link": "https://www.cnbc.com/2022/04/22/republicans-demand-twitter-board-save-records-on-musks-bid.html",
           "publishedOn": "2022-04-22T17:00:04.000Z",
-          "wordCount": 878,
+          "wordCount": 879,
           "title": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107003369-1642620919055-gettyimages-1237835363-house_gop636_011922.jpeg?v=1642620976&w=1920&h=1080"
         },
@@ -71,7 +91,7 @@
           "description": "Uniswap Labs now blocks certain crypto wallets from its app's frontend",
           "link": "https://www.theblockcrypto.com/post/143036/uniswap-labs-now-blocks-crypto-wallets-frontend",
           "publishedOn": "2022-04-22T17:00:03.000Z",
-          "wordCount": 1186,
+          "wordCount": 1137,
           "title": "Uniswap Labs now blocks certain crypto wallets from its app's frontend",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Uniswap_V3.jpg"
         },
@@ -116,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=sBw5qgf1wFc&utm_campaign=Campaign%20%7C%20The%20Money%20Movement&utm_content=204842754&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "author": null,
-          "description": "Ep 57 | Building A New Global Financial System with CZ of Binance",
-          "link": "https://www.youtube.com/watch?v=sBw5qgf1wFc&utm_campaign=Campaign%20%7C%20The%20Money%20Movement&utm_content=204842754&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "publishedOn": "2022-04-22T06:30:04.000Z",
-          "wordCount": null,
-          "title": "Ep 57 | Building A New Global Financial System with CZ of Binance",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.ewg.org/sites/default/files/2022-04/Crypto%20letter%20to%20EPA.pdf",
           "author": null,
           "description": "[PDF] Crypto letter to EPA.pdf",
@@ -156,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://thedefiant.io/scott-free-infinite-machine/",
-          "author": null,
-          "description": "Makers of Alien, Gladiator and Blade Runner to Produce The Infinite Machine Movie - The Defiant",
-          "link": "https://thedefiant.io/scott-free-infinite-machine/",
-          "publishedOn": "2022-04-21T21:00:05.000Z",
-          "wordCount": 626,
-          "title": "Makers of Alien, Gladiator and Blade Runner to Produce The Infinite Machine Movie - The Defiant",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/04/SCOTTINFM3.jpg&nocache=1"
-        },
-        {
           "id": "https://metadrop.com/drops/anata",
           "author": null,
           "description": "Anata NFT | Metadrop",
@@ -173,7 +173,7 @@
           "publishedOn": "2022-04-21T21:00:05.000Z",
           "wordCount": 772,
           "title": "Anata NFT | Metadrop",
-          "imageUrl": "https://metadrop-xlp0qv26i-asymmetriclabs.vercel.app/_next/static/media/ogImage_optimized.c04b94fd.png"
+          "imageUrl": "https://metadrop-qxwd3amvs-asymmetriclabs.vercel.app/_next/static/media/ogImage_optimized.c04b94fd.png"
         },
         {
           "id": "https://a16z.com/2022/04/21/announcing-a16z-crypto-research/",
