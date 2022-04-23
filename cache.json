@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://thegraph.com/graph-day/2022/",
-          "author": null,
-          "description": "Graph Day - June 2, 2022",
-          "link": "https://thegraph.com/graph-day/2022/",
-          "publishedOn": "2022-04-22T23:00:03.000Z",
-          "wordCount": 309,
-          "title": "Graph Day - June 2, 2022",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-day.jpg"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU&feature=youtu.be",
           "author": null,
           "description": "Future Money: What Is Zcash?",
@@ -71,9 +61,29 @@
           "description": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
           "link": "https://www.cnbc.com/2022/04/22/republicans-demand-twitter-board-save-records-on-musks-bid.html",
           "publishedOn": "2022-04-22T17:00:04.000Z",
-          "wordCount": 879,
+          "wordCount": 878,
           "title": "House Republicans demand Twitter's board preserve all records about Musk's bid to buy the company",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107003369-1642620919055-gettyimages-1237835363-house_gop636_011922.jpeg?v=1642620976&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/143018/twitter-to-test-out-stripes-newly-added-support-for-usdc-payments",
+          "author": null,
+          "description": "Twitter to test out Stripe's newly added support for USDC payments",
+          "link": "https://www.theblockcrypto.com/post/143018/twitter-to-test-out-stripes-newly-added-support-for-usdc-payments",
+          "publishedOn": "2022-04-22T17:00:04.000Z",
+          "wordCount": 894,
+          "title": "Twitter to test out Stripe's newly added support for USDC payments",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200505_USDC-Daily.jpg"
+        },
+        {
+          "id": "https://ethereumnodes.com/",
+          "author": null,
+          "description": "Ethereum Nodes",
+          "link": "https://ethereumnodes.com/",
+          "publishedOn": "2022-04-22T17:00:03.000Z",
+          "wordCount": 55,
+          "title": "Ethereum Nodes",
+          "imageUrl": "https://ethereumnodes.com/api/screenshot"
         },
         {
           "id": "https://chainlist.org/",
@@ -94,16 +104,6 @@
           "wordCount": 1137,
           "title": "Uniswap Labs now blocks certain crypto wallets from its app's frontend",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Uniswap_V3.jpg"
-        },
-        {
-          "id": "https://ethereumnodes.com/",
-          "author": null,
-          "description": "Ethereum Nodes",
-          "link": "https://ethereumnodes.com/",
-          "publishedOn": "2022-04-22T17:00:03.000Z",
-          "wordCount": 55,
-          "title": "Ethereum Nodes",
-          "imageUrl": "https://ethereumnodes.com/api/screenshot"
         },
         {
           "id": "https://stripe.com/blog/expanding-global-payouts-with-crypto",
