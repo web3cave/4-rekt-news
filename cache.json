@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/covid-19/shanghai-reports-record-covid-deaths-lockdown-drags",
+          "author": null,
+          "description": "Shanghai Reports Record COVID Deaths As Lockdown Drags On | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/shanghai-reports-record-covid-deaths-lockdown-drags",
+          "publishedOn": "2022-04-24T23:00:03.000Z",
+          "wordCount": 488,
+          "title": "Shanghai Reports Record COVID Deaths As Lockdown Drags On | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jeiwan.net/posts/programming-defi-uniswapv2-4/",
+          "author": null,
+          "description": "Programming DeFi: Uniswap V2. Part 4 - Going the distance",
+          "link": "https://jeiwan.net/posts/programming-defi-uniswapv2-4/",
+          "publishedOn": "2022-04-24T22:30:02.000Z",
+          "wordCount": 4228,
+          "title": "Programming DeFi: Uniswap V2. Part 4 - Going the distance",
+          "imageUrl": null
+        },
+        {
           "id": "https://vitalik.ca/general/2021/06/18/verkle.html",
           "author": null,
           "description": "Verkle trees",
@@ -16,54 +36,24 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/dapp-org/k-uniswap-v2",
-          "author": null,
-          "description": "GitHub - dapp-org/k-uniswap-v2",
-          "link": "https://github.com/dapp-org/k-uniswap-v2",
-          "publishedOn": "2022-04-24T21:00:03.000Z",
-          "wordCount": 581,
-          "title": "GitHub - dapp-org/k-uniswap-v2",
-          "imageUrl": "https://opengraph.githubassets.com/2d744a015d6c29041665d5473ae90dcd7a59bdbd480829b60debe27f8a4781bc/dapp-org/k-uniswap-v2"
-        },
-        {
-          "id": "https://dapp.org.uk/reports/uniswapv2.html#org7eb7eb8",
-          "author": null,
-          "description": "Uniswap V2 Audit Report",
-          "link": "https://dapp.org.uk/reports/uniswapv2.html#org7eb7eb8",
-          "publishedOn": "2022-04-24T21:00:03.000Z",
-          "wordCount": 9388,
-          "title": "Uniswap V2 Audit Report",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/how-decentralized-your-stablecoin",
-          "author": null,
-          "description": "How Decentralized Is Your Stablecoin? | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/how-decentralized-your-stablecoin",
-          "publishedOn": "2022-04-24T21:00:03.000Z",
-          "wordCount": 1809,
-          "title": "How Decentralized Is Your Stablecoin? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://petsymposium.org/publishing_announcement.php",
-          "author": null,
-          "description": "PoPETs/PETS",
-          "link": "https://petsymposium.org/publishing_announcement.php",
-          "publishedOn": "2022-04-24T21:00:03.000Z",
-          "wordCount": 277,
-          "title": "PoPETs/PETS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wiki.defillama.com/wiki/Main_Page",
+          "id": "https://defillama.com/chain/Terra",
           "author": null,
           "description": "DefiLlama",
-          "link": "https://wiki.defillama.com/wiki/Main_Page",
+          "link": "https://defillama.com/chain/Terra",
           "publishedOn": "2022-04-24T20:30:02.000Z",
-          "wordCount": 432,
+          "wordCount": 494,
           "title": "DefiLlama",
-          "imageUrl": null
+          "imageUrl": "https://og-cards-chi.vercel.app/Terra.jpeg?theme=dark&valueHeader=Total+Value+Locked&tvl=%2429.22b&volumeChange=-1.02%25&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg&images=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_terra.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/twitter-re-examines-elon-musks-bid-may-be-more-receptive-to-a-deal-11650822932?mod=Searchresults_pos1&page=1",
+          "author": null,
+          "description": "WSJ News Exclusive | Twitter Re-Examines Elon Musk’s Bid, May Be More Receptive to a Deal",
+          "link": "https://www.wsj.com/articles/twitter-re-examines-elon-musks-bid-may-be-more-receptive-to-a-deal-11650822932?mod=Searchresults_pos1&page=1",
+          "publishedOn": "2022-04-24T19:30:03.000Z",
+          "wordCount": 1930,
+          "title": "WSJ News Exclusive | Twitter Re-Examines Elon Musk’s Bid, May Be More Receptive to a Deal",
+          "imageUrl": "https://images.wsj.net/im-530474/social"
         },
         {
           "id": "https://www.coindesk.com/policy/2019/12/10/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs/",
@@ -71,19 +61,9 @@
           "description": "Cryptocurrency Is Most Useful for Breaking Laws and Social Constructs",
           "link": "https://www.coindesk.com/policy/2019/12/10/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs/",
           "publishedOn": "2022-04-24T19:00:04.000Z",
-          "wordCount": 1507,
+          "wordCount": 1536,
           "title": "Cryptocurrency Is Most Useful for Breaking Laws and Social Constructs",
           "imageUrl": "https://www.coindesk.com/resizer/IFaDGyl19lGaVmAPFlM7-3u7fW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K6BLOE75RBB2JBX6UAHXNOTTLI.png"
-        },
-        {
-          "id": "https://cryptoslate.com/ridley-scotts-production-firm-to-create-a-film-based-on-ethereum/",
-          "author": null,
-          "description": "Ridley Scott’s production firm to create a film based on Ethereum | CryptoSlate",
-          "link": "https://cryptoslate.com/ridley-scotts-production-firm-to-create-a-film-based-on-ethereum/",
-          "publishedOn": "2022-04-24T19:00:03.000Z",
-          "wordCount": 2887,
-          "title": "Ridley Scott’s production firm to create a film based on Ethereum | CryptoSlate",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/04/ethereum-film.jpg"
         },
         {
           "id": "https://stratechery.com/2018/the-bill-gates-line/",
@@ -94,6 +74,16 @@
           "wordCount": 2933,
           "title": "The Bill Gates Line",
           "imageUrl": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.351-1.png?fit=1200%2C635&ssl=1"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2022/apr/05/world-may-be-on-cusp-of-new-inflationary-era-says-central-bank-chief?CMP=share_btn_tw",
+          "author": null,
+          "description": "World may be on brink of new inflationary era, says central bank chief",
+          "link": "https://www.theguardian.com/business/2022/apr/05/world-may-be-on-cusp-of-new-inflationary-era-says-central-bank-chief?CMP=share_btn_tw",
+          "publishedOn": "2022-04-24T17:30:03.000Z",
+          "wordCount": 751,
+          "title": "World may be on brink of new inflationary era, says central bank chief",
+          "imageUrl": "https://i.guim.co.uk/img/media/67c1e67a02d79639fe37f63ce57c9e75e9664116/0_86_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60a48d91f913ea8f81ee8b84ded757ae"
         },
         {
           "id": "https://www.youtube.com/watch?v=LhzpaxmSWTA&ab_channel=Nansen",
@@ -116,6 +106,16 @@
           "imageUrl": "https://assets-global.website-files.com/60118ca18674407b85935203/6102886e4aaa03bef0fdde3e_Nansen_open_graph_image.png"
         },
         {
+          "id": "https://gitopia.com/",
+          "author": null,
+          "description": "Gitopia - Code Collaboration for Web3",
+          "link": "https://gitopia.com/",
+          "publishedOn": "2022-04-24T17:00:02.000Z",
+          "wordCount": 278,
+          "title": "Gitopia - Code Collaboration for Web3",
+          "imageUrl": "https://gitopia.com/og-gitopia.jpg"
+        },
+        {
           "id": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-April/020262.html",
           "author": null,
           "description": "[bitcoin-dev] User Resisted Soft Fork for CTV",
@@ -126,6 +126,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://etherworld.co/2022/04/20/ethereum-mainnet-shadow-forking-an-overview/",
+          "author": null,
+          "description": "Ethereum Mainnet Shadow Forking: An overview",
+          "link": "https://etherworld.co/2022/04/20/ethereum-mainnet-shadow-forking-an-overview/",
+          "publishedOn": "2022-04-24T14:00:04.000Z",
+          "wordCount": 1263,
+          "title": "Ethereum Mainnet Shadow Forking: An overview",
+          "imageUrl": "https://etherworld.co/content/images/2022/04/shadow-Forking-Cover-image.png"
+        },
+        {
           "id": "https://cobie.substack.com/p/apecoin-and-the-death-of-staking",
           "author": null,
           "description": "ApeCoin & the death of staking",
@@ -134,6 +144,16 @@
           "wordCount": 3203,
           "title": "ApeCoin & the death of staking",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFQh33AOaMAACirg.png"
+        },
+        {
+          "id": "https://studio.ribbonfarm.com/p/towards-management-metamodernism",
+          "author": null,
+          "description": "Towards Management Metamodernism",
+          "link": "https://studio.ribbonfarm.com/p/towards-management-metamodernism",
+          "publishedOn": "2022-04-24T09:15:02.000Z",
+          "wordCount": 1900,
+          "title": "Towards Management Metamodernism",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d61150-515a-4ede-b5b5-ca4f1e3806d5_2050x1132.png"
         },
         {
           "id": "https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks?s=r",
@@ -184,26 +204,6 @@
           "wordCount": 446,
           "title": "Comments of David Rosenthal on Apr. 20, 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/0xngmi/551d2631fd9909126054bc457ea70a7c",
-          "author": null,
-          "description": "slob-analysis.md",
-          "link": "https://gist.github.com/0xngmi/551d2631fd9909126054bc457ea70a7c",
-          "publishedOn": "2022-04-24T01:00:03.000Z",
-          "wordCount": 1219,
-          "title": "slob-analysis.md",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy22q2-googlecloud-blog-finserv-in_feed-yes-brand-global&utm_content=-&utm_term=-",
-          "author": null,
-          "description": "Google Cloud launches dedicated Digital Asset Team | Google Cloud Blog",
-          "link": "https://cloud.google.com/blog/topics/financial-services/google-cloud-launches-dedicated-digital-asset-team?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy22q2-googlecloud-blog-finserv-in_feed-yes-brand-global&utm_content=-&utm_term=-",
-          "publishedOn": "2022-04-23T23:00:04.000Z",
-          "wordCount": 952,
-          "title": "Google Cloud launches dedicated Digital Asset Team | Google Cloud Blog",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/finserv_Uf5vJiJ.max-2200x2200.jpg"
         }
       ]
     }
