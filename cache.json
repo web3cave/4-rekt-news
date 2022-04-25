@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p5Ac7ap_MAY&feature=youtu.be",
+          "author": null,
+          "description": "Princes of the Yen | Documentary Film",
+          "link": "https://www.youtube.com/watch?v=p5Ac7ap_MAY&feature=youtu.be",
+          "publishedOn": "2022-04-25T09:00:05.000Z",
+          "wordCount": null,
+          "title": "Princes of the Yen | Documentary Film",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/economics/global-fake-goods-market-now-bigger-irelands-economy",
+          "author": null,
+          "description": "Global 'Fake Goods' Market Now Bigger Than Ireland's Economy | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/global-fake-goods-market-now-bigger-irelands-economy",
+          "publishedOn": "2022-04-25T09:00:05.000Z",
+          "wordCount": 486,
+          "title": "Global 'Fake Goods' Market Now Bigger Than Ireland's Economy | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m7N4mJqOu-g&feature=youtu.be",
           "author": null,
           "description": "How to Maintain Your Mental Health In The NFT Space w/ Jared Tendler - ZenChats EP#19",
@@ -44,16 +64,6 @@
           "wordCount": 533,
           "title": "Bankless: 114 - In Defense of Bitcoin Maximalism | Vitalik Buterin",
           "imageUrl": "http://assets.libsyn.com/show/247424?height=250&width=250&overlay=true"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/coming-removal-mandate-heaven-part-0-chinas-founding-myths",
-          "author": null,
-          "description": "The Coming Removal Of The Mandate Of Heaven, Part 0: China's Founding Myths | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/coming-removal-mandate-heaven-part-0-chinas-founding-myths",
-          "publishedOn": "2022-04-25T05:00:04.000Z",
-          "wordCount": 1971,
-          "title": "The Coming Removal Of The Mandate Of Heaven, Part 0: China's Founding Myths | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://blog.lopp.net/hunt-best-gigabit-home-network-vpn/",
@@ -116,22 +126,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.wsj.com/articles/twitter-re-examines-elon-musks-bid-may-be-more-receptive-to-a-deal-11650822932?mod=e2tw",
-          "author": null,
-          "description": "WSJ News Exclusive | Twitter Re-Examines Elon Musk’s Bid, May Be More Receptive to a Deal",
-          "link": "https://www.wsj.com/articles/twitter-re-examines-elon-musks-bid-may-be-more-receptive-to-a-deal-11650822932?mod=e2tw",
-          "publishedOn": "2022-04-24T19:30:03.000Z",
-          "wordCount": 1012,
-          "title": "WSJ News Exclusive | Twitter Re-Examines Elon Musk’s Bid, May Be More Receptive to a Deal",
-          "imageUrl": "https://images.wsj.net/im-530474/social"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2019/12/10/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs/",
           "author": null,
           "description": "Cryptocurrency Is Most Useful for Breaking Laws and Social Constructs",
           "link": "https://www.coindesk.com/policy/2019/12/10/cryptocurrency-is-most-useful-for-breaking-laws-and-social-constructs/",
           "publishedOn": "2022-04-24T19:00:04.000Z",
-          "wordCount": 1536,
+          "wordCount": 1561,
           "title": "Cryptocurrency Is Most Useful for Breaking Laws and Social Constructs",
           "imageUrl": "https://www.coindesk.com/resizer/IFaDGyl19lGaVmAPFlM7-3u7fW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K6BLOE75RBB2JBX6UAHXNOTTLI.png"
         },
@@ -191,9 +191,9 @@
           "description": "Ethereum Mainnet Shadow Forking: An overview",
           "link": "https://etherworld.co/2022/04/20/ethereum-mainnet-shadow-forking-an-overview/",
           "publishedOn": "2022-04-24T14:00:04.000Z",
-          "wordCount": 1263,
+          "wordCount": null,
           "title": "Ethereum Mainnet Shadow Forking: An overview",
-          "imageUrl": "https://etherworld.co/content/images/2022/04/shadow-Forking-Cover-image.png"
+          "imageUrl": null
         },
         {
           "id": "https://cobie.substack.com/p/apecoin-and-the-death-of-staking",
