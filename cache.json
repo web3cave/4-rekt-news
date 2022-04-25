@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU",
+          "author": null,
+          "description": "Future Money: What is Zcash (ZEC)?",
+          "link": "https://www.youtube.com/watch?v=J1Nr1VL5dGU",
+          "publishedOn": "2022-04-25T20:00:04.000Z",
+          "wordCount": null,
+          "title": "Future Money: What is Zcash (ZEC)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.socialcapital.com/ideas/2021-annual-letter",
+          "author": null,
+          "description": "2021 Annual Letter | Social Capital",
+          "link": "https://www.socialcapital.com/ideas/2021-annual-letter",
+          "publishedOn": "2022-04-25T19:30:02.000Z",
+          "wordCount": 5320,
+          "title": "2021 Annual Letter | Social Capital",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZLzEOBWMcXA&feature=youtu.be",
           "author": null,
           "description": "Designers Australia Awards '21 (Design Institute of Australia) - Award of Merit, Category 'USE'",
@@ -46,32 +66,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://dune.com/blog/flashbots-data",
-          "author": null,
-          "description": "Flashbots MEV data is live on Dune!",
-          "link": "https://dune.com/blog/flashbots-data",
-          "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 346,
-          "title": "Flashbots MEV data is live on Dune!",
-          "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/a6c8534e9798cb9d263540f919da18239fad8d93-1280x720.png?w=1200&fm=jpg"
-        },
-        {
-          "id": "https://prestonbyrne.com/2022/04/24/build_detwitter/",
-          "author": null,
-          "description": "How to Build Decentralized Twitter",
-          "link": "https://prestonbyrne.com/2022/04/24/build_detwitter/",
-          "publishedOn": "2022-04-25T18:30:04.000Z",
-          "wordCount": 3091,
-          "title": "How to Build Decentralized Twitter",
-          "imageUrl": "https://prestonbyrne.com/wp-content/uploads/2022/04/image.png"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/143297/opensea-acquires-nft-aggregator-gem",
           "author": null,
           "description": "OpenSea acquires NFT aggregator Gem",
           "link": "https://www.theblockcrypto.com/post/143297/opensea-acquires-nft-aggregator-gem",
           "publishedOn": "2022-04-25T17:00:03.000Z",
-          "wordCount": 935,
+          "wordCount": 874,
           "title": "OpenSea acquires NFT aggregator Gem",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210915_OpenSea.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "Twitter’s Board Is Said to Seriously Consider Elon Musk’s Bid",
           "link": "https://www.nytimes.com/2022/04/24/technology/twitter-board-elon-musk.html",
           "publishedOn": "2022-04-25T15:30:03.000Z",
-          "wordCount": 1337,
+          "wordCount": 1188,
           "title": "Twitter’s Board Is Said to Seriously Consider Elon Musk’s Bid",
           "imageUrl": "https://static01.nyt.com/images/2022/04/24/multimedia/24twitter-1/24twitter-1-facebookJumbo.jpg"
         },
@@ -101,9 +101,9 @@
           "description": "Twitter to accept Elon Musk’s bid to buy company",
           "link": "https://www.independent.co.uk/tech/twitter-elon-musk-buy-company-b2064819.html?utm_content=Echobox&utm_medium=Social&utm_campaign=Main&utm_source=Twitter#Echobox=1650888159",
           "publishedOn": "2022-04-25T15:00:02.000Z",
-          "wordCount": 893,
+          "wordCount": 1286,
           "title": "Twitter to accept Elon Musk’s bid to buy company",
-          "imageUrl": "https://static.independent.co.uk/2021/12/15/16/5abdde1b-8d62-415f-8b5b-cef955c2eb70.png?quality=75&width=1200&auto=webp"
+          "imageUrl": "https://static.independent.co.uk/2022/04/25/20/GettyImages-1229892421.jpg?quality=75&width=1200&auto=webp"
         },
         {
           "id": "https://axie.substack.com/p/s21",
@@ -121,7 +121,7 @@
           "description": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "link": "https://nypost.com/2022/04/25/twitter-set-to-accept-elon-musks-43-billion-offer-report/?utm_source=nypbusinesstwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-04-25T15:00:01.000Z",
-          "wordCount": 1363,
+          "wordCount": 1360,
           "title": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/04/elon-musk-twitter-account-logo.jpg?quality=75&strip=all&w=1024"
         },
@@ -151,7 +151,7 @@
           "description": "Crypto Industry Can’t Hire Enough Lawyers",
           "link": "https://www.wsj.com/articles/crypto-industry-cant-hire-enough-lawyers-11650879002?mod=rss_Technology&utm_source=ChristianVentureCapital%40ChristianVC.com&utm_medium=twitter",
           "publishedOn": "2022-04-25T13:00:05.000Z",
-          "wordCount": 2214,
+          "wordCount": 2180,
           "title": "Crypto Industry Can’t Hire Enough Lawyers",
           "imageUrl": "https://images.wsj.net/im-529955/social"
         },
