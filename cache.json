@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J1Nr1VL5dGU",
+          "author": null,
+          "description": "Future Money: What is Zcash (ZEC)?",
+          "link": "https://www.youtube.com/watch?v=J1Nr1VL5dGU",
+          "publishedOn": "2022-04-26T18:00:04.000Z",
+          "wordCount": null,
+          "title": "Future Money: What is Zcash (ZEC)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/why-banks-and-payment-processors-shun-perfectly-legal-businesses/",
+          "author": null,
+          "description": "Why Banks and Payment Processors Shun Perfectly Legal Businesses",
+          "link": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/why-banks-and-payment-processors-shun-perfectly-legal-businesses/",
+          "publishedOn": "2022-04-26T18:00:04.000Z",
+          "wordCount": 2967,
+          "title": "Why Banks and Payment Processors Shun Perfectly Legal Businesses",
+          "imageUrl": "https://www.coindesk.com/resizer/qHrvQy5md27ybCmjHcbZAStWGXc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ACPXW53AVZFEBCP4FFATHPDUGQ.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "author": null,
           "description": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "link": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "publishedOn": "2022-04-26T17:00:03.000Z",
-          "wordCount": 898,
+          "wordCount": 906,
           "title": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "imageUrl": "https://www.coindesk.com/resizer/1Qq009qQiaSa1CCsM2moCBi_AaE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CMRRCLH7PFGXDLKH7JBFMYUDNA.jpeg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=29WqsvSkAp4&feature=youtu.be",
-          "author": null,
-          "description": "DeFi tokenomics, moats for DEX, Cosmos value accrual, sustainability of Terra / Anchor",
-          "link": "https://www.youtube.com/watch?v=29WqsvSkAp4&feature=youtu.be",
-          "publishedOn": "2022-04-26T16:00:06.000Z",
-          "wordCount": null,
-          "title": "DeFi tokenomics, moats for DEX, Cosmos value accrual, sustainability of Terra / Anchor",
-          "imageUrl": null
         },
         {
           "id": "https://unchainedpodcast.com/amy-wu-on-why-ftx-is-so-excited-about-web3-gaming/",
@@ -41,7 +51,7 @@
           "description": "EU warns Elon Musk over Twitter moderation plans",
           "link": "https://www.ft.com/content/22f66209-f5b2-4476-8cdb-de4befffebe5",
           "publishedOn": "2022-04-26T15:00:03.000Z",
-          "wordCount": 1035,
+          "wordCount": 1046,
           "title": "EU warns Elon Musk over Twitter moderation plans",
           "imageUrl": null
         },
@@ -74,6 +84,16 @@
           "wordCount": 17,
           "title": "NFT.com",
           "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
+          "author": null,
+          "description": "5 Things I Learned from ETH Amsterdam [LITE]",
+          "link": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
+          "publishedOn": "2022-04-26T03:30:02.000Z",
+          "wordCount": 2626,
+          "title": "5 Things I Learned from ETH Amsterdam [LITE]",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb97d7e79-9b25-4237-b0ed-ca97b7c51ee8_1090x610.png"
         },
         {
           "id": "https://signingdevice.com/",
@@ -136,16 +156,6 @@
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/f7GH6yYL-k_yyIeykrCIxGqhYYY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23390587/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.jpg"
         },
         {
-          "id": "https://wallet.near.org/",
-          "author": null,
-          "description": "NEAR Wallet",
-          "link": "https://wallet.near.org/",
-          "publishedOn": "2022-04-25T23:00:05.000Z",
-          "wordCount": 12,
-          "title": "NEAR Wallet",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/@jpegd/jpegd-protocol-launch-e255f32546bb",
           "author": null,
           "description": "JPEG’d Protocol Launch",
@@ -174,16 +184,6 @@
           "wordCount": 1371,
           "title": "Three counterintuitive lessons from a crypto investoooor",
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead?s=w",
-          "author": null,
-          "description": "115 - The Stagflation Mega-Trade | Dan Morehead",
-          "link": "https://shows.banklesshq.com/p/115-the-stagflation-mega-trade-dan-morehead?s=w",
-          "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 472,
-          "title": "115 - The Stagflation Mega-Trade | Dan Morehead",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9ac5a7-a7f8-4e81-b5af-f52826ecd874_2668x1501.jpeg"
         },
         {
           "id": "https://dune.com/blog/flashbots-data",
