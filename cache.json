@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rf_f8GV0yYM",
+          "author": null,
+          "description": "Peter Lynch 1994 Lecture (WITH TIMESTAMPS)",
+          "link": "https://www.youtube.com/watch?v=rf_f8GV0yYM",
+          "publishedOn": "2022-04-26T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Peter Lynch 1994 Lecture (WITH TIMESTAMPS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://claim.ens.domains/",
+          "author": null,
+          "description": "ENS Airdrop",
+          "link": "https://claim.ens.domains/",
+          "publishedOn": "2022-04-26T23:00:02.000Z",
+          "wordCount": 10,
+          "title": "ENS Airdrop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.robinhood.com/news/2022/4/26/a-message-from-our-ceo-and-co-founder-vlad-tenev",
+          "author": null,
+          "description": "A Message from our CEO and Co-Founder Vlad Tenev — Under the Hood",
+          "link": "https://blog.robinhood.com/news/2022/4/26/a-message-from-our-ceo-and-co-founder-vlad-tenev",
+          "publishedOn": "2022-04-26T22:30:03.000Z",
+          "wordCount": 1259,
+          "title": "A Message from our CEO and Co-Founder Vlad Tenev — Under the Hood",
+          "imageUrl": "http://static1.squarespace.com/static/53fe4a70e4b0a2293ab0e42a/t/626852291beffb4da7d0d892/1651003964995/RH+Green+Blog+Header.png?format=1500w"
+        },
+        {
           "id": "https://www.utopialabs.com/",
           "author": null,
           "description": "Utopia: Payroll and Payments for DAOs",
@@ -56,22 +86,12 @@
           "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/23975470/23975470-1650990163601-83d9ddf561fa3.jpg"
         },
         {
-          "id": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/why-banks-and-payment-processors-shun-perfectly-legal-businesses/",
-          "author": null,
-          "description": "Why Banks and Payment Processors Shun Perfectly Legal Businesses",
-          "link": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/why-banks-and-payment-processors-shun-perfectly-legal-businesses/",
-          "publishedOn": "2022-04-26T18:00:04.000Z",
-          "wordCount": 2926,
-          "title": "Why Banks and Payment Processors Shun Perfectly Legal Businesses",
-          "imageUrl": "https://www.coindesk.com/resizer/qHrvQy5md27ybCmjHcbZAStWGXc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ACPXW53AVZFEBCP4FFATHPDUGQ.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "author": null,
           "description": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "link": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "publishedOn": "2022-04-26T17:00:03.000Z",
-          "wordCount": 861,
+          "wordCount": 904,
           "title": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "imageUrl": "https://www.coindesk.com/resizer/1Qq009qQiaSa1CCsM2moCBi_AaE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CMRRCLH7PFGXDLKH7JBFMYUDNA.jpeg"
         },
@@ -81,9 +101,9 @@
           "description": "Amy Wu on Why FTX Is So Excited About Web3 Gaming - Unchained Podcast",
           "link": "https://unchainedpodcast.com/amy-wu-on-why-ftx-is-so-excited-about-web3-gaming/",
           "publishedOn": "2022-04-26T16:00:05.000Z",
-          "wordCount": 319,
+          "wordCount": 636,
           "title": "Amy Wu on Why FTX Is So Excited About Web3 Gaming - Unchained Podcast",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/04/UN345.jpg"
         },
         {
           "id": "https://www.ft.com/content/22f66209-f5b2-4476-8cdb-de4befffebe5",
@@ -111,7 +131,7 @@
           "description": "Fidelity to Allow Retirement Savers to Put Bitcoin in 401(k) Accounts",
           "link": "https://www.wsj.com/articles/fidelity-to-allow-retirement-savers-to-put-bitcoin-in-401-k-accounts-11650945661",
           "publishedOn": "2022-04-26T07:00:03.000Z",
-          "wordCount": 877,
+          "wordCount": 876,
           "title": "Fidelity to Allow Retirement Savers to Put Bitcoin in 401(k) Accounts",
           "imageUrl": "https://images.wsj.net/im-531168/social"
         },
@@ -124,16 +144,6 @@
           "wordCount": 17,
           "title": "NFT.com",
           "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
-          "author": null,
-          "description": "5 Things I Learned from ETH Amsterdam [LITE]",
-          "link": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
-          "publishedOn": "2022-04-26T03:30:02.000Z",
-          "wordCount": 2625,
-          "title": "5 Things I Learned from ETH Amsterdam [LITE]",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb97d7e79-9b25-4237-b0ed-ca97b7c51ee8_1090x610.png"
         },
         {
           "id": "https://signingdevice.com/",
@@ -184,16 +194,6 @@
           "wordCount": 1371,
           "title": "Three counterintuitive lessons from a crypto investoooor",
           "imageUrl": null
-        },
-        {
-          "id": "https://dune.com/blog/flashbots-data",
-          "author": null,
-          "description": "Flashbots MEV data is live on Dune!",
-          "link": "https://dune.com/blog/flashbots-data",
-          "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 346,
-          "title": "Flashbots MEV data is live on Dune!",
-          "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/a6c8534e9798cb9d263540f919da18239fad8d93-1280x720.png?w=1200&fm=jpg"
         },
         {
           "id": "https://cryptoslate.com/internal-documents-show-eu-policy-makers-want-to-push-ethereum-over-bitcoin/",
