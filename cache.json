@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nft.com/",
+          "author": null,
+          "description": "NFT.com",
+          "link": "https://www.nft.com/",
+          "publishedOn": "2022-04-26T05:00:02.000Z",
+          "wordCount": 17,
+          "title": "NFT.com",
+          "imageUrl": null
+        },
+        {
           "id": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
           "author": null,
           "description": "5 Things I Learned from ETH Amsterdam [LITE]",
@@ -46,16 +56,6 @@
           "imageUrl": "https://somethingisbrewing.xyz/assets/dock.jpg"
         },
         {
-          "id": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/crypto-becomes-lifeline-for-russian-emigres-opposing-putins-war-in-ukraine/",
-          "author": null,
-          "description": "Crypto Becomes Lifeline for Russian Emigrés Opposing Putin’s War in Ukraine",
-          "link": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/crypto-becomes-lifeline-for-russian-emigres-opposing-putins-war-in-ukraine/",
-          "publishedOn": "2022-04-26T01:00:03.000Z",
-          "wordCount": 3396,
-          "title": "Crypto Becomes Lifeline for Russian Emigrés Opposing Putin’s War in Ukraine",
-          "imageUrl": "https://www.coindesk.com/resizer/3EM1sQsCPX-PHeWG0kqd3oHHPso=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ASVRWH2SVBFSPGTTSABDEWBBOA.jpg"
-        },
-        {
           "id": "https://web3isgoinggreat.com/?id=ftx-founder-sam-bankman-fried-tries-to-explain-yield-farming-and-its-just-a-ponzi",
           "author": null,
           "description": "FTX founder Sam Bankman-Fried tries to explain yield farming and it's just a ponzi",
@@ -64,6 +64,16 @@
           "wordCount": 1982,
           "title": "FTX founder Sam Bankman-Fried tries to explain yield farming and it's just a ponzi",
           "imageUrl": "https://storage.googleapis.com/primary-web3/entryImages/resized/sambankmanfried_500.webp"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
+          "author": null,
+          "description": "Twitter Employees Search for Answers as Musk Deal Takes Shape",
+          "link": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
+          "publishedOn": "2022-04-26T01:00:03.000Z",
+          "wordCount": 1763,
+          "title": "Twitter Employees Search for Answers as Musk Deal Takes Shape",
+          "imageUrl": "https://static01.nyt.com/images/2022/04/26/business/25JPinside-twitter1-print/25inside-twitter1-facebookJumbo.jpg"
         },
         {
           "id": "https://www.theverge.com/2022/4/25/23028323/elon-musk-twitter-offer-buyout-hostile-takeover-ownership?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
@@ -86,16 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/@jpegd/jpegd-protocol-launch-e255f32546bb",
-          "author": null,
-          "description": "JPEG’d Protocol Launch",
-          "link": "https://medium.com/@jpegd/jpegd-protocol-launch-e255f32546bb",
-          "publishedOn": "2022-04-25T23:00:05.000Z",
-          "wordCount": 811,
-          "title": "JPEG’d Protocol Launch",
-          "imageUrl": "https://miro.medium.com/max/1200/1*8sZqovsN7fBj6vc9A6mAXQ.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ZfKsvV9pHy0&feature=youtu.be",
           "author": null,
           "description": "1v1 | $50,000 NFT Collection Competition",
@@ -106,12 +106,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://medium.com/@jpegd/jpegd-protocol-launch-e255f32546bb",
+          "author": null,
+          "description": "JPEG’d Protocol Launch",
+          "link": "https://medium.com/@jpegd/jpegd-protocol-launch-e255f32546bb",
+          "publishedOn": "2022-04-25T23:00:05.000Z",
+          "wordCount": 811,
+          "title": "JPEG’d Protocol Launch",
+          "imageUrl": "https://miro.medium.com/max/1200/1*8sZqovsN7fBj6vc9A6mAXQ.png"
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
           "author": null,
           "description": "Elon Musk to Acquire Twitter",
           "link": "https://www.prnewswire.com/news-releases/elon-musk-to-acquire-twitter-301532245.html",
           "publishedOn": "2022-04-25T23:00:04.000Z",
-          "wordCount": 2374,
+          "wordCount": 2414,
           "title": "Elon Musk to Acquire Twitter",
           "imageUrl": null
         },
@@ -171,7 +181,7 @@
           "description": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "link": "https://nypost.com/2022/04/25/twitter-set-to-accept-elon-musks-43-billion-offer-report/?utm_source=nypbusinesstwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-04-25T15:00:01.000Z",
-          "wordCount": 1379,
+          "wordCount": 1377,
           "title": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/04/elon-musk-twitter-account-logo.jpg?quality=75&strip=all&w=1024"
         },
@@ -191,19 +201,9 @@
           "description": "Crypto Industry Can’t Hire Enough Lawyers",
           "link": "https://www.wsj.com/articles/crypto-industry-cant-hire-enough-lawyers-11650879002?mod=rss_Technology&utm_source=ChristianVentureCapital%40ChristianVC.com&utm_medium=twitter",
           "publishedOn": "2022-04-25T13:00:05.000Z",
-          "wordCount": 2240,
+          "wordCount": 2243,
           "title": "Crypto Industry Can’t Hire Enough Lawyers",
           "imageUrl": "https://images.wsj.net/im-529955/social"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/chinese-stocks-crash-covid-plunges-country-darkest-moment-decades",
-          "author": null,
-          "description": "Chinese Stocks, Yuan, Commodities Crash As Covid Plunges Country Into \"Darkest Moment In Decades\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/chinese-stocks-crash-covid-plunges-country-darkest-moment-decades",
-          "publishedOn": "2022-04-25T11:00:03.000Z",
-          "wordCount": 1535,
-          "title": "Chinese Stocks, Yuan, Commodities Crash As Covid Plunges Country Into \"Darkest Moment In Decades\" | ZeroHedge",
-          "imageUrl": null
         }
       ]
     }
