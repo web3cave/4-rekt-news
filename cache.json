@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://signingdevice.com/",
+          "author": null,
+          "description": "Bitcoin Signing Device - Because 'wallet' is too confusing",
+          "link": "https://signingdevice.com/",
+          "publishedOn": "2022-04-26T03:00:06.000Z",
+          "wordCount": 55,
+          "title": "Bitcoin Signing Device - Because 'wallet' is too confusing",
+          "imageUrl": "https://signingdevice.com/bitcoin-signing-device.png"
+        },
+        {
           "id": "https://otherside.xyz/",
           "author": null,
           "description": "Otherside",
@@ -31,7 +41,7 @@
           "description": "Crypto Becomes Lifeline for Russian Emigrés Opposing Putin’s War in Ukraine",
           "link": "https://www.coindesk.com/layer2/paymentsweek/2022/04/25/crypto-becomes-lifeline-for-russian-emigres-opposing-putins-war-in-ukraine/",
           "publishedOn": "2022-04-26T01:00:03.000Z",
-          "wordCount": 3410,
+          "wordCount": 3395,
           "title": "Crypto Becomes Lifeline for Russian Emigrés Opposing Putin’s War in Ukraine",
           "imageUrl": "https://www.coindesk.com/resizer/3EM1sQsCPX-PHeWG0kqd3oHHPso=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ASVRWH2SVBFSPGTTSABDEWBBOA.jpg"
         },
@@ -46,22 +56,12 @@
           "imageUrl": "https://storage.googleapis.com/primary-web3/entryImages/resized/sambankmanfried_500.webp"
         },
         {
-          "id": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
-          "author": null,
-          "description": "Twitter Employees Search for Answers as Musk Deal Takes Shape",
-          "link": "https://www.nytimes.com/2022/04/25/technology/twitter-employees-elon-musk.html",
-          "publishedOn": "2022-04-26T01:00:03.000Z",
-          "wordCount": 1764,
-          "title": "Twitter Employees Search for Answers as Musk Deal Takes Shape",
-          "imageUrl": "https://static01.nyt.com/images/2022/04/26/business/25JPinside-twitter1-print/25inside-twitter1-facebookJumbo.jpg"
-        },
-        {
           "id": "https://www.theverge.com/2022/4/25/23028323/elon-musk-twitter-offer-buyout-hostile-takeover-ownership?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
           "author": null,
           "description": "Twitter accepts buyout, giving Elon Musk total control of the company",
           "link": "https://www.theverge.com/2022/4/25/23028323/elon-musk-twitter-offer-buyout-hostile-takeover-ownership?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
           "publishedOn": "2022-04-25T23:00:05.000Z",
-          "wordCount": 919,
+          "wordCount": 924,
           "title": "Twitter accepts buyout, giving Elon Musk total control of the company",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/f7GH6yYL-k_yyIeykrCIxGqhYYY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23390587/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "Internal documents show EU policy makers want to push Ethereum over Bitcoin | CryptoSlate",
           "link": "https://cryptoslate.com/internal-documents-show-eu-policy-makers-want-to-push-ethereum-over-bitcoin/",
           "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 3033,
+          "wordCount": 3029,
           "title": "Internal documents show EU policy makers want to push Ethereum over Bitcoin | CryptoSlate",
           "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/04/image_2022-04-25_165010037.png"
         },
@@ -161,7 +161,7 @@
           "description": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "link": "https://nypost.com/2022/04/25/twitter-set-to-accept-elon-musks-43-billion-offer-report/?utm_source=nypbusinesstwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-04-25T15:00:01.000Z",
-          "wordCount": 1379,
+          "wordCount": 1380,
           "title": "Twitter set to accept Elon Musk's $43 billion offer: report",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/04/elon-musk-twitter-account-logo.jpg?quality=75&strip=all&w=1024"
         },
@@ -181,7 +181,7 @@
           "description": "Crypto Industry Can’t Hire Enough Lawyers",
           "link": "https://www.wsj.com/articles/crypto-industry-cant-hire-enough-lawyers-11650879002?mod=rss_Technology&utm_source=ChristianVentureCapital%40ChristianVC.com&utm_medium=twitter",
           "publishedOn": "2022-04-25T13:00:05.000Z",
-          "wordCount": 2194,
+          "wordCount": 2170,
           "title": "Crypto Industry Can’t Hire Enough Lawyers",
           "imageUrl": "https://images.wsj.net/im-529955/social"
         },
