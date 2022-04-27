@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.rohki.xyz/",
+          "author": null,
+          "description": "RŌHKI | Home",
+          "link": "https://www.rohki.xyz/",
+          "publishedOn": "2022-04-27T04:00:03.000Z",
+          "wordCount": 3,
+          "title": "RŌHKI | Home",
+          "imageUrl": "https://rohki.xyz/images/favicons/facebook.jpg"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
+          "author": null,
+          "description": "5 Things I Learned from ETH Amsterdam [LITE]",
+          "link": "https://newsletter.banklesshq.com/p/5-things-i-learned-from-eth-amsterdam-e4d?s=w",
+          "publishedOn": "2022-04-27T03:30:03.000Z",
+          "wordCount": 2625,
+          "title": "5 Things I Learned from ETH Amsterdam [LITE]",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb97d7e79-9b25-4237-b0ed-ca97b7c51ee8_1090x610.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bKVIfJIhS1o",
+          "author": null,
+          "description": "Introducing: The Optimism Collective & $OP Airdrop #1",
+          "link": "https://www.youtube.com/watch?v=bKVIfJIhS1o",
+          "publishedOn": "2022-04-27T03:30:02.000Z",
+          "wordCount": null,
+          "title": "Introducing: The Optimism Collective & $OP Airdrop #1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/danfinlay/eip712-codegen#readme",
+          "author": null,
+          "description": "GitHub - danfinlay/eip712-codegen: A utility for generating Solidity code for recovering signatures using the EIP-712...",
+          "link": "https://github.com/danfinlay/eip712-codegen#readme",
+          "publishedOn": "2022-04-27T03:00:04.000Z",
+          "wordCount": 1013,
+          "title": "GitHub - danfinlay/eip712-codegen: A utility for generating Solidity code for recovering signatures using the EIP-712...",
+          "imageUrl": "https://opengraph.githubassets.com/02f9e5bb99951d856d5e10566f9e99547d650711783d9d3acdae6ae0a1736e08/danfinlay/eip712-codegen"
+        },
+        {
+          "id": "https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50",
+          "author": null,
+          "description": "The Doom Loop",
+          "link": "https://cryptohayes.medium.com/the-doom-loop-161a42bbcd50",
+          "publishedOn": "2022-04-27T03:00:03.000Z",
+          "wordCount": 6990,
+          "title": "The Doom Loop",
+          "imageUrl": "https://miro.medium.com/max/400/0*Sw7A0kuMQZb7Q1n3"
+        },
+        {
           "id": "https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country",
           "author": null,
           "description": "Understanding when content is withheld based on country",
@@ -46,22 +96,12 @@
           "imageUrl": "http://static1.squarespace.com/static/53fe4a70e4b0a2293ab0e42a/t/626852291beffb4da7d0d892/1651003964995/RH+Green+Blog+Header.png?format=1500w"
         },
         {
-          "id": "https://www.utopialabs.com/",
-          "author": null,
-          "description": "Utopia: Payroll and Payments for DAOs",
-          "link": "https://www.utopialabs.com/",
-          "publishedOn": "2022-04-26T22:00:04.000Z",
-          "wordCount": 317,
-          "title": "Utopia: Payroll and Payments for DAOs",
-          "imageUrl": "https://uploads-ssl.webflow.com/61eef7e255cda64fcba61367/61f7743d6f70e03d2ee5d627_Hero.png"
-        },
-        {
           "id": "https://blog.0x.org/0x-labs-raises-70m-series-b/",
           "author": null,
           "description": "0x Labs raises $70M Series B led by Greylock to continue expanding Web3’s core exchange infrastructure",
           "link": "https://blog.0x.org/0x-labs-raises-70m-series-b/",
           "publishedOn": "2022-04-26T21:00:03.000Z",
-          "wordCount": 708,
+          "wordCount": 710,
           "title": "0x Labs raises $70M Series B led by Greylock to continue expanding Web3’s core exchange infrastructure",
           "imageUrl": "https://blog.0x.org/content/images/2022/04/0x-Greylock-SeriesB-1.png"
         },
@@ -106,22 +146,12 @@
           "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/23975470/23975470-1650990163601-83d9ddf561fa3.jpg"
         },
         {
-          "id": "https://www.onet.pl/",
-          "author": null,
-          "description": "Onet – Jesteś na bieżąco",
-          "link": "https://www.onet.pl/",
-          "publishedOn": "2022-04-26T17:30:04.000Z",
-          "wordCount": 3851,
-          "title": "Onet – Jesteś na bieżąco",
-          "imageUrl": "https://ocdn.eu/images/pulscms/OWU7MDA_/20ec3038d7c7d1637e04da3395de954d.png"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "author": null,
           "description": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "link": "https://www.coindesk.com/business/2022/04/21/defi-data-shop-nansen-makes-first-vc-investment-in-gaming-analytics-firm-zerodrop/",
           "publishedOn": "2022-04-26T17:00:03.000Z",
-          "wordCount": 932,
+          "wordCount": 975,
           "title": "DeFi Data Shop Nansen Makes First VC Investment in Gaming Analytics Firm ZeroDrop",
           "imageUrl": "https://www.coindesk.com/resizer/1Qq009qQiaSa1CCsM2moCBi_AaE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CMRRCLH7PFGXDLKH7JBFMYUDNA.jpeg"
         },
@@ -141,7 +171,7 @@
           "description": "EU warns Elon Musk over Twitter moderation plans",
           "link": "https://www.ft.com/content/22f66209-f5b2-4476-8cdb-de4befffebe5",
           "publishedOn": "2022-04-26T15:00:03.000Z",
-          "wordCount": 1046,
+          "wordCount": 1056,
           "title": "EU warns Elon Musk over Twitter moderation plans",
           "imageUrl": null
         },
@@ -161,19 +191,9 @@
           "description": "Fidelity to Allow Retirement Savers to Put Bitcoin in 401(k) Accounts",
           "link": "https://www.wsj.com/articles/fidelity-to-allow-retirement-savers-to-put-bitcoin-in-401-k-accounts-11650945661",
           "publishedOn": "2022-04-26T07:00:03.000Z",
-          "wordCount": 875,
+          "wordCount": 876,
           "title": "Fidelity to Allow Retirement Savers to Put Bitcoin in 401(k) Accounts",
           "imageUrl": "https://images.wsj.net/im-531168/social"
-        },
-        {
-          "id": "https://otherside.xyz/",
-          "author": null,
-          "description": "Otherside",
-          "link": "https://otherside.xyz/",
-          "publishedOn": "2022-04-26T01:30:03.000Z",
-          "wordCount": 8,
-          "title": "Otherside",
-          "imageUrl": "https://otherside.xyz/social-share.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=ZfKsvV9pHy0&feature=youtu.be",
@@ -184,26 +204,6 @@
           "wordCount": null,
           "title": "1v1 | $50,000 NFT Collection Competition",
           "imageUrl": null
-        },
-        {
-          "id": "https://showerthoughts.substack.com/p/three-counterintuitive-lessons-from?s=w",
-          "author": null,
-          "description": "Three counterintuitive lessons from a crypto investoooor",
-          "link": "https://showerthoughts.substack.com/p/three-counterintuitive-lessons-from?s=w",
-          "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 1371,
-          "title": "Three counterintuitive lessons from a crypto investoooor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptoslate.com/internal-documents-show-eu-policy-makers-want-to-push-ethereum-over-bitcoin/",
-          "author": null,
-          "description": "Internal documents show EU policy makers want to push Ethereum over Bitcoin | CryptoSlate",
-          "link": "https://cryptoslate.com/internal-documents-show-eu-policy-makers-want-to-push-ethereum-over-bitcoin/",
-          "publishedOn": "2022-04-25T19:00:02.000Z",
-          "wordCount": 3043,
-          "title": "Internal documents show EU policy makers want to push Ethereum over Bitcoin | CryptoSlate",
-          "imageUrl": "https://cryptoslate.com/wp-content/uploads/2022/04/image_2022-04-25_165010037.png"
         }
       ]
     }
