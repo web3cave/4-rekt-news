@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://tornado.cash/",
+          "author": null,
+          "description": "Tornado.Cash",
+          "link": "https://tornado.cash/",
+          "publishedOn": "2022-04-30T18:00:06.000Z",
+          "wordCount": 3,
+          "title": "Tornado.Cash",
+          "imageUrl": "https://tornado.cash/tw.png"
+        },
+        {
           "id": "https://l2beat.com/",
           "author": null,
           "description": "L2BEAT – The state of the layer two ecosystem",
@@ -14,16 +24,6 @@
           "wordCount": 507,
           "title": "L2BEAT – The state of the layer two ecosystem",
           "imageUrl": "https://l2beat.com/meta-images/overview.png"
-        },
-        {
-          "id": "https://121g.fund/",
-          "author": null,
-          "description": "1.21 Gigawatts Fund",
-          "link": "https://121g.fund/",
-          "publishedOn": "2022-04-30T17:00:03.000Z",
-          "wordCount": 213,
-          "title": "1.21 Gigawatts Fund",
-          "imageUrl": "card.png"
         },
         {
           "id": "https://www.theblockcrypto.com/news+/144505/solana-labs-gajesh-naik-14-year-old-intern-interview",
@@ -121,7 +121,7 @@
           "description": "Nowhere to Hide - The Irrelevant Investor",
           "link": "https://theirrelevantinvestor.com/2022/04/29/nowhere-to-hide/",
           "publishedOn": "2022-04-30T05:00:02.000Z",
-          "wordCount": 641,
+          "wordCount": 639,
           "title": "Nowhere to Hide - The Irrelevant Investor",
           "imageUrl": "https://theirrelevantinvestor.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-29-at-9.26.03-AM.png"
         },
@@ -141,7 +141,7 @@
           "description": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "link": "https://www.coindesk.com/layer2/2022/04/29/juno-blockchain-community-officially-votes-to-revoke-whales-tokens/",
           "publishedOn": "2022-04-30T03:00:07.000Z",
-          "wordCount": 1825,
+          "wordCount": 1823,
           "title": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "imageUrl": "https://www.coindesk.com/resizer/H112VLbsgGSdV_N0j7i-yPdtPVg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ACYPTQOV2NAFJKBOEHX4L4IDDA.jpg"
         },
