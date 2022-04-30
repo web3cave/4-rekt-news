@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://l2beat.com/",
+          "author": null,
+          "description": "L2BEAT – The state of the layer two ecosystem",
+          "link": "https://l2beat.com/",
+          "publishedOn": "2022-04-30T17:00:03.000Z",
+          "wordCount": 507,
+          "title": "L2BEAT – The state of the layer two ecosystem",
+          "imageUrl": "https://l2beat.com/meta-images/overview.png"
+        },
+        {
+          "id": "https://121g.fund/",
+          "author": null,
+          "description": "1.21 Gigawatts Fund",
+          "link": "https://121g.fund/",
+          "publishedOn": "2022-04-30T17:00:03.000Z",
+          "wordCount": 213,
+          "title": "1.21 Gigawatts Fund",
+          "imageUrl": "card.png"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/news+/144505/solana-labs-gajesh-naik-14-year-old-intern-interview",
+          "author": null,
+          "description": "A conversation with Solana's new 14-year-old intern, Gajesh Naik",
+          "link": "https://www.theblockcrypto.com/news+/144505/solana-labs-gajesh-naik-14-year-old-intern-interview",
+          "publishedOn": "2022-04-30T17:00:02.000Z",
+          "wordCount": 702,
+          "title": "A conversation with Solana's new 14-year-old intern, Gajesh Naik",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220429_Gajesh-Naik.jpg"
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/144187/coinfund-executives-explain-why-crypto-is-the-obvious-choice-for-ambitious-fintech-pioneers",
           "author": null,
           "description": "CoinFund executives explain why crypto is the ‘obvious’ choice for ambitious fintech pioneers",
           "link": "https://www.theblockcrypto.com/post/144187/coinfund-executives-explain-why-crypto-is-the-obvious-choice-for-ambitious-fintech-pioneers",
           "publishedOn": "2022-04-30T15:00:06.000Z",
-          "wordCount": 1282,
+          "wordCount": 1293,
           "title": "CoinFund executives explain why crypto is the ‘obvious’ choice for ambitious fintech pioneers",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220428_TheScoop_Jake-Chris-16x9-1.jpg"
         },
@@ -61,7 +91,7 @@
           "description": "Proposal to Whitelist Abracadabra mCRV Voter Contract",
           "link": "https://gov.curve.fi/t/proposal-to-whitelist-abracadabra-mcrv-voter-contract/3828",
           "publishedOn": "2022-04-30T13:00:03.000Z",
-          "wordCount": 921,
+          "wordCount": 996,
           "title": "Proposal to Whitelist Abracadabra mCRV Voter Contract",
           "imageUrl": "https://gov.curve.fi/uploads/default/original/1X/b3c44b8f2b39bda0bab371aca00525f1ee0f9923.png"
         },
@@ -86,22 +116,12 @@
           "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
         },
         {
-          "id": "https://medium.com/paragonsdao/the-polls-are-open-c6bed85c31e8",
-          "author": null,
-          "description": "The polls are open!",
-          "link": "https://medium.com/paragonsdao/the-polls-are-open-c6bed85c31e8",
-          "publishedOn": "2022-04-30T09:30:03.000Z",
-          "wordCount": 387,
-          "title": "The polls are open!",
-          "imageUrl": "https://miro.medium.com/max/1200/0*JRe-nho6wOAogGWL.png"
-        },
-        {
           "id": "https://theirrelevantinvestor.com/2022/04/29/nowhere-to-hide/",
           "author": null,
           "description": "Nowhere to Hide - The Irrelevant Investor",
           "link": "https://theirrelevantinvestor.com/2022/04/29/nowhere-to-hide/",
           "publishedOn": "2022-04-30T05:00:02.000Z",
-          "wordCount": 633,
+          "wordCount": 641,
           "title": "Nowhere to Hide - The Irrelevant Investor",
           "imageUrl": "https://theirrelevantinvestor.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-29-at-9.26.03-AM.png"
         },
@@ -116,34 +136,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*Q1ZRtzSrOZAcbWTSi_K6dA.png"
         },
         {
-          "id": "https://axie.substack.com/p/introducing-axie-irl-community-meetup",
-          "author": null,
-          "description": "Introducing Axie IRL: Community Meetup Grants",
-          "link": "https://axie.substack.com/p/introducing-axie-irl-community-meetup",
-          "publishedOn": "2022-04-30T03:30:02.000Z",
-          "wordCount": 487,
-          "title": "Introducing Axie IRL: Community Meetup Grants",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F396c1ce5-a075-4eeb-9184-dbc01cdd1f0d_1602x1068.jpeg"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/04/29/juno-blockchain-community-officially-votes-to-revoke-whales-tokens/",
           "author": null,
           "description": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "link": "https://www.coindesk.com/layer2/2022/04/29/juno-blockchain-community-officially-votes-to-revoke-whales-tokens/",
           "publishedOn": "2022-04-30T03:00:07.000Z",
-          "wordCount": 1829,
+          "wordCount": 1825,
           "title": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "imageUrl": "https://www.coindesk.com/resizer/H112VLbsgGSdV_N0j7i-yPdtPVg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ACYPTQOV2NAFJKBOEHX4L4IDDA.jpg"
-        },
-        {
-          "id": "https://info.genesistrading.com/hubfs/quarterly-reports/2022/Genesis-Q1-Report-2022.pdf",
-          "author": null,
-          "description": "[PDF] Genesis-Q1-Report-2022.pdf",
-          "link": "https://info.genesistrading.com/hubfs/quarterly-reports/2022/Genesis-Q1-Report-2022.pdf",
-          "publishedOn": "2022-04-30T01:00:03.000Z",
-          "wordCount": 37947,
-          "title": "[PDF] Genesis-Q1-Report-2022.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://newsletter.thedefiant.io/p/-defi-alpha-ultimate-guide-to-optimism",
