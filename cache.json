@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://optimism.instadapp.io/",
+          "author": null,
+          "description": "Instadapp - Optimism",
+          "link": "https://optimism.instadapp.io/",
+          "publishedOn": "2022-04-30T23:00:04.000Z",
+          "wordCount": 8,
+          "title": "Instadapp - Optimism",
+          "imageUrl": null
+        },
+        {
           "id": "https://prestonbyrne.com/2019/03/22/on_open-access-publishing-platforms-and-unlawful-threats/",
           "author": null,
           "description": "Open access publishing platforms and unlawful threats",
@@ -34,16 +44,6 @@
           "wordCount": 15,
           "title": "Dan's Crypto Talks - YouTube",
           "imageUrl": "https://i.ytimg.com/vi/-SMliFtoPn8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCr4BfH66N7YtYRMF50lS6hO2xgAw&days_since_epoch=19112"
-        },
-        {
-          "id": "https://thedefiant.io/superrare-gallery-soho/",
-          "author": null,
-          "description": "SuperRare is Coming to SoHo - The Defiant",
-          "link": "https://thedefiant.io/superrare-gallery-soho/",
-          "publishedOn": "2022-04-30T19:30:03.000Z",
-          "wordCount": 744,
-          "title": "SuperRare is Coming to SoHo - The Defiant",
-          "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/04/SuperRareSoHo.jpg&nocache=1"
         },
         {
           "id": "https://tornado.cash/",
@@ -121,7 +121,7 @@
           "description": "Proposal to Whitelist Abracadabra mCRV Voter Contract",
           "link": "https://gov.curve.fi/t/proposal-to-whitelist-abracadabra-mcrv-voter-contract/3828",
           "publishedOn": "2022-04-30T13:00:03.000Z",
-          "wordCount": 1302,
+          "wordCount": 1304,
           "title": "Proposal to Whitelist Abracadabra mCRV Voter Contract",
           "imageUrl": "https://gov.curve.fi/uploads/default/original/1X/b3c44b8f2b39bda0bab371aca00525f1ee0f9923.png"
         },
@@ -151,7 +151,7 @@
           "description": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "link": "https://www.coindesk.com/layer2/2022/04/29/juno-blockchain-community-officially-votes-to-revoke-whales-tokens/",
           "publishedOn": "2022-04-30T03:00:07.000Z",
-          "wordCount": 1823,
+          "wordCount": 1844,
           "title": "Juno Blockchain Community Officially Votes to Revoke Whale’s Tokens",
           "imageUrl": "https://www.coindesk.com/resizer/H112VLbsgGSdV_N0j7i-yPdtPVg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ACYPTQOV2NAFJKBOEHX4L4IDDA.jpg"
         },
