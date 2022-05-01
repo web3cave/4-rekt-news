@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-01T11:17:54.215Z</id>
+    <id>urn:2022-05-01T12:36:37.866Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-01T11:17:54.215Z</updated>
+    <updated>2022-05-01T12:36:37.866Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Replace transfer with call.value in CEther.doTransferOut · Rari-Capital/compound-protocol@7acb8df]]></title>
+        <id>https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da</id>
+        <link href="https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da"/>
+        <updated>2022-05-01T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Replace transfer with call.value in CEther.doTransferOut · Rari-Capital/compound-protocol@7acb8df]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enter the Otherside]]></title>
         <id>https://otherside.xyz/license</id>
@@ -191,16 +201,6 @@
         <link href="https://otherside.xyz/"/>
         <updated>2022-04-30T14:30:04.000Z</updated>
         <summary type="html"><![CDATA[Otherside]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Says It Would "Strongly Support" Finland & Sweden NATO Membership | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/geopolitical/white-house-says-it-would-strongly-support-finland-sweden-nato-membership</id>
-        <link href="https://www.zerohedge.com/geopolitical/white-house-says-it-would-strongly-support-finland-sweden-nato-membership"/>
-        <updated>2022-04-30T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[White House Says It Would "Strongly Support" Finland & Sweden NATO Membership | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
