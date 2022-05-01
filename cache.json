@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.defisaver.com/",
+          "author": null,
+          "description": "DeFi Saver - Next generation DeFi management dashboard",
+          "link": "https://app.defisaver.com/",
+          "publishedOn": "2022-05-01T19:30:03.000Z",
+          "wordCount": 2,
+          "title": "DeFi Saver - Next generation DeFi management dashboard",
+          "imageUrl": "https://app.defisaver.com/assets/images/share-thumbnail-2020.png"
+        },
+        {
+          "id": "https://github.com/transmissions11/levm",
+          "author": null,
+          "description": "GitHub - transmissions11/levm: Lightweight Lua EVM",
+          "link": "https://github.com/transmissions11/levm",
+          "publishedOn": "2022-05-01T19:30:03.000Z",
+          "wordCount": 369,
+          "title": "GitHub - transmissions11/levm: Lightweight Lua EVM",
+          "imageUrl": "https://opengraph.githubassets.com/b4c54885e4c8ed7d657878a1eb94cb7cb60c35367dcb62cfe04a686243f141fc/transmissions11/levm"
+        },
+        {
+          "id": "https://github.com/partylikeits1983/num_complex_solidity",
+          "author": null,
+          "description": "GitHub - partylikeits1983/num_complex_solidity: Complex numbers for Solidity",
+          "link": "https://github.com/partylikeits1983/num_complex_solidity",
+          "publishedOn": "2022-05-01T19:30:03.000Z",
+          "wordCount": 571,
+          "title": "GitHub - partylikeits1983/num_complex_solidity: Complex numbers for Solidity",
+          "imageUrl": "https://opengraph.githubassets.com/45cb156c5c91d0dfc3c31d4e9395eea3b4536c18ad03a21b82771feb97178938/partylikeits1983/num_complex_solidity"
+        },
+        {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "author": null,
           "description": "EIP-5065 Instruction for transferring ether",
           "link": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "publishedOn": "2022-05-01T15:30:03.000Z",
-          "wordCount": 660,
+          "wordCount": 869,
           "title": "EIP-5065 Instruction for transferring ether",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997",
-          "author": null,
-          "description": "Why I am Betting against TerraUSD",
-          "link": "https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997",
-          "publishedOn": "2022-05-01T14:00:04.000Z",
-          "wordCount": 3033,
-          "title": "Why I am Betting against TerraUSD",
-          "imageUrl": "https://miro.medium.com/focal/1200/632/43/42/1*feihNgVkbHsKX379KieeHA.jpeg"
         },
         {
           "id": "https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da",
@@ -63,7 +83,7 @@
           "publishedOn": "2022-05-01T09:30:02.000Z",
           "wordCount": 1210,
           "title": "matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth",
-          "imageUrl": "https://opengraph.githubassets.com/08ed3c158651d6d28b8df666a951a172488374bc4fa8ee909eb48d3188f6a959/danfinlay/matt-auction-scaffold-eth"
+          "imageUrl": "https://opengraph.githubassets.com/4029211028eb137f0c8ec0ee660d796cea1e06f3eccad8bf224a1f46dbf8125c/danfinlay/matt-auction-scaffold-eth"
         },
         {
           "id": "https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef",
@@ -76,16 +96,6 @@
           "imageUrl": "https://arbiscan.io/images/brandassets/arbiscan-logo-circle.jpg"
         },
         {
-          "id": "https://stark.mirror.xyz/8VPxOqJu1UZDDBTn4sxctshFdaZPTFuFRGoat2UJOw8",
-          "author": null,
-          "description": "Pong, not Programs",
-          "link": "https://stark.mirror.xyz/8VPxOqJu1UZDDBTn4sxctshFdaZPTFuFRGoat2UJOw8",
-          "publishedOn": "2022-05-01T06:30:02.000Z",
-          "wordCount": 1103,
-          "title": "Pong, not Programs",
-          "imageUrl": "https://images.mirror-media.xyz/publication-images/acb1f3aa-490b-4898-864b-3024ec0cdc8a.png?height=512&width=512"
-        },
-        {
           "id": "https://vitalik.ca/general/2021/08/22/prices.html",
           "author": null,
           "description": "Alternatives to selling at below-market-clearing prices for achieving fairness (or community sentiment, or fun)",
@@ -94,6 +104,16 @@
           "wordCount": 2712,
           "title": "Alternatives to selling at below-market-clearing prices for achieving fairness (or community sentiment, or fun)",
           "imageUrl": null
+        },
+        {
+          "id": "https://semaji.substack.com/p/in-the-long-run-we-are-all-dead-the?utm_source=twitter",
+          "author": null,
+          "description": "In the Long Run, We Are All Dead: The Fate of Passive Retail Liquidity Provision in Uniswap v3",
+          "link": "https://semaji.substack.com/p/in-the-long-run-we-are-all-dead-the?utm_source=twitter",
+          "publishedOn": "2022-05-01T06:00:03.000Z",
+          "wordCount": 6913,
+          "title": "In the Long Run, We Are All Dead: The Fate of Passive Retail Liquidity Provision in Uniswap v3",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4fa9b1c-86d5-477b-bd25-f6411f2c05d6_676x690.png"
         },
         {
           "id": "https://watchtheburn.com/",
@@ -143,7 +163,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/0029fb0eff996be290de3f79b76c4e12b4cc6b3d8b25e99de1d90b52fc5a31bb/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/7d76cfefdec23d49cc998b9f1a4d027242651c46d0acf188b69ea4199395280b/Anish-Agnihotri/flashside"
         },
         {
           "id": "https://optimism.instadapp.io/",
@@ -166,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://boards.greenhouse.io/dydx/jobs/6090412002",
-          "author": null,
-          "description": "Chief of Staff (NYC Required)",
-          "link": "https://boards.greenhouse.io/dydx/jobs/6090412002",
-          "publishedOn": "2022-04-30T23:00:03.000Z",
-          "wordCount": 1324,
-          "title": "Chief of Staff (NYC Required)",
-          "imageUrl": "https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/446/400/original/profile.png?1614270288"
-        },
-        {
           "id": "https://l2beat.com/",
           "author": null,
           "description": "L2BEAT – The state of the layer two ecosystem",
@@ -194,16 +204,6 @@
           "wordCount": 723,
           "title": "Otherside",
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
-          "author": null,
-          "description": "Disaggregated blockchain layers & evading socioeconomic fragment…",
-          "link": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
-          "publishedOn": "2022-04-30T11:30:03.000Z",
-          "wordCount": 935,
-          "title": "Disaggregated blockchain layers & evading socioeconomic fragment…",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
         }
       ]
     }
