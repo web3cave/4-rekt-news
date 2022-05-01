@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
+          "author": null,
+          "description": "Conserving Crypto Culture",
+          "link": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
+          "publishedOn": "2022-05-01T21:00:03.000Z",
+          "wordCount": 1409,
+          "title": "Conserving Crypto Culture",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5369a4de-295a-4744-9142-a6c84babda8c_612x408.jpeg"
+        },
+        {
           "id": "https://arxiv.org/pdf/1702.02867.pdf",
           "author": null,
           "description": "[PDF] 1702.02867.pdf",
@@ -31,7 +41,7 @@
           "description": "GitHub - transmissions11/levm: Lightweight Lua EVM",
           "link": "https://github.com/transmissions11/levm",
           "publishedOn": "2022-05-01T19:30:03.000Z",
-          "wordCount": 336,
+          "wordCount": 369,
           "title": "GitHub - transmissions11/levm: Lightweight Lua EVM",
           "imageUrl": "https://opengraph.githubassets.com/b4c54885e4c8ed7d657878a1eb94cb7cb60c35367dcb62cfe04a686243f141fc/transmissions11/levm"
         },
@@ -44,6 +54,16 @@
           "wordCount": 869,
           "title": "EIP-5065 Instruction for transferring ether",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
+        },
+        {
+          "id": "https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997",
+          "author": null,
+          "description": "Why I am Betting against TerraUSD",
+          "link": "https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997",
+          "publishedOn": "2022-05-01T14:00:04.000Z",
+          "wordCount": 3033,
+          "title": "Why I am Betting against TerraUSD",
+          "imageUrl": "https://miro.medium.com/focal/1200/632/43/42/1*feihNgVkbHsKX379KieeHA.jpeg"
         },
         {
           "id": "https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da",
@@ -91,7 +111,7 @@
           "description": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "link": "https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef",
           "publishedOn": "2022-05-01T07:30:04.000Z",
-          "wordCount": 2209,
+          "wordCount": 2211,
           "title": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "imageUrl": "https://arbiscan.io/images/brandassets/arbiscan-logo-circle.jpg"
         },
@@ -163,7 +183,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/c48dfaad37a57886555f1ffbbe9b40a240459f00f1ee0022eb23bd05e0ef7f2e/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/0857e27feb8a5169b12b011ad3d5541630bfdd44844f2d0cd75a6823118f8a5c/Anish-Agnihotri/flashside"
         },
         {
           "id": "https://www.reddit.com/r/Bitcoin/comments/2zgmbo/berkshire_hathaways_portfolio/",
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://l2beat.com/",
-          "author": null,
-          "description": "L2BEAT – The state of the layer two ecosystem",
-          "link": "https://l2beat.com/",
-          "publishedOn": "2022-04-30T17:00:03.000Z",
-          "wordCount": 507,
-          "title": "L2BEAT – The state of the layer two ecosystem",
-          "imageUrl": "https://l2beat.com/meta-images/overview.png"
-        },
-        {
           "id": "https://otherside.xyz/",
           "author": null,
           "description": "Otherside",
@@ -194,16 +204,6 @@
           "wordCount": 723,
           "title": "Otherside",
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
-          "author": null,
-          "description": "Disaggregated blockchain layers & evading socioeconomic fragment…",
-          "link": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
-          "publishedOn": "2022-04-30T11:30:03.000Z",
-          "wordCount": 935,
-          "title": "Disaggregated blockchain layers & evading socioeconomic fragment…",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
         }
       ]
     }
