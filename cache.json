@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://app.defisaver.com/",
+          "id": "https://arxiv.org/pdf/1702.02867.pdf",
           "author": null,
-          "description": "DeFi Saver - Next generation DeFi management dashboard",
-          "link": "https://app.defisaver.com/",
-          "publishedOn": "2022-05-01T19:30:03.000Z",
-          "wordCount": 2,
-          "title": "DeFi Saver - Next generation DeFi management dashboard",
-          "imageUrl": "https://app.defisaver.com/assets/images/share-thumbnail-2020.png"
+          "description": "[PDF] 1702.02867.pdf",
+          "link": "https://arxiv.org/pdf/1702.02867.pdf",
+          "publishedOn": "2022-05-01T20:30:02.000Z",
+          "wordCount": 29760,
+          "title": "[PDF] 1702.02867.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fractional.art/vaults/zombiecats-fractional-vault",
+          "author": null,
+          "description": "ZombieCats Fractional Vault",
+          "link": "https://fractional.art/vaults/zombiecats-fractional-vault",
+          "publishedOn": "2022-05-01T20:30:02.000Z",
+          "wordCount": 1214,
+          "title": "ZombieCats Fractional Vault",
+          "imageUrl": "https://lh3.googleusercontent.com/LUdzOM8UGVnOxm5rXJ8ycfTud5uBZ4DGZLchE8nDhAblihJkVbj9U_9NZjGCQSDF3TurbUfx3mSXNe7lFpGTnmce3WeXYG-O_bgGlw"
         },
         {
           "id": "https://github.com/transmissions11/levm",
@@ -21,19 +31,9 @@
           "description": "GitHub - transmissions11/levm: Lightweight Lua EVM",
           "link": "https://github.com/transmissions11/levm",
           "publishedOn": "2022-05-01T19:30:03.000Z",
-          "wordCount": 369,
+          "wordCount": 336,
           "title": "GitHub - transmissions11/levm: Lightweight Lua EVM",
           "imageUrl": "https://opengraph.githubassets.com/b4c54885e4c8ed7d657878a1eb94cb7cb60c35367dcb62cfe04a686243f141fc/transmissions11/levm"
-        },
-        {
-          "id": "https://github.com/partylikeits1983/num_complex_solidity",
-          "author": null,
-          "description": "GitHub - partylikeits1983/num_complex_solidity: Complex numbers for Solidity",
-          "link": "https://github.com/partylikeits1983/num_complex_solidity",
-          "publishedOn": "2022-05-01T19:30:03.000Z",
-          "wordCount": 571,
-          "title": "GitHub - partylikeits1983/num_complex_solidity: Complex numbers for Solidity",
-          "imageUrl": "https://opengraph.githubassets.com/45cb156c5c91d0dfc3c31d4e9395eea3b4536c18ad03a21b82771feb97178938/partylikeits1983/num_complex_solidity"
         },
         {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
@@ -91,7 +91,7 @@
           "description": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "link": "https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef",
           "publishedOn": "2022-05-01T07:30:04.000Z",
-          "wordCount": 2211,
+          "wordCount": 2209,
           "title": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "imageUrl": "https://arbiscan.io/images/brandassets/arbiscan-logo-circle.jpg"
         },
@@ -163,17 +163,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/7d76cfefdec23d49cc998b9f1a4d027242651c46d0acf188b69ea4199395280b/Anish-Agnihotri/flashside"
-        },
-        {
-          "id": "https://optimism.instadapp.io/",
-          "author": null,
-          "description": "Instadapp - Optimism",
-          "link": "https://optimism.instadapp.io/",
-          "publishedOn": "2022-05-01T02:00:02.000Z",
-          "wordCount": 8,
-          "title": "Instadapp - Optimism",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/c48dfaad37a57886555f1ffbbe9b40a240459f00f1ee0022eb23bd05e0ef7f2e/Anish-Agnihotri/flashside"
         },
         {
           "id": "https://www.reddit.com/r/Bitcoin/comments/2zgmbo/berkshire_hathaways_portfolio/",
@@ -204,6 +194,16 @@
           "wordCount": 723,
           "title": "Otherside",
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
+        },
+        {
+          "id": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
+          "author": null,
+          "description": "Disaggregated blockchain layers & evading socioeconomic fragment…",
+          "link": "https://mirror.xyz/polynya.eth/C7pabfX3j8r65w8SWlpT_dem1_JXvQxsQao4V0xjsNY",
+          "publishedOn": "2022-04-30T11:30:03.000Z",
+          "wordCount": 935,
+          "title": "Disaggregated blockchain layers & evading socioeconomic fragment…",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
         }
       ]
     }
