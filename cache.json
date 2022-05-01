@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/danfinlay/eip712-codegen",
+          "author": null,
+          "description": "GitHub - danfinlay/eip712-codegen: A utility for generating Solidity code for recovering signatures using the EIP-712...",
+          "link": "https://github.com/danfinlay/eip712-codegen",
+          "publishedOn": "2022-05-01T17:00:03.000Z",
+          "wordCount": 1019,
+          "title": "GitHub - danfinlay/eip712-codegen: A utility for generating Solidity code for recovering signatures using the EIP-712...",
+          "imageUrl": "https://opengraph.githubassets.com/98a1b42589cf40b4a5654b11650781a4cba1e1d6ef58024f4b05b0597d971af3/danfinlay/eip712-codegen"
+        },
+        {
+          "id": "https://fractional.art/vaults/zombiecats-fractional-vault",
+          "author": null,
+          "description": "ZombieCats Fractional Vault",
+          "link": "https://fractional.art/vaults/zombiecats-fractional-vault",
+          "publishedOn": "2022-05-01T17:00:03.000Z",
+          "wordCount": 1317,
+          "title": "ZombieCats Fractional Vault",
+          "imageUrl": "https://lh3.googleusercontent.com/LUdzOM8UGVnOxm5rXJ8ycfTud5uBZ4DGZLchE8nDhAblihJkVbj9U_9NZjGCQSDF3TurbUfx3mSXNe7lFpGTnmce3WeXYG-O_bgGlw"
+        },
+        {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "author": null,
           "description": "EIP-5065 Instruction for transferring ether",
           "link": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "publishedOn": "2022-05-01T15:30:03.000Z",
-          "wordCount": 620,
+          "wordCount": 660,
           "title": "EIP-5065 Instruction for transferring ether",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://charts.woobull.com/bitcoin-growth-vs-other-assets/",
-          "author": null,
-          "description": "4 Year Growth: Bitcoin vs Other Asset Classes : Woobull Charts",
-          "link": "https://charts.woobull.com/bitcoin-growth-vs-other-assets/",
-          "publishedOn": "2022-05-01T14:30:05.000Z",
-          "wordCount": 458,
-          "title": "4 Year Growth: Bitcoin vs Other Asset Classes : Woobull Charts",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da",
@@ -61,7 +71,7 @@
           "description": "matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth",
           "link": "https://github.com/danfinlay/matt-auction-scaffold-eth/blob/main/packages/hardhat/test/matt-auction.js",
           "publishedOn": "2022-05-01T09:30:02.000Z",
-          "wordCount": 1210,
+          "wordCount": 1194,
           "title": "matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth",
           "imageUrl": "https://opengraph.githubassets.com/145ea3a04a529983baa382798d00e6b3338ec21453177798ef029809f5423044/danfinlay/matt-auction-scaffold-eth"
         },
@@ -143,7 +153,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/c3a96c68b4dc0ca7f408ceb76e739ad4f505421b21467c3e7f3e5faf222d3db5/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/0a5d66f6b7be08cff8cc7179085629c83f619e59d9efc4b935e8d648c3a644a8/Anish-Agnihotri/flashside"
         },
         {
           "id": "https://optimism.instadapp.io/",
@@ -164,16 +174,6 @@
           "wordCount": 1060,
           "title": "r/Bitcoin - Berkshire Hathaway's portfolio",
           "imageUrl": null
-        },
-        {
-          "id": "https://boards.greenhouse.io/dydx/jobs/6090412002",
-          "author": null,
-          "description": "Chief of Staff (NYC Required)",
-          "link": "https://boards.greenhouse.io/dydx/jobs/6090412002",
-          "publishedOn": "2022-04-30T23:00:03.000Z",
-          "wordCount": 1324,
-          "title": "Chief of Staff (NYC Required)",
-          "imageUrl": "https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/446/400/original/profile.png?1614270288"
         },
         {
           "id": "https://prestonbyrne.com/2019/03/22/on_open-access-publishing-platforms-and-unlawful-threats/",
