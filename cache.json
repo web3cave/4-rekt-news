@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arweave.medium.com/arweave-releases-a-seal-of-permanence-92685d2e7043",
+          "author": null,
+          "description": "Arweave Releases a Seal Of Permanence",
+          "link": "https://arweave.medium.com/arweave-releases-a-seal-of-permanence-92685d2e7043",
+          "publishedOn": "2022-05-02T16:30:02.000Z",
+          "wordCount": 781,
+          "title": "Arweave Releases a Seal Of Permanence",
+          "imageUrl": "https://miro.medium.com/max/1200/0*enjE2e_x_Wz5m2G1"
+        },
+        {
+          "id": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
+          "author": null,
+          "description": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
+          "link": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
+          "publishedOn": "2022-05-02T15:30:03.000Z",
+          "wordCount": 3154,
+          "title": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sometimesright.com/p/how-to-fight-bitcoin-energy-fud",
           "author": null,
           "description": "How to fight Bitcoin energy FUD",
@@ -23,16 +43,6 @@
           "publishedOn": "2022-05-02T15:00:03.000Z",
           "wordCount": 515,
           "title": "Tipping Point Looms For Risk-Averse Equity Markets | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/european-stocks-slammed-after-very-substantial-transaction-sparks-nordic-markets-flash",
-          "author": null,
-          "description": "European Stocks Slammed After \"Very Substantial Transaction\" Sparks Nordic Markets Flash-Crash | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/european-stocks-slammed-after-very-substantial-transaction-sparks-nordic-markets-flash",
-          "publishedOn": "2022-05-02T15:00:03.000Z",
-          "wordCount": 359,
-          "title": "European Stocks Slammed After \"Very Substantial Transaction\" Sparks Nordic Markets Flash-Crash | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -61,7 +71,7 @@
           "description": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "link": "https://www.wsj.com/articles/apple-abused-dominance-in-mobile-wallets-markets-according-to-preliminary-eu-view-11651487879",
           "publishedOn": "2022-05-02T13:00:03.000Z",
-          "wordCount": 1010,
+          "wordCount": 1011,
           "title": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "imageUrl": "https://images.wsj.net/im-535515/social"
         },
@@ -101,7 +111,7 @@
           "description": "BAYC Team Raises $285M With Otherside NFTs, Clogs Ethereum",
           "link": "https://www.coindesk.com/business/2022/05/01/bayc-team-raises-285m-with-otherside-nfts-clogs-ethereum/",
           "publishedOn": "2022-05-02T03:00:02.000Z",
-          "wordCount": 1229,
+          "wordCount": 1236,
           "title": "BAYC Team Raises $285M With Otherside NFTs, Clogs Ethereum",
           "imageUrl": "https://www.coindesk.com/resizer/S7I9Tb09SW92wBzOyupTt3Hqllw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4T5ZT7T4TRD3TMFRDU7IFXXMS4.png"
         },
@@ -114,16 +124,6 @@
           "wordCount": 8,
           "title": "Gem - The NFT Marketplace Aggregator",
           "imageUrl": "https://cloudflare-ipfs.com/ipfs/QmeXk7oDger2kZpbtN6nPm4GzUP4povecPh7kAEXpgC87L"
-        },
-        {
-          "id": "https://www.gamedeveloper.com/design/land-value-tax-in-online-games-and-virtual-worlds-a-how-to-guide",
-          "author": null,
-          "description": "How to handle land value tax in online games and virtual worlds",
-          "link": "https://www.gamedeveloper.com/design/land-value-tax-in-online-games-and-virtual-worlds-a-how-to-guide",
-          "publishedOn": "2022-05-02T02:30:03.000Z",
-          "wordCount": 10698,
-          "title": "How to handle land value tax in online games and virtual worlds",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt126430fcfcc27579/62570cfe5b34626c0e5cf31e/thumbnail_FGLpKkNt_(1).jpg"
         },
         {
           "id": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/9b14e5ab5c161c133c8bd3ab929e5cd64388d892bc1b3a5ff4839504aefc63bf/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/fdf673a731454317e3531d4a26e14c51e698707bbe3cb9496805ff33802f8599/Anish-Agnihotri/flashside"
         }
       ]
     }
