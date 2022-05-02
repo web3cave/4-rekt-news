@@ -6,33 +6,13 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Bo9vdt50FfA&feature=youtu.be",
+          "id": "https://www.lynalden.com/investing-during-stagflation/",
           "author": null,
-          "description": "What Is Axie Infinity Origin | How To Start",
-          "link": "https://www.youtube.com/watch?v=Bo9vdt50FfA&feature=youtu.be",
-          "publishedOn": "2022-05-02T05:00:05.000Z",
-          "wordCount": null,
-          "title": "What Is Axie Infinity Origin | How To Start",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MPY_EuvimH0&feature=youtu.be",
-          "author": null,
-          "description": "[10 HOURS] Ron Swanson Drinking Lagavulin by fire",
-          "link": "https://www.youtube.com/watch?v=MPY_EuvimH0&feature=youtu.be",
-          "publishedOn": "2022-05-02T05:00:05.000Z",
-          "wordCount": null,
-          "title": "[10 HOURS] Ron Swanson Drinking Lagavulin by fire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/gordon-chang-what-do-about-china",
-          "author": null,
-          "description": "Gordon Chang: What To Do About China | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/gordon-chang-what-do-about-china",
-          "publishedOn": "2022-05-02T05:00:05.000Z",
-          "wordCount": 9855,
-          "title": "Gordon Chang: What To Do About China | ZeroHedge",
+          "description": "Investing During Stagflation",
+          "link": "https://www.lynalden.com/investing-during-stagflation/",
+          "publishedOn": "2022-05-02T05:00:04.000Z",
+          "wordCount": 3383,
+          "title": "Investing During Stagflation",
           "imageUrl": null
         },
         {
@@ -76,6 +56,16 @@
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt126430fcfcc27579/62570cfe5b34626c0e5cf31e/thumbnail_FGLpKkNt_(1).jpg"
         },
         {
+          "id": "https://medium.com/@Retrogrademoney/the-retrograde-launch-b067d43207ec",
+          "author": null,
+          "description": "The Retrograde Launch",
+          "link": "https://medium.com/@Retrogrademoney/the-retrograde-launch-b067d43207ec",
+          "publishedOn": "2022-05-01T23:00:19.000Z",
+          "wordCount": 2032,
+          "title": "The Retrograde Launch",
+          "imageUrl": "https://miro.medium.com/max/1200/1*R_5LqbESIb4RIaIW9_MkQw.png"
+        },
+        {
           "id": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
           "author": null,
           "description": "Conserving Crypto Culture",
@@ -116,12 +106,22 @@
           "imageUrl": "https://opengraph.githubassets.com/d2493ac60b3221f6a076a7049aa39be79e08b489fb657693fdc45c060efc7bb5/transmissions11/levm"
         },
         {
+          "id": "https://utxos.org/signals/",
+          "author": null,
+          "description": "BIP-119 Signalled Support - utxos.org -- Bitcoin for Everyone",
+          "link": "https://utxos.org/signals/",
+          "publishedOn": "2022-05-01T19:30:02.000Z",
+          "wordCount": 702,
+          "title": "BIP-119 Signalled Support - utxos.org -- Bitcoin for Everyone",
+          "imageUrl": null
+        },
+        {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "author": null,
           "description": "EIP-5065 Instruction for transferring ether",
           "link": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "publishedOn": "2022-05-01T15:30:03.000Z",
-          "wordCount": 1285,
+          "wordCount": 1664,
           "title": "EIP-5065 Instruction for transferring ether",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/5e50f1295724bcbbd917c22f63525e24c97e492be4dc129f71663af7fd0644f5/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/fcc1904b64ca8a8f49a9aca560b777dc7f92796fe1e0f091fa0183f43633e95b/Anish-Agnihotri/flashside"
         }
       ]
     }
