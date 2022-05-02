@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://decrypt.co/99226/nfts-dead-opensea-daily-trading-record-476m-ethereum",
+          "author": null,
+          "description": "NFTs Are Dead? OpenSea Just Set a New Daily Trading Record of $476M in Ethereum - Decrypt",
+          "link": "https://decrypt.co/99226/nfts-dead-opensea-daily-trading-record-476m-ethereum",
+          "publishedOn": "2022-05-02T23:00:05.000Z",
+          "wordCount": 934,
+          "title": "NFTs Are Dead? OpenSea Just Set a New Daily Trading Record of $476M in Ethereum - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/otherside-trailer-cryptopunks-meebits-nft-gID_4.png"
+        },
+        {
+          "id": "https://medium.com/@plutusdao.io/plutus-token-generation-event-recap-next-steps-1d59b5e8cb1a",
+          "author": null,
+          "description": "Plutus Token Generation Event Recap & Next Steps",
+          "link": "https://medium.com/@plutusdao.io/plutus-token-generation-event-recap-next-steps-1d59b5e8cb1a",
+          "publishedOn": "2022-05-02T22:30:02.000Z",
+          "wordCount": 533,
+          "title": "Plutus Token Generation Event Recap & Next Steps",
+          "imageUrl": "https://miro.medium.com/max/1200/0*YSZ3weDH0v63u4g9"
+        },
+        {
           "id": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
           "author": null,
           "description": "Ethereum Network Status",
@@ -53,7 +73,7 @@
           "publishedOn": "2022-05-02T21:00:06.000Z",
           "wordCount": 1110,
           "title": "Take your Solidity testing to the next level with state building!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a5c055-9731-4128-b69d-1bcbc174d781_640x459.jpeg"
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a5c055-9731-4128-b69d-1bcbc174d781_640x459.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=Vbomgw-PGRE",
@@ -106,6 +126,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/Xlj6dsqKbySpHcXd-trLiUvu0jktWQ8RjVBerO265GNDFjXuflPmJRv3TKFZlelFOxhynX8MS2i5JzztMgqIKpveiKBNXIXJRY-r"
         },
         {
+          "id": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
+          "author": null,
+          "description": "Introducing the MEV Supply Chain",
+          "link": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
+          "publishedOn": "2022-05-02T17:00:04.000Z",
+          "wordCount": 1105,
+          "title": "Introducing the MEV Supply Chain",
+          "imageUrl": "https://mirror-media.imgix.net/nft/1tz3JHDF5oCPxCitg-oUw.jpeg?h=null&w=null&auto=compress"
+        },
+        {
           "id": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "author": null,
           "description": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
@@ -114,26 +144,6 @@
           "wordCount": 5290,
           "title": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/@Metakey/welcome-to-new-ganymede-b882e53085eb",
-          "author": null,
-          "description": "Welcome to New Ganymede!",
-          "link": "https://medium.com/@Metakey/welcome-to-new-ganymede-b882e53085eb",
-          "publishedOn": "2022-05-02T15:00:02.000Z",
-          "wordCount": 1213,
-          "title": "Welcome to New Ganymede!",
-          "imageUrl": "https://miro.medium.com/max/1200/0*zD-m2ETNQyrrxgAM"
-        },
-        {
-          "id": "https://blockcrunch.substack.com/p/nftfi-understanding-the-nft-lending?s=w",
-          "author": null,
-          "description": "NFTfi: Understanding the NFT Lending Market",
-          "link": "https://blockcrunch.substack.com/p/nftfi-understanding-the-nft-lending?s=w",
-          "publishedOn": "2022-05-02T13:30:03.000Z",
-          "wordCount": 2043,
-          "title": "NFTfi: Understanding the NFT Lending Market",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9114b7d3-51e2-4555-a638-b486e7ba8dfa_1456x910.jpeg"
         },
         {
           "id": "https://www.wsj.com/articles/apple-abused-dominance-in-mobile-wallets-markets-according-to-preliminary-eu-view-11651487879",
@@ -194,16 +204,6 @@
           "wordCount": 4992,
           "title": "Enter the Otherside",
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
-        },
-        {
-          "id": "https://github.com/Anish-Agnihotri/flashside",
-          "author": null,
-          "description": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "link": "https://github.com/Anish-Agnihotri/flashside",
-          "publishedOn": "2022-05-01T04:00:02.000Z",
-          "wordCount": 735,
-          "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/94a5b4ac3e93b2e41879987a1447d6600c9f5aab67582ae53486433695e680bb/Anish-Agnihotri/flashside"
         }
       ]
     }
