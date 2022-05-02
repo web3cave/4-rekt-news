@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.trybetterbrand.com/products/betterlungs",
+          "author": null,
+          "description": "BetterLungs® | Supports Respiratory & Lung Health*",
+          "link": "https://www.trybetterbrand.com/products/betterlungs",
+          "publishedOn": "2022-05-02T02:00:03.000Z",
+          "wordCount": 911,
+          "title": "BetterLungs® | Supports Respiratory & Lung Health*",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0243/3030/5622/products/betttttt.png?v=1635958006"
+        },
+        {
           "id": "https://www.zerohedge.com/political/california-expands-medi-cal-adults-50-and-older-regardless-immigration-status",
           "author": null,
           "description": "California Expands Medi-Cal To Adults 50 And Older, Regardless Of Immigration Status | ZeroHedge",
@@ -13,6 +23,16 @@
           "publishedOn": "2022-05-01T23:00:19.000Z",
           "wordCount": 389,
           "title": "California Expands Medi-Cal To Adults 50 And Older, Regardless Of Immigration Status | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/buyback-blackout-period-over-and-10-more-reasons-goldman-calls-end-market-carnage",
+          "author": null,
+          "description": "Buyback Blackout Period Is Over, And 10 More Reasons Why Goldman Calls The End Of The Market Carnage | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/buyback-blackout-period-over-and-10-more-reasons-goldman-calls-end-market-carnage",
+          "publishedOn": "2022-05-01T23:00:19.000Z",
+          "wordCount": 1902,
+          "title": "Buyback Blackout Period Is Over, And 10 More Reasons Why Goldman Calls The End Of The Market Carnage | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -53,7 +73,7 @@
           "publishedOn": "2022-05-01T19:30:03.000Z",
           "wordCount": 336,
           "title": "GitHub - transmissions11/levm: Lightweight Lua EVM",
-          "imageUrl": "https://opengraph.githubassets.com/eb568c828eb78ada00b30a85ba245e3a6807400275fad0c9149d021ed5f14cc3/transmissions11/levm"
+          "imageUrl": "https://opengraph.githubassets.com/9f54018fd7f941e7420e041403c6e4de985cbb36fbf36baaf180da155668c2b5/transmissions11/levm"
         },
         {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
@@ -71,7 +91,7 @@
           "description": "Why I am Betting against TerraUSD",
           "link": "https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997",
           "publishedOn": "2022-05-01T14:00:04.000Z",
-          "wordCount": 3033,
+          "wordCount": 3104,
           "title": "Why I am Betting against TerraUSD",
           "imageUrl": "https://miro.medium.com/focal/1200/632/43/42/1*feihNgVkbHsKX379KieeHA.jpeg"
         },
@@ -96,12 +116,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://otherside.xyz/nft-purchase-agreement",
+          "id": "https://otherside.xyz/license",
           "author": null,
           "description": "Enter the Otherside",
-          "link": "https://otherside.xyz/nft-purchase-agreement",
+          "link": "https://otherside.xyz/license",
           "publishedOn": "2022-05-01T11:00:05.000Z",
-          "wordCount": 3620,
+          "wordCount": 4992,
           "title": "Enter the Otherside",
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
         },
@@ -121,7 +141,7 @@
           "description": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "link": "https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef",
           "publishedOn": "2022-05-01T07:30:04.000Z",
-          "wordCount": 2211,
+          "wordCount": 2216,
           "title": "Arbitrum Transaction Hash (Txhash) Details | Arbiscan",
           "imageUrl": "https://arbiscan.io/images/brandassets/arbiscan-logo-circle.jpg"
         },
@@ -144,16 +164,6 @@
           "wordCount": 6913,
           "title": "In the Long Run, We Are All Dead: The Fate of Passive Retail Liquidity Provision in Uniswap v3",
           "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4fa9b1c-86d5-477b-bd25-f6411f2c05d6_676x690.png"
-        },
-        {
-          "id": "https://watchtheburn.com/",
-          "author": null,
-          "description": "Watch The Burn: EIP-1559 Real-Time ETH Burn Visualization for Ethereum",
-          "link": "https://watchtheburn.com/",
-          "publishedOn": "2022-05-01T05:00:03.000Z",
-          "wordCount": 18,
-          "title": "Watch The Burn: EIP-1559 Real-Time ETH Burn Visualization for Ethereum",
-          "imageUrl": null
         },
         {
           "id": "https://docs.google.com/document/d/e/2PACX-1vSam1Vp4hfO-Ea2fmSfexYH5FqyIatwz3PDOlW8-XkD2jgyfoJRXeF-KEtMDKnsbotzY3we6OqTnGnm/pub",
@@ -193,17 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/d77145dda20ce9c8e1d622e12a3f5d5bb2f4048ec6f9f9a78383815dc8de9540/Anish-Agnihotri/flashside"
-        },
-        {
-          "id": "https://otherside.xyz/",
-          "author": null,
-          "description": "Otherside",
-          "link": "https://otherside.xyz/",
-          "publishedOn": "2022-04-30T14:30:04.000Z",
-          "wordCount": 723,
-          "title": "Otherside",
-          "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
+          "imageUrl": "https://opengraph.githubassets.com/faf7423dac74737e0d61338b77e6bc04b9e1c7ab7d326e7ef0c15b29ca6b6164/Anish-Agnihotri/flashside"
         }
       ]
     }
