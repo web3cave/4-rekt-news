@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T11:18:52.091Z</id>
+    <id>urn:2022-05-02T12:42:32.772Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-02T11:18:52.091Z</updated>
+    <updated>2022-05-02T12:42:32.772Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Retrograde Launch]]></title>
+        <id>https://medium.com/@Retrogrademoney/the-retrograde-launch-b067d43207ec</id>
+        <link href="https://medium.com/@Retrogrademoney/the-retrograde-launch-b067d43207ec"/>
+        <updated>2022-05-01T23:00:19.000Z</updated>
+        <summary type="html"><![CDATA[The Retrograde Launch]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Conserving Crypto Culture]]></title>
         <id>https://0xfoobar.substack.com/p/conserving-crypto-culture</id>
         <link href="https://0xfoobar.substack.com/p/conserving-crypto-culture"/>
@@ -126,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BIP-119 Signalled Support - utxos.org -- Bitcoin for Everyone]]></title>
+        <id>https://utxos.org/signals/</id>
+        <link href="https://utxos.org/signals/"/>
+        <updated>2022-05-01T19:30:02.000Z</updated>
+        <summary type="html"><![CDATA[BIP-119 Signalled Support - utxos.org -- Bitcoin for Everyone]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EIP-5065 Instruction for transferring ether]]></title>
         <id>https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107</id>
         <link href="https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107"/>
@@ -141,26 +161,6 @@
         <link href="https://hjalmarpeters.medium.com/why-i-am-betting-against-terrausd-2bc0f5668997"/>
         <updated>2022-05-01T14:00:04.000Z</updated>
         <summary type="html"><![CDATA[Why I am Betting against TerraUSD]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replace transfer with call.value in CEther.doTransferOut · Rari-Capital/compound-protocol@7acb8df]]></title>
-        <id>https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da</id>
-        <link href="https://github.com/Rari-Capital/compound-protocol/commit/7acb8df5a5cbf12464b4336663ef7ae6434e62da"/>
-        <updated>2022-05-01T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Replace transfer with call.value in CEther.doTransferOut · Rari-Capital/compound-protocol@7acb8df]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[quick start | Flashbots Docs]]></title>
-        <id>https://docs.flashbots.net/flashbots-protect/rpc/quick-start</id>
-        <link href="https://docs.flashbots.net/flashbots-protect/rpc/quick-start"/>
-        <updated>2022-05-01T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[quick start | Flashbots Docs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
