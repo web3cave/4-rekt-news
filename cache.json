@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
+          "author": null,
+          "description": "Ethereum Network Status",
+          "link": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
+          "publishedOn": "2022-05-02T21:30:03.000Z",
+          "wordCount": 111,
+          "title": "Ethereum Network Status",
+          "imageUrl": null
+        },
+        {
+          "id": "https://beaconchain.mainnetshadowfork3.ethdevops.io/",
+          "author": null,
+          "description": "Mainnet shadow fork 3 Explorer - Index - beaconcha.in - 2022",
+          "link": "https://beaconchain.mainnetshadowfork3.ethdevops.io/",
+          "publishedOn": "2022-05-02T21:30:03.000Z",
+          "wordCount": 315,
+          "title": "Mainnet shadow fork 3 Explorer - Index - beaconcha.in - 2022",
+          "imageUrl": "https://beaconcha.in/img/logo.png"
+        },
+        {
+          "id": "https://explorer.mainnetshadowfork3.ethdevops.io/",
+          "author": null,
+          "description": "Testnet Ethereum Explorer",
+          "link": "https://explorer.mainnetshadowfork3.ethdevops.io/",
+          "publishedOn": "2022-05-02T21:30:03.000Z",
+          "wordCount": 133,
+          "title": "Testnet Ethereum Explorer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-3",
+          "author": null,
+          "description": "merge-testnets/mainnet-shadow-fork-3 at main · eth-clients/merge-testnets",
+          "link": "https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-3",
+          "publishedOn": "2022-05-02T21:30:03.000Z",
+          "wordCount": 352,
+          "title": "merge-testnets/mainnet-shadow-fork-3 at main · eth-clients/merge-testnets",
+          "imageUrl": "https://opengraph.githubassets.com/2edb461b9398ceb40c4f309334798dedf71b39a68690509adf846d0d533fa6ec/eth-clients/merge-testnets"
+        },
+        {
           "id": "https://sabnock.substack.com/p/take-your-solidity-testing-to-the?utm_source=twitter",
           "author": null,
           "description": "Take your Solidity testing to the next level with state building!",
@@ -13,17 +53,17 @@
           "publishedOn": "2022-05-02T21:00:06.000Z",
           "wordCount": 1110,
           "title": "Take your Solidity testing to the next level with state building!",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a5c055-9731-4128-b69d-1bcbc174d781_640x459.jpeg"
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a5c055-9731-4128-b69d-1bcbc174d781_640x459.jpeg"
         },
         {
-          "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman?s=w",
+          "id": "https://www.youtube.com/watch?v=Vbomgw-PGRE",
           "author": null,
           "description": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
-          "link": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman?s=w",
+          "link": "https://www.youtube.com/watch?v=Vbomgw-PGRE",
           "publishedOn": "2022-05-02T20:30:02.000Z",
-          "wordCount": 488,
+          "wordCount": null,
           "title": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4c5fff3-8f4c-49db-98ac-8e44223620fc_2668x1501.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://hiddenforces.io/podcasts/end-of-the-beginning-michael-anderson-vance-spencer-framework-ventures",
@@ -34,16 +74,6 @@
           "wordCount": 1919,
           "title": "The End of the Beginning for Crypto | Michael Anderson & Vance Spencer of Framework Ventures",
           "imageUrl": "https://hiddenforces.io/wp-content/uploads/2022/04/EP246-Micha…ance-Spencer_Youtube4.png"
-        },
-        {
-          "id": "https://shop.ledger.com/?r=1679b870be97",
-          "author": null,
-          "description": "Ledger - Home of the first and only certified Hardware wallets",
-          "link": "https://shop.ledger.com/?r=1679b870be97",
-          "publishedOn": "2022-05-02T19:00:02.000Z",
-          "wordCount": 940,
-          "title": "Ledger - Home of the first and only certified Hardware wallets",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-logo-new-long_200x.png?v=1636361864"
         },
         {
           "id": "https://mirror.xyz/lukevs.eth/snOp5zQK_nTXgQqUVSsJ15UWT7F6kwrV8fDlTg-2BMo",
@@ -76,26 +106,6 @@
           "imageUrl": "https://lh3.googleusercontent.com/Xlj6dsqKbySpHcXd-trLiUvu0jktWQ8RjVBerO265GNDFjXuflPmJRv3TKFZlelFOxhynX8MS2i5JzztMgqIKpveiKBNXIXJRY-r"
         },
         {
-          "id": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
-          "author": null,
-          "description": "Introducing the MEV Supply Chain",
-          "link": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
-          "publishedOn": "2022-05-02T17:00:04.000Z",
-          "wordCount": 1105,
-          "title": "Introducing the MEV Supply Chain",
-          "imageUrl": "https://mirror-media.imgix.net/nft/1tz3JHDF5oCPxCitg-oUw.jpeg?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://arweave.medium.com/arweave-releases-a-seal-of-permanence-92685d2e7043",
-          "author": null,
-          "description": "Arweave Releases a Seal Of Permanence",
-          "link": "https://arweave.medium.com/arweave-releases-a-seal-of-permanence-92685d2e7043",
-          "publishedOn": "2022-05-02T16:30:02.000Z",
-          "wordCount": 781,
-          "title": "Arweave Releases a Seal Of Permanence",
-          "imageUrl": "https://miro.medium.com/max/1200/0*enjE2e_x_Wz5m2G1"
-        },
-        {
           "id": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "author": null,
           "description": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
@@ -111,7 +121,7 @@
           "description": "Welcome to New Ganymede!",
           "link": "https://medium.com/@Metakey/welcome-to-new-ganymede-b882e53085eb",
           "publishedOn": "2022-05-02T15:00:02.000Z",
-          "wordCount": 1158,
+          "wordCount": 1213,
           "title": "Welcome to New Ganymede!",
           "imageUrl": "https://miro.medium.com/max/1200/0*zD-m2ETNQyrrxgAM"
         },
@@ -131,7 +141,7 @@
           "description": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "link": "https://www.wsj.com/articles/apple-abused-dominance-in-mobile-wallets-markets-according-to-preliminary-eu-view-11651487879",
           "publishedOn": "2022-05-02T13:00:03.000Z",
-          "wordCount": 1020,
+          "wordCount": 1019,
           "title": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "imageUrl": "https://images.wsj.net/im-535515/social"
         },
@@ -144,16 +154,6 @@
           "wordCount": 2123,
           "title": "The Elondrop",
           "imageUrl": "https://balajis.com/content/images/2022/04/elondrop.png"
-        },
-        {
-          "id": "https://www.lynalden.com/investing-during-stagflation/",
-          "author": null,
-          "description": "Investing During Stagflation",
-          "link": "https://www.lynalden.com/investing-during-stagflation/",
-          "publishedOn": "2022-05-02T05:00:04.000Z",
-          "wordCount": 3383,
-          "title": "Investing During Stagflation",
-          "imageUrl": null
         },
         {
           "id": "https://www.smh.com.au/politics/federal/labor-announces-policy-to-buy-40-per-cent-stake-in-private-homes-and-tackle-housing-crisis-20220429-p5ah8z.html",
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/433aede556df71f07170655725c286d83cc9883a587fe06eff3bf09fd9838c8e/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/94a5b4ac3e93b2e41879987a1447d6600c9f5aab67582ae53486433695e680bb/Anish-Agnihotri/flashside"
         }
       ]
     }
