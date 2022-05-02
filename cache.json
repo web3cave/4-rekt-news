@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sabnock.substack.com/p/take-your-solidity-testing-to-the?utm_source=twitter",
+          "author": null,
+          "description": "Take your Solidity testing to the next level with state building!",
+          "link": "https://sabnock.substack.com/p/take-your-solidity-testing-to-the?utm_source=twitter",
+          "publishedOn": "2022-05-02T21:00:06.000Z",
+          "wordCount": 1110,
+          "title": "Take your Solidity testing to the next level with state building!",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a5c055-9731-4128-b69d-1bcbc174d781_640x459.jpeg"
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman?s=w",
+          "author": null,
+          "description": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
+          "link": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman?s=w",
+          "publishedOn": "2022-05-02T20:30:02.000Z",
+          "wordCount": 488,
+          "title": "116 - Why Bankless Is Wrong | Ethan Buchman - Cosmos",
+          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4c5fff3-8f4c-49db-98ac-8e44223620fc_2668x1501.jpeg"
+        },
+        {
           "id": "https://hiddenforces.io/podcasts/end-of-the-beginning-michael-anderson-vance-spencer-framework-ventures",
           "author": null,
           "description": "The End of the Beginning for Crypto | Michael Anderson & Vance Spencer of Framework Ventures",
@@ -14,26 +34,6 @@
           "wordCount": 1919,
           "title": "The End of the Beginning for Crypto | Michael Anderson & Vance Spencer of Framework Ventures",
           "imageUrl": "https://hiddenforces.io/wp-content/uploads/2022/04/EP246-Micha…ance-Spencer_Youtube4.png"
-        },
-        {
-          "id": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
-          "author": null,
-          "description": "Ethereum Network Status",
-          "link": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
-          "publishedOn": "2022-05-02T20:00:03.000Z",
-          "wordCount": 111,
-          "title": "Ethereum Network Status",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/technology/netflix-dumps-meghan-markles-animated-series-citing-strategic-decisions",
-          "author": null,
-          "description": "Netflix Dumps Meghan Markle's Animated Series, Citing \"Strategic Decisions\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/netflix-dumps-meghan-markles-animated-series-citing-strategic-decisions",
-          "publishedOn": "2022-05-02T19:00:03.000Z",
-          "wordCount": 583,
-          "title": "Netflix Dumps Meghan Markle's Animated Series, Citing \"Strategic Decisions\" | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://shop.ledger.com/?r=1679b870be97",
@@ -131,7 +131,7 @@
           "description": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "link": "https://www.wsj.com/articles/apple-abused-dominance-in-mobile-wallets-markets-according-to-preliminary-eu-view-11651487879",
           "publishedOn": "2022-05-02T13:00:03.000Z",
-          "wordCount": 1019,
+          "wordCount": 1020,
           "title": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "imageUrl": "https://images.wsj.net/im-535515/social"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/20fe90aac63b1b697fa90bbb492e25b8fdfe6f911b4a4c854fafcf58c4568b77/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/433aede556df71f07170655725c286d83cc9883a587fe06eff3bf09fd9838c8e/Anish-Agnihotri/flashside"
         }
       ]
     }
