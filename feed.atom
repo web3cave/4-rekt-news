@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-02T07:21:33.366Z</id>
+    <id>urn:2022-05-02T08:28:46.412Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-02T07:21:33.366Z</updated>
+    <updated>2022-05-02T08:28:46.412Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MIRI announces new "Death With Dignity" strategy - LessWrong]]></title>
+        <id>https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy</id>
+        <link href="https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy"/>
+        <updated>2022-05-01T18:30:03.000Z</updated>
+        <summary type="html"><![CDATA[MIRI announces new "Death With Dignity" strategy - LessWrong]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EIP-5065 Instruction for transferring ether]]></title>
         <id>https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107</id>
         <link href="https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107"/>
@@ -171,16 +181,6 @@
         <link href="https://github.com/danfinlay/matt-auction-scaffold-eth/blob/main/packages/hardhat/test/matt-auction.js"/>
         <updated>2022-05-01T09:30:02.000Z</updated>
         <summary type="html"><![CDATA[matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Transaction Hash (Txhash) Details | Arbiscan]]></title>
-        <id>https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef</id>
-        <link href="https://arbiscan.io/tx/0x3212d091792f81f18a31aab753de6b3128d79dcb5e8392167249595f813203ef"/>
-        <updated>2022-05-01T07:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Transaction Hash (Txhash) Details | Arbiscan]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
