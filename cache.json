@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://hiddenforces.io/podcasts/end-of-the-beginning-michael-anderson-vance-spencer-framework-ventures",
+          "author": null,
+          "description": "The End of the Beginning for Crypto | Michael Anderson & Vance Spencer of Framework Ventures",
+          "link": "https://hiddenforces.io/podcasts/end-of-the-beginning-michael-anderson-vance-spencer-framework-ventures",
+          "publishedOn": "2022-05-02T20:00:03.000Z",
+          "wordCount": 1919,
+          "title": "The End of the Beginning for Crypto | Michael Anderson & Vance Spencer of Framework Ventures",
+          "imageUrl": "https://hiddenforces.io/wp-content/uploads/2022/04/EP246-Micha…ance-Spencer_Youtube4.png"
+        },
+        {
+          "id": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
+          "author": null,
+          "description": "Ethereum Network Status",
+          "link": "https://ethstats.mainnetshadowfork3.ethdevops.io/",
+          "publishedOn": "2022-05-02T20:00:03.000Z",
+          "wordCount": 111,
+          "title": "Ethereum Network Status",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/technology/netflix-dumps-meghan-markles-animated-series-citing-strategic-decisions",
           "author": null,
           "description": "Netflix Dumps Meghan Markle's Animated Series, Citing \"Strategic Decisions\" | ZeroHedge",
@@ -81,7 +101,7 @@
           "description": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "link": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "publishedOn": "2022-05-02T15:30:03.000Z",
-          "wordCount": 3154,
+          "wordCount": 5290,
           "title": "[PDF] Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
           "imageUrl": null
         },
@@ -111,7 +131,7 @@
           "description": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "link": "https://www.wsj.com/articles/apple-abused-dominance-in-mobile-wallets-markets-according-to-preliminary-eu-view-11651487879",
           "publishedOn": "2022-05-02T13:00:03.000Z",
-          "wordCount": 1016,
+          "wordCount": 1019,
           "title": "Apple Abused Dominance in Mobile-Wallets Markets, According to Preliminary EU View",
           "imageUrl": "https://images.wsj.net/im-535515/social"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://cloudflare-ipfs.com/ipfs/QmeXk7oDger2kZpbtN6nPm4GzUP4povecPh7kAEXpgC87L"
         },
         {
-          "id": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
-          "author": null,
-          "description": "Conserving Crypto Culture",
-          "link": "https://0xfoobar.substack.com/p/conserving-crypto-culture",
-          "publishedOn": "2022-05-01T21:00:03.000Z",
-          "wordCount": 1409,
-          "title": "Conserving Crypto Culture",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5369a4de-295a-4744-9142-a6c84babda8c_612x408.jpeg"
-        },
-        {
           "id": "https://ethereum-magicians.org/t/eip-5065-instruction-for-transferring-ether/9107",
           "author": null,
           "description": "EIP-5065 Instruction for transferring ether",
@@ -186,16 +196,6 @@
           "imageUrl": "https://otherside.xyz/assets/social-share.jpg"
         },
         {
-          "id": "https://github.com/danfinlay/matt-auction-scaffold-eth/blob/main/packages/hardhat/test/matt-auction.js",
-          "author": null,
-          "description": "matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth",
-          "link": "https://github.com/danfinlay/matt-auction-scaffold-eth/blob/main/packages/hardhat/test/matt-auction.js",
-          "publishedOn": "2022-05-01T09:30:02.000Z",
-          "wordCount": 1210,
-          "title": "matt-auction-scaffold-eth/matt-auction.js at main · danfinlay/matt-auction-scaffold-eth",
-          "imageUrl": "https://opengraph.githubassets.com/21c0c4121e8fdd141aa0ab3479a21ffee3aad4596a26ca5fafaefc9b23a9f021/danfinlay/matt-auction-scaffold-eth"
-        },
-        {
           "id": "https://github.com/Anish-Agnihotri/flashside",
           "author": null,
           "description": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-01T04:00:02.000Z",
           "wordCount": 735,
           "title": "GitHub - Anish-Agnihotri/flashside: Long-tail MEV contracts to claim Otherside land NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/7b1dcbb2176b71fcb7ccd5f9e40e87788299d5646caa775129522ccb1fa5415b/Anish-Agnihotri/flashside"
+          "imageUrl": "https://opengraph.githubassets.com/20fe90aac63b1b697fa90bbb492e25b8fdfe6f911b4a4c854fafcf58c4568b77/Anish-Agnihotri/flashside"
         }
       ]
     }
