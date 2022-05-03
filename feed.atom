@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-03T16:36:25.495Z</id>
+    <id>urn:2022-05-03T17:31:22.966Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-03T16:36:25.495Z</updated>
+    <updated>2022-05-03T17:31:22.966Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[rarity.tools]]></title>
-        <id>https://rarity.tools/</id>
-        <link href="https://rarity.tools/"/>
-        <updated>2022-05-03T16:30:13.000Z</updated>
-        <summary type="html"><![CDATA[rarity.tools]]></summary>
+        <title type="html"><![CDATA[Enter the Otherside]]></title>
+        <id>https://otherside.xyz/license</id>
+        <link href="https://otherside.xyz/license"/>
+        <updated>2022-05-03T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Enter the Otherside]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devconnect recap, Optimism token and much more - The Daily Gwei Refuel #355 - Ethereum Updates]]></title>
+        <id>https://www.youtube.com/watch?v=5mw0MpNQAtw&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=5mw0MpNQAtw&amp;feature=youtu.be"/>
+        <updated>2022-05-03T17:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Devconnect recap, Optimism token and much more - The Daily Gwei Refuel #355 - Ethereum Updates]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
+        <id>https://www.youtube.com/c/UnchainedPodcast</id>
+        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
+        <updated>2022-05-03T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -76,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘Smart Money’ Wallets Are Unloading APE, Filling Up on aSTETH, Nansen Data Suggests]]></title>
+        <id>https://www.coindesk.com/layer2/2022/05/02/smart-money-wallets-are-unloading-ape-filling-up-on-asteth-nansen-data-suggests/</id>
+        <link href="https://www.coindesk.com/layer2/2022/05/02/smart-money-wallets-are-unloading-ape-filling-up-on-asteth-nansen-data-suggests/"/>
+        <updated>2022-05-03T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[‘Smart Money’ Wallets Are Unloading APE, Filling Up on aSTETH, Nansen Data Suggests]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Exclusive: Supreme Court has voted to overturn abortion rights, draft opinion shows]]></title>
         <id>https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473</id>
         <link href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473"/>
@@ -126,36 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Network Status]]></title>
-        <id>https://ethstats.mainnetshadowfork3.ethdevops.io/</id>
-        <link href="https://ethstats.mainnetshadowfork3.ethdevops.io/"/>
-        <updated>2022-05-02T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Network Status]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mainnet shadow fork 3 Explorer - Index - beaconcha.in - 2022]]></title>
-        <id>https://beaconchain.mainnetshadowfork3.ethdevops.io/</id>
-        <link href="https://beaconchain.mainnetshadowfork3.ethdevops.io/"/>
-        <updated>2022-05-02T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Mainnet shadow fork 3 Explorer - Index - beaconcha.in - 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testnet Ethereum Explorer]]></title>
-        <id>https://explorer.mainnetshadowfork3.ethdevops.io/</id>
-        <link href="https://explorer.mainnetshadowfork3.ethdevops.io/"/>
-        <updated>2022-05-02T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Testnet Ethereum Explorer]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[merge-testnets/mainnet-shadow-fork-3 at main · eth-clients/merge-testnets]]></title>
         <id>https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-3</id>
         <link href="https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-3"/>
@@ -186,11 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EIR at Paradigm]]></title>
-        <id>https://mirror.xyz/lukevs.eth/snOp5zQK_nTXgQqUVSsJ15UWT7F6kwrV8fDlTg-2BMo</id>
-        <link href="https://mirror.xyz/lukevs.eth/snOp5zQK_nTXgQqUVSsJ15UWT7F6kwrV8fDlTg-2BMo"/>
-        <updated>2022-05-02T18:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EIR at Paradigm]]></summary>
+        <title type="html"><![CDATA[ETHPrague - Ethereum hackathon in Prague]]></title>
+        <id>https://ethprague.com/</id>
+        <link href="https://ethprague.com/"/>
+        <updated>2022-05-02T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[ETHPrague - Ethereum hackathon in Prague]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
