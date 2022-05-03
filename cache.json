@@ -6,14 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/unthinkable-0",
+          "author": null,
+          "description": "The Unthinkable | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/unthinkable-0",
+          "publishedOn": "2022-05-03T22:00:03.000Z",
+          "wordCount": 2362,
+          "title": "The Unthinkable | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://very.auction/",
+          "author": null,
+          "description": "Doge NFT Auction",
+          "link": "https://very.auction/",
+          "publishedOn": "2022-05-03T21:30:03.000Z",
+          "wordCount": 123,
+          "title": "Doge NFT Auction",
+          "imageUrl": "https://very.auction/doge-og-image.png"
+        },
+        {
+          "id": "https://fractional.art/vaults/feisty-doge-nft",
+          "author": null,
+          "description": "Feisty Doge NFT",
+          "link": "https://fractional.art/vaults/feisty-doge-nft",
+          "publishedOn": "2022-05-03T21:30:03.000Z",
+          "wordCount": 889,
+          "title": "Feisty Doge NFT",
+          "imageUrl": "https://lh3.googleusercontent.com/giYSWkXLcXwp4snYSpWLDdVAPfYZQ8slc0KUPTbZ5_fbBOTG_KYD7-leTOf8gXTALRMqFhJ3R8tB93L1AfJqgn7cb6LV6ZaS-GkHT54"
+        },
+        {
           "id": "https://abc7news.com/man-climbing-salesforce-tower-sf-person-scaling-building-san-francisco-news/11814580/",
           "author": null,
           "description": "Man free climbs 1,070-foot Salesforce Tower in San Francisco, taken into custody",
           "link": "https://abc7news.com/man-climbing-salesforce-tower-sf-person-scaling-building-san-francisco-news/11814580/",
           "publishedOn": "2022-05-03T21:00:03.000Z",
-          "wordCount": 953,
+          "wordCount": 961,
           "title": "Man free climbs 1,070-foot Salesforce Tower in San Francisco, taken into custody",
           "imageUrl": "https://cdn.abcotvs.com/dip/images/11814872_050322-kgo-salesforce-climber-split-img.jpg?w=1600"
+        },
+        {
+          "id": "https://alltherest.io/",
+          "author": null,
+          "description": "All the rest - Welcome",
+          "link": "https://alltherest.io/",
+          "publishedOn": "2022-05-03T21:00:03.000Z",
+          "wordCount": 187,
+          "title": "All the rest - Welcome",
+          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/116-why-bankless-is-wrong-ethan-buchman?s=w",
@@ -31,7 +71,7 @@
           "description": "NFT Sales Are Flatlining",
           "link": "https://www.wsj.com/articles/nft-sales-are-flatlining-11651552616",
           "publishedOn": "2022-05-03T20:15:03.000Z",
-          "wordCount": 944,
+          "wordCount": 942,
           "title": "NFT Sales Are Flatlining",
           "imageUrl": "https://images.wsj.net/im-528908/social"
         },
@@ -76,16 +116,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/10/13_Milennium_Bitcoin-Daily.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=5mw0MpNQAtw&feature=youtu.be",
-          "author": null,
-          "description": "Devconnect recap, Optimism token and much more - The Daily Gwei Refuel #355 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=5mw0MpNQAtw&feature=youtu.be",
-          "publishedOn": "2022-05-03T17:00:05.000Z",
-          "wordCount": null,
-          "title": "Devconnect recap, Optimism token and much more - The Daily Gwei Refuel #355 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
           "author": null,
           "description": "Unchained Podcast - YouTube",
@@ -121,7 +151,7 @@
           "description": "SEC to Hire More Crypto Cops to Fight Digital Frauds",
           "link": "https://www.wsj.com/articles/sec-to-hire-more-crypto-cops-to-fight-digital-frauds-11651568403?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-05-03T13:00:05.000Z",
-          "wordCount": 1012,
+          "wordCount": 1039,
           "title": "SEC to Hire More Crypto Cops to Fight Digital Frauds",
           "imageUrl": "https://images.wsj.net/im-536096/social"
         },
@@ -156,16 +186,6 @@
           "imageUrl": "https://opengraph.githubassets.com/4a8af813f1ee71108f7d2753790e01ad4b39bda171d46c559ea78fbef5a71e86/MetaMask/metamask-extension/pull/14598"
         },
         {
-          "id": "https://www.coindesk.com/layer2/2022/05/02/smart-money-wallets-are-unloading-ape-filling-up-on-asteth-nansen-data-suggests/",
-          "author": null,
-          "description": "‘Smart Money’ Wallets Are Unloading APE, Filling Up on aSTETH, Nansen Data Suggests",
-          "link": "https://www.coindesk.com/layer2/2022/05/02/smart-money-wallets-are-unloading-ape-filling-up-on-asteth-nansen-data-suggests/",
-          "publishedOn": "2022-05-03T04:00:04.000Z",
-          "wordCount": 1184,
-          "title": "‘Smart Money’ Wallets Are Unloading APE, Filling Up on aSTETH, Nansen Data Suggests",
-          "imageUrl": "https://www.coindesk.com/resizer/8-79e_oMkVNveMTnrXBmimgLG8M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HMW6M33OAZFHNJNCDTMI57EEE4.jpg"
-        },
-        {
           "id": "https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473",
           "author": null,
           "description": "Exclusive: Supreme Court has voted to overturn abortion rights, draft opinion shows",
@@ -174,26 +194,6 @@
           "wordCount": 2948,
           "title": "Exclusive: Supreme Court has voted to overturn abortion rights, draft opinion shows",
           "imageUrl": "https://static.politico.com/4b/58/77a8d5284444b8f04a334e8ef660/20220311-abortion-getty-773.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HzbY1_jTuDk&feature=youtu.be",
-          "author": null,
-          "description": "Lens Protocol - The Future of Social Media",
-          "link": "https://www.youtube.com/watch?v=HzbY1_jTuDk&feature=youtu.be",
-          "publishedOn": "2022-05-02T23:30:04.000Z",
-          "wordCount": null,
-          "title": "Lens Protocol - The Future of Social Media",
-          "imageUrl": null
-        },
-        {
-          "id": "https://decrypt.co/99226/nfts-dead-opensea-daily-trading-record-476m-ethereum",
-          "author": null,
-          "description": "NFTs Are Dead? OpenSea Just Set a New Daily Trading Record of $476M in Ethereum - Decrypt",
-          "link": "https://decrypt.co/99226/nfts-dead-opensea-daily-trading-record-476m-ethereum",
-          "publishedOn": "2022-05-02T23:00:05.000Z",
-          "wordCount": 934,
-          "title": "NFTs Are Dead? OpenSea Just Set a New Daily Trading Record of $476M in Ethereum - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/otherside-trailer-cryptopunks-meebits-nft-gID_4.png"
         },
         {
           "id": "https://www.fastcompany.com/90741893/epic-games-ceo-tim-sweeney-talks-the-metaverse-crypto-and-antitrust",
