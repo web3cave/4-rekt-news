@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/news/press-release/2022-78",
+          "author": null,
+          "description": "SEC.gov | SEC Nearly Doubles Size of Enforcement’s Crypto Assets and Cyber Unit",
+          "link": "https://www.sec.gov/news/press-release/2022-78",
+          "publishedOn": "2022-05-03T13:30:03.000Z",
+          "wordCount": 781,
+          "title": "SEC.gov | SEC Nearly Doubles Size of Enforcement’s Crypto Assets and Cyber Unit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/articles/sec-to-hire-more-crypto-cops-to-fight-digital-frauds-11651568403?mod=Searchresults_pos1&page=1",
+          "author": null,
+          "description": "SEC to Hire More Crypto Cops to Fight Digital Frauds",
+          "link": "https://www.wsj.com/articles/sec-to-hire-more-crypto-cops-to-fight-digital-frauds-11651568403?mod=Searchresults_pos1&page=1",
+          "publishedOn": "2022-05-03T13:00:05.000Z",
+          "wordCount": 1049,
+          "title": "SEC to Hire More Crypto Cops to Fight Digital Frauds",
+          "imageUrl": "https://images.wsj.net/im-536096/social"
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=VjE9a9COahc",
+          "author": null,
+          "description": "The Protocol Guild with Trent Van Epps | Green Pill #10",
+          "link": "https://www.youtube.com/watch?app=desktop&v=VjE9a9COahc",
+          "publishedOn": "2022-05-03T13:00:04.000Z",
+          "wordCount": null,
+          "title": "The Protocol Guild with Trent Van Epps | Green Pill #10",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/MetaMask/metamask-extension/pull/14598",
           "author": null,
           "description": "Stop using 4bytes for contract deployment by FrederikBolding · Pull Request #14598 · MetaMask/metamask-extension",
@@ -16,16 +46,6 @@
           "imageUrl": "https://opengraph.githubassets.com/4a8af813f1ee71108f7d2753790e01ad4b39bda171d46c559ea78fbef5a71e86/MetaMask/metamask-extension/pull/14598"
         },
         {
-          "id": "https://rarity.tools/",
-          "author": null,
-          "description": "rarity.tools",
-          "link": "https://rarity.tools/",
-          "publishedOn": "2022-05-03T05:00:04.000Z",
-          "wordCount": 4,
-          "title": "rarity.tools",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473",
           "author": null,
           "description": "Exclusive: Supreme Court has voted to overturn abortion rights, draft opinion shows",
@@ -34,16 +54,6 @@
           "wordCount": 2844,
           "title": "Exclusive: Supreme Court has voted to overturn abortion rights, draft opinion shows",
           "imageUrl": "https://static.politico.com/4b/58/77a8d5284444b8f04a334e8ef660/20220311-abortion-getty-773.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UBjwJN9A02U&feature=youtu.be",
-          "author": null,
-          "description": "Attract Your Outcome | Motivated Talks With Steve Harvey",
-          "link": "https://www.youtube.com/watch?v=UBjwJN9A02U&feature=youtu.be",
-          "publishedOn": "2022-05-03T01:00:03.000Z",
-          "wordCount": null,
-          "title": "Attract Your Outcome | Motivated Talks With Steve Harvey",
-          "imageUrl": null
         },
         {
           "id": "https://www.linkedin.com/pulse/popping-bubble-stocks-update-ray-dalio/",
@@ -111,7 +121,7 @@
           "description": "Testnet Ethereum Explorer",
           "link": "https://explorer.mainnetshadowfork3.ethdevops.io/",
           "publishedOn": "2022-05-02T21:30:03.000Z",
-          "wordCount": 133,
+          "wordCount": 119,
           "title": "Testnet Ethereum Explorer",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "merge-testnets/mainnet-shadow-fork-3 at main · eth-clients/merge-testnets",
           "link": "https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-3",
           "publishedOn": "2022-05-02T21:30:03.000Z",
-          "wordCount": 430,
+          "wordCount": 352,
           "title": "merge-testnets/mainnet-shadow-fork-3 at main · eth-clients/merge-testnets",
           "imageUrl": "https://opengraph.githubassets.com/2edb461b9398ceb40c4f309334798dedf71b39a68690509adf846d0d533fa6ec/eth-clients/merge-testnets"
         },
@@ -174,16 +184,6 @@
           "wordCount": null,
           "title": "Devconnect recap, Optimism token and much more - The Daily Gwei Refuel #355 - Ethereum Updates",
           "imageUrl": null
-        },
-        {
-          "id": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
-          "author": null,
-          "description": "Introducing the MEV Supply Chain",
-          "link": "https://flashbots.mirror.xyz/bqCakwfQZkMsq63b50vib-nibo5eKai0QuK7m-Dsxpo",
-          "publishedOn": "2022-05-02T17:00:04.000Z",
-          "wordCount": 1099,
-          "title": "Introducing the MEV Supply Chain",
-          "imageUrl": "https://mirror-media.imgix.net/nft/1tz3JHDF5oCPxCitg-oUw.jpeg?h=null&w=null&auto=compress"
         },
         {
           "id": "https://bitcoinminingcouncil.com/wp-content/uploads/2022/05/Bitcoin_Letter_to_the_Environmental_Protection_Agency.pdf",
