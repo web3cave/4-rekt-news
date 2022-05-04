@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/c/UnchainedPodcast",
+          "author": null,
+          "description": "Unchained Podcast - YouTube",
+          "link": "https://www.youtube.com/c/UnchainedPodcast",
+          "publishedOn": "2022-05-04T05:30:02.000Z",
+          "wordCount": 14,
+          "title": "Unchained Podcast - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
           "id": "https://showtime.xyz/",
           "author": null,
           "description": "Showtime",
@@ -101,7 +111,7 @@
           "description": "cmd, core, eth: add issuance tracking and querying by karalabe · Pull Request #24723 · ethereum/go-ethereum",
           "link": "https://github.com/ethereum/go-ethereum/pull/24723",
           "publishedOn": "2022-05-03T23:00:02.000Z",
-          "wordCount": 1273,
+          "wordCount": 1274,
           "title": "cmd, core, eth: add issuance tracking and querying by karalabe · Pull Request #24723 · ethereum/go-ethereum",
           "imageUrl": "https://opengraph.githubassets.com/8b668fa3c1a853aad11ba9211abf792fd56634ca157752326577863189bdecba/ethereum/go-ethereum/pull/24723"
         },
@@ -111,7 +121,7 @@
           "description": "Man free climbs 1,070-foot Salesforce Tower in San Francisco, taken into custody",
           "link": "https://abc7news.com/man-climbing-salesforce-tower-sf-person-scaling-building-san-francisco-news/11814580/",
           "publishedOn": "2022-05-03T21:00:03.000Z",
-          "wordCount": 1022,
+          "wordCount": 1017,
           "title": "Man free climbs 1,070-foot Salesforce Tower in San Francisco, taken into custody",
           "imageUrl": "https://cdn.abcotvs.com/dip/images/11816056_maison-climber.jpg?w=1600"
         },
@@ -121,9 +131,19 @@
           "description": "NFT Sales Are Flatlining",
           "link": "https://www.wsj.com/articles/nft-sales-are-flatlining-11651552616",
           "publishedOn": "2022-05-03T20:15:03.000Z",
-          "wordCount": 1993,
+          "wordCount": 1988,
           "title": "NFT Sales Are Flatlining",
           "imageUrl": "https://images.wsj.net/im-528908/social"
+        },
+        {
+          "id": "https://fodl.finance/",
+          "author": null,
+          "description": "FODL Finance",
+          "link": "https://fodl.finance/",
+          "publishedOn": "2022-05-03T20:15:03.000Z",
+          "wordCount": 867,
+          "title": "FODL Finance",
+          "imageUrl": null
         },
         {
           "id": "https://hop.mirror.xyz/Qn_O1-U2Vn6-6gNxC0A3CSFRkORSlIAIz-QCf8X4avM",
@@ -141,19 +161,9 @@
           "description": "RAC and David Greenstein on Why Music NFTs Are Better Than Spotify - Unchained Podcast",
           "link": "https://unchainedpodcast.com/rac-and-david-greenstein-on-why-music-nfts-are-better-than-spotify/",
           "publishedOn": "2022-05-03T19:00:04.000Z",
-          "wordCount": 472,
+          "wordCount": 331,
           "title": "RAC and David Greenstein on Why Music NFTs Are Better Than Spotify - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN347.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/144737/hunter-merghart-joining-millennium-to-plot-firms-crypto-strategy",
-          "author": null,
-          "description": "Hunter Merghart joining Millennium to plot firm's crypto strategy",
-          "link": "https://www.theblockcrypto.com/post/144737/hunter-merghart-joining-millennium-to-plot-firms-crypto-strategy",
-          "publishedOn": "2022-05-03T18:00:04.000Z",
-          "wordCount": 1061,
-          "title": "Hunter Merghart joining Millennium to plot firm's crypto strategy",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/10/13_Milennium_Bitcoin-Daily.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://syndicate.mirror.xyz/FD1B8JXgvW6bLUgsntkps_-TLj7FgqpsbECrT49DS48",
@@ -184,16 +194,6 @@
           "wordCount": 658,
           "title": "Decrypt splits from parent, raises $10 million",
           "imageUrl": "https://images.axios.com/XnqY4LM6Zvpt5kkpmBeaAK0ToS0=/0x0:1920x1080/1366x768/2022/05/03/1651572964464.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?app=desktop&v=VjE9a9COahc",
-          "author": null,
-          "description": "The Protocol Guild with Trent Van Epps | Green Pill #10",
-          "link": "https://www.youtube.com/watch?app=desktop&v=VjE9a9COahc",
-          "publishedOn": "2022-05-03T13:00:04.000Z",
-          "wordCount": null,
-          "title": "The Protocol Guild with Trent Van Epps | Green Pill #10",
-          "imageUrl": null
         },
         {
           "id": "https://www.fastcompany.com/90741893/epic-games-ceo-tim-sweeney-talks-the-metaverse-crypto-and-antitrust",
