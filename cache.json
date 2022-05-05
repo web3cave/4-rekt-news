@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://excerpts.ofgridlock.com/",
+          "author": null,
+          "description": "Excerpts of Gridlock",
+          "link": "https://excerpts.ofgridlock.com/",
+          "publishedOn": "2022-05-05T15:00:06.000Z",
+          "wordCount": 11,
+          "title": "Excerpts of Gridlock",
+          "imageUrl": "https://excerpts.ofgridlock.com/static/media/final.79ce38ab.jpg"
+        },
+        {
+          "id": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
+          "author": null,
+          "description": "Unbundling the unit economics of venture capital via DAOs",
+          "link": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
+          "publishedOn": "2022-05-05T14:30:03.000Z",
+          "wordCount": 1657,
+          "title": "Unbundling the unit economics of venture capital via DAOs",
+          "imageUrl": "https://miro.medium.com/max/1200/1*onVp2CgHNl6uWUUWYJcr6Q.png"
+        },
+        {
           "id": "https://www.dol.gov/ui/data.pdf",
           "author": null,
           "description": "[PDF] data.pdf",
@@ -46,32 +66,12 @@
           "imageUrl": "https://media.voguebusiness.com/photos/6272acdbd585cd7c55089e7a/16:9/w_1280,c_limit/gucci-crypto-voguebus-photographer-month-22-social-newsletter.jpg"
         },
         {
-          "id": "https://github.com/celestiaorg/community-calls/issues/1",
-          "author": null,
-          "description": "Celestia Community Call 1 · Issue #1 · celestiaorg/community-calls",
-          "link": "https://github.com/celestiaorg/community-calls/issues/1",
-          "publishedOn": "2022-05-05T06:00:03.000Z",
-          "wordCount": 630,
-          "title": "Celestia Community Call 1 · Issue #1 · celestiaorg/community-calls",
-          "imageUrl": "https://opengraph.githubassets.com/bbddba1399a7fe321d7e755ee2c23f6a06ede889a8ade426b6138b156bd62ff9/celestiaorg/community-calls/issues/1"
-        },
-        {
-          "id": "https://techcrunch.com/2022/05/04/starbucks-to-launch-nfts-this-year-offering-access-to-unique-experiences-and-benefits/?tpcc=tcplustwitter",
-          "author": null,
-          "description": "Starbucks to launch NFTs this year offering access to ‘unique experiences and benefits’ – TechCrunch",
-          "link": "https://techcrunch.com/2022/05/04/starbucks-to-launch-nfts-this-year-offering-access-to-unique-experiences-and-benefits/?tpcc=tcplustwitter",
-          "publishedOn": "2022-05-05T05:00:17.000Z",
-          "wordCount": 951,
-          "title": "Starbucks to launch NFTs this year offering access to ‘unique experiences and benefits’ – TechCrunch",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/SBX20210615-SbuxLogo-FeatureHorizontal.jpeg?w=764"
-        },
-        {
           "id": "https://www.yahoo.com/video/nyc-mayor-eric-adams-calls-052130588.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGwKByJiuRteaRL_rEDe9RY8ziHbTVA8XUphr1FoT-XoLr9rPUYttWhWaS-wPvcrDRDgqO5Tox3efp2tGAvuzw1-u_IJkq4K-Id4CQOTOYsbAYzVf_W_LLumjU4zUQK9YPt20Qp0AgKsXyqxpX5miYpEFHEvTUdRjqUhPV9iefNo#:~:text=On%20Wednesday%2C%20New%20York%20City,NYC%20due%20to%20BitLicense%20requirements",
           "author": null,
           "description": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "link": "https://www.yahoo.com/video/nyc-mayor-eric-adams-calls-052130588.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGwKByJiuRteaRL_rEDe9RY8ziHbTVA8XUphr1FoT-XoLr9rPUYttWhWaS-wPvcrDRDgqO5Tox3efp2tGAvuzw1-u_IJkq4K-Id4CQOTOYsbAYzVf_W_LLumjU4zUQK9YPt20Qp0AgKsXyqxpX5miYpEFHEvTUdRjqUhPV9iefNo#:~:text=On%20Wednesday%2C%20New%20York%20City,NYC%20due%20to%20BitLicense%20requirements",
           "publishedOn": "2022-05-05T04:30:03.000Z",
-          "wordCount": 2174,
+          "wordCount": 1949,
           "title": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/awt3H4QljAZnRUruRBAcmg--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/95771532e278f10fef43926d2cde55c5"
         },
@@ -201,7 +201,7 @@
           "description": "How To Sell Your BS \"Web3\" Idea To a VC",
           "link": "https://wrongalot.substack.com/p/how-to-sell-your-bs-web3-idea-to?s=w",
           "publishedOn": "2022-05-04T09:00:02.000Z",
-          "wordCount": 1237,
+          "wordCount": 1249,
           "title": "How To Sell Your BS \"Web3\" Idea To a VC",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd111f26b-40a0-4664-8cd6-629dbdbc01ef_512x331.jpeg"
         }
