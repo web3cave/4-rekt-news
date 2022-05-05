@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.dol.gov/ui/data.pdf",
+          "author": null,
+          "description": "[PDF] data.pdf",
+          "link": "https://www.dol.gov/ui/data.pdf",
+          "publishedOn": "2022-05-05T13:30:05.000Z",
+          "wordCount": 11468,
+          "title": "[PDF] data.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://synapseprotocol.medium.com/defi-kingdoms-heroes-are-live-on-synapse-676b2727cfdd",
           "author": null,
           "description": "DeFi Kingdoms Heroes are live on Synapse",
@@ -61,7 +71,7 @@
           "description": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "link": "https://www.yahoo.com/video/nyc-mayor-eric-adams-calls-052130588.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGwKByJiuRteaRL_rEDe9RY8ziHbTVA8XUphr1FoT-XoLr9rPUYttWhWaS-wPvcrDRDgqO5Tox3efp2tGAvuzw1-u_IJkq4K-Id4CQOTOYsbAYzVf_W_LLumjU4zUQK9YPt20Qp0AgKsXyqxpX5miYpEFHEvTUdRjqUhPV9iefNo#:~:text=On%20Wednesday%2C%20New%20York%20City,NYC%20due%20to%20BitLicense%20requirements",
           "publishedOn": "2022-05-05T04:30:03.000Z",
-          "wordCount": 1994,
+          "wordCount": 1806,
           "title": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/awt3H4QljAZnRUruRBAcmg--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/95771532e278f10fef43926d2cde55c5"
         },
@@ -74,16 +84,6 @@
           "wordCount": 11,
           "title": "Excerpts of Gridlock",
           "imageUrl": "https://excerpts.ofgridlock.com/static/media/final.79ce38ab.jpg"
-        },
-        {
-          "id": "https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/",
-          "author": null,
-          "description": "The NSA Worked to “Track Down” Bitcoin Users, Snowden Documents Reveal",
-          "link": "https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/",
-          "publishedOn": "2022-05-05T01:00:03.000Z",
-          "wordCount": 2594,
-          "title": "The NSA Worked to “Track Down” Bitcoin Users, Snowden Documents Reveal",
-          "imageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2018/02/Intercept_Bitoin_Final-03-resized-1518713286.gif"
         },
         {
           "id": "https://mirror.xyz/kwenta.eth/YYQBLaTbk00S8EDCnzMCzBDQjRAmRnnG_XISz6Oo03M",
@@ -203,7 +203,7 @@
           "publishedOn": "2022-05-04T09:00:02.000Z",
           "wordCount": 1237,
           "title": "How To Sell Your BS \"Web3\" Idea To a VC",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd111f26b-40a0-4664-8cd6-629dbdbc01ef_512x331.jpeg"
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd111f26b-40a0-4664-8cd6-629dbdbc01ef_512x331.jpeg"
         }
       ]
     }
