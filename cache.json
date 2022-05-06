@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://thegraph.com/graph-hack/2022/",
+          "id": "https://github.com/DefiLlama/yield-server",
           "author": null,
-          "description": "Graph Hack - June 3-5, 2022",
-          "link": "https://thegraph.com/graph-hack/2022/",
-          "publishedOn": "2022-05-06T09:30:03.000Z",
-          "wordCount": 302,
-          "title": "Graph Hack - June 3-5, 2022",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-hack-2022-v3.jpg"
+          "description": "GitHub - DefiLlama/yield-server",
+          "link": "https://github.com/DefiLlama/yield-server",
+          "publishedOn": "2022-05-06T11:00:03.000Z",
+          "wordCount": 722,
+          "title": "GitHub - DefiLlama/yield-server",
+          "imageUrl": "https://opengraph.githubassets.com/223d26ed752ebcf84486279cb3e717d4dada6ba882793e0ac6641bc86c01784e/DefiLlama/yield-server"
+        },
+        {
+          "id": "https://defillama.com/yields",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/yields",
+          "publishedOn": "2022-05-06T11:00:02.000Z",
+          "wordCount": 339,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
@@ -21,7 +31,7 @@
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2204,
+          "wordCount": 2147,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
         },
@@ -181,7 +191,7 @@
           "description": "Unbundling the unit economics of venture capital via DAOs",
           "link": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
           "publishedOn": "2022-05-05T14:30:03.000Z",
-          "wordCount": 1671,
+          "wordCount": 1725,
           "title": "Unbundling the unit economics of venture capital via DAOs",
           "imageUrl": "https://miro.medium.com/max/1200/1*onVp2CgHNl6uWUUWYJcr6Q.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 58,
           "title": "AllCoreDevs Updates - HackMD",
           "imageUrl": "https://avatars.githubusercontent.com/u/9390255?s=400"
-        },
-        {
-          "id": "https://zeroknowledge.fm/228a/",
-          "author": null,
-          "description": "Episode 228: Catch-up at DevConnect AMS with Tarun, Guillermo and Brendan - ZK Podcast",
-          "link": "https://zeroknowledge.fm/228a/",
-          "publishedOn": "2022-05-04T21:00:04.000Z",
-          "wordCount": 1309,
-          "title": "Episode 228: Catch-up at DevConnect AMS with Tarun, Guillermo and Brendan - ZK Podcast",
-          "imageUrl": null
         }
       ]
     }
