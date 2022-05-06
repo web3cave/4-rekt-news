@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://thegraph.com/graph-hack/2022/",
+          "author": null,
+          "description": "Graph Hack - June 3-5, 2022",
+          "link": "https://thegraph.com/graph-hack/2022/",
+          "publishedOn": "2022-05-06T09:30:03.000Z",
+          "wordCount": 302,
+          "title": "Graph Hack - June 3-5, 2022",
+          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-hack-2022-v3.jpg"
+        },
+        {
           "id": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "author": null,
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2195,
+          "wordCount": 2204,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
         },
@@ -23,16 +33,6 @@
           "publishedOn": "2022-05-06T03:00:04.000Z",
           "wordCount": 616,
           "title": "[bitcoin-dev] PSA: Taproot loss of quantum protections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=epjLqE-oH9I&feature=youtu.be",
-          "author": null,
-          "description": "Defi Kingdoms Doxxing Party",
-          "link": "https://www.youtube.com/watch?v=epjLqE-oH9I&feature=youtu.be",
-          "publishedOn": "2022-05-06T03:00:04.000Z",
-          "wordCount": null,
-          "title": "Defi Kingdoms Doxxing Party",
           "imageUrl": null
         },
         {
@@ -51,7 +51,7 @@
           "description": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "link": "https://www.theblockcrypto.com/linked/145385/court-orders-bitmex-co-founders-pay-a-total-of-30-million-in-cftc-civil-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 865,
+          "wordCount": 867,
           "title": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200518_Bitmex-Daily2.jpg"
         },
@@ -61,7 +61,7 @@
           "description": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "link": "https://www.theblockcrypto.com/post/145363/block-reports-1-73-billion-in-bitcoin-sales-via-cash-app-during-q1-2022",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 1041,
+          "wordCount": 1043,
           "title": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/11/20200511_Cash_App.jpg"
         },
@@ -171,9 +171,9 @@
           "description": "The Chopping Block: Did Andre Cronje Pull an Epic Crypto Rug Pull? - Unchained Podcast",
           "link": "https://unchainedpodcast.com/the-chopping-block-did-andre-cronje-pull-an-epic-crypto-rug-pull/",
           "publishedOn": "2022-05-05T16:30:03.000Z",
-          "wordCount": 424,
+          "wordCount": 354,
           "title": "The Chopping Block: Did Andre Cronje Pull an Epic Crypto Rug Pull? - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN348-TCB.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
@@ -181,7 +181,7 @@
           "description": "Unbundling the unit economics of venture capital via DAOs",
           "link": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
           "publishedOn": "2022-05-05T14:30:03.000Z",
-          "wordCount": 1664,
+          "wordCount": 1671,
           "title": "Unbundling the unit economics of venture capital via DAOs",
           "imageUrl": "https://miro.medium.com/max/1200/1*onVp2CgHNl6uWUUWYJcr6Q.png"
         },
