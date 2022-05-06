@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ft.com/content/141408bb-3833-43c5-853b-a68d4fdaa330",
+          "author": null,
+          "description": "Binance’s warm welcome in France draws stark divide with UK",
+          "link": "https://www.ft.com/content/141408bb-3833-43c5-853b-a68d4fdaa330",
+          "publishedOn": "2022-05-06T21:00:04.000Z",
+          "wordCount": 1069,
+          "title": "Binance’s warm welcome in France draws stark divide with UK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/channel/UC-iv3MF90wLXWrfKyYAGDMg",
+          "author": null,
+          "description": "Gabriel Haines - YouTube",
+          "link": "https://www.youtube.com/channel/UC-iv3MF90wLXWrfKyYAGDMg",
+          "publishedOn": "2022-05-06T21:00:04.000Z",
+          "wordCount": 14,
+          "title": "Gabriel Haines - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/ytc/AKedOLQi2Dhau1GE1hs77Df2NVcbfOWDKW17ajZl73J1dw=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
           "id": "https://kelvinfichter.com/pages/thoughts/hybrid-rollups/",
           "author": null,
           "description": "kf | The hybrid ZK/Optimistic Rollup of the future",
@@ -111,7 +131,7 @@
           "description": "GitHub - DefiLlama/yield-server",
           "link": "https://github.com/DefiLlama/yield-server",
           "publishedOn": "2022-05-06T11:00:03.000Z",
-          "wordCount": 749,
+          "wordCount": 747,
           "title": "GitHub - DefiLlama/yield-server",
           "imageUrl": "https://opengraph.githubassets.com/fa34b59b597b64e6fba130926efbe60f12329779060e636946d6276c1f08e016/DefiLlama/yield-server"
         },
@@ -131,7 +151,7 @@
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2206,
+          "wordCount": 2161,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
         },
@@ -166,16 +186,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200518_Bitmex-Daily2.jpg"
         },
         {
-          "id": "https://www.theblockcrypto.com/post/145363/block-reports-1-73-billion-in-bitcoin-sales-via-cash-app-during-q1-2022",
-          "author": null,
-          "description": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
-          "link": "https://www.theblockcrypto.com/post/145363/block-reports-1-73-billion-in-bitcoin-sales-via-cash-app-during-q1-2022",
-          "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 1097,
-          "title": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/11/20200511_Cash_App.jpg"
-        },
-        {
           "id": "https://manordao.com/",
           "author": null,
           "description": "Manor DAO ☼ A Poolsuite Offering",
@@ -194,16 +204,6 @@
           "wordCount": 488,
           "title": "The Dominance of Uniswap v3 Liquidity - Paradigm",
           "imageUrl": "https://paradigm-xyz.vercel.app/static/liquidity-a.png"
-        },
-        {
-          "id": "https://www.rainbowkit.com/",
-          "author": null,
-          "description": "RainbowKit",
-          "link": "https://www.rainbowkit.com/",
-          "publishedOn": "2022-05-05T19:30:03.000Z",
-          "wordCount": 173,
-          "title": "RainbowKit",
-          "imageUrl": "https://rainbowkit.com/social/default.png"
         }
       ]
     }
