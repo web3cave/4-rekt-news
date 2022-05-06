@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-06T01:45:41.852Z</id>
+    <id>urn:2022-05-06T03:08:45.052Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-06T01:45:41.852Z</updated>
+    <updated>2022-05-06T03:08:45.052Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Graph Hack - June 3-5, 2022]]></title>
-        <id>https://thegraph.com/graph-hack/2022/</id>
-        <link href="https://thegraph.com/graph-hack/2022/"/>
-        <updated>2022-05-05T23:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Graph Hack - June 3-5, 2022]]></summary>
+        <title type="html"><![CDATA[[bitcoin-dev] PSA: Taproot loss of quantum protections]]></title>
+        <id>https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018641.html</id>
+        <link href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018641.html"/>
+        <updated>2022-05-06T03:00:04.000Z</updated>
+        <summary type="html"><![CDATA[[bitcoin-dev] PSA: Taproot loss of quantum protections]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Stablecoin Wars!]]></title>
+        <id>https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w</id>
+        <link href="https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w"/>
+        <updated>2022-05-06T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The Stablecoin Wars!]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://synapseprotocol.medium.com/defi-kingdoms-heroes-are-live-on-synapse-676b2727cfdd"/>
         <updated>2022-05-05T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[DeFi Kingdoms Heroes are live on Synapse]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battleship on RISC Zero | RISC Zero]]></title>
-        <id>https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial</id>
-        <link href="https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial"/>
-        <updated>2022-05-05T07:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Battleship on RISC Zero | RISC Zero]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

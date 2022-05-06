@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://thegraph.com/graph-hack/2022/",
+          "id": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018641.html",
           "author": null,
-          "description": "Graph Hack - June 3-5, 2022",
-          "link": "https://thegraph.com/graph-hack/2022/",
-          "publishedOn": "2022-05-05T23:30:03.000Z",
-          "wordCount": 302,
-          "title": "Graph Hack - June 3-5, 2022",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-hack-2022-v3.jpg"
+          "description": "[bitcoin-dev] PSA: Taproot loss of quantum protections",
+          "link": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-March/018641.html",
+          "publishedOn": "2022-05-06T03:00:04.000Z",
+          "wordCount": 616,
+          "title": "[bitcoin-dev] PSA: Taproot loss of quantum protections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w",
+          "author": null,
+          "description": "The Stablecoin Wars!",
+          "link": "https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w",
+          "publishedOn": "2022-05-06T01:00:04.000Z",
+          "wordCount": 3316,
+          "title": "The Stablecoin Wars!",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefed32df-fcef-4c5b-a914-e089b9deee23_2668x1501.jpeg"
         },
         {
           "id": "https://www.theblockcrypto.com/linked/145385/court-orders-bitmex-co-founders-pay-a-total-of-30-million-in-cftc-civil-case?utm_source=twitter&utm_medium=social",
@@ -111,7 +121,7 @@
           "description": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
           "link": "https://www.wsj.com/articles/boeing-plans-to-move-headquarters-to-washington-d-c-area-from-chicago-11651767599",
           "publishedOn": "2022-05-05T19:00:05.000Z",
-          "wordCount": 995,
+          "wordCount": 999,
           "title": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
           "imageUrl": "https://images.wsj.net/im-538325/social"
         },
@@ -151,9 +161,9 @@
           "description": "The Chopping Block: Did Andre Cronje Pull an Epic Crypto Rug Pull? - Unchained Podcast",
           "link": "https://unchainedpodcast.com/the-chopping-block-did-andre-cronje-pull-an-epic-crypto-rug-pull/",
           "publishedOn": "2022-05-05T16:30:03.000Z",
-          "wordCount": 350,
+          "wordCount": 424,
           "title": "The Chopping Block: Did Andre Cronje Pull an Epic Crypto Rug Pull? - Unchained Podcast",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN348-TCB.jpg"
         },
         {
           "id": "https://medium.com/1kxnetwork/unbundling-the-unit-economics-of-venture-capital-via-daos-9fbda3e8113b?daos",
@@ -176,22 +186,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*qAdYXFix71bOjdN25VdXSQ.png"
         },
         {
-          "id": "https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial",
-          "author": null,
-          "description": "Battleship on RISC Zero | RISC Zero",
-          "link": "https://www.risczero.com/docs/tutorial-examples/battleship_rust_tutorial",
-          "publishedOn": "2022-05-05T07:30:03.000Z",
-          "wordCount": 2398,
-          "title": "Battleship on RISC Zero | RISC Zero",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.yahoo.com/video/nyc-mayor-eric-adams-calls-052130588.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGwKByJiuRteaRL_rEDe9RY8ziHbTVA8XUphr1FoT-XoLr9rPUYttWhWaS-wPvcrDRDgqO5Tox3efp2tGAvuzw1-u_IJkq4K-Id4CQOTOYsbAYzVf_W_LLumjU4zUQK9YPt20Qp0AgKsXyqxpX5miYpEFHEvTUdRjqUhPV9iefNo#:~:text=On%20Wednesday%2C%20New%20York%20City,NYC%20due%20to%20BitLicense%20requirements",
           "author": null,
           "description": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "link": "https://www.yahoo.com/video/nyc-mayor-eric-adams-calls-052130588.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGwKByJiuRteaRL_rEDe9RY8ziHbTVA8XUphr1FoT-XoLr9rPUYttWhWaS-wPvcrDRDgqO5Tox3efp2tGAvuzw1-u_IJkq4K-Id4CQOTOYsbAYzVf_W_LLumjU4zUQK9YPt20Qp0AgKsXyqxpX5miYpEFHEvTUdRjqUhPV9iefNo#:~:text=On%20Wednesday%2C%20New%20York%20City,NYC%20due%20to%20BitLicense%20requirements",
           "publishedOn": "2022-05-05T04:30:03.000Z",
-          "wordCount": 2196,
+          "wordCount": 2193,
           "title": "NYC Mayor Eric Adams Calls for an End to the BitLicense Scheme",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/awt3H4QljAZnRUruRBAcmg--~B/aD00MTA7dz02MTU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fx_empire_176/95771532e278f10fef43926d2cde55c5"
         },
