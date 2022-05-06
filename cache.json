@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lootrush.com/lootrush-secures-12m-seed-round-b123cc6d8f91?gi=2d7b75476993",
+          "author": null,
+          "description": "LootRush Secures $12m Seed Round",
+          "link": "https://blog.lootrush.com/lootrush-secures-12m-seed-round-b123cc6d8f91?gi=2d7b75476993",
+          "publishedOn": "2022-05-06T16:30:03.000Z",
+          "wordCount": 720,
+          "title": "LootRush Secures $12m Seed Round",
+          "imageUrl": "https://miro.medium.com/max/1200/1*HRszZ2WxDRePvFXKU8VCrA.png"
+        },
+        {
+          "id": "https://hackmd.io/@benjaminion/Hy_VXLb8q",
+          "author": null,
+          "description": "PoS Implementers’ Call #86 - 2022-05-05 - HackMD",
+          "link": "https://hackmd.io/@benjaminion/Hy_VXLb8q",
+          "publishedOn": "2022-05-06T16:30:03.000Z",
+          "wordCount": 2093,
+          "title": "PoS Implementers’ Call #86 - 2022-05-05 - HackMD",
+          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
+        },
+        {
+          "id": "https://anchain.ai/blog-ens-leaderboard/",
+          "author": null,
+          "description": "Who's part of the Web3 Million Dollar Club? Blockchain and Twitter Data Mashup | AnChain.AI",
+          "link": "https://anchain.ai/blog-ens-leaderboard/",
+          "publishedOn": "2022-05-06T15:30:04.000Z",
+          "wordCount": 1573,
+          "title": "Who's part of the Web3 Million Dollar Club? Blockchain and Twitter Data Mashup | AnChain.AI",
+          "imageUrl": "https://anchain.ai/wp-content/uploads/2022/05/Untitled-design-4.png"
+        },
+        {
           "id": "https://www.sec.gov/news/press-release/2022-79-0",
           "author": null,
           "description": "SEC.gov | SEC Charges NVIDIA Corporation with Inadequate Disclosures about Impact of Cryptomining",
           "link": "https://www.sec.gov/news/press-release/2022-79-0",
           "publishedOn": "2022-05-06T15:00:04.000Z",
-          "wordCount": 762,
+          "wordCount": 773,
           "title": "SEC.gov | SEC Charges NVIDIA Corporation with Inadequate Disclosures about Impact of Cryptomining",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/boeing-plans-to-move-headquarters-to-washington-d-c-area-from-chicago-11651767599",
-          "author": null,
-          "description": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
-          "link": "https://www.wsj.com/articles/boeing-plans-to-move-headquarters-to-washington-d-c-area-from-chicago-11651767599",
-          "publishedOn": "2022-05-06T13:30:04.000Z",
-          "wordCount": 1031,
-          "title": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
-          "imageUrl": "https://images.wsj.net/im-538325/social"
         },
         {
           "id": "https://github.com/foundry-rs/foundry",
@@ -31,9 +51,9 @@
           "description": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "link": "https://github.com/foundry-rs/foundry",
           "publishedOn": "2022-05-06T13:00:06.000Z",
-          "wordCount": 1561,
+          "wordCount": 1346,
           "title": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
-          "imageUrl": "https://opengraph.githubassets.com/a9ca2d0f2cac10e4c320009ec13e479b55ea50a1d05d3ba75f60659b3b9c6f84/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/a0adf9601f812ada53c7522783da402eb08af84a626e4f2d8ad12097be827a33/foundry-rs/foundry"
         },
         {
           "id": "https://github.com/DefiLlama/yield-server",
@@ -41,9 +61,9 @@
           "description": "GitHub - DefiLlama/yield-server",
           "link": "https://github.com/DefiLlama/yield-server",
           "publishedOn": "2022-05-06T11:00:03.000Z",
-          "wordCount": 735,
+          "wordCount": 714,
           "title": "GitHub - DefiLlama/yield-server",
-          "imageUrl": "https://opengraph.githubassets.com/223d26ed752ebcf84486279cb3e717d4dada6ba882793e0ac6641bc86c01784e/DefiLlama/yield-server"
+          "imageUrl": "https://opengraph.githubassets.com/f1c28c706e9e593b36f46f9d5fbaba4e40968c44cc2f5979a443544bff7781a9/DefiLlama/yield-server"
         },
         {
           "id": "https://defillama.com/yields",
@@ -56,22 +76,12 @@
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
-          "id": "https://thegraph.com/graph-hack/2022/",
-          "author": null,
-          "description": "Graph Hack - June 3-5, 2022",
-          "link": "https://thegraph.com/graph-hack/2022/",
-          "publishedOn": "2022-05-06T09:30:03.000Z",
-          "wordCount": 302,
-          "title": "Graph Hack - June 3-5, 2022",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-hack-2022-v3.jpg"
-        },
-        {
           "id": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "author": null,
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2115,
+          "wordCount": 2071,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
         },
@@ -111,7 +121,7 @@
           "description": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "link": "https://www.theblockcrypto.com/linked/145385/court-orders-bitmex-co-founders-pay-a-total-of-30-million-in-cftc-civil-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 885,
+          "wordCount": 882,
           "title": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200518_Bitmex-Daily2.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "link": "https://www.theblockcrypto.com/post/145363/block-reports-1-73-billion-in-bitcoin-sales-via-cash-app-during-q1-2022",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 1067,
+          "wordCount": 1064,
           "title": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/11/20200511_Cash_App.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 703,
           "title": "Mega Merge Resource List 🐼 - HackMD",
           "imageUrl": "https://www.gravatar.com/avatar/e0e12c159e5f6289fbfc61dfe64adb73?s=400"
-        },
-        {
-          "id": "https://hackmd.io/@benjaminion/Hy_VXLb8q",
-          "author": null,
-          "description": "PoS Implementers’ Call #86 - 2022-05-05 - HackMD",
-          "link": "https://hackmd.io/@benjaminion/Hy_VXLb8q",
-          "publishedOn": "2022-05-05T19:00:05.000Z",
-          "wordCount": 2093,
-          "title": "PoS Implementers’ Call #86 - 2022-05-05 - HackMD",
-          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         },
         {
           "id": "https://mirror.xyz/0x367B4bDf414Df673Df0129838ebfB9913147427F/WvDV9rqgqhiXNzEAQn4_sxKw9C-O-s0hjfkSuu6yLyo",
