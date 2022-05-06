@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/news/press-release/2022-79-0",
+          "author": null,
+          "description": "SEC.gov | SEC Charges NVIDIA Corporation with Inadequate Disclosures about Impact of Cryptomining",
+          "link": "https://www.sec.gov/news/press-release/2022-79-0",
+          "publishedOn": "2022-05-06T15:00:04.000Z",
+          "wordCount": 762,
+          "title": "SEC.gov | SEC Charges NVIDIA Corporation with Inadequate Disclosures about Impact of Cryptomining",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.wsj.com/articles/boeing-plans-to-move-headquarters-to-washington-d-c-area-from-chicago-11651767599",
           "author": null,
           "description": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
           "link": "https://www.wsj.com/articles/boeing-plans-to-move-headquarters-to-washington-d-c-area-from-chicago-11651767599",
           "publishedOn": "2022-05-06T13:30:04.000Z",
-          "wordCount": 1038,
+          "wordCount": 1031,
           "title": "Boeing Plans to Move Headquarters to Arlington, Va., From Chicago",
           "imageUrl": "https://images.wsj.net/im-538325/social"
         },
@@ -21,9 +31,9 @@
           "description": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "link": "https://github.com/foundry-rs/foundry",
           "publishedOn": "2022-05-06T13:00:06.000Z",
-          "wordCount": 1586,
+          "wordCount": 1561,
           "title": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
-          "imageUrl": "https://opengraph.githubassets.com/cc97a3e0a3a883587df0aec8316557061baa16465cfa0afb3e448a75a5a92ca8/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/a9ca2d0f2cac10e4c320009ec13e479b55ea50a1d05d3ba75f60659b3b9c6f84/foundry-rs/foundry"
         },
         {
           "id": "https://github.com/DefiLlama/yield-server",
@@ -61,7 +71,7 @@
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2007,
+          "wordCount": 2115,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
         },
@@ -101,7 +111,7 @@
           "description": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "link": "https://www.theblockcrypto.com/linked/145385/court-orders-bitmex-co-founders-pay-a-total-of-30-million-in-cftc-civil-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 918,
+          "wordCount": 885,
           "title": "Court orders BitMEX co-founders pay a total of $30 million in CFTC civil case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200518_Bitmex-Daily2.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "link": "https://www.theblockcrypto.com/post/145363/block-reports-1-73-billion-in-bitcoin-sales-via-cash-app-during-q1-2022",
           "publishedOn": "2022-05-05T23:00:04.000Z",
-          "wordCount": 1100,
+          "wordCount": 1067,
           "title": "Block reports $1.73 billion in bitcoin sales via Cash App during Q1 2022",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/11/20200511_Cash_App.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 7333,
           "title": "Finding and Vetting Web3 Attorneys: Five Lessons",
           "imageUrl": "https://images.mirror-media.xyz/publication-images/A5KuDwav3L7So85gkpc2E.png?height=1266&width=958"
-        },
-        {
-          "id": "https://ethprague.com/",
-          "author": null,
-          "description": "ETHPrague - Ethereum hackathon in Prague",
-          "link": "https://ethprague.com/",
-          "publishedOn": "2022-05-05T12:30:06.000Z",
-          "wordCount": 30,
-          "title": "ETHPrague - Ethereum hackathon in Prague",
-          "imageUrl": null
         }
       ]
     }
