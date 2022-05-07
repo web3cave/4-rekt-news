@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SD8XuEkrwUs&feature=youtu.be",
+          "author": null,
+          "description": "The FTX Podcast #107 Crypto Bahamas - Su Zhu Cofounder of 3AC",
+          "link": "https://www.youtube.com/watch?v=SD8XuEkrwUs&feature=youtu.be",
+          "publishedOn": "2022-05-07T07:30:02.000Z",
+          "wordCount": null,
+          "title": "The FTX Podcast #107 Crypto Bahamas - Su Zhu Cofounder of 3AC",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaoyuzhoufm.com/podcast/62735d9aa679bbb043f60ae3?s=eyJ1IjogIjYwNTg4ODc5ZTBmNWU3MjNiYjU3MGJmMSJ9",
           "author": null,
           "description": "HODLong 后浪",
@@ -51,7 +61,7 @@
           "description": "Argentina’s IMF bailout deal includes a wild clause that rips cryptocurrencies",
           "link": "https://finance.yahoo.com/news/argentina-imf-bailout-deal-includes-190748787.html",
           "publishedOn": "2022-05-07T02:30:02.000Z",
-          "wordCount": 2040,
+          "wordCount": 2109,
           "title": "Argentina’s IMF bailout deal includes a wild clause that rips cryptocurrencies",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.29P0QEtQEDVgWXDKUE9wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/WJIhJkx8kBbL6TiEGrusZA--~B/aD0xOTIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/71ed1be59a1a9985bf4911545068372a"
         },
@@ -74,16 +84,6 @@
           "wordCount": 1481,
           "title": "Surviving Crypto Cycles - Paradigm",
           "imageUrl": "https://paradigm-xyz.vercel.app/meta.png"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/145059/layer-2-scaling-solutions-a-framework-for-comparison-commissioned-by-polygon",
-          "author": null,
-          "description": "Layer-2 Scaling Solutions: A Framework for Comparison - Commissioned by Polygon",
-          "link": "https://www.theblockcrypto.com/post/145059/layer-2-scaling-solutions-a-framework-for-comparison-commissioned-by-polygon",
-          "publishedOn": "2022-05-06T23:30:03.000Z",
-          "wordCount": 1126,
-          "title": "Layer-2 Scaling Solutions: A Framework for Comparison - Commissioned by Polygon",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220504_Layer-2-Report-Research.jpg"
         },
         {
           "id": "https://gov.gitcoin.co/t/gtc-conviction-voting-dapp-gtc-utility/10523",
@@ -191,7 +191,7 @@
           "description": "GitHub - DefiLlama/yield-server",
           "link": "https://github.com/DefiLlama/yield-server",
           "publishedOn": "2022-05-06T11:00:03.000Z",
-          "wordCount": 742,
+          "wordCount": 748,
           "title": "GitHub - DefiLlama/yield-server",
           "imageUrl": "https://opengraph.githubassets.com/7ba264bc386e80b8e8a2409b0ec2538f435be8352c81e6683a7e5e017c54460b/DefiLlama/yield-server"
         },
