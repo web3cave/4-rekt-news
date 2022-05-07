@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://crypto.com/",
+          "id": "https://www.youtube.com/watch?v=WwUE09s9YdM&feature=youtu.be",
           "author": null,
-          "description": "Crypto.com | The Best Place to Buy, Sell, and Pay with Cryptocurrency",
-          "link": "https://crypto.com/",
-          "publishedOn": "2022-05-06T23:00:03.000Z",
-          "wordCount": 436,
-          "title": "Crypto.com | The Best Place to Buy, Sell, and Pay with Cryptocurrency",
-          "imageUrl": "https://crypto.com/images/meta-og/home.png"
+          "description": "Conversations with Crypto Pioneers at #MIGlobal",
+          "link": "https://www.youtube.com/watch?v=WwUE09s9YdM&feature=youtu.be",
+          "publishedOn": "2022-05-07T01:30:03.000Z",
+          "wordCount": null,
+          "title": "Conversations with Crypto Pioneers at #MIGlobal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://polkachu.com/blogs/ibc-will-not-make-cosmos-a-hub-thats-great-news",
+          "author": null,
+          "description": "IBC Will Not Make Cosmos a Hub; That's Great News | Polkachu",
+          "link": "https://polkachu.com/blogs/ibc-will-not-make-cosmos-a-hub-thats-great-news",
+          "publishedOn": "2022-05-07T01:00:03.000Z",
+          "wordCount": 1598,
+          "title": "IBC Will Not Make Cosmos a Hub; That's Great News | Polkachu",
+          "imageUrl": "https://images.polkachu.xyz/wink/ZNSePP2g6i1l2eTQh5QjQ4c3yzGcf1KYzx6zcRYE.jpg"
+        },
+        {
+          "id": "https://www.paradigm.xyz/2021/03/surviving-crypto-cycles",
+          "author": null,
+          "description": "Surviving Crypto Cycles - Paradigm",
+          "link": "https://www.paradigm.xyz/2021/03/surviving-crypto-cycles",
+          "publishedOn": "2022-05-07T00:00:05.000Z",
+          "wordCount": 1481,
+          "title": "Surviving Crypto Cycles - Paradigm",
+          "imageUrl": "https://paradigm-xyz.vercel.app/meta.png"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/145059/layer-2-scaling-solutions-a-framework-for-comparison-commissioned-by-polygon",
+          "author": null,
+          "description": "Layer-2 Scaling Solutions: A Framework for Comparison - Commissioned by Polygon",
+          "link": "https://www.theblockcrypto.com/post/145059/layer-2-scaling-solutions-a-framework-for-comparison-commissioned-by-polygon",
+          "publishedOn": "2022-05-06T23:30:03.000Z",
+          "wordCount": 1126,
+          "title": "Layer-2 Scaling Solutions: A Framework for Comparison - Commissioned by Polygon",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220504_Layer-2-Report-Research.jpg"
         },
         {
           "id": "https://gov.gitcoin.co/t/gtc-conviction-voting-dapp-gtc-utility/10523",
@@ -31,7 +61,7 @@
           "description": "Unpacking the Intricate Relationship Between Bitcoin and Inflation",
           "link": "https://pomp.substack.com/p/unpacking-the-intricate-relationship?s=w",
           "publishedOn": "2022-05-06T22:00:04.000Z",
-          "wordCount": 1732,
+          "wordCount": 1729,
           "title": "Unpacking the Intricate Relationship Between Bitcoin and Inflation",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6ca1fc0-a13e-4d4a-9c7f-83ce8b453e06_1600x600.png"
         },
@@ -44,16 +74,6 @@
           "wordCount": 494,
           "title": "GitHub - LeXpunK-Army/MiCA-GUIDANCE",
           "imageUrl": "https://opengraph.githubassets.com/ced07a5a4cff3328249af379609d442db3ec5016df09bb917bd6fc31025c2523/LeXpunK-Army/MiCA-GUIDANCE"
-        },
-        {
-          "id": "https://medium.com/hexagon-finance/an-how-to-guide-to-the-flake-auction-fe88f3e56e1d",
-          "author": null,
-          "description": "An How-To Guide to the FLAKE Auction",
-          "link": "https://medium.com/hexagon-finance/an-how-to-guide-to-the-flake-auction-fe88f3e56e1d",
-          "publishedOn": "2022-05-06T21:30:04.000Z",
-          "wordCount": 1059,
-          "title": "An How-To Guide to the FLAKE Auction",
-          "imageUrl": "https://miro.medium.com/max/1200/0*h65c1P1jBuyvNoNJ"
         },
         {
           "id": "https://future.a16z.com/7-essential-ingredients-of-a-metaverse/",
@@ -71,7 +91,7 @@
           "description": "Binance’s warm welcome in France draws stark divide with UK",
           "link": "https://www.ft.com/content/141408bb-3833-43c5-853b-a68d4fdaa330",
           "publishedOn": "2022-05-06T21:00:04.000Z",
-          "wordCount": 1067,
+          "wordCount": 1068,
           "title": "Binance’s warm welcome in France draws stark divide with UK",
           "imageUrl": null
         },
@@ -84,16 +104,6 @@
           "wordCount": 14,
           "title": "Gabriel Haines - YouTube",
           "imageUrl": "https://yt3.ggpht.com/ytc/AKedOLQi2Dhau1GE1hs77Df2NVcbfOWDKW17ajZl73J1dw=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
-          "id": "https://kelvinfichter.com/pages/thoughts/hybrid-rollups/",
-          "author": null,
-          "description": "kf | The hybrid ZK/Optimistic Rollup of the future",
-          "link": "https://kelvinfichter.com/pages/thoughts/hybrid-rollups/",
-          "publishedOn": "2022-05-06T20:00:03.000Z",
-          "wordCount": 1876,
-          "title": "kf | The hybrid ZK/Optimistic Rollup of the future",
-          "imageUrl": null
         },
         {
           "id": "https://www.wired.com/story/big-tech-roe-abortion/",
@@ -163,7 +173,7 @@
           "publishedOn": "2022-05-06T11:00:03.000Z",
           "wordCount": 749,
           "title": "GitHub - DefiLlama/yield-server",
-          "imageUrl": "https://opengraph.githubassets.com/5c8ea97f22bbb4be78bb22407f4b218e1ad6f1cc1b0d07b8cd7eb814d38d178b/DefiLlama/yield-server"
+          "imageUrl": "https://opengraph.githubassets.com/4cbe9308d0ae2537486b5bc6606e9511c7181ad43a4bf095f2626e172862438a/DefiLlama/yield-server"
         },
         {
           "id": "https://defillama.com/yields",
@@ -181,19 +191,9 @@
           "description": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "link": "https://finance.yahoo.com/news/panamas-crypto-law-no-legal-200250718.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKGWcqgqiRYm0pdQgbVCfQZYr_OGaU3sr4zZpR3zkIDXm5M3BYPuI4Gg8X9gnprlHH4ma69d_r8EUuRo7fjXSXmDwfkernGlmKRM71cpMlqLRnzCMc_pyGvcWbiaDHqdZSqPAf-soNMj_GuoesYAaoosPEER7Mgl7ZADGLa7i12e",
           "publishedOn": "2022-05-06T07:00:05.000Z",
-          "wordCount": 2203,
+          "wordCount": 2168,
           "title": "Panama's Crypto Law: No Legal Tender, but Digital Assets Exempt From Capital Gains Tax",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/cMLGqp30aEHjmY9KzeQGkA--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/c43e184659660c28c66664995c1290d0"
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w",
-          "author": null,
-          "description": "The Stablecoin Wars!",
-          "link": "https://newsletter.banklesshq.com/p/the-stablecoin-wars-755?s=w",
-          "publishedOn": "2022-05-06T01:00:04.000Z",
-          "wordCount": 3315,
-          "title": "The Stablecoin Wars!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefed32df-fcef-4c5b-a914-e089b9deee23_2668x1501.jpeg"
         },
         {
           "id": "https://manordao.com/",
