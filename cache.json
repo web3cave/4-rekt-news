@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.amazon.com/Facing-Up-Scarcity-Nonconsequentialist-Thought-ebook/dp/B0857HH65T/ref=sr_1_1?crid=1L6GOKNKQBF9P&keywords=facing+up+to+scarcity&qid=1651941228&s=books&sprefix=facing+up+to+scarcity%2Cstripbooks%2C85&sr=1-1&tag=ttrvin-20",
+          "author": null,
+          "description": "Facing Up to Scarcity: The Logic and Limits of Nonconsequentialist Thought - Kindle edition by Fried, Barbara H.",
+          "link": "https://www.amazon.com/Facing-Up-Scarcity-Nonconsequentialist-Thought-ebook/dp/B0857HH65T/ref=sr_1_1?crid=1L6GOKNKQBF9P&keywords=facing+up+to+scarcity&qid=1651941228&s=books&sprefix=facing+up+to+scarcity%2Cstripbooks%2C85&sr=1-1&tag=ttrvin-20",
+          "publishedOn": "2022-05-08T15:30:05.000Z",
+          "wordCount": null,
+          "title": "Facing Up to Scarcity: The Logic and Limits of Nonconsequentialist Thought - Kindle edition by Fried, Barbara H.",
+          "imageUrl": null
+        },
+        {
           "id": "https://orca.kujira.app/?utm_medium=social&utm_source=Twitter&utm_campaign=Dale",
           "author": null,
           "description": "ORCA by Kujira",
@@ -131,7 +141,7 @@
           "description": "Japan's population falls by record 644,000 to 125.5 mil. in 2021",
           "link": "https://english.kyodonews.net/news/2022/04/2682851af82b-breaking-news-tokyos-population-shrinks-for-1st-time-in-26-yrs-govt-data.html",
           "publishedOn": "2022-05-08T03:00:03.000Z",
-          "wordCount": 707,
+          "wordCount": 706,
           "title": "Japan's population falls by record 644,000 to 125.5 mil. in 2021",
           "imageUrl": "https://img.kyodonews.net/english/public/images/posts/7751037207b44f52be95153e8ab230c8/cropped_image_l.jpg"
         },
@@ -186,24 +196,14 @@
           "imageUrl": "https://images.mirror-media.xyz/publication-images/b4490c3a-7d13-4bf9-a271-62982c1d60bd.jpeg?height=1000&width=1000"
         },
         {
-          "id": "https://skylab.xyz/",
+          "id": "https://hackmd.io/@benjaminion/eth2_news",
           "author": null,
-          "description": "Skylab · web3 builder community",
-          "link": "https://skylab.xyz/",
-          "publishedOn": "2022-05-07T03:00:05.000Z",
-          "wordCount": 48,
-          "title": "Skylab · web3 builder community",
-          "imageUrl": "https://skylab.xyz/assets/img/img.png"
-        },
-        {
-          "id": "https://mirror.xyz/jordanlyall.eth/uQThPCvOGZbNXPQEwShuQCW77YRXsn6XNVAsxgkNqjk",
-          "author": null,
-          "description": "Skylab is a community for web3 founders and funders",
-          "link": "https://mirror.xyz/jordanlyall.eth/uQThPCvOGZbNXPQEwShuQCW77YRXsn6XNVAsxgkNqjk",
-          "publishedOn": "2022-05-07T03:00:05.000Z",
-          "wordCount": 435,
-          "title": "Skylab is a community for web3 founders and funders",
-          "imageUrl": "https://mirror-media.imgix.net/nft/NsS3pdAvnQZEP2doao58s.png?h=null&w=null&auto=compress"
+          "description": "What’s New in Eth2 - HackMD",
+          "link": "https://hackmd.io/@benjaminion/eth2_news",
+          "publishedOn": "2022-05-06T23:00:03.000Z",
+          "wordCount": 411,
+          "title": "What’s New in Eth2 - HackMD",
+          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         }
       ]
     }
