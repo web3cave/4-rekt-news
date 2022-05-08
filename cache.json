@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://defillama.com/yields/chain/Ethereum",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/yields/chain/Ethereum",
+          "publishedOn": "2022-05-08T12:00:04.000Z",
+          "wordCount": 340,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
           "id": "https://blackpool.finance/",
           "author": null,
           "description": "BlackPool Finance - /",
@@ -121,19 +131,9 @@
           "description": "Andre Cronje: 'regulated crypto' more feasible than ‘crypto regulations’",
           "link": "https://www.theblockcrypto.com/post/142472/andre-cronje-regulated-crypto-more-feasible-than-crypto-regulations",
           "publishedOn": "2022-05-07T20:00:05.000Z",
-          "wordCount": 1026,
+          "wordCount": 1021,
           "title": "Andre Cronje: 'regulated crypto' more feasible than ‘crypto regulations’",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210526_Revolving-Door-Crypto-Regulation.jpg"
-        },
-        {
-          "id": "https://www.lawfareblog.com/ofac-dprk-and-tornado-cash",
-          "author": null,
-          "description": "OFAC, the DPRK and the Tornado of Cash",
-          "link": "https://www.lawfareblog.com/ofac-dprk-and-tornado-cash",
-          "publishedOn": "2022-05-07T19:30:06.000Z",
-          "wordCount": 2018,
-          "title": "OFAC, the DPRK and the Tornado of Cash",
-          "imageUrl": "https://www.lawfareblog.com/sites/default/files/tc.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=o7TRvQNe94k",
@@ -151,7 +151,7 @@
           "description": "Terra’s dominant DeFi protocol may need another bailout soon",
           "link": "https://www.theblockcrypto.com/news+/145450/terras-dominant-defi-protocol-may-need-another-bailout-soon",
           "publishedOn": "2022-05-07T18:00:03.000Z",
-          "wordCount": 742,
+          "wordCount": 737,
           "title": "Terra’s dominant DeFi protocol may need another bailout soon",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220505_Anchor_Protocol2.jpg"
         },
@@ -166,14 +166,14 @@
           "imageUrl": "https://thecountersignal.com/wp-content/uploads/2022/05/STUDY-MASKS-COVID-1.png"
         },
         {
-          "id": "https://github.com/john-light/zkrollups/blob/main/library.md",
+          "id": "https://supernova.devpost.com/",
           "author": null,
-          "description": "zkrollups/library.md at main · john-light/zkrollups",
-          "link": "https://github.com/john-light/zkrollups/blob/main/library.md",
-          "publishedOn": "2022-05-07T04:00:03.000Z",
-          "wordCount": 549,
-          "title": "zkrollups/library.md at main · john-light/zkrollups",
-          "imageUrl": "https://opengraph.githubassets.com/d6d2cc15db9c2489c4b72714e90a68c3d7a5118fea3fbd8453745665efd2cd7c/john-light/zkrollups"
+          "description": "Supernova",
+          "link": "https://supernova.devpost.com/",
+          "publishedOn": "2022-05-07T17:00:04.000Z",
+          "wordCount": 2673,
+          "title": "Supernova",
+          "imageUrl": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/925/438/datas/original.jpeg"
         },
         {
           "id": "https://skylab.xyz/",

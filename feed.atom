@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-08T11:17:50.711Z</id>
+    <id>urn:2022-05-08T12:36:01.943Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-08T11:17:50.711Z</updated>
+    <updated>2022-05-08T12:36:01.943Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DefiLlama]]></title>
+        <id>https://defillama.com/yields/chain/Ethereum</id>
+        <link href="https://defillama.com/yields/chain/Ethereum"/>
+        <updated>2022-05-08T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlama]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackPool Finance - /]]></title>
         <id>https://blackpool.finance/</id>
@@ -126,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OFAC, the DPRK and the Tornado of Cash]]></title>
-        <id>https://www.lawfareblog.com/ofac-dprk-and-tornado-cash</id>
-        <link href="https://www.lawfareblog.com/ofac-dprk-and-tornado-cash"/>
-        <updated>2022-05-07T19:30:06.000Z</updated>
-        <summary type="html"><![CDATA[OFAC, the DPRK and the Tornado of Cash]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Andre Cronje: Out of the Crypto Badlands Into a Regulated Future]]></title>
         <id>https://www.youtube.com/watch?v=o7TRvQNe94k</id>
         <link href="https://www.youtube.com/watch?v=o7TRvQNe94k"/>
@@ -166,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zkrollups/library.md at main · john-light/zkrollups]]></title>
-        <id>https://github.com/john-light/zkrollups/blob/main/library.md</id>
-        <link href="https://github.com/john-light/zkrollups/blob/main/library.md"/>
-        <updated>2022-05-07T04:00:03.000Z</updated>
-        <summary type="html"><![CDATA[zkrollups/library.md at main · john-light/zkrollups]]></summary>
+        <title type="html"><![CDATA[Supernova]]></title>
+        <id>https://supernova.devpost.com/</id>
+        <link href="https://supernova.devpost.com/"/>
+        <updated>2022-05-07T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Supernova]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
