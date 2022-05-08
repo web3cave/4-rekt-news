@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.washingtonpost.com/health/2022/05/03/healthy-lifestyle-greater-life-expectancy/",
+          "author": null,
+          "description": "Healthy lifestyle may increase life expectancy, research suggests",
+          "link": "https://www.washingtonpost.com/health/2022/05/03/healthy-lifestyle-greater-life-expectancy/",
+          "publishedOn": "2022-05-08T07:30:02.000Z",
+          "wordCount": 601,
+          "title": "Healthy lifestyle may increase life expectancy, research suggests",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X53ZJDCAXMI6XNMLCYR7MJTZMA.jpg&w=1440"
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/former-google-ceo-eric-schmidt-joins-chainlink-labs-as-a-strategic-advisor-301438428.html",
           "author": null,
           "description": "Former Google CEO Eric Schmidt Joins Chainlink Labs as a Strategic Advisor",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-05-08T07:00:04.000Z",
           "wordCount": 1069,
           "title": "\"The Whole Planet Is A Pot, And We're All Frogs\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIlWyn4WNHA&feature=youtu.be",
-          "author": null,
-          "description": "Aiden - We Sleep Forever",
-          "link": "https://www.youtube.com/watch?v=sIlWyn4WNHA&feature=youtu.be",
-          "publishedOn": "2022-05-08T05:00:02.000Z",
-          "wordCount": null,
-          "title": "Aiden - We Sleep Forever",
           "imageUrl": null
         },
         {
@@ -81,7 +81,7 @@
           "description": "The State Bar of California",
           "link": "https://www.calbar.ca.gov/About-Us/News/News-Releases/state-bar-of-california-releases-results-of-february-2022-bar-exam",
           "publishedOn": "2022-05-08T01:00:02.000Z",
-          "wordCount": 1992,
+          "wordCount": 1980,
           "title": "The State Bar of California",
           "imageUrl": "https://www.calbar.ca.gov/Portals/_default/Skins/CalbarMainResponsive/img/seal_blackline_fbformat.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "Andre Cronje: 'regulated crypto' more feasible than ‘crypto regulations’",
           "link": "https://www.theblockcrypto.com/post/142472/andre-cronje-regulated-crypto-more-feasible-than-crypto-regulations",
           "publishedOn": "2022-05-07T20:00:05.000Z",
-          "wordCount": 1003,
+          "wordCount": 1018,
           "title": "Andre Cronje: 'regulated crypto' more feasible than ‘crypto regulations’",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210526_Revolving-Door-Crypto-Regulation.jpg"
         },
@@ -151,7 +151,7 @@
           "description": "Terra’s dominant DeFi protocol may need another bailout soon",
           "link": "https://www.theblockcrypto.com/news+/145450/terras-dominant-defi-protocol-may-need-another-bailout-soon",
           "publishedOn": "2022-05-07T18:00:03.000Z",
-          "wordCount": 765,
+          "wordCount": 734,
           "title": "Terra’s dominant DeFi protocol may need another bailout soon",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220505_Anchor_Protocol2.jpg"
         },
@@ -183,7 +183,7 @@
           "publishedOn": "2022-05-07T04:00:03.000Z",
           "wordCount": 549,
           "title": "zkrollups/library.md at main · john-light/zkrollups",
-          "imageUrl": "https://opengraph.githubassets.com/a96691632552c34b670048a6e01dcf91d69d44578a5d7e10f25175240840b8e3/john-light/zkrollups"
+          "imageUrl": "https://opengraph.githubassets.com/d6d2cc15db9c2489c4b72714e90a68c3d7a5118fea3fbd8453745665efd2cd7c/john-light/zkrollups"
         },
         {
           "id": "https://skylab.xyz/",
