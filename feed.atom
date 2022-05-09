@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T19:18:07.690Z</id>
+    <id>urn:2022-05-09T20:23:22.276Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-09T19:18:07.690Z</updated>
+    <updated>2022-05-09T20:23:22.276Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] poh.pdf]]></title>
+        <id>https://www.shoup.net/papers/poh.pdf</id>
+        <link href="https://www.shoup.net/papers/poh.pdf"/>
+        <updated>2022-05-09T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] poh.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter Dips After Hindenburg Research Sees Risk Of Musk's Deal Repricing Lower | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/markets/twitter-dips-after-hindenburg-research-sees-risk-musks-deal-repricing-lower</id>
@@ -191,16 +201,6 @@
         <link href="https://github.com/protocol/research/blob/master/research-events/research-seminars.md"/>
         <updated>2022-05-08T22:00:04.000Z</updated>
         <summary type="html"><![CDATA[research/research-seminars.md at master · protocol/research]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Captain, my Captain! | Thank you to Robin Williams (HD)]]></title>
-        <id>https://www.youtube.com/watch?v=j64SctPKmqk</id>
-        <link href="https://www.youtube.com/watch?v=j64SctPKmqk"/>
-        <updated>2022-05-08T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[O Captain, my Captain! | Thank you to Robin Williams (HD)]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
