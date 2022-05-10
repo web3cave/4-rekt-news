@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://brewbyintern.com/",
+          "author": null,
+          "description": "Intern's BREW",
+          "link": "https://brewbyintern.com/",
+          "publishedOn": "2022-05-10T18:00:04.000Z",
+          "wordCount": 276,
+          "title": "Intern's BREW",
+          "imageUrl": "/images/new/og.png"
+        },
+        {
           "id": "https://blog.keys.casa/announcing-api-series-a/",
           "author": null,
           "description": "Casa announces new API, raises $21 million Series A funding",
@@ -86,16 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://talent.delphidigital.io/companies",
-          "author": null,
-          "description": "Delphi Digital Job Board",
-          "link": "https://talent.delphidigital.io/companies",
-          "publishedOn": "2022-05-10T05:30:03.000Z",
-          "wordCount": 676,
-          "title": "Delphi Digital Job Board",
-          "imageUrl": null
-        },
-        {
           "id": "https://babby.xyz/",
           "author": null,
           "description": "BABBY.xyz",
@@ -171,9 +171,9 @@
           "description": "Bitcoin / Address / bc1q9d4ywgfnd8h43da5tpcxcn6ajv590cg6d3tg6axemvljvt2k76zs50tv4q",
           "link": "https://blockchair.com/bitcoin/address/bc1q9d4ywgfnd8h43da5tpcxcn6ajv590cg6d3tg6axemvljvt2k76zs50tv4q?fbclid=IwAR0TjUbxxf35HcKtzbEG6w0F-GVIEM7Dud4WATp6B4yyec6y2dL6N6pgOmk",
           "publishedOn": "2022-05-09T20:30:03.000Z",
-          "wordCount": null,
+          "wordCount": 1627,
           "title": "Bitcoin / Address / bc1q9d4ywgfnd8h43da5tpcxcn6ajv590cg6d3tg6axemvljvt2k76zs50tv4q",
-          "imageUrl": null
+          "imageUrl": "https://blockchair.com/bitcoin/address/bc1q9d4ywgfnd8h43da5tpcxcn6ajv590cg6d3tg6axemvljvt2k76zs50tv4q.jpg"
         },
         {
           "id": "https://a16z.com/2022/05/09/investing-in-irreverent-labs/",
