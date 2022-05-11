@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.cracked.com/article_33848_unfortunately-the-wsj-is-wrong-the-nft-market-is-not-collapsing.html",
+          "id": "https://www.theblockcrypto.com/post/146339/coinbases-stock-craters-to-new-lows-after-earnings-disappointment-banks-slash-price-targets",
           "author": null,
-          "description": "Unfortunately, The WSJ Is Wrong: The NFT Market Is Not Collapsing",
-          "link": "https://www.cracked.com/article_33848_unfortunately-the-wsj-is-wrong-the-nft-market-is-not-collapsing.html",
-          "publishedOn": "2022-05-11T18:00:04.000Z",
-          "wordCount": 1064,
-          "title": "Unfortunately, The WSJ Is Wrong: The NFT Market Is Not Collapsing",
-          "imageUrl": "https://s3.crackedcdn.com/phpimages/article/2/4/7/845247.jpg"
+          "description": "Coinbase's stock craters to new lows after earnings disappointment, banks slash price targets",
+          "link": "https://www.theblockcrypto.com/post/146339/coinbases-stock-craters-to-new-lows-after-earnings-disappointment-banks-slash-price-targets",
+          "publishedOn": "2022-05-11T19:00:04.000Z",
+          "wordCount": 1341,
+          "title": "Coinbase's stock craters to new lows after earnings disappointment, banks slash price targets",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
+          "author": null,
+          "description": "Decentralized Society: Finding Web3's Soul",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
+          "publishedOn": "2022-05-11T19:00:03.000Z",
+          "wordCount": 714,
+          "title": "Decentralized Society: Finding Web3's Soul",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
         },
         {
           "id": "https://babby.xyz/",
@@ -26,22 +36,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=OQh5DrNNiVw&ab_channel=Nansen&utm_source=twitter&utm_medium=organic&utm_campaign=office-hours-72-kain-warwick",
-          "author": null,
-          "description": "How Synthetix Utilizes Nansen - Office Hours #72 with Kain Warwick",
-          "link": "https://www.youtube.com/watch?v=OQh5DrNNiVw&ab_channel=Nansen&utm_source=twitter&utm_medium=organic&utm_campaign=office-hours-72-kain-warwick",
-          "publishedOn": "2022-05-11T17:00:04.000Z",
-          "wordCount": null,
-          "title": "How Synthetix Utilizes Nansen - Office Hours #72 with Kain Warwick",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/",
           "author": null,
           "description": "UST’s Do Kwon Was Behind Earlier Failed Stablecoin, Ex-Terra Colleagues Say",
           "link": "https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/",
           "publishedOn": "2022-05-11T16:30:02.000Z",
-          "wordCount": 1796,
+          "wordCount": 1865,
           "title": "UST’s Do Kwon Was Behind Earlier Failed Stablecoin, Ex-Terra Colleagues Say",
           "imageUrl": "https://www.coindesk.com/resizer/wi9QhcN93k2mT_avxt7zPeayhRM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NBBDEYSGFEWLGHLTFCR4PKREA.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "r/terraluna - For those considering suicide, here’s my story of attempted suicide.",
           "link": "https://www.reddit.com/r/terraluna/comments/un0fni/for_those_considering_suicide_heres_my_story_of/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
           "publishedOn": "2022-05-11T11:00:02.000Z",
-          "wordCount": 2571,
+          "wordCount": 2431,
           "title": "r/terraluna - For those considering suicide, here’s my story of attempted suicide.",
           "imageUrl": null
         },
@@ -121,7 +121,7 @@
           "description": "feat: forge coverage by onbjerg · Pull Request #1576 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/1576",
           "publishedOn": "2022-05-11T04:00:04.000Z",
-          "wordCount": 1706,
+          "wordCount": 1709,
           "title": "feat: forge coverage by onbjerg · Pull Request #1576 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/66fc7fb3c98efd19c420beaadafe2d1db4a8605e9e6ddf94fbf58b8cfe3a06e4/foundry-rs/foundry/pull/1576"
         },
@@ -156,6 +156,16 @@
           "imageUrl": "https://ensclock.com/preview2.png"
         },
         {
+          "id": "https://boards.greenhouse.io/avalabs",
+          "author": null,
+          "description": "Ava Labs",
+          "link": "https://boards.greenhouse.io/avalabs",
+          "publishedOn": "2022-05-11T01:00:04.000Z",
+          "wordCount": 526,
+          "title": "Ava Labs",
+          "imageUrl": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/388/300/original/Ava_Labs._Black.png?1627876089"
+        },
+        {
           "id": "https://unchainedpodcast.com/will-optimisms-op-token-draw-people-back-to-layer-2s-on-ethereum/",
           "author": null,
           "description": "Will Optimism's OP Token Draw People Back to Layer 2s on Ethereum? - Unchained Podcast",
@@ -164,16 +174,6 @@
           "wordCount": 420,
           "title": "Will Optimism's OP Token Draw People Back to Layer 2s on Ethereum? - Unchained Podcast",
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN350.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/145978/luna-foundation-guard-seeks-more-than-1-billion-to-shore-up-ust-stablecoin-sources",
-          "author": null,
-          "description": "Luna Foundation Guard seeks more than $1 billion to shore up UST stablecoin: sources",
-          "link": "https://www.theblockcrypto.com/post/145978/luna-foundation-guard-seeks-more-than-1-billion-to-shore-up-ust-stablecoin-sources",
-          "publishedOn": "2022-05-10T21:00:05.000Z",
-          "wordCount": 1170,
-          "title": "Luna Foundation Guard seeks more than $1 billion to shore up UST stablecoin: sources",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220218_Luna_LFG_Bitcoin_Reserve.jpg"
         },
         {
           "id": "https://www.euractiv.com/section/data-protection/news/leak-commission-to-force-scanning-of-communications-to-combat-child-pornography/",
