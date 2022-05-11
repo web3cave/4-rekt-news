@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/terraluna/",
+          "author": null,
+          "description": "r/terraluna",
+          "link": "https://www.reddit.com/r/terraluna/",
+          "publishedOn": "2022-05-11T09:00:02.000Z",
+          "wordCount": 991,
+          "title": "r/terraluna",
+          "imageUrl": "https://styles.redditmedia.com/t5_2y4t5/styles/communityIcon_5zgsdcswmco61.png?width=256&s=e00fd7d56a7cd31490ffa41bce12e93885df15e6"
+        },
+        {
           "id": "https://www.sec.gov/oca/staff-accounting-bulletin-121",
           "author": null,
           "description": "SEC.gov | Staff Accounting Bulletin No. 121",
@@ -41,9 +51,9 @@
           "description": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/1208",
           "publishedOn": "2022-05-11T04:00:04.000Z",
-          "wordCount": 3233,
+          "wordCount": 3614,
           "title": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/976c942da35612cd8177361d1c8fb7d8aa4cc52173b99ecd9386bf922e5e7ff0/foundry-rs/foundry/pull/1208"
+          "imageUrl": "https://opengraph.githubassets.com/3842c4ec132dd8aa6df1bd532b3f9bdaee242449732a4889704fbbcfbf96773d/foundry-rs/foundry/pull/1208"
         },
         {
           "id": "https://github.com/foundry-rs/foundry/pull/1572",
@@ -111,7 +121,7 @@
           "description": "African Crypto Startup Raises $30 Million To Build A Web3 WeChat",
           "link": "https://www.forbes.com/sites/ninabambysheva/2022/05/10/african-crypto-startup-raises-30-million-to-build-a-web3-wechat-for-the-continent/",
           "publishedOn": "2022-05-10T21:30:04.000Z",
-          "wordCount": 1237,
+          "wordCount": 1245,
           "title": "African Crypto Startup Raises $30 Million To Build A Web3 WeChat",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/627a9bf683c19fc7bbd75a76/0x0.jpg?format=jpg&width=1200"
         },
@@ -156,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://help.twitter.com/en/rules-and-policies/copypasta-duplicate-content",
-          "author": null,
-          "description": "Copypasta and duplicate content policy | Twitter Help",
-          "link": "https://help.twitter.com/en/rules-and-policies/copypasta-duplicate-content",
-          "publishedOn": "2022-05-10T18:00:03.000Z",
-          "wordCount": 870,
-          "title": "Copypasta and duplicate content policy | Twitter Help",
-          "imageUrl": "https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/logos/htc-summary-card.jpg.twimg.768.jpg"
-        },
-        {
           "id": "https://blog.keys.casa/announcing-api-series-a/",
           "author": null,
           "description": "Casa announces new API, raises $21 million Series A funding",
@@ -201,7 +201,7 @@
           "description": "Hσʅʅყ+",
           "link": "https://auction.holly.plus/",
           "publishedOn": "2022-05-09T23:00:05.000Z",
-          "wordCount": 325,
+          "wordCount": 323,
           "title": "Hσʅʅყ+",
           "imageUrl": "https://holly-plus-auction.vercel.app/h-plus-social.jpg"
         }
