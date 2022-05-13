@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dashboard.lfg.org/",
+          "author": null,
+          "description": "LFG Reserves",
+          "link": "https://dashboard.lfg.org/",
+          "publishedOn": "2022-05-13T06:00:05.000Z",
+          "wordCount": 4,
+          "title": "LFG Reserves",
+          "imageUrl": "https://dashboard.lfg.org/img/lfg-reserves-meta-image.png"
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/146332/6th-man-ventures-is-raising-145-million-for-a-second-crypto-fund",
           "author": null,
           "description": "6th Man Ventures is raising $145 million for a second crypto fund",
@@ -51,19 +61,9 @@
           "description": "[´ܵ¶]'99% Æø¶ô' ·糪fCEO Áý±îÁö ã¾ƿÂ '°ËÀº ±׸²ÀÚ' - ¸ӴÏÅõµ¥ÀÌ",
           "link": "https://news.mt.co.kr/mtview.php?no=2022051308574726920&MT_T",
           "publishedOn": "2022-05-13T03:00:07.000Z",
-          "wordCount": 1646,
+          "wordCount": 1620,
           "title": "[´ܵ¶]'99% Æø¶ô' ·糪fCEO Áý±îÁö ã¾ƿÂ '°ËÀº ±׸²ÀÚ' - ¸ӴÏÅõµ¥ÀÌ",
           "imageUrl": "https://thumb.mt.co.kr/21/2022/05/2022051308574726920_1.jpg"
-        },
-        {
-          "id": "https://gov.optimism.io/t/delegate-commitments/235/37?u=linda",
-          "author": null,
-          "description": "Delegate Commitments",
-          "link": "https://gov.optimism.io/t/delegate-commitments/235/37?u=linda",
-          "publishedOn": "2022-05-13T03:00:07.000Z",
-          "wordCount": 9901,
-          "title": "Delegate Commitments",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
         },
         {
           "id": "https://blog.coinbase.com/top-of-mind-staying-focused-during-market-downturns-5746dd7127e5?gi=5a6b9ba99132",
@@ -94,6 +94,16 @@
           "wordCount": 614,
           "title": "To All Dragonfly Founders and Friends",
           "imageUrl": "https://miro.medium.com/max/1200/1*1lCKOF5Sv-Z0cPk9Rxwfww.jpeg"
+        },
+        {
+          "id": "https://blog.venus.io/venus-protocol-official-statement-regarding-luna-6eb45c3cb058?gi=b0b4ae504e52",
+          "author": null,
+          "description": "Venus Protocol Official Statement regarding LUNA",
+          "link": "https://blog.venus.io/venus-protocol-official-statement-regarding-luna-6eb45c3cb058?gi=b0b4ae504e52",
+          "publishedOn": "2022-05-13T03:00:06.000Z",
+          "wordCount": 331,
+          "title": "Venus Protocol Official Statement regarding LUNA",
+          "imageUrl": "https://miro.medium.com/max/1200/1*JjiIJx82lDwDWxf3p6ylIw.png"
         },
         {
           "id": "https://justlend.org/",
@@ -194,16 +204,6 @@
           "wordCount": 1452,
           "title": "New Release 5.0.0 - Electric Coin Company",
           "imageUrl": "https://electriccoin.co/wp-content/uploads/2022/05/New-Release-500.png"
-        },
-        {
-          "id": "https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/",
-          "author": null,
-          "description": "UST’s Do Kwon Was Behind Earlier Failed Stablecoin, Ex-Terra Colleagues Say",
-          "link": "https://www.coindesk.com/tech/2022/05/11/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say/",
-          "publishedOn": "2022-05-11T16:30:02.000Z",
-          "wordCount": 1858,
-          "title": "UST’s Do Kwon Was Behind Earlier Failed Stablecoin, Ex-Terra Colleagues Say",
-          "imageUrl": "https://www.coindesk.com/resizer/wi9QhcN93k2mT_avxt7zPeayhRM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5NBBDEYSGFEWLGHLTFCR4PKREA.jpg"
         }
       ]
     }
