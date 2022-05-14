@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zvODqTUAPN0",
+          "author": null,
+          "description": "The Merge - with Danny Ryan, Tim Beiko, and Hasu (Part 1)",
+          "link": "https://www.youtube.com/watch?v=zvODqTUAPN0",
+          "publishedOn": "2022-05-14T22:30:04.000Z",
+          "wordCount": null,
+          "title": "The Merge - with Danny Ryan, Tim Beiko, and Hasu (Part 1)",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/@zooko_25893/undisclosed-and-actively-relevant-conflicts-of-interest-on-the-zcash-foundation-board-of-directors-d9a91fa0c015",
           "author": null,
           "description": "Undisclosed and actively relevant conflicts of interest on the Zcash Foundation Board of Directors",
           "link": "https://medium.com/@zooko_25893/undisclosed-and-actively-relevant-conflicts-of-interest-on-the-zcash-foundation-board-of-directors-d9a91fa0c015",
           "publishedOn": "2022-05-14T22:00:04.000Z",
-          "wordCount": 1758,
+          "wordCount": 228,
           "title": "Undisclosed and actively relevant conflicts of interest on the Zcash Foundation Board of Directors",
           "imageUrl": null
         },
@@ -81,7 +91,7 @@
           "description": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/1208",
           "publishedOn": "2022-05-14T03:00:03.000Z",
-          "wordCount": 4920,
+          "wordCount": 4917,
           "title": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/80e50e8c66e0826a19427003207d492248b37d18239dba8b813b3b8ebbbae66f/foundry-rs/foundry/pull/1208"
         },
@@ -184,16 +194,6 @@
           "wordCount": 898,
           "title": "Ethereum Core Devs Meeting 138 Agenda · Issue #518 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/33c50a34cdbee480a8953451a52a77aa3835585e55fee95db7af7948ebe315ca/ethereum/pm/issues/518"
-        },
-        {
-          "id": "https://agora.terra.money/t/terra-ecosystem-revival-plan/8701",
-          "author": null,
-          "description": "Terra Ecosystem Revival Plan",
-          "link": "https://agora.terra.money/t/terra-ecosystem-revival-plan/8701",
-          "publishedOn": "2022-05-13T19:00:03.000Z",
-          "wordCount": 1509,
-          "title": "Terra Ecosystem Revival Plan",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/terra/original/1X/367352a10df100b123cd0bae63e27b68844d58be.png"
         },
         {
           "id": "https://www.theblockcrypto.com/post/146840/luna-foundation-guard-lfg-bitcoin-reserves-unaccounted",
