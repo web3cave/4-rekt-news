@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.trybetterbrand.com/products/betterfocus",
+          "author": null,
+          "description": "BetterFocus™",
+          "link": "https://www.trybetterbrand.com/products/betterfocus",
+          "publishedOn": "2022-05-16T11:00:05.000Z",
+          "wordCount": 888,
+          "title": "BetterFocus™",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0243/3030/5622/products/better.png?v=1635957914"
+        },
+        {
           "id": "https://open.spotify.com/show/4mTiWTYpcHcX5ZU6cRng9B?si=czJ2TzncR6yBdRhfZZQsIQ",
           "author": null,
           "description": "I Pledge Allegiance",
@@ -76,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.coinbase.com/coinbase-pay-the-easiest-way-to-purchase-or-transfer-crypto-is-now-available-for-web3-developers-c686d0aab94b?gi=a7d1c635863",
-          "author": null,
-          "description": "Coinbase Pay, the easiest way to purchase or transfer crypto, is now available for web3 developers",
-          "link": "https://blog.coinbase.com/coinbase-pay-the-easiest-way-to-purchase-or-transfer-crypto-is-now-available-for-web3-developers-c686d0aab94b?gi=a7d1c635863",
-          "publishedOn": "2022-05-16T01:00:04.000Z",
-          "wordCount": 876,
-          "title": "Coinbase Pay, the easiest way to purchase or transfer crypto, is now available for web3 developers",
-          "imageUrl": "https://miro.medium.com/max/1200/0*XwUCT9BTqLEdWL0G"
-        },
-        {
           "id": "https://hbr.org/2019/12/how-one-person-can-change-the-conscience-of-an-organization",
           "author": null,
           "description": "How One Person Can Change the Conscience of an Organization",
@@ -116,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
-          "author": null,
-          "description": "Decentralized Society: Finding Web3's Soul",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
-          "publishedOn": "2022-05-15T23:00:04.000Z",
-          "wordCount": 737,
-          "title": "Decentralized Society: Finding Web3's Soul",
-          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
-        },
-        {
           "id": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale#Why-32-ETH-validator-sizes",
           "author": null,
           "description": "Serenity Design Rationale - HackMD",
@@ -134,6 +124,16 @@
           "wordCount": 5881,
           "title": "Serenity Design Rationale - HackMD",
           "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
+          "author": null,
+          "description": "Decentralized Society: Finding Web3's Soul",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
+          "publishedOn": "2022-05-15T23:00:04.000Z",
+          "wordCount": 737,
+          "title": "Decentralized Society: Finding Web3's Soul",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
         },
         {
           "id": "https://horizon.io/careers",
@@ -181,7 +181,7 @@
           "description": "fence equality meme picture - Google Search",
           "link": "https://www.google.com/search?q=fence+equality+meme+picture&hl=en&source=lnms&tbm=isch",
           "publishedOn": "2022-05-15T19:00:05.000Z",
-          "wordCount": 130,
+          "wordCount": 135,
           "title": "fence equality meme picture - Google Search",
           "imageUrl": null
         },
