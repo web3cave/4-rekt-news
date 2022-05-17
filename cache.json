@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
+          "author": null,
+          "description": "[PDF] moral-fn.pdf",
+          "link": "https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
+          "publishedOn": "2022-05-17T10:00:07.000Z",
+          "wordCount": 15963,
+          "title": "[PDF] moral-fn.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ReIILmcLpk",
+          "author": null,
+          "description": "USENIX Security '16 - The Moral Character of Cryptographic Work - YouTube",
+          "link": "https://www.youtube.com/watch?v=1ReIILmcLpk",
+          "publishedOn": "2022-05-17T10:00:07.000Z",
+          "wordCount": null,
+          "title": "USENIX Security '16 - The Moral Character of Cryptographic Work - YouTube",
+          "imageUrl": null
+        },
+        {
           "id": "https://mirror.xyz/polynya.eth/0kY4AOjb6csrFrt7hnmv9RaEw_LpzP61cluSp--tiXQ",
           "author": null,
           "description": "Resolving Vitalik's contradictions",
@@ -46,16 +66,6 @@
           "imageUrl": "https://isovalent.com/static/cd730cafe56c9b8b40fc0626050d4fd8/d5ccc/ogimage.jpg"
         },
         {
-          "id": "https://consensys.net/blog/metamask/metamask-integrates-with-coinbase-pay-for-a-new-way-to-buy-crypto/",
-          "author": null,
-          "description": "MetaMask Integrates With Coinbase Pay For A New Way To Buy Crypto | ConsenSys",
-          "link": "https://consensys.net/blog/metamask/metamask-integrates-with-coinbase-pay-for-a-new-way-to-buy-crypto/",
-          "publishedOn": "2022-05-17T03:30:10.000Z",
-          "wordCount": 599,
-          "title": "MetaMask Integrates With Coinbase Pay For A New Way To Buy Crypto | ConsenSys",
-          "imageUrl": "https://cdn.consensys.net/uploads/2022/05/12152312/coinbasepay_logo_feature.png"
-        },
-        {
           "id": "https://newsletter.banklesshq.com/p/the-bear-market-wash-cycle-lite?s=w",
           "author": null,
           "description": "The Bear Market Wash-Cycle [LITE]",
@@ -74,16 +84,6 @@
           "wordCount": 1140,
           "title": "Careers | ConsenSys",
           "imageUrl": "https://cdn.consensys.net/uploads/consensys-featured-image-careers.png"
-        },
-        {
-          "id": "https://www.binance.com/en/blog/all/binance-labs-invests-in-terra-a-better-payment-network-for-the-masses-327277090177957888",
-          "author": null,
-          "description": "Binance Labs Invests in Terra: A Better Payment Network for the Masses | Binance Blog",
-          "link": "https://www.binance.com/en/blog/all/binance-labs-invests-in-terra-a-better-payment-network-for-the-masses-327277090177957888",
-          "publishedOn": "2022-05-17T03:00:03.000Z",
-          "wordCount": 1383,
-          "title": "Binance Labs Invests in Terra: A Better Payment Network for the Masses | Binance Blog",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20190423/6f022a31-3c97-422a-9f5e-b44941dbeca6.png"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast/featured",
@@ -121,7 +121,7 @@
           "description": "Access web3 with the Coinbase app",
           "link": "https://blog.coinbase.com/access-web3-with-the-coinbase-app-2b804c0aee8a?gi=860e08c7a966",
           "publishedOn": "2022-05-17T01:00:02.000Z",
-          "wordCount": 493,
+          "wordCount": 491,
           "title": "Access web3 with the Coinbase app",
           "imageUrl": "https://miro.medium.com/max/1200/0*WIqr-ydXSqUMsVfi"
         },
@@ -181,7 +181,7 @@
           "description": "Coinbase Pay, the easiest way to purchase or transfer crypto, is now available for web3 developers",
           "link": "https://blog.coinbase.com/coinbase-pay-the-easiest-way-to-purchase-or-transfer-crypto-is-now-available-for-web3-developers-c686d0aab94b?gi=a7d1c635863",
           "publishedOn": "2022-05-16T19:00:04.000Z",
-          "wordCount": 907,
+          "wordCount": 905,
           "title": "Coinbase Pay, the easiest way to purchase or transfer crypto, is now available for web3 developers",
           "imageUrl": "https://miro.medium.com/max/1200/0*XwUCT9BTqLEdWL0G"
         },
@@ -191,7 +191,7 @@
           "description": "UK Treasury en route to legalizing stablecoins amid Terra's UST crash",
           "link": "https://cointelegraph.com/news/uk-treasury-en-route-to-legalizing-stablecoins-amid-terra-s-ust-crash",
           "publishedOn": "2022-05-16T14:00:02.000Z",
-          "wordCount": 898,
+          "wordCount": 877,
           "title": "UK Treasury en route to legalizing stablecoins amid Terra's UST crash",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDUvZDAxZmM3MzQtOTcyMS00MDcwLThlNGEtMjk3YTU4MmZjYTYwLmpwZw==.jpg"
         },
