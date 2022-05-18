@@ -6,24 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.aurory.io/",
+          "author": null,
+          "description": "Aurory",
+          "link": "https://app.aurory.io/",
+          "publishedOn": "2022-05-18T02:00:03.000Z",
+          "wordCount": 3,
+          "title": "Aurory",
+          "imageUrl": null
+        },
+        {
           "id": "https://nypost.com/2022/05/17/half-of-joe-bidens-twitter-followers-are-fake-audit-reveals/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "author": null,
           "description": "Audit finds half of Joe Biden’s Twitter followers are fake",
           "link": "https://nypost.com/2022/05/17/half-of-joe-bidens-twitter-followers-are-fake-audit-reveals/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "publishedOn": "2022-05-18T00:30:04.000Z",
-          "wordCount": 1023,
+          "wordCount": 1021,
           "title": "Audit finds half of Joe Biden’s Twitter followers are fake",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/05/biden-twitter-index.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://blog.coinbase.com/embracing-decentralization-integrating-and-building-protocols-at-coinbase-afac7957476a?gi=ca0c108f6c70",
-          "author": null,
-          "description": "Embracing Decentralization: Integrating and Building Protocols at Coinbase",
-          "link": "https://blog.coinbase.com/embracing-decentralization-integrating-and-building-protocols-at-coinbase-afac7957476a?gi=ca0c108f6c70",
-          "publishedOn": "2022-05-18T00:30:04.000Z",
-          "wordCount": 879,
-          "title": "Embracing Decentralization: Integrating and Building Protocols at Coinbase",
-          "imageUrl": "https://miro.medium.com/max/1200/0*doZ9m-PjIpkUw-VI"
         },
         {
           "id": "https://www.youtube.com/watch?v=s4VFb9l9RmY&feature=youtu.be",
@@ -63,7 +63,7 @@
           "publishedOn": "2022-05-17T19:00:06.000Z",
           "wordCount": 711,
           "title": "simple-security-toolkit/pre-launch-security-checklist.md at main · nascentxyz/simple-security-toolkit",
-          "imageUrl": "https://opengraph.githubassets.com/6d651a50490943cc29e710f19fdea99fa63dada55ae9ff9c9f9343e1c458f7de/nascentxyz/simple-security-toolkit"
+          "imageUrl": "https://opengraph.githubassets.com/a52d6a1207701eb84c5405fbc5db5a8aa4b8d20039eee7a2a8a3494b913303c4/nascentxyz/simple-security-toolkit"
         },
         {
           "id": "https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md",
@@ -73,7 +73,7 @@
           "publishedOn": "2022-05-17T19:00:06.000Z",
           "wordCount": 886,
           "title": "simple-security-toolkit/audit-readiness-checklist.md at main · nascentxyz/simple-security-toolkit",
-          "imageUrl": "https://opengraph.githubassets.com/6d651a50490943cc29e710f19fdea99fa63dada55ae9ff9c9f9343e1c458f7de/nascentxyz/simple-security-toolkit"
+          "imageUrl": "https://opengraph.githubassets.com/a52d6a1207701eb84c5405fbc5db5a8aa4b8d20039eee7a2a8a3494b913303c4/nascentxyz/simple-security-toolkit"
         },
         {
           "id": "https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md",
@@ -83,7 +83,7 @@
           "publishedOn": "2022-05-17T19:00:06.000Z",
           "wordCount": 1249,
           "title": "simple-security-toolkit/development-process.md at main · nascentxyz/simple-security-toolkit",
-          "imageUrl": "https://opengraph.githubassets.com/6d651a50490943cc29e710f19fdea99fa63dada55ae9ff9c9f9343e1c458f7de/nascentxyz/simple-security-toolkit"
+          "imageUrl": "https://opengraph.githubassets.com/a52d6a1207701eb84c5405fbc5db5a8aa4b8d20039eee7a2a8a3494b913303c4/nascentxyz/simple-security-toolkit"
         },
         {
           "id": "https://github.com/nascentxyz/simple-security-toolkit",
@@ -91,9 +91,9 @@
           "description": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
           "link": "https://github.com/nascentxyz/simple-security-toolkit",
           "publishedOn": "2022-05-17T19:00:06.000Z",
-          "wordCount": 796,
+          "wordCount": 752,
           "title": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
-          "imageUrl": "https://opengraph.githubassets.com/6d651a50490943cc29e710f19fdea99fa63dada55ae9ff9c9f9343e1c458f7de/nascentxyz/simple-security-toolkit"
+          "imageUrl": "https://opengraph.githubassets.com/a52d6a1207701eb84c5405fbc5db5a8aa4b8d20039eee7a2a8a3494b913303c4/nascentxyz/simple-security-toolkit"
         },
         {
           "id": "https://www.theblockcrypto.com/linked/147333/robinhood-launches-defi-wallet-to-rival-metamask?utm_source=twitter&utm_medium=social",
@@ -161,7 +161,7 @@
           "description": "ApeCoin Migration Draws Interest From Avalanche, Flow",
           "link": "https://www.coindesk.com/business/2022/05/17/apecoin-migration-draws-interest-from-avalanche-flow/",
           "publishedOn": "2022-05-17T17:00:05.000Z",
-          "wordCount": 1327,
+          "wordCount": 1329,
           "title": "ApeCoin Migration Draws Interest From Avalanche, Flow",
           "imageUrl": "https://www.coindesk.com/resizer/itfBSfREoKOG-FwEo8f5nnbj50Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6MHSZAKIPFEMRPMXNY7RC3NNGA.jpeg"
         },
@@ -171,7 +171,7 @@
           "description": "Employee note: An update on hiring plans",
           "link": "https://blog.coinbase.com/employee-note-an-update-on-hiring-plans-507ea4e2b6cf?gi=1cfafae92c38",
           "publishedOn": "2022-05-17T15:00:04.000Z",
-          "wordCount": 404,
+          "wordCount": 475,
           "title": "Employee note: An update on hiring plans",
           "imageUrl": "https://miro.medium.com/max/1200/0*m6uE2QwtR20Fy0Zi.png"
         },
