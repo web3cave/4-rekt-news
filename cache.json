@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.deca.nyc/",
+          "author": null,
+          "description": "Deca NYC",
+          "link": "https://www.deca.nyc/",
+          "publishedOn": "2022-05-19T09:00:03.000Z",
+          "wordCount": 3,
+          "title": "Deca NYC",
+          "imageUrl": null
+        },
+        {
           "id": "https://dirt.substack.com/p/dirt-are-we-post-platform?s=",
           "author": null,
           "description": "Dirt: Are we post-platform?",
@@ -41,9 +51,9 @@
           "description": "Why Terra Collapsed and Whether an Algo Stablecoin Can Ever Succeed - Unchained Podcast",
           "link": "https://unchainedpodcast.com/why-terra-collapsed-and-whether-an-algo-stablecoin-can-ever-succeed/",
           "publishedOn": "2022-05-19T02:00:03.000Z",
-          "wordCount": 540,
+          "wordCount": 312,
           "title": "Why Terra Collapsed and Whether an Algo Stablecoin Can Ever Succeed - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN352.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://members.delphidigital.io/reports/learnings-from-last-week",
@@ -71,7 +81,7 @@
           "description": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
           "link": "https://www.coindesk.com/policy/2022/05/18/biden-administration-wants-crypto-exchanges-to-separate-customer-and-corporate-funds/",
           "publishedOn": "2022-05-18T23:00:04.000Z",
-          "wordCount": 1591,
+          "wordCount": 1566,
           "title": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
           "imageUrl": "https://www.coindesk.com/resizer/NtAWugpH6Z6_FUNiBzYLaLkJ7SU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OLV5Y75GQBFB5GV74OFD3UQL4E.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "GitHub - shutter-network/rolling-shutter: Rolling Shutter is an MEV protection system to be plugged into rollups.",
           "link": "https://github.com/shutter-network/rolling-shutter",
           "publishedOn": "2022-05-18T19:00:04.000Z",
-          "wordCount": 465,
+          "wordCount": 562,
           "title": "GitHub - shutter-network/rolling-shutter: Rolling Shutter is an MEV protection system to be plugged into rollups.",
           "imageUrl": "https://opengraph.githubassets.com/06472c935c7b95dda3653ab1e7fd78ece60fbac403dc4733123d4fa8ae8ebd3b/shutter-network/rolling-shutter"
         },
@@ -134,16 +144,6 @@
           "wordCount": 1048,
           "title": "South Korea revives 'Grim Reaper' financial crimes unit to investigate Terra's collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220510_Terra-1.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/linked/147631/gensler-tells-congress-that-the-sec-is-really-out-personed-on-crypto?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Gensler tells Congress that the SEC is 'really out-personed' on crypto",
-          "link": "https://www.theblockcrypto.com/linked/147631/gensler-tells-congress-that-the-sec-is-really-out-personed-on-crypto?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-05-18T17:00:04.000Z",
-          "wordCount": 941,
-          "title": "Gensler tells Congress that the SEC is 'really out-personed' on crypto",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210628_Gary_Gensler.jpg"
         },
         {
           "id": "https://lens.xyz/",
@@ -191,9 +191,9 @@
           "description": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
           "link": "https://github.com/nascentxyz/simple-security-toolkit",
           "publishedOn": "2022-05-17T19:00:06.000Z",
-          "wordCount": 761,
+          "wordCount": 796,
           "title": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
-          "imageUrl": "https://opengraph.githubassets.com/6e3495a401d0010a7de8d77e86c3ae66ec0a9cb427746661e74b4fe3ee05b23f/nascentxyz/simple-security-toolkit"
+          "imageUrl": "https://opengraph.githubassets.com/c9cbffd45241917ca9bc8973bdd9fad1d2d06abee378a4ed0d5cf6dae47e2a2b/nascentxyz/simple-security-toolkit"
         },
         {
           "id": "https://a16zcrypto.com/state-of-crypto-report-a16z-2022/",
