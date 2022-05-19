@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fomonouns.wtf/",
+          "author": null,
+          "description": "FOMO Nouns",
+          "link": "https://fomonouns.wtf/",
+          "publishedOn": "2022-05-19T17:00:04.000Z",
+          "wordCount": 10,
+          "title": "FOMO Nouns",
+          "imageUrl": "/static/fomo_nouns_sharing.png"
+        },
+        {
+          "id": "https://techcrunch.com/2022/05/19/ma-is-coming-for-defi-protocols-as-market-conditions-change/?tpcc=tcplustwitter",
+          "author": null,
+          "description": "M&A is coming for DeFi protocols as market conditions change – TechCrunch",
+          "link": "https://techcrunch.com/2022/05/19/ma-is-coming-for-defi-protocols-as-market-conditions-change/?tpcc=tcplustwitter",
+          "publishedOn": "2022-05-19T17:00:04.000Z",
+          "wordCount": 502,
+          "title": "M&A is coming for DeFi protocols as market conditions change – TechCrunch",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/20220518_Blockworks_5250-1.jpg?w=601"
+        },
+        {
+          "id": "https://vrscout.com/news/the-apple-car-could-feature-vr-technology-and-no-windows/",
+          "author": null,
+          "description": "The Apple Car Could Feature VR Technology And No Windows - VRScout",
+          "link": "https://vrscout.com/news/the-apple-car-could-feature-vr-technology-and-no-windows/",
+          "publishedOn": "2022-05-19T17:00:04.000Z",
+          "wordCount": 560,
+          "title": "The Apple Car Could Feature VR Technology And No Windows - VRScout",
+          "imageUrl": "https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/AppleCarVR-e1652814052474.jpeg"
+        },
+        {
           "id": "https://github.com/ethereum/pm/blob/master/Merge/mainnet-readiness.md",
           "author": null,
           "description": "pm/mainnet-readiness.md at master · ethereum/pm",
@@ -31,7 +61,7 @@
           "description": "WSJ News Exclusive | Crypto Exchange FTX Expands Into Stock Trading",
           "link": "https://www.wsj.com/articles/crypto-exchange-ftx-expands-into-stock-trading-11652954400?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-05-19T13:00:03.000Z",
-          "wordCount": 929,
+          "wordCount": 934,
           "title": "WSJ News Exclusive | Crypto Exchange FTX Expands Into Stock Trading",
           "imageUrl": "https://images.wsj.net/im-547232/social"
         },
@@ -41,7 +71,7 @@
           "description": "Delphi Digital admits 'we were wrong' on Terra stablecoin risks",
           "link": "https://www.theblockcrypto.com/post/147755/delphi-digital-admits-we-were-wrong-on-terra-stablecoin-risks",
           "publishedOn": "2022-05-19T13:00:03.000Z",
-          "wordCount": 1610,
+          "wordCount": 1615,
           "title": "Delphi Digital admits 'we were wrong' on Terra stablecoin risks",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220517_Luna-2.jpg"
         },
@@ -51,7 +81,7 @@
           "description": "FTX US launching zero-commission stock trading",
           "link": "https://www.theblockcrypto.com/post/147745/ftx-us-launching-zero-commission-stock-trading",
           "publishedOn": "2022-05-19T13:00:02.000Z",
-          "wordCount": 1349,
+          "wordCount": 1354,
           "title": "FTX US launching zero-commission stock trading",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
         },
@@ -61,7 +91,7 @@
           "description": "MicroStrategy Won’t Change Bitcoin Plans Despite Recent Declines, New CFO Says",
           "link": "https://www.wsj.com/articles/microstrategy-wont-change-bitcoin-plans-despite-recent-declines-new-cfo-says-11652913871",
           "publishedOn": "2022-05-19T12:30:03.000Z",
-          "wordCount": 1619,
+          "wordCount": 1624,
           "title": "MicroStrategy Won’t Change Bitcoin Plans Despite Recent Declines, New CFO Says",
           "imageUrl": "https://images.wsj.net/im-547330/social"
         },
@@ -101,9 +131,9 @@
           "description": "Lonely Ape Dating Club",
           "link": "https://lonelyapedatingclub.com/",
           "publishedOn": "2022-05-19T02:30:03.000Z",
-          "wordCount": 2698,
+          "wordCount": 2702,
           "title": "Lonely Ape Dating Club",
-          "imageUrl": "https://lonelyapedatingclub.com/assets/images/share.jpg?v=e73f242b"
+          "imageUrl": "https://lonelyapedatingclub.com/assets/images/share.jpg?v=95efd983"
         },
         {
           "id": "https://unchainedpodcast.com/why-terra-collapsed-and-whether-an-algo-stablecoin-can-ever-succeed/",
@@ -131,7 +161,7 @@
           "description": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
           "link": "https://www.coindesk.com/policy/2022/05/18/biden-administration-wants-crypto-exchanges-to-separate-customer-and-corporate-funds/",
           "publishedOn": "2022-05-18T23:00:04.000Z",
-          "wordCount": 1582,
+          "wordCount": 1589,
           "title": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
           "imageUrl": "https://www.coindesk.com/resizer/NtAWugpH6Z6_FUNiBzYLaLkJ7SU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OLV5Y75GQBFB5GV74OFD3UQL4E.jpg"
         },
@@ -151,29 +181,9 @@
           "description": "Pantera Capital cashed out 80% of its Terra investment before UST crash",
           "link": "https://www.theblockcrypto.com/post/147668/terra-pantera-capital-cashed-out-80-investment-before-ust-crash",
           "publishedOn": "2022-05-18T21:00:04.000Z",
-          "wordCount": 1331,
+          "wordCount": 1336,
           "title": "Pantera Capital cashed out 80% of its Terra investment before UST crash",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220510_Terra-1.jpg"
-        },
-        {
-          "id": "https://github.com/shutter-network/rolling-shutter",
-          "author": null,
-          "description": "GitHub - shutter-network/rolling-shutter: Rolling Shutter is an MEV protection system to be plugged into rollups.",
-          "link": "https://github.com/shutter-network/rolling-shutter",
-          "publishedOn": "2022-05-18T19:00:04.000Z",
-          "wordCount": 568,
-          "title": "GitHub - shutter-network/rolling-shutter: Rolling Shutter is an MEV protection system to be plugged into rollups.",
-          "imageUrl": "https://opengraph.githubassets.com/414b4d63fc9105e67cc97c3da657ca8930d386a5e11bf717be95841895c3b61d/shutter-network/rolling-shutter"
-        },
-        {
-          "id": "https://blog.shutter.network/announcing-rolling-shutter/",
-          "author": null,
-          "description": "Rolling Shutter: MEV protection built into Layer 2",
-          "link": "https://blog.shutter.network/announcing-rolling-shutter/",
-          "publishedOn": "2022-05-18T19:00:04.000Z",
-          "wordCount": 1429,
-          "title": "Rolling Shutter: MEV protection built into Layer 2",
-          "imageUrl": "https://blog.shutter.network/content/images/2022/04/rolling-shutter-header.png"
         },
         {
           "id": "https://lens.xyz/",
@@ -194,16 +204,6 @@
           "wordCount": 1272,
           "title": "Why I Don't Own Bitcoin Anymore | Cole South",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/nascentxyz/simple-security-toolkit",
-          "author": null,
-          "description": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
-          "link": "https://github.com/nascentxyz/simple-security-toolkit",
-          "publishedOn": "2022-05-17T19:00:06.000Z",
-          "wordCount": 787,
-          "title": "GitHub - nascentxyz/simple-security-toolkit: A collection of practical security-focused guides and checklists for...",
-          "imageUrl": "https://opengraph.githubassets.com/fbe05077c68a0c5d6a94d4e97043f2076e6ac7134859b7e533076a464045e830/nascentxyz/simple-security-toolkit"
         }
       ]
     }
