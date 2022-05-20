@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://alchemix.fi/",
+          "author": null,
+          "description": "Alchemix",
+          "link": "https://alchemix.fi/",
+          "publishedOn": "2022-05-20T04:30:04.000Z",
+          "wordCount": 3,
+          "title": "Alchemix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country",
+          "author": null,
+          "description": "Understanding when content is withheld based on country",
+          "link": "https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country",
+          "publishedOn": "2022-05-20T04:30:04.000Z",
+          "wordCount": 978,
+          "title": "Understanding when content is withheld based on country",
+          "imageUrl": "https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/logos/htc-summary-card.jpg.twimg.768.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/",
           "author": null,
           "description": "Everything You Always Wanted to Know About ‘Miladys’ but Were Afraid to Ask",
           "link": "https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/",
           "publishedOn": "2022-05-20T03:00:02.000Z",
-          "wordCount": 2176,
+          "wordCount": 2165,
           "title": "Everything You Always Wanted to Know About ‘Miladys’ but Were Afraid to Ask",
           "imageUrl": "https://www.coindesk.com/resizer/lfxrVXpF_UwCtPbjJCE2shNSc3o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FXWZFXKBYNAX3EJDB2DYVE7HSY.jpg"
         },
@@ -41,7 +61,7 @@
           "description": "Norway’s Central Bank Taps Ethereum Layer 2 For CBDC Trial - The Defiant",
           "link": "https://thedefiant.io/norway-layer-2-eth-cbdc/",
           "publishedOn": "2022-05-19T21:00:06.000Z",
-          "wordCount": 622,
+          "wordCount": 618,
           "title": "Norway’s Central Bank Taps Ethereum Layer 2 For CBDC Trial - The Defiant",
           "imageUrl": "https://thedefiant.io/wp-content/webpc-passthru.php?src=https://thedefiant.io/wp-content/uploads/2022/05/NorwayCDBDC.jpg&nocache=1"
         },
@@ -53,7 +73,7 @@
           "publishedOn": "2022-05-19T19:00:06.000Z",
           "wordCount": 656,
           "title": "Prop House: Scaling Ecosystem Funding",
-          "imageUrl": "https://i.imgur.com/7W331bk.png"
+          "imageUrl": "https://i.imgur.com/CLX0Dlm.png"
         },
         {
           "id": "https://dev.optimism.io/introducing-optimism-bedrock/",
@@ -111,7 +131,7 @@
           "description": "Top Regulator Argues Bitcoin’s Energy Use Outweighs Economic Benefits, Seeks Public Disclosures",
           "link": "https://www.forbes.com/sites/jasonbrett/2022/05/18/top-regulator-argues-bitcoins-energy-use-outweighs-economic-benefits-seeks-public-disclosures/?sh=778b3d24cfd7",
           "publishedOn": "2022-05-19T14:00:03.000Z",
-          "wordCount": 1419,
+          "wordCount": 1425,
           "title": "Top Regulator Argues Bitcoin’s Energy Use Outweighs Economic Benefits, Seeks Public Disclosures",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//6285641fcaaa8012fb3c6bd7/0x0.jpg?format=jpg&crop=2311,1734,x671,y39,safe&width=1200"
         },
@@ -121,7 +141,7 @@
           "description": "WSJ News Exclusive | Crypto Exchange FTX Expands Into Stock Trading",
           "link": "https://www.wsj.com/articles/crypto-exchange-ftx-expands-into-stock-trading-11652954400?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-05-19T13:00:03.000Z",
-          "wordCount": 936,
+          "wordCount": 939,
           "title": "WSJ News Exclusive | Crypto Exchange FTX Expands Into Stock Trading",
           "imageUrl": "https://images.wsj.net/im-547232/social"
         },
@@ -131,7 +151,7 @@
           "description": "Delphi Digital admits 'we were wrong' on Terra stablecoin risks",
           "link": "https://www.theblockcrypto.com/post/147755/delphi-digital-admits-we-were-wrong-on-terra-stablecoin-risks",
           "publishedOn": "2022-05-19T13:00:03.000Z",
-          "wordCount": 1573,
+          "wordCount": 1583,
           "title": "Delphi Digital admits 'we were wrong' on Terra stablecoin risks",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220517_Luna-2.jpg"
         },
@@ -141,19 +161,9 @@
           "description": "FTX US launching zero-commission stock trading",
           "link": "https://www.theblockcrypto.com/post/147745/ftx-us-launching-zero-commission-stock-trading",
           "publishedOn": "2022-05-19T13:00:02.000Z",
-          "wordCount": 1313,
+          "wordCount": 1323,
           "title": "FTX US launching zero-commission stock trading",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/microstrategy-wont-change-bitcoin-plans-despite-recent-declines-new-cfo-says-11652913871",
-          "author": null,
-          "description": "MicroStrategy Won’t Change Bitcoin Plans Despite Recent Declines, New CFO Says",
-          "link": "https://www.wsj.com/articles/microstrategy-wont-change-bitcoin-plans-despite-recent-declines-new-cfo-says-11652913871",
-          "publishedOn": "2022-05-19T12:30:03.000Z",
-          "wordCount": 1595,
-          "title": "MicroStrategy Won’t Change Bitcoin Plans Despite Recent Declines, New CFO Says",
-          "imageUrl": "https://images.wsj.net/im-547330/social"
         },
         {
           "id": "https://www.deca.nyc/",
@@ -184,16 +194,6 @@
           "wordCount": 2412,
           "title": "Learnings From Last Week - Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/05/Asset-3Delphi-Transparency-Green.png"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/05/18/biden-administration-wants-crypto-exchanges-to-separate-customer-and-corporate-funds/",
-          "author": null,
-          "description": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
-          "link": "https://www.coindesk.com/policy/2022/05/18/biden-administration-wants-crypto-exchanges-to-separate-customer-and-corporate-funds/",
-          "publishedOn": "2022-05-18T23:00:04.000Z",
-          "wordCount": 1483,
-          "title": "Biden Administration Wants Crypto Exchanges to Separate Customer and Corporate Funds",
-          "imageUrl": "https://www.coindesk.com/resizer/NtAWugpH6Z6_FUNiBzYLaLkJ7SU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OLV5Y75GQBFB5GV74OFD3UQL4E.jpg"
         },
         {
           "id": "https://www.ca5.uscourts.gov/opinions/pub/20/20-61007-CV0.pdf",
