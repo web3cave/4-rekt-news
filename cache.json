@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Rekt - Feed",
+      "feedUrl": "https://message-rss.vercel.app/rekt/news",
+      "siteUrl": "https://feed.rekt.news/",
+      "articles": [
+        {
+          "id": "https://medium.com/avalancheavax/its-time-infinitely-scale-with-subnets-ab7cc91efa7f",
+          "author": null,
+          "description": "It’s Time: Scale with Subnets",
+          "link": "https://medium.com/avalancheavax/its-time-infinitely-scale-with-subnets-ab7cc91efa7f",
+          "publishedOn": "2022-05-21T22:00:03.000Z",
+          "wordCount": 1156,
+          "title": "It’s Time: Scale with Subnets",
+          "imageUrl": "https://miro.medium.com/max/1200/1*ra3dgMWWX0ttMa1EITIPGA.png"
+        },
+        {
+          "id": "https://github.com/rotki/rotki/releases/",
+          "author": null,
+          "description": "Releases · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/releases/",
+          "publishedOn": "2022-05-21T22:00:03.000Z",
+          "wordCount": 6989,
+          "title": "Releases · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/e6c5817d3ffe6a163be788358ad1e4996b4fac8428667f8e42b8ae05ac85271e/rotki/rotki"
+        },
+        {
+          "id": "https://rotki.com/products",
+          "author": null,
+          "description": "premium subscription | rotki",
+          "link": "https://rotki.com/products",
+          "publishedOn": "2022-05-21T22:00:03.000Z",
+          "wordCount": 286,
+          "title": "premium subscription | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_k-F-MMvQV4&feature=youtu.be",
+          "author": null,
+          "description": "10 Programmer Stereotypes",
+          "link": "https://www.youtube.com/watch?v=_k-F-MMvQV4&feature=youtu.be",
+          "publishedOn": "2022-05-21T22:00:02.000Z",
+          "wordCount": null,
+          "title": "10 Programmer Stereotypes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/69965f02-bfd0-45a4-b5de-b962884ab99e",
+          "author": null,
+          "description": "Financial regulator cautions UK against rushing to create ‘crypto hub’",
+          "link": "https://www.ft.com/content/69965f02-bfd0-45a4-b5de-b962884ab99e",
+          "publishedOn": "2022-05-21T21:30:03.000Z",
+          "wordCount": 1062,
+          "title": "Financial regulator cautions UK against rushing to create ‘crypto hub’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TshAZAE-YW4&feature=youtu.be",
+          "author": null,
+          "description": "Fulfilling Crypto’s Promise: Brock Pierce Closes Out Bloomberg New Economy Gateway Latin America",
+          "link": "https://www.youtube.com/watch?v=TshAZAE-YW4&feature=youtu.be",
+          "publishedOn": "2022-05-21T21:30:03.000Z",
+          "wordCount": null,
+          "title": "Fulfilling Crypto’s Promise: Brock Pierce Closes Out Bloomberg New Economy Gateway Latin America",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/medical/who-warns-monkeypox-could-accelerate-during-summer-cdc-alerts-us-doctors-virus-reaches-13",
+          "author": null,
+          "description": "WHO Warns Monkeypox Could \"Accelerate\" During Summer, CDC Alerts US Doctors As Virus Reaches 13 Countries | ZeroHedge",
+          "link": "https://www.zerohedge.com/medical/who-warns-monkeypox-could-accelerate-during-summer-cdc-alerts-us-doctors-virus-reaches-13",
+          "publishedOn": "2022-05-21T21:30:02.000Z",
+          "wordCount": 884,
+          "title": "WHO Warns Monkeypox Could \"Accelerate\" During Summer, CDC Alerts US Doctors As Virus Reaches 13 Countries | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503",
+          "author": null,
+          "description": "A Vision for A Pluralistic Civilizational Scale Infrastructure for funding Public Goods",
+          "link": "https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503",
+          "publishedOn": "2022-05-21T21:00:04.000Z",
+          "wordCount": 7717,
+          "title": "A Vision for A Pluralistic Civilizational Scale Infrastructure for funding Public Goods",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard11/uploads/gitcoin1/optimized/2X/4/4f197f5cd1942c97a283f4846f075d4d0303f035_2_1024x251.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5A4e2nFnos0&feature=youtu.be",
+          "author": null,
+          "description": "Cobie and Sassal | Crypto Ponzis, Bad VCs, and Spicy Takes - The Daily Gwei Drive Thru",
+          "link": "https://www.youtube.com/watch?v=5A4e2nFnos0&feature=youtu.be",
+          "publishedOn": "2022-05-21T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Cobie and Sassal | Crypto Ponzis, Bad VCs, and Spicy Takes - The Daily Gwei Drive Thru",
+          "imageUrl": null
+        },
+        {
+          "id": "https://docs.flashbots.net/flashbots-protect/rpc/quick-start/",
+          "author": null,
+          "description": "quick start | Flashbots Docs",
+          "link": "https://docs.flashbots.net/flashbots-protect/rpc/quick-start/",
+          "publishedOn": "2022-05-21T21:00:03.000Z",
+          "wordCount": 707,
+          "title": "quick start | Flashbots Docs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/147768/revoluts-planned-native-token-will-reward-customer-loyalty-storonosky-says",
+          "author": null,
+          "description": "Revolut's planned native token will reward customer loyalty, Storonsky says",
+          "link": "https://www.theblockcrypto.com/post/147768/revoluts-planned-native-token-will-reward-customer-loyalty-storonosky-says",
+          "publishedOn": "2022-05-21T21:00:03.000Z",
+          "wordCount": 1245,
+          "title": "Revolut's planned native token will reward customer loyalty, Storonsky says",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220517_Nik-Storonsky.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/federal-judge-dismisses-fraud-and-defamation-lawsuit-against-elon-musk-amid-week",
+          "author": null,
+          "description": "Federal Judge Dismisses Fraud And Defamation Lawsuit Against Elon Musk Amid Week Of Controversy | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/federal-judge-dismisses-fraud-and-defamation-lawsuit-against-elon-musk-amid-week",
+          "publishedOn": "2022-05-21T21:00:03.000Z",
+          "wordCount": 961,
+          "title": "Federal Judge Dismisses Fraud And Defamation Lawsuit Against Elon Musk Amid Week Of Controversy | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://future.a16z.com/framework-valuation-navigating-down-markets/",
+          "author": null,
+          "description": "A Framework for Navigating Down Markets",
+          "link": "https://future.a16z.com/framework-valuation-navigating-down-markets/",
+          "publishedOn": "2022-05-21T21:00:03.000Z",
+          "wordCount": 2110,
+          "title": "A Framework for Navigating Down Markets",
+          "imageUrl": "https://future.a16z.com/wp-content/uploads/2022/05/MarketISWas_Yoast_Facebook.jpeg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398",
+          "author": null,
+          "description": "Crypto Might Have an Insider Trading Problem",
+          "link": "https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398",
+          "publishedOn": "2022-05-21T21:00:02.000Z",
+          "wordCount": 941,
+          "title": "Crypto Might Have an Insider Trading Problem",
+          "imageUrl": "https://images.wsj.net/im-547194/social"
+        },
+        {
+          "id": "https://www.telegraph.co.uk/business/2022/05/20/world-has-just-ten-weeks-worth-wheat-left-ukraine-war/",
+          "author": null,
+          "description": "World has just ten weeks' worth of wheat left after Ukraine war",
+          "link": "https://www.telegraph.co.uk/business/2022/05/20/world-has-just-ten-weeks-worth-wheat-left-ukraine-war/",
+          "publishedOn": "2022-05-21T21:00:02.000Z",
+          "wordCount": 1104,
+          "title": "World has just ten weeks' worth of wheat left after Ukraine war",
+          "imageUrl": "https://www.telegraph.co.uk/content/dam/business/2022/05/20/TELEMMGLPICT000293290441_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/dem-rep-joyce-beatty-blames-white-supremacy-replacement-theorist-shooting-carried-out",
+          "author": null,
+          "description": "Dem Rep. Joyce Beatty Blames \"White Supremacy Replacement Theorist\" For Shooting Carried Out By Black Suspect |...",
+          "link": "https://www.zerohedge.com/political/dem-rep-joyce-beatty-blames-white-supremacy-replacement-theorist-shooting-carried-out",
+          "publishedOn": "2022-05-21T21:00:02.000Z",
+          "wordCount": 548,
+          "title": "Dem Rep. Joyce Beatty Blames \"White Supremacy Replacement Theorist\" For Shooting Carried Out By Black Suspect |...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.straitstimes.com/tech/tech-news/singapore-high-court-blocks-potential-sale-and-transfer-of-rare-nft",
+          "author": null,
+          "description": "Singapore High Court blocks potential sale and transfer of rare NFT",
+          "link": "https://www.straitstimes.com/tech/tech-news/singapore-high-court-blocks-potential-sale-and-transfer-of-rare-nft",
+          "publishedOn": "2022-05-21T20:00:02.000Z",
+          "wordCount": 1557,
+          "title": "Singapore High Court blocks potential sale and transfer of rare NFT",
+          "imageUrl": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/05/18/nf-ape-180522.jpg?VersionId=31LZeV6hToGrAZpfA9MpWUzVxDYLJHvp"
+        },
+        {
+          "id": "https://electriccoin.co/blog/eccs-north-star-building-a-world-class-ux-for-zec/",
+          "author": null,
+          "description": "ECC’s North Star: Building a world-class UX for ZEC - Electric Coin Company",
+          "link": "https://electriccoin.co/blog/eccs-north-star-building-a-world-class-ux-for-zec/",
+          "publishedOn": "2022-05-21T20:00:02.000Z",
+          "wordCount": 518,
+          "title": "ECC’s North Star: Building a world-class UX for ZEC - Electric Coin Company",
+          "imageUrl": "https://electriccoin.co/wp-content/uploads/2021/10/ECC-NorthStar.jpg"
+        },
+        {
+          "id": "https://electriccoin.co/blog/should-zcash-switch-from-proof-of-work-to-proof-of-stake/",
+          "author": null,
+          "description": "Should Zcash switch from Proof of Work to Proof of Stake? - Electric Coin Company",
+          "link": "https://electriccoin.co/blog/should-zcash-switch-from-proof-of-work-to-proof-of-stake/",
+          "publishedOn": "2022-05-21T20:00:02.000Z",
+          "wordCount": 1539,
+          "title": "Should Zcash switch from Proof of Work to Proof of Stake? - Electric Coin Company",
+          "imageUrl": "https://electriccoin.co/wp-content/uploads/2021/08/Proof-of-Stake@4x.png"
+        },
+        {
+          "id": "https://unchainedpodcast.com/the-chopping-block-kevin-zhou-on-why-he-knew-terra-would-crash/",
+          "author": null,
+          "description": "The Chopping Block: Kevin Zhou on Why He Knew Terra Would Crash - Unchained Podcast",
+          "link": "https://unchainedpodcast.com/the-chopping-block-kevin-zhou-on-why-he-knew-terra-would-crash/",
+          "publishedOn": "2022-05-21T20:00:01.000Z",
+          "wordCount": 624,
+          "title": "The Chopping Block: Kevin Zhou on Why He Knew Terra Would Crash - Unchained Podcast",
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/UN353.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.14.4"
 }
