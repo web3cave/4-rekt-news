@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aUpyvq32ElM",
+          "author": null,
+          "description": "Sardaukar Party - Dune 2021",
+          "link": "https://www.youtube.com/watch?v=aUpyvq32ElM",
+          "publishedOn": "2022-05-21T11:00:03.000Z",
+          "wordCount": null,
+          "title": "Sardaukar Party - Dune 2021",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.patreon.com/aantonop",
           "author": null,
           "description": "Andreas M. Antonopoulos is creating Videos, Live Q&A, and Books about Bitcoin & Open Blockchains | Patreon",
@@ -46,16 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/stocks-flirt-record-losing-run-commodities-prosper",
-          "author": null,
-          "description": "Global Stocks Flirt With Record Losing-Run As Commodities Prosper | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/stocks-flirt-record-losing-run-commodities-prosper",
-          "publishedOn": "2022-05-21T09:00:03.000Z",
-          "wordCount": 348,
-          "title": "Global Stocks Flirt With Record Losing-Run As Commodities Prosper | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/gfx-labs/airdrops-are-bad-afc4005bc672",
           "author": null,
           "description": "Airdrops Are Bad",
@@ -81,7 +81,7 @@
           "description": "Wormhole Uninitialized Proxy Bugfix Review",
           "link": "https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a",
           "publishedOn": "2022-05-21T06:00:02.000Z",
-          "wordCount": 2790,
+          "wordCount": 2810,
           "title": "Wormhole Uninitialized Proxy Bugfix Review",
           "imageUrl": "https://miro.medium.com/max/1200/1*qDeUcdhDTPtUKix23WVBRQ.jpeg"
         },
