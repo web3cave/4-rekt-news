@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6-tz152GesM",
+          "author": null,
+          "description": "The Collapse of Terra",
+          "link": "https://www.youtube.com/watch?v=6-tz152GesM",
+          "publishedOn": "2022-05-21T08:00:03.000Z",
+          "wordCount": null,
+          "title": "The Collapse of Terra",
+          "imageUrl": null
+        },
+        {
           "id": "https://code4rena.com/contests/2022-05-opensea-seaport-contest/",
           "author": null,
           "description": "Code4rena OpenSea Seaport contest",
@@ -81,7 +91,7 @@
           "description": "Mirror: Create and connect your world on web3",
           "link": "https://mirror.xyz/",
           "publishedOn": "2022-05-20T22:30:04.000Z",
-          "wordCount": 639,
+          "wordCount": 659,
           "title": "Mirror: Create and connect your world on web3",
           "imageUrl": "https://mirror.xyz/images/social.png"
         },
@@ -184,16 +194,6 @@
           "wordCount": 557,
           "title": "Binance Completes Optimism Network Integration and Opens Layer 2 ETH Deposits | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8l67wJ3Wcbc",
-          "author": null,
-          "description": "ETH Shanghai Web 3.0 Developer Summit",
-          "link": "https://www.youtube.com/watch?v=8l67wJ3Wcbc",
-          "publishedOn": "2022-05-20T02:00:03.000Z",
-          "wordCount": null,
-          "title": "ETH Shanghai Web 3.0 Developer Summit",
-          "imageUrl": null
         },
         {
           "id": "https://dev.optimism.io/introducing-optimism-bedrock/",
