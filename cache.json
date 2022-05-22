@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nti.org/wp-content/uploads/2021/11/NTI_Paper_BIO-TTX_Final.pdf",
+          "author": null,
+          "description": "[PDF] NTI_Paper_BIO-TTX_Final.pdf",
+          "link": "https://www.nti.org/wp-content/uploads/2021/11/NTI_Paper_BIO-TTX_Final.pdf",
+          "publishedOn": "2022-05-22T07:30:04.000Z",
+          "wordCount": 30251,
+          "title": "[PDF] NTI_Paper_BIO-TTX_Final.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403",
+          "author": null,
+          "description": "NFTs Are Put to New Use in China, Countering Censorship During Pandemic",
+          "link": "https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403",
+          "publishedOn": "2022-05-22T07:30:03.000Z",
+          "wordCount": 280,
+          "title": "NFTs Are Put to New Use in China, Countering Censorship During Pandemic",
+          "imageUrl": "https://images.wsj.net/im-548997/social"
+        },
+        {
           "id": "https://blog.mollywhite.net/predatory-community/",
           "author": null,
           "description": "Predatory community",
@@ -21,9 +41,9 @@
           "description": "The 5 Biggest Lessons From Terra/Luna's Collapse, According to Tascha Che - Unchained Podcast",
           "link": "https://unchainedpodcast.com/the-5-biggest-lessons-from-terra-lunas-collapse-according-to-tascha-che/",
           "publishedOn": "2022-05-22T07:00:03.000Z",
-          "wordCount": 290,
+          "wordCount": 259,
           "title": "The 5 Biggest Lessons From Terra/Luna's Collapse, According to Tascha Che - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/05/Tasche-Che.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.straitstimes.com/tech/tech-news/singapore-high-court-blocks-potential-sale-and-transfer-of-rare-nft",
@@ -56,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/technology/these-are-most-downloaded-apps-so-far-2022",
-          "author": null,
-          "description": "These Are The Most-Downloaded Apps So Far In 2022 | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/these-are-most-downloaded-apps-so-far-2022",
-          "publishedOn": "2022-05-22T07:00:03.000Z",
-          "wordCount": 578,
-          "title": "These Are The Most-Downloaded Apps So Far In 2022 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=jiyfbQ91bm8",
           "author": null,
           "description": "Gateway to Cosmos 2022 | Aftermovie",
@@ -91,7 +101,7 @@
           "description": "BitMEX founder Arthur Hayes avoids jail time, sentenced to six months of home detention",
           "link": "https://www.theblockcrypto.com/linked/148053/bitmex-arthur-hayes-doj-sentence?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-22T01:00:02.000Z",
-          "wordCount": 1118,
+          "wordCount": 1113,
           "title": "BitMEX founder Arthur Hayes avoids jail time, sentenced to six months of home detention",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2018/11/Arthur-Hayes-Bitmex-e1583398538458.jpg"
         },
@@ -114,16 +124,6 @@
           "wordCount": 3021,
           "title": "DAO Camp",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F63b35182-2ccf-45d6-93b6-23722090309f_3024x2480.jpeg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zCaWAtfxdlg&feature=youtu.be",
-          "author": null,
-          "description": "Is Bitcoin In For The Summer From Hell?",
-          "link": "https://www.youtube.com/watch?v=zCaWAtfxdlg&feature=youtu.be",
-          "publishedOn": "2022-05-21T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Is Bitcoin In For The Summer From Hell?",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?t=1353&v=GLlhPVZNh7U&feature=youtu.be",
@@ -161,7 +161,7 @@
           "description": "Crypto Venture Capital Series Ep. 6: Ryan Zurrer of Dialectic AG | BONUS Episode - Delphi Digital",
           "link": "https://members.delphidigital.io/media/crypto-venture-capital-series-ep-6-ryan-zurrer-of-dialectic-ag-bonus-episode/",
           "publishedOn": "2022-05-21T23:00:02.000Z",
-          "wordCount": 1037,
+          "wordCount": 1068,
           "title": "Crypto Venture Capital Series Ep. 6: Ryan Zurrer of Dialectic AG | BONUS Episode - Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/05/RZ-Youtube-V2-1.png"
         },
@@ -191,7 +191,7 @@
           "description": "Crypto Might Have an Insider Trading Problem",
           "link": "https://www.wsj.com/articles/crypto-might-have-an-insider-trading-problem-11653084398",
           "publishedOn": "2022-05-21T21:00:02.000Z",
-          "wordCount": 2081,
+          "wordCount": 2042,
           "title": "Crypto Might Have an Insider Trading Problem",
           "imageUrl": "https://images.wsj.net/im-547194/social"
         },
