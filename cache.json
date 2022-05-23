@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/pentagon-mulls-sending-special-forces-protect-us-diplomats-kyiv-embassy",
+          "author": null,
+          "description": "Pentagon Mulls Sending Special Forces To Protect US Diplomats At Kyiv Embassy | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/pentagon-mulls-sending-special-forces-protect-us-diplomats-kyiv-embassy",
+          "publishedOn": "2022-05-23T16:00:02.000Z",
+          "wordCount": 568,
+          "title": "Pentagon Mulls Sending Special Forces To Protect US Diplomats At Kyiv Embassy | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/hundreds-uk-grocery-items-more-20-pricier-over-last-two-years-study",
           "author": null,
           "description": "Hundreds Of UK Grocery Items More Than 20% Pricier Over Last Two Years: Study | ZeroHedge",
@@ -91,7 +101,7 @@
           "description": "GitHub - m1guelpf/dapp-starter: The template I use to kickstart all my web3 apps.",
           "link": "https://github.com/m1guelpf/dapp-starter",
           "publishedOn": "2022-05-23T07:00:03.000Z",
-          "wordCount": 627,
+          "wordCount": 687,
           "title": "GitHub - m1guelpf/dapp-starter: The template I use to kickstart all my web3 apps.",
           "imageUrl": "https://repository-images.githubusercontent.com/495231206/0e43ccc2-c29a-4adf-8735-ce8009341c60"
         },
@@ -131,7 +141,7 @@
           "description": "BitDNS and Generalizing Bitcoin",
           "link": "https://bitcointalk.org/index.php?topic=1790.240",
           "publishedOn": "2022-05-22T23:00:03.000Z",
-          "wordCount": 5001,
+          "wordCount": 5043,
           "title": "BitDNS and Generalizing Bitcoin",
           "imageUrl": null
         },
@@ -151,7 +161,7 @@
           "description": "interfluidity  » No peace, no justice",
           "link": "https://www.interfluidity.com/v2/9395.html",
           "publishedOn": "2022-05-22T23:00:03.000Z",
-          "wordCount": 1200,
+          "wordCount": null,
           "title": "interfluidity  » No peace, no justice",
           "imageUrl": null
         },
@@ -181,9 +191,9 @@
           "description": "GitHub - recmo/yul",
           "link": "https://github.com/recmo/yul",
           "publishedOn": "2022-05-22T19:00:02.000Z",
-          "wordCount": 565,
+          "wordCount": 647,
           "title": "GitHub - recmo/yul",
-          "imageUrl": "https://opengraph.githubassets.com/f72068a86561faa317814464dfc1c67cbc42ea655293798ca837ce131abd4c34/recmo/yul"
+          "imageUrl": "https://opengraph.githubassets.com/5485c2138112eba32ada4eca6e0beb3d91c908cd1e56ad7768f59a8857131f5f/recmo/yul"
         },
         {
           "id": "https://medium.com/instadapp/instadapp-lite-update-securing-the-lite-vaults-and-steth-peg-3ac35f088a0b",
@@ -194,16 +204,6 @@
           "wordCount": 1479,
           "title": "Lite Update: Securing the Lite vaults and stETH peg",
           "imageUrl": "https://miro.medium.com/max/1200/0*5e8TmUGE8YtmhcHr.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403",
-          "author": null,
-          "description": "NFTs Are Put to New Use in China, Countering Censorship During Pandemic",
-          "link": "https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403",
-          "publishedOn": "2022-05-22T07:30:03.000Z",
-          "wordCount": 280,
-          "title": "NFTs Are Put to New Use in China, Countering Censorship During Pandemic",
-          "imageUrl": "https://images.wsj.net/im-548997/social"
         }
       ]
     }
