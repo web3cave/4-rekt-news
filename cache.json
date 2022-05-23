@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lcyec3pvAEY&feature=youtu.be",
+          "author": null,
+          "description": "E81: All-In Summit: Bill Gurley & Brad Gerstner on markets, downturns & investment cycles",
+          "link": "https://www.youtube.com/watch?v=lcyec3pvAEY&feature=youtu.be",
+          "publishedOn": "2022-05-23T18:00:02.000Z",
+          "wordCount": null,
+          "title": "E81: All-In Summit: Bill Gurley & Brad Gerstner on markets, downturns & investment cycles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://guardians.gnosis-safe.io/",
+          "author": null,
+          "description": "Safe Guardians",
+          "link": "https://guardians.gnosis-safe.io/",
+          "publishedOn": "2022-05-23T18:00:02.000Z",
+          "wordCount": 295,
+          "title": "Safe Guardians",
+          "imageUrl": "https://guardians.gnosis-safe.io/images/og-image.png"
+        },
+        {
+          "id": "https://marginalrevolution.com/marginalrevolution/2022/05/interland-a-new-type-of-government.html",
+          "author": null,
+          "description": "Interland: A New Type of Government - Marginal REVOLUTION",
+          "link": "https://marginalrevolution.com/marginalrevolution/2022/05/interland-a-new-type-of-government.html",
+          "publishedOn": "2022-05-23T18:00:02.000Z",
+          "wordCount": 813,
+          "title": "Interland: A New Type of Government - Marginal REVOLUTION",
+          "imageUrl": "http://marginalrevolution.com/wp-content/uploads/2022/05/Interland.png"
+        },
+        {
           "id": "https://vitalik.ca/general/2019/12/07/quadratic.html",
           "author": null,
           "description": "Quadratic Payments: A Primer",
@@ -26,14 +56,14 @@
           "imageUrl": "https://images.wsj.net/im-548997/social"
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/hundreds-uk-grocery-items-more-20-pricier-over-last-two-years-study",
+          "id": "https://swagtimus.substack.com/p/starknet-roundup-17?s=w",
           "author": null,
-          "description": "Hundreds Of UK Grocery Items More Than 20% Pricier Over Last Two Years: Study | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/hundreds-uk-grocery-items-more-20-pricier-over-last-two-years-study",
-          "publishedOn": "2022-05-23T13:00:04.000Z",
-          "wordCount": 822,
-          "title": "Hundreds Of UK Grocery Items More Than 20% Pricier Over Last Two Years: Study | ZeroHedge",
-          "imageUrl": null
+          "description": "StarkNet Roundup #17",
+          "link": "https://swagtimus.substack.com/p/starknet-roundup-17?s=w",
+          "publishedOn": "2022-05-23T15:00:03.000Z",
+          "wordCount": 1350,
+          "title": "StarkNet Roundup #17",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b78e4aa-01b8-4b1f-ba76-ace985be6101_1024x512.jpeg"
         },
         {
           "id": "https://www.benzinga.com/amp/content/27341663",
@@ -61,7 +91,7 @@
           "description": "‘Move-to-earn’ Solana app StepN is latest crypto gaming craze – TechCrunch",
           "link": "https://techcrunch.com/2022/05/22/play-move-to-earn-solana-stepn-gamefi/",
           "publishedOn": "2022-05-23T12:30:04.000Z",
-          "wordCount": 1495,
+          "wordCount": 1498,
           "title": "‘Move-to-earn’ Solana app StepN is latest crypto gaming craze – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/Screenshot-2022-05-21-at-4.06.59-PM.png?w=669"
         },
@@ -71,7 +101,7 @@
           "description": "Release v22.5.1 · ConsenSys/teku",
           "link": "https://github.com/ConsenSys/teku/releases/tag/22.5.1",
           "publishedOn": "2022-05-23T12:00:02.000Z",
-          "wordCount": 526,
+          "wordCount": 536,
           "title": "Release v22.5.1 · ConsenSys/teku",
           "imageUrl": "https://opengraph.githubassets.com/4025cf625b43f6ee54626d3f17d4403cb211eee1fe674b8f86f8ac4261b9cceb/ConsenSys/teku/releases/tag/22.5.1"
         },
@@ -84,16 +114,6 @@
           "wordCount": 5,
           "title": "Ethereum Signature Database",
           "imageUrl": "https://sig.eth.samczsun.com/favicon.png"
-        },
-        {
-          "id": "https://the-blindspot.com/putting-the-terra-stablecoin-debacle-into-tradfi-context/",
-          "author": null,
-          "description": "Putting the Terra stablecoin debacle into \"tradfi\" context - The Blind Spot",
-          "link": "https://the-blindspot.com/putting-the-terra-stablecoin-debacle-into-tradfi-context/",
-          "publishedOn": "2022-05-23T11:30:02.000Z",
-          "wordCount": 2180,
-          "title": "Putting the Terra stablecoin debacle into \"tradfi\" context - The Blind Spot",
-          "imageUrl": "https://the-blindspot.com/wp-content/uploads/2022/05/shutterstock_2108361935-1-scaled.jpg"
         },
         {
           "id": "https://www.reddit.com/r/ethfinance/comments/uv3xqj/daily_general_discussion_may_22_2022/i9jmrka/",
@@ -111,7 +131,7 @@
           "description": "GitHub - m1guelpf/dapp-starter: The template I use to kickstart all my web3 apps.",
           "link": "https://github.com/m1guelpf/dapp-starter",
           "publishedOn": "2022-05-23T07:00:03.000Z",
-          "wordCount": 687,
+          "wordCount": 627,
           "title": "GitHub - m1guelpf/dapp-starter: The template I use to kickstart all my web3 apps.",
           "imageUrl": "https://repository-images.githubusercontent.com/495231206/0e43ccc2-c29a-4adf-8735-ce8009341c60"
         },
@@ -124,16 +144,6 @@
           "wordCount": 304,
           "title": "ENS TimeKeepers - Harry Denley",
           "imageUrl": "https://harrydenley.com/static/meta-e08666ab0a91a39c66b52c3d4bdd6777.png"
-        },
-        {
-          "id": "https://github.com/omarespejel/cairo-lang/blob/add-array-operations/src/starkware/cairo/common/array_operations.cairo",
-          "author": null,
-          "description": "cairo-lang/array_operations.cairo at add-array-operations · omarespejel/cairo-lang",
-          "link": "https://github.com/omarespejel/cairo-lang/blob/add-array-operations/src/starkware/cairo/common/array_operations.cairo",
-          "publishedOn": "2022-05-23T01:00:02.000Z",
-          "wordCount": 889,
-          "title": "cairo-lang/array_operations.cairo at add-array-operations · omarespejel/cairo-lang",
-          "imageUrl": "https://opengraph.githubassets.com/e8f4716ed6f92d97813e99987e19ca078171ecadb7fa13583db93bf5c9e73b06/omarespejel/cairo-lang"
         },
         {
           "id": "https://medium.com/@zooko_25893/someone-associated-with-monero-organizing-and-funding-false-flag-attacks-on-zcash-fa7cacdbe323",
@@ -151,7 +161,7 @@
           "description": "BitDNS and Generalizing Bitcoin",
           "link": "https://bitcointalk.org/index.php?topic=1790.240",
           "publishedOn": "2022-05-22T23:00:03.000Z",
-          "wordCount": 4987,
+          "wordCount": 5029,
           "title": "BitDNS and Generalizing Bitcoin",
           "imageUrl": null
         },
@@ -194,16 +204,6 @@
           "wordCount": 10,
           "title": "Nouns DAO",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/recmo/yul",
-          "author": null,
-          "description": "GitHub - recmo/yul",
-          "link": "https://github.com/recmo/yul",
-          "publishedOn": "2022-05-22T19:00:02.000Z",
-          "wordCount": 647,
-          "title": "GitHub - recmo/yul",
-          "imageUrl": "https://opengraph.githubassets.com/5485c2138112eba32ada4eca6e0beb3d91c908cd1e56ad7768f59a8857131f5f/recmo/yul"
         }
       ]
     }
