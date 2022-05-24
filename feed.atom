@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-24T10:25:16.566Z</id>
+    <id>urn:2022-05-24T11:19:07.841Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-24T10:25:16.566Z</updated>
+    <updated>2022-05-24T11:19:07.841Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Decentralized Society: Finding Web3's Soul]]></title>
+        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763"/>
+        <updated>2022-05-23T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Society: Finding Web3's Soul]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GameStop Wallet]]></title>
         <id>https://wallet.gamestop.com/</id>
         <link href="https://wallet.gamestop.com/"/>
@@ -181,16 +191,6 @@
         <link href="https://techcrunch.com/2022/05/22/play-move-to-earn-solana-stepn-gamefi/"/>
         <updated>2022-05-23T12:30:04.000Z</updated>
         <summary type="html"><![CDATA[‘Move-to-earn’ Solana app StepN is latest crypto gaming craze – TechCrunch]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[greeter-bytecodes.json]]></title>
-        <id>https://gist.github.com/banteg/4c85347ae246b516f738ccf08c503330</id>
-        <link href="https://gist.github.com/banteg/4c85347ae246b516f738ccf08c503330"/>
-        <updated>2022-05-22T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[greeter-bytecodes.json]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
