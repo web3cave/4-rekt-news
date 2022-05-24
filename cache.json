@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.businessinsider.com/coinbase-asking-staff-rate-each-other-thumbs-up-down-report-2022-5",
+          "author": null,
+          "description": "Coinbase is reportedly testing out having employees rate each other in an app with a thumbs up or thumbs down after...",
+          "link": "https://www.businessinsider.com/coinbase-asking-staff-rate-each-other-thumbs-up-down-report-2022-5",
+          "publishedOn": "2022-05-24T16:30:03.000Z",
+          "wordCount": 1019,
+          "title": "Coinbase is reportedly testing out having employees rate each other in an app with a thumbs up or thumbs down after...",
+          "imageUrl": "https://i.insider.com/6283b58b65d1770019e4a249?width=1200&format=jpeg"
+        },
+        {
           "id": "https://github.com/ruvaag/token-snapshot",
           "author": null,
           "description": "GitHub - ruvaag/token-snapshot",
           "link": "https://github.com/ruvaag/token-snapshot",
           "publishedOn": "2022-05-24T13:00:05.000Z",
-          "wordCount": 406,
+          "wordCount": 404,
           "title": "GitHub - ruvaag/token-snapshot",
           "imageUrl": "https://opengraph.githubassets.com/c031d3c5dee89faa7730b6b5d6229f835e0ce7ff504700a972eb71ff27256ffa/ruvaag/token-snapshot"
         },
@@ -41,7 +51,7 @@
           "description": "Young investors lose big in crypto crash: ‘I didn’t sleep for days’",
           "link": "https://nypost.com/2022/05/23/investors-lose-big-in-crypto-crash-i-didnt-sleep-for-days/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-05-24T07:00:03.000Z",
-          "wordCount": 1737,
+          "wordCount": 1730,
           "title": "Young investors lose big in crypto crash: ‘I didn’t sleep for days’",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/05/crypto-crash-ypoung-investors-2.jpg?quality=75&strip=all&w=1024"
         },
@@ -56,6 +66,16 @@
           "imageUrl": "https://thecryptocurrencyinvestor.files.wordpress.com/2017/03/cropped-ari40-e1490734691484.png?w=178"
         },
         {
+          "id": "https://www.youtube.com/watch?v=g7paIUrzpLs&t=1613s",
+          "author": null,
+          "description": "Citadel's Ken Griffin on Market Selloff, Working at Home",
+          "link": "https://www.youtube.com/watch?v=g7paIUrzpLs&t=1613s",
+          "publishedOn": "2022-05-24T07:00:03.000Z",
+          "wordCount": null,
+          "title": "Citadel's Ken Griffin on Market Selloff, Working at Home",
+          "imageUrl": null
+        },
+        {
           "id": "https://player.vimeo.com/video/654291317?h=3f343bcf1b",
           "author": null,
           "description": "How Reserve Currencies Have Changed Over 120 Years from Visual Capitalist on Vimeo",
@@ -64,16 +84,6 @@
           "wordCount": 15,
           "title": "How Reserve Currencies Have Changed Over 120 Years from Visual Capitalist on Vimeo",
           "imageUrl": null
-        },
-        {
-          "id": "https://friktionlabs.medium.com/friktions-lightning-angels-3442dc46efec",
-          "author": null,
-          "description": "Friktion’s Lightning Angels",
-          "link": "https://friktionlabs.medium.com/friktions-lightning-angels-3442dc46efec",
-          "publishedOn": "2022-05-24T03:30:02.000Z",
-          "wordCount": 374,
-          "title": "Friktion’s Lightning Angels",
-          "imageUrl": "https://miro.medium.com/max/1200/1*hpb6HCIQ7-N_QRkt5sss8g.png"
         },
         {
           "id": "https://gweb-research-imagen.appspot.com/",
@@ -94,16 +104,6 @@
           "wordCount": 934,
           "title": "Coinbase Tests App for Employees to Grade Each Other During Meetings",
           "imageUrl": "https://tii.imgix.net/production/articles/8005/25c36958-1033-4b7e-b34d-67c66529a594.jpeg?w=800&fm=jpg&auto=compress&frame=0"
-        },
-        {
-          "id": "https://www.federalreserve.gov/publications/files/2021-report-economic-well-being-us-households-202205.pdf",
-          "author": null,
-          "description": "[PDF] 2021-report-economic-well-being-us-households-202205.pdf",
-          "link": "https://www.federalreserve.gov/publications/files/2021-report-economic-well-being-us-households-202205.pdf",
-          "publishedOn": "2022-05-24T01:00:04.000Z",
-          "wordCount": 51557,
-          "title": "[PDF] 2021-report-economic-well-being-us-households-202205.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://metaportal.substack.com/p/introducing-metaportal-dao?s=w",
@@ -131,19 +131,9 @@
           "description": "Bitcoin could fall to $8,000, a more than 70% plunge, Guggenheim's Minerd says",
           "link": "https://www.cnbc.com/2022/05/23/bitcoin-btc-could-fall-to-8000-a-70percent-drop-guggenheims-minerd.html",
           "publishedOn": "2022-05-23T23:00:03.000Z",
-          "wordCount": 723,
+          "wordCount": 718,
           "title": "Bitcoin could fall to $8,000, a more than 70% plunge, Guggenheim's Minerd says",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107065472-1J7A0827.JPG?v=1653317400&w=1920&h=1080"
-        },
-        {
-          "id": "https://github.com/ethereum/consensus-specs/releases/tag/v1.2.0-rc.1",
-          "author": null,
-          "description": "Release Bopsten · ethereum/consensus-specs",
-          "link": "https://github.com/ethereum/consensus-specs/releases/tag/v1.2.0-rc.1",
-          "publishedOn": "2022-05-23T23:00:03.000Z",
-          "wordCount": 556,
-          "title": "Release Bopsten · ethereum/consensus-specs",
-          "imageUrl": "https://opengraph.githubassets.com/20d334eb6bb2be1008646f9103e48c560ece554d9e79aa3131be33bd095ce6bf/ethereum/consensus-specs/releases/tag/v1.2.0-rc.1"
         },
         {
           "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
@@ -174,6 +164,16 @@
           "wordCount": 604,
           "title": "GameStop Wallet",
           "imageUrl": "./open-graph.png"
+        },
+        {
+          "id": "https://blog.coinbase.com/trade-thousands-of-tokens-on-your-choice-of-network-in-coinbase-wallet-2ffee57da0bb?gi=e9430e3f7e50",
+          "author": null,
+          "description": "Trade thousands of tokens on your choice of network in Coinbase Wallet",
+          "link": "https://blog.coinbase.com/trade-thousands-of-tokens-on-your-choice-of-network-in-coinbase-wallet-2ffee57da0bb?gi=e9430e3f7e50",
+          "publishedOn": "2022-05-23T21:00:02.000Z",
+          "wordCount": 717,
+          "title": "Trade thousands of tokens on your choice of network in Coinbase Wallet",
+          "imageUrl": "https://miro.medium.com/max/1200/0*AzjqfsYzAv2dNtnE"
         },
         {
           "id": "https://blog.ethereum.org/2021/11/29/how-the-merge-impacts-app-layer/",
