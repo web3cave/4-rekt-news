@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sango.org/sango.pdf",
+          "author": null,
+          "description": "[PDF] sango.pdf",
+          "link": "https://sango.org/sango.pdf",
+          "publishedOn": "2022-05-24T21:45:05.000Z",
+          "wordCount": 599096,
+          "title": "[PDF] sango.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/@anotherfawks/avalanche-subnets-bridge-the-chasm-da063ce8d37d",
           "author": null,
           "description": "Avalanche Subnets — Bridge The Chasm",
@@ -21,7 +31,7 @@
           "description": "salem ilese - Crypto Boy",
           "link": "https://www.sound.xyz/salemilese/crypto-boy",
           "publishedOn": "2022-05-24T21:00:04.000Z",
-          "wordCount": 318,
+          "wordCount": 1187,
           "title": "salem ilese - Crypto Boy",
           "imageUrl": "https://d2i9ybouka0ieh.cloudfront.net/artist-uploads/206be577-16b2-4be4-88c6-d51166c1f10e/RELEASE_COVER_IMAGE/3079952-default"
         },
@@ -36,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.fairmint.co/we-raised-7-3-million-in-our-sleep-now-your-startup-can-too-965a7e7e0534?gi=8dc28173ff83",
-          "author": null,
-          "description": "We raised $7.3 million in our sleep. Now your startup can, too.",
-          "link": "https://blog.fairmint.co/we-raised-7-3-million-in-our-sleep-now-your-startup-can-too-965a7e7e0534?gi=8dc28173ff83",
-          "publishedOn": "2022-05-24T21:00:03.000Z",
-          "wordCount": 626,
-          "title": "We raised $7.3 million in our sleep. Now your startup can, too.",
-          "imageUrl": "https://miro.medium.com/max/1200/1*Bo5zlyMyMOJfQ3AsSsbK2A.jpeg"
-        },
-        {
           "id": "https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show",
           "author": null,
           "description": "Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show",
@@ -54,6 +54,16 @@
           "wordCount": 1179,
           "title": "Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show",
           "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/24/21/campaign_images/0a2b9d6a65f1/someone-stole-seth-greens-bored-ape-which-was-sup-2-561-1653427171-21_dblbig.jpg"
+        },
+        {
+          "id": "https://blog.fairmint.co/we-raised-7-3-million-in-our-sleep-now-your-startup-can-too-965a7e7e0534?gi=8dc28173ff83",
+          "author": null,
+          "description": "We raised $7.3 million in our sleep. Now your startup can, too.",
+          "link": "https://blog.fairmint.co/we-raised-7-3-million-in-our-sleep-now-your-startup-can-too-965a7e7e0534?gi=8dc28173ff83",
+          "publishedOn": "2022-05-24T21:00:03.000Z",
+          "wordCount": 626,
+          "title": "We raised $7.3 million in our sleep. Now your startup can, too.",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Bo5zlyMyMOJfQ3AsSsbK2A.jpeg"
         },
         {
           "id": "https://www.notboring.co/p/designing-token-economies?s=w",
@@ -71,7 +81,7 @@
           "description": "Adam Neumann-backed blockchain startup Flowcarbon raises $70 million",
           "link": "https://www.theblockcrypto.com/post/148427/adam-neumann-backed-blockchain-startup-flowcarbon-raises-70-million",
           "publishedOn": "2022-05-24T19:00:02.000Z",
-          "wordCount": 1024,
+          "wordCount": 977,
           "title": "Adam Neumann-backed blockchain startup Flowcarbon raises $70 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/adam-neumann.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Central African Republic teases 'Project Sango' crypto hub",
           "link": "https://www.theblockcrypto.com/post/148416/central-african-republic-teases-project-sango-crypto-hub",
           "publishedOn": "2022-05-24T17:00:06.000Z",
-          "wordCount": 1027,
+          "wordCount": 980,
           "title": "Central African Republic teases 'Project Sango' crypto hub",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220412_index-africa.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "GitHub - ruvaag/token-snapshot",
           "link": "https://github.com/ruvaag/token-snapshot",
           "publishedOn": "2022-05-24T13:00:05.000Z",
-          "wordCount": 406,
+          "wordCount": 404,
           "title": "GitHub - ruvaag/token-snapshot",
           "imageUrl": "https://opengraph.githubassets.com/52a036276c21e0f59995eab79a4aa62a5a08db3eb074993ec4efeee7b73a5af1/ruvaag/token-snapshot"
         },
@@ -131,7 +141,7 @@
           "description": "Young investors lose big in crypto crash: ‘I didn’t sleep for days’",
           "link": "https://nypost.com/2022/05/23/investors-lose-big-in-crypto-crash-i-didnt-sleep-for-days/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-05-24T07:00:03.000Z",
-          "wordCount": 1727,
+          "wordCount": 1731,
           "title": "Young investors lose big in crypto crash: ‘I didn’t sleep for days’",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/05/crypto-crash-ypoung-investors-2.jpg?quality=75&strip=all&w=1024"
         },
@@ -161,19 +171,9 @@
           "description": "Coinbase Tests App for Employees to Grade Each Other During Meetings",
           "link": "https://www.theinformation.com/articles/coinbase-tests-app-for-employees-to-grade-each-other-during-meetings?utm_source=ti_app",
           "publishedOn": "2022-05-24T03:00:03.000Z",
-          "wordCount": 939,
+          "wordCount": 940,
           "title": "Coinbase Tests App for Employees to Grade Each Other During Meetings",
           "imageUrl": "https://tii.imgix.net/production/articles/8005/25c36958-1033-4b7e-b34d-67c66529a594.jpeg?w=800&fm=jpg&auto=compress&frame=0"
-        },
-        {
-          "id": "https://paper.dropbox.com/doc/RAI-Newb-Explainer--BiHRoGcv6RRPF4AcHhuj5HhiAQ-XQpLvdI8sOOJ7Z0WaPGzQ",
-          "author": null,
-          "description": "RAI Newb Explainer",
-          "link": "https://paper.dropbox.com/doc/RAI-Newb-Explainer--BiHRoGcv6RRPF4AcHhuj5HhiAQ-XQpLvdI8sOOJ7Z0WaPGzQ",
-          "publishedOn": "2022-05-24T01:00:03.000Z",
-          "wordCount": 505,
-          "title": "RAI Newb Explainer",
-          "imageUrl": "https://paper-attachments.dropbox.com/s_68C896DFDDDF6BF75A1E176B2A6481BFCA542A80939A38A205D19DC3C3FD0E7E_1653318068098_telegram-cloud-photo-size-1-4925178602396428834-y.jpg"
         },
         {
           "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763",
