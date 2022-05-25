@@ -6,12 +6,52 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/",
+          "author": null,
+          "description": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
+          "link": "https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/",
+          "publishedOn": "2022-05-25T19:00:05.000Z",
+          "wordCount": 972,
+          "title": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
+          "imageUrl": "https://www.coindesk.com/resizer/sXKBg3CvTMmRMEz450J3129947I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IAJCQ6AZR5GNZIUOI56ZGKUOO4.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zvODqTUAPN0",
+          "author": null,
+          "description": "The Merge (Part 1) - with Danny Ryan, Tim Beiko, and Hasu",
+          "link": "https://www.youtube.com/watch?v=zvODqTUAPN0",
+          "publishedOn": "2022-05-25T19:00:05.000Z",
+          "wordCount": null,
+          "title": "The Merge (Part 1) - with Danny Ryan, Tim Beiko, and Hasu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mhonkasalo.substack.com/",
+          "author": null,
+          "description": "@mhonkasalo",
+          "link": "https://mhonkasalo.substack.com/",
+          "publishedOn": "2022-05-25T19:00:05.000Z",
+          "wordCount": 372,
+          "title": "@mhonkasalo",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fmhonkasalo.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D6d3ca23f54fd741c1e0533acf4eb0e38%3Fversion%3D3"
+        },
+        {
+          "id": "https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation",
+          "author": null,
+          "description": "StarkWare's valuation quadruples to $8 billion in new funding round",
+          "link": "https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation",
+          "publishedOn": "2022-05-25T19:00:04.000Z",
+          "wordCount": 1076,
+          "title": "StarkWare's valuation quadruples to $8 billion in new funding round",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/photo_2022-05-25-16.09.29.jpeg"
+        },
+        {
           "id": "https://finance.yahoo.com/news/jpmorgan-backs-bitcoin-rise-28-115319472.html",
           "author": null,
           "description": "JPMorgan backs bitcoin to rise 28% and says cryptocurrencies are now its preferred alternative asset",
           "link": "https://finance.yahoo.com/news/jpmorgan-backs-bitcoin-rise-28-115319472.html",
           "publishedOn": "2022-05-25T18:00:05.000Z",
-          "wordCount": 2025,
+          "wordCount": 1971,
           "title": "JPMorgan backs bitcoin to rise 28% and says cryptocurrencies are now its preferred alternative asset",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/g4MR.yyiqbIHy5HRrByEtA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/cf8zZfi_qxY3w0fwNAvcbQ--~B/aD0zMzMzO3c9NDQ0NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/3f9eb97c4e8d3759ebbfceabaa291d08"
         },
@@ -46,44 +86,24 @@
           "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-day-2022-v3.jpg"
         },
         {
+          "id": "https://www.theblockcrypto.com/post/148576/layerzero-labs-seeks-backing-that-would-triple-its-valuation-to-3-billion",
+          "author": null,
+          "description": "LayerZero Labs seeks backing that would triple its valuation to $3 billion",
+          "link": "https://www.theblockcrypto.com/post/148576/layerzero-labs-seeks-backing-that-would-triple-its-valuation-to-3-billion",
+          "publishedOn": "2022-05-25T15:00:05.000Z",
+          "wordCount": 1120,
+          "title": "LayerZero Labs seeks backing that would triple its valuation to $3 billion",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211106-Cross-Chain-Swap-News.png"
+        },
+        {
           "id": "https://www.theblockcrypto.com/post/146212/alan-howard-crypto-interview",
           "author": null,
           "description": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
           "link": "https://www.theblockcrypto.com/post/146212/alan-howard-crypto-interview",
           "publishedOn": "2022-05-25T13:00:05.000Z",
-          "wordCount": 2459,
+          "wordCount": 2435,
           "title": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210610_Alan_Howard.jpg"
-        },
-        {
-          "id": "https://github.com/ava-labs/avalanchego/releases/tag/v1.7.11",
-          "author": null,
-          "description": "Release Apricot Phase 5 - Patch 11 - State Sync · ava-labs/avalanchego",
-          "link": "https://github.com/ava-labs/avalanchego/releases/tag/v1.7.11",
-          "publishedOn": "2022-05-25T11:00:04.000Z",
-          "wordCount": 880,
-          "title": "Release Apricot Phase 5 - Patch 11 - State Sync · ava-labs/avalanchego",
-          "imageUrl": "https://opengraph.githubassets.com/30ffac2513b031d3831271ffe11eea17cae47aae82d5c867c5ab4812185c72ba/ava-labs/avalanchego/releases/tag/v1.7.11"
-        },
-        {
-          "id": "https://cfmm.io/",
-          "author": null,
-          "description": "Principles of decentralized finance",
-          "link": "https://cfmm.io/",
-          "publishedOn": "2022-05-25T11:00:04.000Z",
-          "wordCount": 233,
-          "title": "Principles of decentralized finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rainbowkit.com/",
-          "author": null,
-          "description": "RainbowKit",
-          "link": "https://www.rainbowkit.com/",
-          "publishedOn": "2022-05-25T05:30:11.000Z",
-          "wordCount": 173,
-          "title": "RainbowKit",
-          "imageUrl": "https://rainbowkit.com/social/default.png"
         },
         {
           "id": "https://www.epsilontheory.com/the-macguffin-part-1/",
@@ -94,16 +114,6 @@
           "wordCount": 15290,
           "title": "The MacGuffin, Part 1 - Epsilon Theory",
           "imageUrl": "https://www.epsilontheory.com/wp-content/uploads/novo-tattoo-3.png"
-        },
-        {
-          "id": "https://brownstone.org/articles/the-who-treaty-is-tied-to-a-global-digital-passport-and-id-system/",
-          "author": null,
-          "description": "The WHO Treaty Is Tied to a Global Digital Passport and ID System ⋆ Brownstone Institute",
-          "link": "https://brownstone.org/articles/the-who-treaty-is-tied-to-a-global-digital-passport-and-id-system/",
-          "publishedOn": "2022-05-25T05:00:03.000Z",
-          "wordCount": 1263,
-          "title": "The WHO Treaty Is Tied to a Global Digital Passport and ID System ⋆ Brownstone Institute",
-          "imageUrl": "https://brownstone.org/wp-content/uploads/2022/05/shutterstock_788743468-800x469.jpg"
         },
         {
           "id": "https://forum.apecoin.com/t/aip-idea-otherside-as-an-avalanche-subnet/6369/11",
@@ -171,7 +181,7 @@
           "description": "salem ilese - Crypto Boy",
           "link": "https://www.sound.xyz/salemilese/crypto-boy",
           "publishedOn": "2022-05-24T21:00:04.000Z",
-          "wordCount": 1257,
+          "wordCount": 1267,
           "title": "salem ilese - Crypto Boy",
           "imageUrl": "https://d2i9ybouka0ieh.cloudfront.net/artist-uploads/206be577-16b2-4be4-88c6-d51166c1f10e/RELEASE_COVER_IMAGE/3079952-default"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1182,
           "title": "Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show",
           "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/24/21/campaign_images/0a2b9d6a65f1/someone-stole-seth-greens-bored-ape-which-was-sup-2-561-1653427171-21_dblbig.jpg"
-        },
-        {
-          "id": "https://www.notboring.co/p/designing-token-economies?s=w",
-          "author": null,
-          "description": "Designing Token Economies",
-          "link": "https://www.notboring.co/p/designing-token-economies?s=w",
-          "publishedOn": "2022-05-24T20:00:08.000Z",
-          "wordCount": 8476,
-          "title": "Designing Token Economies",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b125f8c-05fd-4f6c-938f-d0bc91f32de8_1200x600.png"
         },
         {
           "id": "https://unchainedpodcast.com/cobie-and-chris-burniske-on-how-to-navigate-a-crypto-bear-market-ep-354/",
