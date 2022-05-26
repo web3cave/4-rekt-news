@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qhtYPhPWCsI&feature=youtu.be",
+          "author": null,
+          "description": "Google Brain's new model Imagen is incredible!",
+          "link": "https://www.youtube.com/watch?v=qhtYPhPWCsI&feature=youtu.be",
+          "publishedOn": "2022-05-26T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Google Brain's new model Imagen is incredible!",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.tribz.xyz/openzeppelin-contributor-souldrop",
           "author": null,
           "description": "OpenZeppelin Contributor Souldrop",
@@ -24,6 +34,16 @@
           "wordCount": null,
           "title": "Celestia Testnet Introduces Alpha Data Availability API",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/layer2/metaverseweek/2022/05/25/how-to-make-it-in-the-metaverse/",
+          "author": null,
+          "description": "How to Make It in the Metaverse",
+          "link": "https://www.coindesk.com/layer2/metaverseweek/2022/05/25/how-to-make-it-in-the-metaverse/",
+          "publishedOn": "2022-05-26T05:30:03.000Z",
+          "wordCount": 4454,
+          "title": "How to Make It in the Metaverse",
+          "imageUrl": "https://www.coindesk.com/resizer/RCiIuRPECDKg7u1AKUbEVh9tn-o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FQ64HDYBQFCXHMVUZ4YYPCE4D4.png"
         },
         {
           "id": "https://www.theblockcrypto.com/linked/148846/golf-equipment-brand-callaway-forges-relationship-with-nft-club-linksdao?utm_source=twitter&utm_medium=social",
@@ -86,6 +106,16 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/BA413BMKDyjTB4_W0nxrU.png?h=null&w=null&auto=compress"
         },
         {
+          "id": "https://rad.lol/",
+          "author": null,
+          "description": "🌱 RAD RADIO 🌱",
+          "link": "https://rad.lol/",
+          "publishedOn": "2022-05-25T22:30:03.000Z",
+          "wordCount": 6,
+          "title": "🌱 RAD RADIO 🌱",
+          "imageUrl": "https://rad.lol/social-share.png"
+        },
+        {
           "id": "https://notes.ethereum.org/@vbuterin/lmd_ghost_mitigation#Proposed-solution",
           "author": null,
           "description": "Proposal for mitigation against balancing attacks to LMD GHOST - HackMD",
@@ -94,6 +124,16 @@
           "wordCount": 1280,
           "title": "Proposal for mitigation against balancing attacks to LMD GHOST - HackMD",
           "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
+        },
+        {
+          "id": "https://www.drips.network/",
+          "author": null,
+          "description": "Radicle Drips",
+          "link": "https://www.drips.network/",
+          "publishedOn": "2022-05-25T21:00:03.000Z",
+          "wordCount": 185,
+          "title": "Radicle Drips",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblockcrypto.com/post/148746/vc-funding-to-help-crypto-avoid-a-long-winter-post-terras-collapse-jp-morgan",
@@ -111,9 +151,19 @@
           "description": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
           "link": "https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/",
           "publishedOn": "2022-05-25T19:00:05.000Z",
-          "wordCount": 968,
+          "wordCount": 963,
           "title": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
           "imageUrl": "https://www.coindesk.com/resizer/sXKBg3CvTMmRMEz450J3129947I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IAJCQ6AZR5GNZIUOI56ZGKUOO4.jpg"
+        },
+        {
+          "id": "https://cmsholdings.substack.com/p/a-deep-dive-into-synapse?s=w",
+          "author": null,
+          "description": "A Deep Dive into Synapse",
+          "link": "https://cmsholdings.substack.com/p/a-deep-dive-into-synapse?s=w",
+          "publishedOn": "2022-05-25T19:00:05.000Z",
+          "wordCount": 2240,
+          "title": "A Deep Dive into Synapse",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F47c4b2b7-14ff-4d01-8640-f6c5c727b966_952x402.png"
         },
         {
           "id": "https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation",
@@ -136,54 +186,14 @@
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/05/Crypto-Fund-IV-Twitter.jpg"
         },
         {
-          "id": "https://www.cnbc.com/2022/05/25/andreessen-horowitz-raises-4point5-billion-crypto-fund-in-down-market.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1653476527",
+          "id": "https://thegraph.com/graph-day/2022/",
           "author": null,
-          "description": "Andreessen Horowitz raises $4.5 billion crypto fund to take advantage of bargains in down market",
-          "link": "https://www.cnbc.com/2022/05/25/andreessen-horowitz-raises-4point5-billion-crypto-fund-in-down-market.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1653476527",
-          "publishedOn": "2022-05-25T16:00:04.000Z",
-          "wordCount": 926,
-          "title": "Andreessen Horowitz raises $4.5 billion crypto fund to take advantage of bargains in down market",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106162397-1570105330775rtx75uev.jpg?v=1570105470&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/148576/layerzero-labs-seeks-backing-that-would-triple-its-valuation-to-3-billion",
-          "author": null,
-          "description": "LayerZero Labs seeks backing that would triple its valuation to $3 billion",
-          "link": "https://www.theblockcrypto.com/post/148576/layerzero-labs-seeks-backing-that-would-triple-its-valuation-to-3-billion",
-          "publishedOn": "2022-05-25T15:00:05.000Z",
-          "wordCount": 1198,
-          "title": "LayerZero Labs seeks backing that would triple its valuation to $3 billion",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211106-Cross-Chain-Swap-News.png"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/146212/alan-howard-crypto-interview",
-          "author": null,
-          "description": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
-          "link": "https://www.theblockcrypto.com/post/146212/alan-howard-crypto-interview",
-          "publishedOn": "2022-05-25T13:00:05.000Z",
-          "wordCount": 2522,
-          "title": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210610_Alan_Howard.jpg"
-        },
-        {
-          "id": "https://www.pills.game/",
-          "author": null,
-          "description": "PILLS: A Universe Unfolding",
-          "link": "https://www.pills.game/",
-          "publishedOn": "2022-05-25T03:30:03.000Z",
-          "wordCount": 1457,
-          "title": "PILLS: A Universe Unfolding",
-          "imageUrl": "/images/img-hero@2x.png"
-        },
-        {
-          "id": "https://cryptobriefing.com/ebay-drops-first-nft-collection-polygon/",
-          "author": null,
-          "description": "eBay Drops First NFT Collection on Polygon",
-          "link": "https://cryptobriefing.com/ebay-drops-first-nft-collection-polygon/",
-          "publishedOn": "2022-05-24T23:30:03.000Z",
-          "wordCount": 1075,
-          "title": "eBay Drops First NFT Collection on Polygon",
-          "imageUrl": "https://cryptobriefing.com/wp-content/uploads/2022/05/ebay-cover-1-768x403.jpg"
+          "description": "Graph Day - June 2, 2022",
+          "link": "https://thegraph.com/graph-day/2022/",
+          "publishedOn": "2022-05-25T15:30:05.000Z",
+          "wordCount": 350,
+          "title": "Graph Day - June 2, 2022",
+          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-day-2022-v3.jpg"
         },
         {
           "id": "https://www.sound.xyz/salemilese/crypto-boy",
@@ -194,16 +204,6 @@
           "wordCount": 1265,
           "title": "salem ilese - Crypto Boy",
           "imageUrl": "https://d2i9ybouka0ieh.cloudfront.net/artist-uploads/206be577-16b2-4be4-88c6-d51166c1f10e/RELEASE_COVER_IMAGE/3079952-default"
-        },
-        {
-          "id": "https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show",
-          "author": null,
-          "description": "Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show",
-          "link": "https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show",
-          "publishedOn": "2022-05-24T21:00:03.000Z",
-          "wordCount": 1185,
-          "title": "Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show",
-          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/24/21/campaign_images/0a2b9d6a65f1/someone-stole-seth-greens-bored-ape-which-was-sup-2-561-1653427171-21_dblbig.jpg"
         }
       ]
     }
