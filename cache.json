@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.paradigm.xyz/fellowship",
+          "author": null,
+          "description": "Paradigm Fellowship",
+          "link": "https://www.paradigm.xyz/fellowship",
+          "publishedOn": "2022-05-26T01:00:02.000Z",
+          "wordCount": 419,
+          "title": "Paradigm Fellowship",
+          "imageUrl": "https://paradigm.xyz/static/meta_fellowship.png"
+        },
+        {
+          "id": "https://g.money/",
+          "author": null,
+          "description": "Admit One - gmoney",
+          "link": "https://g.money/",
+          "publishedOn": "2022-05-26T00:30:04.000Z",
+          "wordCount": 5,
+          "title": "Admit One - gmoney",
+          "imageUrl": null
+        },
+        {
           "id": "https://linda.mirror.xyz/BIasTPr7Ym_rfbhxpKjlMqKCz3qVMaFgQeV3EphkO-E",
           "author": null,
           "description": "Key learnings from DAOs",
@@ -14,16 +34,6 @@
           "wordCount": 1564,
           "title": "Key learnings from DAOs",
           "imageUrl": "https://mirror-media.imgix.net/nft/Cy1SD0CbMRQEHCiLPwymF.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/",
-          "author": null,
-          "description": "Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt",
-          "link": "https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/",
-          "publishedOn": "2022-05-25T23:00:03.000Z",
-          "wordCount": 715,
-          "title": "Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_14302600401-gID_1.jpg"
         },
         {
           "id": "https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0?w",
@@ -81,19 +91,9 @@
           "description": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
           "link": "https://www.coindesk.com/business/2022/05/25/soona-amhazs-volt-debuts-50m-crypto-fund-backed-by-marc-andreessen-chris-dixon/",
           "publishedOn": "2022-05-25T19:00:05.000Z",
-          "wordCount": 969,
+          "wordCount": 989,
           "title": "Soona Amhaz’s Volt Debuts $50M Crypto Fund Backed by Marc Andreessen, Chris Dixon",
           "imageUrl": "https://www.coindesk.com/resizer/sXKBg3CvTMmRMEz450J3129947I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IAJCQ6AZR5GNZIUOI56ZGKUOO4.jpg"
-        },
-        {
-          "id": "https://mhonkasalo.substack.com/",
-          "author": null,
-          "description": "@mhonkasalo",
-          "link": "https://mhonkasalo.substack.com/",
-          "publishedOn": "2022-05-25T19:00:05.000Z",
-          "wordCount": 372,
-          "title": "@mhonkasalo",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fmhonkasalo.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D6d3ca23f54fd741c1e0533acf4eb0e38%3Fversion%3D3"
         },
         {
           "id": "https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation",
@@ -126,10 +126,10 @@
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/106162397-1570105330775rtx75uev.jpg?v=1570105470&w=1920&h=1080"
         },
         {
-          "id": "https://thegraph.com/graph-day/2022/",
+          "id": "https://thegraph.com/graph-day/2022/#agenda",
           "author": null,
           "description": "Graph Day - June 2, 2022",
-          "link": "https://thegraph.com/graph-day/2022/",
+          "link": "https://thegraph.com/graph-day/2022/#agenda",
           "publishedOn": "2022-05-25T15:30:05.000Z",
           "wordCount": 350,
           "title": "Graph Day - June 2, 2022",
@@ -151,7 +151,7 @@
           "description": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
           "link": "https://www.theblockcrypto.com/post/146212/alan-howard-crypto-interview",
           "publishedOn": "2022-05-25T13:00:05.000Z",
-          "wordCount": 2495,
+          "wordCount": 2496,
           "title": "Hedge fund manager Alan Howard explains why he’s investing across the entire crypto ecosystem",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210610_Alan_Howard.jpg"
         },

@@ -59,6 +59,71 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-26 datetime="2022-05-26T01:00:02.000Z">2022-05-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-26 datetime="2022-05-26T01:00:02.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rekt - Feed</button>
+                  <a class="source-heading__link" href="https://feed.rekt.news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.paradigm.xyz/fellowship"
+                        open
+                      >
+                        <summary class="article-expander__title">Paradigm Fellowship</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.paradigm.xyz/fellowship">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://paradigm.xyz/static/meta_fellowship.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Paradigm Fellowship</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://g.money/"
+                        open
+                      >
+                        <summary class="article-expander__title">Admit One - gmoney</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://g.money/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Admit One - gmoney</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-25 datetime="2022-05-25T23:00:03.000Z">2022-05-25</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-25 datetime="2022-05-25T23:00:03.000Z"></time>
           </button>
@@ -89,26 +154,6 @@
                             <span class="media-object__text">
                               <span>Key learnings from DAOs</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/"
-                        open
-                      >
-                        <summary class="article-expander__title">Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_14302600401-gID_1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -236,26 +281,6 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://mhonkasalo.substack.com/"
-                        open
-                      >
-                        <summary class="article-expander__title">@mhonkasalo</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mhonkasalo.substack.com/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fmhonkasalo.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D6d3ca23f54fd741c1e0533acf4eb0e38%3Fversion%3D3" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>@mhonkasalo</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation"
                         open
                       >
@@ -316,11 +341,11 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://thegraph.com/graph-day/2022/"
+                        data-accordion-key="https://thegraph.com/graph-day/2022/#agenda"
                         open
                       >
                         <summary class="article-expander__title">Graph Day - June 2, 2022</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thegraph.com/graph-day/2022/">
+                        <a class="article-summary-link article-summary-box-outer" href="https://thegraph.com/graph-day/2022/#agenda">
                           <div class="article-summary-box-inner media-object">
                               <img src="https://storage.googleapis.com/graph-website/seo/graph-day-2022-v3.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
@@ -507,8 +532,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/2387689502">
-        <time id="build-timestamp" datetime="2022-05-25T23:22:28.953Z">2022-05-25T23:22:28.953Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/2388197737">
+        <time id="build-timestamp" datetime="2022-05-26T02:02:34.163Z">2022-05-26T02:02:34.163Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>

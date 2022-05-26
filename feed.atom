@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-25T23:22:28.974Z</id>
+    <id>urn:2022-05-26T02:02:34.184Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-25T23:22:28.974Z</updated>
+    <updated>2022-05-26T02:02:34.184Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Paradigm Fellowship]]></title>
+        <id>https://www.paradigm.xyz/fellowship</id>
+        <link href="https://www.paradigm.xyz/fellowship"/>
+        <updated>2022-05-26T01:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Paradigm Fellowship]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Admit One - gmoney]]></title>
+        <id>https://g.money/</id>
+        <link href="https://g.money/"/>
+        <updated>2022-05-26T00:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Admit One - gmoney]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Key learnings from DAOs]]></title>
         <id>https://linda.mirror.xyz/BIasTPr7Ym_rfbhxpKjlMqKCz3qVMaFgQeV3EphkO-E</id>
         <link href="https://linda.mirror.xyz/BIasTPr7Ym_rfbhxpKjlMqKCz3qVMaFgQeV3EphkO-E"/>
         <updated>2022-05-25T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Key learnings from DAOs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt]]></title>
-        <id>https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/</id>
-        <link href="https://decrypt.co/101321/andreessen-horowitz-announces-new-4-5-billion-crypto-fund/"/>
-        <updated>2022-05-25T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Andreessen Horowitz Announces New $4.5 Billion Crypto Fund - Decrypt]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -86,16 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[@mhonkasalo]]></title>
-        <id>https://mhonkasalo.substack.com/</id>
-        <link href="https://mhonkasalo.substack.com/"/>
-        <updated>2022-05-25T19:00:05.000Z</updated>
-        <summary type="html"><![CDATA[@mhonkasalo]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[StarkWare's valuation quadruples to $8 billion in new funding round]]></title>
         <id>https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation</id>
         <link href="https://www.theblockcrypto.com/post/148672/starkware-raises-series-d-funding-8-billion-valuation"/>
@@ -127,8 +127,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Graph Day - June 2, 2022]]></title>
-        <id>https://thegraph.com/graph-day/2022/</id>
-        <link href="https://thegraph.com/graph-day/2022/"/>
+        <id>https://thegraph.com/graph-day/2022/#agenda</id>
+        <link href="https://thegraph.com/graph-day/2022/#agenda"/>
         <updated>2022-05-25T15:30:05.000Z</updated>
         <summary type="html"><![CDATA[Graph Day - June 2, 2022]]></summary>
         <author>
