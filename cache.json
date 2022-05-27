@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=TTHNxUdGB7I&feature=youtu.be",
+          "id": "https://variant.fund/careers/defiintern",
           "author": null,
-          "description": "Bitcoin Insights From Leading Experts",
-          "link": "https://www.youtube.com/watch?v=TTHNxUdGB7I&feature=youtu.be",
-          "publishedOn": "2022-05-27T21:30:05.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Insights From Leading Experts",
+          "description": "DeFi Intern",
+          "link": "https://variant.fund/careers/defiintern",
+          "publishedOn": "2022-05-27T23:00:04.000Z",
+          "wordCount": 358,
+          "title": "DeFi Intern",
+          "imageUrl": "https://images.prismic.io/variant/4b3cda25-4995-414b-b2ef-d8db885a34fd_variant_icon%2Bwordmark_white.jpg?auto=compress,format"
+        },
+        {
+          "id": "https://eprint.iacr.org/2021/1413.pdf",
+          "author": null,
+          "description": "[PDF] 1413.pdf",
+          "link": "https://eprint.iacr.org/2021/1413.pdf",
+          "publishedOn": "2022-05-27T23:00:04.000Z",
+          "wordCount": 9446,
+          "title": "[PDF] 1413.pdf",
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/business/2022/05/26/stepn-to-bar-move-to-earn-for-china-based-users-in-july/",
+          "id": "https://github.com/ethereum/pm/issues/528",
           "author": null,
-          "description": "Stepn to Bar Gameplay in China, Sending 'Move-to-Earn' Token GMT Spiraling",
-          "link": "https://www.coindesk.com/business/2022/05/26/stepn-to-bar-move-to-earn-for-china-based-users-in-july/",
-          "publishedOn": "2022-05-27T21:30:04.000Z",
-          "wordCount": 824,
-          "title": "Stepn to Bar Gameplay in China, Sending 'Move-to-Earn' Token GMT Spiraling",
-          "imageUrl": "https://www.coindesk.com/resizer/oIm-s9vX1YxoinfzQBBcAS5qemE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/L5IGZ5RZ7REKJOIEBLQ6CQLQSE.jpg"
+          "description": "Ethereum Core Devs Meeting 139 Agenda  · Issue #528 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/528",
+          "publishedOn": "2022-05-27T23:00:04.000Z",
+          "wordCount": 1339,
+          "title": "Ethereum Core Devs Meeting 139 Agenda  · Issue #528 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/371f69957e2c65d80281bc2b3273fdad5d787776957f69bff89fb1843aa03416/ethereum/pm/issues/528"
+        },
+        {
+          "id": "https://github.com/ethereum/EIPs/pull/5088",
+          "author": null,
+          "description": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
+          "link": "https://github.com/ethereum/EIPs/pull/5088",
+          "publishedOn": "2022-05-27T22:30:03.000Z",
+          "wordCount": 2418,
+          "title": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
+          "imageUrl": "https://opengraph.githubassets.com/47ee0f694299637eaf77742b3ffb5758cda49da16b4da50938b04d1b698c5235/ethereum/EIPs/pull/5088"
         },
         {
           "id": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
@@ -41,9 +61,19 @@
           "description": "Should Lido on Ethereum be limited to some fixed % of stake?",
           "link": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225",
           "publishedOn": "2022-05-27T21:00:02.000Z",
-          "wordCount": 9995,
+          "wordCount": 10099,
           "title": "Should Lido on Ethereum be limited to some fixed % of stake?",
           "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/lido/optimized/2X/a/af1642523295dd0da5018f58f14de3d2b269f91d_2_1024x727.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5mMd-XHAv2Q",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting #139 [2022-5-27]",
+          "link": "https://www.youtube.com/watch?v=5mMd-XHAv2Q",
+          "publishedOn": "2022-05-27T20:30:03.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #139 [2022-5-27]",
+          "imageUrl": null
         },
         {
           "id": "https://sexn.finance/",
@@ -74,16 +104,6 @@
           "wordCount": null,
           "title": "Debunking fud, Ropsten issues and more - The Daily Gwei Refuel #373 - Ethereum Updates",
           "imageUrl": null
-        },
-        {
-          "id": "https://onthebrink-podcast.com/roundup-05-27-22/",
-          "author": null,
-          "description": "Weekly Roundup 05/27/22 feat. Dan Matuszewski (VC dry powder, FTX' CFTC proposal, more Tether concerns) (EP.322) - On...",
-          "link": "https://onthebrink-podcast.com/roundup-05-27-22/",
-          "publishedOn": "2022-05-27T19:00:03.000Z",
-          "wordCount": 319,
-          "title": "Weekly Roundup 05/27/22 feat. Dan Matuszewski (VC dry powder, FTX' CFTC proposal, more Tether concerns) (EP.322) - On...",
-          "imageUrl": "https://onthebrink-podcast.com/wp-content/uploads/roundup-OTB.png"
         },
         {
           "id": "https://www.theblockcrypto.com/post/149112/solanas-blockchain-clock-loses-track-of-time-now-running-30-minutes-behind",
@@ -126,22 +146,12 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220516-News-Market-Decline-2.png"
         },
         {
-          "id": "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201?reflink=e2twmkts",
-          "author": null,
-          "description": "TerraUSD Crash Led to Vanished Savings, Shattered Dreams",
-          "link": "https://www.wsj.com/articles/terrausd-crash-led-to-vanished-savings-shattered-dreams-11653649201?reflink=e2twmkts",
-          "publishedOn": "2022-05-27T15:00:03.000Z",
-          "wordCount": 988,
-          "title": "TerraUSD Crash Led to Vanished Savings, Shattered Dreams",
-          "imageUrl": "https://images.wsj.net/im-552520/social"
-        },
-        {
           "id": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "author": null,
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2180,
+          "wordCount": 2174,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
@@ -174,16 +184,6 @@
           "wordCount": 884,
           "title": "The Hitchhiker's Guide to Ethereum - Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/05/11-Danksharding.png"
-        },
-        {
-          "id": "https://speedrunethereum.com/",
-          "author": null,
-          "description": "Speed Run Ethereum",
-          "link": "https://speedrunethereum.com/",
-          "publishedOn": "2022-05-27T03:00:02.000Z",
-          "wordCount": 11,
-          "title": "Speed Run Ethereum",
-          "imageUrl": null
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/05/25/stable.html",
