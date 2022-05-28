@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
+          "author": null,
+          "description": "All Access with Emin Gün Sirer - Ep. 22",
+          "link": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
+          "publishedOn": "2022-05-28T07:30:04.000Z",
+          "wordCount": null,
+          "title": "All Access with Emin Gün Sirer - Ep. 22",
+          "imageUrl": null
+        },
+        {
           "id": "https://arxiv.org/abs/2203.01315",
           "author": null,
           "description": "Two Attacks On Proof-of-Stake GHOST/Ethereum",
@@ -76,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblockcrypto.com/post/149186/heres-a-full-draft-of-senator-cynthia-lummis-landmark-crypto-bill",
-          "author": null,
-          "description": "Here’s a full draft of Senator Cynthia Lummis' landmark crypto bill",
-          "link": "https://www.theblockcrypto.com/post/149186/heres-a-full-draft-of-senator-cynthia-lummis-landmark-crypto-bill",
-          "publishedOn": "2022-05-27T23:00:04.000Z",
-          "wordCount": 1418,
-          "title": "Here’s a full draft of Senator Cynthia Lummis' landmark crypto bill",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png"
-        },
-        {
           "id": "https://github.com/ethereum/EIPs/pull/5088",
           "author": null,
           "description": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
@@ -131,7 +131,7 @@
           "description": "StarkWare founders talk through $100 million Series D fundraise, mass adoption",
           "link": "https://www.theblockcrypto.com/post/148567/starkware-founders-talk-through-100-million-series-d-fundraise-mass-adoption",
           "publishedOn": "2022-05-27T19:00:03.000Z",
-          "wordCount": 1355,
+          "wordCount": 1350,
           "title": "StarkWare founders talk through $100 million Series D fundraise, mass adoption",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_TheScoop_StarkWare-Uri-Eli-16x9-1.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Solana's blockchain clock loses track of time, now running 30 minutes behind",
           "link": "https://www.theblockcrypto.com/post/149112/solanas-blockchain-clock-loses-track-of-time-now-running-30-minutes-behind",
           "publishedOn": "2022-05-27T19:00:02.000Z",
-          "wordCount": 1138,
+          "wordCount": 1133,
           "title": "Solana's blockchain clock loses track of time, now running 30 minutes behind",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220506_Solana.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
           "link": "https://www.theblockcrypto.com/linked/149111/su-zhu-says-his-supercycle-price-thesis-was-regrettably-wrong?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-27T15:00:03.000Z",
-          "wordCount": 842,
+          "wordCount": 837,
           "title": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220516-News-Market-Decline-2.png"
         },
@@ -171,7 +171,7 @@
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2162,
+          "wordCount": 2185,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
