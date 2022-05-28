@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T17:24:08.018Z</id>
+    <id>urn:2022-05-28T18:26:13.405Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-28T17:24:08.018Z</updated>
+    <updated>2022-05-28T18:26:13.405Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Status]]></title>
+        <id>https://status.solana.com/</id>
+        <link href="https://status.solana.com/"/>
+        <updated>2022-05-28T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Solana Status]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave]]></title>
         <id>https://github.com/aave/aave-ui</id>
@@ -57,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[USD Coin (USDC) |  Digital dollars for global business]]></title>
-        <id>https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&amp;utm_content=209313327&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839#transparency</id>
-        <link href="https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&amp;utm_content=209313327&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839#transparency"/>
+        <id>https://www.circle.com/en/usdc#transparency</id>
+        <link href="https://www.circle.com/en/usdc#transparency"/>
         <updated>2022-05-28T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[USD Coin (USDC) |  Digital dollars for global business]]></summary>
         <author>
@@ -116,31 +126,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[web3 could be going a few different ways by Digitally Rare]]></title>
+        <id>https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh</id>
+        <link href="https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh"/>
+        <updated>2022-05-27T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[web3 could be going a few different ways by Digitally Rare]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs]]></title>
         <id>https://github.com/ethereum/EIPs/pull/5088</id>
         <link href="https://github.com/ethereum/EIPs/pull/5088"/>
         <updated>2022-05-27T22:30:03.000Z</updated>
         <summary type="html"><![CDATA[Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric Capital joins the Crypto Council for Innovation (CCI) t…]]></title>
-        <id>https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0</id>
-        <link href="https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0"/>
-        <updated>2022-05-27T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Electric Capital joins the Crypto Council for Innovation (CCI) t…]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should Lido on Ethereum be limited to some fixed % of stake?]]></title>
-        <id>https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225</id>
-        <link href="https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225"/>
-        <updated>2022-05-27T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Should Lido on Ethereum be limited to some fixed % of stake?]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

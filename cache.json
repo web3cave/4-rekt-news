@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://status.solana.com/",
+          "author": null,
+          "description": "Solana Status",
+          "link": "https://status.solana.com/",
+          "publishedOn": "2022-05-28T18:00:03.000Z",
+          "wordCount": 2115,
+          "title": "Solana Status",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/aave/aave-ui",
           "author": null,
           "description": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
           "link": "https://github.com/aave/aave-ui",
           "publishedOn": "2022-05-28T17:00:02.000Z",
-          "wordCount": 771,
+          "wordCount": 746,
           "title": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
           "imageUrl": "https://opengraph.githubassets.com/e2fe23f867f0f67b148b52c27ff23ab26532f3e3051b71c4233909cbf7ced87e/aave/aave-ui"
         },
@@ -56,10 +66,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&utm_content=209313327&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839#transparency",
+          "id": "https://www.circle.com/en/usdc#transparency",
           "author": null,
           "description": "USD Coin (USDC) |  Digital dollars for global business",
-          "link": "https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&utm_content=209313327&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839#transparency",
+          "link": "https://www.circle.com/en/usdc#transparency",
           "publishedOn": "2022-05-28T01:00:03.000Z",
           "wordCount": 3464,
           "title": "USD Coin (USDC) |  Digital dollars for global business",
@@ -116,6 +126,16 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png"
         },
         {
+          "id": "https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh",
+          "author": null,
+          "description": "web3 could be going a few different ways by Digitally Rare",
+          "link": "https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh",
+          "publishedOn": "2022-05-27T23:00:04.000Z",
+          "wordCount": 3035,
+          "title": "web3 could be going a few different ways by Digitally Rare",
+          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1909369/fab10bcacdd3458e.jpeg"
+        },
+        {
           "id": "https://github.com/ethereum/EIPs/pull/5088",
           "author": null,
           "description": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
@@ -124,26 +144,6 @@
           "wordCount": 2418,
           "title": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
           "imageUrl": "https://opengraph.githubassets.com/47ee0f694299637eaf77742b3ffb5758cda49da16b4da50938b04d1b698c5235/ethereum/EIPs/pull/5088"
-        },
-        {
-          "id": "https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0",
-          "author": null,
-          "description": "Electric Capital joins the Crypto Council for Innovation (CCI) t…",
-          "link": "https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0",
-          "publishedOn": "2022-05-27T21:00:03.000Z",
-          "wordCount": 485,
-          "title": "Electric Capital joins the Crypto Council for Innovation (CCI) t…",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/y32T38eqEq2sSKVD9_vkB.png?h=155&w=173"
-        },
-        {
-          "id": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225",
-          "author": null,
-          "description": "Should Lido on Ethereum be limited to some fixed % of stake?",
-          "link": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225",
-          "publishedOn": "2022-05-27T21:00:02.000Z",
-          "wordCount": 10053,
-          "title": "Should Lido on Ethereum be limited to some fixed % of stake?",
-          "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/lido/optimized/2X/a/af1642523295dd0da5018f58f14de3d2b269f91d_2_1024x727.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=5mMd-XHAv2Q&feature=youtu.be",
@@ -181,7 +181,7 @@
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2193,
+          "wordCount": 2191,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
