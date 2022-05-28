@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/aave/aave-ui",
+          "author": null,
+          "description": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
+          "link": "https://github.com/aave/aave-ui",
+          "publishedOn": "2022-05-28T17:00:02.000Z",
+          "wordCount": 771,
+          "title": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
+          "imageUrl": "https://opengraph.githubassets.com/e2fe23f867f0f67b148b52c27ff23ab26532f3e3051b71c4233909cbf7ced87e/aave/aave-ui"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
           "author": null,
           "description": "All Access with Emin Gün Sirer - Ep. 22",
@@ -21,7 +31,7 @@
           "description": "Gene-editing experiment turns fluffy hamsters into 'aggressive' rage monsters",
           "link": "https://metro.co.uk/2022/05/27/gene-editing-turns-fluffy-hamsters-into-aggressive-rage-monsters-16721041/",
           "publishedOn": "2022-05-28T10:00:03.000Z",
-          "wordCount": 776,
+          "wordCount": 777,
           "title": "Gene-editing experiment turns fluffy hamsters into 'aggressive' rage monsters",
           "imageUrl": "https://metro.co.uk/wp-content/uploads/2022/05/SEI_106592506_1653642740.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
         },
@@ -106,16 +116,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210630_Senator_Cynthia_Lummis.png"
         },
         {
-          "id": "https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh",
-          "author": null,
-          "description": "web3 could be going a few different ways by Digitally Rare",
-          "link": "https://anchor.fm/digitallyrare/episodes/web3-could-be-going-a-few-different-ways-e1j5pvh",
-          "publishedOn": "2022-05-27T23:00:04.000Z",
-          "wordCount": 3035,
-          "title": "web3 could be going a few different ways by Digitally Rare",
-          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1909369/fab10bcacdd3458e.jpeg"
-        },
-        {
           "id": "https://github.com/ethereum/EIPs/pull/5088",
           "author": null,
           "description": "Optimizing EIP-4844 transaction validation (using KZG proofs) by asn-d6 · Pull Request #5088 · ethereum/EIPs",
@@ -181,7 +181,7 @@
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2189,
+          "wordCount": 2193,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
