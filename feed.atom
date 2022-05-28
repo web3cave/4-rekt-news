@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-28T03:12:57.265Z</id>
+    <id>urn:2022-05-28T04:29:20.798Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-28T03:12:57.265Z</updated>
+    <updated>2022-05-28T04:29:20.798Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://speedrunethereum.com/"/>
         <updated>2022-05-28T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USD Coin (USDC) |  Digital dollars for global business]]></title>
+        <id>https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&amp;utm_content=209313327&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839#transparency</id>
+        <link href="https://www.circle.com/en/usdc?utm_campaign=Campaign%20%7C%20USDC&amp;utm_content=209313327&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839#transparency"/>
+        <updated>2022-05-28T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[USD Coin (USDC) |  Digital dollars for global business]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page"/>
         <updated>2022-05-27T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ropsten TTD Postmortem - HackMD]]></title>
-        <id>https://notes.ethereum.org/@timbeiko/ropsten-ttd-override</id>
-        <link href="https://notes.ethereum.org/@timbeiko/ropsten-ttd-override"/>
-        <updated>2022-05-27T06:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Ropsten TTD Postmortem - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
