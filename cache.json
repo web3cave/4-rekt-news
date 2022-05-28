@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
+          "author": null,
+          "description": "All Access with Emin Gün Sirer - Ep. 22",
+          "link": "https://www.youtube.com/watch?v=cQaOojgiMhs&feature=youtu.be",
+          "publishedOn": "2022-05-28T13:00:05.000Z",
+          "wordCount": null,
+          "title": "All Access with Emin Gün Sirer - Ep. 22",
+          "imageUrl": null
+        },
+        {
           "id": "https://metro.co.uk/2022/05/27/gene-editing-turns-fluffy-hamsters-into-aggressive-rage-monsters-16721041/",
           "author": null,
           "description": "Gene-editing experiment turns fluffy hamsters into 'aggressive' rage monsters",
           "link": "https://metro.co.uk/2022/05/27/gene-editing-turns-fluffy-hamsters-into-aggressive-rage-monsters-16721041/",
           "publishedOn": "2022-05-28T10:00:03.000Z",
-          "wordCount": 776,
+          "wordCount": 780,
           "title": "Gene-editing experiment turns fluffy hamsters into 'aggressive' rage monsters",
           "imageUrl": "https://metro.co.uk/wp-content/uploads/2022/05/SEI_106592506_1653642740.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
         },
@@ -106,6 +116,16 @@
           "imageUrl": "https://opengraph.githubassets.com/47ee0f694299637eaf77742b3ffb5758cda49da16b4da50938b04d1b698c5235/ethereum/EIPs/pull/5088"
         },
         {
+          "id": "https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0",
+          "author": null,
+          "description": "Electric Capital joins the Crypto Council for Innovation (CCI) t…",
+          "link": "https://mirror.xyz/electriccap.eth/ooi47ULSaRBFdGUr2zIl1OEtSYLO1rEHw-yDm_03Hu0",
+          "publishedOn": "2022-05-27T21:00:03.000Z",
+          "wordCount": 485,
+          "title": "Electric Capital joins the Crypto Council for Innovation (CCI) t…",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/y32T38eqEq2sSKVD9_vkB.png?h=155&w=173"
+        },
+        {
           "id": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225",
           "author": null,
           "description": "Should Lido on Ethereum be limited to some fixed % of stake?",
@@ -136,16 +156,6 @@
           "imageUrl": "assets/images/facebook.png?v=10"
         },
         {
-          "id": "https://www.theblockcrypto.com/post/148567/starkware-founders-talk-through-100-million-series-d-fundraise-mass-adoption",
-          "author": null,
-          "description": "StarkWare founders talk through $100 million Series D fundraise, mass adoption",
-          "link": "https://www.theblockcrypto.com/post/148567/starkware-founders-talk-through-100-million-series-d-fundraise-mass-adoption",
-          "publishedOn": "2022-05-27T19:00:03.000Z",
-          "wordCount": 1356,
-          "title": "StarkWare founders talk through $100 million Series D fundraise, mass adoption",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_TheScoop_StarkWare-Uri-Eli-16x9-1.jpg"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/149112/solanas-blockchain-clock-loses-track-of-time-now-running-30-minutes-behind",
           "author": null,
           "description": "Solana's blockchain clock loses track of time, now running 30 minutes behind",
@@ -166,22 +176,12 @@
           "imageUrl": "https://assets-global.website-files.com/60118ca1c2eab61d24bcf151/628fecebf591cd843fc2bebf_RA%20-%20SM%20-%20R3%20-%20Open%20Graph%20(2).png"
         },
         {
-          "id": "https://www.theblockcrypto.com/linked/149111/su-zhu-says-his-supercycle-price-thesis-was-regrettably-wrong?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
-          "link": "https://www.theblockcrypto.com/linked/149111/su-zhu-says-his-supercycle-price-thesis-was-regrettably-wrong?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-05-27T15:00:03.000Z",
-          "wordCount": 843,
-          "title": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220516-News-Market-Decline-2.png"
-        },
-        {
           "id": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "author": null,
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2167,
+          "wordCount": 2186,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
