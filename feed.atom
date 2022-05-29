@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-29T10:24:20.867Z</id>
+    <id>urn:2022-05-29T11:18:22.377Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-29T10:24:20.867Z</updated>
+    <updated>2022-05-29T11:18:22.377Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Denis Nazarov]]></title>
-        <id>https://d.mirror.xyz/collection</id>
-        <link href="https://d.mirror.xyz/collection"/>
-        <updated>2022-05-29T10:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Denis Nazarov]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[pos-portal/NativeMetaTransaction.sol at d061ec4f672115bc9be1f5d51e7e508250f55207 · maticnetwork/pos-portal]]></title>
         <id>https://github.com/maticnetwork/pos-portal/blob/d061ec4f672115bc9be1f5d51e7e508250f55207/contracts/common/NativeMetaTransaction.sol#L31</id>
@@ -131,6 +121,16 @@
         <link href="https://a16z.com/wp-content/uploads/2022/05/a16z-Comment-Letter-on-File-Number-S7-12-22.pdf"/>
         <updated>2022-05-28T21:00:06.000Z</updated>
         <summary type="html"><![CDATA[[PDF] a16z-Comment-Letter-on-File-Number-S7-12-22.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRO Strategies: Intern Halko's Curve x IRO Strategy]]></title>
+        <id>https://blog.dopex.io/articles/dopex-papers/iro-strategies-intern-halko-s-curve-x-iro-strategy</id>
+        <link href="https://blog.dopex.io/articles/dopex-papers/iro-strategies-intern-halko-s-curve-x-iro-strategy"/>
+        <updated>2022-05-28T21:00:06.000Z</updated>
+        <summary type="html"><![CDATA[IRO Strategies: Intern Halko's Curve x IRO Strategy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

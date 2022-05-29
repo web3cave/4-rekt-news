@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://d.mirror.xyz/collection",
-          "author": null,
-          "description": "Denis Nazarov",
-          "link": "https://d.mirror.xyz/collection",
-          "publishedOn": "2022-05-29T10:15:05.000Z",
-          "wordCount": 796,
-          "title": "Denis Nazarov",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/ebpQtnoqBW7Iofx8UDc03.png?h=2148&w=2116"
-        },
-        {
           "id": "https://github.com/maticnetwork/pos-portal/blob/d061ec4f672115bc9be1f5d51e7e508250f55207/contracts/common/NativeMetaTransaction.sol#L31",
           "author": null,
           "description": "pos-portal/NativeMetaTransaction.sol at d061ec4f672115bc9be1f5d51e7e508250f55207 · maticnetwork/pos-portal",
           "link": "https://github.com/maticnetwork/pos-portal/blob/d061ec4f672115bc9be1f5d51e7e508250f55207/contracts/common/NativeMetaTransaction.sol#L31",
           "publishedOn": "2022-05-29T08:00:02.000Z",
-          "wordCount": 615,
+          "wordCount": 596,
           "title": "pos-portal/NativeMetaTransaction.sol at d061ec4f672115bc9be1f5d51e7e508250f55207 · maticnetwork/pos-portal",
           "imageUrl": "https://opengraph.githubassets.com/6baa1f2032a71b078f6bdf2ab976ff83c599d55d618ac4d7ca3597a5a7ec77de/maticnetwork/pos-portal"
         },
@@ -136,6 +126,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.dopex.io/articles/dopex-papers/iro-strategies-intern-halko-s-curve-x-iro-strategy",
+          "author": null,
+          "description": "IRO Strategies: Intern Halko's Curve x IRO Strategy",
+          "link": "https://blog.dopex.io/articles/dopex-papers/iro-strategies-intern-halko-s-curve-x-iro-strategy",
+          "publishedOn": "2022-05-28T21:00:06.000Z",
+          "wordCount": 1074,
+          "title": "IRO Strategies: Intern Halko's Curve x IRO Strategy",
+          "imageUrl": "//a.storyblok.com/f/125531/768x432/afb5039adc/dopex-essentials-curve-iro-strategy-01.png"
+        },
+        {
           "id": "https://jobs.lever.co/Polygon/e2a0c9a8-0d08-4238-9428-559525e6e80d",
           "author": null,
           "description": "Polygon - Blockchain Security Engineer",
@@ -161,7 +161,7 @@
           "description": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
           "link": "https://www.theblockcrypto.com/linked/149111/su-zhu-says-his-supercycle-price-thesis-was-regrettably-wrong?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-05-28T19:00:04.000Z",
-          "wordCount": 859,
+          "wordCount": 865,
           "title": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220516-News-Market-Decline-2.png"
         },
