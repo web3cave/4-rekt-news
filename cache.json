@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://d.mirror.xyz/collection",
+          "author": null,
+          "description": "Denis Nazarov",
+          "link": "https://d.mirror.xyz/collection",
+          "publishedOn": "2022-05-29T04:30:02.000Z",
+          "wordCount": 796,
+          "title": "Denis Nazarov",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/ebpQtnoqBW7Iofx8UDc03.png?h=2148&w=2116"
+        },
+        {
           "id": "https://book.getfoundry.sh/tutorials/testing-eip712.html",
           "author": null,
           "description": "Foundry Book",
@@ -43,16 +53,6 @@
           "publishedOn": "2022-05-29T03:00:03.000Z",
           "wordCount": 694,
           "title": "America's Other Shortage Crisis - Human Organs | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/california-poised-adopt-medical-misinformation-bill-targeting-alternative-covid-19",
-          "author": null,
-          "description": "California Poised To Adopt 'Medical Misinformation Bill' Targeting Alternative COVID-19 Protocols | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/california-poised-adopt-medical-misinformation-bill-targeting-alternative-covid-19",
-          "publishedOn": "2022-05-29T03:00:03.000Z",
-          "wordCount": 2387,
-          "title": "California Poised To Adopt 'Medical Misinformation Bill' Targeting Alternative COVID-19 Protocols | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -181,7 +181,7 @@
           "description": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "link": "https://www.marketwatch.com/story/ethereum-could-take-over-everything-and-there-wont-be-a-multi-chain-future-says-eys-blockchain-leader-11653589743?mod=home-page",
           "publishedOn": "2022-05-27T15:00:02.000Z",
-          "wordCount": 2216,
+          "wordCount": 2220,
           "title": "Ethereum could ‘take over everything’, and there won't be a multi-chain future, says EY's blockchain leader",
           "imageUrl": "https://images.mktw.net/im-429485/social"
         },
