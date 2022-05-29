@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.classaction.org/media/sarcuni-et-al-v-bzx-dao-et-al.pdf",
+          "author": null,
+          "description": "[PDF] Sarcuni et al. v. bZx DAO et al. - 3:22-cv-00618",
+          "link": "https://www.classaction.org/media/sarcuni-et-al-v-bzx-dao-et-al.pdf",
+          "publishedOn": "2022-05-29T13:30:02.000Z",
+          "wordCount": 19508,
+          "title": "[PDF] Sarcuni et al. v. bZx DAO et al. - 3:22-cv-00618",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/economics/russia-sends-record-volumes-oil-india-china",
+          "author": null,
+          "description": "Russia Sends Record Volumes Of Oil To India, China | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/russia-sends-record-volumes-oil-india-china",
+          "publishedOn": "2022-05-29T13:30:02.000Z",
+          "wordCount": 489,
+          "title": "Russia Sends Record Volumes Of Oil To India, China | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/eth-brownie/brownie/pull/1541/files",
+          "author": null,
+          "description": "initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie",
+          "link": "https://github.com/eth-brownie/brownie/pull/1541/files",
+          "publishedOn": "2022-05-29T13:00:05.000Z",
+          "wordCount": 1405,
+          "title": "initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie",
+          "imageUrl": "https://avatars.githubusercontent.com/u/624221?s=400&v=4"
+        },
+        {
+          "id": "https://embed.withlens.app/",
+          "author": null,
+          "description": "Easily embed Lens posts anywhere",
+          "link": "https://embed.withlens.app/",
+          "publishedOn": "2022-05-29T13:00:04.000Z",
+          "wordCount": 39,
+          "title": "Easily embed Lens posts anywhere",
+          "imageUrl": "https://embed.withlens.app/_next/static/media/card.1959ab80.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J3tdEEwo_uc",
+          "author": null,
+          "description": "TVアニメ『イングレス』抵抗PV",
+          "link": "https://www.youtube.com/watch?v=J3tdEEwo_uc",
+          "publishedOn": "2022-05-29T13:00:04.000Z",
+          "wordCount": null,
+          "title": "TVアニメ『イングレス』抵抗PV",
+          "imageUrl": null
+        },
+        {
           "id": "https://hackmd.io/ngKLqVvvTTGZLj1bGPuCoA",
           "author": null,
           "description": "Ropsten TTD override - HackMD",
@@ -31,19 +81,9 @@
           "description": "pos-portal/NativeMetaTransaction.sol at d061ec4f672115bc9be1f5d51e7e508250f55207 · maticnetwork/pos-portal",
           "link": "https://github.com/maticnetwork/pos-portal/blob/d061ec4f672115bc9be1f5d51e7e508250f55207/contracts/common/NativeMetaTransaction.sol#L31",
           "publishedOn": "2022-05-29T08:00:02.000Z",
-          "wordCount": 596,
+          "wordCount": 615,
           "title": "pos-portal/NativeMetaTransaction.sol at d061ec4f672115bc9be1f5d51e7e508250f55207 · maticnetwork/pos-portal",
           "imageUrl": "https://opengraph.githubassets.com/6baa1f2032a71b078f6bdf2ab976ff83c599d55d618ac4d7ca3597a5a7ec77de/maticnetwork/pos-portal"
-        },
-        {
-          "id": "https://lvcidia.xyz/",
-          "author": null,
-          "description": "LVCIDIA//",
-          "link": "https://lvcidia.xyz/",
-          "publishedOn": "2022-05-29T07:00:04.000Z",
-          "wordCount": 8,
-          "title": "LVCIDIA//",
-          "imageUrl": "https://lvcidia.xyz/assets/images/lvcidia-meta-og.png"
         },
         {
           "id": "https://vitalik.ca/general/2020/11/08/concave.html",
@@ -76,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/red-flag-laws-and-unintended-consequences",
-          "author": null,
-          "description": "Red Flag Laws And Unintended Consequences | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/red-flag-laws-and-unintended-consequences",
-          "publishedOn": "2022-05-29T05:00:03.000Z",
-          "wordCount": 1008,
-          "title": "Red Flag Laws And Unintended Consequences | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://docs.rs/ruint/latest/ruint/",
           "author": null,
           "description": "ruint - Rust",
@@ -104,16 +134,6 @@
           "wordCount": 8928,
           "title": "Releases · rotki/rotki",
           "imageUrl": "https://opengraph.githubassets.com/9103e2601c862a96945407cf7c276e862f130ab4d56a7e7cacaccbb00909e771/rotki/rotki"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1ZewX5xCVMs&feature=youtu.be",
-          "author": null,
-          "description": "Richard Heart vs Eric Wall Debate audio fixed",
-          "link": "https://www.youtube.com/watch?v=1ZewX5xCVMs&feature=youtu.be",
-          "publishedOn": "2022-05-28T22:00:03.000Z",
-          "wordCount": null,
-          "title": "Richard Heart vs Eric Wall Debate audio fixed",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=r6C2c6JEzn4&feature=youtu.be",
@@ -146,16 +166,6 @@
           "imageUrl": "//a.storyblok.com/f/125531/768x432/afb5039adc/dopex-essentials-curve-iro-strategy-01.png"
         },
         {
-          "id": "https://jobs.lever.co/Polygon/e2a0c9a8-0d08-4238-9428-559525e6e80d",
-          "author": null,
-          "description": "Polygon - Blockchain Security Engineer",
-          "link": "https://jobs.lever.co/Polygon/e2a0c9a8-0d08-4238-9428-559525e6e80d",
-          "publishedOn": "2022-05-28T20:00:13.000Z",
-          "wordCount": 195,
-          "title": "Polygon - Blockchain Security Engineer",
-          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/7fb55e63-b76e-4d3c-b15c-ecb8fa5399db-1633069797933.png"
-        },
-        {
           "id": "https://decrypt.co/101293/nfl-mythical-games-play-and-own-nft-game-nfl-rivals",
           "author": null,
           "description": "NFL and Mythical Games to Launch 'Play-and-Own' NFT Game 'NFL Rivals' - Decrypt",
@@ -174,16 +184,6 @@
           "wordCount": 850,
           "title": "Su Zhu says his 'supercycle' price thesis was 'regrettably wrong'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220516-News-Market-Decline-2.png"
-        },
-        {
-          "id": "https://github.com/aave/aave-ui",
-          "author": null,
-          "description": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
-          "link": "https://github.com/aave/aave-ui",
-          "publishedOn": "2022-05-28T17:00:02.000Z",
-          "wordCount": 771,
-          "title": "GitHub - aave/aave-ui: [DEPRECATED] An open source interface for the decentralized liquidity protocol Aave",
-          "imageUrl": "https://opengraph.githubassets.com/e2fe23f867f0f67b148b52c27ff23ab26532f3e3051b71c4233909cbf7ced87e/aave/aave-ui"
         },
         {
           "id": "https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum",
