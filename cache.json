@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=N-Pf9lCFi4E",
+          "author": null,
+          "description": "Google’s New AI: Flying Through Virtual Worlds! 🕊️",
+          "link": "https://www.youtube.com/watch?v=N-Pf9lCFi4E",
+          "publishedOn": "2022-05-30T22:00:03.000Z",
+          "wordCount": null,
+          "title": "Google’s New AI: Flying Through Virtual Worlds! 🕊️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ethereum.org/2022/05/30/ropsten-merge-announcement/",
+          "author": null,
+          "description": "Ropsten Merge Announcement",
+          "link": "https://blog.ethereum.org/2022/05/30/ropsten-merge-announcement/",
+          "publishedOn": "2022-05-30T22:00:02.000Z",
+          "wordCount": 2429,
+          "title": "Ropsten Merge Announcement",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
+        },
+        {
           "id": "https://screamsh.medium.com/scream-may-2022-post-mortem-38ae8196089a?source=social.tw",
           "author": null,
           "description": "Scream May 2022 Post-Mortem",
@@ -51,19 +71,9 @@
           "description": "A $90 million DeFi exploit on Terra went unnoticed for seven months",
           "link": "https://www.theblockcrypto.com/post/149342/a-90-million-defi-exploit-on-terra-went-unnoticed-for-seven-months?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-05-30T19:00:05.000Z",
-          "wordCount": 1325,
+          "wordCount": 1317,
           "title": "A $90 million DeFi exploit on Terra went unnoticed for seven months",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3.png"
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/120-reinventing-the-internet-marc?s=w#details",
-          "author": null,
-          "description": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
-          "link": "https://shows.banklesshq.com/p/120-reinventing-the-internet-marc?s=w#details",
-          "publishedOn": "2022-05-30T19:00:04.000Z",
-          "wordCount": 620,
-          "title": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07471a04-dc9c-4f6f-b98d-4497f812a599_2668x1501.jpeg"
         },
         {
           "id": "https://blog.kaiko.com/ftx-surpasses-coinbase-in-btc-trade-volume-cfd217ce1fd?gi=b06af4d3348",
@@ -91,7 +101,7 @@
           "description": "Optimism Collective",
           "link": "https://gov.optimism.io/",
           "publishedOn": "2022-05-30T15:00:03.000Z",
-          "wordCount": 82,
+          "wordCount": 74,
           "title": "Optimism Collective",
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
         },
@@ -111,7 +121,7 @@
           "description": "Korean prosecutors summon all Terraform Labs employees: JTBC",
           "link": "https://www.theblockcrypto.com/post/149309/terraform-labs-employees-summoned-korea-prosecutors-ust-luna",
           "publishedOn": "2022-05-30T15:00:03.000Z",
-          "wordCount": 1084,
+          "wordCount": 1076,
           "title": "Korean prosecutors summon all Terraform Labs employees: JTBC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220510_Terra-2.jpg"
         },
@@ -124,16 +134,6 @@
           "wordCount": null,
           "title": "Defi Top 20 with Arthur0x, Su Zhu and Hasu - Part 1",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptocurrencyworkshop.github.io/",
-          "author": null,
-          "description": "Solidity: 0 to 1 for Developers",
-          "link": "https://cryptocurrencyworkshop.github.io/",
-          "publishedOn": "2022-05-30T13:00:03.000Z",
-          "wordCount": 368,
-          "title": "Solidity: 0 to 1 for Developers",
-          "imageUrl": "https://cryptocurrencyworkshop.github.io/card.png"
         },
         {
           "id": "https://immutablex.medium.com/fees-on-immutable-x-79d3e7207b12",
