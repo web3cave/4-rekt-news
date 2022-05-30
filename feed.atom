@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T07:23:34.873Z</id>
+    <id>urn:2022-05-30T08:30:28.786Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-30T07:23:34.873Z</updated>
+    <updated>2022-05-30T08:30:28.787Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[noxx]]></title>
+        <id>https://noxx.substack.com/?utm_medium=web&amp;utm_campaign=pss</id>
+        <link href="https://noxx.substack.com/?utm_medium=web&amp;utm_campaign=pss"/>
+        <updated>2022-05-30T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[noxx]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[requests-for-proposals/das.md at master · ethereum/requests-for-proposals]]></title>
         <id>https://github.com/ethereum/requests-for-proposals/blob/master/open-rfps/das.md</id>
@@ -151,16 +161,6 @@
         <link href="https://www.classaction.org/media/sarcuni-et-al-v-bzx-dao-et-al.pdf"/>
         <updated>2022-05-29T13:30:02.000Z</updated>
         <summary type="html"><![CDATA[[PDF] Sarcuni et al. v. bZx DAO et al. - 3:22-cv-00618]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie]]></title>
-        <id>https://github.com/eth-brownie/brownie/pull/1541/files</id>
-        <link href="https://github.com/eth-brownie/brownie/pull/1541/files"/>
-        <updated>2022-05-29T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

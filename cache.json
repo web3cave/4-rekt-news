@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://noxx.substack.com/?utm_medium=web&utm_campaign=pss",
+          "author": null,
+          "description": "noxx",
+          "link": "https://noxx.substack.com/?utm_medium=web&utm_campaign=pss",
+          "publishedOn": "2022-05-30T07:30:03.000Z",
+          "wordCount": 345,
+          "title": "noxx",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnoxx.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D8295ca047cddcba5aefca39765ac8235%3Fversion%3D3"
+        },
+        {
           "id": "https://github.com/ethereum/requests-for-proposals/blob/master/open-rfps/das.md",
           "author": null,
           "description": "requests-for-proposals/das.md at master · ethereum/requests-for-proposals",
@@ -53,7 +63,7 @@
           "publishedOn": "2022-05-30T01:00:03.000Z",
           "wordCount": 619,
           "title": "v3-core/deploy.sol at main · joshieDo/v3-core",
-          "imageUrl": "https://opengraph.githubassets.com/cbd625c3b4204306a209b2b2b36acb20af5d0a6b789cd59c4e2ffe023bdb8c78/joshieDo/v3-core"
+          "imageUrl": "https://opengraph.githubassets.com/cd0b0571cb54f0d8c86f51e47b04b531a164c8a5023debfee13a5b55c05789f5/joshieDo/v3-core"
         },
         {
           "id": "https://github.com/foundry-rs/foundry/pull/1208",
@@ -154,16 +164,6 @@
           "wordCount": 19508,
           "title": "[PDF] Sarcuni et al. v. bZx DAO et al. - 3:22-cv-00618",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/eth-brownie/brownie/pull/1541/files",
-          "author": null,
-          "description": "initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie",
-          "link": "https://github.com/eth-brownie/brownie/pull/1541/files",
-          "publishedOn": "2022-05-29T13:00:05.000Z",
-          "wordCount": 1405,
-          "title": "initial anvil support by WyseNynja · Pull Request #1541 · eth-brownie/brownie",
-          "imageUrl": "https://avatars.githubusercontent.com/u/624221?s=400&v=4"
         },
         {
           "id": "https://embed.withlens.app/",
