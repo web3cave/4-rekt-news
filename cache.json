@@ -6,73 +6,63 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=5Ep7nnFtTjg&feature=youtu.be",
+          "id": "https://github.com/ApeWorX/ape/pull/750",
           "author": null,
-          "description": "There Is Potential Sovereign Crisis Ahead: Brent Johnson",
-          "link": "https://www.youtube.com/watch?v=5Ep7nnFtTjg&feature=youtu.be",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": null,
-          "title": "There Is Potential Sovereign Crisis Ahead: Brent Johnson",
+          "description": "feat: detect minimal proxies by banteg · Pull Request #750 · ApeWorX/ape",
+          "link": "https://github.com/ApeWorX/ape/pull/750",
+          "publishedOn": "2022-05-30T01:30:04.000Z",
+          "wordCount": 2277,
+          "title": "feat: detect minimal proxies by banteg · Pull Request #750 · ApeWorX/ape",
+          "imageUrl": "https://opengraph.githubassets.com/cc5e56811815fa71c6c091460e2a2ccd79f49428ab7c4a8b6a1eae73978f6e57/ApeWorX/ape/pull/750"
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry/issues/402",
+          "author": null,
+          "description": "feat(forge): Better deployment · Issue #402 · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/issues/402",
+          "publishedOn": "2022-05-30T01:00:03.000Z",
+          "wordCount": 4608,
+          "title": "feat(forge): Better deployment · Issue #402 · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/fa30b20def8133149cb560d91e479e3d36734215c3d91d0fc04c0d1df7b9bbd1/foundry-rs/foundry/issues/402"
+        },
+        {
+          "id": "https://github.com/joshieDo/v3-core/blob/main/deploy/deploy.sol",
+          "author": null,
+          "description": "v3-core/deploy.sol at main · joshieDo/v3-core",
+          "link": "https://github.com/joshieDo/v3-core/blob/main/deploy/deploy.sol",
+          "publishedOn": "2022-05-30T01:00:03.000Z",
+          "wordCount": 619,
+          "title": "v3-core/deploy.sol at main · joshieDo/v3-core",
+          "imageUrl": "https://opengraph.githubassets.com/3170e7a7f5eefb222adba355a72f510ac7f8f7bbf669b5b59a2689b9aed12b78/joshieDo/v3-core"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/san-francisco-school-district-drops-chief-job-titles-cites-native-american-concerns",
+          "author": null,
+          "description": "San Francisco School District Drops 'Chief' From Job-Titles, Cites Native-American Concerns | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/san-francisco-school-district-drops-chief-job-titles-cites-native-american-concerns",
+          "publishedOn": "2022-05-30T01:00:03.000Z",
+          "wordCount": 668,
+          "title": "San Francisco School District Drops 'Chief' From Job-Titles, Cites Native-American Concerns | ZeroHedge",
           "imageUrl": null
         },
         {
-          "id": "https://community.optimism.io/docs/governance/gov-fund/",
+          "id": "https://github.com/foundry-rs/foundry/pull/1208",
           "author": null,
-          "description": "Governance Fund Overview",
-          "link": "https://community.optimism.io/docs/governance/gov-fund/",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 1151,
-          "title": "Governance Fund Overview",
-          "imageUrl": null
+          "description": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/pull/1208",
+          "publishedOn": "2022-05-30T01:00:02.000Z",
+          "wordCount": 4357,
+          "title": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/e4af9fbdb6683bc415feb9b1635a032b25ea0c8c9c9b00e6b65302862a703151/foundry-rs/foundry/pull/1208"
         },
         {
-          "id": "https://github.com/ethereum/requests-for-proposals/blob/master/open-rfps/das.md",
+          "id": "https://www.zerohedge.com/markets/when-will-powell-activate-fed-put-here-are-four-things-watch-well-most-impoirtant-one",
           "author": null,
-          "description": "requests-for-proposals/das.md at master · ethereum/requests-for-proposals",
-          "link": "https://github.com/ethereum/requests-for-proposals/blob/master/open-rfps/das.md",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 1103,
-          "title": "requests-for-proposals/das.md at master · ethereum/requests-for-proposals",
-          "imageUrl": "https://opengraph.githubassets.com/bfc522a09727178527f31f9fdb5d4b8b0182180a0affd384873c3129c912809c/ethereum/requests-for-proposals"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/nancy-pelosis-husband-arrested-misdemeanour-dui",
-          "author": null,
-          "description": "Nancy Pelosi's Husband Arrested For Misdemeanour DUI | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/nancy-pelosis-husband-arrested-misdemeanour-dui",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 913,
-          "title": "Nancy Pelosi's Husband Arrested For Misdemeanour DUI | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/morgan-stanley-were-through-worst-markets-being-surprised-inflation-and-policy",
-          "author": null,
-          "description": "Morgan Stanley: We're Through The Worst Of Markets Being Surprised By Inflation And Policy | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/morgan-stanley-were-through-worst-markets-being-surprised-inflation-and-policy",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 993,
-          "title": "Morgan Stanley: We're Through The Worst Of Markets Being Surprised By Inflation And Policy | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/only-criminals-are-gonna-have-guns-joe-rogan-warns-against-gun-confiscation",
-          "author": null,
-          "description": "\"Only Criminals Are Gonna Have Guns\": Joe Rogan Warns Against Confiscation | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/only-criminals-are-gonna-have-guns-joe-rogan-warns-against-gun-confiscation",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 364,
-          "title": "\"Only Criminals Are Gonna Have Guns\": Joe Rogan Warns Against Confiscation | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/roman-lesson-inflation",
-          "author": null,
-          "description": "A Roman Lesson On Inflation | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/roman-lesson-inflation",
-          "publishedOn": "2022-05-29T23:00:03.000Z",
-          "wordCount": 2777,
-          "title": "A Roman Lesson On Inflation | ZeroHedge",
+          "description": "When Will Powell Trigger The \"Fed Put\": Here Are The Four Things To Watch, As Well As The Most Important One | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/when-will-powell-activate-fed-put-here-are-four-things-watch-well-most-impoirtant-one",
+          "publishedOn": "2022-05-30T00:00:05.000Z",
+          "wordCount": 1143,
+          "title": "When Will Powell Trigger The \"Fed Put\": Here Are The Four Things To Watch, As Well As The Most Important One | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -116,14 +106,14 @@
           "imageUrl": "https://video-images.vice.com/articles/628d1e857cf03e009d4c5cb7/lede/1653417166278-gettyimages-869082878.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44OTQ0MjAzNzY0NTY1MjgzeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
         },
         {
-          "id": "https://github.com/rotki/rotki/releases",
+          "id": "https://www.coindesk.com/video/recent-videos/beyond-the-metaverse-nft-art-is-physically-coming-to-life-in-the-real-world/",
           "author": null,
-          "description": "Releases · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/releases",
-          "publishedOn": "2022-05-29T17:00:14.000Z",
-          "wordCount": 8928,
-          "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/9103e2601c862a96945407cf7c276e862f130ab4d56a7e7cacaccbb00909e771/rotki/rotki"
+          "description": "Beyond the Metaverse, NFT Art is Physically Coming to Life in the Real World",
+          "link": "https://www.coindesk.com/video/recent-videos/beyond-the-metaverse-nft-art-is-physically-coming-to-life-in-the-real-world/",
+          "publishedOn": "2022-05-29T19:00:03.000Z",
+          "wordCount": 306,
+          "title": "Beyond the Metaverse, NFT Art is Physically Coming to Life in the Real World",
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/gMDr50Ok/poster.jpg?width=720"
         },
         {
           "id": "https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c",
@@ -144,6 +134,16 @@
           "wordCount": 766,
           "title": "Decentralized Society: Finding Web3's Soul",
           "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/these-are-most-googled-countries-worldwide",
+          "author": null,
+          "description": "These Are The Most-Googled Countries Worldwide | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/these-are-most-googled-countries-worldwide",
+          "publishedOn": "2022-05-29T15:00:03.000Z",
+          "wordCount": 649,
+          "title": "These Are The Most-Googled Countries Worldwide | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://www.classaction.org/media/sarcuni-et-al-v-bzx-dao-et-al.pdf",
