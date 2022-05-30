@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf",
+          "author": null,
+          "description": "[PDF] CDE 16.pdf",
+          "link": "https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf",
+          "publishedOn": "2022-05-30T04:00:07.000Z",
+          "wordCount": 8039,
+          "title": "[PDF] CDE 16.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://warhammer40k.fandom.com/wiki/Tzeentch",
+          "author": null,
+          "description": "Tzeentch",
+          "link": "https://warhammer40k.fandom.com/wiki/Tzeentch",
+          "publishedOn": "2022-05-30T04:00:07.000Z",
+          "wordCount": 11519,
+          "title": "Tzeentch",
+          "imageUrl": "https://static.wikia.nocookie.net/warhammer40k/images/f/f7/MarkofTzeentch2.png/revision/latest?cb=20220227211646"
+        },
+        {
+          "id": "https://noxx.substack.com/?utm_medium=web&utm_campaign=pss",
+          "author": null,
+          "description": "noxx",
+          "link": "https://noxx.substack.com/?utm_medium=web&utm_campaign=pss",
+          "publishedOn": "2022-05-30T04:00:07.000Z",
+          "wordCount": 345,
+          "title": "noxx",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnoxx.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D8295ca047cddcba5aefca39765ac8235%3Fversion%3D3"
+        },
+        {
+          "id": "https://chrome.google.com/webstore/detail/leap-wallet/aijcbedoijmgnlmjeegjaglmepbmpkpi?utm_source=Twitter&utm_id=adgroup5&utm_campaign=Experiment",
+          "author": null,
+          "description": "Leap Wallet",
+          "link": "https://chrome.google.com/webstore/detail/leap-wallet/aijcbedoijmgnlmjeegjaglmepbmpkpi?utm_source=Twitter&utm_id=adgroup5&utm_campaign=Experiment",
+          "publishedOn": "2022-05-30T04:00:07.000Z",
+          "wordCount": 498,
+          "title": "Leap Wallet",
+          "imageUrl": "https://lh3.googleusercontent.com/BhQoCjw1v4CuD8e-nfC83cfFOwu4z8qsJdvX_BkCTjyiDyseZ5EZ0gXWy4_-6ZGMw7XXlcKpZMVjuyXu8yAPsoBAwg=w128-h128-e365-rj-sc0x00ffffff"
+        },
+        {
           "id": "https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol",
           "author": null,
           "description": "GitHub - LeXpunK-Army/LeXpunK_DAO_Defense_Protocol: LeXpunK Legal Defense Protocol for DAOs/Multisigs",
@@ -24,36 +64,6 @@
           "wordCount": 3265,
           "title": "Fees on Immutable X",
           "imageUrl": "https://miro.medium.com/max/1200/0*5Z46SLSfcTsSClNf"
-        },
-        {
-          "id": "https://podcasts.apple.com/us/podcast/how-to-land-a-high-paying-job-in-crypto-w-rob-paone/id1350247761?i=1000564251002",
-          "author": null,
-          "description": "‎Stacks: How to Land a High Paying Job in Crypto w/ Rob Paone on Apple Podcasts",
-          "link": "https://podcasts.apple.com/us/podcast/how-to-land-a-high-paying-job-in-crypto-w-rob-paone/id1350247761?i=1000564251002",
-          "publishedOn": "2022-05-30T02:30:03.000Z",
-          "wordCount": 478,
-          "title": "‎Stacks: How to Land a High Paying Job in Crypto w/ Rob Paone on Apple Podcasts",
-          "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts112/v4/3c/f5/24/3cf5248d-d810-119a-3beb-936ea68afe8f/mza_16729452984061272929.jpg/1200x630wp.png"
-        },
-        {
-          "id": "https://github.com/ApeWorX/ape/pull/750",
-          "author": null,
-          "description": "feat: detect minimal proxies by banteg · Pull Request #750 · ApeWorX/ape",
-          "link": "https://github.com/ApeWorX/ape/pull/750",
-          "publishedOn": "2022-05-30T01:30:04.000Z",
-          "wordCount": 2277,
-          "title": "feat: detect minimal proxies by banteg · Pull Request #750 · ApeWorX/ape",
-          "imageUrl": "https://opengraph.githubassets.com/cc5e56811815fa71c6c091460e2a2ccd79f49428ab7c4a8b6a1eae73978f6e57/ApeWorX/ape/pull/750"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry/issues/402",
-          "author": null,
-          "description": "feat(forge): Better deployment · Issue #402 · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/issues/402",
-          "publishedOn": "2022-05-30T01:00:03.000Z",
-          "wordCount": 4608,
-          "title": "feat(forge): Better deployment · Issue #402 · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/fa30b20def8133149cb560d91e479e3d36734215c3d91d0fc04c0d1df7b9bbd1/foundry-rs/foundry/issues/402"
         },
         {
           "id": "https://github.com/joshieDo/v3-core/blob/main/deploy/deploy.sol",
@@ -131,7 +141,7 @@
           "description": "Retroactive Public Goods Funding",
           "link": "https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c",
           "publishedOn": "2022-05-29T16:00:02.000Z",
-          "wordCount": 1318,
+          "wordCount": 1317,
           "title": "Retroactive Public Goods Funding",
           "imageUrl": "https://miro.medium.com/max/700/0*eJqfXcpZpo_WsDUN.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 39,
           "title": "Easily embed Lens posts anywhere",
           "imageUrl": "https://embed.withlens.app/_next/static/media/card.1959ab80.jpg"
-        },
-        {
-          "id": "https://www.fomamag.com/",
-          "author": null,
-          "description": "FOMA – Immutable Culture",
-          "link": "https://www.fomamag.com/",
-          "publishedOn": "2022-05-29T05:30:02.000Z",
-          "wordCount": 56,
-          "title": "FOMA – Immutable Culture",
-          "imageUrl": null
         },
         {
           "id": "https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum",
