@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=N-Pf9lCFi4E",
+          "id": "https://luke.cat/",
           "author": null,
-          "description": "Google’s New AI: Flying Through Virtual Worlds! 🕊️",
-          "link": "https://www.youtube.com/watch?v=N-Pf9lCFi4E",
-          "publishedOn": "2022-05-31T03:30:03.000Z",
-          "wordCount": null,
-          "title": "Google’s New AI: Flying Through Virtual Worlds! 🕊️",
+          "description": "catalog",
+          "link": "https://luke.cat/",
+          "publishedOn": "2022-05-31T04:00:05.000Z",
+          "wordCount": 75,
+          "title": "catalog",
           "imageUrl": null
+        },
+        {
+          "id": "https://mint.luke.cat/?1",
+          "author": null,
+          "description": "mint from the screenshot catalog",
+          "link": "https://mint.luke.cat/?1",
+          "publishedOn": "2022-05-31T04:00:05.000Z",
+          "wordCount": 7885,
+          "title": "mint from the screenshot catalog",
+          "imageUrl": "https://mint.luke.cat/og.png"
         },
         {
           "id": "https://www.theblockcrypto.com/post/149361/mirror-protocol-suffers-new-exploit-and-could-be-drained-in-hours",
@@ -31,7 +41,7 @@
           "description": "America's Quiet Default",
           "link": "https://www.coindesk.com/layer2/2022/03/09/americas-quiet-default/",
           "publishedOn": "2022-05-30T23:30:02.000Z",
-          "wordCount": 2480,
+          "wordCount": 2490,
           "title": "America's Quiet Default",
           "imageUrl": "https://www.coindesk.com/resizer/62zt1YaEfg_LcG6DM159LPSAa_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DUGLO2I72ZE4LDVVS7YG25FBWY.jpg"
         },
@@ -64,16 +74,6 @@
           "wordCount": 1666,
           "title": "Scream May 2022 Post-Mortem",
           "imageUrl": "https://miro.medium.com/max/1200/1*Yd_es0d0xyKFBtdUZsz18g.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FbxycFX3idc",
-          "author": null,
-          "description": "Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause",
-          "link": "https://www.youtube.com/watch?v=FbxycFX3idc",
-          "publishedOn": "2022-05-30T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause",
-          "imageUrl": null
         },
         {
           "id": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225/10?u=ryanberckmans",
