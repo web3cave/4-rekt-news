@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-31T08:31:36.210Z</id>
+    <id>urn:2022-05-31T09:22:40.645Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-31T08:31:36.210Z</updated>
+    <updated>2022-05-31T09:22:40.645Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://mint.luke.cat/?1"/>
         <updated>2022-05-31T04:00:05.000Z</updated>
         <summary type="html"><![CDATA[mint from the screenshot catalog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to run a node on Ropsten - HackMD]]></title>
+        <id>https://notes.ethereum.org/@launchpad/ropsten</id>
+        <link href="https://notes.ethereum.org/@launchpad/ropsten"/>
+        <updated>2022-05-31T02:30:02.000Z</updated>
+        <summary type="html"><![CDATA[How to run a node on Ropsten - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -81,16 +91,6 @@
         <link href="https://screamsh.medium.com/scream-may-2022-post-mortem-38ae8196089a?source=social.tw"/>
         <updated>2022-05-30T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Scream May 2022 Post-Mortem]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause]]></title>
-        <id>https://www.youtube.com/watch?v=FbxycFX3idc</id>
-        <link href="https://www.youtube.com/watch?v=FbxycFX3idc"/>
-        <updated>2022-05-30T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
