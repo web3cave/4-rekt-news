@@ -11,7 +11,7 @@
           "description": "catalog",
           "link": "https://luke.cat/",
           "publishedOn": "2022-05-31T04:00:05.000Z",
-          "wordCount": 100,
+          "wordCount": 75,
           "title": "catalog",
           "imageUrl": null
         },
@@ -116,6 +116,16 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=RXHITeaGB8Q&feature=youtu.be",
+          "author": null,
+          "description": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
+          "link": "https://www.youtube.com/watch?v=RXHITeaGB8Q&feature=youtu.be",
+          "publishedOn": "2022-05-30T19:00:04.000Z",
+          "wordCount": null,
+          "title": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.kaiko.com/ftx-surpasses-coinbase-in-btc-trade-volume-cfd217ce1fd?gi=b06af4d3348",
           "author": null,
           "description": "FTX Surpasses Coinbase in BTC Trade Volume",
@@ -164,16 +174,6 @@
           "wordCount": 990,
           "title": "Bitcoin lures inflation-weary Argentines despite crypto crash",
           "imageUrl": "https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z7ydEjK7SaM&feature=youtu.be",
-          "author": null,
-          "description": "Defi Top 20 with Arthur0x, Su Zhu and Hasu - Part 1",
-          "link": "https://www.youtube.com/watch?v=Z7ydEjK7SaM&feature=youtu.be",
-          "publishedOn": "2022-05-30T13:00:03.000Z",
-          "wordCount": null,
-          "title": "Defi Top 20 with Arthur0x, Su Zhu and Hasu - Part 1",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/foundry-rs/foundry/pull/1208",
