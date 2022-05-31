@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oXZqTbX6bvw&feature=youtu.be",
+          "author": null,
+          "description": "Privacy in Cosmos Live: Zaki Manian (Sommelier) - Navigating Cosmos",
+          "link": "https://www.youtube.com/watch?v=oXZqTbX6bvw&feature=youtu.be",
+          "publishedOn": "2022-05-31T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Privacy in Cosmos Live: Zaki Manian (Sommelier) - Navigating Cosmos",
+          "imageUrl": null
+        },
+        {
           "id": "https://nftnow.com/nft100-nominations/",
           "author": null,
           "description": "NFT100 Nominations",
@@ -156,16 +166,6 @@
           "imageUrl": "https://mint.luke.cat/og.png"
         },
         {
-          "id": "https://www.coindesk.com/layer2/2022/03/09/americas-quiet-default/",
-          "author": null,
-          "description": "America's Quiet Default",
-          "link": "https://www.coindesk.com/layer2/2022/03/09/americas-quiet-default/",
-          "publishedOn": "2022-05-30T23:30:02.000Z",
-          "wordCount": 2398,
-          "title": "America's Quiet Default",
-          "imageUrl": "https://www.coindesk.com/resizer/62zt1YaEfg_LcG6DM159LPSAa_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DUGLO2I72ZE4LDVVS7YG25FBWY.jpg"
-        },
-        {
           "id": "https://notes.ethereum.org/@djrtwo/risks-of-lsd",
           "author": null,
           "description": "The Risks of LSD - HackMD",
@@ -201,7 +201,7 @@
           "description": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/1208",
           "publishedOn": "2022-05-30T01:00:02.000Z",
-          "wordCount": 4357,
+          "wordCount": 4358,
           "title": "feat(forge): Solidity Scripting by brockelmore · Pull Request #1208 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/e4af9fbdb6683bc415feb9b1635a032b25ea0c8c9c9b00e6b65302862a703151/foundry-rs/foundry/pull/1208"
         }
