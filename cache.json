@@ -11,7 +11,7 @@
           "description": "catalog",
           "link": "https://luke.cat/",
           "publishedOn": "2022-05-31T04:00:05.000Z",
-          "wordCount": 75,
+          "wordCount": 100,
           "title": "catalog",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "America's Quiet Default",
           "link": "https://www.coindesk.com/layer2/2022/03/09/americas-quiet-default/",
           "publishedOn": "2022-05-30T23:30:02.000Z",
-          "wordCount": 2491,
+          "wordCount": 2487,
           "title": "America's Quiet Default",
           "imageUrl": "https://www.coindesk.com/resizer/62zt1YaEfg_LcG6DM159LPSAa_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DUGLO2I72ZE4LDVVS7YG25FBWY.jpg"
         },
@@ -74,6 +74,16 @@
           "wordCount": 1666,
           "title": "Scream May 2022 Post-Mortem",
           "imageUrl": "https://miro.medium.com/max/1200/1*Yd_es0d0xyKFBtdUZsz18g.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FbxycFX3idc",
+          "author": null,
+          "description": "Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause",
+          "link": "https://www.youtube.com/watch?v=FbxycFX3idc",
+          "publishedOn": "2022-05-30T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Gramatik - Satoshi Nakamoto Feat. Adrian Lau & ProbCause",
+          "imageUrl": null
         },
         {
           "id": "https://research.lido.fi/t/should-lido-on-ethereum-be-limited-to-some-fixed-of-stake/2225/10?u=ryanberckmans",
@@ -151,7 +161,7 @@
           "description": "Bitcoin lures inflation-weary Argentines despite crypto crash",
           "link": "https://www.reuters.com/world/americas/bitcoin-lures-inflation-weary-argentines-despite-crypto-crash-2022-05-30/",
           "publishedOn": "2022-05-30T15:00:03.000Z",
-          "wordCount": 992,
+          "wordCount": 990,
           "title": "Bitcoin lures inflation-weary Argentines despite crypto crash",
           "imageUrl": "https://www.reuters.com/resizer/0_nRtXiqryIxmp8B0CK0du1r16c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2EDXF5CCB5NV7NGTN276CYUPTY.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 766,
           "title": "Decentralized Society: Finding Web3's Soul",
           "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
-        },
-        {
-          "id": "https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum",
-          "author": null,
-          "description": "The Hitchhiker's Guide to Ethereum - Delphi Digital",
-          "link": "https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum",
-          "publishedOn": "2022-05-27T03:00:02.000Z",
-          "wordCount": 884,
-          "title": "The Hitchhiker's Guide to Ethereum - Delphi Digital",
-          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/05/11-Danksharding.png"
         }
       ]
     }
