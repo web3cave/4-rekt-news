@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblockcrypto.com/post/149598/binance-labs-500-million-fund-first-outside-capital",
+          "author": null,
+          "description": "Binance's VC arm raises $500 million fund — its first with outside capital",
+          "link": "https://www.theblockcrypto.com/post/149598/binance-labs-500-million-fund-first-outside-capital",
+          "publishedOn": "2022-06-01T14:00:02.000Z",
+          "wordCount": 1036,
+          "title": "Binance's VC arm raises $500 million fund — its first with outside capital",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220525_Binance-Labs.png"
+        },
+        {
+          "id": "https://lenster.xyz/",
+          "author": null,
+          "description": "Lenster",
+          "link": "https://lenster.xyz/",
+          "publishedOn": "2022-06-01T13:30:03.000Z",
+          "wordCount": 1,
+          "title": "Lenster",
+          "imageUrl": "https://assets.lenster.xyz/images/og/logo.jpeg"
+        },
+        {
           "id": "https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac",
           "author": null,
           "description": "Tech experts urge Washington to resist crypto industry’s influence",
           "link": "https://www.ft.com/content/f4b2fa1a-4057-4b10-9f3b-efa57e6bcbac",
           "publishedOn": "2022-06-01T11:30:03.000Z",
-          "wordCount": 1055,
+          "wordCount": 1053,
           "title": "Tech experts urge Washington to resist crypto industry’s influence",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "link": "https://thehill.com/policy/finance/3507422-%e2%80%8b%e2%80%8byellen-says-she-was-wrong-about-path-that-inflation-would-take/",
           "publishedOn": "2022-06-01T04:30:03.000Z",
-          "wordCount": 1056,
+          "wordCount": 1060,
           "title": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/04/yellenjanet_040622arl3_lead.jpg?w=1280"
         },
@@ -71,9 +91,19 @@
           "description": "51. Land Sale Explained",
           "link": "https://medium.com/illuvium/51-land-sale-explained-8cbadfb6a6b5",
           "publishedOn": "2022-06-01T01:30:03.000Z",
-          "wordCount": 4378,
+          "wordCount": 4385,
           "title": "51. Land Sale Explained",
           "imageUrl": "https://miro.medium.com/max/1200/0*fsloSNG6MuKuGG6K"
+        },
+        {
+          "id": "https://mint.lagoframe.com/",
+          "author": null,
+          "description": "Lago Mint",
+          "link": "https://mint.lagoframe.com/",
+          "publishedOn": "2022-06-01T01:30:03.000Z",
+          "wordCount": 18,
+          "title": "Lago Mint",
+          "imageUrl": "https://images.ctfassets.net/hqafn8e4z2c6/7xOv4SdbeAu3kJoRpCaVU4/d4bd3c753d365ceb0c5ba8a906fde58c/Group_14__1_.svg"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast/featured",
@@ -174,36 +204,6 @@
           "wordCount": 485,
           "title": "Dune Engine V2, a New Era in Crypto Data",
           "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/eed45562e52be1214978e2974e40d156b74a8b0f-1200x675.png?w=1200&fm=jpg"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/532",
-          "author": null,
-          "description": "Merge Community Call #4 · Issue #532 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/532",
-          "publishedOn": "2022-05-31T15:30:07.000Z",
-          "wordCount": 621,
-          "title": "Merge Community Call #4 · Issue #532 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/798523dc46a3af01f2095b9c286a13fd2f0d91529b583750104d1bc2b6eeaede/ethereum/pm/issues/532"
-        },
-        {
-          "id": "https://github.com/metacartel/hydra-DAO/blob/main/Whitepaper.pdf",
-          "author": null,
-          "description": "[PDF] hydra-DAO/Whitepaper.pdf at main · metacartel/hydra-DAO",
-          "link": "https://github.com/metacartel/hydra-DAO/blob/main/Whitepaper.pdf",
-          "publishedOn": "2022-05-31T15:00:03.000Z",
-          "wordCount": 320,
-          "title": "[PDF] hydra-DAO/Whitepaper.pdf at main · metacartel/hydra-DAO",
-          "imageUrl": "https://opengraph.githubassets.com/cb9ba140bf80dbb89715dafe3b74ed5c473e8379306fe7615fda3874eee601b5/metacartel/hydra-DAO"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/05/30/ropsten-merge-announcement/",
-          "author": null,
-          "description": "Ropsten Merge Announcement",
-          "link": "https://blog.ethereum.org/2022/05/30/ropsten-merge-announcement/",
-          "publishedOn": "2022-05-30T22:00:02.000Z",
-          "wordCount": 2429,
-          "title": "Ropsten Merge Announcement",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         }
       ]
     }
