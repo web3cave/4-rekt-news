@@ -36,6 +36,16 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220506_OpenSea-2.jpg"
         },
         {
+          "id": "http://api.zora.co/",
+          "author": null,
+          "description": "Zora API",
+          "link": "http://api.zora.co/",
+          "publishedOn": "2022-06-01T21:00:07.000Z",
+          "wordCount": 375,
+          "title": "Zora API",
+          "imageUrl": "https://api.zora.co/og-image.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RXHITeaGB8Q&feature=youtu.be",
           "author": null,
           "description": "120 - Reinventing the Internet | Marc Andreessen & Chris Dixon of a16z",
@@ -51,7 +61,7 @@
           "description": "feat(forge): verify broadcasted contracts on `forge script` by joshieDo · Pull Request #1778 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/1778",
           "publishedOn": "2022-06-01T18:30:03.000Z",
-          "wordCount": 1138,
+          "wordCount": 1135,
           "title": "feat(forge): verify broadcasted contracts on `forge script` by joshieDo · Pull Request #1778 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/8c4ade82f603a6606c256548fbbac687e4b265720263e4e5fc9021ff4fe8f098/foundry-rs/foundry/pull/1778"
         },
@@ -74,6 +84,16 @@
           "wordCount": 13,
           "title": "Lens Protocol - Claiming App",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/outcomeprotocol/outcome-finance-arrives-to-help-daos-achieve-positive-outcomes-4b7e4cba6d94",
+          "author": null,
+          "description": "Outcome.Finance arrives to help DAOs achieve positive outcomes",
+          "link": "https://medium.com/outcomeprotocol/outcome-finance-arrives-to-help-daos-achieve-positive-outcomes-4b7e4cba6d94",
+          "publishedOn": "2022-06-01T17:00:04.000Z",
+          "wordCount": 790,
+          "title": "Outcome.Finance arrives to help DAOs achieve positive outcomes",
+          "imageUrl": "https://miro.medium.com/max/1200/1*N5uy5pr0ceu_EmXgHs4lRg.png"
         },
         {
           "id": "https://gov.optimism.io/t/extended-ineligibility-for-future-airdrops/2249",
@@ -141,7 +161,7 @@
           "description": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "link": "https://thehill.com/policy/finance/3507422-%e2%80%8b%e2%80%8byellen-says-she-was-wrong-about-path-that-inflation-would-take/",
           "publishedOn": "2022-06-01T04:30:03.000Z",
-          "wordCount": 1053,
+          "wordCount": 1073,
           "title": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/04/yellenjanet_040622arl3_lead.jpg?w=1280"
         },
@@ -156,24 +176,14 @@
           "imageUrl": "https://assets.website-files.com/628b3ea89765cec7c0c65195/6295ea7d97a4023e459388eb_Futureverse_Meta-Image.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=K4ujV7KSXXg",
+          "id": "https://mint.lagoframe.com/",
           "author": null,
-          "description": "The Chopping Block Live!",
-          "link": "https://www.youtube.com/watch?v=K4ujV7KSXXg",
-          "publishedOn": "2022-06-01T01:00:03.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block Live!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cbc.ca/news/politics/opioid-crisis-bc-canada-1.6471878",
-          "author": null,
-          "description": "Federal government to make 'important announcement' on overdose crisis with B.C. today | CBC News",
-          "link": "https://www.cbc.ca/news/politics/opioid-crisis-bc-canada-1.6471878",
-          "publishedOn": "2022-05-31T23:30:04.000Z",
-          "wordCount": 1466,
-          "title": "Federal government to make 'important announcement' on overdose crisis with B.C. today | CBC News",
-          "imageUrl": "https://i.cbc.ca/1.6459372.1654037090!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/overdose-crisis-rally-vancouver.jpg"
+          "description": "Lago Mint",
+          "link": "https://mint.lagoframe.com/",
+          "publishedOn": "2022-06-01T01:30:03.000Z",
+          "wordCount": 18,
+          "title": "Lago Mint",
+          "imageUrl": "https://images.ctfassets.net/hqafn8e4z2c6/7xOv4SdbeAu3kJoRpCaVU4/d4bd3c753d365ceb0c5ba8a906fde58c/Group_14__1_.svg"
         },
         {
           "id": "https://nftnow.com/nft100-nominations/",
@@ -194,16 +204,6 @@
           "wordCount": 724,
           "title": "Utopia: The Future of Coordination",
           "imageUrl": "https://mirror-media.imgix.net/nft/avfYxVX1I_E8u6OKSKkRo.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737",
-          "author": null,
-          "description": "Legal Wrappers and DAOs",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737",
-          "publishedOn": "2022-05-31T17:00:03.000Z",
-          "wordCount": 784,
-          "title": "Legal Wrappers and DAOs",
-          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
         }
       ]
     }
