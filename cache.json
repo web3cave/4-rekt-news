@@ -16,16 +16,6 @@
           "imageUrl": "https://opengraph.githubassets.com/798523dc46a3af01f2095b9c286a13fd2f0d91529b583750104d1bc2b6eeaede/ethereum/pm/issues/532"
         },
         {
-          "id": "https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0",
-          "author": null,
-          "description": "Atoms, Institutions, Blockchains",
-          "link": "https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0",
-          "publishedOn": "2022-06-02T14:30:03.000Z",
-          "wordCount": 6033,
-          "title": "Atoms, Institutions, Blockchains",
-          "imageUrl": "https://mirror-media.imgix.net/nft/Jo8PBlnrd5ZlPwmTWyjke.png?h=null&w=null&auto=compress"
-        },
-        {
           "id": "https://medium.com/laevitas/announcing-our-2-5m-seed-round-a58d349282f2",
           "author": null,
           "description": "Announcing Our $2.5m Seed Round",
@@ -51,7 +41,7 @@
           "description": "Chipotle will now accept cryptocurrency in US stores",
           "link": "https://www.theblockcrypto.com/post/149684/chipotle-will-now-accept-cryptocurrency-in-us-stores",
           "publishedOn": "2022-06-02T06:00:03.000Z",
-          "wordCount": 1108,
+          "wordCount": 1047,
           "title": "Chipotle will now accept cryptocurrency in US stores",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/Chipotle_Brandon.jpeg.jpg"
         },
@@ -86,6 +76,16 @@
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/06/CTD-220511-10.jpg"
         },
         {
+          "id": "https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf",
+          "author": null,
+          "description": "[PDF] consensus.pdf",
+          "link": "https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf",
+          "publishedOn": "2022-06-02T03:00:11.000Z",
+          "wordCount": 3348,
+          "title": "[PDF] consensus.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?t=203&v=G7dD-Osz2y0&feature=youtu.be",
           "author": null,
           "description": "Diffusion en direct de EthCC Livestream3",
@@ -96,12 +96,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.coindesk.com/policy/2022/06/01/cawthorns-crypto-wallet-reveals-undisclosed-trades-amid-house-ethics-investigation/",
+          "author": null,
+          "description": "Rep. Cawthorn’s Crypto Wallet Reveals Undisclosed Trades Amid House Ethics Investigation",
+          "link": "https://www.coindesk.com/policy/2022/06/01/cawthorns-crypto-wallet-reveals-undisclosed-trades-amid-house-ethics-investigation/",
+          "publishedOn": "2022-06-01T22:00:04.000Z",
+          "wordCount": 2022,
+          "title": "Rep. Cawthorn’s Crypto Wallet Reveals Undisclosed Trades Amid House Ethics Investigation",
+          "imageUrl": "https://www.coindesk.com/resizer/S92QMRQATAQzfFgz3b-URKQonh4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LCNQKLKFBFHZPG5VGWH624NDLI.jpeg"
+        },
+        {
           "id": "https://www.theblockcrypto.com/linked/149685/former-head-of-product-for-opensea-indicted-after-insider-trading-scandal",
           "author": null,
           "description": "Former head of product for OpenSea indicted after insider trading scandal",
           "link": "https://www.theblockcrypto.com/linked/149685/former-head-of-product-for-opensea-indicted-after-insider-trading-scandal",
           "publishedOn": "2022-06-01T21:00:07.000Z",
-          "wordCount": 1082,
+          "wordCount": 1056,
           "title": "Former head of product for OpenSea indicted after insider trading scandal",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220506_OpenSea-2.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "Zora API",
           "link": "https://api.zora.co/",
           "publishedOn": "2022-06-01T21:00:07.000Z",
-          "wordCount": 382,
+          "wordCount": 367,
           "title": "Zora API",
           "imageUrl": "https://api.zora.co/og-image.png"
         },
@@ -121,19 +131,9 @@
           "description": "Debunking the Crypto Critics Letter",
           "link": "https://prestonbyrne.com/2022/06/01/debunking-the-crypto-critics-letter/",
           "publishedOn": "2022-06-01T19:00:04.000Z",
-          "wordCount": 2997,
+          "wordCount": 3061,
           "title": "Debunking the Crypto Critics Letter",
           "imageUrl": "https://prestonbyrne.com/wp-content/uploads/2022/06/train-60539_1280.jpg"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry/pull/1778",
-          "author": null,
-          "description": "feat(forge): verify broadcasted contracts on `forge script` by joshieDo · Pull Request #1778 · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/pull/1778",
-          "publishedOn": "2022-06-01T18:30:03.000Z",
-          "wordCount": 1138,
-          "title": "feat(forge): verify broadcasted contracts on `forge script` by joshieDo · Pull Request #1778 · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/8c4ade82f603a6606c256548fbbac687e4b265720263e4e5fc9021ff4fe8f098/foundry-rs/foundry/pull/1778"
         },
         {
           "id": "https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme",
@@ -181,7 +181,7 @@
           "description": "Letter in Support of Responsible Fintech Policy",
           "link": "https://concerned.tech/",
           "publishedOn": "2022-06-01T15:00:03.000Z",
-          "wordCount": 1774,
+          "wordCount": 1773,
           "title": "Letter in Support of Responsible Fintech Policy",
           "imageUrl": "https://concerned.tech/life_logo.png"
         },
