@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptohayes.medium.com/shut-it-down-15d230b28089",
+          "author": null,
+          "description": "Shut it Down!",
+          "link": "https://cryptohayes.medium.com/shut-it-down-15d230b28089",
+          "publishedOn": "2022-06-02T03:00:11.000Z",
+          "wordCount": 4273,
+          "title": "Shut it Down!",
+          "imageUrl": "https://miro.medium.com/max/625/1*B1qMozAO25r9jmeo63djew.png"
+        },
+        {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=132529",
+          "author": null,
+          "description": "Insider Trading: An Overview",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=132529",
+          "publishedOn": "2022-06-02T03:00:11.000Z",
+          "wordCount": 679,
+          "title": "Insider Trading: An Overview",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
+          "id": "https://blog.bitmex.com/shut-it-down/",
+          "author": null,
+          "description": "Shut it Down! | BitMEX Blog",
+          "link": "https://blog.bitmex.com/shut-it-down/",
+          "publishedOn": "2022-06-02T03:00:11.000Z",
+          "wordCount": 5116,
+          "title": "Shut it Down! | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/06/CTD-220511-10.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?t=203&v=G7dD-Osz2y0&feature=youtu.be",
           "author": null,
           "description": "Diffusion en direct de EthCC Livestream3",
@@ -41,7 +71,7 @@
           "description": "Zora API",
           "link": "http://api.zora.co/",
           "publishedOn": "2022-06-01T21:00:07.000Z",
-          "wordCount": 367,
+          "wordCount": 376,
           "title": "Zora API",
           "imageUrl": "https://api.zora.co/og-image.png"
         },
@@ -66,26 +96,6 @@
           "imageUrl": "https://prestonbyrne.com/wp-content/uploads/2022/06/train-60539_1280.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=OA1RR4cbWzY",
-          "author": null,
-          "description": "MobyMask Hackathon Pitch",
-          "link": "https://www.youtube.com/watch?v=OA1RR4cbWzY",
-          "publishedOn": "2022-06-01T19:00:04.000Z",
-          "wordCount": null,
-          "title": "MobyMask Hackathon Pitch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/8whNch3m5KMzeo6g5eblcXMMplPf8UpW228cSh3nmzg",
-          "author": null,
-          "description": "MobyMask: A New Way to Hunt Phishers",
-          "link": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/8whNch3m5KMzeo6g5eblcXMMplPf8UpW228cSh3nmzg",
-          "publishedOn": "2022-06-01T19:00:04.000Z",
-          "wordCount": 1546,
-          "title": "MobyMask: A New Way to Hunt Phishers",
-          "imageUrl": "https://mirror-media.imgix.net/nft/qiXeiVoofJLm4XL_JhaOA.png?h=null&w=null&auto=compress"
-        },
-        {
           "id": "https://github.com/foundry-rs/foundry/pull/1778",
           "author": null,
           "description": "feat(forge): verify broadcasted contracts on `forge script` by joshieDo · Pull Request #1778 · foundry-rs/foundry",
@@ -104,16 +114,6 @@
           "wordCount": 1061,
           "title": "Former Employee Of NFT Marketplace Charged In First Ever Digital Asset Insider Trading Scheme",
           "imageUrl": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6X0yIUq7fpc",
-          "author": null,
-          "description": "Devconnect Amsterdam Wrap Video",
-          "link": "https://www.youtube.com/watch?v=6X0yIUq7fpc",
-          "publishedOn": "2022-06-01T18:00:06.000Z",
-          "wordCount": null,
-          "title": "Devconnect Amsterdam Wrap Video",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/outcomeprotocol/outcome-finance-arrives-to-help-daos-achieve-positive-outcomes-4b7e4cba6d94",
@@ -141,7 +141,7 @@
           "description": "Extended ineligibility for future airdrops",
           "link": "https://gov.optimism.io/t/extended-ineligibility-for-future-airdrops/2249/58?u=cobie",
           "publishedOn": "2022-06-01T17:00:03.000Z",
-          "wordCount": 3073,
+          "wordCount": 3076,
           "title": "Extended ineligibility for future airdrops",
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/d1121bab7f1c491f23a793df35d37626224b2297.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "Letter in Support of Responsible Fintech Policy",
           "link": "https://concerned.tech/",
           "publishedOn": "2022-06-01T15:00:03.000Z",
-          "wordCount": 1721,
+          "wordCount": 1781,
           "title": "Letter in Support of Responsible Fintech Policy",
           "imageUrl": "https://concerned.tech/life_logo.png"
         },
@@ -181,7 +181,7 @@
           "description": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "link": "https://thehill.com/policy/finance/3507422-%e2%80%8b%e2%80%8byellen-says-she-was-wrong-about-path-that-inflation-would-take/",
           "publishedOn": "2022-06-01T04:30:03.000Z",
-          "wordCount": 1089,
+          "wordCount": 1084,
           "title": "​​Yellen says she was ‘wrong’ about ‘path that inflation would take’",
           "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/04/yellenjanet_040622arl3_lead.jpg?w=1280"
         },
