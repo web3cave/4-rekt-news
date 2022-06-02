@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://reflect.withlens.app/",
+          "author": null,
+          "description": "Reflect your Lens posts to Twitter (BETA)",
+          "link": "https://reflect.withlens.app/",
+          "publishedOn": "2022-06-02T23:00:05.000Z",
+          "wordCount": 9,
+          "title": "Reflect your Lens posts to Twitter (BETA)",
+          "imageUrl": "https://dex7zx2kn25te.cloudfront.net/74bc3f17-4adc-4920-8a8a-bd536361b5f8/images/card.jpg"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/top-5-airdrops-and-how-to-get-them?s=w",
+          "author": null,
+          "description": "Top 5 Airdrops (and How to Get Them)",
+          "link": "https://newsletter.banklesshq.com/p/top-5-airdrops-and-how-to-get-them?s=w",
+          "publishedOn": "2022-06-02T23:00:05.000Z",
+          "wordCount": 1856,
+          "title": "Top 5 Airdrops (and How to Get Them)",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fede33213-7d5e-471e-a8f8-2c814592e115_2668x1501.jpeg"
+        },
+        {
           "id": "https://forum.makerdao.com/t/the-endgame-plan-parts-1-2/15456",
           "author": null,
           "description": "The Endgame Plan parts 1&2",
@@ -14,16 +34,6 @@
           "wordCount": 12496,
           "title": "The Endgame Plan parts 1&2",
           "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/optimized/3X/e/d/ed3f7e931c35b49beb5af6295a1ae0028372d63c_2_1024x139.png"
-        },
-        {
-          "id": "https://axie.substack.com/p/lunacian-codes",
-          "author": null,
-          "description": "Lunacian Codes Public Testing is Live!",
-          "link": "https://axie.substack.com/p/lunacian-codes",
-          "publishedOn": "2022-06-02T19:30:03.000Z",
-          "wordCount": 481,
-          "title": "Lunacian Codes Public Testing is Live!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01a2d83b-f01d-45d0-92d0-2ced3febc75b_1170x1170.png"
         },
         {
           "id": "https://academy.apeworx.io/articles/getting-to-know-ape-console",
@@ -91,19 +101,9 @@
           "description": "Merge Community Call #4 · Issue #532 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/532",
           "publishedOn": "2022-06-02T15:00:03.000Z",
-          "wordCount": 622,
+          "wordCount": 624,
           "title": "Merge Community Call #4 · Issue #532 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/798523dc46a3af01f2095b9c286a13fd2f0d91529b583750104d1bc2b6eeaede/ethereum/pm/issues/532"
-        },
-        {
-          "id": "https://medium.com/laevitas/announcing-our-2-5m-seed-round-a58d349282f2",
-          "author": null,
-          "description": "Announcing Our $2.5m Seed Round",
-          "link": "https://medium.com/laevitas/announcing-our-2-5m-seed-round-a58d349282f2",
-          "publishedOn": "2022-06-02T12:30:05.000Z",
-          "wordCount": 456,
-          "title": "Announcing Our $2.5m Seed Round",
-          "imageUrl": "https://miro.medium.com/max/1200/1*SDWwbGS9dgY0hPsgi8ndjA.png"
         },
         {
           "id": "https://thegraph.com/graph-day/2022/",
@@ -121,7 +121,7 @@
           "description": "Shut it Down!",
           "link": "https://entrepreneurshandbook.co/shut-it-down-15d230b28089?gi=ae983d3d8c27",
           "publishedOn": "2022-06-02T03:00:11.000Z",
-          "wordCount": 4268,
+          "wordCount": 4335,
           "title": "Shut it Down!",
           "imageUrl": "https://miro.medium.com/max/625/1*B1qMozAO25r9jmeo63djew.png"
         },
@@ -151,7 +151,7 @@
           "description": "Zora API",
           "link": "https://api.zora.co/",
           "publishedOn": "2022-06-01T21:00:07.000Z",
-          "wordCount": 378,
+          "wordCount": 372,
           "title": "Zora API",
           "imageUrl": "https://api.zora.co/og-image.png"
         },
