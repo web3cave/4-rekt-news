@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://academy.apeworx.io/articles/getting-to-know-ape-console",
+          "author": null,
+          "description": "Ape Academy",
+          "link": "https://academy.apeworx.io/articles/getting-to-know-ape-console",
+          "publishedOn": "2022-06-02T19:00:05.000Z",
+          "wordCount": 1234,
+          "title": "Ape Academy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_LVz9VHOJ8w&feature=youtu.be",
+          "author": null,
+          "description": "DeFi Download at Permissionless - Haseeb Qureshi of Dragonfly Capital",
+          "link": "https://www.youtube.com/watch?v=_LVz9VHOJ8w&feature=youtu.be",
+          "publishedOn": "2022-06-02T19:00:05.000Z",
+          "wordCount": null,
+          "title": "DeFi Download at Permissionless - Haseeb Qureshi of Dragonfly Capital",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockcrypto.com/linked/149904/cftc-accuses-winklevoss-owned-crypto-exchange-gemini-of-misleading-statements-in-new-lawsuit?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading statements in new lawsuit",
+          "link": "https://www.theblockcrypto.com/linked/149904/cftc-accuses-winklevoss-owned-crypto-exchange-gemini-of-misleading-statements-in-new-lawsuit?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-06-02T19:00:05.000Z",
+          "wordCount": 1009,
+          "title": "CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading statements in new lawsuit",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://unchainedpodcast.com/the-chopping-block-does-the-new-terra-have-any-chance/",
+          "author": null,
+          "description": "Unchained - Ep.358 - The Chopping Block: Does the New Terra Have Any Chance?",
+          "link": "https://unchainedpodcast.com/the-chopping-block-does-the-new-terra-have-any-chance/",
+          "publishedOn": "2022-06-02T19:00:04.000Z",
+          "wordCount": 369,
+          "title": "Unchained - Ep.358 - The Chopping Block: Does the New Terra Have Any Chance?",
+          "imageUrl": null
+        },
+        {
           "id": "https://speedrunethereum.com/",
           "author": null,
           "description": "Speed Run Ethereum",
@@ -21,7 +61,7 @@
           "description": "Merge Community Call #4 · Issue #532 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/532",
           "publishedOn": "2022-06-02T15:00:03.000Z",
-          "wordCount": 621,
+          "wordCount": 622,
           "title": "Merge Community Call #4 · Issue #532 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/798523dc46a3af01f2095b9c286a13fd2f0d91529b583750104d1bc2b6eeaede/ethereum/pm/issues/532"
         },
@@ -44,16 +84,6 @@
           "wordCount": 1676,
           "title": "Silicon Salon I: June 1, 2022",
           "imageUrl": "https://www.siliconsalon.info/assets/images/silicon-salon-bare.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/149684/chipotle-will-now-accept-cryptocurrency-in-us-stores",
-          "author": null,
-          "description": "Chipotle will now accept cryptocurrency in US stores",
-          "link": "https://www.theblockcrypto.com/post/149684/chipotle-will-now-accept-cryptocurrency-in-us-stores",
-          "publishedOn": "2022-06-02T06:00:03.000Z",
-          "wordCount": 1071,
-          "title": "Chipotle will now accept cryptocurrency in US stores",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/Chipotle_Brandon.jpeg.jpg"
         },
         {
           "id": "https://thegraph.com/graph-day/2022/",
@@ -86,26 +116,6 @@
           "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
         },
         {
-          "id": "https://blog.bitmex.com/shut-it-down/",
-          "author": null,
-          "description": "Shut it Down! | BitMEX Blog",
-          "link": "https://blog.bitmex.com/shut-it-down/",
-          "publishedOn": "2022-06-02T03:00:11.000Z",
-          "wordCount": 5127,
-          "title": "Shut it Down! | BitMEX Blog",
-          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/06/CTD-220511-10.jpg"
-        },
-        {
-          "id": "https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf",
-          "author": null,
-          "description": "[PDF] consensus.pdf",
-          "link": "https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf",
-          "publishedOn": "2022-06-02T03:00:11.000Z",
-          "wordCount": 3348,
-          "title": "[PDF] consensus.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?t=203&v=G7dD-Osz2y0&feature=youtu.be",
           "author": null,
           "description": "Diffusion en direct de EthCC Livestream3",
@@ -116,22 +126,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/smartcontracts/simple-optimism-node",
-          "author": null,
-          "description": "GitHub - smartcontracts/simple-optimism-node: Simple Docker Compose setup for an Optimism node",
-          "link": "https://github.com/smartcontracts/simple-optimism-node",
-          "publishedOn": "2022-06-01T23:00:05.000Z",
-          "wordCount": 997,
-          "title": "GitHub - smartcontracts/simple-optimism-node: Simple Docker Compose setup for an Optimism node",
-          "imageUrl": "https://opengraph.githubassets.com/28e4d3ef93a7150f1cf220e005310a1f1507b8085a766a4718550623beed4b43/smartcontracts/simple-optimism-node"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2022/06/01/cawthorns-crypto-wallet-reveals-undisclosed-trades-amid-house-ethics-investigation/",
           "author": null,
           "description": "Rep. Cawthorn’s Crypto Wallet Reveals Undisclosed Trades Amid House Ethics Investigation",
           "link": "https://www.coindesk.com/policy/2022/06/01/cawthorns-crypto-wallet-reveals-undisclosed-trades-amid-house-ethics-investigation/",
           "publishedOn": "2022-06-01T22:00:04.000Z",
-          "wordCount": 1999,
+          "wordCount": 2014,
           "title": "Rep. Cawthorn’s Crypto Wallet Reveals Undisclosed Trades Amid House Ethics Investigation",
           "imageUrl": "https://www.coindesk.com/resizer/S92QMRQATAQzfFgz3b-URKQonh4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LCNQKLKFBFHZPG5VGWH624NDLI.jpeg"
         },
@@ -141,7 +141,7 @@
           "description": "Announcing Interest Protocol",
           "link": "https://medium.com/interest-protocol/announcing-interest-protocol-c3d3a28fcaaa",
           "publishedOn": "2022-06-01T21:00:08.000Z",
-          "wordCount": 1029,
+          "wordCount": 1100,
           "title": "Announcing Interest Protocol",
           "imageUrl": "https://miro.medium.com/max/1200/1*kLjRGhEs96Gc1msALCsqYQ.png"
         },
@@ -151,7 +151,7 @@
           "description": "Zora API",
           "link": "https://api.zora.co/",
           "publishedOn": "2022-06-01T21:00:07.000Z",
-          "wordCount": 384,
+          "wordCount": 367,
           "title": "Zora API",
           "imageUrl": "https://api.zora.co/og-image.png"
         },
