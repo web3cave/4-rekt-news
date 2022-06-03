@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-03T21:17:45.978Z</id>
+    <id>urn:2022-06-03T22:20:09.458Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-03T21:17:45.978Z</updated>
+    <updated>2022-06-03T22:20:09.458Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Trust – USDC Audits and Attestations]]></title>
+        <id>https://www.circle.com/blog/how-to-build-trust-usdc-audits-and-attestations</id>
+        <link href="https://www.circle.com/blog/how-to-build-trust-usdc-audits-and-attestations"/>
+        <updated>2022-06-03T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[How to Build Trust – USDC Audits and Attestations]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge Community call 4]]></title>
         <id>https://www.youtube.com/watch?v=qG-A5i6x6N8&amp;feature=youtu.be</id>
@@ -151,16 +161,6 @@
         <link href="https://gridplus.io/"/>
         <updated>2022-06-03T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[GridPlus]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry-Vyper/VyperDeployer.sol at main · 0xKitsune/Foundry-Vyper]]></title>
-        <id>https://github.com/0xKitsune/Foundry-Vyper/blob/main/lib/utils/VyperDeployer.sol</id>
-        <link href="https://github.com/0xKitsune/Foundry-Vyper/blob/main/lib/utils/VyperDeployer.sol"/>
-        <updated>2022-06-03T03:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Foundry-Vyper/VyperDeployer.sol at main · 0xKitsune/Foundry-Vyper]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
