@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nouns.wtf/",
+          "author": null,
+          "description": "Nouns DAO",
+          "link": "https://nouns.wtf/",
+          "publishedOn": "2022-06-03T18:30:04.000Z",
+          "wordCount": 10,
+          "title": "Nouns DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZgrKk_1URxU&feature=youtu.be",
+          "author": null,
+          "description": "LSD for solo validators, Nothing is priced in & more - The Daily Gwei Refuel #378 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=ZgrKk_1URxU&feature=youtu.be",
+          "publishedOn": "2022-06-03T18:30:03.000Z",
+          "wordCount": null,
+          "title": "LSD for solo validators, Nothing is priced in & more - The Daily Gwei Refuel #378 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/chainlink-price-feeds-go-live-on-solana-mainnet-301560626.html",
           "author": null,
           "description": "Chainlink Price Feeds Go Live on Solana Mainnet",
@@ -103,17 +123,7 @@
           "publishedOn": "2022-06-03T08:30:03.000Z",
           "wordCount": 4473,
           "title": "Jump Crypto - The Depegging of UST | Jump Crypto",
-          "imageUrl": "https://jumpcrypto.com/jump.png"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/06/03/new-york-senate-passes-bitcoin-mining-moratorium/",
-          "author": null,
-          "description": "New York Senate Passes Bitcoin Mining Moratorium",
-          "link": "https://www.coindesk.com/policy/2022/06/03/new-york-senate-passes-bitcoin-mining-moratorium/",
-          "publishedOn": "2022-06-03T07:00:02.000Z",
-          "wordCount": 1271,
-          "title": "New York Senate Passes Bitcoin Mining Moratorium",
-          "imageUrl": "https://www.coindesk.com/resizer/ANq0XFmRF02fKcD7jjkiB3gTOsY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C3XZ57NCIJGSFBRFDMBORVYUMQ.JPG"
+          "imageUrl": "https://jumpcrypto.com/jump.jpg"
         },
         {
           "id": "https://gridplus.io/",
@@ -124,16 +134,6 @@
           "wordCount": 488,
           "title": "GridPlus",
           "imageUrl": "http://cdn.shopify.com/s/files/1/0221/1921/9264/files/lattice-w-safe-card_copy_78fdea97-66dd-4104-84d9-4b1d71fd1b9d_1200x1200.png?v=1608148580"
-        },
-        {
-          "id": "https://marginalrevolution.com/marginalrevolution/2022/06/the-disconnet-between-wages-and-house-prices.html",
-          "author": null,
-          "description": "Moving From Opportunity: The High Cost of Restrictions on Land Use - Marginal REVOLUTION",
-          "link": "https://marginalrevolution.com/marginalrevolution/2022/06/the-disconnet-between-wages-and-house-prices.html",
-          "publishedOn": "2022-06-03T04:00:02.000Z",
-          "wordCount": 746,
-          "title": "Moving From Opportunity: The High Cost of Restrictions on Land Use - Marginal REVOLUTION",
-          "imageUrl": "https://pbs.twimg.com/media/FQMJbz7VUAABwLh?format=png&name=small"
         },
         {
           "id": "https://github.com/0xKitsune/Foundry-Vyper/blob/main/lib/utils/VyperDeployer.sol",
