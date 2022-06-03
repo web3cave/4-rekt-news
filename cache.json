@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://commonwealth.im/",
+          "author": null,
+          "description": "Commonwealth",
+          "link": "https://commonwealth.im/",
+          "publishedOn": "2022-06-03T13:00:03.000Z",
+          "wordCount": 2,
+          "title": "Commonwealth",
+          "imageUrl": "https://commonwealth.im/static/img/logo.png"
+        },
+        {
+          "id": "https://ethresear.ch/t/liquid-solo-validating/12779",
+          "author": null,
+          "description": "Liquid solo validating",
+          "link": "https://ethresear.ch/t/liquid-solo-validating/12779",
+          "publishedOn": "2022-06-03T11:30:03.000Z",
+          "wordCount": 1119,
+          "title": "Liquid solo validating",
+          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
+        },
+        {
           "id": "https://jumpcrypto.com/the-depegging-of-ust/",
           "author": null,
           "description": "Jump Crypto - The Depegging of UST | Jump Crypto",
@@ -21,7 +41,7 @@
           "description": "New York Senate Passes Bitcoin Mining Moratorium",
           "link": "https://www.coindesk.com/policy/2022/06/03/new-york-senate-passes-bitcoin-mining-moratorium/",
           "publishedOn": "2022-06-03T07:00:02.000Z",
-          "wordCount": 1247,
+          "wordCount": 1234,
           "title": "New York Senate Passes Bitcoin Mining Moratorium",
           "imageUrl": "https://www.coindesk.com/resizer/ANq0XFmRF02fKcD7jjkiB3gTOsY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C3XZ57NCIJGSFBRFDMBORVYUMQ.JPG"
         },
@@ -146,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblockcrypto.com/linked/149904/cftc-accuses-winklevoss-owned-crypto-exchange-gemini-of-misleading-statements-in-new-lawsuit?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading statements in new lawsuit",
-          "link": "https://www.theblockcrypto.com/linked/149904/cftc-accuses-winklevoss-owned-crypto-exchange-gemini-of-misleading-statements-in-new-lawsuit?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-06-02T19:00:05.000Z",
-          "wordCount": 920,
-          "title": "CFTC accuses Winklevoss-owned crypto exchange Gemini of misleading statements in new lawsuit",
-          "imageUrl": ""
-        },
-        {
           "id": "https://unchainedpodcast.com/the-chopping-block-does-the-new-terra-have-any-chance/",
           "author": null,
           "description": "Unchained - Ep.358 - The Chopping Block: Does the New Terra Have Any Chance?",
@@ -184,16 +194,6 @@
           "wordCount": 2756,
           "title": "Metaverse Land: What Makes Digital Real Estate Valuable",
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/05/IMG_20220504_062913-1.jpg"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/532",
-          "author": null,
-          "description": "Merge Community Call #4 · Issue #532 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/532",
-          "publishedOn": "2022-06-02T15:00:03.000Z",
-          "wordCount": 624,
-          "title": "Merge Community Call #4 · Issue #532 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/798523dc46a3af01f2095b9c286a13fd2f0d91529b583750104d1bc2b6eeaede/ethereum/pm/issues/532"
         },
         {
           "id": "https://prestonbyrne.com/2022/06/01/debunking-the-crypto-critics-letter/",
