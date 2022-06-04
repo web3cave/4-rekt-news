@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AsKUey-FoKo",
+          "id": "https://engineering.messari.io/",
           "author": null,
-          "description": "Are Altcoins About To Suffer A Major Meltdown? | 5 Crypto Experts Agree!",
-          "link": "https://www.youtube.com/watch?v=AsKUey-FoKo",
-          "publishedOn": "2022-06-04T11:30:03.000Z",
-          "wordCount": null,
-          "title": "Are Altcoins About To Suffer A Major Meltdown? | 5 Crypto Experts Agree!",
+          "description": "Messari Engineering",
+          "link": "https://engineering.messari.io/",
+          "publishedOn": "2022-06-04T15:15:03.000Z",
+          "wordCount": 338,
+          "title": "Messari Engineering",
+          "imageUrl": "https://cdn.sanity.io/images/zf2ahfgc/production/ffb7c4f7b332df9fa77a90d96162acdd42f0768f-2400x1254.png"
+        },
+        {
+          "id": "https://claim.lens.xyz/",
+          "author": null,
+          "description": "Lens Protocol - Claiming App",
+          "link": "https://claim.lens.xyz/",
+          "publishedOn": "2022-06-04T14:30:05.000Z",
+          "wordCount": 13,
+          "title": "Lens Protocol - Claiming App",
           "imageUrl": null
+        },
+        {
+          "id": "https://nouns.wtf/",
+          "author": null,
+          "description": "Nouns DAO",
+          "link": "https://nouns.wtf/",
+          "publishedOn": "2022-06-04T14:30:05.000Z",
+          "wordCount": 10,
+          "title": "Nouns DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.linkedin.com/posts/ashutosh-ukey-971422124_update-on-hiring-plans-activity-6938274270410129408-kgKp/",
+          "author": null,
+          "description": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
+          "link": "https://www.linkedin.com/posts/ashutosh-ukey-971422124_update-on-hiring-plans-activity-6938274270410129408-kgKp/",
+          "publishedOn": "2022-06-04T10:30:03.000Z",
+          "wordCount": 584,
+          "title": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
+          "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/D5627AQHwTLjPr1pfZA/articleshare-shrink_800/0/1654352561732?e=1654963200&v=beta&t=mfB3aepY24p6MTPiDzpIa5sxeFvfF9jckeI3eUX5Ink"
         },
         {
           "id": "https://www.app.spool.fi/",
@@ -41,9 +71,9 @@
           "description": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
           "link": "https://github.com/Anish-Agnihotri/goblinmode",
           "publishedOn": "2022-06-04T05:30:02.000Z",
-          "wordCount": 661,
+          "wordCount": 614,
           "title": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
-          "imageUrl": "https://opengraph.githubassets.com/400bfe7a83a99371a501fc99d9c816ebef71aa5445505dbe7164276127b8237f/Anish-Agnihotri/goblinmode"
+          "imageUrl": "https://opengraph.githubassets.com/e2c7ce632a171dc1b4bad61bf99458ea059b533cdf539060b2103bd79c0cd1ab/Anish-Agnihotri/goblinmode"
         },
         {
           "id": "https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/",
@@ -126,16 +156,6 @@
           "imageUrl": "https://images.dwell.com/photos/6063391372700811264/6938173741938974720/large.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZgrKk_1URxU&feature=youtu.be",
-          "author": null,
-          "description": "LSD for solo validators, Nothing is priced in & more - The Daily Gwei Refuel #378 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=ZgrKk_1URxU&feature=youtu.be",
-          "publishedOn": "2022-06-03T18:30:03.000Z",
-          "wordCount": null,
-          "title": "LSD for solo validators, Nothing is priced in & more - The Daily Gwei Refuel #378 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.prnewswire.com/news-releases/chainlink-price-feeds-go-live-on-solana-mainnet-301560626.html",
           "author": null,
           "description": "Chainlink Price Feeds Go Live on Solana Mainnet",
@@ -166,16 +186,6 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/1nfZZzZJLsEZbNS66MI5T.png?h=4000&w=4000"
         },
         {
-          "id": "https://www.ofnumbers.com/2022/06/03/web3-needs-critics-and-criticism/",
-          "author": null,
-          "description": "Web3 needs critics and criticism",
-          "link": "https://www.ofnumbers.com/2022/06/03/web3-needs-critics-and-criticism/",
-          "publishedOn": "2022-06-03T17:00:02.000Z",
-          "wordCount": 4693,
-          "title": "Web3 needs critics and criticism",
-          "imageUrl": "https://www.ofnumbers.com/wp-content/uploads/2022/06/image.png"
-        },
-        {
           "id": "https://ethresear.ch/t/liquid-solo-validating/12779",
           "author": null,
           "description": "Liquid solo validating",
@@ -184,16 +194,6 @@
           "wordCount": 1371,
           "title": "Liquid solo validating",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
-        },
-        {
-          "id": "https://jumpcrypto.com/the-depegging-of-ust/",
-          "author": null,
-          "description": "Jump Crypto - The Depegging of UST | Jump Crypto",
-          "link": "https://jumpcrypto.com/the-depegging-of-ust/",
-          "publishedOn": "2022-06-03T08:30:03.000Z",
-          "wordCount": 4473,
-          "title": "Jump Crypto - The Depegging of UST | Jump Crypto",
-          "imageUrl": "https://jumpcrypto.com/jump.jpg"
         },
         {
           "id": "https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989?gi=6dc27ca85f94",
