@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.app.spool.fi/",
+          "author": null,
+          "description": "Spool App",
+          "link": "https://www.app.spool.fi/",
+          "publishedOn": "2022-06-04T10:00:03.000Z",
+          "wordCount": 11,
+          "title": "Spool App",
+          "imageUrl": "https://app.spool.fi/thumbnail.jpg"
+        },
+        {
           "id": "https://github.com/Anish-Agnihotri/goblinmode",
           "author": null,
           "description": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
@@ -13,7 +23,7 @@
           "publishedOn": "2022-06-04T05:30:02.000Z",
           "wordCount": 661,
           "title": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
-          "imageUrl": "https://opengraph.githubassets.com/43490e54af7ea3a5247ed2de3ac5ae1a0d9ba48a884613033290862814ead1c9/Anish-Agnihotri/goblinmode"
+          "imageUrl": "https://opengraph.githubassets.com/1bd57235e94d1ae597d6137ced81d7fbf44c99ebdcd594cfda60334952d56a3e/Anish-Agnihotri/goblinmode"
         },
         {
           "id": "https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/",
@@ -61,7 +71,7 @@
           "description": "Right Click Save - Articles - ​​The NFT Collector | Richard Kim",
           "link": "https://www.rightclicksave.com/article/the-nft-collector-richard-kim",
           "publishedOn": "2022-06-03T23:00:03.000Z",
-          "wordCount": 2982,
+          "wordCount": 2981,
           "title": "Right Click Save - Articles - ​​The NFT Collector | Richard Kim",
           "imageUrl": null
         },
@@ -121,9 +131,9 @@
           "description": "Chainlink Price Feeds Go Live on Solana Mainnet",
           "link": "https://www.prnewswire.com/news-releases/chainlink-price-feeds-go-live-on-solana-mainnet-301560626.html",
           "publishedOn": "2022-06-03T18:00:02.000Z",
-          "wordCount": 1993,
+          "wordCount": 2037,
           "title": "Chainlink Price Feeds Go Live on Solana Mainnet",
-          "imageUrl": null
+          "imageUrl": "https://mma.prnewswire.com/media/1832747/Chainlink.jpg?p=facebook"
         },
         {
           "id": "https://blog.ethereum.org/2022/06/03/ropsten-merge-ttd/",
@@ -154,16 +164,6 @@
           "wordCount": 4693,
           "title": "Web3 needs critics and criticism",
           "imageUrl": "https://www.ofnumbers.com/wp-content/uploads/2022/06/image.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AsKUey-FoKo",
-          "author": null,
-          "description": "Are Altcoins About To Suffer A Major Meltdown? | 5 Crypto Experts Agree!",
-          "link": "https://www.youtube.com/watch?v=AsKUey-FoKo",
-          "publishedOn": "2022-06-03T15:00:05.000Z",
-          "wordCount": null,
-          "title": "Are Altcoins About To Suffer A Major Meltdown? | 5 Crypto Experts Agree!",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/ethereum/pm/issues/532",
@@ -201,7 +201,7 @@
           "description": "Update on Hiring Plans",
           "link": "https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989?gi=6dc27ca85f94",
           "publishedOn": "2022-06-03T00:30:04.000Z",
-          "wordCount": 777,
+          "wordCount": 789,
           "title": "Update on Hiring Plans",
           "imageUrl": "https://miro.medium.com/max/800/1*RY0LCqXTeMUWPb7Pl6S5Ww.png"
         }
