@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/gballet/multiproof-rs",
+          "author": null,
+          "description": "GitHub - gballet/multiproof-rs: A rust implementation of Alexey Akhunov's multiproof algorithm",
+          "link": "https://github.com/gballet/multiproof-rs",
+          "publishedOn": "2022-06-05T05:00:03.000Z",
+          "wordCount": 801,
+          "title": "GitHub - gballet/multiproof-rs: A rust implementation of Alexey Akhunov's multiproof algorithm",
+          "imageUrl": "https://opengraph.githubassets.com/499a32dcf2ee97f40944d2e52e19ab61cad38a8c14743b3d7ce0c7f36854cd12/gballet/multiproof-rs"
+        },
+        {
+          "id": "https://ethtx.info/",
+          "author": null,
+          "description": "EthDecoder",
+          "link": "https://ethtx.info/",
+          "publishedOn": "2022-06-05T05:00:03.000Z",
+          "wordCount": null,
+          "title": "EthDecoder",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf",
           "author": null,
           "description": "[PDF] sewtha.pdf",
@@ -23,16 +43,6 @@
           "publishedOn": "2022-06-05T03:30:03.000Z",
           "wordCount": 239269,
           "title": "[PDF] book.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "http://safe.ape.tax/",
-          "author": null,
-          "description": "Ape Safe: Gnosis Safe tx builder — Ape Safe 0.1.2 documentation",
-          "link": "http://safe.ape.tax/",
-          "publishedOn": "2022-06-05T03:00:04.000Z",
-          "wordCount": 136,
-          "title": "Ape Safe: Gnosis Safe tx builder — Ape Safe 0.1.2 documentation",
           "imageUrl": null
         },
         {
@@ -136,14 +146,14 @@
           "imageUrl": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fbb5bcdce-e361-11ec-8bdd-c253e043f5f0.jpg?crop=3631%2C2043%2C91%2C212&resize=1200"
         },
         {
-          "id": "https://engineering.messari.io/",
+          "id": "http://resiliencemaps.org/",
           "author": null,
-          "description": "Messari Engineering",
-          "link": "https://engineering.messari.io/",
-          "publishedOn": "2022-06-04T15:15:03.000Z",
-          "wordCount": 338,
-          "title": "Messari Engineering",
-          "imageUrl": "https://cdn.sanity.io/images/zf2ahfgc/production/ffb7c4f7b332df9fa77a90d96162acdd42f0768f-2400x1254.png"
+          "description": "Resilience Maps - Simple Critical Infrastructure Maps",
+          "link": "http://resiliencemaps.org/",
+          "publishedOn": "2022-06-04T16:00:03.000Z",
+          "wordCount": 191,
+          "title": "Resilience Maps - Simple Critical Infrastructure Maps",
+          "imageUrl": null
         },
         {
           "id": "https://claim.lens.xyz/",
@@ -161,19 +171,9 @@
           "description": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
           "link": "https://www.linkedin.com/posts/ashutosh-ukey-971422124_update-on-hiring-plans-activity-6938274270410129408-kgKp/",
           "publishedOn": "2022-06-04T10:30:03.000Z",
-          "wordCount": 589,
+          "wordCount": 620,
           "title": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
-          "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/D5627AQHwTLjPr1pfZA/articleshare-shrink_800/0/1654364052899?e=1655010000&v=beta&t=bH4dNqr7DxNVwludA97VSH9gcOR9d_LGXknesw4abyE"
-        },
-        {
-          "id": "https://github.com/Anish-Agnihotri/goblinmode",
-          "author": null,
-          "description": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
-          "link": "https://github.com/Anish-Agnihotri/goblinmode",
-          "publishedOn": "2022-06-04T05:30:02.000Z",
-          "wordCount": 661,
-          "title": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
-          "imageUrl": "https://opengraph.githubassets.com/d3e17c6e627d55d71e4866075974bfc4905c3bdac5be9f752812da2722c26eb7/Anish-Agnihotri/goblinmode"
+          "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/D5627AQHwTLjPr1pfZA/articleshare-shrink_800/0/1654404907666?e=1655013600&v=beta&t=LDa3bGP0Ut1Ys7NEEaBfQUKxkNtgABUNi4ffZBFbAws"
         },
         {
           "id": "https://www.zkcrush.xyz/",
