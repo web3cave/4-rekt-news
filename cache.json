@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf",
+          "author": null,
+          "description": "[PDF] sewtha.pdf",
+          "link": "http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf",
+          "publishedOn": "2022-06-05T03:30:04.000Z",
+          "wordCount": 324513,
+          "title": "[PDF] sewtha.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.inference.org.uk/itprnn/book.pdf",
+          "author": null,
+          "description": "[PDF] book.pdf",
+          "link": "https://www.inference.org.uk/itprnn/book.pdf",
+          "publishedOn": "2022-06-05T03:30:03.000Z",
+          "wordCount": 239269,
+          "title": "[PDF] book.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "http://safe.ape.tax/",
           "author": null,
           "description": "Ape Safe: Gnosis Safe tx builder — Ape Safe 0.1.2 documentation",
@@ -71,7 +91,7 @@
           "description": "Abu Dhabi to provide all women living in city free crypto domains",
           "link": "https://www.theblockcrypto.com/linked/150170/abu-dhabi-to-provide-all-women-living-in-city-free-crypto-domains?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-06-04T23:00:02.000Z",
-          "wordCount": 856,
+          "wordCount": 858,
           "title": "Abu Dhabi to provide all women living in city free crypto domains",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/10/shutterstock_1128415070.jpg"
         },
@@ -141,9 +161,9 @@
           "description": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
           "link": "https://www.linkedin.com/posts/ashutosh-ukey-971422124_update-on-hiring-plans-activity-6938274270410129408-kgKp/",
           "publishedOn": "2022-06-04T10:30:03.000Z",
-          "wordCount": 562,
+          "wordCount": 589,
           "title": "Ashutosh Ukey on LinkedIn: Update on Hiring Plans | 517 comments",
-          "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/D5627AQHwTLjPr1pfZA/articleshare-shrink_800/0/1654364052899?e=1655006400&v=beta&t=3t-OmS2OS-HO-Wdtr3HXD03a2Pryk6IwoD7b2Mi37gc"
+          "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/D5627AQHwTLjPr1pfZA/articleshare-shrink_800/0/1654364052899?e=1655010000&v=beta&t=bH4dNqr7DxNVwludA97VSH9gcOR9d_LGXknesw4abyE"
         },
         {
           "id": "https://github.com/Anish-Agnihotri/goblinmode",
@@ -153,17 +173,7 @@
           "publishedOn": "2022-06-04T05:30:02.000Z",
           "wordCount": 661,
           "title": "GitHub - Anish-Agnihotri/goblinmode: Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
-          "imageUrl": "https://opengraph.githubassets.com/cd7e18f7d88b26bc8ee3416b50322c5303370cf6abe8234b8798ab6314ddcd15/Anish-Agnihotri/goblinmode"
-        },
-        {
-          "id": "https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/",
-          "author": null,
-          "description": "The Department of Justice Goes After Its First NFT Insider Trading Case - Unchained Podcast",
-          "link": "https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/",
-          "publishedOn": "2022-06-04T05:00:03.000Z",
-          "wordCount": 341,
-          "title": "The Department of Justice Goes After Its First NFT Insider Trading Case - Unchained Podcast",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/06/UN359-social.jpg"
+          "imageUrl": "https://opengraph.githubassets.com/d3e17c6e627d55d71e4866075974bfc4905c3bdac5be9f752812da2722c26eb7/Anish-Agnihotri/goblinmode"
         },
         {
           "id": "https://www.zkcrush.xyz/",
@@ -184,16 +194,6 @@
           "wordCount": 348,
           "title": "Chaos",
           "imageUrl": "/images/chaos_opengraph.jpg"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/06/03/ropsten-merge-ttd/",
-          "author": null,
-          "description": "Ropsten TTD Announcement",
-          "link": "https://blog.ethereum.org/2022/06/03/ropsten-merge-ttd/",
-          "publishedOn": "2022-06-03T17:00:02.000Z",
-          "wordCount": 1320,
-          "title": "Ropsten TTD Announcement",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         },
         {
           "id": "https://mirror.xyz/herndondryhurst.eth/S-W2ZXRbrcy8bVGrKwMXSou63gWir7RJ9xs6wUn_h-0",

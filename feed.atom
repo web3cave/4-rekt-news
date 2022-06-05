@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-05T03:14:19.415Z</id>
+    <id>urn:2022-06-05T04:25:19.223Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-05T03:14:19.415Z</updated>
+    <updated>2022-06-05T04:25:19.223Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] sewtha.pdf]]></title>
+        <id>http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf</id>
+        <link href="http://www.inference.org.uk/sustainable/book/tex/sewtha.pdf"/>
+        <updated>2022-06-05T03:30:04.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] sewtha.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] book.pdf]]></title>
+        <id>https://www.inference.org.uk/itprnn/book.pdf</id>
+        <link href="https://www.inference.org.uk/itprnn/book.pdf"/>
+        <updated>2022-06-05T03:30:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] book.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ape Safe: Gnosis Safe tx builder — Ape Safe 0.1.2 documentation]]></title>
         <id>http://safe.ape.tax/</id>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Department of Justice Goes After Its First NFT Insider Trading Case - Unchained Podcast]]></title>
-        <id>https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/</id>
-        <link href="https://unchainedpodcast.com/the-department-of-justice-goes-after-its-first-nft-insider-trading-case/"/>
-        <updated>2022-06-04T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Justice Goes After Its First NFT Insider Trading Case - Unchained Podcast]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zk-Crush]]></title>
         <id>https://www.zkcrush.xyz/</id>
         <link href="https://www.zkcrush.xyz/"/>
@@ -181,16 +191,6 @@
         <link href="https://chaos.build/"/>
         <updated>2022-06-03T22:30:04.000Z</updated>
         <summary type="html"><![CDATA[Chaos]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ropsten TTD Announcement]]></title>
-        <id>https://blog.ethereum.org/2022/06/03/ropsten-merge-ttd/</id>
-        <link href="https://blog.ethereum.org/2022/06/03/ropsten-merge-ttd/"/>
-        <updated>2022-06-03T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Ropsten TTD Announcement]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
