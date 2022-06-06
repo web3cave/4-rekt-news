@@ -6,34 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://lu.ma/dickbuttball",
+          "id": "https://blog.ethereum.org/2022/06/01/may-22-grantee-roundup/",
           "author": null,
-          "description": "The CryptoDickbutt Ball",
-          "link": "https://lu.ma/dickbuttball",
-          "publishedOn": "2022-06-06T15:00:05.000Z",
-          "wordCount": 349,
-          "title": "The CryptoDickbutt Ball",
-          "imageUrl": "https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/gu/ce5aad1f-2f19-4c96-ad62-b66bc367708a"
+          "description": "Grantee Roundup: May 2022",
+          "link": "https://blog.ethereum.org/2022/06/01/may-22-grantee-roundup/",
+          "publishedOn": "2022-06-06T16:00:03.000Z",
+          "wordCount": 1204,
+          "title": "Grantee Roundup: May 2022",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/crude-hits-3-month-high-after-saudis-raise-oil-prices-more-expected-easing-chinese",
+          "id": "https://www.youtube.com/watch?v=9Qcc1pTcSgg&feature=youtu.be",
           "author": null,
-          "description": "Crude Hits 3-Month High After Saudis Raise Oil Prices More Than Expected On Easing Chinese Restrictions | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/crude-hits-3-month-high-after-saudis-raise-oil-prices-more-expected-easing-chinese",
-          "publishedOn": "2022-06-06T15:00:05.000Z",
-          "wordCount": 740,
-          "title": "Crude Hits 3-Month High After Saudis Raise Oil Prices More Than Expected On Easing Chinese Restrictions | ZeroHedge",
+          "description": "10min crypto pitch, Layer 2's burning ETH and more - The Daily Gwei Refuel #379 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=9Qcc1pTcSgg&feature=youtu.be",
+          "publishedOn": "2022-06-06T16:00:02.000Z",
+          "wordCount": null,
+          "title": "10min crypto pitch, Layer 2's burning ETH and more - The Daily Gwei Refuel #379 - Ethereum Updates",
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/biden-badly-under-water-all-top-issues-abc-poll-finds",
+          "id": "https://voting.gitcoin.co/",
           "author": null,
-          "description": "Biden \"Badly Under Water On All Of The Top Issues\"; ABC Poll Finds | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/biden-badly-under-water-all-top-issues-abc-poll-finds",
-          "publishedOn": "2022-06-06T15:00:05.000Z",
-          "wordCount": 627,
-          "title": "Biden \"Badly Under Water On All Of The Top Issues\"; ABC Poll Finds | ZeroHedge",
+          "description": "Gitcoin Conviction Voting",
+          "link": "https://voting.gitcoin.co/",
+          "publishedOn": "2022-06-06T15:30:04.000Z",
+          "wordCount": 11,
+          "title": "Gitcoin Conviction Voting",
           "imageUrl": null
+        },
+        {
+          "id": "https://gitcoin.co/grants/",
+          "author": null,
+          "description": "Grants",
+          "link": "https://gitcoin.co/grants/",
+          "publishedOn": "2022-06-06T15:30:04.000Z",
+          "wordCount": 737,
+          "title": "Grants",
+          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1.jpg"
+        },
+        {
+          "id": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM",
+          "author": null,
+          "description": "Introducing Delegatable Ethereum",
+          "link": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM",
+          "publishedOn": "2022-06-06T15:30:03.000Z",
+          "wordCount": 1826,
+          "title": "Introducing Delegatable Ethereum",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/wRBQ-n2GdCbUFj9MzvMEg.jpeg?height=700&width=1400&h=700&w=1400&auto=compress"
         },
         {
           "id": "https://vitalik.ca/general/2021/09/26/limits.html",
@@ -76,24 +96,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*pK7SD7I6KP1dE7lV"
         },
         {
-          "id": "https://www.zerohedge.com/markets/austrian-monetary-gold-transfer-grom-london-switzerland-planned-2015-still-hasnt-arrived",
-          "author": null,
-          "description": "Austrian Monetary Gold Transfer From London To Switzerland, Planned In 2015, Still Hasn't Arrived | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/austrian-monetary-gold-transfer-grom-london-switzerland-planned-2015-still-hasnt-arrived",
-          "publishedOn": "2022-06-06T13:30:03.000Z",
-          "wordCount": 762,
-          "title": "Austrian Monetary Gold Transfer From London To Switzerland, Planned In 2015, Still Hasn't Arrived | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney",
           "author": null,
           "description": "How Binance became a hub for hackers, fraudsters and drug sellers",
           "link": "https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney",
           "publishedOn": "2022-06-06T13:30:02.000Z",
-          "wordCount": 4884,
+          "wordCount": 4898,
           "title": "How Binance became a hub for hackers, fraudsters and drug sellers",
-          "imageUrl": "https://www.reuters.com/investigates/special-report/assets/fintech-crypto-binance-dirtymoney/mastheads/binance-share.jpg?v=064311060622"
+          "imageUrl": "https://www.reuters.com/investigates/special-report/assets/fintech-crypto-binance-dirtymoney/mastheads/binance-share.jpg?v=591416060622"
         },
         {
           "id": "https://gov.gitcoin.co/t/proposal-fdd-season-14-budget-request/10658/37?u=lefterisjp",
@@ -126,16 +136,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba3eccbe-5808-481e-8a8b-6818f6e1e460_4290x2802.jpeg"
         },
         {
-          "id": "https://www.zerohedge.com/political/spanish-court-orders-mike-pompeo-testify-cia-plot-assassinate-assange",
-          "author": null,
-          "description": "Spanish Court Orders Mike Pompeo To Testify On CIA Plot To Kill Or Kidnap Assange | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/spanish-court-orders-mike-pompeo-testify-cia-plot-assassinate-assange",
-          "publishedOn": "2022-06-05T23:30:03.000Z",
-          "wordCount": 583,
-          "title": "Spanish Court Orders Mike Pompeo To Testify On CIA Plot To Kill Or Kidnap Assange | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nytimes.com/1979/10/18/archives/volcker-asserts-us-must-trim-living-standard-warns-of-inflation.html",
           "author": null,
           "description": "Volcker Asserts U.S. Must Trim Living Standard (Published 1979)",
@@ -161,7 +161,7 @@
           "description": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
           "link": "https://9now.nine.com.au/60-minutes/crypto-prices-expert-predicts-crash-is-only-going-to-get-worse/54fd9c01-710b-4b25-a78d-98f0efbca622",
           "publishedOn": "2022-06-05T21:30:02.000Z",
-          "wordCount": 715,
+          "wordCount": 721,
           "title": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
           "imageUrl": "https://imageresizer.static9.net.au/kO0kUhiO7p5tT27uwMugntSkHXQ=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F2b41327d-78d1-4454-aa02-6c899ccdc108"
         },
