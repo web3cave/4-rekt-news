@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/virtual-bar-distilleries-metaverse-11654526115",
+          "author": null,
+          "description": "You Can Now Belly Up to a Virtual Bar, But Don’t Expect to Get Tipsy",
+          "link": "https://www.wsj.com/articles/virtual-bar-distilleries-metaverse-11654526115",
+          "publishedOn": "2022-06-06T20:00:03.000Z",
+          "wordCount": 971,
+          "title": "You Can Now Belly Up to a Virtual Bar, But Don’t Expect to Get Tipsy",
+          "imageUrl": "https://images.wsj.net/im-557587/social"
+        },
+        {
+          "id": "https://decrypt.co/102072/what-it-means-to-be-chinese-in-crypto",
+          "author": null,
+          "description": "What It Means to Be Chinese in Crypto - Decrypt",
+          "link": "https://decrypt.co/102072/what-it-means-to-be-chinese-in-crypto",
+          "publishedOn": "2022-06-06T20:00:03.000Z",
+          "wordCount": 1255,
+          "title": "What It Means to Be Chinese in Crypto - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/christian-lue-2Juj2cXWB7U-unsplash-scaled-gID_2.jpg"
+        },
+        {
+          "id": "https://mint.pooltogether.com/",
+          "author": null,
+          "description": "Pooly NFTs - PoolTogether",
+          "link": "https://mint.pooltogether.com/",
+          "publishedOn": "2022-06-06T20:00:02.000Z",
+          "wordCount": 4,
+          "title": "Pooly NFTs - PoolTogether",
+          "imageUrl": "https://pooltogether.com/facebook-social-share-pooly@2x.png"
+        },
+        {
+          "id": "https://faucet.paradigm.xyz/",
+          "author": null,
+          "description": "Paradigm MultiFaucet | Bootstrap your testnet wallet",
+          "link": "https://faucet.paradigm.xyz/",
+          "publishedOn": "2022-06-06T19:30:03.000Z",
+          "wordCount": 339,
+          "title": "Paradigm MultiFaucet | Bootstrap your testnet wallet",
+          "imageUrl": "https://faucet.paradigm.xyz/meta.png"
+        },
+        {
           "id": "https://blockcrunch.substack.com/p/how-bridges-can-be-the-next-big-risk?sd=pf",
           "author": null,
           "description": "How Bridges Can Be the Next Big Risk in Crypto",
@@ -24,26 +64,6 @@
           "wordCount": null,
           "title": "121 - The Bear Market Gift | Vance Spencer",
           "imageUrl": null
-        },
-        {
-          "id": "https://forum.stacks.org/",
-          "author": null,
-          "description": "Stacks Forum",
-          "link": "https://forum.stacks.org/",
-          "publishedOn": "2022-06-06T19:00:08.000Z",
-          "wordCount": 402,
-          "title": "Stacks Forum",
-          "imageUrl": "https://forum.stacks.org/uploads/default/original/2X/e/e0febb91250250a68384aae4e7283794751200f0.svg"
-        },
-        {
-          "id": "https://kevinyu.substack.com/p/a-technical-commentary-on-desoc-part?sd=fs",
-          "author": null,
-          "description": "A Technical Commentary on DeSoc: Part I",
-          "link": "https://kevinyu.substack.com/p/a-technical-commentary-on-desoc-part?sd=fs",
-          "publishedOn": "2022-06-06T17:30:02.000Z",
-          "wordCount": 3569,
-          "title": "A Technical Commentary on DeSoc: Part I",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6390602f-e927-4d22-b117-850a09fbb7d9_1380x1042.png"
         },
         {
           "id": "https://www.paradigm.xyz/2022/06/joining-paradigm-18",
@@ -71,7 +91,7 @@
           "description": "GitHub - DanieleSalatti/gitcoin-grants-conviction: Conviction Voting applied to Gitcoin Grants - built with 🏗...",
           "link": "https://github.com/DanieleSalatti/gitcoin-grants-conviction",
           "publishedOn": "2022-06-06T17:00:03.000Z",
-          "wordCount": 1215,
+          "wordCount": 1328,
           "title": "GitHub - DanieleSalatti/gitcoin-grants-conviction: Conviction Voting applied to Gitcoin Grants - built with 🏗...",
           "imageUrl": "https://opengraph.githubassets.com/c2b65f4ae2fb6ad9a83f61f2999633ab87af696eeaf34112ccb1d0651571a4a1/DanieleSalatti/gitcoin-grants-conviction"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba3eccbe-5808-481e-8a8b-6818f6e1e460_4290x2802.jpeg"
         },
         {
-          "id": "https://www.nytimes.com/1979/10/18/archives/volcker-asserts-us-must-trim-living-standard-warns-of-inflation.html",
-          "author": null,
-          "description": "Volcker Asserts U.S. Must Trim Living Standard (Published 1979)",
-          "link": "https://www.nytimes.com/1979/10/18/archives/volcker-asserts-us-must-trim-living-standard-warns-of-inflation.html",
-          "publishedOn": "2022-06-05T23:30:03.000Z",
-          "wordCount": 876,
-          "title": "Volcker Asserts U.S. Must Trim Living Standard (Published 1979)",
-          "imageUrl": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1979"
-        },
-        {
           "id": "https://hackmd.io/@benjaminion/eth2_news",
           "author": null,
           "description": "What’s New in Eth2 - HackMD",
@@ -194,16 +204,6 @@
           "wordCount": 419,
           "title": "What’s New in Eth2 - HackMD",
           "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
-        },
-        {
-          "id": "https://9now.nine.com.au/60-minutes/crypto-prices-expert-predicts-crash-is-only-going-to-get-worse/54fd9c01-710b-4b25-a78d-98f0efbca622",
-          "author": null,
-          "description": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
-          "link": "https://9now.nine.com.au/60-minutes/crypto-prices-expert-predicts-crash-is-only-going-to-get-worse/54fd9c01-710b-4b25-a78d-98f0efbca622",
-          "publishedOn": "2022-06-05T21:30:02.000Z",
-          "wordCount": 718,
-          "title": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
-          "imageUrl": "https://imageresizer.static9.net.au/kO0kUhiO7p5tT27uwMugntSkHXQ=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F2b41327d-78d1-4454-aa02-6c899ccdc108"
         }
       ]
     }
