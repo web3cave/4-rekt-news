@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A2kWIa8wSC0&feature=youtu.be",
+          "author": null,
+          "description": "Indianapolis, 1968: Bobby Kennedy, Martin Luther King and a historic call for peace",
+          "link": "https://www.youtube.com/watch?v=A2kWIa8wSC0&feature=youtu.be",
+          "publishedOn": "2022-06-06T07:00:03.000Z",
+          "wordCount": null,
+          "title": "Indianapolis, 1968: Bobby Kennedy, Martin Luther King and a historic call for peace",
+          "imageUrl": null
+        },
+        {
           "id": "https://nifty.ink/",
           "author": null,
           "description": "🎨  Nifty Ink",
@@ -31,7 +41,7 @@
           "description": "GitHub - FuelLabs/fuel-specs: 📝 Specifications for the Fuel protocol and the Fuel Virtual Machine",
           "link": "https://github.com/FuelLabs/fuel-specs",
           "publishedOn": "2022-06-06T04:30:03.000Z",
-          "wordCount": 534,
+          "wordCount": 565,
           "title": "GitHub - FuelLabs/fuel-specs: 📝 Specifications for the Fuel protocol and the Fuel Virtual Machine",
           "imageUrl": "https://opengraph.githubassets.com/05318ae5d49acd1636c702a52f2f314130ef5b91b0a8b307f4730210057bcb93/FuelLabs/fuel-specs"
         },
@@ -44,16 +54,6 @@
           "wordCount": 1607,
           "title": "Introduction to Data Feeds | Chainlink Documentation",
           "imageUrl": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5fa2e075cfcf344baa0e9063_chainlink-open-graph-images_home%20(with%20illustration).png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ADSOVkujrI4",
-          "author": null,
-          "description": "The Biggest Web3 Opportunity That No One Is Talking About  Griff Green",
-          "link": "https://www.youtube.com/watch?v=ADSOVkujrI4",
-          "publishedOn": "2022-06-06T03:00:03.000Z",
-          "wordCount": null,
-          "title": "The Biggest Web3 Opportunity That No One Is Talking About  Griff Green",
-          "imageUrl": null
         },
         {
           "id": "https://pdaian.com/blog/mev-wat-do/",
@@ -73,16 +73,6 @@
           "publishedOn": "2022-06-06T02:30:02.000Z",
           "wordCount": 64982,
           "title": "[PDF] whitepaper-v2.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8zFJtPxKLRM",
-          "author": null,
-          "description": "You are the Universe - Alan Watts",
-          "link": "https://www.youtube.com/watch?v=8zFJtPxKLRM",
-          "publishedOn": "2022-06-06T01:30:03.000Z",
-          "wordCount": null,
-          "title": "You are the Universe - Alan Watts",
           "imageUrl": null
         },
         {
@@ -116,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/1979/10/18/archives/volcker-asserts-us-must-trim-living-standard-warns-of-inflation.html",
+          "author": null,
+          "description": "Volcker Asserts U.S. Must Trim Living Standard (Published 1979)",
+          "link": "https://www.nytimes.com/1979/10/18/archives/volcker-asserts-us-must-trim-living-standard-warns-of-inflation.html",
+          "publishedOn": "2022-06-05T23:30:03.000Z",
+          "wordCount": 876,
+          "title": "Volcker Asserts U.S. Must Trim Living Standard (Published 1979)",
+          "imageUrl": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1979"
+        },
+        {
           "id": "https://hackmd.io/@benjaminion/eth2_news",
           "author": null,
           "description": "What’s New in Eth2 - HackMD",
@@ -131,7 +131,7 @@
           "description": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
           "link": "https://9now.nine.com.au/60-minutes/crypto-prices-expert-predicts-crash-is-only-going-to-get-worse/54fd9c01-710b-4b25-a78d-98f0efbca622",
           "publishedOn": "2022-06-05T21:30:02.000Z",
-          "wordCount": 714,
+          "wordCount": 712,
           "title": "'You can't get rich for free': Why the $400 billion crypto crash is only going to get worse",
           "imageUrl": "https://imageresizer.static9.net.au/kO0kUhiO7p5tT27uwMugntSkHXQ=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F2b41327d-78d1-4454-aa02-6c899ccdc108"
         },
