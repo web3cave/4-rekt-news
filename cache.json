@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.thetwentyminutevc.com/podcast/ian-lee/",
+          "author": null,
+          "description": "20VC: Why DAOs Will Replace Venture Capital, What Existing Incumbent Venture Firms Can Do To Survive, The Biggest...",
+          "link": "https://www.thetwentyminutevc.com/podcast/ian-lee/",
+          "publishedOn": "2022-06-07T17:00:03.000Z",
+          "wordCount": 685,
+          "title": "20VC: Why DAOs Will Replace Venture Capital, What Existing Incumbent Venture Firms Can Do To Survive, The Biggest...",
+          "imageUrl": "https://www.thetwentyminutevc.com/wp-content/uploads/2022/06/Ian-Lee-Visuals.jpg"
+        },
+        {
+          "id": "https://bitwiseinvestments.com/crypto-funds/ball-multicoin-bitwise-metaverse-index-fund",
+          "author": null,
+          "description": "Ball Multicoin Bitwise Metaverse Index Fund",
+          "link": "https://bitwiseinvestments.com/crypto-funds/ball-multicoin-bitwise-metaverse-index-fund",
+          "publishedOn": "2022-06-07T17:00:03.000Z",
+          "wordCount": 2389,
+          "title": "Ball Multicoin Bitwise Metaverse Index Fund",
+          "imageUrl": "https://www.datocms-assets.com/62087/1651331508-ball-multicoin-bitwise-metaverse-index-fund.png?fit=max&fm=jpg&w=1000"
+        },
+        {
           "id": "https://avc.mirror.xyz/v5SNb1eUcJf8etvneL_Ud0y0nnCnRzxYOFbPN5tAiyM",
           "author": null,
           "description": "The Gillibrand Lummis Bill",
@@ -31,7 +51,7 @@
           "description": "Binance Refutes 'Skewed' Money Laundering Claims",
           "link": "https://www.coindesk.com/business/2022/06/07/binance-refutes-skewed-money-laundering-claims/",
           "publishedOn": "2022-06-07T16:00:04.000Z",
-          "wordCount": 945,
+          "wordCount": 967,
           "title": "Binance Refutes 'Skewed' Money Laundering Claims",
           "imageUrl": "https://www.coindesk.com/resizer/9i703_L4M4KuTv0prP5QO1nPvo8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZPYROL7YSJANPODYKD4CPTHKOY.jpg"
         },
@@ -96,22 +116,12 @@
           "imageUrl": "https://www.gillibrand.senate.gov/themes/gillibrand/images/sharelogo.jpg"
         },
         {
-          "id": "https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/",
-          "author": null,
-          "description": "How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting - Ep. 360 - Unchained Podcast",
-          "link": "https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/",
-          "publishedOn": "2022-06-07T14:00:03.000Z",
-          "wordCount": 354,
-          "title": "How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting - Ep. 360 - Unchained Podcast",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/06/07/the-decentralized-mystique/",
           "author": null,
           "description": "The Decentralized Mystique",
           "link": "https://www.coindesk.com/layer2/2022/06/07/the-decentralized-mystique/",
           "publishedOn": "2022-06-07T09:00:03.000Z",
-          "wordCount": 2243,
+          "wordCount": 2266,
           "title": "The Decentralized Mystique",
           "imageUrl": "https://www.coindesk.com/resizer/lDbAj80tIVwZ2_e9RmFhgvVJkVs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YR5QSIPXA5FRRIP5EUYR4OOAAM.jpeg"
         },
@@ -131,7 +141,7 @@
           "description": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/the-crypto-money-laundering-myth-and-the-machine-working-overtime-to-sell-a-false-narrative-421499824684903964",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 11379,
+          "wordCount": 11372,
           "title": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "BlockFi is raising a down round at $1 billion valuation: sources",
           "link": "https://www.theblockcrypto.com/post/150377/blockfi-is-raising-a-down-round-at-1-billion-valuation-sources",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 1067,
+          "wordCount": 1041,
           "title": "BlockFi is raising a down round at $1 billion valuation: sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Blockfi.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 339,
           "title": "Paradigm MultiFaucet | Bootstrap your testnet wallet",
           "imageUrl": "https://faucet.paradigm.xyz/meta.png"
-        },
-        {
-          "id": "https://hackmd.io/@benjaminion/eth2_news",
-          "author": null,
-          "description": "What’s New in Eth2 - HackMD",
-          "link": "https://hackmd.io/@benjaminion/eth2_news",
-          "publishedOn": "2022-06-05T23:00:03.000Z",
-          "wordCount": 419,
-          "title": "What’s New in Eth2 - HackMD",
-          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         }
       ]
     }
