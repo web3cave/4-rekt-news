@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-07T20:23:25.042Z</id>
+    <id>urn:2022-06-07T21:22:43.614Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-07T20:23:25.042Z</updated>
+    <updated>2022-06-07T21:22:43.614Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aurora Inflation Spend Bugfix Review: $6m Payout]]></title>
+        <id>https://medium.com/immunefi/aurora-infinite-spend-bugfix-review-6m-payout-e635d24273d</id>
+        <link href="https://medium.com/immunefi/aurora-infinite-spend-bugfix-review-6m-payout-e635d24273d"/>
+        <updated>2022-06-07T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Aurora Inflation Spend Bugfix Review: $6m Payout]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why run mev-boost? | Flashbots]]></title>
         <id>https://writings.flashbots.net/writings/why-run-mevboost/</id>
@@ -56,31 +66,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC Preparing Historic Overhaul Of Market Structure, Making Retail Frontrunning Virtually Impossible | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/sec-preparing-historic-overhaul-market-structure-making-retail-frontrunning-virtually</id>
-        <link href="https://www.zerohedge.com/markets/sec-preparing-historic-overhaul-market-structure-making-retail-frontrunning-virtually"/>
-        <updated>2022-06-07T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[SEC Preparing Historic Overhaul Of Market Structure, Making Retail Frontrunning Virtually Impossible | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dappcon 2022]]></title>
         <id>https://www.dappcon.io/#Tickets</id>
         <link href="https://www.dappcon.io/#Tickets"/>
         <updated>2022-06-07T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[Dappcon 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHNewYork (Jun 24-26, 2022) - New York's Premier Blockchain hackathon]]></title>
-        <id>https://nyc.ethglobal.com/</id>
-        <link href="https://nyc.ethglobal.com/"/>
-        <updated>2022-06-07T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[ETHNewYork (Jun 24-26, 2022) - New York's Premier Blockchain hackathon]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,6 +111,16 @@
         <link href="https://www.gillibrand.senate.gov/news/press/release/-lummis-gillibrand-introduce-landmark-legislation-to-create-regulatory-framework-for-digital-assets"/>
         <updated>2022-06-07T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Lummis, Gillibrand Introduce Landmark Legislation To Create Regulatory Framework For Digital Assets | Kirsten...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></title>
+        <id>https://www.nft.nyc/</id>
+        <link href="https://www.nft.nyc/"/>
+        <updated>2022-06-07T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
