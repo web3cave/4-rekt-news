@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://writings.flashbots.net/writings/why-run-mevboost/",
+          "author": null,
+          "description": "Why run mev-boost? | Flashbots",
+          "link": "https://writings.flashbots.net/writings/why-run-mevboost/",
+          "publishedOn": "2022-06-07T19:00:03.000Z",
+          "wordCount": 1526,
+          "title": "Why run mev-boost? | Flashbots",
+          "imageUrl": "https://writings.flashbots.net/img/space1.jpeg"
+        },
+        {
           "id": "https://www.thetwentyminutevc.com/podcast/ian-lee/",
           "author": null,
           "description": "20VC: Why DAOs Will Replace Venture Capital, What Existing Incumbent Venture Firms Can Do To Survive, The Biggest...",
@@ -21,7 +31,7 @@
           "description": "Ball Multicoin Bitwise Metaverse Index Fund",
           "link": "https://bitwiseinvestments.com/crypto-funds/ball-multicoin-bitwise-metaverse-index-fund",
           "publishedOn": "2022-06-07T17:00:03.000Z",
-          "wordCount": 2389,
+          "wordCount": 2393,
           "title": "Ball Multicoin Bitwise Metaverse Index Fund",
           "imageUrl": "https://www.datocms-assets.com/62087/1651331508-ball-multicoin-bitwise-metaverse-index-fund.png?fit=max&fm=jpg&w=1000"
         },
@@ -44,16 +54,6 @@
           "wordCount": 1489,
           "title": "SEC Preparing Historic Overhaul Of Market Structure, Making Retail Frontrunning Virtually Impossible | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/business/2022/06/07/binance-refutes-skewed-money-laundering-claims/",
-          "author": null,
-          "description": "Binance Refutes 'Skewed' Money Laundering Claims",
-          "link": "https://www.coindesk.com/business/2022/06/07/binance-refutes-skewed-money-laundering-claims/",
-          "publishedOn": "2022-06-07T16:00:04.000Z",
-          "wordCount": 981,
-          "title": "Binance Refutes 'Skewed' Money Laundering Claims",
-          "imageUrl": "https://www.coindesk.com/resizer/9i703_L4M4KuTv0prP5QO1nPvo8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZPYROL7YSJANPODYKD4CPTHKOY.jpg"
         },
         {
           "id": "https://www.dappcon.io/#Tickets",
@@ -91,7 +91,7 @@
           "description": "Letter in Support of Responsible Crypto Policy",
           "link": "https://www.financialinclusion.tech/",
           "publishedOn": "2022-06-07T15:00:03.000Z",
-          "wordCount": 1855,
+          "wordCount": 1856,
           "title": "Letter in Support of Responsible Crypto Policy",
           "imageUrl": "data:image/png;base64,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"
         },
@@ -131,7 +131,7 @@
           "description": "The Decentralized Mystique",
           "link": "https://www.coindesk.com/layer2/2022/06/07/the-decentralized-mystique/",
           "publishedOn": "2022-06-07T09:00:03.000Z",
-          "wordCount": 2282,
+          "wordCount": 2287,
           "title": "The Decentralized Mystique",
           "imageUrl": "https://www.coindesk.com/resizer/lDbAj80tIVwZ2_e9RmFhgvVJkVs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YR5QSIPXA5FRRIP5EUYR4OOAAM.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/the-crypto-money-laundering-myth-and-the-machine-working-overtime-to-sell-a-false-narrative-421499824684903964",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 11362,
+          "wordCount": 11360,
           "title": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "BlockFi is raising a down round at $1 billion valuation: sources",
           "link": "https://www.theblockcrypto.com/post/150377/blockfi-is-raising-a-down-round-at-1-billion-valuation-sources",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 1055,
+          "wordCount": 1059,
           "title": "BlockFi is raising a down round at $1 billion valuation: sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Blockfi.png"
         },
