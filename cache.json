@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nyc.ethglobal.com/",
+          "author": null,
+          "description": "ETHNewYork (Jun 24-26, 2022) - New York's Premier Blockchain hackathon",
+          "link": "https://nyc.ethglobal.com/",
+          "publishedOn": "2022-06-08T07:30:03.000Z",
+          "wordCount": 521,
+          "title": "ETHNewYork (Jun 24-26, 2022) - New York's Premier Blockchain hackathon",
+          "imageUrl": "https://nyc.ethglobal.com/img/og.jpg?v=2.0.0"
+        },
+        {
           "id": "https://www.circle.com/blog/announcing-support-for-polygon-usdc",
           "author": null,
           "description": "Announcing Support for Polygon USDC",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-06-08T05:00:03.000Z",
           "wordCount": 796,
           "title": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
-          "imageUrl": "https://opengraph.githubassets.com/28468d5bf3cee0ba1725b0073ac40b6e82353e5bbfaef5ed68af96fd518c50ef/banteg/ape-llamapay"
+          "imageUrl": "https://opengraph.githubassets.com/0440ee4c66bcbcd8558bc24af9534661de7664b1378d2697ad607427965bf9ac/banteg/ape-llamapay"
         },
         {
           "id": "https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%20Responsible%20Financial%20Innovation%20Act%20%5bFinal%5d.pdf",
@@ -81,7 +91,7 @@
           "description": "Ethereum's Ropsten test merge expected to initiate in next 48 hours",
           "link": "https://www.theblockcrypto.com/post/150450/ethereums-ropsten-test-merge-expected-to-initiate-in-next-48-hours",
           "publishedOn": "2022-06-07T18:00:04.000Z",
-          "wordCount": 1086,
+          "wordCount": 1085,
           "title": "Ethereum's Ropsten test merge expected to initiate in next 48 hours",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "Key US Senators Introduce Crypto Bill Outlining Sweeping Plan for Future Rules",
           "link": "https://www.coindesk.com/policy/2022/06/07/key-us-senators-introduce-bill-outlining-sweeping-plan-for-future-crypto-rules/",
           "publishedOn": "2022-06-07T13:00:02.000Z",
-          "wordCount": 1441,
+          "wordCount": 1439,
           "title": "Key US Senators Introduce Crypto Bill Outlining Sweeping Plan for Future Rules",
           "imageUrl": "https://www.coindesk.com/resizer/zYSVVq8YJsy9rsScYtpDGFUjQ7o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X3T7CVFEJBCKTJG7RFL34XFDDA.jpg"
         },
@@ -181,19 +191,9 @@
           "description": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/the-crypto-money-laundering-myth-and-the-machine-working-overtime-to-sell-a-false-narrative-421499824684903964",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 11381,
+          "wordCount": 11369,
           "title": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/150377/blockfi-is-raising-a-down-round-at-1-billion-valuation-sources",
-          "author": null,
-          "description": "BlockFi is raising a down round at $1 billion valuation: sources",
-          "link": "https://www.theblockcrypto.com/post/150377/blockfi-is-raising-a-down-round-at-1-billion-valuation-sources",
-          "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 1090,
-          "title": "BlockFi is raising a down round at $1 billion valuation: sources",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210305_Blockfi.png"
         },
         {
           "id": "https://atlendis.io/news/atlendis-labs-announces-the-launch-of-the-atlendis-protocol-v1/",
