@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-08T03:29:21.216Z</id>
+    <id>urn:2022-06-08T04:35:02.604Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-08T03:29:21.216Z</updated>
+    <updated>2022-06-08T04:35:02.604Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,10 +57,20 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Offline Cash]]></title>
-        <id>https://www.offline.cash/?referral=mkh5hgz&amp;refSource=copy</id>
-        <link href="https://www.offline.cash/?referral=mkh5hgz&amp;refSource=copy"/>
+        <id>https://www.offline.cash/</id>
+        <link href="https://www.offline.cash/"/>
         <updated>2022-06-07T18:00:04.000Z</updated>
         <summary type="html"><![CDATA[Offline Cash]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum's Ropsten test merge expected to initiate in next 48 hours]]></title>
+        <id>https://www.theblockcrypto.com/post/150450/ethereums-ropsten-test-merge-expected-to-initiate-in-next-48-hours</id>
+        <link href="https://www.theblockcrypto.com/post/150450/ethereums-ropsten-test-merge-expected-to-initiate-in-next-48-hours"/>
+        <updated>2022-06-07T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's Ropsten test merge expected to initiate in next 48 hours]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://atlendis.io/news/atlendis-labs-announces-the-launch-of-the-atlendis-protocol-v1/"/>
         <updated>2022-06-07T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Atlendis Labs Announces the Launch of the Atlendis Protocol V1 | Atlendis]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVCON VI: Applications Online, Participation Details Inside [ENG/ESP]]]></title>
-        <id>https://blog.ethereum.org/2022/06/06/devcon-vi-details/</id>
-        <link href="https://blog.ethereum.org/2022/06/06/devcon-vi-details/"/>
-        <updated>2022-06-07T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[DEVCON VI: Applications Online, Participation Details Inside [ENG/ESP]]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
