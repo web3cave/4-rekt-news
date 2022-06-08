@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://wenmerge.com/",
+          "author": null,
+          "description": "Follow The Merge - Ethereum",
+          "link": "https://wenmerge.com/",
+          "publishedOn": "2022-06-08T10:30:03.000Z",
+          "wordCount": 168,
+          "title": "Follow The Merge - Ethereum",
+          "imageUrl": "https://wenmerge.com/wp-content/uploads/2022/03/Screenshot-2022-03-15-at-16-23-42-Follow-The-Merge-Ethereum.png"
+        },
+        {
           "id": "https://nyc.ethglobal.com/",
           "author": null,
           "description": "ETHNewYork (Jun 24-26, 2022) - New York's Premier Blockchain hackathon",
@@ -33,7 +43,17 @@
           "publishedOn": "2022-06-08T05:00:03.000Z",
           "wordCount": 796,
           "title": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
-          "imageUrl": "https://opengraph.githubassets.com/f88aed611a43ad7c16e9cc1fc1cfb4afdf08cf42c7b5b15670ffa2dbbc084e67/banteg/ape-llamapay"
+          "imageUrl": "https://opengraph.githubassets.com/ffd9ad08e14d556d545af741a38b8a33b26f73e1807c9a6792a924051accb865/banteg/ape-llamapay"
+        },
+        {
+          "id": "https://www.paradigm.xyz/2022/06/evaluating-web3-job-opportunities-like-an-investor",
+          "author": null,
+          "description": "Evaluating Web3 job opportunities like an investor - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/06/evaluating-web3-job-opportunities-like-an-investor",
+          "publishedOn": "2022-06-08T04:30:05.000Z",
+          "wordCount": 961,
+          "title": "Evaluating Web3 job opportunities like an investor - Paradigm",
+          "imageUrl": "https://paradigm.xyz/meta.png"
         },
         {
           "id": "https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%20Responsible%20Financial%20Innovation%20Act%20%5bFinal%5d.pdf",
@@ -51,29 +71,9 @@
           "description": "How AVAX Will Accrue Value As It Scales Web 3.0",
           "link": "https://medium.com/@anotherfawks/how-avax-will-accrue-value-as-it-scales-web-3-0-2b6a606f81a7",
           "publishedOn": "2022-06-08T01:00:03.000Z",
-          "wordCount": 1379,
+          "wordCount": 1378,
           "title": "How AVAX Will Accrue Value As It Scales Web 3.0",
           "imageUrl": "https://miro.medium.com/max/1200/0*GIe_7hecqHCPHz_S"
-        },
-        {
-          "id": "https://medium.com/@jpegd/bored-ape-yacht-club-mutant-ape-yacht-club-lending-is-live-b24261d20eb6",
-          "author": null,
-          "description": "Bored Ape Yacht Club & Mutant Ape Yacht Club Lending Is Live!",
-          "link": "https://medium.com/@jpegd/bored-ape-yacht-club-mutant-ape-yacht-club-lending-is-live-b24261d20eb6",
-          "publishedOn": "2022-06-08T01:00:03.000Z",
-          "wordCount": 312,
-          "title": "Bored Ape Yacht Club & Mutant Ape Yacht Club Lending Is Live!",
-          "imageUrl": "https://miro.medium.com/max/1200/1*AH1ADZBBuAoYZHerXJul_Q.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6T0phKwkGL8&feature=youtu.be",
-          "author": null,
-          "description": "Delphi Digital's Mars Protocol to Build Money Market Lending on Top of Osmosis Amid Terra Implosion",
-          "link": "https://www.youtube.com/watch?v=6T0phKwkGL8&feature=youtu.be",
-          "publishedOn": "2022-06-08T01:00:03.000Z",
-          "wordCount": null,
-          "title": "Delphi Digital's Mars Protocol to Build Money Market Lending on Top of Osmosis Amid Terra Implosion",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/immunefi/aurora-infinite-spend-bugfix-review-6m-payout-e635d24273d",
@@ -111,7 +111,7 @@
           "description": "Ethereum's Ropsten test merge expected to initiate in next 48 hours",
           "link": "https://www.theblockcrypto.com/post/150450/ethereums-ropsten-test-merge-expected-to-initiate-in-next-48-hours",
           "publishedOn": "2022-06-07T18:00:04.000Z",
-          "wordCount": 1058,
+          "wordCount": 1060,
           "title": "Ethereum's Ropsten test merge expected to initiate in next 48 hours",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
         },
