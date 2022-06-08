@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/banteg/ape-llamapay",
+          "author": null,
+          "description": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
+          "link": "https://github.com/banteg/ape-llamapay",
+          "publishedOn": "2022-06-08T05:00:03.000Z",
+          "wordCount": 796,
+          "title": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
+          "imageUrl": "https://opengraph.githubassets.com/6496ba5708d20816b2ddabf2d45e9c3922d2b4e85f0c350becc70affbe43dd16/banteg/ape-llamapay"
+        },
+        {
           "id": "https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%20Responsible%20Financial%20Innovation%20Act%20%5bFinal%5d.pdf",
           "author": null,
           "description": "[PDF] Lummis-Gillibrand Responsible Financial Innovation Act [Final].pdf",
@@ -24,16 +34,6 @@
           "wordCount": 1379,
           "title": "How AVAX Will Accrue Value As It Scales Web 3.0",
           "imageUrl": "https://miro.medium.com/max/1200/0*GIe_7hecqHCPHz_S"
-        },
-        {
-          "id": "https://medium.com/@jpegd/bored-ape-yacht-club-mutant-ape-yacht-club-lending-is-live-b24261d20eb6",
-          "author": null,
-          "description": "Bored Ape Yacht Club & Mutant Ape Yacht Club Lending Is Live!",
-          "link": "https://medium.com/@jpegd/bored-ape-yacht-club-mutant-ape-yacht-club-lending-is-live-b24261d20eb6",
-          "publishedOn": "2022-06-08T01:00:03.000Z",
-          "wordCount": 312,
-          "title": "Bored Ape Yacht Club & Mutant Ape Yacht Club Lending Is Live!",
-          "imageUrl": "https://miro.medium.com/max/1200/1*AH1ADZBBuAoYZHerXJul_Q.png"
         },
         {
           "id": "https://medium.com/immunefi/aurora-infinite-spend-bugfix-review-6m-payout-e635d24273d",
@@ -161,7 +161,7 @@
           "description": "Key US Senators Introduce Crypto Bill Outlining Sweeping Plan for Future Rules",
           "link": "https://www.coindesk.com/policy/2022/06/07/key-us-senators-introduce-bill-outlining-sweeping-plan-for-future-crypto-rules/",
           "publishedOn": "2022-06-07T13:00:02.000Z",
-          "wordCount": 1458,
+          "wordCount": 1444,
           "title": "Key US Senators Introduce Crypto Bill Outlining Sweeping Plan for Future Rules",
           "imageUrl": "https://www.coindesk.com/resizer/zYSVVq8YJsy9rsScYtpDGFUjQ7o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X3T7CVFEJBCKTJG7RFL34XFDDA.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/the-crypto-money-laundering-myth-and-the-machine-working-overtime-to-sell-a-false-narrative-421499824684903964",
           "publishedOn": "2022-06-07T09:00:02.000Z",
-          "wordCount": 11364,
+          "wordCount": 11365,
           "title": "The Crypto Money Laundering Myth and the Machine Working Overtime to Sell a False Narrative | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/static/images/common/ogImage.jpg"
         },
