@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://solana.com/news/06-01-22-solana-mainnet-beta-outage-report-2",
+          "author": null,
+          "description": "06-01-22 Solana Mainnet Beta Outage Report",
+          "link": "https://solana.com/news/06-01-22-solana-mainnet-beta-outage-report-2",
+          "publishedOn": "2022-06-09T02:30:04.000Z",
+          "wordCount": 693,
+          "title": "06-01-22 Solana Mainnet Beta Outage Report",
+          "imageUrl": "https://solana.ghost.io/content/images/2022/06/Screen-Shot-2022-05-02-at-8-1.webp"
+        },
+        {
           "id": "https://mirror.xyz/banteg.eth/iZAsBNL3j_5NIAY2Erav1r7Q4ecc7SC76AfMjyScs34",
           "author": null,
           "description": "🔴 How did a hacker steal OP?",
           "link": "https://mirror.xyz/banteg.eth/iZAsBNL3j_5NIAY2Erav1r7Q4ecc7SC76AfMjyScs34",
           "publishedOn": "2022-06-09T01:00:03.000Z",
-          "wordCount": 250,
+          "wordCount": 251,
           "title": "🔴 How did a hacker steal OP?",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/pPUX1HcLAMXg_UShupz0v.png?h=845&w=845"
         },
@@ -31,7 +41,7 @@
           "description": "Message to Optimism community from Wintermute",
           "link": "https://gov.optimism.io/t/message-to-optimism-community-from-wintermute/2595",
           "publishedOn": "2022-06-09T01:00:02.000Z",
-          "wordCount": 1752,
+          "wordCount": 1757,
           "title": "Message to Optimism community from Wintermute",
           "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
         },
@@ -174,16 +184,6 @@
           "wordCount": 590,
           "title": "ApeFest 2022 in NYC",
           "imageUrl": "https://apefest.com/og-share.jpg"
-        },
-        {
-          "id": "https://github.com/banteg/ape-llamapay",
-          "author": null,
-          "description": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
-          "link": "https://github.com/banteg/ape-llamapay",
-          "publishedOn": "2022-06-08T05:00:03.000Z",
-          "wordCount": 726,
-          "title": "GitHub - banteg/ape-llamapay: ape sdk for llamapay",
-          "imageUrl": "https://opengraph.githubassets.com/b4a46d343666bae24ca6120c2b6148dff6aa20617ff7e900d6d2e46fcb844e0b/banteg/ape-llamapay"
         },
         {
           "id": "https://www.paradigm.xyz/2022/06/evaluating-web3-job-opportunities-like-an-investor",
