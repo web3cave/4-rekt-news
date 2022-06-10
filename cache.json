@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://alphameta.rtfkt.com/",
+          "author": null,
+          "description": "RTKFT x BYREDO",
+          "link": "https://alphameta.rtfkt.com/",
+          "publishedOn": "2022-06-10T16:30:02.000Z",
+          "wordCount": 5,
+          "title": "RTKFT x BYREDO",
+          "imageUrl": "https://alphameta.rtfkt.com/assets/share.png"
+        },
+        {
           "id": "https://github.com/ethereum/pm/issues/538",
           "author": null,
           "description": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/538",
           "publishedOn": "2022-06-10T15:00:04.000Z",
-          "wordCount": 1108,
+          "wordCount": 1109,
           "title": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/cfe38b6cdd0ca17655d1c6d5ffd80fa5ca087bfa0f67fa8d238f205e0cf0d5d0/ethereum/pm/issues/538"
         },
@@ -71,7 +81,7 @@
           "description": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "link": "https://nypost.com/2022/06/09/biden-approval-at-22-among-young-adults-24-among-hispanics-poll/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-06-10T05:00:03.000Z",
-          "wordCount": 1504,
+          "wordCount": 1501,
           "title": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/Biden-Poll-June9-v1.jpg?quality=75&strip=all&w=1024"
         },
@@ -194,16 +204,6 @@
           "wordCount": 1719,
           "title": "World electricity consumption | Statista",
           "imageUrl": "https://cdn.statcdn.com/Statistic/280000/280704-blank-355.png"
-        },
-        {
-          "id": "https://gitcoin.co/grants/",
-          "author": null,
-          "description": "Grants",
-          "link": "https://gitcoin.co/grants/",
-          "publishedOn": "2022-06-08T17:30:04.000Z",
-          "wordCount": 933,
-          "title": "Grants",
-          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1.jpg"
         }
       ]
     }
