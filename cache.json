@@ -6,34 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-mike-pence-service-democracy/661224/",
+          "author": null,
+          "description": "Mike Pence Is an American Hero",
+          "link": "https://www.theatlantic.com/ideas/archive/2022/06/january-6-hearings-mike-pence-service-democracy/661224/",
+          "publishedOn": "2022-06-10T20:00:07.000Z",
+          "wordCount": 1252,
+          "title": "Mike Pence Is an American Hero",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/tCX9X9LBIaxQnbXdvMoDQj5H8j4=/0x0:2396x1248/1200x625/media/img/mt/2022/06/pence/original.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=31690452",
           "author": null,
           "description": "Coinbase employees petition to remove execs | Hacker News",
           "link": "https://news.ycombinator.com/item?id=31690452",
           "publishedOn": "2022-06-10T18:30:03.000Z",
-          "wordCount": 20143,
+          "wordCount": 19826,
           "title": "Coinbase employees petition to remove execs | Hacker News",
           "imageUrl": null
-        },
-        {
-          "id": "https://compound.morpho.xyz/",
-          "author": null,
-          "description": "Markets | Morpho",
-          "link": "https://compound.morpho.xyz/",
-          "publishedOn": "2022-06-10T18:30:03.000Z",
-          "wordCount": 18,
-          "title": "Markets | Morpho",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/morpho-labs/releasing-morpho-compound-163959c43bc2",
-          "author": null,
-          "description": "Releasing Morpho-Compound",
-          "link": "https://medium.com/morpho-labs/releasing-morpho-compound-163959c43bc2",
-          "publishedOn": "2022-06-10T18:30:03.000Z",
-          "wordCount": 359,
-          "title": "Releasing Morpho-Compound",
-          "imageUrl": "https://miro.medium.com/max/1200/1*E2sM272BH8MbEmi4XAj4Mw.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=KBZP4rLk6bk",
@@ -61,9 +51,19 @@
           "description": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/538",
           "publishedOn": "2022-06-10T15:00:04.000Z",
-          "wordCount": 1112,
+          "wordCount": 1114,
           "title": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/cfe38b6cdd0ca17655d1c6d5ffd80fa5ca087bfa0f67fa8d238f205e0cf0d5d0/ethereum/pm/issues/538"
+        },
+        {
+          "id": "https://mhonkasalo.substack.com/p/stetheth-peg-not-a-peg-presents-a?s=w",
+          "author": null,
+          "description": "stETHETH peg (not a peg) presents a dilemma and opportunity for ETH bulls",
+          "link": "https://mhonkasalo.substack.com/p/stetheth-peg-not-a-peg-presents-a?s=w",
+          "publishedOn": "2022-06-10T15:00:03.000Z",
+          "wordCount": 1065,
+          "title": "stETH<>ETH peg (not a peg) presents a dilemma and opportunity for ETH bulls",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d74b2ce-1d3d-4ccb-bfba-e49e722eb9d5_1939x562.png"
         },
         {
           "id": "https://www.zerohedge.com/crypto/where-most-nft-users-live-may-surprise-you",
@@ -136,6 +136,16 @@
           "imageUrl": "https://matthewdgreen.files.wordpress.com/2022/06/5475007932_ebcd5cbcbf_c.jpg"
         },
         {
+          "id": "https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces/",
+          "author": null,
+          "description": "Mastercard brings its payments network to Web3 and NFTs",
+          "link": "https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces/",
+          "publishedOn": "2022-06-10T03:30:04.000Z",
+          "wordCount": 756,
+          "title": "Mastercard brings its payments network to Web3 and NFTs",
+          "imageUrl": "https://www.mastercard.com/news/media/so3kn5jc/adobestock_481992223.jpeg"
+        },
+        {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
           "author": null,
           "description": "Unchained Podcast - YouTube",
@@ -144,16 +154,6 @@
           "wordCount": 14,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
-          "id": "https://party.mirror.xyz/MFSokSaKwBD7KBCxHFRuHADZ2y8xSdSu-cNJykXJIVo",
-          "author": null,
-          "description": "All Aboard! The PartyDAO Adventure Continues",
-          "link": "https://party.mirror.xyz/MFSokSaKwBD7KBCxHFRuHADZ2y8xSdSu-cNJykXJIVo",
-          "publishedOn": "2022-06-09T19:00:02.000Z",
-          "wordCount": 495,
-          "title": "All Aboard! The PartyDAO Adventure Continues",
-          "imageUrl": "https://mirror-media.imgix.net/nft/_MUlm2BMwSsHHjRI1oEUP.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://mirror.xyz/sartoshi.eth/VQB_rWveDQuut4GQKcFA6aqL9hM3rS7raYwsW3UfdLA",
