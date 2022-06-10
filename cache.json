@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://tatsu.gg/",
+          "author": null,
+          "description": "Tatsu - Free Discord Economy & Leveling Bot",
+          "link": "https://tatsu.gg/",
+          "publishedOn": "2022-06-10T14:00:04.000Z",
+          "wordCount": 329,
+          "title": "Tatsu - Free Discord Economy & Leveling Bot",
+          "imageUrl": "https://media.discordapp.net/attachments/744458825301753938/859442454730506250/Tatsu_-_Your_Community_Engagement_Platform.png?width=1920&height=755"
+        },
+        {
           "id": "http://www.okushizuoka.jp/live/7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
           "author": null,
           "description": "[PDF] 7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
@@ -41,7 +51,7 @@
           "description": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "link": "https://nypost.com/2022/06/09/biden-approval-at-22-among-young-adults-24-among-hispanics-poll/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-06-10T05:00:03.000Z",
-          "wordCount": 1498,
+          "wordCount": 1501,
           "title": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/Biden-Poll-June9-v1.jpg?quality=75&strip=all&w=1024"
         },
@@ -56,22 +66,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/solana-labs/solana/issues/25787",
-          "author": null,
-          "description": "Nonce account migration and re-enabling durable nonce transactions · Issue #25787 · solana-labs/solana",
-          "link": "https://github.com/solana-labs/solana/issues/25787",
-          "publishedOn": "2022-06-10T05:00:03.000Z",
-          "wordCount": 1536,
-          "title": "Nonce account migration and re-enabling durable nonce transactions · Issue #25787 · solana-labs/solana",
-          "imageUrl": "https://opengraph.githubassets.com/210e613512f4b7ae0f5986fa307a3326abe3fe8204f43daee68831658f130a03/solana-labs/solana/issues/25787"
-        },
-        {
           "id": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "author": null,
           "description": "In defense of crypto(currency)",
           "link": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "publishedOn": "2022-06-10T04:30:03.000Z",
-          "wordCount": 5955,
+          "wordCount": 6112,
           "title": "In defense of crypto(currency)",
           "imageUrl": "https://matthewdgreen.files.wordpress.com/2022/06/5475007932_ebcd5cbcbf_c.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
           "link": "https://www.theblockcrypto.com/post/151010/yuga-labs-wants-apecoin-on-its-own-blockchain-apecoin-owners-think-otherwise",
           "publishedOn": "2022-06-09T13:00:04.000Z",
-          "wordCount": 1303,
+          "wordCount": 1310,
           "title": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220631_BAYC_Generic2.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "World electricity consumption | Statista",
           "link": "https://www.statista.com/statistics/280704/world-power-consumption/",
           "publishedOn": "2022-06-09T11:00:05.000Z",
-          "wordCount": 1719,
+          "wordCount": 1691,
           "title": "World electricity consumption | Statista",
           "imageUrl": "https://cdn.statcdn.com/Statistic/280000/280704-blank-355.png"
         },
