@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T07:21:20.298Z</id>
+    <id>urn:2022-06-10T08:25:58.269Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T07:21:20.298Z</updated>
+    <updated>2022-06-10T08:25:58.269Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -166,21 +166,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Energy Consumption Index - Digiconomist]]></title>
-        <id>https://digiconomist.net/bitcoin-energy-consumption</id>
-        <link href="https://digiconomist.net/bitcoin-energy-consumption"/>
-        <updated>2022-06-09T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Energy Consumption Index - Digiconomist]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ethereum Energy Consumption Index - Digiconomist]]></title>
         <id>https://digiconomist.net/ethereum-energy-consumption</id>
         <link href="https://digiconomist.net/ethereum-energy-consumption"/>
         <updated>2022-06-09T11:30:04.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Energy Consumption Index - Digiconomist]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Energy Consumption Index - Digiconomist]]></title>
+        <id>https://digiconomist.net/bitcoin-energy-consumption</id>
+        <link href="https://digiconomist.net/bitcoin-energy-consumption"/>
+        <updated>2022-06-09T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Energy Consumption Index - Digiconomist]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
