@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://www.okushizuoka.jp/live/7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
+          "author": null,
+          "description": "[PDF] 7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
+          "link": "http://www.okushizuoka.jp/live/7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
+          "publishedOn": "2022-06-10T11:00:03.000Z",
+          "wordCount": 2402,
+          "title": "[PDF] 7bb5ef44d8073760c67a2c3c7cffefffdbf14b14.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedailygwei.substack.com/p/you-dont-own-enough-eth-the-daily",
           "author": null,
           "description": "You Don't Own Enough ETH - The Daily Gwei #469",
@@ -41,19 +51,19 @@
           "description": "Inflection Grant",
           "link": "https://www.inflectiongrants.com/",
           "publishedOn": "2022-06-10T05:00:03.000Z",
-          "wordCount": 302,
+          "wordCount": null,
           "title": "Inflection Grant",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=TbyVyVNsyys&feature=youtu.be",
+          "id": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "author": null,
-          "description": "Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen",
-          "link": "https://www.youtube.com/watch?v=TbyVyVNsyys&feature=youtu.be",
+          "description": "In defense of crypto(currency)",
+          "link": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "publishedOn": "2022-06-10T04:30:03.000Z",
-          "wordCount": null,
-          "title": "Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen",
-          "imageUrl": null
+          "wordCount": 5808,
+          "title": "In defense of crypto(currency)",
+          "imageUrl": "https://matthewdgreen.files.wordpress.com/2022/06/5475007932_ebcd5cbcbf_c.jpg"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
@@ -96,16 +106,6 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/_MUlm2BMwSsHHjRI1oEUP.png?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://www.fastcompany.com/90759425/mattel-metaverse-nft-cryptoys?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss",
-          "author": null,
-          "description": "Exclusive: Mattel makes its play for the metaverse—and the metaverse plays back",
-          "link": "https://www.fastcompany.com/90759425/mattel-metaverse-nft-cryptoys?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss",
-          "publishedOn": "2022-06-09T18:00:02.000Z",
-          "wordCount": 1270,
-          "title": "Exclusive: Mattel makes its play for the metaverse—and the metaverse plays back",
-          "imageUrl": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/06/p-2-Mattel-makes-its-play-for-the-metaverse.jpg"
-        },
-        {
           "id": "https://mirror.xyz/sartoshi.eth/VQB_rWveDQuut4GQKcFA6aqL9hM3rS7raYwsW3UfdLA",
           "author": null,
           "description": "mfers next era & end of sartoshi",
@@ -121,7 +121,7 @@
           "description": "Crypto trading firm Wintermute has been incubating a new decentralized exchange aggregator",
           "link": "https://www.theblockcrypto.com/post/150978/crypto-trading-firm-wintermute-has-been-incubating-a-new-decentralized-exchange-aggregator",
           "publishedOn": "2022-06-09T17:00:03.000Z",
-          "wordCount": 1270,
+          "wordCount": 1273,
           "title": "Crypto trading firm Wintermute has been incubating a new decentralized exchange aggregator",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/Screen-Shot-2022-06-08-at-10.22.55-PM.png"
         },
@@ -161,7 +161,7 @@
           "description": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
           "link": "https://www.theblockcrypto.com/post/151010/yuga-labs-wants-apecoin-on-its-own-blockchain-apecoin-owners-think-otherwise",
           "publishedOn": "2022-06-09T13:00:04.000Z",
-          "wordCount": 1260,
+          "wordCount": 1263,
           "title": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220631_BAYC_Generic2.jpg"
         },
