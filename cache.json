@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ethereum/pm/issues/538",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/538",
+          "publishedOn": "2022-06-10T15:00:04.000Z",
+          "wordCount": 1108,
+          "title": "Ethereum Core Devs Meeting 140 Agenda · Issue #538 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/cfe38b6cdd0ca17655d1c6d5ffd80fa5ca087bfa0f67fa8d238f205e0cf0d5d0/ethereum/pm/issues/538"
+        },
+        {
+          "id": "https://www.zerohedge.com/crypto/where-most-nft-users-live-may-surprise-you",
+          "author": null,
+          "description": "Where Most NFT Users Live (May Surprise You...) | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/where-most-nft-users-live-may-surprise-you",
+          "publishedOn": "2022-06-10T14:30:03.000Z",
+          "wordCount": 656,
+          "title": "Where Most NFT Users Live (May Surprise You...) | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://tatsu.gg/",
           "author": null,
           "description": "Tatsu - Free Discord Economy & Leveling Bot",
@@ -36,14 +56,14 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb6245c4-07b9-4ec3-b46a-212a3b179a86_4367x1935.jpeg"
         },
         {
-          "id": "https://gitcoin.co/grants/2205/des-femmes-magazine",
+          "id": "https://www.youtube.com/watch?v=dByC5Bw8DvU",
           "author": null,
-          "description": "DES FEMMES MAGAZINE | Grants",
-          "link": "https://gitcoin.co/grants/2205/des-femmes-magazine",
-          "publishedOn": "2022-06-10T06:00:03.000Z",
-          "wordCount": 914,
-          "title": "DES FEMMES MAGAZINE | Grants",
-          "imageUrl": "https://c.gitcoin.co/grants/346e8568e3464d40f49421126d5f21b6/Screen_Shot_2021-03-10_at_3.32.14_PM.png"
+          "description": "Ethereum Core Devs Meeting #140 [2022-6-10]",
+          "link": "https://www.youtube.com/watch?v=dByC5Bw8DvU",
+          "publishedOn": "2022-06-10T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #140 [2022-6-10]",
+          "imageUrl": null
         },
         {
           "id": "https://nypost.com/2022/06/09/biden-approval-at-22-among-young-adults-24-among-hispanics-poll/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
@@ -51,7 +71,7 @@
           "description": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "link": "https://nypost.com/2022/06/09/biden-approval-at-22-among-young-adults-24-among-hispanics-poll/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-06-10T05:00:03.000Z",
-          "wordCount": 1501,
+          "wordCount": 1504,
           "title": "Biden approval sinks to 22% among young adults, 24% among Hispanics: poll",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/Biden-Poll-June9-v1.jpg?quality=75&strip=all&w=1024"
         },
@@ -66,14 +86,34 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/solana-labs/solana/issues/25787",
+          "author": null,
+          "description": "Nonce account migration and re-enabling durable nonce transactions · Issue #25787 · solana-labs/solana",
+          "link": "https://github.com/solana-labs/solana/issues/25787",
+          "publishedOn": "2022-06-10T05:00:03.000Z",
+          "wordCount": 1536,
+          "title": "Nonce account migration and re-enabling durable nonce transactions · Issue #25787 · solana-labs/solana",
+          "imageUrl": "https://opengraph.githubassets.com/210e613512f4b7ae0f5986fa307a3326abe3fe8204f43daee68831658f130a03/solana-labs/solana/issues/25787"
+        },
+        {
           "id": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "author": null,
           "description": "In defense of crypto(currency)",
           "link": "https://blog.cryptographyengineering.com/2022/06/09/in-defense-of-cryptocurrency/",
           "publishedOn": "2022-06-10T04:30:03.000Z",
-          "wordCount": 6112,
+          "wordCount": 6706,
           "title": "In defense of crypto(currency)",
           "imageUrl": "https://matthewdgreen.files.wordpress.com/2022/06/5475007932_ebcd5cbcbf_c.jpg"
+        },
+        {
+          "id": "https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces/",
+          "author": null,
+          "description": "Mastercard brings its payments network to Web3 and NFTs",
+          "link": "https://www.mastercard.com/news/perspectives/2022/simple-nft-purchasing-on-nft-marketplaces/",
+          "publishedOn": "2022-06-10T03:30:04.000Z",
+          "wordCount": 756,
+          "title": "Mastercard brings its payments network to Web3 and NFTs",
+          "imageUrl": "https://www.mastercard.com/news/media/so3kn5jc/adobestock_481992223.jpeg"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
@@ -84,26 +124,6 @@
           "wordCount": 14,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
-          "id": "https://medium.com/avalancheavax/chainlink-keepers-and-chainlink-vrf-go-live-on-avalanche-3ebee050ebef",
-          "author": null,
-          "description": "Chainlink Keepers and Chainlink VRF Go Live on Avalanche",
-          "link": "https://medium.com/avalancheavax/chainlink-keepers-and-chainlink-vrf-go-live-on-avalanche-3ebee050ebef",
-          "publishedOn": "2022-06-09T21:00:03.000Z",
-          "wordCount": 1254,
-          "title": "Chainlink Keepers and Chainlink VRF Go Live on Avalanche",
-          "imageUrl": "https://miro.medium.com/max/1200/0*EImwB_s-wRHn4Pof"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lZuyEKI6FZs&ab_channel=TaikiMaeda",
-          "author": null,
-          "description": "7 Reasons to Remain Bullish DeFi & Crypto",
-          "link": "https://www.youtube.com/watch?v=lZuyEKI6FZs&ab_channel=TaikiMaeda",
-          "publishedOn": "2022-06-09T19:00:04.000Z",
-          "wordCount": null,
-          "title": "7 Reasons to Remain Bullish DeFi & Crypto",
-          "imageUrl": null
         },
         {
           "id": "https://party.mirror.xyz/MFSokSaKwBD7KBCxHFRuHADZ2y8xSdSu-cNJykXJIVo",
@@ -146,26 +166,6 @@
           "imageUrl": "https://assets.law360news.com/1500000/1500034/b74a8b3043caf564d6ba10168f4f1f4321865938-laterals-revolving-door.jpg"
         },
         {
-          "id": "https://blog.ancient8.gg/ancient8-raises-6m-to-build-software-infrastructure-for-gamefi/",
-          "author": null,
-          "description": "Ancient8 Raises $6M to Build Software Infrastructure for GameFi",
-          "link": "https://blog.ancient8.gg/ancient8-raises-6m-to-build-software-infrastructure-for-gamefi/",
-          "publishedOn": "2022-06-09T14:30:04.000Z",
-          "wordCount": 909,
-          "title": "Ancient8 Raises $6M to Build Software Infrastructure for GameFi",
-          "imageUrl": "https://blog.ancient8.gg/content/images/2022/06/Ancient8-Private-Round-Official-Banner-3.jpg"
-        },
-        {
-          "id": "https://www.theblockcrypto.com/post/151010/yuga-labs-wants-apecoin-on-its-own-blockchain-apecoin-owners-think-otherwise",
-          "author": null,
-          "description": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
-          "link": "https://www.theblockcrypto.com/post/151010/yuga-labs-wants-apecoin-on-its-own-blockchain-apecoin-owners-think-otherwise",
-          "publishedOn": "2022-06-09T13:00:04.000Z",
-          "wordCount": 1310,
-          "title": "Yuga Labs wants ApeCoin on its own blockchain. ApeCoin owners think otherwise",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220631_BAYC_Generic2.jpg"
-        },
-        {
           "id": "https://digiconomist.net/ethereum-energy-consumption",
           "author": null,
           "description": "Ethereum Energy Consumption Index - Digiconomist",
@@ -191,7 +191,7 @@
           "description": "World electricity consumption | Statista",
           "link": "https://www.statista.com/statistics/280704/world-power-consumption/",
           "publishedOn": "2022-06-09T11:00:05.000Z",
-          "wordCount": 1691,
+          "wordCount": 1719,
           "title": "World electricity consumption | Statista",
           "imageUrl": "https://cdn.statcdn.com/Statistic/280000/280704-blank-355.png"
         },
