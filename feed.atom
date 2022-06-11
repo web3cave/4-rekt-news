@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-11T04:27:04.035Z</id>
+    <id>urn:2022-06-11T05:18:12.903Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-11T04:27:04.035Z</updated>
+    <updated>2022-06-11T05:18:12.903Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.youtube.com/watch?v=zkCzmoC2xRM&amp;feature=youtu.be"/>
         <updated>2022-06-11T01:00:05.000Z</updated>
         <summary type="html"><![CDATA[Hop token launch, Consensus client analysis & more - The Daily Gwei Refuel #383 - Ethereum Updates]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-5133: Delaying Difficulty Bomb to Mid August 2022]]></title>
+        <id>https://eips.ethereum.org/EIPS/eip-5133</id>
+        <link href="https://eips.ethereum.org/EIPS/eip-5133"/>
+        <updated>2022-06-10T22:00:03.000Z</updated>
+        <summary type="html"><![CDATA[EIP-5133: Delaying Difficulty Bomb to Mid August 2022]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://www.youtube.com/watch?v=dByC5Bw8DvU"/>
         <updated>2022-06-10T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Core Devs Meeting #140 [2022-6-10]]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflection Grant]]></title>
-        <id>https://www.inflectiongrants.com/</id>
-        <link href="https://www.inflectiongrants.com/"/>
-        <updated>2022-06-10T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Inflection Grant]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
