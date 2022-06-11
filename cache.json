@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theonion.com/fuck-everything-were-doing-five-blades-1819584036",
+          "author": null,
+          "description": "Fuck Everything, We're Doing Five Blades",
+          "link": "https://www.theonion.com/fuck-everything-were-doing-five-blades-1819584036",
+          "publishedOn": "2022-06-11T17:00:04.000Z",
+          "wordCount": 908,
+          "title": "Fuck Everything, We're Doing Five Blades",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/au74dzkugoqvwt1jsw01.jpg"
+        },
+        {
           "id": "https://egirl.studio/",
           "author": null,
           "description": "eGirl Capitial - NFT NYC Marquee Party",
@@ -86,16 +96,6 @@
           "imageUrl": "https://images.jacobinmag.com/wp-content/uploads/2022/06/10130635/GettyImages-1271341238.jpg"
         },
         {
-          "id": "https://eips.ethereum.org/EIPS/eip-5133",
-          "author": null,
-          "description": "EIP-5133: Delaying Difficulty Bomb to Mid August 2022",
-          "link": "https://eips.ethereum.org/EIPS/eip-5133",
-          "publishedOn": "2022-06-10T22:00:03.000Z",
-          "wordCount": 486,
-          "title": "EIP-5133: Delaying Difficulty Bomb to Mid August 2022",
-          "imageUrl": null
-        },
-        {
           "id": "https://bitcoinmagazine.com/business/jack-dorseys-tbd-presents-bitcoin-based-decentralized-web5",
           "author": null,
           "description": "Jack Dorsey’s TBD Presents Bitcoin-Based Decentralized Web5",
@@ -141,7 +141,7 @@
           "description": "Coinbase employees petition to remove execs | Hacker News",
           "link": "https://news.ycombinator.com/item?id=31690452",
           "publishedOn": "2022-06-10T18:30:03.000Z",
-          "wordCount": 21032,
+          "wordCount": 21554,
           "title": "Coinbase employees petition to remove execs | Hacker News",
           "imageUrl": null
         },
