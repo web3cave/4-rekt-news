@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nwVtVUacPLU",
+          "author": null,
+          "description": "The Chopping Block Live!",
+          "link": "https://www.youtube.com/watch?v=nwVtVUacPLU",
+          "publishedOn": "2022-06-11T04:00:03.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block Live!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coincenter.org/coin-center-has-filed-a-court-challenge-against-the-treasury-dept-over-unconstitutional-financial-surveillance/",
           "author": null,
           "description": "Coin Center has filed a court challenge against the Treasury Dept. over unconstitutional financial surveillance -...",
@@ -33,16 +43,6 @@
           "publishedOn": "2022-06-11T01:00:05.000Z",
           "wordCount": null,
           "title": "Hop token launch, Consensus client analysis & more - The Daily Gwei Refuel #383 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eips.ethereum.org/EIPS/eip-5133",
-          "author": null,
-          "description": "EIP-5133: Delaying Difficulty Bomb to Mid August 2022",
-          "link": "https://eips.ethereum.org/EIPS/eip-5133",
-          "publishedOn": "2022-06-10T22:00:03.000Z",
-          "wordCount": 486,
-          "title": "EIP-5133: Delaying Difficulty Bomb to Mid August 2022",
           "imageUrl": null
         },
         {
@@ -81,7 +81,7 @@
           "description": "Sepolia beacon chain · Issue #526 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/526#issuecomment-1148393460",
           "publishedOn": "2022-06-10T21:00:05.000Z",
-          "wordCount": 2358,
+          "wordCount": 2357,
           "title": "Sepolia beacon chain · Issue #526 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/4c232194b5cea4de5f5b63b15d7554b86bccb112a25d6f82b6cc85697ec638fd/ethereum/pm/issues/526"
         },
@@ -111,7 +111,7 @@
           "description": "Coinbase employees petition to remove execs | Hacker News",
           "link": "https://news.ycombinator.com/item?id=31690452",
           "publishedOn": "2022-06-10T18:30:03.000Z",
-          "wordCount": 19948,
+          "wordCount": 20020,
           "title": "Coinbase employees petition to remove execs | Hacker News",
           "imageUrl": null
         },
