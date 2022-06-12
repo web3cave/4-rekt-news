@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+          "author": null,
+          "description": "Is LaMDA Sentient? — an Interview",
+          "link": "https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917",
+          "publishedOn": "2022-06-12T04:30:05.000Z",
+          "wordCount": 5047,
+          "title": "Is LaMDA Sentient? — an Interview",
+          "imageUrl": null
+        },
+        {
           "id": "https://a16zcrypto.com/state-of-crypto-report-a16z-2022/",
           "author": null,
           "description": "Introducing the 2022 State of Crypto Report",
@@ -41,7 +51,7 @@
           "description": "JPMorgan Wants to Bring Trillions of Dollars of Tokenized Assets to DeFi",
           "link": "https://www.coindesk.com/business/2022/06/11/jpmorgan-wants-to-bring-trillions-of-dollars-of-tokenized-assets-to-defi/",
           "publishedOn": "2022-06-12T02:30:02.000Z",
-          "wordCount": 1271,
+          "wordCount": 1269,
           "title": "JPMorgan Wants to Bring Trillions of Dollars of Tokenized Assets to DeFi",
           "imageUrl": "https://www.coindesk.com/resizer/75-RqEJXHCCRFGHM_371LTqSdLM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/INI24LLIFNFEZCSQEN6JWJGJ5U.jpg"
         },
@@ -66,16 +76,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*QrD9NwKt8KeEfqXLM6KcRA.png"
         },
         {
-          "id": "https://api.zora.co/",
-          "author": null,
-          "description": "Zora API",
-          "link": "https://api.zora.co/",
-          "publishedOn": "2022-06-12T01:00:04.000Z",
-          "wordCount": 368,
-          "title": "Zora API",
-          "imageUrl": "https://api.zora.co/og-image.png"
-        },
-        {
           "id": "https://www.blockchain.com/",
           "author": null,
           "description": "Blockchain.com - The Most Trusted Crypto Company",
@@ -84,6 +84,16 @@
           "wordCount": 693,
           "title": "Blockchain.com - The Most Trusted Crypto Company",
           "imageUrl": "https://www.blockchain.com/static/img/home/opengraph.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FWV9ZqW-vf8&feature=youtu.be",
+          "author": null,
+          "description": "Streaming on Polygon - 3D Visualization",
+          "link": "https://www.youtube.com/watch?v=FWV9ZqW-vf8&feature=youtu.be",
+          "publishedOn": "2022-06-12T01:00:03.000Z",
+          "wordCount": null,
+          "title": "Streaming on Polygon - 3D Visualization",
+          "imageUrl": null
         },
         {
           "id": "https://cobie.substack.com/p/staking-pegging-and-other-stuff",
@@ -146,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/jarry-xiao/candyland#-candyland-",
-          "author": null,
-          "description": "GitHub - jarry-xiao/candyland: Proof of concept program for compressing NFTs",
-          "link": "https://github.com/jarry-xiao/candyland#-candyland-",
-          "publishedOn": "2022-06-11T11:00:03.000Z",
-          "wordCount": 946,
-          "title": "GitHub - jarry-xiao/candyland: Proof of concept program for compressing NFTs",
-          "imageUrl": "https://opengraph.githubassets.com/83540832962eca306a981d0795e34637a0662b678517492a05378e3bd10a0cd3/jarry-xiao/candyland"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=-7sWLIybWnQ&feature=youtu.be",
           "author": null,
           "description": "Sohn 2022 | John Collison in conversation with Stanley Druckenmiller",
@@ -196,14 +196,14 @@
           "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/lido/optimized/2X/c/cf4bcbffa9e5908c3f7dfb921a5ad7c574744613_2_842x1024.png"
         },
         {
-          "id": "https://developer.tbd.website/projects/web5/",
+          "id": "https://mhonkasalo.substack.com/p/stetheth-peg-not-a-peg-presents-a?s=w",
           "author": null,
-          "description": "Web5 | TBD",
-          "link": "https://developer.tbd.website/projects/web5/",
-          "publishedOn": "2022-06-10T21:00:04.000Z",
-          "wordCount": 363,
-          "title": "Web5 | TBD",
-          "imageUrl": "https://developer.tdb.website/img/tbd_og_meta_image.png"
+          "description": "stETHETH peg (not a peg) presents a dilemma and opportunity for ETH bulls",
+          "link": "https://mhonkasalo.substack.com/p/stetheth-peg-not-a-peg-presents-a?s=w",
+          "publishedOn": "2022-06-10T15:00:03.000Z",
+          "wordCount": 1131,
+          "title": "stETH<>ETH peg (not a peg) presents a dilemma and opportunity for ETH bulls",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d74b2ce-1d3d-4ccb-bfba-e49e722eb9d5_1939x562.png"
         }
       ]
     }
