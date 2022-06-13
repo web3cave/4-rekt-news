@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.nansen.ai/research/on-chain-forensics-demystifying-terrausd-de-peg",
+          "id": "https://soulsgalaxy.io/",
           "author": null,
-          "description": "On-Chain Forensics:  Demystifying TerraUSD De-peg",
-          "link": "https://www.nansen.ai/research/on-chain-forensics-demystifying-terrausd-de-peg",
-          "publishedOn": "2022-06-13T20:00:03.000Z",
-          "wordCount": 4412,
-          "title": "On-Chain Forensics:  Demystifying TerraUSD De-peg",
-          "imageUrl": "https://assets-global.website-files.com/60118ca1c2eab61d24bcf151/628fecebf591cd843fc2bebf_RA%20-%20SM%20-%20R3%20-%20Open%20Graph%20(2).png"
+          "description": "Souls",
+          "link": "https://soulsgalaxy.io/",
+          "publishedOn": "2022-06-13T21:00:02.000Z",
+          "wordCount": 15,
+          "title": "Souls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=049VeJY5bjU&feature=youtu.be",
+          "author": null,
+          "description": "Dankrad Feist - DANKSHARDING",
+          "link": "https://www.youtube.com/watch?v=049VeJY5bjU&feature=youtu.be",
+          "publishedOn": "2022-06-13T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Dankrad Feist - DANKSHARDING",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ",
+          "author": null,
+          "description": "💰 Coin Center is educating policy makers about public blockchains | Grants",
+          "link": "https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ",
+          "publishedOn": "2022-06-13T21:00:02.000Z",
+          "wordCount": 918,
+          "title": "💰 Coin Center is educating policy makers about public blockchains | Grants",
+          "imageUrl": "https://c.gitcoin.co/grants/f97ad4b28659649b486111202ee88eec/Square-Orange-Background_1.png"
         },
         {
           "id": "https://www.coincenter.org/coin-center-has-filed-a-court-challenge-against-the-treasury-dept-over-unconstitutional-financial-surveillance/",
@@ -36,16 +56,6 @@
           "imageUrl": "https://bitcoinexactforecast.com/bef_v1.png"
         },
         {
-          "id": "https://avc.com/2018/11/what-bear-markets-look-like/",
-          "author": null,
-          "description": "What Bear Markets Look Like - AVC",
-          "link": "https://avc.com/2018/11/what-bear-markets-look-like/",
-          "publishedOn": "2022-06-13T17:30:03.000Z",
-          "wordCount": 8184,
-          "title": "What Bear Markets Look Like - AVC",
-          "imageUrl": "https://avc.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-25-at-7.52.21-AM-2048x1040.png"
-        },
-        {
           "id": "https://www.youtube.com/c/ParallelPolis/videos",
           "author": null,
           "description": "Parallel Polis - YouTube",
@@ -66,16 +76,6 @@
           "imageUrl": "http://blog.tenderly.co/content/images/2022/06/New-features-announcement.jpg"
         },
         {
-          "id": "https://governance.aave.com/t/bgd-month-1-recap/8482",
-          "author": null,
-          "description": "BGD. Month 1 Recap",
-          "link": "https://governance.aave.com/t/bgd-month-1-recap/8482",
-          "publishedOn": "2022-06-13T15:00:03.000Z",
-          "wordCount": 2055,
-          "title": "BGD. Month 1 Recap",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
-        },
-        {
           "id": "https://www.theblockcrypto.com/post/151543/nexo-celsius-offer",
           "author": null,
           "description": "Nexo makes an offer to acquire rival Celsius's assets",
@@ -83,7 +83,17 @@
           "publishedOn": "2022-06-13T11:00:03.000Z",
           "wordCount": 1112,
           "title": "Nexo makes an offer to acquire rival Celsius's assets",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/20220103_Hiring_Jan.jpg"
+          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2022/01/20220103_Hiring_Jan.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hjTCIT9BGkA&list=PLRUSTVWJngifkMrh4Y7URBd_WRgKVHPP-&index=28",
+          "author": null,
+          "description": "Avihu Levy - STARK Recursion",
+          "link": "https://www.youtube.com/watch?v=hjTCIT9BGkA&list=PLRUSTVWJngifkMrh4Y7URBd_WRgKVHPP-&index=28",
+          "publishedOn": "2022-06-13T11:00:03.000Z",
+          "wordCount": null,
+          "title": "Avihu Levy - STARK Recursion",
+          "imageUrl": null
         },
         {
           "id": "https://www.nft.nyc/",
@@ -113,7 +123,7 @@
           "publishedOn": "2022-06-13T04:00:03.000Z",
           "wordCount": 1014,
           "title": "Crypto lending firm Celsius pauses withdrawals and transfers, citing market conditions",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/08/cesius-us.jpg"
+          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2019/08/cesius-us.jpg"
         },
         {
           "id": "https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6?source=social.tw&gi=8ebf4656ccf6",
@@ -144,16 +154,6 @@
           "wordCount": 533,
           "title": "McDonald's Careers",
           "imageUrl": "https://cms.jibecdn.com/prod/mcdonalds/assets/OPENGRAPH-IMAGE-en-us-1591795822503.png"
-        },
-        {
-          "id": "https://ethereum.karalabe.com/talks/2022-ethprague.html",
-          "author": null,
-          "description": "Ethereum in numbers",
-          "link": "https://ethereum.karalabe.com/talks/2022-ethprague.html",
-          "publishedOn": "2022-06-12T19:00:02.000Z",
-          "wordCount": 583,
-          "title": "Ethereum in numbers",
-          "imageUrl": null
         },
         {
           "id": "https://interchainsecurity.dev/",
