@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-13T15:29:45.084Z</id>
+    <id>urn:2022-06-13T16:33:46.330Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-13T15:29:45.084Z</updated>
+    <updated>2022-06-13T16:33:46.330Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Atomic Swaps - Synthetix's Mainnet Usecase]]></title>
+        <id>https://blog.synthetix.io/atomic-exchanges-synthetixs-mainnet-volume/</id>
+        <link href="https://blog.synthetix.io/atomic-exchanges-synthetixs-mainnet-volume/"/>
+        <updated>2022-06-12T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Atomic Swaps - Synthetix's Mainnet Usecase]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lenstube]]></title>
         <id>https://testnet.lenstube.xyz/</id>
         <link href="https://testnet.lenstube.xyz/"/>
@@ -151,16 +161,6 @@
         <link href="https://interchainsecurity.dev/"/>
         <updated>2022-06-12T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Interchain Security by Informal Systems]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issues · yearn/budget]]></title>
-        <id>https://github.com/yearn/budget/issues</id>
-        <link href="https://github.com/yearn/budget/issues"/>
-        <updated>2022-06-12T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Issues · yearn/budget]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
