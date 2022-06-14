@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T08:27:50.676Z</id>
+    <id>urn:2022-06-14T09:23:09.421Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-14T08:27:50.676Z</updated>
+    <updated>2022-06-14T09:23:09.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://docs.google.com/spreadsheets/d/1CqPAGTcVnX5e01_5TaoUYnMPrclTvncPuESk8wo4pNQ/edit?usp=sharing"/>
         <updated>2022-06-14T05:30:04.000Z</updated>
         <summary type="html"><![CDATA[Tay's Copy of Larry's Celsius Wallets w/ Live Balances]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Block]]></title>
+        <id>https://www.theblock.co/</id>
+        <link href="https://www.theblock.co/"/>
+        <updated>2022-06-14T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Block]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -146,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nexo makes an offer to acquire rival Celsius's assets]]></title>
-        <id>https://www.theblockcrypto.com/post/151543/nexo-celsius-offer</id>
-        <link href="https://www.theblockcrypto.com/post/151543/nexo-celsius-offer"/>
-        <updated>2022-06-13T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Nexo makes an offer to acquire rival Celsius's assets]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></title>
         <id>https://www.nft.nyc/</id>
         <link href="https://www.nft.nyc/"/>
@@ -177,8 +177,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[parsec]]></title>
-        <id>https://parsec.finance/</id>
-        <link href="https://parsec.finance/"/>
+        <id>https://app.parsec.finance/</id>
+        <link href="https://app.parsec.finance/"/>
         <updated>2022-06-13T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[parsec]]></summary>
         <author>
