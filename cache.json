@@ -6,14 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.coindesk.com/business/2020/10/30/crypto-lender-celsius-taps-horizen-for-proof-of-reserves-proof-of-concept/",
+          "id": "https://www.youtube.com/watch?v=Tx4n0VqFmpE&feature=youtu.be",
           "author": null,
-          "description": "Crypto Lender Celsius Taps Horizen for 'Proof-of-Reserves' Proof of Concept",
-          "link": "https://www.coindesk.com/business/2020/10/30/crypto-lender-celsius-taps-horizen-for-proof-of-reserves-proof-of-concept/",
-          "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 1029,
-          "title": "Crypto Lender Celsius Taps Horizen for 'Proof-of-Reserves' Proof of Concept",
-          "imageUrl": "https://www.coindesk.com/resizer/g-SrYsyKlvOv9J0EWcRAjs7-WSA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7ZEOODEGOFH6LGVM7K7YYJYJJU.jpg"
+          "description": "56 - Authenticity in Crypto | 1confirmation",
+          "link": "https://www.youtube.com/watch?v=Tx4n0VqFmpE&feature=youtu.be",
+          "publishedOn": "2022-06-14T21:00:05.000Z",
+          "wordCount": null,
+          "title": "56 - Authenticity in Crypto | 1confirmation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anchor.fm/i-pledge-allegiance/episodes/Evgeny-Gaevoy---Diving-into-Wintermute--DeFi--and-Governance-e1jsqpv",
+          "author": null,
+          "description": "Evgeny Gaevoy - Diving into Wintermute, DeFi, and Governance by I Pledge Allegiance",
+          "link": "https://anchor.fm/i-pledge-allegiance/episodes/Evgeny-Gaevoy---Diving-into-Wintermute--DeFi--and-Governance-e1jsqpv",
+          "publishedOn": "2022-06-14T21:00:05.000Z",
+          "wordCount": 3917,
+          "title": "Evgeny Gaevoy - Diving into Wintermute, DeFi, and Governance by I Pledge Allegiance",
+          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/17756985/17756985-1632445974532-472303af88c35.jpg"
+        },
+        {
+          "id": "https://medium.com/walletconnect/building-a-messaging-protocol-for-web3-4e6103679f",
+          "author": null,
+          "description": "Building a Messaging Protocol for Web3",
+          "link": "https://medium.com/walletconnect/building-a-messaging-protocol-for-web3-4e6103679f",
+          "publishedOn": "2022-06-14T21:00:05.000Z",
+          "wordCount": 676,
+          "title": "Building a Messaging Protocol for Web3",
+          "imageUrl": "https://miro.medium.com/max/1200/1*p1Z23m8IRrQUpgK37OWGBg.jpeg"
+        },
+        {
+          "id": "https://www.hertzbleed.com/",
+          "author": null,
+          "description": "Hertzbleed Attack",
+          "link": "https://www.hertzbleed.com/",
+          "publishedOn": "2022-06-14T21:00:04.000Z",
+          "wordCount": 1118,
+          "title": "Hertzbleed Attack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chainlist.org/",
+          "author": null,
+          "description": "Chainlist",
+          "link": "https://chainlist.org/",
+          "publishedOn": "2022-06-14T20:30:02.000Z",
+          "wordCount": 3186,
+          "title": "Chainlist",
+          "imageUrl": null
         },
         {
           "id": "https://mint.fun/",
@@ -21,29 +61,9 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 149,
+          "wordCount": 129,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/crypto-ceo-brian-armstrong-buys-los-angeles-home-for-133-million-11641249787?mod=e2tw",
-          "author": null,
-          "description": "Crypto CEO Brian Armstrong Buys Los Angeles Home for $133 Million",
-          "link": "https://www.wsj.com/articles/crypto-ceo-brian-armstrong-buys-los-angeles-home-for-133-million-11641249787?mod=e2tw",
-          "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 989,
-          "title": "Crypto CEO Brian Armstrong Buys Los Angeles Home for $133 Million",
-          "imageUrl": "https://images.wsj.net/im-461167/social"
-        },
-        {
-          "id": "https://www.theblock.co/post/28416/celsius-faces-pressure-over-its-token-suspending-distribution-with-immediate-effect",
-          "author": null,
-          "description": "Celsius suspending distribution with immediate effect",
-          "link": "https://www.theblock.co/post/28416/celsius-faces-pressure-over-its-token-suspending-distribution-with-immediate-effect",
-          "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 1699,
-          "title": "Celsius suspending distribution with immediate effect",
-          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2019/06/cesius-us.jpg"
         },
         {
           "id": "https://www.starknet-ecosystem.com/",
@@ -126,6 +146,16 @@
           "imageUrl": "https://lh4.googleusercontent.com/o04CqmUplNLs94ctrmBEVqd7mwwUuILX7PAdA2zlCssZ8n0Co7bvH78vw1Dwfd6DM5yPP9oQmWI6Jw=w1200-h630-p"
         },
         {
+          "id": "https://github.com/lambdaclass/cleopatra_cairo",
+          "author": null,
+          "description": "GitHub - lambdaclass/cleopatra_cairo: Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a...",
+          "link": "https://github.com/lambdaclass/cleopatra_cairo",
+          "publishedOn": "2022-06-14T05:30:04.000Z",
+          "wordCount": 1013,
+          "title": "GitHub - lambdaclass/cleopatra_cairo: Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a...",
+          "imageUrl": "https://opengraph.githubassets.com/20980bfd53851a4ade100827654f8de322680c30c4f8fab46dd9904fe3fb30b0/lambdaclass/cleopatra_cairo"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2OMd3c9HIUg",
           "author": null,
           "description": "The Chopping Block: Why Solana’s Frequent Downtime Doesn't Bother Kyle Samani- Ep. 362",
@@ -141,19 +171,9 @@
           "description": "The Block",
           "link": "https://www.theblock.co/",
           "publishedOn": "2022-06-14T03:00:03.000Z",
-          "wordCount": 1425,
+          "wordCount": 1455,
           "title": "The Block",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_OG-Image.jpg"
-        },
-        {
-          "id": "https://www.wsj.com/articles/bad-inflation-reports-raise-odds-of-surprise-0-75-percentage-point-rate-rise-this-week-11655147927?mod=Searchresults_pos1&page=1",
-          "author": null,
-          "description": "Fed Likely to Consider 0.75-Percentage-Point Rate Rise This Week",
-          "link": "https://www.wsj.com/articles/bad-inflation-reports-raise-odds-of-surprise-0-75-percentage-point-rate-rise-this-week-11655147927?mod=Searchresults_pos1&page=1",
-          "publishedOn": "2022-06-13T22:00:02.000Z",
-          "wordCount": 1046,
-          "title": "Fed Likely to Consider 0.75-Percentage-Point Rate Rise This Week",
-          "imageUrl": "https://images.wsj.net/im-562993/social"
         },
         {
           "id": "https://soulsgalaxy.io/",
@@ -166,34 +186,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coincenter.org/coin-center-has-filed-a-court-challenge-against-the-treasury-dept-over-unconstitutional-financial-surveillance/",
+          "id": "https://swagtimus.substack.com/p/starknet-roundup-20?s=w",
           "author": null,
-          "description": "Coin Center has filed a court challenge against the Treasury Dept. over unconstitutional financial surveillance -...",
-          "link": "https://www.coincenter.org/coin-center-has-filed-a-court-challenge-against-the-treasury-dept-over-unconstitutional-financial-surveillance/",
-          "publishedOn": "2022-06-13T19:30:04.000Z",
-          "wordCount": 1057,
-          "title": "Coin Center has filed a court challenge against the Treasury Dept. over unconstitutional financial surveillance -...",
-          "imageUrl": "https://www.coincenter.org/app/uploads/2022/06/Constitution1_wide-c7cfc6dfb2c7a4ffafc39803f74160f40ca005ab.jpeg"
-        },
-        {
-          "id": "https://mirror.xyz/scroll.eth/EYn7ODhQAnNWABwWcu5xZLts_wEXTZAEWyTgExGS1DA",
-          "author": null,
-          "description": "Introducing Scroll – Vision and Values",
-          "link": "https://mirror.xyz/scroll.eth/EYn7ODhQAnNWABwWcu5xZLts_wEXTZAEWyTgExGS1DA",
-          "publishedOn": "2022-06-13T14:30:03.000Z",
-          "wordCount": 1305,
-          "title": "Introducing Scroll – Vision and Values",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/49OkfwJ9nSWFbWvtVCWNz.png?height=960&width=1920&h=960&w=1920&auto=compress"
-        },
-        {
-          "id": "https://www.youtube.com/watch?app=desktop&v=hjTCIT9BGkA&feature=youtu.be",
-          "author": null,
-          "description": "Avihu Levy - STARK Recursion",
-          "link": "https://www.youtube.com/watch?app=desktop&v=hjTCIT9BGkA&feature=youtu.be",
-          "publishedOn": "2022-06-13T11:00:03.000Z",
-          "wordCount": null,
-          "title": "Avihu Levy - STARK Recursion",
-          "imageUrl": null
+          "description": "StarkNet Roundup #20",
+          "link": "https://swagtimus.substack.com/p/starknet-roundup-20?s=w",
+          "publishedOn": "2022-06-13T21:00:02.000Z",
+          "wordCount": 1707,
+          "title": "StarkNet Roundup #20",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd30f6a18-796a-4ff8-8186-68900bafda73_1024x512.jpeg"
         },
         {
           "id": "https://www.nft.nyc/",
