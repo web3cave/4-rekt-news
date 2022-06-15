@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://area51.stackexchange.com/proposals/126615",
+          "author": null,
+          "description": "Solana - A Stack Exchange Proposal",
+          "link": "https://area51.stackexchange.com/proposals/126615",
+          "publishedOn": "2022-06-15T20:00:03.000Z",
+          "wordCount": 592,
+          "title": "Solana - A Stack Exchange Proposal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sC-35uHaMG8&feature=youtu.be",
+          "author": null,
+          "description": "We Bought the Unreleased Wu-Tang Clan Album with Crypto ✨",
+          "link": "https://www.youtube.com/watch?v=sC-35uHaMG8&feature=youtu.be",
+          "publishedOn": "2022-06-15T19:30:03.000Z",
+          "wordCount": null,
+          "title": "We Bought the Unreleased Wu-Tang Clan Album with Crypto ✨",
+          "imageUrl": null
+        },
+        {
           "id": "https://developers.google.com/style/word-list",
           "author": null,
           "description": "Word list  |  Google developer documentation style guide  |  Google Developers",
@@ -26,14 +46,14 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2484625-abce-469e-8669-7265f9c6d05d_728x388.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=x9DSKVrI3Lk&feature=youtu.be",
+          "id": "https://github.com/NethermindEth/warp/releases/tag/v2-audit",
           "author": null,
-          "description": "Best Business Show w/ Anthony Pompliano - Episode: 227",
-          "link": "https://www.youtube.com/watch?v=x9DSKVrI3Lk&feature=youtu.be",
+          "description": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
+          "link": "https://github.com/NethermindEth/warp/releases/tag/v2-audit",
           "publishedOn": "2022-06-15T17:00:07.000Z",
-          "wordCount": null,
-          "title": "Best Business Show w/ Anthony Pompliano - Episode: 227",
-          "imageUrl": null
+          "wordCount": 323,
+          "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
+          "imageUrl": "https://opengraph.githubassets.com/d90cad8adf8c546b10241a875f94520ba7c8e8e01b0e7c4aa8d99773483fc1f6/NethermindEth/warp"
         },
         {
           "id": "https://www.youtube.com/watch?v=IAqAl292ozs",
@@ -56,34 +76,14 @@
           "imageUrl": "https://opengraph.githubassets.com/396082576bd1e3eb1bf6befbb4b55ab3655af9c3041b787ea950171b2386c19a/ethereum/execution-apis"
         },
         {
-          "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.19",
-          "author": null,
-          "description": "Release Camaron (v1.10.19) · ethereum/go-ethereum",
-          "link": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.19",
-          "publishedOn": "2022-06-15T15:00:02.000Z",
-          "wordCount": 613,
-          "title": "Release Camaron (v1.10.19) · ethereum/go-ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/318f24fac17423071324cacf3a0f84240a956a852f605e10df4c04bbd4340719/ethereum/go-ethereum/releases/tag/v1.10.19"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/06/14/consensus-2022-was-the-crypto-bull-markets-goodbye-party/",
           "author": null,
           "description": "Consensus 2022 Was the Crypto Bull Market's Goodbye Party",
           "link": "https://www.coindesk.com/layer2/2022/06/14/consensus-2022-was-the-crypto-bull-markets-goodbye-party/",
           "publishedOn": "2022-06-15T14:30:03.000Z",
-          "wordCount": 1792,
+          "wordCount": 1804,
           "title": "Consensus 2022 Was the Crypto Bull Market's Goodbye Party",
           "imageUrl": "https://www.coindesk.com/resizer/WAYLFCL8hLKhx09FVxxQcIBju40=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6JG6FHPQJZD55DJS7FXOM2FUUI.jpg"
-        },
-        {
-          "id": "https://thetexan.news/republican-mayra-flores-wins-special-election-for-south-texas-congressional-district/?utm_content=buffer67b6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "author": null,
-          "description": "Republican Mayra Flores Wins Special Election for South Texas Congressional District",
-          "link": "https://thetexan.news/republican-mayra-flores-wins-special-election-for-south-texas-congressional-district/?utm_content=buffer67b6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-          "publishedOn": "2022-06-15T14:30:03.000Z",
-          "wordCount": 1041,
-          "title": "Republican Mayra Flores Wins Special Election for South Texas Congressional District",
-          "imageUrl": "https://thetexan.news/wp-content/uploads/2022/06/Mayra-Flores.jpg"
         },
         {
           "id": "https://www.theblock.co/linked/152092/after-facing-hundreds-of-millions-of-dollars-in-liquidations-three-arrows-capitals-future-is-uncertain?utm_source=twitter&utm_medium=soci",
@@ -181,7 +181,7 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 112,
+          "wordCount": 107,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         },
