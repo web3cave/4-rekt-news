@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum.org/en/",
+          "author": null,
+          "description": "Home | ethereum.org",
+          "link": "https://ethereum.org/en/",
+          "publishedOn": "2022-06-15T02:00:07.000Z",
+          "wordCount": 1227,
+          "title": "Home | ethereum.org",
+          "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sC-35uHaMG8&feature=youtu.be",
+          "author": null,
+          "description": "We Bought the Unreleased Wu-Tang Clan Album with Crypto ✨",
+          "link": "https://www.youtube.com/watch?v=sC-35uHaMG8&feature=youtu.be",
+          "publishedOn": "2022-06-15T01:00:03.000Z",
+          "wordCount": null,
+          "title": "We Bought the Unreleased Wu-Tang Clan Album with Crypto ✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.app.spool.fi/",
+          "author": null,
+          "description": "Spool App",
+          "link": "https://www.app.spool.fi/",
+          "publishedOn": "2022-06-15T01:00:03.000Z",
+          "wordCount": 11,
+          "title": "Spool App",
+          "imageUrl": "https://app.spool.fi/thumbnail.jpg"
+        },
+        {
+          "id": "https://www.theblock.co/post/152059/crypto-firms-have-laid-off-more-than-1500-people-in-the-last-two-months-as-downturn-fears-persist",
+          "author": null,
+          "description": "Crypto firms have laid off more than 1,500 people in the last two months as downturn fears persist",
+          "link": "https://www.theblock.co/post/152059/crypto-firms-have-laid-off-more-than-1500-people-in-the-last-two-months-as-downturn-fears-persist",
+          "publishedOn": "2022-06-15T01:00:03.000Z",
+          "wordCount": 1785,
+          "title": "Crypto firms have laid off more than 1,500 people in the last two months as downturn fears persist",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/2022062_Hiring_Roundup.jpg"
+        },
+        {
+          "id": "https://polymorphs.universe.xyz/",
+          "author": null,
+          "description": "Polymorphic Universe | Universe",
+          "link": "https://polymorphs.universe.xyz/",
+          "publishedOn": "2022-06-15T00:30:03.000Z",
+          "wordCount": 388,
+          "title": "Polymorphic Universe | Universe",
+          "imageUrl": "/_next/static/images/polymorphs-98acd806ab940d673b6d549c55f661b5.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tx4n0VqFmpE&feature=youtu.be",
           "author": null,
           "description": "56 - Authenticity in Crypto | 1confirmation",
@@ -41,7 +91,7 @@
           "description": "Hertzbleed Attack",
           "link": "https://www.hertzbleed.com/",
           "publishedOn": "2022-06-14T21:00:04.000Z",
-          "wordCount": 1146,
+          "wordCount": 1149,
           "title": "Hertzbleed Attack",
           "imageUrl": null
         },
@@ -61,19 +111,9 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 146,
+          "wordCount": 155,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
-        },
-        {
-          "id": "https://www.starknet-ecosystem.com/",
-          "author": null,
-          "description": "StarkNet Ecosystem",
-          "link": "https://www.starknet-ecosystem.com/",
-          "publishedOn": "2022-06-14T18:00:05.000Z",
-          "wordCount": 47,
-          "title": "StarkNet Ecosystem",
-          "imageUrl": "https://starknet-ecosystem.com/starknet-banner.jpg"
         },
         {
           "id": "https://gov.yearn.finance/t/proposal-reduce-and-cap-fees-through-yrates/12588",
@@ -81,19 +121,9 @@
           "description": "[Proposal] Reduce and cap fees through yRates",
           "link": "https://gov.yearn.finance/t/proposal-reduce-and-cap-fees-through-yrates/12588",
           "publishedOn": "2022-06-14T17:00:02.000Z",
-          "wordCount": 1257,
+          "wordCount": 1259,
           "title": "[Proposal] Reduce and cap fees through yRates",
           "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/yearn/original/1X/a358764effea2c2019faf0c91c7df8986ca95f46.png"
-        },
-        {
-          "id": "https://www.theblock.co/linked/151888/coinbase-cuts-workforce-by-about-18",
-          "author": null,
-          "description": "Coinbase cuts workforce by 'about 18%'",
-          "link": "https://www.theblock.co/linked/151888/coinbase-cuts-workforce-by-about-18",
-          "publishedOn": "2022-06-14T15:00:04.000Z",
-          "wordCount": 1434,
-          "title": "Coinbase cuts workforce by 'about 18%'",
-          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
         },
         {
           "id": "https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12?gi=4edd8454dc8c",
@@ -101,7 +131,7 @@
           "description": "A message from Coinbase CEO and Cofounder, Brian Armstrong",
           "link": "https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12?gi=4edd8454dc8c",
           "publishedOn": "2022-06-14T15:00:03.000Z",
-          "wordCount": 1244,
+          "wordCount": 1261,
           "title": "A message from Coinbase CEO and Cofounder, Brian Armstrong",
           "imageUrl": "https://miro.medium.com/max/1200/1*dgwZL1alj1U0CUc1d-JO8Q.png"
         },
@@ -126,22 +156,12 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa177b84a-45e5-41fe-897c-5833ba8f3537_1600x900.png"
         },
         {
-          "id": "https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/",
-          "author": null,
-          "description": "Stanford's War on Social Life",
-          "link": "https://palladiummag.com/2022/06/13/stanfords-war-on-social-life/",
-          "publishedOn": "2022-06-14T10:00:02.000Z",
-          "wordCount": 4253,
-          "title": "Stanford's War on Social Life",
-          "imageUrl": "https://palladiummag.com/wp-content/uploads/2022/06/maxim-babichev-HXzh2KUMDPg-unsplash-scaled.jpg"
-        },
-        {
           "id": "https://docs.google.com/spreadsheets/d/1CqPAGTcVnX5e01_5TaoUYnMPrclTvncPuESk8wo4pNQ/edit?usp=sharing",
           "author": null,
           "description": "Tay's Copy of Larry's Celsius Wallets w/ Live Balances",
           "link": "https://docs.google.com/spreadsheets/d/1CqPAGTcVnX5e01_5TaoUYnMPrclTvncPuESk8wo4pNQ/edit?usp=sharing",
           "publishedOn": "2022-06-14T05:30:04.000Z",
-          "wordCount": 1738,
+          "wordCount": 1733,
           "title": "Tay's Copy of Larry's Celsius Wallets w/ Live Balances",
           "imageUrl": "https://lh4.googleusercontent.com/o04CqmUplNLs94ctrmBEVqd7mwwUuILX7PAdA2zlCssZ8n0Co7bvH78vw1Dwfd6DM5yPP9oQmWI6Jw=w1200-h630-p"
         },
@@ -151,7 +171,7 @@
           "description": "GitHub - lambdaclass/cleopatra_cairo: Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a...",
           "link": "https://github.com/lambdaclass/cleopatra_cairo",
           "publishedOn": "2022-06-14T05:30:04.000Z",
-          "wordCount": 923,
+          "wordCount": 1001,
           "title": "GitHub - lambdaclass/cleopatra_cairo: Cleopatra Cairo is a Rust implementation of the Cairo VM. Cairo is a...",
           "imageUrl": "https://opengraph.githubassets.com/20980bfd53851a4ade100827654f8de322680c30c4f8fab46dd9904fe3fb30b0/lambdaclass/cleopatra_cairo"
         },
@@ -171,29 +191,9 @@
           "description": "The Block",
           "link": "https://www.theblock.co/",
           "publishedOn": "2022-06-14T03:00:03.000Z",
-          "wordCount": 1453,
+          "wordCount": 1470,
           "title": "The Block",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_OG-Image.jpg"
-        },
-        {
-          "id": "https://soulsgalaxy.io/",
-          "author": null,
-          "description": "Souls",
-          "link": "https://soulsgalaxy.io/",
-          "publishedOn": "2022-06-13T21:00:02.000Z",
-          "wordCount": 15,
-          "title": "Souls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://swagtimus.substack.com/p/starknet-roundup-20?s=w",
-          "author": null,
-          "description": "StarkNet Roundup #20",
-          "link": "https://swagtimus.substack.com/p/starknet-roundup-20?s=w",
-          "publishedOn": "2022-06-13T21:00:02.000Z",
-          "wordCount": 1707,
-          "title": "StarkNet Roundup #20",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd30f6a18-796a-4ff8-8186-68900bafda73_1024x512.jpeg"
         },
         {
           "id": "https://www.nft.nyc/",
