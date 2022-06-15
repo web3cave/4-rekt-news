@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://decrypt.co/102973/bill-gates-crypto-and-nfts-100-based-on-greater-fool-theory/",
+          "author": null,
+          "description": "Bill Gates: Crypto and NFTs '100% Based on Greater Fool Theory' - Decrypt",
+          "link": "https://decrypt.co/102973/bill-gates-crypto-and-nfts-100-based-on-greater-fool-theory/",
+          "publishedOn": "2022-06-15T23:00:03.000Z",
+          "wordCount": 699,
+          "title": "Bill Gates: Crypto and NFTs '100% Based on Greater Fool Theory' - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/shutterstock_2475133901-gID_4.jpg"
+        },
+        {
+          "id": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
+          "author": null,
+          "description": "Issues · vyperlang/vyper",
+          "link": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
+          "publishedOn": "2022-06-15T23:00:03.000Z",
+          "wordCount": 760,
+          "title": "Issues · vyperlang/vyper",
+          "imageUrl": "https://repository-images.githubusercontent.com/73461676/d3e6c900-6a1b-11ea-91be-d87dfda8b8e7"
+        },
+        {
           "id": "https://www.nft.nyc/",
           "author": null,
           "description": "NFT.NYC | The Leading Annual Non-Fungible Token Event",
@@ -14,16 +34,6 @@
           "wordCount": 807,
           "title": "NFT.NYC | The Leading Annual Non-Fungible Token Event",
           "imageUrl": "https://www.nft.nyc/hubfs/nftnyc2021-eventbrite-header.png#keepProtocol"
-        },
-        {
-          "id": "https://variant.fund/writing/balance-product-protocol-web3",
-          "author": null,
-          "description": "Product vs. Protocol: Finding a Balance in Web3",
-          "link": "https://variant.fund/writing/balance-product-protocol-web3",
-          "publishedOn": "2022-06-15T22:00:04.000Z",
-          "wordCount": 1674,
-          "title": "Product vs. Protocol: Finding a Balance in Web3",
-          "imageUrl": "https://images.prismic.io/variant/f20441e2-e7d1-49fd-8ff2-22bdb4ff5124_ProtocolEquilibriumDiagram_01.jpeg?auto=compress,format"
         },
         {
           "id": "https://gitcoin.co/grants/5987/pooltogether-inc-legal-funding",
@@ -36,16 +46,6 @@
           "imageUrl": "https://c.gitcoin.co/grants/adf46c58f2e04782f5e37c952807808e/Banner.jpeg"
         },
         {
-          "id": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
-          "author": null,
-          "description": "[PDF] Sumner-NGDP-Targeting-sum-v1.pdf",
-          "link": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
-          "publishedOn": "2022-06-15T21:00:07.000Z",
-          "wordCount": 7564,
-          "title": "[PDF] Sumner-NGDP-Targeting-sum-v1.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
           "author": null,
           "description": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
@@ -54,6 +54,16 @@
           "wordCount": 1774,
           "title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
           "imageUrl": "https://static01.nyt.com/images/2022/06/13/business/00kraken/00kraken-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
+          "author": null,
+          "description": "[PDF] Sumner-NGDP-Targeting-sum-v1.pdf",
+          "link": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
+          "publishedOn": "2022-06-15T21:00:07.000Z",
+          "wordCount": 7564,
+          "title": "[PDF] Sumner-NGDP-Targeting-sum-v1.pdf",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/152230/citigroup-celsius-advising-after-withdrawal-freeze",
@@ -73,6 +83,16 @@
           "publishedOn": "2022-06-15T21:00:07.000Z",
           "wordCount": 520,
           "title": "Overly Optimistic Optimizer — Certora Bug Disclosure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sfeMgwg5uTY&ab_channel=Cross-ChainExamination",
+          "author": null,
+          "description": "Ep.1: Crypto Coven–Building An Inclusive And Sustainable NFT Community",
+          "link": "https://www.youtube.com/watch?v=sfeMgwg5uTY&ab_channel=Cross-ChainExamination",
+          "publishedOn": "2022-06-15T21:00:07.000Z",
+          "wordCount": null,
+          "title": "Ep.1: Crypto Coven–Building An Inclusive And Sustainable NFT Community",
           "imageUrl": null
         },
         {
@@ -113,7 +133,7 @@
           "publishedOn": "2022-06-15T17:00:07.000Z",
           "wordCount": 323,
           "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
-          "imageUrl": "https://opengraph.githubassets.com/99bed6e9a8790b6c592151b707b78b8e8c512d95c2f933d76e174fcfc1b5ebd1/NethermindEth/warp"
+          "imageUrl": "https://opengraph.githubassets.com/bf761557a11f02c2156108c08a652b9dc5ca123e4a3d5a033d105be1270ef48b/NethermindEth/warp"
         },
         {
           "id": "https://www.youtube.com/watch?v=IAqAl292ozs",
@@ -156,16 +176,6 @@
           "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/06/KrakenCulture_blogThumb-blue-1.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
-          "author": null,
-          "description": "You were the chosen one!",
-          "link": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
-          "publishedOn": "2022-06-15T12:30:03.000Z",
-          "wordCount": null,
-          "title": "You were the chosen one!",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.mining.com/web/uganda-says-exploration-results-show-it-has-31-million-tonnes-of-gold-ore/",
           "author": null,
           "description": "Uganda says exploration results show it has 31 million tonnes of gold ore",
@@ -174,16 +184,6 @@
           "wordCount": 668,
           "title": "Uganda says exploration results show it has 31 million tonnes of gold ore",
           "imageUrl": "https://www.mining.com/wp-content/uploads/2019/10/3804945402_3db744fb4b_k.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/linked/152087/three-arrows-capital-boss-breaks-silence-amid-insolvency-rumors?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Three Arrows Capital boss breaks silence amid insolvency rumours",
-          "link": "https://www.theblock.co/linked/152087/three-arrows-capital-boss-breaks-silence-amid-insolvency-rumors?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-06-15T07:00:02.000Z",
-          "wordCount": 1193,
-          "title": "Three Arrows Capital boss breaks silence amid insolvency rumours",
-          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2020/04/20200421_Three_arrows_capital.jpg"
         },
         {
           "id": "https://www.hertzbleed.com/",
@@ -201,7 +201,7 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 128,
+          "wordCount": 113,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         }
