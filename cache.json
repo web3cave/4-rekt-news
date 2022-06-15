@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
+          "author": null,
+          "description": "You were the chosen one!",
+          "link": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
+          "publishedOn": "2022-06-15T12:30:03.000Z",
+          "wordCount": null,
+          "title": "You were the chosen one!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mining.com/web/uganda-says-exploration-results-show-it-has-31-million-tonnes-of-gold-ore/",
           "author": null,
           "description": "Uganda says exploration results show it has 31 million tonnes of gold ore",
@@ -81,7 +91,7 @@
           "description": "URGENT: Signal Request Set Aave D3M bar to 0%",
           "link": "https://forum.makerdao.com/t/urgent-signal-request-set-aave-d3m-bar-to-0/15800",
           "publishedOn": "2022-06-15T01:00:03.000Z",
-          "wordCount": 2516,
+          "wordCount": 2545,
           "title": "URGENT: Signal Request Set Aave D3M bar to 0%",
           "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 909,
           "title": "💰 Otterscan | Grants",
           "imageUrl": "https://c.gitcoin.co/grants/634a5bba51fa4a55f6ff307e10f6f0c4/Screen_Shot_2021-12-12_at_19.15.24.png"
-        },
-        {
-          "id": "https://polymorphs.universe.xyz/",
-          "author": null,
-          "description": "Polymorphic Universe | Universe",
-          "link": "https://polymorphs.universe.xyz/",
-          "publishedOn": "2022-06-15T00:30:03.000Z",
-          "wordCount": 388,
-          "title": "Polymorphic Universe | Universe",
-          "imageUrl": "/_next/static/images/polymorphs-98acd806ab940d673b6d549c55f661b5.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=Tx4n0VqFmpE&feature=youtu.be",
@@ -161,7 +161,7 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 124,
+          "wordCount": 120,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         },
