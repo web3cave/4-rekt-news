@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.prnewswire.com/news-releases/circle-announces-a-fully-reserved-euro-backed-stablecoin-euro-coin-euroc-301569124.html",
+          "author": null,
+          "description": "Circle Announces a Fully-reserved, Euro-backed Stablecoin, Euro Coin (EUROC)",
+          "link": "https://www.prnewswire.com/news-releases/circle-announces-a-fully-reserved-euro-backed-stablecoin-euro-coin-euroc-301569124.html",
+          "publishedOn": "2022-06-16T15:00:03.000Z",
+          "wordCount": 1825,
+          "title": "Circle Announces a Fully-reserved, Euro-backed Stablecoin, Euro Coin (EUROC)",
+          "imageUrl": "https://mma.prnewswire.com/media/1220689/Circle_Logo.jpg?p=facebook"
+        },
+        {
           "id": "https://github.com/solana-labs/solana/issues/23211",
           "author": null,
           "description": "Network Stability rollout for quic/qos/fee markets · Issue #23211 · solana-labs/solana",
           "link": "https://github.com/solana-labs/solana/issues/23211",
           "publishedOn": "2022-06-16T13:00:03.000Z",
-          "wordCount": 6955,
+          "wordCount": 6956,
           "title": "Network Stability rollout for quic/qos/fee markets · Issue #23211 · solana-labs/solana",
           "imageUrl": "https://opengraph.githubassets.com/d83b3a63d6dcf262b926a09a8f6471aaaabc6e7b99315249cc55c8fe71b41bb1/solana-labs/solana/issues/23211"
         },
@@ -21,19 +31,9 @@
           "description": "compute budget/qos/fee priority change summary · Issue #23211 · solana-labs/solana",
           "link": "https://github.com/solana-labs/solana/issues/23211",
           "publishedOn": "2022-06-16T10:00:03.000Z",
-          "wordCount": 6955,
+          "wordCount": 6956,
           "title": "compute budget/qos/fee priority change summary · Issue #23211 · solana-labs/solana",
           "imageUrl": "https://opengraph.githubassets.com/d83b3a63d6dcf262b926a09a8f6471aaaabc6e7b99315249cc55c8fe71b41bb1/solana-labs/solana/issues/23211"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2Ev5uhU501g&feature=youtu.be",
-          "author": null,
-          "description": "The Merge updates, Cross-chain Superfluid and more - The Daily Gwei Refuel #386 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=2Ev5uhU501g&feature=youtu.be",
-          "publishedOn": "2022-06-16T08:30:03.000Z",
-          "wordCount": null,
-          "title": "The Merge updates, Cross-chain Superfluid and more - The Daily Gwei Refuel #386 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://axie.substack.com/p/originupdate",
@@ -91,7 +91,7 @@
           "description": "Issues · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
           "publishedOn": "2022-06-15T23:00:03.000Z",
-          "wordCount": 761,
+          "wordCount": 759,
           "title": "Issues · vyperlang/vyper",
           "imageUrl": "https://repository-images.githubusercontent.com/73461676/d3e6c900-6a1b-11ea-91be-d87dfda8b8e7"
         },
@@ -111,7 +111,7 @@
           "description": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
           "link": "https://web.archive.org/web/20220615195848/https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
           "publishedOn": "2022-06-15T21:00:07.000Z",
-          "wordCount": 1776,
+          "wordCount": 1809,
           "title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
           "imageUrl": "https://web.archive.org/web/20220615195848im_/https://static01.nyt.com/images/2022/06/13/business/00kraken/00kraken-facebookJumbo.jpg"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2022-06-15T17:00:07.000Z",
           "wordCount": 323,
           "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
-          "imageUrl": "https://opengraph.githubassets.com/77ffa74b0d327ff0448f854815d9654851bc56e8799dc9bc67be1abe5363e853/NethermindEth/warp"
+          "imageUrl": "https://opengraph.githubassets.com/77983a5032c5ff7ba32dcaa746b6849895ed62e7e1577e54c23b89b6b30eea7c/NethermindEth/warp"
         },
         {
           "id": "https://www.nansen.ai/post/announcing-nansen-connect-the-messaging-app-of-web3?utm_source=twitter&utm_medium=social&utm_campaign=NansenConnect_15June22",
@@ -201,7 +201,7 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 114,
+          "wordCount": 118,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         }
