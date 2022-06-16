@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.businessinsider.com/banks-cashless-world-disaster-economy-business-fintech-cash-crypto-2022-6",
+          "author": null,
+          "description": "Banks are trying to create a world without cash — that would be a disaster for the economy",
+          "link": "https://www.businessinsider.com/banks-cashless-world-disaster-economy-business-fintech-cash-crypto-2022-6",
+          "publishedOn": "2022-06-16T19:00:05.000Z",
+          "wordCount": 3028,
+          "title": "Banks are trying to create a world without cash — that would be a disaster for the economy",
+          "imageUrl": "https://i.insider.com/629f8d807498590019650ab6?width=1200&format=jpeg"
+        },
+        {
           "id": "https://www.nbcnews.com/pop-culture/pop-culture-news/anna-delvey-nft-interview-rcna33811?cid=sm_npd_nn_tw_ma",
           "author": null,
           "description": "Anna Sorokin plans to launch an NFT collection",
@@ -76,16 +86,6 @@
           "imageUrl": "https://opengraph.githubassets.com/d83b3a63d6dcf262b926a09a8f6471aaaabc6e7b99315249cc55c8fe71b41bb1/solana-labs/solana/issues/23211"
         },
         {
-          "id": "https://blog.soliditylang.org/2022/06/15/inline-assembly-memory-side-effects-bug/",
-          "author": null,
-          "description": "Optimizer Bug Regarding Memory Side Effects of Inline Assembly",
-          "link": "https://blog.soliditylang.org/2022/06/15/inline-assembly-memory-side-effects-bug/",
-          "publishedOn": "2022-06-16T08:00:03.000Z",
-          "wordCount": 1016,
-          "title": "Optimizer Bug Regarding Memory Side Effects of Inline Assembly",
-          "imageUrl": "/img/avatar-icon.png"
-        },
-        {
           "id": "https://axie.substack.com/p/originupdate",
           "author": null,
           "description": "🛠️ Origin Update 🛠️",
@@ -131,7 +131,7 @@
           "description": "Issues · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
           "publishedOn": "2022-06-15T23:00:03.000Z",
-          "wordCount": 764,
+          "wordCount": 770,
           "title": "Issues · vyperlang/vyper",
           "imageUrl": "https://repository-images.githubusercontent.com/73461676/d3e6c900-6a1b-11ea-91be-d87dfda8b8e7"
         },
@@ -193,7 +193,7 @@
           "publishedOn": "2022-06-15T17:00:07.000Z",
           "wordCount": 323,
           "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
-          "imageUrl": "https://opengraph.githubassets.com/66f99bb0688dd9b03ac337cbd63c9be9213f361da2c96315b866cba98593c8c4/NethermindEth/warp"
+          "imageUrl": "https://opengraph.githubassets.com/d0996f3851249e7cb79ac4cc3f54388da5139644887b074a32e4e5225fa90949/NethermindEth/warp"
         },
         {
           "id": "https://www.nansen.ai/post/announcing-nansen-connect-the-messaging-app-of-web3?utm_source=twitter&utm_medium=social&utm_campaign=NansenConnect_15June22",

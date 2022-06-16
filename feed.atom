@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T18:27:29.735Z</id>
+    <id>urn:2022-06-16T19:15:44.044Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T18:27:29.735Z</updated>
+    <updated>2022-06-16T19:15:44.044Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Banks are trying to create a world without cash — that would be a disaster for the economy]]></title>
+        <id>https://www.businessinsider.com/banks-cashless-world-disaster-economy-business-fintech-cash-crypto-2022-6</id>
+        <link href="https://www.businessinsider.com/banks-cashless-world-disaster-economy-business-fintech-cash-crypto-2022-6"/>
+        <updated>2022-06-16T19:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Banks are trying to create a world without cash — that would be a disaster for the economy]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anna Sorokin plans to launch an NFT collection]]></title>
         <id>https://www.nbcnews.com/pop-culture/pop-culture-news/anna-delvey-nft-interview-rcna33811?cid=sm_npd_nn_tw_ma</id>
@@ -71,16 +81,6 @@
         <link href="https://github.com/solana-labs/solana/issues/23211"/>
         <updated>2022-06-16T10:00:03.000Z</updated>
         <summary type="html"><![CDATA[compute budget/qos/fee priority change summary · Issue #23211 · solana-labs/solana]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizer Bug Regarding Memory Side Effects of Inline Assembly]]></title>
-        <id>https://blog.soliditylang.org/2022/06/15/inline-assembly-memory-side-effects-bug/</id>
-        <link href="https://blog.soliditylang.org/2022/06/15/inline-assembly-memory-side-effects-bug/"/>
-        <updated>2022-06-16T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Optimizer Bug Regarding Memory Side Effects of Inline Assembly]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
