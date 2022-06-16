@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T22:21:17.053Z</id>
+    <id>urn:2022-06-16T23:21:32.658Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T22:21:17.053Z</updated>
+    <updated>2022-06-16T23:21:32.658Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.businessinsider.com/banks-cashless-world-disaster-economy-business-fintech-cash-crypto-2022-6"/>
         <updated>2022-06-16T19:00:05.000Z</updated>
         <summary type="html"><![CDATA[Banks are trying to create a world without cash — that would be a disaster for the economy]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin: Cryptopayments Energy Efficiency]]></title>
+        <id>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125499"/>
+        <updated>2022-06-16T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin: Cryptopayments Energy Efficiency]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://medium.com/metamask/security-notice-extension-disk-encryption-issue-d437d4250863"/>
         <updated>2022-06-15T18:15:03.000Z</updated>
         <summary type="html"><![CDATA[Security Notice: Extension Disk Encryption Issue]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp]]></title>
-        <id>https://github.com/NethermindEth/warp/releases/tag/v2-audit</id>
-        <link href="https://github.com/NethermindEth/warp/releases/tag/v2-audit"/>
-        <updated>2022-06-15T17:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
