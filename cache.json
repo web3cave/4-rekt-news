@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://kraken-culture.notion.site/",
+          "author": null,
+          "description": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+          "link": "https://kraken-culture.notion.site/",
+          "publishedOn": "2022-06-16T03:00:07.000Z",
+          "wordCount": 12,
+          "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        },
+        {
+          "id": "https://vitalik.ca/general/2022/06/15/using_snarks.html",
+          "author": null,
+          "description": "Some ways to use ZK-SNARKs for privacy",
+          "link": "https://vitalik.ca/general/2022/06/15/using_snarks.html",
+          "publishedOn": "2022-06-16T03:00:06.000Z",
+          "wordCount": 3558,
+          "title": "Some ways to use ZK-SNARKs for privacy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gov.optimism.io/t/voting-cycle-1-roundup/2619/23?u=linda",
+          "author": null,
+          "description": "Voting Cycle #1: Roundup",
+          "link": "https://gov.optimism.io/t/voting-cycle-1-roundup/2619/23?u=linda",
+          "publishedOn": "2022-06-16T02:00:02.000Z",
+          "wordCount": 1590,
+          "title": "Voting Cycle #1: Roundup",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
+        },
+        {
           "id": "https://decrypt.co/102973/bill-gates-crypto-and-nfts-100-based-on-greater-fool-theory/",
           "author": null,
           "description": "Bill Gates: Crypto and NFTs '100% Based on Greater Fool Theory' - Decrypt",
@@ -21,29 +51,9 @@
           "description": "Issues · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
           "publishedOn": "2022-06-15T23:00:03.000Z",
-          "wordCount": 760,
+          "wordCount": 764,
           "title": "Issues · vyperlang/vyper",
           "imageUrl": "https://repository-images.githubusercontent.com/73461676/d3e6c900-6a1b-11ea-91be-d87dfda8b8e7"
-        },
-        {
-          "id": "https://variant.fund/writing/balance-product-protocol-web3",
-          "author": null,
-          "description": "Product vs. Protocol: Finding a Balance in Web3",
-          "link": "https://variant.fund/writing/balance-product-protocol-web3",
-          "publishedOn": "2022-06-15T22:00:04.000Z",
-          "wordCount": 1674,
-          "title": "Product vs. Protocol: Finding a Balance in Web3",
-          "imageUrl": "https://images.prismic.io/variant/f20441e2-e7d1-49fd-8ff2-22bdb4ff5124_ProtocolEquilibriumDiagram_01.jpeg?auto=compress,format"
-        },
-        {
-          "id": "https://gitcoin.co/grants/5987/pooltogether-inc-legal-funding",
-          "author": null,
-          "description": "💰 PoolTogether Inc Legal Funding | Grants",
-          "link": "https://gitcoin.co/grants/5987/pooltogether-inc-legal-funding",
-          "publishedOn": "2022-06-15T22:00:03.000Z",
-          "wordCount": 912,
-          "title": "💰 PoolTogether Inc Legal Funding | Grants",
-          "imageUrl": "https://c.gitcoin.co/grants/adf46c58f2e04782f5e37c952807808e/Banner.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=gRCm-MWxHAw&feature=youtu.be",
@@ -56,14 +66,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
+          "id": "https://web.archive.org/web/20220615195848/https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
           "author": null,
           "description": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
-          "link": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
+          "link": "https://web.archive.org/web/20220615195848/https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
           "publishedOn": "2022-06-15T21:00:07.000Z",
-          "wordCount": 1774,
+          "wordCount": 1809,
           "title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
-          "imageUrl": "https://static01.nyt.com/images/2022/06/13/business/00kraken/00kraken-facebookJumbo.jpg"
+          "imageUrl": "https://web.archive.org/web/20220615195848im_/https://static01.nyt.com/images/2022/06/13/business/00kraken/00kraken-facebookJumbo.jpg"
         },
         {
           "id": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
@@ -111,7 +121,7 @@
           "description": "Solana - A Stack Exchange Proposal",
           "link": "https://area51.stackexchange.com/proposals/126615",
           "publishedOn": "2022-06-15T20:00:03.000Z",
-          "wordCount": 592,
+          "wordCount": 583,
           "title": "Solana - A Stack Exchange Proposal",
           "imageUrl": null
         },
@@ -143,7 +153,7 @@
           "publishedOn": "2022-06-15T17:00:07.000Z",
           "wordCount": 323,
           "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
-          "imageUrl": "https://opengraph.githubassets.com/4eb420fc3e14c1b21984815d116ffbdb66ce4a4b674c89087f763fcd9f938dc7/NethermindEth/warp"
+          "imageUrl": "https://opengraph.githubassets.com/8df66c54448a9ae031781eff17061267efeabaae630733fb6fa0dd8a0e7fed9f/NethermindEth/warp"
         },
         {
           "id": "https://www.youtube.com/watch?v=IAqAl292ozs",
@@ -163,7 +173,7 @@
           "publishedOn": "2022-06-15T15:00:03.000Z",
           "wordCount": 3301,
           "title": "execution-apis/specification.md at main · ethereum/execution-apis",
-          "imageUrl": "https://opengraph.githubassets.com/396082576bd1e3eb1bf6befbb4b55ab3655af9c3041b787ea950171b2386c19a/ethereum/execution-apis"
+          "imageUrl": "https://opengraph.githubassets.com/756a2cd8ec364e99e570fd6aee541bdf44bd2875216e2cf83c3ed889b51fb18c/ethereum/execution-apis"
         },
         {
           "id": "https://www.nansen.ai/post/announcing-nansen-connect-the-messaging-app-of-web3?utm_source=twitter&utm_medium=social&utm_campaign=NansenConnect_15June22",
@@ -186,22 +196,12 @@
           "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/06/KrakenCulture_blogThumb-blue-1.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
-          "author": null,
-          "description": "You were the chosen one!",
-          "link": "https://www.youtube.com/watch?v=QiZNSzWIaLo&feature=youtu.be",
-          "publishedOn": "2022-06-15T12:30:03.000Z",
-          "wordCount": null,
-          "title": "You were the chosen one!",
-          "imageUrl": null
-        },
-        {
           "id": "https://mint.fun/",
           "author": null,
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 119,
+          "wordCount": 103,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         }
