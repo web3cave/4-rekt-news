@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2Ev5uhU501g&feature=youtu.be",
+          "author": null,
+          "description": "The Merge updates, Cross-chain Superfluid and more - The Daily Gwei Refuel #386 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=2Ev5uhU501g&feature=youtu.be",
+          "publishedOn": "2022-06-16T08:30:03.000Z",
+          "wordCount": null,
+          "title": "The Merge updates, Cross-chain Superfluid and more - The Daily Gwei Refuel #386 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://axie.substack.com/p/originupdate",
           "author": null,
           "description": "🛠️ Origin Update 🛠️",
           "link": "https://axie.substack.com/p/originupdate",
           "publishedOn": "2022-06-16T05:00:03.000Z",
-          "wordCount": null,
+          "wordCount": 413,
           "title": "🛠️ Origin Update 🛠️",
-          "imageUrl": null
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb23d1fec-ffc3-4977-bb33-0d1b817f3712_1112x1112.png"
         },
         {
           "id": "https://kraken-culture.notion.site/",
@@ -61,7 +71,7 @@
           "description": "Issues · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/issues?q=is%3Aissue+author%3Ahaydenadams",
           "publishedOn": "2022-06-15T23:00:03.000Z",
-          "wordCount": 761,
+          "wordCount": 759,
           "title": "Issues · vyperlang/vyper",
           "imageUrl": "https://repository-images.githubusercontent.com/73461676/d3e6c900-6a1b-11ea-91be-d87dfda8b8e7"
         },
@@ -86,6 +96,16 @@
           "imageUrl": "https://web.archive.org/web/20220615195848im_/https://static01.nyt.com/images/2022/06/13/business/00kraken/00kraken-facebookJumbo.jpg"
         },
         {
+          "id": "https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d",
+          "author": null,
+          "description": "Overly Optimistic Optimizer — Certora Bug Disclosure",
+          "link": "https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d",
+          "publishedOn": "2022-06-15T21:00:07.000Z",
+          "wordCount": 520,
+          "title": "Overly Optimistic Optimizer — Certora Bug Disclosure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mercatus.org/system/files/Sumner-NGDP-Targeting-sum-v1.pdf",
           "author": null,
           "description": "[PDF] Sumner-NGDP-Targeting-sum-v1.pdf",
@@ -104,16 +124,6 @@
           "wordCount": 1490,
           "title": "Citigroup is advising Celsius on possible solutions after withdrawal freeze",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200501_Citigroup_Custody-Daily.jpg"
-        },
-        {
-          "id": "https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d",
-          "author": null,
-          "description": "Overly Optimistic Optimizer — Certora Bug Disclosure",
-          "link": "https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d",
-          "publishedOn": "2022-06-15T21:00:07.000Z",
-          "wordCount": 520,
-          "title": "Overly Optimistic Optimizer — Certora Bug Disclosure",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=sfeMgwg5uTY&ab_channel=Cross-ChainExamination",
@@ -151,9 +161,9 @@
           "description": "Skyweaver: Fulfilling the Promise of a Crypto Game",
           "link": "https://indiggresearch.substack.com/p/skyweaver-fulfilling-the-promise?s=w",
           "publishedOn": "2022-06-15T18:15:03.000Z",
-          "wordCount": null,
+          "wordCount": 3941,
           "title": "Skyweaver: Fulfilling the Promise of a Crypto Game",
-          "imageUrl": null
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2484625-abce-469e-8669-7265f9c6d05d_728x388.png"
         },
         {
           "id": "https://github.com/NethermindEth/warp/releases/tag/v2-audit",
@@ -164,16 +174,6 @@
           "wordCount": 323,
           "title": "Release v2-audit: allow all paths in current directory for solc 0.7 (#564) · NethermindEth/warp",
           "imageUrl": "https://opengraph.githubassets.com/b7e661b2617e216cb0fd7a2955094603b9f1f2c3c6dc967668fdc4df9adc56fa/NethermindEth/warp"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IAqAl292ozs",
-          "author": null,
-          "description": "\"It's just money. It's made up\" – Margin Call (2011)",
-          "link": "https://www.youtube.com/watch?v=IAqAl292ozs",
-          "publishedOn": "2022-06-15T15:00:03.000Z",
-          "wordCount": null,
-          "title": "\"It's just money. It's made up\" – Margin Call (2011)",
-          "imageUrl": null
         },
         {
           "id": "https://www.nansen.ai/post/announcing-nansen-connect-the-messaging-app-of-web3?utm_source=twitter&utm_medium=social&utm_campaign=NansenConnect_15June22",
@@ -201,7 +201,7 @@
           "description": "mint.fun",
           "link": "https://mint.fun/",
           "publishedOn": "2022-06-14T19:00:05.000Z",
-          "wordCount": 122,
+          "wordCount": 131,
           "title": "mint.fun",
           "imageUrl": "https://mint.fun/default-meta-image.png"
         }
