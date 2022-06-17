@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T12:42:42.989Z</id>
+    <id>urn:2022-06-17T13:35:41.348Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-17T12:42:42.989Z</updated>
+    <updated>2022-06-17T13:35:41.348Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.theblock.co/post/152665/ftx-deribit-bitmex-liquidated-three-arrows-capital"/>
         <updated>2022-06-17T12:30:02.000Z</updated>
         <summary type="html"><![CDATA[FTX, Deribit and BitMEX liquidated Three Arrows Capital]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></title>
+        <id>https://www.nft.nyc/</id>
+        <link href="https://www.nft.nyc/"/>
+        <updated>2022-06-17T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://www.circle.com/en/euro-coin"/>
         <updated>2022-06-16T14:30:05.000Z</updated>
         <summary type="html"><![CDATA[Euro Coin (EUROC) I A Euro-Backed Stablecoin]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overly Optimistic Optimizer — Certora Bug Disclosure]]></title>
-        <id>https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d</id>
-        <link href="https://medium.com/certora/overly-optimistic-optimizer-certora-bug-disclosure-2101e3f7994d"/>
-        <updated>2022-06-15T21:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Overly Optimistic Optimizer — Certora Bug Disclosure]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
