@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.circle.com/blog/why-developers-can-trust-usdc",
+          "author": null,
+          "description": "Why Developers Can Trust USDC",
+          "link": "https://www.circle.com/blog/why-developers-can-trust-usdc",
+          "publishedOn": "2022-06-18T05:00:03.000Z",
+          "wordCount": 2425,
+          "title": "Why Developers Can Trust USDC",
+          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/USDC-developer.png#keepProtocol"
+        },
+        {
           "id": "https://www.amazon.com/Cryptopians-Idealism-Greed-Making-Cryptocurrency-ebook/dp/B08Y8MQ66Z?tag=ttrvin-20",
           "author": null,
           "description": "The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze eBook : Shin, Laura",
@@ -51,7 +61,7 @@
           "description": "Crypto lender BlockFi struggles to raise cash despite discount: source",
           "link": "https://nypost.com/2022/06/17/crypto-lender-blockfi-struggles-to-raise-cash-source-says/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
           "publishedOn": "2022-06-17T21:00:02.000Z",
-          "wordCount": 1413,
+          "wordCount": 1421,
           "title": "Crypto lender BlockFi struggles to raise cash despite discount: source",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/BlockFi-62.jpg?quality=75&strip=all&w=1024"
         },
@@ -61,7 +71,7 @@
           "description": "How Brand Hive Minds Thrive: Understanding Bitcoin’s Resilience · Volume 2, Issue 1",
           "link": "https://cryptoeconomicsystems.pubpub.org/pub/humayun-bitcoin-brand-resilience/release/1",
           "publishedOn": "2022-06-17T21:00:02.000Z",
-          "wordCount": 14796,
+          "wordCount": 14831,
           "title": "How Brand Hive Minds Thrive: Understanding Bitcoin’s Resilience · Volume 2, Issue 1",
           "imageUrl": "https://assets.pubpub.org/wk0mpy0v/41653772260145.jpg"
         },
@@ -76,22 +86,12 @@
           "imageUrl": "https://cdn.sanity.io/images/muknps09/production/f4f52a0a7184900440de65b41cb05e175627ebf0-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630"
         },
         {
-          "id": "https://www.youtube.com/watch?v=-gLsXXJzx8M",
-          "author": null,
-          "description": "Why Possible Insolvencies by Celsius and 3AC Could Spell Disaster for Crypto - Ep. 364",
-          "link": "https://www.youtube.com/watch?v=-gLsXXJzx8M",
-          "publishedOn": "2022-06-17T20:00:03.000Z",
-          "wordCount": null,
-          "title": "Why Possible Insolvencies by Celsius and 3AC Could Spell Disaster for Crypto - Ep. 364",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown",
           "author": null,
           "description": "Three Arrows Capital team sought funds for GBTC trade before meltdown",
           "link": "https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown",
           "publishedOn": "2022-06-17T19:30:03.000Z",
-          "wordCount": 1649,
+          "wordCount": 1623,
           "title": "Three Arrows Capital team sought funds for GBTC trade before meltdown",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/01/20210121_GBTC-Daily.png"
         },
@@ -101,7 +101,7 @@
           "description": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "link": "https://github.com/Inphi/eip4844-interop",
           "publishedOn": "2022-06-17T19:00:02.000Z",
-          "wordCount": 627,
+          "wordCount": 625,
           "title": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "imageUrl": "https://opengraph.githubassets.com/7f7b00a90005fbb9a328def8b9db62348a4d3a63a970efccd6855c89f9e57847/Inphi/eip4844-interop"
         },
@@ -131,7 +131,7 @@
           "description": "Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "link": "https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932",
           "publishedOn": "2022-06-17T15:00:03.000Z",
-          "wordCount": 989,
+          "wordCount": 1835,
           "title": "Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "imageUrl": "https://images.wsj.net/im-566362/social"
         },
@@ -151,7 +151,7 @@
           "description": "Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "link": "https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932",
           "publishedOn": "2022-06-17T14:30:03.000Z",
-          "wordCount": 989,
+          "wordCount": 1835,
           "title": "Battered Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "imageUrl": "https://images.wsj.net/im-566362/social"
         },
