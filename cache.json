@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://app.heromakerstudios.com/",
+          "id": "https://vitalik.ca/general/2022/06/15/using_snarks.html",
           "author": null,
-          "description": "Home",
-          "link": "https://app.heromakerstudios.com/",
-          "publishedOn": "2022-06-18T21:00:02.000Z",
-          "wordCount": 506,
-          "title": "Home",
-          "imageUrl": "https://app.heromakerstudios.com/thumbnail.png"
+          "description": "Some ways to use ZK-SNARKs for privacy",
+          "link": "https://vitalik.ca/general/2022/06/15/using_snarks.html",
+          "publishedOn": "2022-06-18T21:30:03.000Z",
+          "wordCount": 3646,
+          "title": "Some ways to use ZK-SNARKs for privacy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://doc.rust-lang.org/nightly/std/thread/fn.scope.html",
+          "author": null,
+          "description": "scope in std::thread - Rust",
+          "link": "https://doc.rust-lang.org/nightly/std/thread/fn.scope.html",
+          "publishedOn": "2022-06-18T20:30:02.000Z",
+          "wordCount": 371,
+          "title": "scope in std::thread - Rust",
+          "imageUrl": null
         },
         {
           "id": "https://en.wikipedia.org/wiki/Panic_of_1907",
@@ -41,7 +51,7 @@
           "description": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "link": "https://github.com/foundry-rs/foundry/",
           "publishedOn": "2022-06-18T19:00:03.000Z",
-          "wordCount": 1650,
+          "wordCount": 1406,
           "title": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "imageUrl": "https://opengraph.githubassets.com/26499126da36c2c1e0caa50d687847b7e5127e8112bc22059f232f238acc3709/foundry-rs/foundry"
         },
@@ -71,7 +81,7 @@
           "description": "Peg Stability Measures: Changing yvDAi interest rate",
           "link": "https://abracadabramoney.medium.com/peg-stability-measures-changing-yvdai-interest-rate-ca5c65c8b4b5",
           "publishedOn": "2022-06-18T17:30:03.000Z",
-          "wordCount": 1844,
+          "wordCount": 1847,
           "title": "Peg Stability Measures: Changing yvDAi interest rate",
           "imageUrl": "https://miro.medium.com/max/1012/1*ygmmTnEJg_RIbYMLSnUueg.jpeg"
         },
@@ -156,22 +166,12 @@
           "imageUrl": "https://cdn.sanity.io/images/muknps09/production/f4f52a0a7184900440de65b41cb05e175627ebf0-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630"
         },
         {
-          "id": "https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown",
-          "author": null,
-          "description": "Three Arrows Capital team sought funds for GBTC trade before meltdown",
-          "link": "https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown",
-          "publishedOn": "2022-06-17T19:30:03.000Z",
-          "wordCount": 75353,
-          "title": "Three Arrows Capital team sought funds for GBTC trade before meltdown",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/01/20210121_GBTC-Daily.png"
-        },
-        {
           "id": "https://github.com/Inphi/eip4844-interop",
           "author": null,
           "description": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "link": "https://github.com/Inphi/eip4844-interop",
           "publishedOn": "2022-06-17T19:00:02.000Z",
-          "wordCount": 627,
+          "wordCount": 453,
           "title": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "imageUrl": "https://opengraph.githubassets.com/cf30c2723d03cdaad17dead0e67ada35fb2638f7d64f59a3f089c1084560aff9/Inphi/eip4844-interop"
         },

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T21:18:06.581Z</id>
+    <id>urn:2022-06-18T22:19:11.290Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T21:18:06.581Z</updated>
+    <updated>2022-06-18T22:19:11.290Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Home]]></title>
-        <id>https://app.heromakerstudios.com/</id>
-        <link href="https://app.heromakerstudios.com/"/>
-        <updated>2022-06-18T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Home]]></summary>
+        <title type="html"><![CDATA[Some ways to use ZK-SNARKs for privacy]]></title>
+        <id>https://vitalik.ca/general/2022/06/15/using_snarks.html</id>
+        <link href="https://vitalik.ca/general/2022/06/15/using_snarks.html"/>
+        <updated>2022-06-18T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Some ways to use ZK-SNARKs for privacy]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[scope in std::thread - Rust]]></title>
+        <id>https://doc.rust-lang.org/nightly/std/thread/fn.scope.html</id>
+        <link href="https://doc.rust-lang.org/nightly/std/thread/fn.scope.html"/>
+        <updated>2022-06-18T20:30:02.000Z</updated>
+        <summary type="html"><![CDATA[scope in std::thread - Rust]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://www.fwb.help/wip/after-crypto-yancey-strickler-metalabel"/>
         <updated>2022-06-17T20:00:03.000Z</updated>
         <summary type="html"><![CDATA[After Crypto]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Arrows Capital team sought funds for GBTC trade before meltdown]]></title>
-        <id>https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown</id>
-        <link href="https://www.theblock.co/post/152735/three-arrows-capital-team-sought-funds-for-gbtc-trade-before-meltdown"/>
-        <updated>2022-06-17T19:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Three Arrows Capital team sought funds for GBTC trade before meltdown]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
