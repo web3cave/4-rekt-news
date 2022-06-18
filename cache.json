@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://trigun-anime.com/",
+          "author": null,
+          "description": "アニメ『TRIGUN STAMPEDE』",
+          "link": "https://trigun-anime.com/",
+          "publishedOn": "2022-06-18T15:30:03.000Z",
+          "wordCount": 55,
+          "title": "アニメ『TRIGUN STAMPEDE』",
+          "imageUrl": "https://trigun-anime.com/assets/og/ogp.jpg"
+        },
+        {
           "id": "https://gitcoin.co/grants/5987/pooltogether-inc-legal-funding",
           "author": null,
           "description": "💰 PoolTogether Inc Legal Funding | Grants",
@@ -76,16 +86,6 @@
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Three-Arrows-Capital.png"
         },
         {
-          "id": "https://nouns.vectordao.com/",
-          "author": null,
-          "description": "NOUNS X VECTOR NFT",
-          "link": "https://nouns.vectordao.com/",
-          "publishedOn": "2022-06-18T04:00:07.000Z",
-          "wordCount": 98,
-          "title": "NOUNS X VECTOR NFT",
-          "imageUrl": "https://nouns.vectordao.com/social_cover.jpg"
-        },
-        {
           "id": "https://www.vyperexamples.com/",
           "author": null,
           "description": "VyperExamples",
@@ -121,7 +121,7 @@
           "description": "Crypto lender BlockFi struggles to raise cash despite discount: source",
           "link": "https://nypost.com/2022/06/17/crypto-lender-blockfi-struggles-to-raise-cash-source-says/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
           "publishedOn": "2022-06-17T21:00:02.000Z",
-          "wordCount": 1420,
+          "wordCount": 1417,
           "title": "Crypto lender BlockFi struggles to raise cash despite discount: source",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/BlockFi-62.jpg?quality=75&strip=all&w=1024"
         },
@@ -161,7 +161,7 @@
           "description": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "link": "https://github.com/Inphi/eip4844-interop",
           "publishedOn": "2022-06-17T19:00:02.000Z",
-          "wordCount": 601,
+          "wordCount": 627,
           "title": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "imageUrl": "https://opengraph.githubassets.com/5d977e0f1211ee4cd453faa0f9f1edcf45abdb259341ad298b0ff4b373e76efb/Inphi/eip4844-interop"
         },
@@ -181,7 +181,7 @@
           "description": "Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "link": "https://www.wsj.com/articles/battered-crypto-hedge-fund-three-arrows-capital-considers-asset-sales-bailout-11655469932",
           "publishedOn": "2022-06-17T15:00:03.000Z",
-          "wordCount": 979,
+          "wordCount": 1821,
           "title": "Crypto Hedge Fund Three Arrows Capital Considers Asset Sales, Bailout",
           "imageUrl": "https://images.wsj.net/im-566362/social"
         },
