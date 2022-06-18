@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.heromakerstudios.com/",
+          "author": null,
+          "description": "Home",
+          "link": "https://app.heromakerstudios.com/",
+          "publishedOn": "2022-06-18T20:00:03.000Z",
+          "wordCount": 506,
+          "title": "Home",
+          "imageUrl": "https://app.heromakerstudios.com/thumbnail.png"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Panic_of_1907",
+          "author": null,
+          "description": "Panic of 1907 - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Panic_of_1907",
+          "publishedOn": "2022-06-18T20:00:02.000Z",
+          "wordCount": 8368,
+          "title": "Panic of 1907 - Wikipedia",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/1907_Panic_crop.png/1200px-1907_Panic_crop.png"
+        },
+        {
+          "id": "https://medium.com/@jillrgunter/short-convexity-8793f18629bb?_branch_match_id=1066751742011362844&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1U8P8a9wTSoKiihMAgBSdQO1IwAAAA%3D%3D",
+          "author": null,
+          "description": "Short Convexity",
+          "link": "https://medium.com/@jillrgunter/short-convexity-8793f18629bb?_branch_match_id=1066751742011362844&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1U8P8a9wTSoKiihMAgBSdQO1IwAAAA%3D%3D",
+          "publishedOn": "2022-06-18T20:00:02.000Z",
+          "wordCount": 3024,
+          "title": "Short Convexity",
+          "imageUrl": "https://miro.medium.com/max/400/1*dvowiuIou0jBrL12Qpo2Qw.png"
+        },
+        {
           "id": "https://github.com/foundry-rs/foundry/",
           "author": null,
           "description": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "link": "https://github.com/foundry-rs/foundry/",
           "publishedOn": "2022-06-18T19:00:03.000Z",
-          "wordCount": 1636,
+          "wordCount": 1406,
           "title": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
-          "imageUrl": "https://opengraph.githubassets.com/4ab63b37a86c8bfb64bf6f296606267b96d055bce063421421ff2573483f230e/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/e63778d9c4b48bacd55e03b2d9812ab1dedc7571c1d9db048f5165a5d696d414/foundry-rs/foundry"
         },
         {
           "id": "https://arxiv.org/pdf/2006.11156.pdf",
@@ -61,19 +91,9 @@
           "description": "Fat protocols are not an investment thesis",
           "link": "https://jake.mirror.xyz/WtZKdqwOY63UDuDxsoy4oA6Z0IuHIx2VhMCxoGVzyFA",
           "publishedOn": "2022-06-18T17:00:03.000Z",
-          "wordCount": 4818,
+          "wordCount": 4816,
           "title": "Fat protocols are not an investment thesis",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/80f75244-c288-4803-a494-cf68645b9c62.jpg?h=400&w=400"
-        },
-        {
-          "id": "https://app.heromakerstudios.com/",
-          "author": null,
-          "description": "Home",
-          "link": "https://app.heromakerstudios.com/",
-          "publishedOn": "2022-06-18T16:30:04.000Z",
-          "wordCount": 506,
-          "title": "Home",
-          "imageUrl": "https://app.heromakerstudios.com/thumbnail.png"
         },
         {
           "id": "https://trigun-anime.com/",
@@ -126,26 +146,6 @@
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Three-Arrows-Capital.png"
         },
         {
-          "id": "https://nypost.com/2022/06/17/crypto-lender-blockfi-struggles-to-raise-cash-source-says/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
-          "author": null,
-          "description": "Crypto lender BlockFi struggles to raise cash despite discount: source",
-          "link": "https://nypost.com/2022/06/17/crypto-lender-blockfi-struggles-to-raise-cash-source-says/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
-          "publishedOn": "2022-06-17T21:00:02.000Z",
-          "wordCount": 5948,
-          "title": "Crypto lender BlockFi struggles to raise cash despite discount: source",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/06/BlockFi-62.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://cryptoeconomicsystems.pubpub.org/pub/humayun-bitcoin-brand-resilience/release/1",
-          "author": null,
-          "description": "How Brand Hive Minds Thrive: Understanding Bitcoin’s Resilience · Volume 2, Issue 1",
-          "link": "https://cryptoeconomicsystems.pubpub.org/pub/humayun-bitcoin-brand-resilience/release/1",
-          "publishedOn": "2022-06-17T21:00:02.000Z",
-          "wordCount": 15067,
-          "title": "How Brand Hive Minds Thrive: Understanding Bitcoin’s Resilience · Volume 2, Issue 1",
-          "imageUrl": "https://assets.pubpub.org/wk0mpy0v/41653772260145.jpg"
-        },
-        {
           "id": "https://www.fwb.help/wip/after-crypto-yancey-strickler-metalabel",
           "author": null,
           "description": "After Crypto",
@@ -171,7 +171,7 @@
           "description": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "link": "https://github.com/Inphi/eip4844-interop",
           "publishedOn": "2022-06-17T19:00:02.000Z",
-          "wordCount": 619,
+          "wordCount": 627,
           "title": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "imageUrl": "https://opengraph.githubassets.com/cf30c2723d03cdaad17dead0e67ada35fb2638f7d64f59a3f089c1084560aff9/Inphi/eip4844-interop"
         },
