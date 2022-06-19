@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NLEC9ewf0wc&feature=youtu.be",
+          "author": null,
+          "description": "Butter Case - stop motion woodworking",
+          "link": "https://www.youtube.com/watch?v=NLEC9ewf0wc&feature=youtu.be",
+          "publishedOn": "2022-06-19T01:00:04.000Z",
+          "wordCount": null,
+          "title": "Butter Case - stop motion woodworking",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/yearn/veYFI/pull/160",
           "author": null,
           "description": "feat: permissionless veyfi by banteg · Pull Request #160 · yearn/veYFI",
@@ -36,6 +46,16 @@
           "imageUrl": "/drip.png"
         },
         {
+          "id": "https://doc.rust-lang.org/nightly/std/thread/fn.scope.html",
+          "author": null,
+          "description": "scope in std::thread - Rust",
+          "link": "https://doc.rust-lang.org/nightly/std/thread/fn.scope.html",
+          "publishedOn": "2022-06-18T20:30:02.000Z",
+          "wordCount": 371,
+          "title": "scope in std::thread - Rust",
+          "imageUrl": null
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/Panic_of_1907",
           "author": null,
           "description": "Panic of 1907 - Wikipedia",
@@ -61,9 +81,9 @@
           "description": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
           "link": "https://github.com/foundry-rs/foundry/",
           "publishedOn": "2022-06-18T19:00:03.000Z",
-          "wordCount": 1422,
+          "wordCount": 1661,
           "title": "GitHub - foundry-rs/foundry: Foundry is a blazing fast, portable and modular toolkit for Ethereum application...",
-          "imageUrl": "https://opengraph.githubassets.com/d45fe672122584be68091049088b01f3e881d2b8f6d7c831c35369588e369f76/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/4788c0a4b262cb8f3ed59dd4a822788f6f5318fc6c1bf5a8504c195c912454d5/foundry-rs/foundry"
         },
         {
           "id": "https://arxiv.org/pdf/2006.11156.pdf",
@@ -101,7 +121,7 @@
           "description": "Proportional Representation Is a Terrible Idea That The Left Should Not Embrace ❧ Current Affairs",
           "link": "https://www.currentaffairs.org/2022/06/proportional-representation-is-a-terrible-idea-that-the-left-should-not-embrace",
           "publishedOn": "2022-06-18T17:30:03.000Z",
-          "wordCount": 5398,
+          "wordCount": 5395,
           "title": "Proportional Representation Is a Terrible Idea That The Left Should Not Embrace ❧ Current Affairs",
           "imageUrl": "https://images.currentaffairs.org/2022/06/proportional-1024x646.jpg"
         },
@@ -114,16 +134,6 @@
           "wordCount": 4817,
           "title": "Fat protocols are not an investment thesis",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/80f75244-c288-4803-a494-cf68645b9c62.jpg?h=400&w=400"
-        },
-        {
-          "id": "https://trigun-anime.com/",
-          "author": null,
-          "description": "アニメ『TRIGUN STAMPEDE』",
-          "link": "https://trigun-anime.com/",
-          "publishedOn": "2022-06-18T15:30:03.000Z",
-          "wordCount": 166,
-          "title": "アニメ『TRIGUN STAMPEDE』",
-          "imageUrl": "https://trigun-anime.com/assets/og/ogp.jpg"
         },
         {
           "id": "https://gitcoin.co/grants/5987/pooltogether-inc-legal-funding",
@@ -156,14 +166,14 @@
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Three-Arrows-Capital.png"
         },
         {
-          "id": "https://www.fwb.help/wip/after-crypto-yancey-strickler-metalabel",
+          "id": "https://www.youtube.com/watch?v=wn8r674U1B4",
           "author": null,
-          "description": "After Crypto",
-          "link": "https://www.fwb.help/wip/after-crypto-yancey-strickler-metalabel",
-          "publishedOn": "2022-06-17T20:00:03.000Z",
-          "wordCount": 11232,
-          "title": "After Crypto",
-          "imageUrl": "https://cdn.sanity.io/images/muknps09/production/f4f52a0a7184900440de65b41cb05e175627ebf0-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630"
+          "description": "Flashbots: simple arbitrage repo walkthrough",
+          "link": "https://www.youtube.com/watch?v=wn8r674U1B4",
+          "publishedOn": "2022-06-17T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Flashbots: simple arbitrage repo walkthrough",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/Inphi/eip4844-interop",
@@ -171,9 +181,9 @@
           "description": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
           "link": "https://github.com/Inphi/eip4844-interop",
           "publishedOn": "2022-06-17T19:00:02.000Z",
-          "wordCount": 627,
+          "wordCount": 453,
           "title": "GitHub - Inphi/eip4844-interop: Testing EIP-4844 on EL and CL clients",
-          "imageUrl": "https://opengraph.githubassets.com/cf30c2723d03cdaad17dead0e67ada35fb2638f7d64f59a3f089c1084560aff9/Inphi/eip4844-interop"
+          "imageUrl": "https://opengraph.githubassets.com/0745741feac87a11a7cfe423e6c06617ed19e707321aafaef68f18fe35908230/Inphi/eip4844-interop"
         },
         {
           "id": "https://enter.pills.game/",
@@ -184,16 +194,6 @@
           "wordCount": 248,
           "title": "PILLS // The Search For The Signal",
           "imageUrl": "https://enter.pills.game/og_thumb_2_to_1.jpg"
-        },
-        {
-          "id": "https://www.washingtonpost.com/us-policy/2022/06/17/biden-gas-white-house/",
-          "author": null,
-          "description": "Soaring gas prices lead White House aides back to brainstorming",
-          "link": "https://www.washingtonpost.com/us-policy/2022/06/17/biden-gas-white-house/",
-          "publishedOn": "2022-06-17T14:30:03.000Z",
-          "wordCount": 6993,
-          "title": "Soaring gas prices lead White House aides back to brainstorming",
-          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5R6URXNOQI6ZH4QPHPR7MUCSY.jpg&w=1440"
         },
         {
           "id": "https://www.nft.nyc/",
