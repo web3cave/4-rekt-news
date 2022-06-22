@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "author": null,
+          "description": "Smart Contract Development with Foundry",
+          "link": "https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "publishedOn": "2022-06-22T18:00:05.000Z",
+          "wordCount": null,
+          "title": "Smart Contract Development with Foundry",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/voyager-digital-provides-market-update-301572971.html",
           "author": null,
           "description": "Voyager Digital Provides Market Update",
@@ -21,7 +31,7 @@
           "description": "Keanu Reeves and Partner Alexandra Grant Want to Make NFTs — and the Metaverse Itself — More Inclusive",
           "link": "https://www.hollywoodreporter.com/business/digital/keanu-reeves-alexandra-grant-nft-futureverse-foundation-1235169061/",
           "publishedOn": "2022-06-22T15:30:03.000Z",
-          "wordCount": 6069,
+          "wordCount": 6060,
           "title": "Keanu Reeves and Partner Alexandra Grant Want to Make NFTs — and the Metaverse Itself — More Inclusive",
           "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Print-Issue-20-fea_philanthropy9-14-Venice-Biennale-Publicity-H-2022.jpg?w=1024"
         },
@@ -31,19 +41,9 @@
           "description": "dYdX V4 - The dYdX Chain",
           "link": "https://dydx.exchange/blog/dydx-chain",
           "publishedOn": "2022-06-22T15:30:02.000Z",
-          "wordCount": 19491,
+          "wordCount": 19506,
           "title": "dYdX V4 - The dYdX Chain",
           "imageUrl": "https://images.ctfassets.net/peywamf72mj3/K2YPYRZUa72J0mA03QUDW/81b3a78b7f374cd2a75e8d202195f231/The_dYdX_Chain__1_.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/153478/dydx-to-expand-to-its-own-blockchain-in-the-cosmos-ecosystem?utm_source=rss&utm_medium=rss",
-          "author": null,
-          "description": "dYdX to expand to its own blockchain in the Cosmos ecosystem",
-          "link": "https://www.theblock.co/post/153478/dydx-to-expand-to-its-own-blockchain-in-the-cosmos-ecosystem?utm_source=rss&utm_medium=rss",
-          "publishedOn": "2022-06-22T15:00:02.000Z",
-          "wordCount": 74337,
-          "title": "dYdX to expand to its own blockchain in the Cosmos ecosystem",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/10/20211006_dydx.jpg"
         },
         {
           "id": "https://finance.yahoo.com/news/ebay-acquires-leading-nft-marketplace-120500035.html",
@@ -51,9 +51,19 @@
           "description": "eBay Acquires Leading NFT Marketplace, KnownOrigin",
           "link": "https://finance.yahoo.com/news/ebay-acquires-leading-nft-marketplace-120500035.html",
           "publishedOn": "2022-06-22T15:00:02.000Z",
-          "wordCount": 15224,
+          "wordCount": 15098,
           "title": "eBay Acquires Leading NFT Marketplace, KnownOrigin",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/J6JgeG3svXbtiznWk_xRQQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/033be9f1fc808986a6cf62354d747cad"
+        },
+        {
+          "id": "https://www.theblock.co/post/153478/dydx-to-expand-to-its-own-blockchain-in-the-cosmos-ecosystem?utm_source=rss&utm_medium=rss",
+          "author": null,
+          "description": "dYdX to expand to its own blockchain in the Cosmos ecosystem",
+          "link": "https://www.theblock.co/post/153478/dydx-to-expand-to-its-own-blockchain-in-the-cosmos-ecosystem?utm_source=rss&utm_medium=rss",
+          "publishedOn": "2022-06-22T15:00:02.000Z",
+          "wordCount": 74464,
+          "title": "dYdX to expand to its own blockchain in the Cosmos ecosystem",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/10/20211006_dydx.jpg"
         },
         {
           "id": "https://medium.com/@M11PoolDelegate/up-to-date-financial-ratios-of-borrowers-point-to-solid-balance-sheets-across-the-board-4a066d8cc8d7",
@@ -163,16 +173,6 @@
           "publishedOn": "2022-06-21T21:30:04.000Z",
           "wordCount": 17,
           "title": "Deca NYC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sips.synthetix.io/sips/sip-254/",
-          "author": null,
-          "description": "SIP-254: Perps Trading Incentives",
-          "link": "https://sips.synthetix.io/sips/sip-254/",
-          "publishedOn": "2022-06-21T21:00:04.000Z",
-          "wordCount": 903,
-          "title": "SIP-254: Perps Trading Incentives",
           "imageUrl": null
         },
         {
