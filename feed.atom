@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-22T13:42:11.024Z</id>
+    <id>urn:2022-06-22T14:19:22.550Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-22T13:42:11.024Z</updated>
+    <updated>2022-06-22T14:19:22.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings"/>
         <updated>2022-06-22T11:30:03.000Z</updated>
         <summary type="html"><![CDATA[rotki Usage Guide — rotki 1.24.1 documentation]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[miniscan]]></title>
+        <id>https://miniscan.xyz/</id>
+        <link href="https://miniscan.xyz/"/>
+        <updated>2022-06-22T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[miniscan]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,16 +131,6 @@
         <link href="https://sips.synthetix.io/sips/sip-254/"/>
         <updated>2022-06-21T21:00:04.000Z</updated>
         <summary type="html"><![CDATA[SIP-254: Perps Trading Incentives]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current job openings - Magic Eden]]></title>
-        <id>https://careers.magiceden.io/jobs</id>
-        <link href="https://careers.magiceden.io/jobs"/>
-        <updated>2022-06-21T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Current job openings - Magic Eden]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
