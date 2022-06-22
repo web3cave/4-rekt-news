@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lido.fi/additions-to-ethereum-node-operator-set-wave-4/",
+          "author": null,
+          "description": "Additions to Ethereum Node Operator Set - Wave 4",
+          "link": "https://blog.lido.fi/additions-to-ethereum-node-operator-set-wave-4/",
+          "publishedOn": "2022-06-22T06:00:05.000Z",
+          "wordCount": 1582,
+          "title": "Additions to Ethereum Node Operator Set - Wave 4",
+          "imageUrl": "https://blog.lido.fi/content/images/2022/06/1200x675-eth-wave4-1.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1jSiVpR3rJQ&feature=youtu.be",
+          "author": null,
+          "description": "Sepolia beacon chain, ZigZag token and more - The Daily Gwei Refuel #390 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=1jSiVpR3rJQ&feature=youtu.be",
+          "publishedOn": "2022-06-22T06:00:05.000Z",
+          "wordCount": null,
+          "title": "Sepolia beacon chain, ZigZag token and more - The Daily Gwei Refuel #390 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=edESPWXLhP4&feature=youtu.be",
           "author": null,
           "description": "CFTC Commissioner Caroline Pham on Why US Crypto Regulators Get a B- Ep. 365",
@@ -16,14 +36,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.moneyandstate.com/blog/way-of-the-dao",
+          "id": "https://doodles.app/",
           "author": null,
-          "description": "Way of the DAO — Money and State",
-          "link": "https://www.moneyandstate.com/blog/way-of-the-dao",
-          "publishedOn": "2022-06-22T04:00:02.000Z",
-          "wordCount": 4444,
-          "title": "Way of the DAO — Money and State",
-          "imageUrl": "http://static1.squarespace.com/static/6251a742ad352744a3b43dbc/6251a8626bce4e7cd5ade801/62af13c84a995d7c1e2020ff/1655813982432/Cole_Thomas_The_Oxbow_%2528The_Connecticut_River_near_Northampton_1836%2529.jpg?format=1500w"
+          "description": "Doodles",
+          "link": "https://doodles.app/",
+          "publishedOn": "2022-06-22T05:00:02.000Z",
+          "wordCount": 1769,
+          "title": "Doodles",
+          "imageUrl": "https://doodles.app/og.png"
         },
         {
           "id": "https://www.politico.com/newsletters/digital-future-daily/2022/06/21/inside-the-mempool-where-crypto-risks-hide-00041132",
@@ -31,7 +51,7 @@
           "description": "Inside the 'mempool,' where crypto risks hide",
           "link": "https://www.politico.com/newsletters/digital-future-daily/2022/06/21/inside-the-mempool-where-crypto-risks-hide-00041132",
           "publishedOn": "2022-06-22T04:00:02.000Z",
-          "wordCount": 2450,
+          "wordCount": 2451,
           "title": "Inside the 'mempool,' where crypto risks hide",
           "imageUrl": "https://static.politico.com/ca/6e/73ed87a64d84ae6e4b21a5a8a1a2/download-51.jpeg"
         },
@@ -61,7 +81,7 @@
           "description": "GitHub - LeXpunK-Army/MiCA-GUIDANCE",
           "link": "https://github.com/LeXpunK-Army/MiCA-GUIDANCE",
           "publishedOn": "2022-06-21T23:00:04.000Z",
-          "wordCount": 474,
+          "wordCount": 497,
           "title": "GitHub - LeXpunK-Army/MiCA-GUIDANCE",
           "imageUrl": "https://opengraph.githubassets.com/54f46ffa0bcb8d3e98f38ae775240b6a5ded1d48e88bce8d3e5e9cc20fd99dcf/LeXpunK-Army/MiCA-GUIDANCE"
         },
@@ -146,26 +166,6 @@
           "imageUrl": "https://uniswap.org/images/posts/genie/hero.png"
         },
         {
-          "id": "https://metaverse-standards.org/",
-          "author": null,
-          "description": "The Metaverse Standards Forum",
-          "link": "https://metaverse-standards.org/",
-          "publishedOn": "2022-06-21T20:00:03.000Z",
-          "wordCount": 8916,
-          "title": "The Metaverse Standards Forum",
-          "imageUrl": "https://metaverse-standards.org/wp-content/uploads/MSF-Hero-Wide.png"
-        },
-        {
-          "id": "https://www.globenewswire.com/news-release/2022/06/21/2466148/0/en/Rigetti-Computing-Expands-Global-Presence-with-UK-Quantum-Computer-Launch.html",
-          "author": null,
-          "description": "Rigetti Computing Expands Global Presence with UK Quantum Computer Launch",
-          "link": "https://www.globenewswire.com/news-release/2022/06/21/2466148/0/en/Rigetti-Computing-Expands-Global-Presence-with-UK-Quantum-Computer-Launch.html",
-          "publishedOn": "2022-06-21T19:00:04.000Z",
-          "wordCount": 2625,
-          "title": "Rigetti Computing Expands Global Presence with UK Quantum Computer Launch",
-          "imageUrl": "https://ml.globenewswire.com/Resource/Download/82b5a2bb-af2f-4af8-9faf-bc743c580783?size=1"
-        },
-        {
           "id": "https://avc.com/2022/06/staying-positive-2/",
           "author": null,
           "description": "Staying Positive - AVC",
@@ -176,13 +176,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=q3cZTE7Pt-0",
+          "id": "https://danromero.org/excited-for-this-build-cycle.html",
           "author": null,
-          "description": "Code: Axie Panel live from NFTNYC 2022",
-          "link": "https://www.youtube.com/watch?v=q3cZTE7Pt-0",
-          "publishedOn": "2022-06-21T15:00:04.000Z",
-          "wordCount": null,
-          "title": "Code: Axie Panel live from NFTNYC 2022",
+          "description": "What I'm excited for this build cycle",
+          "link": "https://danromero.org/excited-for-this-build-cycle.html",
+          "publishedOn": "2022-06-21T15:30:03.000Z",
+          "wordCount": 226,
+          "title": "What I'm excited for this build cycle",
           "imageUrl": null
         },
         {
@@ -208,5 +208,5 @@
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
