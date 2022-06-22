@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings",
+          "author": null,
+          "description": "rotki Usage Guide — rotki 1.24.1 documentation",
+          "link": "https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings",
+          "publishedOn": "2022-06-22T11:30:03.000Z",
+          "wordCount": 10567,
+          "title": "rotki Usage Guide — rotki 1.24.1 documentation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=b5PF-Ff0mlA&feature=youtu.be",
           "author": null,
           "description": "Hollywood will be radically disrupted in the next 5 years because of this technology",
@@ -136,6 +146,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=k8vL_qeg36Y",
+          "author": null,
+          "description": "Chris Whinfrey @ Hop Protocol || DAO Talk Interviews #1",
+          "link": "https://www.youtube.com/watch?v=k8vL_qeg36Y",
+          "publishedOn": "2022-06-21T21:00:04.000Z",
+          "wordCount": null,
+          "title": "Chris Whinfrey @ Hop Protocol || DAO Talk Interviews #1",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ethereum.org/2022/06/21/testnet-deprecation/",
           "author": null,
           "description": "Ropsten, Rinkeby & Kiln Deprecation Announcement",
@@ -161,7 +181,7 @@
           "description": "GitHub - informalsystems/multisig: A tool for managing multisig txs with multiple keys across multiple cosmos-sdk chains",
           "link": "https://github.com/informalsystems/multisig",
           "publishedOn": "2022-06-21T19:00:04.000Z",
-          "wordCount": 2399,
+          "wordCount": 2523,
           "title": "GitHub - informalsystems/multisig: A tool for managing multisig txs with multiple keys across multiple cosmos-sdk chains",
           "imageUrl": "https://opengraph.githubassets.com/a55b02d0a5c27e8814977e1b3a794bcee497c6d4759f6b836dbf2e015ffe92f7/informalsystems/multisig"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ultrasound.money/",
-          "author": null,
-          "description": "Ultra Sound Money",
-          "link": "https://ultrasound.money/",
-          "publishedOn": "2022-06-21T11:00:03.000Z",
-          "wordCount": 775,
-          "title": "Ultra Sound Money",
-          "imageUrl": "https://ultrasound.money/og-image.png"
-        },
-        {
           "id": "https://blog.ethereum.org/2022/06/21/fellowship-cohort-2-applications-roundup/",
           "author": null,
           "description": "Fellowship Program: Cohort #2 Applications Open & Cohort #1 Roundup",
@@ -194,16 +204,6 @@
           "wordCount": 1112,
           "title": "Fellowship Program: Cohort #2 Applications Open & Cohort #1 Roundup",
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
-          "id": "https://vitalik.ca/general/2022/06/20/backpack.html",
-          "author": null,
-          "description": "My 40-liter backpack travel guide",
-          "link": "https://vitalik.ca/general/2022/06/20/backpack.html",
-          "publishedOn": "2022-06-20T16:00:06.000Z",
-          "wordCount": 2806,
-          "title": "My 40-liter backpack travel guide",
-          "imageUrl": null
         }
       ]
     }
