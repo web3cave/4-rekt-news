@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://docs.house.gov/meetings/AP/AP00/20220624/114951/HMKP-117-AP00-20220624-SD002.pdf",
+          "author": null,
+          "description": "[PDF] HMKP-117-AP00-20220624-SD002.pdf",
+          "link": "https://docs.house.gov/meetings/AP/AP00/20220624/114951/HMKP-117-AP00-20220624-SD002.pdf",
+          "publishedOn": "2022-06-23T20:00:05.000Z",
+          "wordCount": 26582,
+          "title": "[PDF] HMKP-117-AP00-20220624-SD002.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rated.network/",
+          "author": null,
+          "description": "Rated landing page",
+          "link": "https://www.rated.network/",
+          "publishedOn": "2022-06-23T20:00:05.000Z",
+          "wordCount": 390,
+          "title": "Rated landing page",
+          "imageUrl": null
+        },
+        {
           "id": "https://chain.link/block-stories?utm_medium=organic-social&utm_source=twitter-official&utm_campaign=block-stories&utm_content=ep01",
           "author": null,
           "description": "Block Stories | Chainlink",
@@ -14,26 +34,6 @@
           "wordCount": 1410,
           "title": "Block Stories | Chainlink",
           "imageUrl": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/62ab0fb6e47314548bcd80a8_bs-og-episode01.jpg"
-        },
-        {
-          "id": "https://polynya.mirror.xyz/FRx52UBNaRPd3Brq_C_W_3OV0AnBdkc0if5dPTnQYpE",
-          "author": null,
-          "description": "Rollups are the only solution to global scale (2022 edition)",
-          "link": "https://polynya.mirror.xyz/FRx52UBNaRPd3Brq_C_W_3OV0AnBdkc0if5dPTnQYpE",
-          "publishedOn": "2022-06-23T19:00:06.000Z",
-          "wordCount": 3201,
-          "title": "Rollups are the only solution to global scale (2022 edition)",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
-        },
-        {
-          "id": "https://mattereum.com/",
-          "author": null,
-          "description": "MATTEREUM",
-          "link": "https://mattereum.com/",
-          "publishedOn": "2022-06-23T19:00:05.000Z",
-          "wordCount": 5155,
-          "title": "MATTEREUM",
-          "imageUrl": "https://i0.wp.com/mattereum.com/wp-content/uploads/2022/06/Featured-Mattereum.jpg?fit=1200%2C628&ssl=1"
         },
         {
           "id": "https://www.notboring.co/p/web3-use-cases-today",
@@ -71,7 +71,7 @@
           "description": "A Note on Bailouts and Crypto Leverage | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/a-note-on-bailouts-and-crypto-leverage-421499824684904048",
           "publishedOn": "2022-06-23T16:30:03.000Z",
-          "wordCount": 5639,
+          "wordCount": 5613,
           "title": "A Note on Bailouts and Crypto Leverage | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220623/4edc6149-c5ba-4084-84a6-2681d8965150.png"
         },
@@ -81,7 +81,7 @@
           "description": "Core",
           "link": "https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb",
           "publishedOn": "2022-06-23T15:30:04.000Z",
-          "wordCount": 1532,
+          "wordCount": 1536,
           "title": "Core",
           "imageUrl": "https://lh3.googleusercontent.com/uSYrwIYFZ-7kwg0-P_0YKubeNhFUN_jGg9J8bPbCOYjwW94jbFCEMqHUaV35sn0bvqujkuy6M72gjIRD4NTCirsQpXc=w128-h128-e365-rj-sc0x00ffffff"
         },
@@ -141,7 +141,7 @@
           "description": "Coinbase to Phase Out Trader-Friendly ‘Pro’ Exchange - Decrypt",
           "link": "https://decrypt.co/103611/coinbase-to-phase-out-trader-friendly-pro-exchange?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2022-06-23T05:00:03.000Z",
-          "wordCount": 6027,
+          "wordCount": 6041,
           "title": "Coinbase to Phase Out Trader-Friendly ‘Pro’ Exchange - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/C8E9B3ED-003A-4C6B-8D6C-48AC2835FCDE-4887-0000020EA90FAA12-gID_4.jpg"
         },
@@ -166,16 +166,6 @@
           "imageUrl": "https://fundingthecommons.io/images/jun22/open-graph-jun22.jpg"
         },
         {
-          "id": "https://medium.com/@0x84003239/ethcc-stole-our-200-tickets-bf0904b9354a",
-          "author": null,
-          "description": "EthCC Stole Our 200 tickets",
-          "link": "https://medium.com/@0x84003239/ethcc-stole-our-200-tickets-bf0904b9354a",
-          "publishedOn": "2022-06-22T21:00:02.000Z",
-          "wordCount": 4226,
-          "title": "EthCC Stole Our 200 tickets",
-          "imageUrl": "https://miro.medium.com/max/448/0*fcxEaXT307cB9jmS.png"
-        },
-        {
           "id": "https://multicoin.capital/es/2022/06/22/beyond-verticalization-of-nft-marketplaces/",
           "author": null,
           "description": "Multicoin Capital: Beyond Verticalization of NFT Marketplaces",
@@ -184,6 +174,16 @@
           "wordCount": 3614,
           "title": "Multicoin Capital: Beyond Verticalization of NFT Marketplaces",
           "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
+        },
+        {
+          "id": "https://medium.com/@0x84003239/ethcc-stole-our-200-tickets-bf0904b9354a",
+          "author": null,
+          "description": "EthCC Stole Our 200 tickets",
+          "link": "https://medium.com/@0x84003239/ethcc-stole-our-200-tickets-bf0904b9354a",
+          "publishedOn": "2022-06-22T21:00:02.000Z",
+          "wordCount": 4226,
+          "title": "EthCC Stole Our 200 tickets",
+          "imageUrl": "https://miro.medium.com/max/448/0*fcxEaXT307cB9jmS.png"
         },
         {
           "id": "https://www.eventbrite.com/e/funding-the-commons-registration-321958224717",
