@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-23T07:20:27.731Z</id>
+    <id>urn:2022-06-23T08:29:24.298Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-23T07:20:27.731Z</updated>
+    <updated>2022-06-23T08:29:24.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[rotki Usage Guide — rotki 1.24.1 documentation]]></title>
+        <id>https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings</id>
+        <link href="https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings"/>
+        <updated>2022-06-23T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[rotki Usage Guide — rotki 1.24.1 documentation]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wayback Machine]]></title>
         <id>http://web.archive.org/web/20211001000000*/twitter.com/alamedaresearch</id>
@@ -191,16 +201,6 @@
         <link href="https://doodles.app/"/>
         <updated>2022-06-22T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Doodles]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ropsten, Rinkeby & Kiln Deprecation Announcement]]></title>
-        <id>https://blog.ethereum.org/2022/06/21/testnet-deprecation/</id>
-        <link href="https://blog.ethereum.org/2022/06/21/testnet-deprecation/"/>
-        <updated>2022-06-21T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ropsten, Rinkeby & Kiln Deprecation Announcement]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
