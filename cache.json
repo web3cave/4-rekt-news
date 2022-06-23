@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings",
-          "author": null,
-          "description": "rotki Usage Guide — rotki 1.24.1 documentation",
-          "link": "https://rotki.readthedocs.io/en/latest/usage_guide.html#price-oracle-settings",
-          "publishedOn": "2022-06-23T07:30:03.000Z",
-          "wordCount": 10567,
-          "title": "rotki Usage Guide — rotki 1.24.1 documentation",
-          "imageUrl": null
-        },
-        {
           "id": "http://web.archive.org/web/20211001000000*/twitter.com/alamedaresearch",
           "author": null,
           "description": "Wayback Machine",
           "link": "http://web.archive.org/web/20211001000000*/twitter.com/alamedaresearch",
           "publishedOn": "2022-06-23T07:00:02.000Z",
-          "wordCount": 5109,
+          "wordCount": 5108,
           "title": "Wayback Machine",
           "imageUrl": null
         },
@@ -71,7 +61,7 @@
           "description": "EthCC Stole Our 200 tickets",
           "link": "https://medium.com/@0x84003239/ethcc-stole-our-200-tickets-bf0904b9354a",
           "publishedOn": "2022-06-22T21:00:02.000Z",
-          "wordCount": 4260,
+          "wordCount": 3943,
           "title": "EthCC Stole Our 200 tickets",
           "imageUrl": "https://miro.medium.com/max/448/0*fcxEaXT307cB9jmS.png"
         },
@@ -156,6 +146,16 @@
           "imageUrl": "https://images.ctfassets.net/peywamf72mj3/4wGEQaQBD8eOdgdksJZlkB/f86ad4edad03627a9d9bf07d2e38bc69/v4-full-decentralization.png"
         },
         {
+          "id": "https://rekt.news/everyone-rekt/",
+          "author": null,
+          "description": "Rekt - Everyone - REKT",
+          "link": "https://rekt.news/everyone-rekt/",
+          "publishedOn": "2022-06-22T15:00:03.000Z",
+          "wordCount": 1486,
+          "title": "Rekt - Everyone - REKT",
+          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/06/everyone-header.png"
+        },
+        {
           "id": "https://medium.com/@M11PoolDelegate/up-to-date-financial-ratios-of-borrowers-point-to-solid-balance-sheets-across-the-board-4a066d8cc8d7",
           "author": null,
           "description": "Update on Maven 11 pools on Maple Finance",
@@ -171,7 +171,7 @@
           "description": "eBay Acquires Leading NFT Marketplace, KnownOrigin",
           "link": "https://finance.yahoo.com/news/ebay-acquires-leading-nft-marketplace-120500035.html",
           "publishedOn": "2022-06-22T15:00:02.000Z",
-          "wordCount": 15302,
+          "wordCount": 15304,
           "title": "eBay Acquires Leading NFT Marketplace, KnownOrigin",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/J6JgeG3svXbtiznWk_xRQQ--~B/aD0xNzE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/033be9f1fc808986a6cf62354d747cad"
         },
