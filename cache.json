@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/05/19/opinion/privacy-technology-data.html",
+          "author": null,
+          "description": "Opinion | We Need to Take Back Our Privacy",
+          "link": "https://www.nytimes.com/2022/05/19/opinion/privacy-technology-data.html",
+          "publishedOn": "2022-06-24T22:00:04.000Z",
+          "wordCount": 8447,
+          "title": "Opinion | We Need to Take Back Our Privacy",
+          "imageUrl": "https://static01.nyt.com/images/2022/05/22/opinion/16tufecki-image/16tufecki-image-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "author": null,
+          "description": "Meet Zoltan, the sellside Jules Verne",
+          "link": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "publishedOn": "2022-06-24T21:30:03.000Z",
+          "wordCount": 3726,
+          "title": "Meet Zoltan, the sellside Jules Verne",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RjrA-slMoZ4&feature=youtu.be",
+          "author": null,
+          "description": "Eminem & Snoop Dogg - From The D 2 The LBC [Official Music Video]",
+          "link": "https://www.youtube.com/watch?v=RjrA-slMoZ4&feature=youtu.be",
+          "publishedOn": "2022-06-24T21:30:03.000Z",
+          "wordCount": null,
+          "title": "Eminem & Snoop Dogg - From The D 2 The LBC [Official Music Video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://open.spotify.com/episode/1zYvjE0IjXFnwh7ASfOMpV?si=sfK-CaPkSluGPYU2OidMPw",
           "author": null,
           "description": "Weekly Roundup 06/24/22 (FTX steps in, 3AC postmortem,  fraying DeFi governance) (EP.328)",
@@ -71,7 +101,7 @@
           "description": "A letter from the Founders",
           "link": "https://medium.com/@team_69582/a-letter-from-the-founders-678e5a3431e7",
           "publishedOn": "2022-06-24T17:00:03.000Z",
-          "wordCount": 3261,
+          "wordCount": 3264,
           "title": "A letter from the Founders",
           "imageUrl": "https://miro.medium.com/max/1200/1*dfa91TYoekxJqleYZxqZZQ.jpeg"
         },
@@ -101,7 +131,7 @@
           "description": "Inside crypto's 'biggest deleveraging event' and the Three Arrows Capital fallout",
           "link": "https://www.theblock.co/post/153713/inside-cryptos-biggest-deleveraging-event-and-the-three-arrows-capital-fallout",
           "publishedOn": "2022-06-24T17:00:02.000Z",
-          "wordCount": 75114,
+          "wordCount": 75152,
           "title": "Inside crypto's 'biggest deleveraging event' and the Three Arrows Capital fallout",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220624_TheScoop_Larry-Cermak-Evgeny-Gaevoy_16_x_9.jpg"
         },
@@ -121,7 +151,7 @@
           "description": "Japanese man loses USB stick with entire city's personal details",
           "link": "https://www.bbc.co.uk/news/world-asia-61921222",
           "publishedOn": "2022-06-24T13:00:04.000Z",
-          "wordCount": 4247,
+          "wordCount": 4263,
           "title": "Japanese man loses USB stick with entire city's personal details",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/18006/production/_125601389_gettyimages-1230479227.jpg"
         },
@@ -146,34 +176,14 @@
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         },
         {
-          "id": "https://www.vbagame.com/",
-          "author": null,
-          "description": "VBA",
-          "link": "https://www.vbagame.com/",
-          "publishedOn": "2022-06-24T00:00:03.000Z",
-          "wordCount": 686,
-          "title": "VBA",
-          "imageUrl": "seo-image.png"
-        },
-        {
           "id": "https://money.yahoo.com/retirement-savers-lose-stock-market-201508667.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "author": null,
           "description": "Retirement savers lose over $3 trillion in stock market retreat",
           "link": "https://money.yahoo.com/retirement-savers-lose-stock-market-201508667.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-06-24T00:00:02.000Z",
-          "wordCount": 14860,
+          "wordCount": 14859,
           "title": "Retirement savers lose over $3 trillion in stock market retreat",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s8_BQ5FXquQPdJDqZeh.Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33c557e0-eb68-11ec-8fc6-679eb0a96243"
-        },
-        {
-          "id": "https://cryptofees.info/",
-          "author": null,
-          "description": "CryptoFees.info",
-          "link": "https://cryptofees.info/",
-          "publishedOn": "2022-06-23T23:30:03.000Z",
-          "wordCount": 2304,
-          "title": "CryptoFees.info",
-          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
@@ -181,7 +191,7 @@
           "description": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "link": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-06-23T23:00:04.000Z",
-          "wordCount": 74356,
+          "wordCount": 74661,
           "title": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 3298,
           "title": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
-        },
-        {
-          "id": "https://fuel-labs.ghost.io/introducing-swayswap/",
-          "author": null,
-          "description": "Introducing SwaySwap: A Blazingly Fast DEX on Ethereum's Modular Execution Layer",
-          "link": "https://fuel-labs.ghost.io/introducing-swayswap/",
-          "publishedOn": "2022-06-23T17:00:03.000Z",
-          "wordCount": 926,
-          "title": "Introducing SwaySwap: A Blazingly Fast DEX on Ethereum's Modular Execution Layer",
-          "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/06/Fuel_Trailer_Still_6.jpg"
         }
       ]
     }
