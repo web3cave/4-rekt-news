@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://onthebrink-podcast.com/blockfi-jun22/",
+          "author": null,
+          "description": "Zac Prince (BlockFi) on Navigating Through the Storm (EP.329) - On the Brink Podcast",
+          "link": "https://onthebrink-podcast.com/blockfi-jun22/",
+          "publishedOn": "2022-06-24T17:30:03.000Z",
+          "wordCount": 1553,
+          "title": "Zac Prince (BlockFi) on Navigating Through the Storm (EP.329) - On the Brink Podcast",
+          "imageUrl": "https://onthebrink-podcast.com/wp-content/uploads/prince_jun22.png"
+        },
+        {
           "id": "https://www.wsj.com/articles/crypto-exchange-ftx-in-talks-to-acquire-stake-in-blockfi-11656083179?reflink=e2twmkts",
           "author": null,
           "description": "WSJ News Exclusive | Crypto Exchange FTX in Talks to Acquire Stake in BlockFi",
           "link": "https://www.wsj.com/articles/crypto-exchange-ftx-in-talks-to-acquire-stake-in-blockfi-11656083179?reflink=e2twmkts",
           "publishedOn": "2022-06-24T17:00:03.000Z",
-          "wordCount": 8389,
+          "wordCount": 8388,
           "title": "WSJ News Exclusive | Crypto Exchange FTX in Talks to Acquire Stake in BlockFi",
           "imageUrl": "https://images.wsj.net/im-569970/social"
         },
@@ -36,16 +46,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*dfa91TYoekxJqleYZxqZZQ.jpeg"
         },
         {
-          "id": "https://www.theblockresearch.com/ceramic-network-building-a-decentralized-network-of-composable-data-152446?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Ceramic Network: Building a Decentralized Network of Composable Data",
-          "link": "https://www.theblockresearch.com/ceramic-network-building-a-decentralized-network-of-composable-data-152446?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-06-24T17:00:03.000Z",
-          "wordCount": 1932,
-          "title": "Ceramic Network: Building a Decentralized Network of Composable Data",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220615_Ceramic_Network_Research.jpg"
-        },
-        {
           "id": "https://www.theblock.co/post/153713/inside-cryptos-biggest-deleveraging-event-and-the-three-arrows-capital-fallout",
           "author": null,
           "description": "Inside crypto's 'biggest deleveraging event' and the Three Arrows Capital fallout",
@@ -61,7 +61,7 @@
           "description": "Meet Zoltan, the sellside Jules Verne",
           "link": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
           "publishedOn": "2022-06-24T15:30:03.000Z",
-          "wordCount": 3722,
+          "wordCount": 3735,
           "title": "Meet Zoltan, the sellside Jules Verne",
           "imageUrl": null
         },
@@ -71,7 +71,7 @@
           "description": "Japanese man loses USB stick with entire city's personal details",
           "link": "https://www.bbc.co.uk/news/world-asia-61921222",
           "publishedOn": "2022-06-24T13:00:04.000Z",
-          "wordCount": 4235,
+          "wordCount": 4255,
           "title": "Japanese man loses USB stick with entire city's personal details",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/18006/production/_125601389_gettyimages-1230479227.jpg"
         },
@@ -106,6 +106,16 @@
           "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/679d28c7b16d4928a398e263a8aae1c3a71cc39c-734x361.png?w=1200&fm=jpg"
         },
         {
+          "id": "https://blog.ethereum.org/2022/06/16/gray-glacier-announcement/",
+          "author": null,
+          "description": "Gray Glacier Upgrade Announcement",
+          "link": "https://blog.ethereum.org/2022/06/16/gray-glacier-announcement/",
+          "publishedOn": "2022-06-24T11:00:04.000Z",
+          "wordCount": 991,
+          "title": "Gray Glacier Upgrade Announcement",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
+        },
+        {
           "id": "https://www.vbagame.com/",
           "author": null,
           "description": "VBA",
@@ -121,7 +131,7 @@
           "description": "Retirement savers lose over $3 trillion in stock market retreat",
           "link": "https://money.yahoo.com/retirement-savers-lose-stock-market-201508667.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-06-24T00:00:02.000Z",
-          "wordCount": 15108,
+          "wordCount": 14881,
           "title": "Retirement savers lose over $3 trillion in stock market retreat",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s8_BQ5FXquQPdJDqZeh.Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33c557e0-eb68-11ec-8fc6-679eb0a96243"
         },
@@ -141,7 +151,7 @@
           "description": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "link": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-06-23T23:00:04.000Z",
-          "wordCount": 73963,
+          "wordCount": 73192,
           "title": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
         },
@@ -156,14 +166,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
         },
         {
-          "id": "https://www.theblock.co/post/153864/solanas-developers-unveil-web3-focused-mobile-phone",
+          "id": "https://revoke.cash/",
           "author": null,
-          "description": "Solana's developers unveil web3-focused mobile phone",
-          "link": "https://www.theblock.co/post/153864/solanas-developers-unveil-web3-focused-mobile-phone",
-          "publishedOn": "2022-06-23T21:00:02.000Z",
-          "wordCount": 73280,
-          "title": "Solana's developers unveil web3-focused mobile phone",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/0.png"
+          "description": "Revoke.cash - Revoke your Ethereum token allowances",
+          "link": "https://revoke.cash/",
+          "publishedOn": "2022-06-23T23:00:04.000Z",
+          "wordCount": 7,
+          "title": "Revoke.cash - Revoke your Ethereum token allowances",
+          "imageUrl": "https://revoke.cash/revoke-card.png"
         },
         {
           "id": "https://solanamobile.com/",
@@ -194,16 +204,6 @@
           "wordCount": 2142,
           "title": "Grants",
           "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1.jpg"
-        },
-        {
-          "id": "https://dydx.exchange/blog/dydx-chain",
-          "author": null,
-          "description": "dYdX V4 - The dYdX Chain",
-          "link": "https://dydx.exchange/blog/dydx-chain",
-          "publishedOn": "2022-06-22T15:30:02.000Z",
-          "wordCount": 19285,
-          "title": "dYdX V4 - The dYdX Chain",
-          "imageUrl": "https://images.ctfassets.net/peywamf72mj3/4wGEQaQBD8eOdgdksJZlkB/f86ad4edad03627a9d9bf07d2e38bc69/v4-full-decentralization.png"
         }
       ]
     }
