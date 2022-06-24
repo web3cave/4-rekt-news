@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dune.com/blog/DuneCon",
+          "author": null,
+          "description": "DuneCon 2022",
+          "link": "https://dune.com/blog/DuneCon",
+          "publishedOn": "2022-06-24T11:00:04.000Z",
+          "wordCount": 506,
+          "title": "DuneCon 2022",
+          "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/679d28c7b16d4928a398e263a8aae1c3a71cc39c-734x361.png?w=1200&fm=jpg"
+        },
+        {
           "id": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english",
           "author": null,
           "description": "Google: Garante privacy stop all’uso degli Analytics. Dati trasferiti negli Usa senza adeguate garanzie",
@@ -31,7 +41,7 @@
           "description": "Retirement savers lose over $3 trillion in stock market retreat",
           "link": "https://money.yahoo.com/retirement-savers-lose-stock-market-201508667.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-06-24T00:00:02.000Z",
-          "wordCount": 14733,
+          "wordCount": 14837,
           "title": "Retirement savers lose over $3 trillion in stock market retreat",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s8_BQ5FXquQPdJDqZeh.Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33c557e0-eb68-11ec-8fc6-679eb0a96243"
         },
@@ -61,7 +71,7 @@
           "description": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "link": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-06-23T23:00:04.000Z",
-          "wordCount": 74597,
+          "wordCount": 73489,
           "title": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Solana's developers unveil web3-focused mobile phone",
           "link": "https://www.theblock.co/post/153864/solanas-developers-unveil-web3-focused-mobile-phone",
           "publishedOn": "2022-06-23T21:00:02.000Z",
-          "wordCount": 74631,
+          "wordCount": 73574,
           "title": "Solana's developers unveil web3-focused mobile phone",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/0.png"
         },
@@ -103,16 +113,6 @@
           "publishedOn": "2022-06-23T20:00:05.000Z",
           "wordCount": 26582,
           "title": "[PDF] HMKP-117-AP00-20220624-SD002.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.rated.network/",
-          "author": null,
-          "description": "Rated landing page",
-          "link": "https://www.rated.network/",
-          "publishedOn": "2022-06-23T20:00:05.000Z",
-          "wordCount": 390,
-          "title": "Rated landing page",
           "imageUrl": null
         },
         {
@@ -151,7 +151,7 @@
           "description": "A Note on Bailouts and Crypto Leverage | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/a-note-on-bailouts-and-crypto-leverage-421499824684904048",
           "publishedOn": "2022-06-23T16:30:03.000Z",
-          "wordCount": 5777,
+          "wordCount": 5684,
           "title": "A Note on Bailouts and Crypto Leverage | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220623/4edc6149-c5ba-4084-84a6-2681d8965150.png"
         },
