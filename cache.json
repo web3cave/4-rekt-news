@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.rated.network/",
+          "author": null,
+          "description": "Rated landing page",
+          "link": "https://www.rated.network/",
+          "publishedOn": "2022-06-24T16:30:04.000Z",
+          "wordCount": 390,
+          "title": "Rated landing page",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "author": null,
+          "description": "Meet Zoltan, the sellside Jules Verne",
+          "link": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "publishedOn": "2022-06-24T15:30:03.000Z",
+          "wordCount": 3725,
+          "title": "Meet Zoltan, the sellside Jules Verne",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-61921222",
           "author": null,
           "description": "Japanese man loses USB stick with entire city's personal details",
           "link": "https://www.bbc.co.uk/news/world-asia-61921222",
           "publishedOn": "2022-06-24T13:00:04.000Z",
-          "wordCount": 4245,
+          "wordCount": 4262,
           "title": "Japanese man loses USB stick with entire city's personal details",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/18006/production/_125601389_gettyimages-1230479227.jpg"
         },
@@ -51,9 +71,19 @@
           "description": "Google: Garante privacy stop all’uso degli Analytics. Dati trasferiti negli Usa senza adeguate garanzie",
           "link": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english",
           "publishedOn": "2022-06-24T01:30:03.000Z",
-          "wordCount": 2936,
+          "wordCount": 2956,
           "title": "Google: Garante privacy stop all’uso degli Analytics. Dati trasferiti negli Usa senza adeguate garanzie",
           "imageUrl": "https://www.gpdp.it/image/journal/article?img_id=9783206&t=1655980904223"
+        },
+        {
+          "id": "https://gitcoin.co/grants/1620/the-daily-ape",
+          "author": null,
+          "description": "💰 The Daily Ape | Grants",
+          "link": "https://gitcoin.co/grants/1620/the-daily-ape",
+          "publishedOn": "2022-06-24T01:00:03.000Z",
+          "wordCount": 6062,
+          "title": "💰 The Daily Ape | Grants",
+          "imageUrl": "https://c.gitcoin.co/grants/c1a7b12ecbc811128637d62498e9f6a0/photo_2020-12-02_12-19-16.jpg"
         },
         {
           "id": "https://www.vbagame.com/",
@@ -71,7 +101,7 @@
           "description": "Retirement savers lose over $3 trillion in stock market retreat",
           "link": "https://money.yahoo.com/retirement-savers-lose-stock-market-201508667.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-06-24T00:00:02.000Z",
-          "wordCount": 15093,
+          "wordCount": 15012,
           "title": "Retirement savers lose over $3 trillion in stock market retreat",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/s8_BQ5FXquQPdJDqZeh.Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/33c557e0-eb68-11ec-8fc6-679eb0a96243"
         },
@@ -101,7 +131,7 @@
           "description": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "link": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-06-23T23:00:04.000Z",
-          "wordCount": 73597,
+          "wordCount": 73598,
           "title": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Coinbase.jpg"
         },
@@ -116,12 +146,22 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
         },
         {
+          "id": "https://revoke.cash/",
+          "author": null,
+          "description": "Revoke.cash - Revoke your Ethereum token allowances",
+          "link": "https://revoke.cash/",
+          "publishedOn": "2022-06-23T23:00:04.000Z",
+          "wordCount": 7,
+          "title": "Revoke.cash - Revoke your Ethereum token allowances",
+          "imageUrl": "https://revoke.cash/revoke-card.png"
+        },
+        {
           "id": "https://www.theblock.co/post/153864/solanas-developers-unveil-web3-focused-mobile-phone",
           "author": null,
           "description": "Solana's developers unveil web3-focused mobile phone",
           "link": "https://www.theblock.co/post/153864/solanas-developers-unveil-web3-focused-mobile-phone",
           "publishedOn": "2022-06-23T21:00:02.000Z",
-          "wordCount": 73683,
+          "wordCount": 73280,
           "title": "Solana's developers unveil web3-focused mobile phone",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/0.png"
         },
@@ -136,26 +176,6 @@
           "imageUrl": "https://solanamobile.com/socialshare.png"
         },
         {
-          "id": "https://docs.house.gov/meetings/AP/AP00/20220624/114951/HMKP-117-AP00-20220624-SD002.pdf",
-          "author": null,
-          "description": "[PDF] HMKP-117-AP00-20220624-SD002.pdf",
-          "link": "https://docs.house.gov/meetings/AP/AP00/20220624/114951/HMKP-117-AP00-20220624-SD002.pdf",
-          "publishedOn": "2022-06-23T20:00:05.000Z",
-          "wordCount": 26582,
-          "title": "[PDF] HMKP-117-AP00-20220624-SD002.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chain.link/block-stories?utm_medium=organic-social&utm_source=twitter-official&utm_campaign=block-stories&utm_content=ep01",
-          "author": null,
-          "description": "Block Stories | Chainlink",
-          "link": "https://chain.link/block-stories?utm_medium=organic-social&utm_source=twitter-official&utm_campaign=block-stories&utm_content=ep01",
-          "publishedOn": "2022-06-23T19:00:06.000Z",
-          "wordCount": 1410,
-          "title": "Block Stories | Chainlink",
-          "imageUrl": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/62ab0fb6e47314548bcd80a8_bs-og-episode01.jpg"
-        },
-        {
           "id": "https://fuel-labs.ghost.io/introducing-swayswap/",
           "author": null,
           "description": "Introducing SwaySwap: A Blazingly Fast DEX on Ethereum's Modular Execution Layer",
@@ -164,26 +184,6 @@
           "wordCount": 926,
           "title": "Introducing SwaySwap: A Blazingly Fast DEX on Ethereum's Modular Execution Layer",
           "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/06/Fuel_Trailer_Still_6.jpg"
-        },
-        {
-          "id": "https://www.binance.com/en/blog/from-cz/a-note-on-bailouts-and-crypto-leverage-421499824684904048",
-          "author": null,
-          "description": "A Note on Bailouts and Crypto Leverage | Binance Blog",
-          "link": "https://www.binance.com/en/blog/from-cz/a-note-on-bailouts-and-crypto-leverage-421499824684904048",
-          "publishedOn": "2022-06-23T16:30:03.000Z",
-          "wordCount": 5775,
-          "title": "A Note on Bailouts and Crypto Leverage | Binance Blog",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220623/4edc6149-c5ba-4084-84a6-2681d8965150.png"
-        },
-        {
-          "id": "https://docs.looksrare.org/guides/selling-nfts/conditional-listing",
-          "author": null,
-          "description": "Conditional Listing | LooksRare Docs",
-          "link": "https://docs.looksrare.org/guides/selling-nfts/conditional-listing",
-          "publishedOn": "2022-06-23T15:00:03.000Z",
-          "wordCount": 942,
-          "title": "Conditional Listing | LooksRare Docs",
-          "imageUrl": "https://docs.looksrare.org/img/logo.png"
         },
         {
           "id": "https://gitcoin.co/grants/",
