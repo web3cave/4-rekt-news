@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court?smtyp=cur&smid=tw-nytimes",
+          "author": null,
+          "description": "Live Updates: Supreme Court Overturns Roe v. Wade",
+          "link": "https://www.nytimes.com/live/2022/06/24/us/roe-wade-abortion-supreme-court?smtyp=cur&smid=tw-nytimes",
+          "publishedOn": "2022-06-25T03:30:03.000Z",
+          "wordCount": 47949,
+          "title": "Live Updates: Supreme Court Overturns Roe v. Wade",
+          "imageUrl": "https://static01.nyt.com/images/2022/06/24/us/24scotus-abortion-ny-protests/24scotus-abortion-ny-protests-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "author": null,
+          "description": "Meet Zoltan, the sellside Jules Verne",
+          "link": "https://www.ft.com/content/aab1bae8-b8f5-4935-9c63-fe7954d551ed",
+          "publishedOn": "2022-06-25T03:00:12.000Z",
+          "wordCount": 3727,
+          "title": "Meet Zoltan, the sellside Jules Verne",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/06/24/goldman-sachs-raising-funds-to-buy-celsius-assets-sources/",
           "author": null,
           "description": "Goldman Sachs Leading Investor Group to Buy Celsius Assets: Sources",
@@ -51,9 +71,9 @@
           "description": "Solend and Bancor Drama: Did These DAOs Violate the Ethos of Crypto? - Ep. 366",
           "link": "https://unchainedpodcast.com/solend-and-bancor-drama-did-these-daos-violate-the-ethos-of-crypto-ep-366/",
           "publishedOn": "2022-06-24T19:30:03.000Z",
-          "wordCount": 3873,
+          "wordCount": 619,
           "title": "Solend and Bancor Drama: Did These DAOs Violate the Ethos of Crypto? - Ep. 366",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/06/UN366-social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap",
@@ -166,16 +186,6 @@
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         },
         {
-          "id": "https://gitcoin.co/grants/1620/the-daily-ape",
-          "author": null,
-          "description": "💰 The Daily Ape | Grants",
-          "link": "https://gitcoin.co/grants/1620/the-daily-ape",
-          "publishedOn": "2022-06-24T01:00:03.000Z",
-          "wordCount": null,
-          "title": "💰 The Daily Ape | Grants",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/153835/coinbase-polygon-support-eth-usdc-crypto?utm_source=rss&utm_medium=rss",
           "author": null,
           "description": "Coinbase rolls out Polygon support for transfers of ETH, USDC",
@@ -194,16 +204,6 @@
           "wordCount": 3189,
           "title": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
-        },
-        {
-          "id": "https://revoke.cash/",
-          "author": null,
-          "description": "Revoke.cash - Revoke your Ethereum token allowances",
-          "link": "https://revoke.cash/",
-          "publishedOn": "2022-06-23T23:00:04.000Z",
-          "wordCount": 7,
-          "title": "Revoke.cash - Revoke your Ethereum token allowances",
-          "imageUrl": "https://revoke.cash/revoke-card.png"
         }
       ]
     }
