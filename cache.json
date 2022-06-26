@@ -6,14 +6,84 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.suresats.com/",
+          "id": "https://killari.medium.com/starks-verifying-a-complex-auto-battler-calculation-on-ethereum-d8698f29808d",
           "author": null,
-          "description": "SureSats | Bitcoin",
-          "link": "https://www.suresats.com/",
-          "publishedOn": "2022-06-26T22:00:04.000Z",
-          "wordCount": 8854,
-          "title": "SureSats | Bitcoin",
-          "imageUrl": "https://static.wixstatic.com/media/a9b779_e03969721a894cc3b82ef8eb75d69604%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a9b779_e03969721a894cc3b82ef8eb75d69604%7Emv2.jpg"
+          "description": "STARKS: Verifying a complex auto battler calculation on Ethereum",
+          "link": "https://killari.medium.com/starks-verifying-a-complex-auto-battler-calculation-on-ethereum-d8698f29808d",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 6298,
+          "title": "STARKS: Verifying a complex auto battler calculation on Ethereum",
+          "imageUrl": "https://miro.medium.com/max/1024/1*am2MOR12UbqExtYHHdZ8Kg.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jVhlJNJopOQ",
+          "author": null,
+          "description": "Papyrus - SNL",
+          "link": "https://www.youtube.com/watch?v=jVhlJNJopOQ",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": null,
+          "title": "Papyrus - SNL",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.shouldisubm.it/",
+          "author": null,
+          "description": "Should I send my TX now?",
+          "link": "http://www.shouldisubm.it/",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 14,
+          "title": "Should I send my TX now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/when-not-if-monster-recession-deck",
+          "author": null,
+          "description": "\"When Not If...\" - Monster Of A Recession On Deck | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/when-not-if-monster-recession-deck",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 896,
+          "title": "\"When Not If...\" - Monster Of A Recession On Deck | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/covid-19/40000-national-guard-troops-face-unemployment-vaccine-deadline-imminent",
+          "author": null,
+          "description": "40,000 National Guard Troops Face Unemployment As Vaccine Deadline Imminent | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/40000-national-guard-troops-face-unemployment-vaccine-deadline-imminent",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 1142,
+          "title": "40,000 National Guard Troops Face Unemployment As Vaccine Deadline Imminent | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/economics/asininity-inflation-expectations-once-again-powell-fed",
+          "author": null,
+          "description": "The Asininity Of Inflation Expectations, Once Again By Powell & The Fed | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/asininity-inflation-expectations-once-again-powell-fed",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 3626,
+          "title": "The Asininity Of Inflation Expectations, Once Again By Powell & The Fed | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/personal-finance/best-cities-live-out-golden-years-1500-budget-amid-inflation-storm",
+          "author": null,
+          "description": "Best Cities To Live Out Golden Years On $1,500 Budget Amid Inflation Storm  | ZeroHedge",
+          "link": "https://www.zerohedge.com/personal-finance/best-cities-live-out-golden-years-1500-budget-amid-inflation-storm",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 1507,
+          "title": "Best Cities To Live Out Golden Years On $1,500 Budget Amid Inflation Storm  | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Rari-Capital/solmate/blob/main/src/tokens/ERC1155.sol#L79",
+          "author": null,
+          "description": "solmate/ERC1155.sol at main · Rari-Capital/solmate",
+          "link": "https://github.com/Rari-Capital/solmate/blob/main/src/tokens/ERC1155.sol#L79",
+          "publishedOn": "2022-06-26T23:00:05.000Z",
+          "wordCount": 1038,
+          "title": "solmate/ERC1155.sol at main · Rari-Capital/solmate",
+          "imageUrl": "https://opengraph.githubassets.com/2de951d88b468ce1d2fcc018146ba7cebe357ed813eb27c69e4b152f122e55f2/Rari-Capital/solmate"
         },
         {
           "id": "https://speedrunethereum.com/",
@@ -44,66 +114,6 @@
           "wordCount": 25999,
           "title": "GitHub - responsible-financial-innovation-act22/RFIA-bill",
           "imageUrl": "https://opengraph.githubassets.com/7c8771620b9057aa83013ea7e6e3a1d32adf2ec1d3ff85adbaff18d43ce804aa/responsible-financial-innovation-act22/RFIA-bill"
-        },
-        {
-          "id": "https://vitalik.ca/general/2021/12/19/bullveto.html",
-          "author": null,
-          "description": "The bulldozer vs vetocracy political axis",
-          "link": "https://vitalik.ca/general/2021/12/19/bullveto.html",
-          "publishedOn": "2022-06-26T19:00:03.000Z",
-          "wordCount": 1277,
-          "title": "The bulldozer vs vetocracy political axis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/are-global-imbalances-back",
-          "author": null,
-          "description": "Are Global Imbalances Back | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/are-global-imbalances-back",
-          "publishedOn": "2022-06-26T19:00:03.000Z",
-          "wordCount": 1594,
-          "title": "Are Global Imbalances Back | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/g7-commits-indefinite-military-financial-support-ukraine",
-          "author": null,
-          "description": "G7 Commits To 'Indefinite' Military & Financial Support To Ukraine | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/g7-commits-indefinite-military-financial-support-ukraine",
-          "publishedOn": "2022-06-26T19:00:03.000Z",
-          "wordCount": 1514,
-          "title": "G7 Commits To 'Indefinite' Military & Financial Support To Ukraine | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/ghislaine-maxwell-placed-suicide-watch",
-          "author": null,
-          "description": "Ghislaine Maxwell Placed On Suicide Watch | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/ghislaine-maxwell-placed-suicide-watch",
-          "publishedOn": "2022-06-26T19:00:03.000Z",
-          "wordCount": 682,
-          "title": "Ghislaine Maxwell Placed On Suicide Watch | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/turkish-fm-urges-greater-turkey-eu-sides-greece-territorial-dispute",
-          "author": null,
-          "description": "Turkish FM Urges 'Greater Turkey' As EU Sides With Greece In Territorial Dispute | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/turkish-fm-urges-greater-turkey-eu-sides-greece-territorial-dispute",
-          "publishedOn": "2022-06-26T19:00:03.000Z",
-          "wordCount": 1188,
-          "title": "Turkish FM Urges 'Greater Turkey' As EU Sides With Greece In Territorial Dispute | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NVjVcgYbI68&feature=youtu.be",
-          "author": null,
-          "description": "A Critical Thinking Crisis Is Underway | Keith Rabois",
-          "link": "https://www.youtube.com/watch?v=NVjVcgYbI68&feature=youtu.be",
-          "publishedOn": "2022-06-26T17:30:03.000Z",
-          "wordCount": null,
-          "title": "A Critical Thinking Crisis Is Underway | Keith Rabois",
-          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/linked/154230/mastercard-survey-says-51-of-latin-american-consumers-have-crypto-experience?utm_source=twitter&utm_medium=social",
@@ -141,7 +151,7 @@
           "description": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "link": "https://xtz.news/nft-news/clubnft-a-tool-to-download-all-of-the-ipfs-data-associated-with-all-of-your-nfts-with-the-click-of-a-button/",
           "publishedOn": "2022-06-26T12:00:03.000Z",
-          "wordCount": 3979,
+          "wordCount": 3981,
           "title": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "imageUrl": "https://xtz.news/wp-content/uploads/2022/06/Tezos-ClubNFT-NFT-Backup-Storage-scaled.jpg"
         },
@@ -166,16 +176,6 @@
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MJ22_worldcoin-theOrb.jpg?resize=1200,600"
         },
         {
-          "id": "https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
-          "author": null,
-          "description": "[PDF] moral-fn.pdf",
-          "link": "https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf",
-          "publishedOn": "2022-06-26T01:00:02.000Z",
-          "wordCount": 15963,
-          "title": "[PDF] moral-fn.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.foodbusinessnews.net/articles/21609-hostess-launches-twinkcoin-snack-cakes",
           "author": null,
           "description": "Hostess launches $TWINKcoin snack cakes",
@@ -191,7 +191,7 @@
           "description": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "link": "https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/",
           "publishedOn": "2022-06-25T23:00:02.000Z",
-          "wordCount": 17651,
+          "wordCount": 17655,
           "title": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "imageUrl": "https://www.coindesk.com/resizer/oZoQHQsLPaGXUvK9NB3375w4Exg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXAR5S4FVBBTHM5FF5YZFETENE.jpg"
         },
