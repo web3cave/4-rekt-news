@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NVjVcgYbI68&feature=youtu.be",
+          "author": null,
+          "description": "A Critical Thinking Crisis Is Underway | Keith Rabois",
+          "link": "https://www.youtube.com/watch?v=NVjVcgYbI68&feature=youtu.be",
+          "publishedOn": "2022-06-26T17:30:03.000Z",
+          "wordCount": null,
+          "title": "A Critical Thinking Crisis Is Underway | Keith Rabois",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/german-vice-chancellor-drastically-reduces-time-shower-cope-energy-crisis",
           "author": null,
           "description": "German Vice-Chancellor \"Drastically Reduces\" Time In Shower To Cope With Energy Crisis  | ZeroHedge",
@@ -71,19 +81,9 @@
           "description": "A Tale of Two Ethereum NFT Parties: Doodles vs. Goblintown - Decrypt",
           "link": "https://decrypt.co/103848/a-tale-of-two-ethereum-nft-parties-doodles-goblintown?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2022-06-26T15:30:02.000Z",
-          "wordCount": 6630,
+          "wordCount": 6624,
           "title": "A Tale of Two Ethereum NFT Parties: Doodles vs. Goblintown - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/F0D3788D-72BF-460F-8B2E-F19CDA495A45-10141-000004A60EEF4EA7-gID_1.jpg"
-        },
-        {
-          "id": "https://pomp.substack.com/",
-          "author": null,
-          "description": "The Pomp Letter",
-          "link": "https://pomp.substack.com/",
-          "publishedOn": "2022-06-26T15:00:03.000Z",
-          "wordCount": 3071,
-          "title": "The Pomp Letter",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1128,h_564,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fpomp.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D0c13e9429d13943cf82e1b9e2c949191&version=3"
         },
         {
           "id": "https://www.nytimes.com/2022/06/25/technology/china-surveillance-police.html",
@@ -91,7 +91,7 @@
           "description": "‘An Invisible Cage’: How China Is Policing the Future",
           "link": "https://www.nytimes.com/2022/06/25/technology/china-surveillance-police.html",
           "publishedOn": "2022-06-26T14:30:02.000Z",
-          "wordCount": 12679,
+          "wordCount": 12687,
           "title": "‘An Invisible Cage’: How China Is Policing the Future",
           "imageUrl": "https://static01.nyt.com/images/2022/06/27/business/27china-police-1/00china-police-1-facebookJumbo.jpg"
         },
@@ -111,7 +111,7 @@
           "description": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "link": "https://xtz.news/nft-news/clubnft-a-tool-to-download-all-of-the-ipfs-data-associated-with-all-of-your-nfts-with-the-click-of-a-button/",
           "publishedOn": "2022-06-26T12:00:03.000Z",
-          "wordCount": 3981,
+          "wordCount": 3985,
           "title": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "imageUrl": "https://xtz.news/wp-content/uploads/2022/06/Tezos-ClubNFT-NFT-Backup-Storage-scaled.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "link": "https://blog.coinbase.com/send-and-receive-crypto-on-multiple-networks-starting-with-polygon-and-solana-e03d8480fe54?gi=ba83606bfde6",
           "publishedOn": "2022-06-26T11:00:04.000Z",
-          "wordCount": 3254,
+          "wordCount": 3223,
           "title": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
         },
@@ -171,7 +171,7 @@
           "description": "Former Crypto Billionaire Insists Bitcoin Will Soar To $250,000 Within Next 18 Months",
           "link": "https://www.forbes.com/sites/johnhyatt/2022/06/24/former-crypto-billionaire-insists-bitcoin-will-soar-to-250000-within-next-18-months/?sh=7f6ea87ffda1&utm_source=TWITTER&utm_medium=social&utm_content=7160023243&utm_campaign=sprinklrForbesCrypto",
           "publishedOn": "2022-06-26T00:00:02.000Z",
-          "wordCount": 8765,
+          "wordCount": 8679,
           "title": "Former Crypto Billionaire Insists Bitcoin Will Soar To $250,000 Within Next 18 Months",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62b4cbd78029691ca42b3dc7/0x0.jpg?format=jpg&crop=1991,1121,x0,y257,safe&width=1200"
         },
@@ -191,7 +191,7 @@
           "description": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "link": "https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/",
           "publishedOn": "2022-06-25T23:00:02.000Z",
-          "wordCount": 17655,
+          "wordCount": 17672,
           "title": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "imageUrl": "https://www.coindesk.com/resizer/oZoQHQsLPaGXUvK9NB3375w4Exg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXAR5S4FVBBTHM5FF5YZFETENE.jpg"
         },
