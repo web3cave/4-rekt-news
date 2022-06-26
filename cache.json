@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nocap.capital/",
+          "author": null,
+          "description": "No Cap Capital",
+          "link": "https://nocap.capital/",
+          "publishedOn": "2022-06-26T07:00:04.000Z",
+          "wordCount": 45,
+          "title": "No Cap Capital",
+          "imageUrl": null
+        },
+        {
           "id": "https://sequence.app/",
           "author": null,
           "description": "Sequence Wallet",
@@ -46,22 +56,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/fbi-raids-three-cult-churches-said-prey-us-veterans",
-          "author": null,
-          "description": "FBI Raids Three Cult-Like Churches Said To Prey On US Veterans | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/fbi-raids-three-cult-churches-said-prey-us-veterans",
-          "publishedOn": "2022-06-26T05:00:03.000Z",
-          "wordCount": 1841,
-          "title": "FBI Raids Three Cult-Like Churches Said To Prey On US Veterans | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/a16z/metamorphic-contract-detector#disclaimer",
           "author": null,
           "description": "GitHub - a16z/metamorphic-contract-detector",
           "link": "https://github.com/a16z/metamorphic-contract-detector#disclaimer",
           "publishedOn": "2022-06-26T04:30:04.000Z",
-          "wordCount": 2861,
+          "wordCount": 2867,
           "title": "GitHub - a16z/metamorphic-contract-detector",
           "imageUrl": "https://opengraph.githubassets.com/c9cb241dd95d67793454aef6f7e1104637dd181a547c711d6db7117406612830/a16z/metamorphic-contract-detector"
         },
@@ -81,7 +81,7 @@
           "description": "John McAfee's body still in a Spanish morgue - one year after he was found dead in his prison cell",
           "link": "https://news.sky.com/story/amp/john-mcafees-body-still-in-a-spanish-morgue-one-year-after-he-was-found-dead-in-his-prison-cell-12639035",
           "publishedOn": "2022-06-26T01:30:03.000Z",
-          "wordCount": 1923,
+          "wordCount": 1925,
           "title": "John McAfee's body still in a Spanish morgue - one year after he was found dead in his prison cell",
           "imageUrl": "https://e3.365dm.com/21/06/1600x900/skynews-john-mcafee_5425417.jpg?20210623215136"
         },
@@ -121,7 +121,7 @@
           "description": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "link": "https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/",
           "publishedOn": "2022-06-25T23:00:02.000Z",
-          "wordCount": 17956,
+          "wordCount": 17960,
           "title": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "imageUrl": "https://www.coindesk.com/resizer/oZoQHQsLPaGXUvK9NB3375w4Exg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXAR5S4FVBBTHM5FF5YZFETENE.jpg"
         },
@@ -176,6 +176,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.investopedia.com/terms/l/libor-scandal.asp",
+          "author": null,
+          "description": "The LIBOR Scandal",
+          "link": "https://www.investopedia.com/terms/l/libor-scandal.asp",
+          "publishedOn": "2022-06-25T15:00:02.000Z",
+          "wordCount": 3895,
+          "title": "The LIBOR Scandal",
+          "imageUrl": "https://www.investopedia.com/thmb/nV_2mNk8K_ioTkxXXGm4CdZVinw=/1500x1000/filters:fill(auto,1)/GettyImages-923217650-da5a46e692cc4928be45b58254b53472.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SoXzARn3a0s",
           "author": null,
           "description": "stETH + LDO Dual Governance w/ Sam Kozin, Hasu & Nick Cannon",
@@ -194,16 +204,6 @@
           "wordCount": 2117,
           "title": "The road to account abstraction - HackMD",
           "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
-        },
-        {
-          "id": "https://www.theblock.co/post/153713/inside-cryptos-biggest-deleveraging-event-and-the-three-arrows-capital-fallout",
-          "author": null,
-          "description": "Inside crypto's 'biggest deleveraging event' and the Three Arrows Capital fallout",
-          "link": "https://www.theblock.co/post/153713/inside-cryptos-biggest-deleveraging-event-and-the-three-arrows-capital-fallout",
-          "publishedOn": "2022-06-24T17:00:02.000Z",
-          "wordCount": 73476,
-          "title": "Inside crypto's 'biggest deleveraging event' and the Three Arrows Capital fallout",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220624_TheScoop_Larry-Cermak-Evgeny-Gaevoy_16_x_9.jpg"
         }
       ]
     }
