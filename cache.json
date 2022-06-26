@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sequence.app/",
+          "author": null,
+          "description": "Sequence Wallet",
+          "link": "https://sequence.app/",
+          "publishedOn": "2022-06-26T05:00:03.000Z",
+          "wordCount": 101,
+          "title": "Sequence Wallet",
+          "imageUrl": "https://sequence.build/sequence-banner.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/biden-better-buy-more-bullets",
+          "author": null,
+          "description": "The Return Of Industrial Warfare | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/biden-better-buy-more-bullets",
+          "publishedOn": "2022-06-26T05:00:03.000Z",
+          "wordCount": 3796,
+          "title": "The Return Of Industrial Warfare | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/airlines-say-understaffed-faa-crippling-east-coast-traffic",
+          "author": null,
+          "description": "Airlines Say Understaffed FAA \"Crippling\" East Coast Traffic | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/airlines-say-understaffed-faa-crippling-east-coast-traffic",
+          "publishedOn": "2022-06-26T05:00:03.000Z",
+          "wordCount": 1462,
+          "title": "Airlines Say Understaffed FAA \"Crippling\" East Coast Traffic | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/medical/cdc-investigating-large-ongoing-outbreak-rare-disease-florida",
+          "author": null,
+          "description": "CDC Investigating \"Large, Ongoing\" Outbreak Of Rare Disease In Florida | ZeroHedge",
+          "link": "https://www.zerohedge.com/medical/cdc-investigating-large-ongoing-outbreak-rare-disease-florida",
+          "publishedOn": "2022-06-26T05:00:03.000Z",
+          "wordCount": 694,
+          "title": "CDC Investigating \"Large, Ongoing\" Outbreak Of Rare Disease In Florida | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/fbi-raids-three-cult-churches-said-prey-us-veterans",
+          "author": null,
+          "description": "FBI Raids Three Cult-Like Churches Said To Prey On US Veterans | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/fbi-raids-three-cult-churches-said-prey-us-veterans",
+          "publishedOn": "2022-06-26T05:00:03.000Z",
+          "wordCount": 1841,
+          "title": "FBI Raids Three Cult-Like Churches Said To Prey On US Veterans | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/a16z/metamorphic-contract-detector#disclaimer",
           "author": null,
           "description": "GitHub - a16z/metamorphic-contract-detector",
@@ -16,16 +66,6 @@
           "imageUrl": "https://opengraph.githubassets.com/5b040bd604b92c378de7cc7198c2bb7eda37cab4b6f506ceeecfdc9fa85d8ce1/a16z/metamorphic-contract-detector"
         },
         {
-          "id": "https://book.getfoundry.sh/tutorials/solidity-scripting.html",
-          "author": null,
-          "description": "Foundry Book",
-          "link": "https://book.getfoundry.sh/tutorials/solidity-scripting.html",
-          "publishedOn": "2022-06-26T03:00:09.000Z",
-          "wordCount": 1276,
-          "title": "Foundry Book",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/geopolitical/canada-spend-billions-norad-so-us-can-rule-world",
           "author": null,
           "description": "Canada To Spend Billions On NORAD So US Can Rule World | ZeroHedge",
@@ -33,26 +73,6 @@
           "publishedOn": "2022-06-26T03:00:09.000Z",
           "wordCount": 1628,
           "title": "Canada To Spend Billions On NORAD So US Can Rule World | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/optimism-slowly-returns-tourism-sector",
-          "author": null,
-          "description": "Optimism Slowly Returns To The Tourism Sector | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/optimism-slowly-returns-tourism-sector",
-          "publishedOn": "2022-06-26T03:00:09.000Z",
-          "wordCount": 689,
-          "title": "Optimism Slowly Returns To The Tourism Sector | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/majority-c-suite-execs-thinking-quitting-40-overwhelmed-work-deloitte-survey",
-          "author": null,
-          "description": "Majority Of C-Suite Execs Thinking Of Quitting, 40% Overwhelmed At Work: Deloitte Survey | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/majority-c-suite-execs-thinking-quitting-40-overwhelmed-work-deloitte-survey",
-          "publishedOn": "2022-06-26T03:00:09.000Z",
-          "wordCount": 1163,
-          "title": "Majority Of C-Suite Execs Thinking Of Quitting, 40% Overwhelmed At Work: Deloitte Survey | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -101,7 +121,7 @@
           "description": "Former Crypto Billionaire Insists Bitcoin Will Soar To $250,000 Within Next 18 Months",
           "link": "https://www.forbes.com/sites/johnhyatt/2022/06/24/former-crypto-billionaire-insists-bitcoin-will-soar-to-250000-within-next-18-months/?sh=7f6ea87ffda1&utm_source=TWITTER&utm_medium=social&utm_content=7160023243&utm_campaign=sprinklrForbesCrypto",
           "publishedOn": "2022-06-26T00:00:02.000Z",
-          "wordCount": 8579,
+          "wordCount": 8765,
           "title": "Former Crypto Billionaire Insists Bitcoin Will Soar To $250,000 Within Next 18 Months",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62b4cbd78029691ca42b3dc7/0x0.jpg?format=jpg&crop=1991,1121,x0,y257,safe&width=1200"
         },
@@ -114,16 +134,6 @@
           "wordCount": 17960,
           "title": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "imageUrl": "https://www.coindesk.com/resizer/oZoQHQsLPaGXUvK9NB3375w4Exg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXAR5S4FVBBTHM5FF5YZFETENE.jpg"
-        },
-        {
-          "id": "https://www.nft.nyc/",
-          "author": null,
-          "description": "NFT.NYC | The Leading Annual Non-Fungible Token Event",
-          "link": "https://www.nft.nyc/",
-          "publishedOn": "2022-06-25T19:30:03.000Z",
-          "wordCount": 2761,
-          "title": "NFT.NYC | The Leading Annual Non-Fungible Token Event",
-          "imageUrl": "https://510411.fs1.hubspotusercontent-na1.net/hubfs/510411/nftnyc2021-eventbrite-header.png#keepProtocol"
         },
         {
           "id": "https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg",
@@ -164,16 +174,6 @@
           "wordCount": 1146,
           "title": "Germany Fears Russia Could Shut Nord Stream 1 Within Weeks | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.investopedia.com/terms/l/libor-scandal.asp",
-          "author": null,
-          "description": "The LIBOR Scandal",
-          "link": "https://www.investopedia.com/terms/l/libor-scandal.asp",
-          "publishedOn": "2022-06-25T15:00:02.000Z",
-          "wordCount": 3887,
-          "title": "The LIBOR Scandal",
-          "imageUrl": "https://www.investopedia.com/thmb/nV_2mNk8K_ioTkxXXGm4CdZVinw=/1500x1000/filters:fill(auto,1)/GettyImages-923217650-da5a46e692cc4928be45b58254b53472.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=SoXzARn3a0s",
