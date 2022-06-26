@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.chia.net/",
+          "author": null,
+          "description": "Home - Chia Network",
+          "link": "https://www.chia.net/",
+          "publishedOn": "2022-06-26T09:00:04.000Z",
+          "wordCount": 506,
+          "title": "Home - Chia Network",
+          "imageUrl": "https://chia.net/android-chrome-512x512.png"
+        },
+        {
+          "id": "https://www.techmeme.com/220626/p2",
+          "author": null,
+          "description": "India's central bank ban on loading non-bank prepaid payment instruments using credit lines has created panic among...",
+          "link": "https://www.techmeme.com/220626/p2",
+          "publishedOn": "2022-06-26T09:00:04.000Z",
+          "wordCount": 16046,
+          "title": "India's central bank ban on loading non-bank prepaid payment instruments using credit lines has created panic among...",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1241170516.jpg?w=600"
+        },
+        {
           "id": "https://nocap.capital/",
           "author": null,
           "description": "No Cap Capital",
@@ -14,16 +34,6 @@
           "wordCount": 45,
           "title": "No Cap Capital",
           "imageUrl": null
-        },
-        {
-          "id": "https://sequence.app/",
-          "author": null,
-          "description": "Sequence Wallet",
-          "link": "https://sequence.app/",
-          "publishedOn": "2022-06-26T05:00:03.000Z",
-          "wordCount": 101,
-          "title": "Sequence Wallet",
-          "imageUrl": "https://sequence.build/sequence-banner.jpg"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/biden-better-buy-more-bullets",
@@ -36,32 +46,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/airlines-say-understaffed-faa-crippling-east-coast-traffic",
-          "author": null,
-          "description": "Airlines Say Understaffed FAA \"Crippling\" East Coast Traffic | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/airlines-say-understaffed-faa-crippling-east-coast-traffic",
-          "publishedOn": "2022-06-26T05:00:03.000Z",
-          "wordCount": 1462,
-          "title": "Airlines Say Understaffed FAA \"Crippling\" East Coast Traffic | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/medical/cdc-investigating-large-ongoing-outbreak-rare-disease-florida",
-          "author": null,
-          "description": "CDC Investigating \"Large, Ongoing\" Outbreak Of Rare Disease In Florida | ZeroHedge",
-          "link": "https://www.zerohedge.com/medical/cdc-investigating-large-ongoing-outbreak-rare-disease-florida",
-          "publishedOn": "2022-06-26T05:00:03.000Z",
-          "wordCount": 694,
-          "title": "CDC Investigating \"Large, Ongoing\" Outbreak Of Rare Disease In Florida | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/a16z/metamorphic-contract-detector#disclaimer",
           "author": null,
           "description": "GitHub - a16z/metamorphic-contract-detector",
           "link": "https://github.com/a16z/metamorphic-contract-detector#disclaimer",
           "publishedOn": "2022-06-26T04:30:04.000Z",
-          "wordCount": 2861,
+          "wordCount": 2856,
           "title": "GitHub - a16z/metamorphic-contract-detector",
           "imageUrl": "https://opengraph.githubassets.com/b1c84964c5765427e576e69cb31939133a189713ba50362c83cd95db37414a22/a16z/metamorphic-contract-detector"
         },
@@ -121,7 +111,7 @@
           "description": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "link": "https://www.coindesk.com/business/2022/06/25/morgan-creek-is-trying-to-counter-ftxs-blockfi-bailout-leaked-call-shows/",
           "publishedOn": "2022-06-25T23:00:02.000Z",
-          "wordCount": 17960,
+          "wordCount": 17956,
           "title": "Morgan Creek Is Trying to Counter FTX’s BlockFi Bailout, Leaked Call Shows",
           "imageUrl": "https://www.coindesk.com/resizer/oZoQHQsLPaGXUvK9NB3375w4Exg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NXAR5S4FVBBTHM5FF5YZFETENE.jpg"
         },
@@ -143,6 +133,16 @@
           "publishedOn": "2022-06-25T19:00:02.000Z",
           "wordCount": null,
           "title": "Funding Ethereum with the Protocol Guild with Trenton Van Epps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-3584",
+          "author": null,
+          "description": "EIP-3584: Block Access List",
+          "link": "https://eips.ethereum.org/EIPS/eip-3584",
+          "publishedOn": "2022-06-25T19:00:02.000Z",
+          "wordCount": 1099,
+          "title": "EIP-3584: Block Access List",
           "imageUrl": null
         },
         {
@@ -181,7 +181,7 @@
           "description": "The LIBOR Scandal",
           "link": "https://www.investopedia.com/terms/l/libor-scandal.asp",
           "publishedOn": "2022-06-25T15:00:02.000Z",
-          "wordCount": 3903,
+          "wordCount": 3904,
           "title": "The LIBOR Scandal",
           "imageUrl": "https://www.investopedia.com/thmb/nV_2mNk8K_ioTkxXXGm4CdZVinw=/1500x1000/filters:fill(auto,1)/GettyImages-923217650-da5a46e692cc4928be45b58254b53472.jpg"
         },
