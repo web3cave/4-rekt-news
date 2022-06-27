@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://blockcamp.scb10x.com/",
+          "author": null,
+          "description": "SCB 10X Blockcamp 2022",
+          "link": "http://blockcamp.scb10x.com/",
+          "publishedOn": "2022-06-27T05:30:03.000Z",
+          "wordCount": 22,
+          "title": "SCB 10X Blockcamp 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aqr.com/Insights/Perspectives/The-Illiquidity-Discount",
+          "author": null,
+          "description": "The Illiquidity Discount?",
+          "link": "https://www.aqr.com/Insights/Perspectives/The-Illiquidity-Discount",
+          "publishedOn": "2022-06-27T05:00:04.000Z",
+          "wordCount": 4256,
+          "title": "The Illiquidity Discount?",
+          "imageUrl": "//images.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/Perspectives/Portrait_LowDef_V1_1218-06c-Cliff_Asness_04033-BG2.jpg?thn=1&hash=76901E2625B423552CCA153FD91618415419B4D4"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/china-delivers-advanced-frigate-pakistan-navy",
+          "author": null,
+          "description": "China Delivers Advanced Frigate To Pakistan Navy | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/china-delivers-advanced-frigate-pakistan-navy",
+          "publishedOn": "2022-06-27T04:00:03.000Z",
+          "wordCount": 593,
+          "title": "China Delivers Advanced Frigate To Pakistan Navy | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://rettig.substack.com/p/three-things-23-june-26-2022?utm_source=twitter&sd=pf",
           "author": null,
           "description": "Three Things #23: June 26, 2022",
@@ -33,26 +63,6 @@
           "publishedOn": "2022-06-27T03:00:03.000Z",
           "wordCount": 2491,
           "title": "Hedge Fund CIO: How Will The Fed Do QT? Each Crisis Has Increased Markets' Dependency On Fed Liquidity | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/us-will-continue-provide-seamless-access-abortion-military-defense-secretary",
-          "author": null,
-          "description": "US Will \"Continue To Provide Seamless Access\" To Abortion In Military: Defense Secretary | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/us-will-continue-provide-seamless-access-abortion-military-defense-secretary",
-          "publishedOn": "2022-06-27T01:00:04.000Z",
-          "wordCount": 830,
-          "title": "US Will \"Continue To Provide Seamless Access\" To Abortion In Military: Defense Secretary | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/explosive-report-confirms-expansive-cia-stealth-network-spies-commandos-inside-ukraine",
-          "author": null,
-          "description": "Explosive Report Confirms Expansive CIA 'Stealth Network' Of Spies & Commandos Inside Ukraine | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/explosive-report-confirms-expansive-cia-stealth-network-spies-commandos-inside-ukraine",
-          "publishedOn": "2022-06-27T01:00:04.000Z",
-          "wordCount": 2323,
-          "title": "Explosive Report Confirms Expansive CIA 'Stealth Network' Of Spies & Commandos Inside Ukraine | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -111,7 +121,7 @@
           "description": "STARKS: Verifying a complex auto battler calculation on Ethereum",
           "link": "https://killari.medium.com/starks-verifying-a-complex-auto-battler-calculation-on-ethereum-d8698f29808d",
           "publishedOn": "2022-06-26T23:00:05.000Z",
-          "wordCount": 6279,
+          "wordCount": 6298,
           "title": "STARKS: Verifying a complex auto battler calculation on Ethereum",
           "imageUrl": "https://miro.medium.com/max/1024/1*am2MOR12UbqExtYHHdZ8Kg.png"
         },
@@ -124,16 +134,6 @@
           "wordCount": 45,
           "title": "Speed Run Ethereum",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2021/02/16/opinion/democrats-biden-inflation.html",
-          "author": null,
-          "description": "Opinion | Inflation Isn’t Lurking Around the Corner. This Isn’t the 1970s. (Published 2021)",
-          "link": "https://www.nytimes.com/2021/02/16/opinion/democrats-biden-inflation.html",
-          "publishedOn": "2022-06-26T21:00:02.000Z",
-          "wordCount": 3792,
-          "title": "Opinion | Inflation Isn’t Lurking Around the Corner. This Isn’t the 1970s. (Published 2021)",
-          "imageUrl": "https://static01.nyt.com/images/2021/03/16/opinion/16appelbaum-illo/16appelbaum-illo-facebookJumbo.png?year=2021&h=550&w=1050&s=78b7200683b22797ccc976c163a43d50b4b9ac0a581e2f2ec060fe1a5fb600d9&k=ZQJBKqZ0VN"
         },
         {
           "id": "https://github.com/responsible-financial-innovation-act22/RFIA-bill",
@@ -151,7 +151,7 @@
           "description": "Mastercard survey says 51% of Latin American consumers have crypto experience",
           "link": "https://www.theblock.co/linked/154230/mastercard-survey-says-51-of-latin-american-consumers-have-crypto-experience?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-06-26T16:00:06.000Z",
-          "wordCount": 73023,
+          "wordCount": 71818,
           "title": "Mastercard survey says 51% of Latin American consumers have crypto experience",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220303_Crypto_In_Latin_America.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "link": "https://xtz.news/nft-news/clubnft-a-tool-to-download-all-of-the-ipfs-data-associated-with-all-of-your-nfts-with-the-click-of-a-button/",
           "publishedOn": "2022-06-26T12:00:03.000Z",
-          "wordCount": 3925,
+          "wordCount": 3963,
           "title": "ClubNFT: A Tool To Download All Of The IPFS Data Associated With All Of Your NFTs With The Click Of A Button",
           "imageUrl": "https://xtz.news/wp-content/uploads/2022/06/Tezos-ClubNFT-NFT-Backup-Storage-scaled.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "link": "https://blog.coinbase.com/send-and-receive-crypto-on-multiple-networks-starting-with-polygon-and-solana-e03d8480fe54?gi=ba83606bfde6",
           "publishedOn": "2022-06-26T11:00:04.000Z",
-          "wordCount": 3218,
+          "wordCount": 3236,
           "title": "Send and receive crypto on multiple networks, starting with Polygon and Solana",
           "imageUrl": "https://miro.medium.com/max/1200/0*AEy0AAU3tRXTyZn7"
         },
