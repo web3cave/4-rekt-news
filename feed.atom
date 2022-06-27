@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-27T11:19:17.296Z</id>
+    <id>urn:2022-06-27T12:45:30.910Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-27T11:19:17.296Z</updated>
+    <updated>2022-06-27T12:45:30.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://ethglobal.com/showcase/reverb-x2kgs"/>
         <updated>2022-06-27T09:30:03.000Z</updated>
         <summary type="html"><![CDATA[ETHGlobal]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I send my TX now?]]></title>
+        <id>http://www.shouldisubm.it/</id>
+        <link href="http://www.shouldisubm.it/"/>
+        <updated>2022-06-27T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Should I send my TX now?]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://speedrunethereum.com/"/>
         <updated>2022-06-26T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - responsible-financial-innovation-act22/RFIA-bill]]></title>
-        <id>https://github.com/responsible-financial-innovation-act22/RFIA-bill</id>
-        <link href="https://github.com/responsible-financial-innovation-act22/RFIA-bill"/>
-        <updated>2022-06-26T20:00:05.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - responsible-financial-innovation-act22/RFIA-bill]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
