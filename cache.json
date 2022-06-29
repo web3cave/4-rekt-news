@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://wagmi.sh/docs/migrating-to-03",
+          "author": null,
+          "description": "Migrating to >=0.3.x – wagmi",
+          "link": "https://wagmi.sh/docs/migrating-to-03",
+          "publishedOn": "2022-06-29T05:00:03.000Z",
+          "wordCount": 3301,
+          "title": "Migrating to >=0.3.x – wagmi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wagmi.sh/",
+          "author": null,
+          "description": "wagmi: React Hooks for Ethereum",
+          "link": "https://wagmi.sh/",
+          "publishedOn": "2022-06-29T05:00:03.000Z",
+          "wordCount": 381,
+          "title": "wagmi: React Hooks for Ethereum",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.twitch.tv/videos/1516644870",
           "author": null,
           "description": "Twitch",
           "link": "https://www.twitch.tv/videos/1516644870",
           "publishedOn": "2022-06-29T02:00:05.000Z",
-          "wordCount": 249,
+          "wordCount": 278,
           "title": "Twitch",
-          "imageUrl": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"
+          "imageUrl": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/23560aac0d661e5d612c_axieinfinity_46700947677_1656436240//thumb/thumb0-640x360.jpg"
         },
         {
           "id": "https://www.coindesk.com/policy/2022/06/28/crypto-dad-chris-giancarlo-knighted-by-french-government/",
@@ -106,26 +126,6 @@
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         },
         {
-          "id": "https://github.com/ethereum/pm/issues/558",
-          "author": null,
-          "description": "KZG-Ceremony Call #2 · Issue #558 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/558",
-          "publishedOn": "2022-06-28T21:00:03.000Z",
-          "wordCount": 509,
-          "title": "KZG-Ceremony Call #2 · Issue #558 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/8d26f77a06208b5d04139ac18e10b9776943fe24e7994eb8d0a76da546669fa5/ethereum/pm/issues/558"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h2J6c95wk9k",
-          "author": null,
-          "description": "KZG-Ceremony Breakout Call #2",
-          "link": "https://www.youtube.com/watch?v=h2J6c95wk9k",
-          "publishedOn": "2022-06-28T21:00:03.000Z",
-          "wordCount": null,
-          "title": "KZG-Ceremony Breakout Call #2",
-          "imageUrl": null
-        },
-        {
           "id": "https://anthonyleezhang.substack.com/p/the-market-for-promises?s=w",
           "author": null,
           "description": "The Market for Promises",
@@ -161,7 +161,7 @@
           "description": "Maker governance is voting to invest $500 million in US treasury bills",
           "link": "https://www.theblock.co/post/154515/maker-governance-is-voting-to-invest-500-million-in-us-treasury-bills",
           "publishedOn": "2022-06-28T17:00:04.000Z",
-          "wordCount": 74707,
+          "wordCount": 73103,
           "title": "Maker governance is voting to invest $500 million in US treasury bills",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/maker-logo.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Research Firm FSInsight Accuses Three Arrows Capital of Running a ‘Madoff-Style Ponzi Scheme’",
           "link": "https://www.coindesk.com/business/2022/06/28/research-firm-fsinsight-accuses-three-arrows-capital-of-running-a-madoff-style-ponzi-scheme/",
           "publishedOn": "2022-06-28T16:30:14.000Z",
-          "wordCount": 18500,
+          "wordCount": 18496,
           "title": "Research Firm FSInsight Accuses Three Arrows Capital of Running a ‘Madoff-Style Ponzi Scheme’",
           "imageUrl": "https://www.coindesk.com/resizer/ossZuIL60W4wjwRQpMLsjHtp4mo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TTCVAR7NNRBQZMLZO6ATYRN7LM.jpg"
         },
