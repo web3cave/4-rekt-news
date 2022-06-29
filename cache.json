@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.cryptostars.is/demystifying-synthetix-atomic-swap-34eee2ac995f?gi=6e3a131cd68e",
+          "author": null,
+          "description": "Demystifying Synthetix Atomic Swap",
+          "link": "https://blog.cryptostars.is/demystifying-synthetix-atomic-swap-34eee2ac995f?gi=6e3a131cd68e",
+          "publishedOn": "2022-06-29T18:30:03.000Z",
+          "wordCount": 2682,
+          "title": "Demystifying Synthetix Atomic Swap",
+          "imageUrl": "https://miro.medium.com/max/1200/1*sOXf0wVuYRnJ37pkZ_XaKQ.jpeg"
+        },
+        {
           "id": "https://electriccoin.co/blog/manian-joins-bootstrap-board-of-directors/",
           "author": null,
           "description": "Manian joins Bootstrap Board of Directors - Electric Coin Company",
           "link": "https://electriccoin.co/blog/manian-joins-bootstrap-board-of-directors/",
           "publishedOn": "2022-06-29T17:00:03.000Z",
-          "wordCount": 4633,
+          "wordCount": 4445,
           "title": "Manian joins Bootstrap Board of Directors - Electric Coin Company",
           "imageUrl": "https://electriccoin.co/wp-content/uploads/2022/06/Zaki-Update-062722-copy.jpg"
         },
@@ -21,9 +31,9 @@
           "description": "casper/simple_casper.v.py at master · ethereum/casper",
           "link": "https://github.com/ethereum/casper/blob/master/casper/contracts/simple_casper.v.py",
           "publishedOn": "2022-06-29T16:00:03.000Z",
-          "wordCount": 3166,
+          "wordCount": 3168,
           "title": "casper/simple_casper.v.py at master · ethereum/casper",
-          "imageUrl": "https://opengraph.githubassets.com/ef93192478dd2f802036b22b3246b4059a11904e7fa972c12e48c5a4c9449fc3/ethereum/casper"
+          "imageUrl": "https://opengraph.githubassets.com/7fa802270608383fe22b00da1867f15286f36ccb4c0e0455cd437360575171a4/ethereum/casper"
         },
         {
           "id": "https://www.youtube.com/watch?v=b8JGBtzGkj4&feature=youtu.be",
@@ -71,7 +81,7 @@
           "description": "GitHub - memester-xyz/solenv: Dotenv parser for solidity & foundry",
           "link": "https://github.com/memester-xyz/solenv",
           "publishedOn": "2022-06-29T06:00:03.000Z",
-          "wordCount": 694,
+          "wordCount": 797,
           "title": "GitHub - memester-xyz/solenv: Dotenv parser for solidity & foundry",
           "imageUrl": "https://opengraph.githubassets.com/2c9ba9720dd04ed26a03a40a6b3faf901d68fe07c2af037221f20e5d9a629aa7/memester-xyz/solenv"
         },
@@ -96,14 +106,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/policy/2022/06/28/crypto-dad-chris-giancarlo-knighted-by-french-government/",
+          "id": "https://www.twitch.tv/videos/1516644870",
           "author": null,
-          "description": "‘Crypto Dad’ Chris Giancarlo Knighted by French Government",
-          "link": "https://www.coindesk.com/policy/2022/06/28/crypto-dad-chris-giancarlo-knighted-by-french-government/",
-          "publishedOn": "2022-06-29T01:30:02.000Z",
-          "wordCount": 20192,
-          "title": "‘Crypto Dad’ Chris Giancarlo Knighted by French Government",
-          "imageUrl": "https://www.coindesk.com/resizer/HT2sJs0yOHib79tgwfFUQvE5BuM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LNZ47TKZLFGJJNZ6HX6HZLBC5I.jpg"
+          "description": "Twitch",
+          "link": "https://www.twitch.tv/videos/1516644870",
+          "publishedOn": "2022-06-29T02:00:05.000Z",
+          "wordCount": 249,
+          "title": "Twitch",
+          "imageUrl": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2022/06/16/gray-glacier-announcement/",
@@ -161,7 +171,7 @@
           "description": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
           "publishedOn": "2022-06-28T23:00:02.000Z",
-          "wordCount": 9696,
+          "wordCount": 9937,
           "title": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62bb1fbd923d71e398123430/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -194,16 +204,6 @@
           "wordCount": 5201,
           "title": "The Market for Promises",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/marginfi/mainnet-alpha-832c6308b71b",
-          "author": null,
-          "description": "Mainnet (alpha)",
-          "link": "https://medium.com/marginfi/mainnet-alpha-832c6308b71b",
-          "publishedOn": "2022-06-28T18:30:04.000Z",
-          "wordCount": 3051,
-          "title": "Mainnet (alpha)",
-          "imageUrl": "https://miro.medium.com/max/1169/0*GWh61a6SWEpwaQbV.png"
         }
       ]
     }
