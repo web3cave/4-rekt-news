@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b8JGBtzGkj4&feature=youtu.be",
+          "author": null,
+          "description": "Understanding Modularity: Rollup Security Paradigms - Eric Wall (Modular Summit 2022)",
+          "link": "https://www.youtube.com/watch?v=b8JGBtzGkj4&feature=youtu.be",
+          "publishedOn": "2022-06-29T13:30:03.000Z",
+          "wordCount": null,
+          "title": "Understanding Modularity: Rollup Security Paradigms - Eric Wall (Modular Summit 2022)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/linked/154751/bvi-court-orders-liquidation-of-three-arrows-capital-sky-news?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "BVI court orders liquidation of Three Arrows Capital: Sky News",
           "link": "https://www.theblock.co/linked/154751/bvi-court-orders-liquidation-of-three-arrows-capital-sky-news?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-06-29T12:00:04.000Z",
-          "wordCount": 71780,
+          "wordCount": 71783,
           "title": "BVI court orders liquidation of Three Arrows Capital: Sky News",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/04/20200421_Three_arrows_capital.jpg"
         },
@@ -43,7 +53,7 @@
           "publishedOn": "2022-06-29T06:00:03.000Z",
           "wordCount": 694,
           "title": "GitHub - memester-xyz/solenv: Dotenv parser for solidity & foundry",
-          "imageUrl": "https://opengraph.githubassets.com/9b51ab33f0e2fa92adc6a2f2759308de14a8cc8165067f0220060d6bca118e60/memester-xyz/solenv"
+          "imageUrl": "https://opengraph.githubassets.com/11020ce46443197b81a046d10ea630bdd15d5573aa3094a3a463d7d7eb94537c/memester-xyz/solenv"
         },
         {
           "id": "https://wagmi.sh/docs/migrating-to-03",
@@ -64,6 +74,16 @@
           "wordCount": 381,
           "title": "wagmi: React Hooks for Ethereum",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/policy/2022/06/28/crypto-dad-chris-giancarlo-knighted-by-french-government/",
+          "author": null,
+          "description": "‘Crypto Dad’ Chris Giancarlo Knighted by French Government",
+          "link": "https://www.coindesk.com/policy/2022/06/28/crypto-dad-chris-giancarlo-knighted-by-french-government/",
+          "publishedOn": "2022-06-29T01:30:02.000Z",
+          "wordCount": 15289,
+          "title": "‘Crypto Dad’ Chris Giancarlo Knighted by French Government",
+          "imageUrl": "https://www.coindesk.com/resizer/HT2sJs0yOHib79tgwfFUQvE5BuM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LNZ47TKZLFGJJNZ6HX6HZLBC5I.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2022/06/16/gray-glacier-announcement/",
@@ -121,7 +141,7 @@
           "description": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
           "publishedOn": "2022-06-28T23:00:02.000Z",
-          "wordCount": 9764,
+          "wordCount": 9696,
           "title": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62bb1fbd923d71e398123430/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -166,34 +186,14 @@
           "imageUrl": "https://miro.medium.com/max/1169/0*GWh61a6SWEpwaQbV.png"
         },
         {
-          "id": "https://www.theblock.co/post/154515/maker-governance-is-voting-to-invest-500-million-in-us-treasury-bills",
-          "author": null,
-          "description": "Maker governance is voting to invest $500 million in US treasury bills",
-          "link": "https://www.theblock.co/post/154515/maker-governance-is-voting-to-invest-500-million-in-us-treasury-bills",
-          "publishedOn": "2022-06-28T17:00:04.000Z",
-          "wordCount": 72058,
-          "title": "Maker governance is voting to invest $500 million in US treasury bills",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/maker-logo.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/06/28/research-firm-fsinsight-accuses-three-arrows-capital-of-running-a-madoff-style-ponzi-scheme/",
           "author": null,
           "description": "Research Firm FSInsight Accuses Three Arrows Capital of Running a ‘Madoff-Style Ponzi Scheme’",
           "link": "https://www.coindesk.com/business/2022/06/28/research-firm-fsinsight-accuses-three-arrows-capital-of-running-a-madoff-style-ponzi-scheme/",
           "publishedOn": "2022-06-28T16:30:14.000Z",
-          "wordCount": 18182,
+          "wordCount": 15525,
           "title": "Research Firm FSInsight Accuses Three Arrows Capital of Running a ‘Madoff-Style Ponzi Scheme’",
           "imageUrl": "https://www.coindesk.com/resizer/ossZuIL60W4wjwRQpMLsjHtp4mo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TTCVAR7NNRBQZMLZO6ATYRN7LM.jpg"
-        },
-        {
-          "id": "https://cdixon.mirror.xyz/8EKrYj3-SgTWALNdkNo3UXbPiuZbxSkROB9SUjxyJAo",
-          "author": null,
-          "description": "Toys, Secrets, and Cycles: Lessons from the 2000s",
-          "link": "https://cdixon.mirror.xyz/8EKrYj3-SgTWALNdkNo3UXbPiuZbxSkROB9SUjxyJAo",
-          "publishedOn": "2022-06-28T15:00:04.000Z",
-          "wordCount": 4079,
-          "title": "Toys, Secrets, and Cycles: Lessons from the 2000s",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/e9eca86a-47e6-4bee-9c26-5ce0ac13158e.png?h=91&w=94"
         },
         {
           "id": "https://roninblockchain.substack.com/p/the-ronin-bridge-is-open-",
