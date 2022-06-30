@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/litigation/admin/2022/33-11029.pdf",
+          "author": null,
+          "description": "[PDF] 33-11029.pdf",
+          "link": "https://www.sec.gov/litigation/admin/2022/33-11029.pdf",
+          "publishedOn": "2022-06-30T06:30:02.000Z",
+          "wordCount": 8266,
+          "title": "[PDF] 33-11029.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://customer.io/",
           "author": null,
           "description": "Your Customer Engagement Platform",
@@ -31,7 +41,7 @@
           "description": "FTX seeks to acquire troubled crypto lender BlockFi: sources",
           "link": "https://www.theblock.co/post/154929/ftx-blockfi-deal-sources",
           "publishedOn": "2022-06-30T03:00:05.000Z",
-          "wordCount": 73629,
+          "wordCount": 73477,
           "title": "FTX seeks to acquire troubled crypto lender BlockFi: sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
         },
@@ -51,7 +61,7 @@
           "description": "Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources",
           "link": "https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/",
           "publishedOn": "2022-06-30T03:00:04.000Z",
-          "wordCount": 14171,
+          "wordCount": 14188,
           "title": "Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources",
           "imageUrl": "https://www.coindesk.com/resizer/vpemn-iz2bq8s9IElJokyvEJza8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6JFMIPH64VAHTJQRHCTEVS2YE4.jpg"
         },
@@ -91,7 +101,7 @@
           "description": "Setting the record straight",
           "link": "https://medium.com/@nic__carter/setting-the-record-straight-b4e1b415e7d9",
           "publishedOn": "2022-06-29T23:00:03.000Z",
-          "wordCount": 8573,
+          "wordCount": 8954,
           "title": "Setting the record straight",
           "imageUrl": "https://miro.medium.com/max/474/1*cGTlAfkrSpgAD84zWDNxXQ.png"
         },
@@ -111,7 +121,7 @@
           "description": "Here are four more big takeaways from the Morgan Creek call",
           "link": "https://www.theblock.co/post/154681/a-leaked-investor-call-revealed-morgan-creeks-bid-for-blockfi-here-are-four-more-big-takeaways-from-the-call",
           "publishedOn": "2022-06-29T21:00:06.000Z",
-          "wordCount": 74507,
+          "wordCount": 74346,
           "title": "Here are four more big takeaways from the Morgan Creek call",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/08/20200819_BlockFi-money.jpg"
         },
@@ -171,19 +181,9 @@
           "description": "BVI court orders liquidation of Three Arrows Capital: Sky News",
           "link": "https://www.theblock.co/linked/154751/bvi-court-orders-liquidation-of-three-arrows-capital-sky-news?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-06-29T12:00:04.000Z",
-          "wordCount": 73591,
+          "wordCount": 73710,
           "title": "BVI court orders liquidation of Three Arrows Capital: Sky News",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/04/20200421_Three_arrows_capital.jpg"
-        },
-        {
-          "id": "https://news.sky.com/story/crypto-hedge-fund-three-arrows-capital-plunges-into-liquidation-12642402",
-          "author": null,
-          "description": "Crypto hedge fund Three Arrows Capital plunges into liquidation",
-          "link": "https://news.sky.com/story/crypto-hedge-fund-three-arrows-capital-plunges-into-liquidation-12642402",
-          "publishedOn": "2022-06-29T11:30:04.000Z",
-          "wordCount": 1854,
-          "title": "Crypto hedge fund Three Arrows Capital plunges into liquidation",
-          "imageUrl": "https://e3.365dm.com/22/05/1600x900/skynews-bitcoin-cryptocurrency_5770796.jpg?20220513170340"
         },
         {
           "id": "https://blog.ethereum.org/2022/06/16/gray-glacier-announcement/",
@@ -201,7 +201,7 @@
           "description": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
           "publishedOn": "2022-06-28T23:00:02.000Z",
-          "wordCount": 9937,
+          "wordCount": 9920,
           "title": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62bb1fbd923d71e398123430/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         }
