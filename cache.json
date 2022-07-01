@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/SunWeb3Sec/DeFiVulnLabs",
+          "author": null,
+          "description": "GitHub - SunWeb3Sec/DeFiVulnLabs: To learn common smart contract vulnerabilities using Foundry!",
+          "link": "https://github.com/SunWeb3Sec/DeFiVulnLabs",
+          "publishedOn": "2022-07-01T18:00:04.000Z",
+          "wordCount": 890,
+          "title": "GitHub - SunWeb3Sec/DeFiVulnLabs: To learn common smart contract vulnerabilities using Foundry!",
+          "imageUrl": "https://opengraph.githubassets.com/783c03f65b0d7be1cd5645840c3a13da4c79a97fce0e9331df6d9fda6b953352/SunWeb3Sec/DeFiVulnLabs"
+        },
+        {
           "id": "https://www.forbes.com/sites/cyrusfarivar/2022/07/01/pig-butchering-crypto-scam-victim-to-get-money-back-from-binance-law-enforcement-says/?sh=5d6481555ecd",
           "author": null,
           "description": "‘Pig Butchering’ Crypto Scam Victim To Get Money Back From Binance, Law Enforcement Says",
           "link": "https://www.forbes.com/sites/cyrusfarivar/2022/07/01/pig-butchering-crypto-scam-victim-to-get-money-back-from-binance-law-enforcement-says/?sh=5d6481555ecd",
           "publishedOn": "2022-07-01T17:00:04.000Z",
-          "wordCount": 9547,
+          "wordCount": 9524,
           "title": "‘Pig Butchering’ Crypto Scam Victim To Get Money Back From Binance, Law Enforcement Says",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve//62bea4e6b162323ae570f110/0x0.jpg?format=jpg&width=1200"
         },
@@ -31,7 +41,7 @@
           "description": "Simple MakerDAO — Governance from first principles",
           "link": "https://forum.makerdao.com/t/simple-makerdao-governance-from-first-principles/16207",
           "publishedOn": "2022-07-01T17:00:03.000Z",
-          "wordCount": 5348,
+          "wordCount": 5350,
           "title": "Simple MakerDAO — Governance from first principles",
           "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/3X/b/0/b04777fb9254d698d3359969820abcdde6c49cc2.png"
         },
@@ -96,13 +106,13 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F026fb189-24ca-4555-bc88-a9177c1dc2d3_2400x1350.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/fed-quietly-handing-out-250-million-handful-happy-recipients-every-single-day",
+          "id": "https://book.getfoundry.sh/tutorials/solidity-scripting.html",
           "author": null,
-          "description": "The Fed Is Quietly Handing Out $250 Million To A Handful Of Happy Recipients Every Single Day | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/fed-quietly-handing-out-250-million-handful-happy-recipients-every-single-day",
-          "publishedOn": "2022-07-01T05:00:04.000Z",
-          "wordCount": 1205,
-          "title": "The Fed Is Quietly Handing Out $250 Million To A Handful Of Happy Recipients Every Single Day | ZeroHedge",
+          "description": "Foundry Book",
+          "link": "https://book.getfoundry.sh/tutorials/solidity-scripting.html",
+          "publishedOn": "2022-07-01T12:00:04.000Z",
+          "wordCount": 1280,
+          "title": "Foundry Book",
           "imageUrl": null
         },
         {
@@ -141,19 +151,9 @@
           "description": "'Mystery rocket' that crashed into the Moon baffles NASA scientists",
           "link": "https://www.chron.com/news/houston-texas/article/mystery-rocket-NASA-moon-crash-country-origin-17273903.php",
           "publishedOn": "2022-06-30T20:30:03.000Z",
-          "wordCount": 3066,
+          "wordCount": 3062,
           "title": "'Mystery rocket' that crashed into the Moon baffles NASA scientists",
           "imageUrl": "https://s.hdnux.com/photos/01/26/31/61/22649972/3/rawImage.jpg"
-        },
-        {
-          "id": "https://polygon.coinbase.com/",
-          "author": null,
-          "description": "Coinbase Wallet x Polygon: Kathakali Dancers NFT",
-          "link": "https://polygon.coinbase.com/",
-          "publishedOn": "2022-06-30T20:30:03.000Z",
-          "wordCount": 51,
-          "title": "Coinbase Wallet x Polygon: Kathakali Dancers NFT",
-          "imageUrl": null
         },
         {
           "id": "https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf",
@@ -191,7 +191,7 @@
           "description": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "link": "https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal",
           "publishedOn": "2022-06-30T15:00:03.000Z",
-          "wordCount": 72419,
+          "wordCount": 72842,
           "title": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
         },
