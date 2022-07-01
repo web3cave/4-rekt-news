@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://venturebeat.com/2022/06/30/atmos-labs-is-building-a-virtual-world-for-sci-fi-sports/",
+          "author": null,
+          "description": "Atmos Labs is building a virtual world for sci-fi sports",
+          "link": "https://venturebeat.com/2022/06/30/atmos-labs-is-building-a-virtual-world-for-sci-fi-sports/",
+          "publishedOn": "2022-07-01T10:30:04.000Z",
+          "wordCount": 2885,
+          "title": "Atmos Labs is building a virtual world for sci-fi sports",
+          "imageUrl": "https://venturebeat.com/wp-content/uploads/2022/06/atmos.jpg?w=1200&strip=all"
+        },
+        {
           "id": "https://www.shrapnel.com/",
           "author": null,
           "description": "Welcome to SHRAPNEL | The first AAA FPS Blockchain game",
@@ -21,7 +31,7 @@
           "description": "Italy issues bonds at highest borrowing costs since wake of eurozone debt crisis",
           "link": "https://www.ft.com/content/f9beb1a0-22ba-4f43-b4c0-0b0470747af4",
           "publishedOn": "2022-07-01T05:30:04.000Z",
-          "wordCount": 2067,
+          "wordCount": 2065,
           "title": "Italy issues bonds at highest borrowing costs since wake of eurozone debt crisis",
           "imageUrl": null
         },
@@ -86,12 +96,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/crypto/nvidia-gpu-prices-plummet-crypto-mining-craters",
+          "author": null,
+          "description": "Nvidia GPU Prices Plummet As Crypto Mining Craters | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/nvidia-gpu-prices-plummet-crypto-mining-craters",
+          "publishedOn": "2022-06-30T21:00:08.000Z",
+          "wordCount": 1240,
+          "title": "Nvidia GPU Prices Plummet As Crypto Mining Craters | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.chron.com/news/houston-texas/article/mystery-rocket-NASA-moon-crash-country-origin-17273903.php",
           "author": null,
           "description": "'Mystery rocket' that crashed into the Moon baffles NASA scientists",
           "link": "https://www.chron.com/news/houston-texas/article/mystery-rocket-NASA-moon-crash-country-origin-17273903.php",
           "publishedOn": "2022-06-30T20:30:03.000Z",
-          "wordCount": 3068,
+          "wordCount": 3072,
           "title": "'Mystery rocket' that crashed into the Moon baffles NASA scientists",
           "imageUrl": "https://s.hdnux.com/photos/01/26/31/61/22649972/3/rawImage.jpg"
         },
@@ -136,14 +156,14 @@
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/106986475-1638982204340-gettyimages-1237095872-HOUSE_CRYPTO.jpeg?v=1638982243&w=1920&h=1080"
         },
         {
-          "id": "https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599",
+          "id": "https://github.com/ethereum/pm/issues/564",
           "author": null,
-          "description": "Proposal: Nouns funding the Protocol Guild Pilot",
-          "link": "https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599",
+          "description": "Merge Community Call #5 · Issue #564 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/564",
           "publishedOn": "2022-06-30T18:30:08.000Z",
-          "wordCount": 1223,
-          "title": "Proposal: Nouns funding the Protocol Guild Pilot",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/nouns/original/1X/3575f0bba022ca019dd756214c3da9f67b37a9fa.png"
+          "wordCount": 627,
+          "title": "Merge Community Call #5 · Issue #564 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/e4cadc78046308bafd9da301a99eadc4c93eceff371dbedfb11d5a326c8f13b0/ethereum/pm/issues/564"
         },
         {
           "id": "https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal",
@@ -151,7 +171,7 @@
           "description": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "link": "https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal",
           "publishedOn": "2022-06-30T15:00:03.000Z",
-          "wordCount": 72733,
+          "wordCount": 73174,
           "title": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf",
-          "author": null,
-          "description": "[PDF] 34-95180.pdf",
-          "link": "https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf",
-          "publishedOn": "2022-06-30T03:30:03.000Z",
-          "wordCount": 13521,
-          "title": "[PDF] 34-95180.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/@nic__carter/setting-the-record-straight-b4e1b415e7d9",
           "author": null,
           "description": "Setting the record straight",
@@ -194,16 +204,6 @@
           "wordCount": 8873,
           "title": "Setting the record straight",
           "imageUrl": "https://miro.medium.com/max/474/1*cGTlAfkrSpgAD84zWDNxXQ.png"
-        },
-        {
-          "id": "https://forum.makerdao.com/t/simple-makerdao-governance-from-first-principles/16207",
-          "author": null,
-          "description": "Simple MakerDAO — Governance from first principles",
-          "link": "https://forum.makerdao.com/t/simple-makerdao-governance-from-first-principles/16207",
-          "publishedOn": "2022-06-29T19:00:04.000Z",
-          "wordCount": 5348,
-          "title": "Simple MakerDAO — Governance from first principles",
-          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/3X/b/0/b04777fb9254d698d3359969820abcdde6c49cc2.png"
         }
       ]
     }
