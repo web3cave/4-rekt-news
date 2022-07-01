@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.shrapnel.com/",
+          "author": null,
+          "description": "Welcome to SHRAPNEL | The first AAA FPS Blockchain game",
+          "link": "https://www.shrapnel.com/",
+          "publishedOn": "2022-07-01T05:30:04.000Z",
+          "wordCount": 1216,
+          "title": "Welcome to SHRAPNEL | The first AAA FPS Blockchain game",
+          "imageUrl": "https://www.shrapnel.com/img/og/OG-shrapnel-logo.png"
+        },
+        {
+          "id": "https://www.circle.com/en/euro-coin",
+          "author": null,
+          "description": "Euro Coin (EUROC) I A Euro-Backed Stablecoin",
+          "link": "https://www.circle.com/en/euro-coin",
+          "publishedOn": "2022-07-01T01:00:05.000Z",
+          "wordCount": 2764,
+          "title": "Euro Coin (EUROC) I A Euro-Backed Stablecoin",
+          "imageUrl": "https://www.circle.com/hubfs/share-euroc.png#keepProtocol"
+        },
+        {
           "id": "https://cryptohayes.medium.com/number-three-511f334d8fae",
           "author": null,
           "description": "Number Three",
           "link": "https://cryptohayes.medium.com/number-three-511f334d8fae",
           "publishedOn": "2022-07-01T01:00:04.000Z",
-          "wordCount": 13134,
+          "wordCount": 13089,
           "title": "Number Three",
           "imageUrl": "https://miro.medium.com/max/400/0*l5zG3MCPT7RrLGu5"
         },
@@ -31,7 +51,7 @@
           "description": "Crypto Market-maker FTX Nixes Planned Down Venture Raise, Embarks On Hiring Push",
           "link": "https://blockworks.co/crypto-market-maker-ftx-nixes-planned-down-venture-raise-embarks-on-hiring-push/",
           "publishedOn": "2022-06-30T22:30:04.000Z",
-          "wordCount": 4636,
+          "wordCount": 4634,
           "title": "Crypto Market-maker FTX Nixes Planned Down Venture Raise, Embarks On Hiring Push",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/FTX-3--1024x576.png"
         },
@@ -71,7 +91,7 @@
           "description": "merge-testnets/mainnet-shadow-fork-8 at main · eth-clients/merge-testnets",
           "link": "https://github.com/eth-clients/merge-testnets/tree/main/mainnet-shadow-fork-8",
           "publishedOn": "2022-06-30T20:00:06.000Z",
-          "wordCount": 590,
+          "wordCount": 506,
           "title": "merge-testnets/mainnet-shadow-fork-8 at main · eth-clients/merge-testnets",
           "imageUrl": "https://opengraph.githubassets.com/953e5a1475a4e8848fc159a6748ae46b4c3a3e2baa1c8572e681ffe46e714d41/eth-clients/merge-testnets"
         },
@@ -91,7 +111,7 @@
           "description": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "link": "https://www.theblock.co/post/155069/ftx-walked-away-from-celsius-deal",
           "publishedOn": "2022-06-30T15:00:03.000Z",
-          "wordCount": 73494,
+          "wordCount": 73264,
           "title": "FTX walked away from a deal with Celsius after seeing state of its finances",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
         },
@@ -136,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://customer.io/",
-          "author": null,
-          "description": "Your Customer Engagement Platform",
-          "link": "https://customer.io/",
-          "publishedOn": "2022-06-30T04:30:02.000Z",
-          "wordCount": 5197,
-          "title": "Your Customer Engagement Platform",
-          "imageUrl": "https://customer.io/wp-content/uploads/2021/02/Customer.io_og_fullwidth.png"
-        },
-        {
           "id": "https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf",
           "author": null,
           "description": "[PDF] 34-95180.pdf",
@@ -161,19 +171,9 @@
           "description": "FTX seeks to acquire troubled crypto lender BlockFi: sources",
           "link": "https://www.theblock.co/post/154929/ftx-blockfi-deal-sources",
           "publishedOn": "2022-06-30T03:00:05.000Z",
-          "wordCount": 73365,
+          "wordCount": 73142,
           "title": "FTX seeks to acquire troubled crypto lender BlockFi: sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover.png"
-        },
-        {
-          "id": "https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/",
-          "author": null,
-          "description": "Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources",
-          "link": "https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/",
-          "publishedOn": "2022-06-30T03:00:04.000Z",
-          "wordCount": 17086,
-          "title": "Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources",
-          "imageUrl": "https://www.coindesk.com/resizer/vpemn-iz2bq8s9IElJokyvEJza8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6JFMIPH64VAHTJQRHCTEVS2YE4.jpg"
         },
         {
           "id": "https://medium.com/@nic__carter/setting-the-record-straight-b4e1b415e7d9",
