@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.chain.link/asset-tokenization-bringing-real-world-value-to-the-blockchain/",
+          "author": null,
+          "description": "Asset Tokenization: Bringing Real-World Value To Blockchains and DeFi",
+          "link": "https://blog.chain.link/asset-tokenization-bringing-real-world-value-to-the-blockchain/",
+          "publishedOn": "2022-07-03T03:30:02.000Z",
+          "wordCount": 4813,
+          "title": "Asset Tokenization: Bringing Real-World Value To Blockchains and DeFi",
+          "imageUrl": "https://blog.chain.link/wp-content/uploads/2020/10/Asset-Tokenization_V1.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/how-public-pensions-turn-cities-unlivable-hellholes",
+          "author": null,
+          "description": "How Public Pensions Turn Cities Into Unlivable Hellholes | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/how-public-pensions-turn-cities-unlivable-hellholes",
+          "publishedOn": "2022-07-03T02:30:03.000Z",
+          "wordCount": 2763,
+          "title": "How Public Pensions Turn Cities Into Unlivable Hellholes | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N1eNW7GG_Q8&feature=youtu.be",
           "author": null,
           "description": "Bury me with my money",
@@ -96,22 +116,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.twitch.tv/videos/1520498522",
-          "author": null,
-          "description": "Revisiting the basics of Optimism with Ori - kelvinfichter on Twitch",
-          "link": "https://www.twitch.tv/videos/1520498522",
-          "publishedOn": "2022-07-02T23:00:02.000Z",
-          "wordCount": 249,
-          "title": "Revisiting the basics of Optimism with Ori - kelvinfichter on Twitch",
-          "imageUrl": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"
-        },
-        {
           "id": "https://old.reddit.com/r/news/comments/vppvbe/nft_sales_hit_12month_low_after_cryptocurrency/",
           "author": null,
           "description": "NFT sales hit 12-month low after cryptocurrency crash",
           "link": "https://old.reddit.com/r/news/comments/vppvbe/nft_sales_hit_12month_low_after_cryptocurrency/",
           "publishedOn": "2022-07-02T19:30:03.000Z",
-          "wordCount": 9737,
+          "wordCount": 9791,
           "title": "NFT sales hit 12-month low after cryptocurrency crash",
           "imageUrl": "https://b.thumbs.redditmedia.com/xrjYqYYHyHHghLX8Z1qqUsLnNzIfJecjDO1A_rst7wU.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "Three Arrows Capital Files for Bankruptcy in New York Tied to British Virgin Islands Proceeding",
           "link": "https://www.coindesk.com/business/2022/07/01/three-arrows-capital-files-for-bankruptcy-in-new-york-tied-to-british-virgin-islands-proceeding/",
           "publishedOn": "2022-07-02T06:00:03.000Z",
-          "wordCount": 15833,
+          "wordCount": 15829,
           "title": "Three Arrows Capital Files for Bankruptcy in New York Tied to British Virgin Islands Proceeding",
           "imageUrl": "https://www.coindesk.com/resizer/o4UMgljJAa7OtxNWeocGHzwhY7s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WVO2WENPCND37O4I7WSBJRI3PY.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 45,
           "title": "❍",
           "imageUrl": "https://astateofmind.xyz/zog-image.png"
-        },
-        {
-          "id": "https://www.coindesk.com/business/2022/07/01/meta-to-shutter-novi-crypto-payments-wallet-in-september-ending-libra-saga/",
-          "author": null,
-          "description": "Meta to Shutter Novi Crypto Payments Wallet in September, Ending Libra Saga",
-          "link": "https://www.coindesk.com/business/2022/07/01/meta-to-shutter-novi-crypto-payments-wallet-in-september-ending-libra-saga/",
-          "publishedOn": "2022-07-02T03:30:03.000Z",
-          "wordCount": 15813,
-          "title": "Meta to Shutter Novi Crypto Payments Wallet in September, Ending Libra Saga",
-          "imageUrl": "https://www.coindesk.com/resizer/RoZ0w24jDXuoBjT7d4rX7JhQ-RY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4DMOKANESFDY3BR373WDAPOBME"
         },
         {
           "id": "https://mirror.xyz/alexatallah.eth/-8HvcUeO6wkrzV5xLR-Uv_OljE_Xci1yI6jUBGYJvmU",
@@ -201,7 +201,7 @@
           "description": "Voyager Digital Provides Market Update",
           "link": "https://finance.yahoo.com/news/voyager-digital-provides-market-184400883.html",
           "publishedOn": "2022-07-01T23:00:02.000Z",
-          "wordCount": 15754,
+          "wordCount": 15821,
           "title": "Voyager Digital Provides Market Update",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/aGw8jMth.c1nl34CqG7azg--~B/aD0yMDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/22b2887a68fb00a876d6149c8451940c"
         }
