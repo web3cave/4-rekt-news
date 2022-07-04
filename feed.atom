@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T05:31:49.532Z</id>
+    <id>urn:2022-07-04T06:31:50.392Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T05:31:49.532Z</updated>
+    <updated>2022-07-04T06:31:50.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://bitcoinmagazine.com/culture/american-independence-secured-by-bitcoin"/>
         <updated>2022-07-04T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[What American Independence Looks Like When Secured By Bitcoin]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dax - Dear Alcohol]]></title>
+        <id>https://soundcloud.com/thatsdax/dax-dear-alcohol?ref=twitter&amp;p=i&amp;c=0&amp;utm_source=twitter&amp;utm_medium=post&amp;utm_campaign=social_sharing</id>
+        <link href="https://soundcloud.com/thatsdax/dax-dear-alcohol?ref=twitter&amp;p=i&amp;c=0&amp;utm_source=twitter&amp;utm_medium=post&amp;utm_campaign=social_sharing"/>
+        <updated>2022-07-04T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Dax - Dear Alcohol]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://money.cnn.com/2000/11/09/technology/overview/"/>
         <updated>2022-07-03T12:30:11.000Z</updated>
         <summary type="html"><![CDATA[Dot.coms lose $1.755 trillion in market value - Nov. 9, 2000]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Windows malloc() Implementation Is A Trash Fire]]></title>
-        <id>https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/</id>
-        <link href="https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/"/>
-        <updated>2022-07-03T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Windows malloc() Implementation Is A Trash Fire]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
