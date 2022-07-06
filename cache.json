@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://gitcoin.co/results",
-          "author": null,
-          "description": "$65.5m in  Results",
-          "link": "https://gitcoin.co/results",
-          "publishedOn": "2022-07-06T20:00:04.000Z",
-          "wordCount": 4847,
-          "title": "$65.5m in  Results",
-          "imageUrl": "https://s.gitcoin.co/static/v2/images/results_preview.8447305ee9d9.gif"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/07/06/nic-carter-and-the-case-for-bitcoin-mediumism/",
           "author": null,
           "description": "Nic Carter vs. The Bitcoin Maximalists",
           "link": "https://www.coindesk.com/layer2/2022/07/06/nic-carter-and-the-case-for-bitcoin-mediumism/",
           "publishedOn": "2022-07-06T19:30:03.000Z",
-          "wordCount": 16608,
+          "wordCount": 16890,
           "title": "Nic Carter vs. The Bitcoin Maximalists",
           "imageUrl": "https://www.coindesk.com/resizer/G-VkN6PNU9f_Pio6qCt2t2hT2Tc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3TXJ5IRLGJAFZLY5RSDTXNTTPE.jpg"
         },
@@ -41,7 +31,7 @@
           "description": "Uprise lost 99% of client funds while shorting LUNA during its price crash: SE Daily",
           "link": "https://www.theblock.co/post/156031/uprise-lost-99-of-client-funds-while-shorting-luna-during-its-price-crash",
           "publishedOn": "2022-07-06T17:00:04.000Z",
-          "wordCount": 77123,
+          "wordCount": 77713,
           "title": "Uprise lost 99% of client funds while shorting LUNA during its price crash: SE Daily",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220517_Luna-2.jpg"
         },
@@ -51,7 +41,7 @@
           "description": "Ethereum Name Service Registrations Spike 216% in One Week - Decrypt",
           "link": "https://decrypt.co/104472/ethereum-name-service-registrations-spike-216-in-one-week",
           "publishedOn": "2022-07-06T17:00:04.000Z",
-          "wordCount": 5881,
+          "wordCount": 5871,
           "title": "Ethereum Name Service Registrations Spike 216% in One Week - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/Hellonametag-Cropped-gID_1.jpg"
         },
@@ -61,7 +51,7 @@
           "description": "How a fake job offer took down the world’s most popular crypto game",
           "link": "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game",
           "publishedOn": "2022-07-06T17:00:03.000Z",
-          "wordCount": 77110,
+          "wordCount": 77700,
           "title": "How a fake job offer took down the world’s most popular crypto game",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220512_Axie-Infinity.jpg"
         },
@@ -101,7 +91,7 @@
           "description": "An Alternate Interchain Security Proposal - Neel Somani",
           "link": "https://www.neelsomani.com/blog/alternate-interchain-security-proposal.php",
           "publishedOn": "2022-07-06T03:00:03.000Z",
-          "wordCount": 1146,
+          "wordCount": 1153,
           "title": "An Alternate Interchain Security Proposal - Neel Somani",
           "imageUrl": "https://www.neelsomani.com/blog/images/cosmos-logo.png"
         },
@@ -131,7 +121,7 @@
           "description": "Introducing the First Solana MEV Dashboard",
           "link": "https://jito-labs.medium.com/introducing-the-first-solana-mev-dashboard-213c3304eb5b",
           "publishedOn": "2022-07-05T22:30:02.000Z",
-          "wordCount": 2183,
+          "wordCount": 2244,
           "title": "Introducing the First Solana MEV Dashboard",
           "imageUrl": "https://miro.medium.com/max/1200/1*A1MQndHldebM_fkUXQHGZA.png"
         },
@@ -141,9 +131,19 @@
           "description": "🌲 FWB FEST 🌲",
           "link": "https://fest.fwb.help/",
           "publishedOn": "2022-07-05T21:30:08.000Z",
-          "wordCount": 941,
+          "wordCount": 904,
           "title": "🌲 FWB FEST 🌲",
           "imageUrl": "https://fest.fwb.help/images/share2.jpg"
+        },
+        {
+          "id": "https://www.ethereumphone.org/",
+          "author": null,
+          "description": "Ethereum OS - Crypto native mobile operating system",
+          "link": "https://www.ethereumphone.org/",
+          "publishedOn": "2022-07-05T21:30:08.000Z",
+          "wordCount": 510,
+          "title": "Ethereum OS - Crypto native mobile operating system",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=BjTeLtuKs1A",
