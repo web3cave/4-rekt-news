@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://unisocks.exchange/",
+          "author": null,
+          "description": "Unisocks Exchange",
+          "link": "https://unisocks.exchange/",
+          "publishedOn": "2022-07-06T14:30:03.000Z",
+          "wordCount": 45,
+          "title": "Unisocks Exchange",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.fbi.gov/news/apps/child-id-app",
           "author": null,
           "description": "FBI Child ID App | Federal Bureau of Investigation",
@@ -41,7 +51,7 @@
           "description": "An Alternate Interchain Security Proposal - Neel Somani",
           "link": "https://www.neelsomani.com/blog/alternate-interchain-security-proposal.php",
           "publishedOn": "2022-07-06T03:00:03.000Z",
-          "wordCount": 1150,
+          "wordCount": 1147,
           "title": "An Alternate Interchain Security Proposal - Neel Somani",
           "imageUrl": "https://www.neelsomani.com/blog/images/cosmos-logo.png"
         },
@@ -54,6 +64,16 @@
           "wordCount": 4303,
           "title": "Continuous Auction Of NFTs Used To Monetize Public Goods",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/OV5CtCAYgI1yr3yEr3Xyw.png?h=1104&w=1138"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iOSYpI82_60&feature=youtu.be",
+          "author": null,
+          "description": "Ethereum Merge: Stage 2 - Sepolia Network Upgrade Hosted By Daily Gwei/EthStaker",
+          "link": "https://www.youtube.com/watch?v=iOSYpI82_60&feature=youtu.be",
+          "publishedOn": "2022-07-05T23:00:05.000Z",
+          "wordCount": null,
+          "title": "Ethereum Merge: Stage 2 - Sepolia Network Upgrade Hosted By Daily Gwei/EthStaker",
+          "imageUrl": null
         },
         {
           "id": "https://jito-labs.medium.com/introducing-the-first-solana-mev-dashboard-213c3304eb5b",
@@ -136,34 +156,14 @@
           "imageUrl": "http://static1.squarespace.com/static/629880f304590d72ab58552c/t/629882216bd98a25d6f232de/1654161953533/full+logo.jpg?format=1500w"
         },
         {
-          "id": "https://www.youtube.com/watch?v=OvBL92QiWMM&feature=youtu.be",
-          "author": null,
-          "description": "Polygon and HTC team up, ZigZag Exchange layer 3 - The Daily Gwei Refuel #399 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=OvBL92QiWMM&feature=youtu.be",
-          "publishedOn": "2022-07-05T19:00:06.000Z",
-          "wordCount": null,
-          "title": "Polygon and HTC team up, ZigZag Exchange layer 3 - The Daily Gwei Refuel #399 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/155859/bullish-com-cuts-jobs-crypto-exchange",
           "author": null,
           "description": "Bullish.com becomes the latest crypto exchange to cut jobs",
           "link": "https://www.theblock.co/post/155859/bullish-com-cuts-jobs-crypto-exchange",
           "publishedOn": "2022-07-05T19:00:05.000Z",
-          "wordCount": 74025,
+          "wordCount": 74626,
           "title": "Bullish.com becomes the latest crypto exchange to cut jobs",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210402_Bitcoin_Generic.jpg"
-        },
-        {
-          "id": "https://gov.optimism.io/t/draft-gf-phase-1-proposal-optimism-with-celestia-for-data-availability/2881",
-          "author": null,
-          "description": "[DRAFT] [GF: Phase 1 Proposal] Optimism with Celestia for Data Availability",
-          "link": "https://gov.optimism.io/t/draft-gf-phase-1-proposal-optimism-with-celestia-for-data-availability/2881",
-          "publishedOn": "2022-07-05T19:00:05.000Z",
-          "wordCount": 1977,
-          "title": "[DRAFT] [GF: Phase 1 Proposal] Optimism with Celestia for Data Availability",
-          "imageUrl": "https://global.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=eOWWExjPbvI",
@@ -191,7 +191,7 @@
           "description": "HTC launches metaverse phone with Ethereum, Polygon support",
           "link": "https://finance.yahoo.com/news/htc-launches-metaverse-phone-ethereum-032319535.html",
           "publishedOn": "2022-07-04T21:00:03.000Z",
-          "wordCount": 14343,
+          "wordCount": 14206,
           "title": "HTC launches metaverse phone with Ethereum, Polygon support",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FAOOzQ1mPzR3zL2tdPwiOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01ODU-/https://s.yimg.com/uu/api/res/1.2/8ATOB78vgREETLSV2PyHRQ--~B/aD02MzM7dz0xMjk4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/forkast_news_articles_672/f5e0bc9cf2c2e34a2a8b7bc6a587841f"
         },
