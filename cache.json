@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/155893/sales-of-bitmains-new-ethereum-asic-miner-to-begin-wednesday?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Sales of Bitmain's new Ethereum ASIC miner to begin Wednesday",
+          "link": "https://www.theblock.co/post/155893/sales-of-bitmains-new-ethereum-asic-miner-to-begin-wednesday?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-07-06T03:00:03.000Z",
+          "wordCount": 75236,
+          "title": "Sales of Bitmain's new Ethereum ASIC miner to begin Wednesday",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/10/20211021_Crytpomining_General3.jpg"
+        },
+        {
+          "id": "https://www.neelsomani.com/blog/alternate-interchain-security-proposal.php",
+          "author": null,
+          "description": "An Alternate Interchain Security Proposal - Neel Somani",
+          "link": "https://www.neelsomani.com/blog/alternate-interchain-security-proposal.php",
+          "publishedOn": "2022-07-06T03:00:03.000Z",
+          "wordCount": 1147,
+          "title": "An Alternate Interchain Security Proposal - Neel Somani",
+          "imageUrl": "https://www.neelsomani.com/blog/images/cosmos-logo.png"
+        },
+        {
           "id": "https://jito-labs.medium.com/introducing-the-first-solana-mev-dashboard-213c3304eb5b",
           "author": null,
           "description": "Introducing the First Solana MEV Dashboard",
@@ -96,16 +116,6 @@
           "imageUrl": "http://static1.squarespace.com/static/629880f304590d72ab58552c/t/629882216bd98a25d6f232de/1654161953533/full+logo.jpg?format=1500w"
         },
         {
-          "id": "https://solanamobile.com/",
-          "author": null,
-          "description": "It's time for crypto to go mobile. | Solana Mobile",
-          "link": "https://solanamobile.com/",
-          "publishedOn": "2022-07-05T19:30:03.000Z",
-          "wordCount": 3689,
-          "title": "It's time for crypto to go mobile. | Solana Mobile",
-          "imageUrl": "https://solanamobile.com/socialshare.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=OvBL92QiWMM&feature=youtu.be",
           "author": null,
           "description": "Polygon and HTC team up, ZigZag Exchange layer 3 - The Daily Gwei Refuel #399 - Ethereum Updates",
@@ -131,7 +141,7 @@
           "description": "[DRAFT] [GF: Phase 1 Proposal] Optimism with Celestia for Data Availability",
           "link": "https://gov.optimism.io/t/draft-gf-phase-1-proposal-optimism-with-celestia-for-data-availability/2881",
           "publishedOn": "2022-07-05T19:00:05.000Z",
-          "wordCount": 1925,
+          "wordCount": 1975,
           "title": "[DRAFT] [GF: Phase 1 Proposal] Optimism with Celestia for Data Availability",
           "imageUrl": "https://global.discourse-cdn.com/standard10/uploads/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png"
         },
@@ -151,9 +161,9 @@
           "description": "In the Recent Crypto Market Meltdown, What Role Did Lido's stETH Play? - Ep. 370",
           "link": "https://unchainedpodcast.com/in-the-recent-crypto-market-meltdown-what-role-did-lidos-steth-play-ep-370/",
           "publishedOn": "2022-07-05T15:00:17.000Z",
-          "wordCount": 4046,
+          "wordCount": 592,
           "title": "In the Recent Crypto Market Meltdown, What Role Did Lido's stETH Play? - Ep. 370",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN370-social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://gov.l2beat.com/t/l2bridge-risk-framework/31",
@@ -181,7 +191,7 @@
           "description": "HTC launches metaverse phone with Ethereum, Polygon support",
           "link": "https://finance.yahoo.com/news/htc-launches-metaverse-phone-ethereum-032319535.html",
           "publishedOn": "2022-07-04T21:00:03.000Z",
-          "wordCount": 14352,
+          "wordCount": 14290,
           "title": "HTC launches metaverse phone with Ethereum, Polygon support",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/FAOOzQ1mPzR3zL2tdPwiOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01ODU-/https://s.yimg.com/uu/api/res/1.2/8ATOB78vgREETLSV2PyHRQ--~B/aD02MzM7dz0xMjk4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/forkast_news_articles_672/f5e0bc9cf2c2e34a2a8b7bc6a587841f"
         },
@@ -194,16 +204,6 @@
           "wordCount": 52,
           "title": "seed-poem-tool",
           "imageUrl": null
-        },
-        {
-          "id": "https://1729.com/",
-          "author": null,
-          "description": "The Network State: How To Start a New Country",
-          "link": "https://1729.com/",
-          "publishedOn": "2022-07-04T15:00:03.000Z",
-          "wordCount": 183,
-          "title": "The Network State: How To Start a New Country",
-          "imageUrl": "https://book.1729.com/assets/home-opengraph.png"
         }
       ]
     }
