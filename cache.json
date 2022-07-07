@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.oge.gov/web/oge.nsf/News+Releases/E116F1FD24F94BB3852588770058A0FA/$FILE/LA-22-04.pdf",
+          "author": null,
+          "description": "[PDF] LA-22-04.pdf",
+          "link": "https://www.oge.gov/web/oge.nsf/News+Releases/E116F1FD24F94BB3852588770058A0FA/$FILE/LA-22-04.pdf",
+          "publishedOn": "2022-07-07T03:00:02.000Z",
+          "wordCount": 3224,
+          "title": "[PDF] LA-22-04.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/policy/2022/07/06/solana-labs-multicoin-accused-of-violating-securities-law-by-sol-investor/",
+          "author": null,
+          "description": "Solana Labs, Multicoin Accused of Violating Securities Law by SOL Investor",
+          "link": "https://www.coindesk.com/policy/2022/07/06/solana-labs-multicoin-accused-of-violating-securities-law-by-sol-investor/",
+          "publishedOn": "2022-07-07T03:00:02.000Z",
+          "wordCount": 17443,
+          "title": "Solana Labs, Multicoin Accused of Violating Securities Law by SOL Investor",
+          "imageUrl": "https://www.coindesk.com/resizer/5ocixzm7HMpe1Vb62_YSSjNFHRs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R5R2KWXBSREL3KD46LBRNMDSRM.jpg"
+        },
+        {
           "id": "https://github.com/memester-xyz/surl/",
           "author": null,
           "description": "GitHub - memester-xyz/surl: HTTP Library for Solidity based on curl",
@@ -21,7 +41,7 @@
           "description": "Is MakerDAO Becoming ‘a Company Run by Politics’?",
           "link": "https://www.coindesk.com/business/2022/07/06/is-makerdao-becoming-a-company-run-by-politics/",
           "publishedOn": "2022-07-06T23:00:03.000Z",
-          "wordCount": 19282,
+          "wordCount": 19270,
           "title": "Is MakerDAO Becoming ‘a Company Run by Politics’?",
           "imageUrl": "https://www.coindesk.com/resizer/VmldbPD_T5u8L191HUnUfBBwRTo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/35KR4KB2PBDWPD6NVRWWXBDO4Q.jpg"
         },
@@ -61,7 +81,7 @@
           "description": "Nic Carter vs. The Bitcoin Maximalists",
           "link": "https://www.coindesk.com/layer2/2022/07/06/nic-carter-and-the-case-for-bitcoin-mediumism/",
           "publishedOn": "2022-07-06T19:30:03.000Z",
-          "wordCount": 19475,
+          "wordCount": 19464,
           "title": "Nic Carter vs. The Bitcoin Maximalists",
           "imageUrl": "https://www.coindesk.com/resizer/G-VkN6PNU9f_Pio6qCt2t2hT2Tc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3TXJ5IRLGJAFZLY5RSDTXNTTPE.jpg"
         },
@@ -73,7 +93,7 @@
           "publishedOn": "2022-07-06T18:30:03.000Z",
           "wordCount": 3001,
           "title": "Apple expands commitment to protect users from mercenary spyware",
-          "imageUrl": "https://www.apple.com/newsroom/images/values/privacy/Apple-Lockdown-Mode-update-2022-hero.jpg.og.jpg?202207062248"
+          "imageUrl": "https://www.apple.com/newsroom/images/values/privacy/Apple-Lockdown-Mode-update-2022-hero.jpg.og.jpg?202207062247"
         },
         {
           "id": "https://www.youtube.com/watch?v=MXWEZUFUhmU&ab_channel=Cross-ChainExamination",
@@ -166,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=BjTeLtuKs1A",
-          "author": null,
-          "description": "Leaving the Bitcoin Religion with Nic Carter",
-          "link": "https://www.youtube.com/watch?v=BjTeLtuKs1A",
-          "publishedOn": "2022-07-05T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Leaving the Bitcoin Religion with Nic Carter",
-          "imageUrl": null
-        },
-        {
           "id": "https://claim.lens.xyz/",
           "author": null,
           "description": "Lens Protocol - Claiming App",
@@ -194,16 +204,6 @@
           "wordCount": 236,
           "title": "[Devconnect 2022] Layer 1 R&D Workshop Resources",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://blog.porter.finance/porter-finance-is-shutting-down-bond-issuance-platform-bc8cb053f35d?gi=82f4b1d29c3a",
-          "author": null,
-          "description": "Porter Finance is shutting down its bond issuance platform",
-          "link": "https://blog.porter.finance/porter-finance-is-shutting-down-bond-issuance-platform-bc8cb053f35d?gi=82f4b1d29c3a",
-          "publishedOn": "2022-07-05T08:00:02.000Z",
-          "wordCount": 1813,
-          "title": "Porter Finance is shutting down its bond issuance platform",
-          "imageUrl": null
         }
       ]
     }
