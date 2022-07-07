@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-07T22:21:40.917Z</id>
+    <id>urn:2022-07-07T23:22:20.304Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-07T22:21:40.917Z</updated>
+    <updated>2022-07-07T23:22:20.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
+        <id>https://www.youtube.com/c/UnchainedPodcast</id>
+        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
+        <updated>2022-07-07T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lawmakers push for universal chargers for smartphones, mobile devices]]></title>
         <id>https://www.usatoday.com/story/tech/2022/06/17/universal-charger-smartphones-mobile-devices/7658935001/</id>
@@ -26,21 +36,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joining RISC Zero: The Future of Scaling]]></title>
-        <id>https://medium.com/@ashleighschap/joining-risc-zero-the-future-of-scaling-1d376c4278f0</id>
-        <link href="https://medium.com/@ashleighschap/joining-risc-zero-the-future-of-scaling-1d376c4278f0"/>
-        <updated>2022-07-07T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Joining RISC Zero: The Future of Scaling]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AllCoreDevs Update 012 ⛓]]></title>
         <id>https://tim.mirror.xyz/xkhOUpYC8UUNlTgGehhl63XF5QZnxAOvW3EOK9MWPeQ</id>
         <link href="https://tim.mirror.xyz/xkhOUpYC8UUNlTgGehhl63XF5QZnxAOvW3EOK9MWPeQ"/>
         <updated>2022-07-07T21:00:04.000Z</updated>
         <summary type="html"><![CDATA[AllCoreDevs Update 012 ⛓]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joining RISC Zero: The Future of Scaling]]></title>
+        <id>https://medium.com/@ashleighschap/joining-risc-zero-the-future-of-scaling-1d376c4278f0</id>
+        <link href="https://medium.com/@ashleighschap/joining-risc-zero-the-future-of-scaling-1d376c4278f0"/>
+        <updated>2022-07-07T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Joining RISC Zero: The Future of Scaling]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -71,16 +81,6 @@
         <link href="https://zk.money/"/>
         <updated>2022-07-07T17:00:04.000Z</updated>
         <summary type="html"><![CDATA[zk.money]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guy with amazing stamping skills]]></title>
-        <id>https://www.youtube.com/watch?v=tCJcrIpgrr0&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=tCJcrIpgrr0&amp;feature=youtu.be"/>
-        <updated>2022-07-07T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Guy with amazing stamping skills]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
