@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T11:18:32.482Z</id>
+    <id>urn:2022-07-08T12:43:48.618Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T11:18:32.482Z</updated>
+    <updated>2022-07-08T12:43:48.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,16 +21,6 @@
         <link href="https://forum.makerdao.com/t/aave-released-a-stablecoin/16421/15?u=monet-supply"/>
         <updated>2022-07-08T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[AAVE released a stablecoin]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Neutron]]></title>
-        <id>https://economy.p2p.org/introducing-neutron/</id>
-        <link href="https://economy.p2p.org/introducing-neutron/"/>
-        <updated>2022-07-08T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Neutron]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -91,6 +81,16 @@
         <link href="https://www.youtube.com/c/UnchainedPodcast"/>
         <updated>2022-07-07T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove my key from trusted-keys by sipa · Pull Request #25568 · bitcoin/bitcoin]]></title>
+        <id>https://github.com/bitcoin/bitcoin/pull/25568</id>
+        <link href="https://github.com/bitcoin/bitcoin/pull/25568"/>
+        <updated>2022-07-07T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Remove my key from trusted-keys by sipa · Pull Request #25568 · bitcoin/bitcoin]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
