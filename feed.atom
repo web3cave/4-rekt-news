@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T13:39:42.024Z</id>
+    <id>urn:2022-07-08T14:31:39.875Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T13:39:42.024Z</updated>
+    <updated>2022-07-08T14:31:39.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TON Foundation Sets Up New $90M Ecosystem Fund]]></title>
+        <id>https://www.coindesk.com/business/2022/07/07/ton-foundation-raises-90m-for-new-ecosystem-fund/</id>
+        <link href="https://www.coindesk.com/business/2022/07/07/ton-foundation-raises-90m-for-new-ecosystem-fund/"/>
+        <updated>2022-07-08T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[TON Foundation Sets Up New $90M Ecosystem Fund]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apology to members of the Zcash community for some recent posts]]></title>
         <id>https://medium.com/@zooko_25893/apology-to-members-of-the-zcash-community-for-some-recent-posts-7b219ada256</id>
@@ -81,16 +91,6 @@
         <link href="https://www.youtube.com/c/UnchainedPodcast"/>
         <updated>2022-07-07T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove my key from trusted-keys by sipa · Pull Request #25568 · bitcoin/bitcoin]]></title>
-        <id>https://github.com/bitcoin/bitcoin/pull/25568</id>
-        <link href="https://github.com/bitcoin/bitcoin/pull/25568"/>
-        <updated>2022-07-07T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Remove my key from trusted-keys by sipa · Pull Request #25568 · bitcoin/bitcoin]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
