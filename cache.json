@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://old.reddit.com/r/ethereum/comments/vrx9xe/ama_we_are_ef_research_pt_8_07_july_2022/",
+          "id": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
           "author": null,
-          "description": "[AMA] We are EF Research (Pt. 8: 07 July, 2022)",
-          "link": "https://old.reddit.com/r/ethereum/comments/vrx9xe/ama_we_are_ef_research_pt_8_07_july_2022/",
-          "publishedOn": "2022-07-08T17:30:03.000Z",
-          "wordCount": 22009,
-          "title": "[AMA] We are EF Research (Pt. 8: 07 July, 2022)",
-          "imageUrl": "https://external-preview.redd.it/WSqGR2511AQXIN172aycw9idD-3ENHc5hT_1a0M_2UQ.jpg?width=1200&height=528&auto=webp&crop=1200:528,smart&s=c5b61ae38a1f9f32f95d4c8468da759e0eb4aaaf"
+          "description": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
+          "link": "https://thehill.com/regulation/court-battles/3549907-mortons-condemns-abortion-rights-protestors-for-disrupting-kavanaughs-freedom-to-eat-dinner/",
+          "publishedOn": "2022-07-08T18:00:03.000Z",
+          "wordCount": 3576,
+          "title": "Morton’s condemns abortion rights protesters for disrupting Kavanaugh’s freedom to ‘eat dinner’",
+          "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/04/kavanaughbrett_090518gn.jpg?w=1280"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/07/07/ton-foundation-raises-90m-for-new-ecosystem-fund/",
+          "author": null,
+          "description": "TON Foundation Sets Up New $90M Ecosystem Fund",
+          "link": "https://www.coindesk.com/business/2022/07/07/ton-foundation-raises-90m-for-new-ecosystem-fund/",
+          "publishedOn": "2022-07-08T18:00:03.000Z",
+          "wordCount": 17263,
+          "title": "TON Foundation Sets Up New $90M Ecosystem Fund",
+          "imageUrl": "https://www.coindesk.com/resizer/yGMQVNticq_pH59YehzEKYMyF5A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RE5NP67URJERXM3BVSDL4PAMOU.jpg"
         },
         {
           "id": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
@@ -21,7 +31,7 @@
           "description": "Microplastics in milk and meat from Dutch cows, pigs: Amsterdam researchers",
           "link": "https://nltimes.nl/2022/07/08/microplastics-milk-meat-dutch-cows-pigs-amsterdam-researchers",
           "publishedOn": "2022-07-08T17:00:03.000Z",
-          "wordCount": 1037,
+          "wordCount": 1043,
           "title": "Microplastics in milk and meat from Dutch cows, pigs: Amsterdam researchers",
           "imageUrl": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2019/04/depositphotos_164734898_l-2015.jpg?h=4997dc06"
         },
@@ -34,16 +44,6 @@
           "wordCount": 3604,
           "title": "Transformative Autonomous Organizations | Black Sky Nexus",
           "imageUrl": "https://nexus.blacksky.network/img/cover.gif"
-        },
-        {
-          "id": "https://www.blockchain.com/",
-          "author": null,
-          "description": "Blockchain.com - The Most Trusted Crypto Company",
-          "link": "https://www.blockchain.com/",
-          "publishedOn": "2022-07-08T17:00:02.000Z",
-          "wordCount": 43942,
-          "title": "Blockchain.com - The Most Trusted Crypto Company",
-          "imageUrl": "https://www.blockchain.com/static/img/home/opengraph.png"
         },
         {
           "id": "https://www.ft.com/content/d0c5815f-f0a2-49ad-8772-f4b0fbbd2c94",
@@ -61,9 +61,9 @@
           "description": "Japan ex-prime minister Abe taken to hospital after apparent shooting -NHK",
           "link": "https://www.reuters.com/world/asia-pacific/japan-ex-prime-minister-abe-may-have-been-shot-taken-hospital-nhk-2022-07-08/",
           "publishedOn": "2022-07-08T14:45:03.000Z",
-          "wordCount": 5604,
+          "wordCount": 5635,
           "title": "Japan ex-prime minister Abe taken to hospital after apparent shooting -NHK",
-          "imageUrl": "https://www.reuters.com/resizer/LqoMdfXhUx1kQ1bvQuaF0OkpmT4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LHX5BTHBJVP5DAX22QPHPC7LLY.jpg"
+          "imageUrl": "https://www.reuters.com/resizer/E46hGw22_77UnNAIL3h3eKVD_ds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PBVA4RKOBJIU3ORWPLP6S4GZFQ.jpg"
         },
         {
           "id": "https://medium.com/@zooko_25893/apology-to-members-of-the-zcash-community-for-some-recent-posts-7b219ada256",
@@ -71,7 +71,7 @@
           "description": "Apology to members of the Zcash community for some recent posts",
           "link": "https://medium.com/@zooko_25893/apology-to-members-of-the-zcash-community-for-some-recent-posts-7b219ada256",
           "publishedOn": "2022-07-08T09:00:02.000Z",
-          "wordCount": 1764,
+          "wordCount": 1778,
           "title": "Apology to members of the Zcash community for some recent posts",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "Joining RISC Zero: The Future of Scaling",
           "link": "https://medium.com/@ashleighschap/joining-risc-zero-the-future-of-scaling-1d376c4278f0",
           "publishedOn": "2022-07-07T21:00:04.000Z",
-          "wordCount": 2546,
+          "wordCount": 2857,
           "title": "Joining RISC Zero: The Future of Scaling",
           "imageUrl": "https://miro.medium.com/max/1200/1*tx4ZE0z46r0sH1IlftzR-A.png"
         },
