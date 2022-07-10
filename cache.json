@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sa3lR78ddFk",
+          "author": null,
+          "description": "#264 | Balaji Srinivasan on The Network State: How to Build New Countries - The Realignment Podcast",
+          "link": "https://www.youtube.com/watch?v=sa3lR78ddFk",
+          "publishedOn": "2022-07-10T11:00:02.000Z",
+          "wordCount": null,
+          "title": "#264 | Balaji Srinivasan on The Network State: How to Build New Countries - The Realignment Podcast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://book.thenetworkstate.com/tns.pdf",
+          "author": null,
+          "description": "[PDF] tns.pdf",
+          "link": "https://book.thenetworkstate.com/tns.pdf",
+          "publishedOn": "2022-07-10T11:00:02.000Z",
+          "wordCount": 223849,
+          "title": "[PDF] tns.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://forum.superrare.com/t/sip-indexing-of-shatter-smart-contract-from-transient-labs/858",
           "author": null,
           "description": "SIP | Indexing of Shatter Smart Contract from Transient Labs",
@@ -16,24 +36,14 @@
           "imageUrl": "https://forum.superrare.com/uploads/default/original/1X/d6a3e71a286054099e226480c849dadec79f6c24.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=jVhlJNJopOQ&feature=youtu.be",
+          "id": "https://l2beat.com/projects/aztecconnect/",
           "author": null,
-          "description": "Papyrus - SNL",
-          "link": "https://www.youtube.com/watch?v=jVhlJNJopOQ&feature=youtu.be",
-          "publishedOn": "2022-07-10T07:00:02.000Z",
-          "wordCount": null,
-          "title": "Papyrus - SNL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://soundcloud.com/jojiofficial/joji-glimpse-of-us?ref=clipboard&p=i&c=0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-          "author": null,
-          "description": "Joji - Glimpse of Us",
-          "link": "https://soundcloud.com/jojiofficial/joji-glimpse-of-us?ref=clipboard&p=i&c=0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-          "publishedOn": "2022-07-10T07:00:02.000Z",
-          "wordCount": 718,
-          "title": "Joji - Glimpse of Us",
-          "imageUrl": "https://i1.sndcdn.com/artworks-aRkpBjfQqjI9-0-t500x500.jpg"
+          "description": "Aztec Connect – L2BEAT",
+          "link": "https://l2beat.com/projects/aztecconnect/",
+          "publishedOn": "2022-07-10T09:30:02.000Z",
+          "wordCount": 607,
+          "title": "Aztec Connect – L2BEAT",
+          "imageUrl": "https://l2beat.com/meta-images/aztecconnect.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=27AuSYoA1UA",
@@ -43,46 +53,6 @@
           "publishedOn": "2022-07-10T07:00:02.000Z",
           "wordCount": null,
           "title": "Young Hearts Run Free",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/technology/which-countries-are-dominating-space",
-          "author": null,
-          "description": "Which Countries Are Dominating Space? | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/which-countries-are-dominating-space",
-          "publishedOn": "2022-07-10T05:00:03.000Z",
-          "wordCount": 1331,
-          "title": "Which Countries Are Dominating Space? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/uvalde-mayor-disputes-report-says-officer-had-early-chance-shoot-gunman",
-          "author": null,
-          "description": "Uvalde Mayor Disputes Report That Says Officer Had Early Chance To Shoot Gunman | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/uvalde-mayor-disputes-report-says-officer-had-early-chance-shoot-gunman",
-          "publishedOn": "2022-07-10T05:00:03.000Z",
-          "wordCount": 1537,
-          "title": "Uvalde Mayor Disputes Report That Says Officer Had Early Chance To Shoot Gunman | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.m.wikipedia.org/wiki/File:Antilocapra_americana_female_(Wyoming,_2012).jpg",
-          "author": null,
-          "description": "File:Antilocapra americana female (Wyoming, 2012).jpg - Wikipedia",
-          "link": "https://en.m.wikipedia.org/wiki/File:Antilocapra_americana_female_(Wyoming,_2012).jpg",
-          "publishedOn": "2022-07-10T05:00:02.000Z",
-          "wordCount": 658,
-          "title": "File:Antilocapra americana female (Wyoming, 2012).jpg - Wikipedia",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Antilocapra_americana_female_%28Wyoming%2C_2012%29.jpg/1200px-Antilocapra_americana_female_%28Wyoming%2C_2012%29.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FCHcieghZ_0",
-          "author": null,
-          "description": "You fool, I have 70 alternative accounts!",
-          "link": "https://www.youtube.com/watch?v=FCHcieghZ_0",
-          "publishedOn": "2022-07-10T04:30:03.000Z",
-          "wordCount": null,
-          "title": "You fool, I have 70 alternative accounts!",
           "imageUrl": null
         },
         {
@@ -126,6 +96,16 @@
           "imageUrl": "https://static.tnc.news/media/2022/04/wbesitee-jjt.jpg"
         },
         {
+          "id": "https://eprint.iacr.org/2022/878",
+          "author": null,
+          "description": "$\\texttt{zk-creds}$: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure",
+          "link": "https://eprint.iacr.org/2022/878",
+          "publishedOn": "2022-07-09T23:00:03.000Z",
+          "wordCount": 584,
+          "title": "$\\texttt{zk-creds}$: Flexible Anonymous Credentials from zkSNARKs and Existing Identity Infrastructure",
+          "imageUrl": null
+        },
+        {
           "id": "https://coinflex.com/blog/coinflex-update-july-9-2022/",
           "author": null,
           "description": "CoinFLEX Update: July 9, 2022  | CoinFLEX",
@@ -134,6 +114,26 @@
           "wordCount": 6010,
           "title": "CoinFLEX Update: July 9, 2022  | CoinFLEX",
           "imageUrl": "https://cdnm.coinflex.com/wp-content/uploads/20200504094004/aboutflex.png"
+        },
+        {
+          "id": "https://aurora.plus/",
+          "author": null,
+          "description": "Aurora+ — Elevate Aurora with free transactions, staking, airdrops and more",
+          "link": "https://aurora.plus/",
+          "publishedOn": "2022-07-09T22:00:02.000Z",
+          "wordCount": 392,
+          "title": "Aurora+ — Elevate Aurora with free transactions, staking, airdrops and more",
+          "imageUrl": "https://aurora.plus/static/og.png"
+        },
+        {
+          "id": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
+          "author": null,
+          "description": "Transgender Butler County man says group beat him up over restroom use",
+          "link": "https://www.fox19.com/2022/07/08/transgender-butler-county-man-says-group-beat-him-up-using-wrong-restroom/",
+          "publishedOn": "2022-07-09T21:30:02.000Z",
+          "wordCount": 2985,
+          "title": "Transgender Butler County man says group beat him up over restroom use",
+          "imageUrl": "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/iq-TJ9ingh7UpcJlu7NvLh4jVhk=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/IUMG54PC5VP3DF543PT73MKIUU.jpg"
         },
         {
           "id": "https://thenetworkstate.com/",
@@ -151,7 +151,7 @@
           "description": "The Rebirth of Democracy in the Age of Information",
           "link": "https://medium.com/@0xmckenna/the-rebirth-of-democracy-in-the-age-of-information-b52030b3ba28",
           "publishedOn": "2022-07-09T19:00:02.000Z",
-          "wordCount": 5169,
+          "wordCount": 5172,
           "title": "The Rebirth of Democracy in the Age of Information",
           "imageUrl": "https://miro.medium.com/max/1200/0*gPztF247KbuBpu-o.jpg"
         },
