@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T07:20:23.872Z</id>
+    <id>urn:2022-07-10T08:25:23.128Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-10T07:20:23.872Z</updated>
+    <updated>2022-07-10T08:25:23.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Papyrus - SNL]]></title>
+        <id>https://www.youtube.com/watch?v=jVhlJNJopOQ&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=jVhlJNJopOQ&amp;feature=youtu.be"/>
+        <updated>2022-07-10T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Papyrus - SNL]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Which Countries Are Dominating Space? | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/technology/which-countries-are-dominating-space</id>
@@ -181,16 +191,6 @@
         <link href="https://github.com/ethereum/pm/issues/562"/>
         <updated>2022-07-08T20:30:03.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Core Devs Meeting 142 Agenda · Issue #562 · ethereum/pm]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code4rena Fractional v2 contest]]></title>
-        <id>https://code4rena.com/contests/2022-07-fractional-v2-contest/</id>
-        <link href="https://code4rena.com/contests/2022-07-fractional-v2-contest/"/>
-        <updated>2022-07-08T00:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Code4rena Fractional v2 contest]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
