@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/crypto/crypto-dead-except-one-part",
+          "author": null,
+          "description": "Crypto Is Dead, Except For One Part... | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/crypto-dead-except-one-part",
+          "publishedOn": "2022-07-12T03:00:05.000Z",
+          "wordCount": 3137,
+          "title": "Crypto Is Dead, Except For One Part... | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lenstube.xyz/",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/",
+          "publishedOn": "2022-07-12T02:30:02.000Z",
+          "wordCount": 11,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
           "id": "https://gcc.gnu.org/pipermail/gcc/2022-July/239057.html",
           "author": null,
           "description": "Rust front-end",
@@ -24,16 +44,6 @@
           "wordCount": 15399,
           "title": "Paradigm - Software Engineer, Front End",
           "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/679c4f6b-1878-45fe-881b-e7a36a57a7e6-1642559597150.png"
-        },
-        {
-          "id": "https://medium.com/@Lleeto/echelon-caching-ama-july-10th-4fc241f86e55",
-          "author": null,
-          "description": "Echelon Caching AMA July 10th",
-          "link": "https://medium.com/@Lleeto/echelon-caching-ama-july-10th-4fc241f86e55",
-          "publishedOn": "2022-07-11T23:00:03.000Z",
-          "wordCount": 6636,
-          "title": "Echelon Caching AMA July 10th",
-          "imageUrl": "https://miro.medium.com/max/1200/1*fZhqbexjHk8OEqKBSn3N6w.png"
         },
         {
           "id": "https://writings.flashbots.net/writings/mev-boost-call-for-testing/",
@@ -81,7 +91,7 @@
           "description": "India: Police rumble fake 'IPL' cricket league",
           "link": "https://www.bbc.com/news/world-asia-india-62123966",
           "publishedOn": "2022-07-11T21:00:02.000Z",
-          "wordCount": 5374,
+          "wordCount": 5362,
           "title": "India: Police rumble fake 'IPL' cricket league",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12CA5/production/_125856967_p0cl4yjb.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "NFTs Are Now Collateral for Secured Loans. Are You Legally Protected?",
           "link": "https://www.coindesk.com/layer2/2022/07/11/nfts-are-now-collateral-for-secured-loans-are-you-legally-protected/",
           "publishedOn": "2022-07-11T19:00:02.000Z",
-          "wordCount": 18226,
+          "wordCount": 18371,
           "title": "NFTs Are Now Collateral for Secured Loans. Are You Legally Protected?",
           "imageUrl": "https://www.coindesk.com/resizer/zwi8kR3raXXuqa2ah9fySR1Jxok=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O2RW6EXHTJG3PJQOZBLQRWB7SY.jpg"
         },
@@ -146,22 +156,12 @@
           "imageUrl": "https://opengraph.githubassets.com/f64d85bdf88a710a7938c1a051b61be75fd2aa463e95e3ece3ed6078c9ae9e17/ethereum/pm/issues/564"
         },
         {
-          "id": "https://noahpinion.substack.com/p/on-bullshit-in-investing",
-          "author": null,
-          "description": "On bullshit in investing",
-          "link": "https://noahpinion.substack.com/p/on-bullshit-in-investing",
-          "publishedOn": "2022-07-11T15:30:04.000Z",
-          "wordCount": 5328,
-          "title": "On bullshit in investing",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17f48c9f-e32e-468b-9c74-a11eb778178c_1023x685.jpeg"
-        },
-        {
           "id": "https://www.redfin.com/news/home-purchases-fall-through-2022/",
           "author": null,
           "description": "The Deal Is Off: Home Sales Are Getting Canceled at the Highest Rate Since the Start of the Pandemic",
           "link": "https://www.redfin.com/news/home-purchases-fall-through-2022/",
           "publishedOn": "2022-07-11T15:30:03.000Z",
-          "wordCount": 5379,
+          "wordCount": 5371,
           "title": "The Deal Is Off: Home Sales Are Getting Canceled at the Highest Rate Since the Start of the Pandemic",
           "imageUrl": "https://www.redfin.com/news/wp-content/uploads/2022/07/6267-Ellsworth-Ave-Dallas-TX-75214.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Cross-Chain Infrastructure Protocol LI.FI Raises $5.5M",
           "link": "https://www.coindesk.com/business/2022/07/11/cross-chain-infrastructure-protocol-lifi-raises-55m/",
           "publishedOn": "2022-07-11T15:00:03.000Z",
-          "wordCount": 16418,
+          "wordCount": 16396,
           "title": "Cross-Chain Infrastructure Protocol LI.FI Raises $5.5M",
           "imageUrl": "https://www.coindesk.com/resizer/lx3PKfDQLRE3DoyZQ-1Xf7oLH3w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RMLPLGA7J5CEZOBVEN5FJS6AZY.jpg"
         },
@@ -186,16 +186,6 @@
           "imageUrl": "https://www.reuters.com/resizer/ktmk-8c4fvjgjKTAEzSG5dG1I44=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MUBVJDHLLBLTHBLWCHAZYXWZYY.jpg"
         },
         {
-          "id": "https://chainlinkgod.medium.com/the-layer-1-chain-rotation-thesis-a-retrospective-analysis-3cbd2dcdc1f8",
-          "author": null,
-          "description": "The Layer-1 Chain Rotation Thesis: A Retrospective Analysis",
-          "link": "https://chainlinkgod.medium.com/the-layer-1-chain-rotation-thesis-a-retrospective-analysis-3cbd2dcdc1f8",
-          "publishedOn": "2022-07-11T08:30:02.000Z",
-          "wordCount": 10666,
-          "title": "The Layer-1 Chain Rotation Thesis: A Retrospective Analysis",
-          "imageUrl": "https://miro.medium.com/max/1200/0*FOn2Ic_6b0zrT1kJ"
-        },
-        {
           "id": "https://mirror.xyz/0x6D2BcfEFb7CFa52c2F7526823aA97f593F3683f4/BnXt4W0w72iKiSRhu13vwriMSWicADIIQSpYsdda8oM",
           "author": null,
           "description": "Cash Flow protocols: Deep down the hard money rabbit hole",
@@ -204,6 +194,16 @@
           "wordCount": 5122,
           "title": "Cash Flow protocols: Deep down the hard money rabbit hole",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/4kEl5i-Z8OPW8Ng4I46LD.jpeg?height=338&width=675&h=338&w=675&auto=compress"
+        },
+        {
+          "id": "https://swagtimus.substack.com/p/starknet-roundup-24",
+          "author": null,
+          "description": "StarkNet Roundup #24",
+          "link": "https://swagtimus.substack.com/p/starknet-roundup-24",
+          "publishedOn": "2022-07-10T21:00:03.000Z",
+          "wordCount": 4781,
+          "title": "StarkNet Roundup #24",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd30f6a18-796a-4ff8-8186-68900bafda73_1024x512.jpeg"
         }
       ]
     }
