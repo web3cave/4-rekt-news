@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x1c19-0x47",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x1c19-0x47",
+          "publishedOn": "2022-07-13T18:00:03.000Z",
+          "wordCount": 11,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
           "id": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "link": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 77911,
+          "wordCount": 78522,
           "title": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220201_Hiring_Feb.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "link": "https://www.theblock.co/post/157323/starkware-confirms-launch-of-starknet-token-with-no-airdrops-until-next-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 77978,
+          "wordCount": 78589,
           "title": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Starkware_Funding.jpg"
         },
@@ -56,22 +66,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://lenstube.xyz/watch/0x1c19-0x47",
-          "author": null,
-          "description": "Lenstube",
-          "link": "https://lenstube.xyz/watch/0x1c19-0x47",
-          "publishedOn": "2022-07-13T11:30:03.000Z",
-          "wordCount": 11,
-          "title": "Lenstube",
-          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
-        },
-        {
           "id": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
           "author": null,
           "description": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
           "link": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
           "publishedOn": "2022-07-13T10:00:03.000Z",
-          "wordCount": 2082,
+          "wordCount": 2085,
           "title": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
           "imageUrl": "https://opengraph.githubassets.com/73f563c6334dc1b2fe779282991906c0aa2c55a6c0776c6c9d2fe1eb3b3d08d0/ApeWorX/ape/pull/852"
         },
@@ -116,10 +116,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://multicoin.capital/es/2022/07/12/announcing-venture-fund-iii/",
+          "id": "https://multicoin.capital/2022/07/12/announcing-venture-fund-iii/",
           "author": null,
           "description": "Multicoin Capital: Announcing Venture Fund III",
-          "link": "https://multicoin.capital/es/2022/07/12/announcing-venture-fund-iii/",
+          "link": "https://multicoin.capital/2022/07/12/announcing-venture-fund-iii/",
           "publishedOn": "2022-07-12T23:00:03.000Z",
           "wordCount": 3671,
           "title": "Multicoin Capital: Announcing Venture Fund III",
@@ -191,7 +191,7 @@
           "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "link": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
           "publishedOn": "2022-07-12T12:00:02.000Z",
-          "wordCount": 10030,
+          "wordCount": 10019,
           "title": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/07/cp-1024x587.png"
         },
