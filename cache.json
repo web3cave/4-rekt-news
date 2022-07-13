@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ctf.paradigm.xyz/",
+          "author": null,
+          "description": "Paradigm CTF",
+          "link": "https://ctf.paradigm.xyz/",
+          "publishedOn": "2022-07-13T05:00:02.000Z",
+          "wordCount": 17,
+          "title": "Paradigm CTF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qt4Tziu3KwY",
+          "author": null,
+          "description": "The Chopping Block Live!",
+          "link": "https://www.youtube.com/watch?v=qt4Tziu3KwY",
+          "publishedOn": "2022-07-13T01:30:02.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block Live!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9wfNeVTtBz0",
           "author": null,
           "description": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
@@ -16,14 +36,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/TheNuelgeek/decentralized-staking",
+          "id": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
           "author": null,
-          "description": "GitHub - TheNuelgeek/decentralized-staking: A decentralized application where users can coordinate a group funding...",
-          "link": "https://github.com/TheNuelgeek/decentralized-staking",
-          "publishedOn": "2022-07-13T01:00:02.000Z",
-          "wordCount": 1929,
-          "title": "GitHub - TheNuelgeek/decentralized-staking: A decentralized application where users can coordinate a group funding...",
-          "imageUrl": "https://opengraph.githubassets.com/5e06e2e093ea632f61030501e7e8d89f52a63a27e1cd42af542f0c6d06e2fe85/TheNuelgeek/decentralized-staking"
+          "description": "Operating efficiently at scale",
+          "link": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
+          "publishedOn": "2022-07-12T23:00:03.000Z",
+          "wordCount": 4788,
+          "title": "Operating efficiently at scale",
+          "imageUrl": "https://miro.medium.com/max/1200/0*IZh_P8NeeokeovZh.png"
         },
         {
           "id": "https://multicoin.capital/2022/07/12/announcing-venture-fund-iii/",
@@ -34,16 +54,6 @@
           "wordCount": 3671,
           "title": "Multicoin Capital: Announcing Venture Fund III",
           "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
-        },
-        {
-          "id": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
-          "author": null,
-          "description": "Operating efficiently at scale",
-          "link": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
-          "publishedOn": "2022-07-12T23:00:03.000Z",
-          "wordCount": 4788,
-          "title": "Operating efficiently at scale",
-          "imageUrl": "https://miro.medium.com/max/1200/0*IZh_P8NeeokeovZh.png"
         },
         {
           "id": "https://www.paradigm.xyz/2022/07/consensus-throughput",
@@ -76,14 +86,14 @@
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN372-WP.png"
         },
         {
-          "id": "https://speedrunethereum.com/",
+          "id": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
           "author": null,
-          "description": "Speed Run Ethereum",
-          "link": "https://speedrunethereum.com/",
+          "description": "DeFi Worked Great | Pantera",
+          "link": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
           "publishedOn": "2022-07-12T19:00:03.000Z",
-          "wordCount": 45,
-          "title": "Speed Run Ethereum",
-          "imageUrl": null
+          "wordCount": 9168,
+          "title": "DeFi Worked Great | Pantera",
+          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
         },
         {
           "id": "https://medium.com/morpho-labs/morpho-raises-18m-co-led-by-a16z-and-variant-cd5cb694661",
@@ -121,7 +131,7 @@
           "description": "Multicoin Capital announces its third crypto fund worth $430 million",
           "link": "https://www.theblock.co/post/157108/multicoin-capital-announces-its-third-crypto-fund-worth-430-million",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 80589,
+          "wordCount": 78411,
           "title": "Multicoin Capital announces its third crypto fund worth $430 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220603_Funding-Roundup.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "link": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 18521,
+          "wordCount": 18527,
           "title": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "imageUrl": "https://www.coindesk.com/resizer/_lvK19PHTdzoN-q_mDwUwuxkDcA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SWK7Y7JPIFEGHIYFYZ42D6NL7Q.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "link": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
           "publishedOn": "2022-07-12T12:00:02.000Z",
-          "wordCount": 9945,
+          "wordCount": 9769,
           "title": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/07/cp-1024x587.png"
         },
@@ -171,19 +181,9 @@
           "description": "Former Meta execs seek $2 billion valuation for crypto venture Mysten Labs: The Information",
           "link": "https://www.theblock.co/post/157007/former-meta-execs-seek-2-billion-valuation-for-crypto-venture-mysten-labs-the-information?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-12T11:00:02.000Z",
-          "wordCount": 80287,
+          "wordCount": 78240,
           "title": "Former Meta execs seek $2 billion valuation for crypto venture Mysten Labs: The Information",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220309_Generic_Funding.jpg"
-        },
-        {
-          "id": "https://lenstube.xyz/watch/0x1c19-0x47",
-          "author": null,
-          "description": "Lenstube",
-          "link": "https://lenstube.xyz/watch/0x1c19-0x47",
-          "publishedOn": "2022-07-12T02:30:02.000Z",
-          "wordCount": 11,
-          "title": "Lenstube",
-          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
