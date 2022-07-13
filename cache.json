@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9wfNeVTtBz0",
+          "author": null,
+          "description": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
+          "link": "https://www.youtube.com/watch?v=9wfNeVTtBz0",
+          "publishedOn": "2022-07-13T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6Ch3AROxAbk&feature=youtu.be",
+          "author": null,
+          "description": "Arbitrum Nova introduced, Alphaday unveiled and more - The Daily Gwei Refuel #404 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=6Ch3AROxAbk&feature=youtu.be",
+          "publishedOn": "2022-07-12T23:30:04.000Z",
+          "wordCount": null,
+          "title": "Arbitrum Nova introduced, Alphaday unveiled and more - The Daily Gwei Refuel #404 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
           "author": null,
           "description": "Operating efficiently at scale",
           "link": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
           "publishedOn": "2022-07-12T23:00:03.000Z",
-          "wordCount": 4652,
+          "wordCount": 4788,
           "title": "Operating efficiently at scale",
           "imageUrl": "https://miro.medium.com/max/1200/0*IZh_P8NeeokeovZh.png"
         },
@@ -101,7 +121,7 @@
           "description": "Multicoin Capital announces its third crypto fund worth $430 million",
           "link": "https://www.theblock.co/post/157108/multicoin-capital-announces-its-third-crypto-fund-worth-430-million",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 80256,
+          "wordCount": 80589,
           "title": "Multicoin Capital announces its third crypto fund worth $430 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220603_Funding-Roundup.jpg"
         },
@@ -111,7 +131,7 @@
           "description": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "link": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 14362,
+          "wordCount": 18530,
           "title": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "imageUrl": "https://www.coindesk.com/resizer/_lvK19PHTdzoN-q_mDwUwuxkDcA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SWK7Y7JPIFEGHIYFYZ42D6NL7Q.jpg"
         },
@@ -136,32 +156,12 @@
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/B1tpw_SRISe4sb0r4g7yhxsCLZQ=/0x473:6000x3614/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23761340/1240781106.jpg"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/07/12/bitmex-delays-bmex-listing-citing-market-conditions/",
-          "author": null,
-          "description": "BitMEX Delays BMEX Listing Citing 'Market Conditions'",
-          "link": "https://www.coindesk.com/business/2022/07/12/bitmex-delays-bmex-listing-citing-market-conditions/",
-          "publishedOn": "2022-07-12T16:00:03.000Z",
-          "wordCount": 14300,
-          "title": "BitMEX Delays BMEX Listing Citing 'Market Conditions'",
-          "imageUrl": "https://www.coindesk.com/resizer/sANPZncdz0IYi0F_LEfPY_cAYGg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YX5J23SUCVCETPXVIYOCKRXHSY.jpg"
-        },
-        {
-          "id": "https://www.binance.com/en/blog/from-cz/binance-listing-tips-from-cz-421499824684902218",
-          "author": null,
-          "description": "Binance Listing Tips from CZ | Binance Blog",
-          "link": "https://www.binance.com/en/blog/from-cz/binance-listing-tips-from-cz-421499824684902218",
-          "publishedOn": "2022-07-12T15:00:02.000Z",
-          "wordCount": 7922,
-          "title": "Binance Listing Tips from CZ | Binance Blog",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20210618/4e2853b0-ae0d-4466-b6bf-c34de6ec37c1.png"
-        },
-        {
           "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
           "author": null,
           "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "link": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
           "publishedOn": "2022-07-12T12:00:02.000Z",
-          "wordCount": 9945,
+          "wordCount": 9956,
           "title": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/07/cp-1024x587.png"
         },
@@ -171,7 +171,7 @@
           "description": "Former Meta execs seek $2 billion valuation for crypto venture Mysten Labs: The Information",
           "link": "https://www.theblock.co/post/157007/former-meta-execs-seek-2-billion-valuation-for-crypto-venture-mysten-labs-the-information?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-12T11:00:02.000Z",
-          "wordCount": 80384,
+          "wordCount": 80287,
           "title": "Former Meta execs seek $2 billion valuation for crypto venture Mysten Labs: The Information",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220309_Generic_Funding.jpg"
         },
