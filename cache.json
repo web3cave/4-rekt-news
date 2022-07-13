@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://jobs.apple.com/en-us/search?search=rust",
+          "author": null,
+          "description": "Careers at Apple",
+          "link": "https://jobs.apple.com/en-us/search?search=rust",
+          "publishedOn": "2022-07-13T10:30:03.000Z",
+          "wordCount": 11038,
+          "title": "Careers at Apple",
+          "imageUrl": "https://jobs.apple.com/static/images/og/en-us/default.jpg"
+        },
+        {
           "id": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
           "author": null,
           "description": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
@@ -106,16 +116,6 @@
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN372-WP.png"
         },
         {
-          "id": "https://speedrunethereum.com/",
-          "author": null,
-          "description": "Speed Run Ethereum",
-          "link": "https://speedrunethereum.com/",
-          "publishedOn": "2022-07-12T19:00:03.000Z",
-          "wordCount": 45,
-          "title": "Speed Run Ethereum",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/morpho-labs/morpho-raises-18m-co-led-by-a16z-and-variant-cd5cb694661",
           "author": null,
           "description": "Morpho Raises $18M Co-led by a16z and Variant to Transform Decentralized Lending!",
@@ -161,7 +161,7 @@
           "description": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "link": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 18189,
+          "wordCount": 15085,
           "title": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "imageUrl": "https://www.coindesk.com/resizer/_lvK19PHTdzoN-q_mDwUwuxkDcA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SWK7Y7JPIFEGHIYFYZ42D6NL7Q.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Unchained Podcast - YouTube",
           "link": "https://www.youtube.com/c/UnchainedPodcast",
           "publishedOn": "2022-07-11T23:00:03.000Z",
-          "wordCount": 7471,
+          "wordCount": 7472,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         }
