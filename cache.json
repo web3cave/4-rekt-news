@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blackpool.finance/",
+          "author": null,
+          "description": "BlackPool Finance - NFT gaming and trading",
+          "link": "https://blackpool.finance/",
+          "publishedOn": "2022-07-13T21:00:03.000Z",
+          "wordCount": 341,
+          "title": "BlackPool Finance - NFT gaming and trading",
+          "imageUrl": "/assets/logo.png"
+        },
+        {
           "id": "https://github.com/hgrecco/pint/blob/master/pint/default_en.txt",
           "author": null,
           "description": "pint/default_en.txt at master · hgrecco/pint",
@@ -31,7 +41,7 @@
           "description": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "link": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78541,
+          "wordCount": 78417,
           "title": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220201_Hiring_Feb.jpg"
         },
@@ -41,9 +51,19 @@
           "description": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "link": "https://www.theblock.co/post/157323/starkware-confirms-launch-of-starknet-token-with-no-airdrops-until-next-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78608,
+          "wordCount": 78484,
           "title": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Starkware_Funding.jpg"
+        },
+        {
+          "id": "https://proofoftalent.co/blog/proof-of-talent-acquired-by-inflection-points-inc",
+          "author": null,
+          "description": "Proof of Talent | Proof of Talent Acquired by Inflection Points Inc",
+          "link": "https://proofoftalent.co/blog/proof-of-talent-acquired-by-inflection-points-inc",
+          "publishedOn": "2022-07-13T15:00:03.000Z",
+          "wordCount": 1898,
+          "title": "Proof of Talent | Proof of Talent Acquired by Inflection Points Inc",
+          "imageUrl": "https://global-uploads.webflow.com/6202d05b3921347b1bc8cf1a/62ceb61c9ceda3716fafdfed_Inflection%20Points%20PoT.png"
         },
         {
           "id": "https://jobs.apple.com/en-us/search?search=rust",
@@ -71,19 +91,9 @@
           "description": "Inside the Avalanche ecosystem with Ava Labs' COO Kevin Sekniqi",
           "link": "https://www.theblock.co/post/156865/inside-the-avalanche-ecosystem-with-ava-labs-coo-kevin-sekniqi?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T13:00:03.000Z",
-          "wordCount": 78630,
+          "wordCount": 78506,
           "title": "Inside the Avalanche ecosystem with Ava Labs' COO Kevin Sekniqi",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220705_TheScoop_Kevin_Sekniqi_16x9.jpg"
-        },
-        {
-          "id": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
-          "author": null,
-          "description": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
-          "link": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
-          "publishedOn": "2022-07-13T10:00:03.000Z",
-          "wordCount": 2085,
-          "title": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
-          "imageUrl": "https://opengraph.githubassets.com/73f563c6334dc1b2fe779282991906c0aa2c55a6c0776c6c9d2fe1eb3b3d08d0/ApeWorX/ape/pull/852"
         },
         {
           "id": "https://vitalik.ca/general/2022/07/13/networkstates.html",
@@ -126,10 +136,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9wfNeVTtBz0",
+          "id": "https://www.youtube.com/watch?v=9wfNeVTtBz0&feature=youtu.be",
           "author": null,
           "description": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
-          "link": "https://www.youtube.com/watch?v=9wfNeVTtBz0",
+          "link": "https://www.youtube.com/watch?v=9wfNeVTtBz0&feature=youtu.be",
           "publishedOn": "2022-07-13T01:00:02.000Z",
           "wordCount": null,
           "title": "Solana is Launching a Phone? | Co-Founders Anatoly & Raj",
@@ -144,16 +154,6 @@
           "wordCount": 3671,
           "title": "Multicoin Capital: Announcing Venture Fund III",
           "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
-        },
-        {
-          "id": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
-          "author": null,
-          "description": "Operating efficiently at scale",
-          "link": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
-          "publishedOn": "2022-07-12T23:00:03.000Z",
-          "wordCount": 4654,
-          "title": "Operating efficiently at scale",
-          "imageUrl": "https://miro.medium.com/max/1200/0*IZh_P8NeeokeovZh.png"
         },
         {
           "id": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
