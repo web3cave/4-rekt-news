@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.ca/general/2022/07/13/networkstates.html",
+          "author": null,
+          "description": "What do I think about network states?",
+          "link": "https://vitalik.ca/general/2022/07/13/networkstates.html",
+          "publishedOn": "2022-07-13T08:00:02.000Z",
+          "wordCount": 7845,
+          "title": "What do I think about network states?",
+          "imageUrl": null
+        },
+        {
           "id": "https://ctf.paradigm.xyz/",
           "author": null,
           "description": "Paradigm CTF",
@@ -41,7 +51,7 @@
           "description": "Operating efficiently at scale",
           "link": "https://blog.coinbase.com/operating-efficiently-at-scale-e6e2378d3d4?gi=9e548893020f",
           "publishedOn": "2022-07-12T23:00:03.000Z",
-          "wordCount": 4788,
+          "wordCount": 4639,
           "title": "Operating efficiently at scale",
           "imageUrl": "https://miro.medium.com/max/1200/0*IZh_P8NeeokeovZh.png"
         },
@@ -66,14 +76,14 @@
           "imageUrl": "https://paradigm.xyz/static/consensus-throughput/cover.jpg"
         },
         {
-          "id": "https://www.zerohedge.com/markets/car-repos-loans-originated-2020-and-2021-are-skyrocketing",
+          "id": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
           "author": null,
-          "description": "Canary In The Car Mine: Repos From Auto Loans That Originated In 2020 And 2021 Are Skyrocketing | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/car-repos-loans-originated-2020-and-2021-are-skyrocketing",
-          "publishedOn": "2022-07-12T23:00:03.000Z",
-          "wordCount": 1307,
-          "title": "Canary In The Car Mine: Repos From Auto Loans That Originated In 2020 And 2021 Are Skyrocketing | ZeroHedge",
-          "imageUrl": null
+          "description": "DeFi Worked Great | Pantera",
+          "link": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
+          "publishedOn": "2022-07-12T19:00:03.000Z",
+          "wordCount": 9168,
+          "title": "DeFi Worked Great | Pantera",
+          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
         },
         {
           "id": "https://unchainedpodcast.com/post-merge-if-lido-becomes-dominant-what-does-that-mean-for-ethereum-ep-372/",
@@ -84,16 +94,6 @@
           "wordCount": 4028,
           "title": "Post-Merge, If Lido Becomes Dominant, What Does That Mean for Ethereum? - Ep. 372",
           "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN372-WP.png"
-        },
-        {
-          "id": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
-          "author": null,
-          "description": "DeFi Worked Great | Pantera",
-          "link": "https://panteracapital.com/blockchain-letter/defi-worked-great/",
-          "publishedOn": "2022-07-12T19:00:03.000Z",
-          "wordCount": 9168,
-          "title": "DeFi Worked Great | Pantera",
-          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
         },
         {
           "id": "https://medium.com/morpho-labs/morpho-raises-18m-co-led-by-a16z-and-variant-cd5cb694661",
@@ -141,7 +141,7 @@
           "description": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "link": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 18544,
+          "wordCount": 18540,
           "title": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "imageUrl": "https://www.coindesk.com/resizer/_lvK19PHTdzoN-q_mDwUwuxkDcA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SWK7Y7JPIFEGHIYFYZ42D6NL7Q.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Unchained Podcast - YouTube",
           "link": "https://www.youtube.com/c/UnchainedPodcast",
           "publishedOn": "2022-07-11T23:00:03.000Z",
-          "wordCount": 7472,
+          "wordCount": 7471,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         },
