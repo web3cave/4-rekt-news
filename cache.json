@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://jobs.apple.com/en-us/search?search=rust",
+          "author": null,
+          "description": "Careers at Apple",
+          "link": "https://jobs.apple.com/en-us/search?search=rust",
+          "publishedOn": "2022-07-13T14:00:03.000Z",
+          "wordCount": 11038,
+          "title": "Careers at Apple",
+          "imageUrl": "https://jobs.apple.com/static/images/og/en-us/default.jpg"
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/ISO_8601",
           "author": null,
           "description": "ISO 8601 - Wikipedia",
@@ -31,9 +41,9 @@
           "description": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
           "link": "https://github.com/ApeWorX/ape/pull/852#issuecomment-1181909221",
           "publishedOn": "2022-07-13T10:00:03.000Z",
-          "wordCount": 2077,
+          "wordCount": 2086,
           "title": "refactor!: contract event querying revamp by unparalleled-js · Pull Request #852 · ApeWorX/ape",
-          "imageUrl": "https://opengraph.githubassets.com/92bd4f0cc46ad85609b0eff202859ad5a1a7f791b3c6f60aea757aa4f46da202/ApeWorX/ape/pull/852"
+          "imageUrl": "https://opengraph.githubassets.com/adb1a5bf4631d9929b66de2e1e94b8f3e27e608efeb415f8aa9cfc751f424c42/ApeWorX/ape/pull/852"
         },
         {
           "id": "https://vitalik.ca/general/2022/07/13/networkstates.html",
@@ -156,22 +166,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/157108/multicoin-capital-announces-its-third-crypto-fund-worth-430-million",
-          "author": null,
-          "description": "Multicoin Capital announces its third crypto fund worth $430 million",
-          "link": "https://www.theblock.co/post/157108/multicoin-capital-announces-its-third-crypto-fund-worth-430-million",
-          "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 77975,
-          "title": "Multicoin Capital announces its third crypto fund worth $430 million",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220603_Funding-Roundup.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "author": null,
           "description": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "link": "https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/",
           "publishedOn": "2022-07-12T19:00:02.000Z",
-          "wordCount": 14043,
+          "wordCount": 16001,
           "title": "Solana’s Macalinao Brothers Launch $100M VC Fund",
           "imageUrl": "https://www.coindesk.com/resizer/_lvK19PHTdzoN-q_mDwUwuxkDcA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SWK7Y7JPIFEGHIYFYZ42D6NL7Q.jpg"
         },
