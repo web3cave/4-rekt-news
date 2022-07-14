@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.cdc.gov/nchs/fastats/obesity-overweight.htm",
+          "author": null,
+          "description": "FastStats",
+          "link": "https://www.cdc.gov/nchs/fastats/obesity-overweight.htm",
+          "publishedOn": "2022-07-14T08:00:03.000Z",
+          "wordCount": 1137,
+          "title": "FastStats",
+          "imageUrl": "/nchs/fastats/images/facebook-og-image.jpg"
+        },
+        {
           "id": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "author": null,
           "description": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "link": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 9267,
+          "wordCount": 9271,
           "title": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669"
         },
@@ -86,16 +96,6 @@
           "imageUrl": "https://miro.medium.com/max/1148/0*YDeb7nIGXixg9RIN"
         },
         {
-          "id": "https://blackpool.finance/",
-          "author": null,
-          "description": "BlackPool Finance - NFT gaming and trading",
-          "link": "https://blackpool.finance/",
-          "publishedOn": "2022-07-13T21:00:03.000Z",
-          "wordCount": 341,
-          "title": "BlackPool Finance - NFT gaming and trading",
-          "imageUrl": "/assets/logo.png"
-        },
-        {
           "id": "https://mirror.xyz/0x9Ea6c8e455ee8F7e6E1DF6c9CF2b3a1Db8315c36/-yJznPC01Rn5nuhS7OGgtHL-HYrT1zLBIzGmCJdvvOc",
           "author": null,
           "description": "DRAUP IS RESHAPING THE FUTURE OF FASHION",
@@ -131,7 +131,7 @@
           "description": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "link": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78244,
+          "wordCount": 78663,
           "title": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220201_Hiring_Feb.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "link": "https://www.theblock.co/post/157323/starkware-confirms-launch-of-starknet-token-with-no-airdrops-until-next-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78311,
+          "wordCount": 78730,
           "title": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Starkware_Funding.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Inside the Avalanche ecosystem with Ava Labs' COO Kevin Sekniqi",
           "link": "https://www.theblock.co/post/156865/inside-the-avalanche-ecosystem-with-ava-labs-coo-kevin-sekniqi?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T13:00:03.000Z",
-          "wordCount": 78927,
+          "wordCount": 79346,
           "title": "Inside the Avalanche ecosystem with Ava Labs' COO Kevin Sekniqi",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220705_TheScoop_Kevin_Sekniqi_16x9.jpg"
         },
