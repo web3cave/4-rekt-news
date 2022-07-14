@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blackpool.finance/",
+          "author": null,
+          "description": "BlackPool Finance - NFT gaming and trading",
+          "link": "https://blackpool.finance/",
+          "publishedOn": "2022-07-14T12:30:04.000Z",
+          "wordCount": 341,
+          "title": "BlackPool Finance - NFT gaming and trading",
+          "imageUrl": "/assets/logo.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0t_OtvkFHRw&feature=youtu.be",
           "author": null,
           "description": "Chapter 11 Explained",
@@ -61,7 +71,7 @@
           "description": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "link": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 9240,
+          "wordCount": 9544,
           "title": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669"
         },
@@ -71,7 +81,7 @@
           "description": "Embattled crypto lender Celsius files for bankruptcy protection",
           "link": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 13201,
+          "wordCount": 13194,
           "title": "Embattled crypto lender Celsius files for bankruptcy protection",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107074612-1655108062602-gettyimages-1236340828-PO1_0004.jpeg?v=1657268821&w=1920&h=1080"
         },
@@ -151,19 +161,9 @@
           "description": "Part 1: StarkNet Sovereignty: A Decentralization Proposal",
           "link": "https://medium.com/starkware/part-1-starknet-sovereignty-a-decentralization-proposal-bca3e98a01ef",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 2618,
+          "wordCount": 3025,
           "title": "Part 1: StarkNet Sovereignty: A Decentralization Proposal",
           "imageUrl": "https://miro.medium.com/max/1200/1*WDKB7atfd-di8fDkrYinwQ.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
-          "link": "https://www.theblock.co/post/157272/anthony-pomplianos-crypto-recruitment-firm-raises-and-buys-rival?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78634,
-          "title": "Anthony Pompliano's crypto recruitment firm raises $12.6 million and buys rival",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/02/20220201_Hiring_Feb.jpg"
         },
         {
           "id": "https://www.theblock.co/post/157323/starkware-confirms-launch-of-starknet-token-with-no-airdrops-until-next-year?utm_source=twitter&utm_medium=social",
@@ -171,7 +171,7 @@
           "description": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "link": "https://www.theblock.co/post/157323/starkware-confirms-launch-of-starknet-token-with-no-airdrops-until-next-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-13T17:00:02.000Z",
-          "wordCount": 78720,
+          "wordCount": 78468,
           "title": "StarkWare confirms launch of StarkNet Token — with no airdrops until next year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210323_Starkware_Funding.jpg"
         },
