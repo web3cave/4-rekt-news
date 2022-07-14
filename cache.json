@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf",
+          "author": null,
+          "description": "[PDF] 126122257414.pdf",
+          "link": "https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf",
+          "publishedOn": "2022-07-14T23:00:02.000Z",
+          "wordCount": 53751,
+          "title": "[PDF] 126122257414.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://vitalik.ca/",
           "author": null,
           "description": "Vitalik Buterin's website",
@@ -36,6 +46,16 @@
           "imageUrl": "http://static1.squarespace.com/static/54b81e72e4b0fee4b01a42e9/t/62d03aaeb93b83074f1028e0/1657813749733/flex-voting-diagram-transparent.png?format=1500w"
         },
         {
+          "id": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "author": null,
+          "description": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
+          "link": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "publishedOn": "2022-07-14T21:00:03.000Z",
+          "wordCount": 2322,
+          "title": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
+          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
+        },
+        {
           "id": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
           "author": null,
           "description": "Permanence, culture and decentralization - JPG achieves a new mi…",
@@ -63,7 +83,7 @@
           "publishedOn": "2022-07-14T21:00:03.000Z",
           "wordCount": 3250,
           "title": "GitHub - nalinbhardwaj/zordle",
-          "imageUrl": "https://opengraph.githubassets.com/6920974834ad325ff76411711c8588d28df809c070b858860a14874f947e448b/nalinbhardwaj/zordle"
+          "imageUrl": "https://opengraph.githubassets.com/0b2c4ec3309106e6ee40bbedcd59d44b8d50fc1f55345cfbe7e2fb7d4758af14/nalinbhardwaj/zordle"
         },
         {
           "id": "https://zordle.xyz/",
@@ -76,22 +96,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
-          "author": null,
-          "description": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
-          "link": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 2322,
-          "title": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
-          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
-        },
-        {
           "id": "https://www.binance.com/en/blog/from-cz/a-letter-from-our-ceo-5-years-of-protecting-users-and-supporting-the-global-digital-asset-ecosystem-2435011738702007817?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "author": null,
           "description": "A Letter from Our CEO: 5 Years of Protecting Users and Supporting the Global Digital Asset Ecosystem | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/a-letter-from-our-ceo-5-years-of-protecting-users-and-supporting-the-global-digital-asset-ecosystem-2435011738702007817?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-07-14T18:00:04.000Z",
-          "wordCount": 11524,
+          "wordCount": 11571,
           "title": "A Letter from Our CEO: 5 Years of Protecting Users and Supporting the Global Digital Asset Ecosystem | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220714/ec1fda31-22ee-4c8e-8c92-4a1899d1345f.png"
         },
@@ -104,16 +114,6 @@
           "wordCount": null,
           "title": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
           "imageUrl": null
-        },
-        {
-          "id": "https://costoflivingsupport.campaign.gov.uk/?utm_source=PM&utm_medium=Twitter&utm_campaign=COL",
-          "author": null,
-          "description": "Help for households",
-          "link": "https://costoflivingsupport.campaign.gov.uk/?utm_source=PM&utm_medium=Twitter&utm_campaign=COL",
-          "publishedOn": "2022-07-14T17:00:03.000Z",
-          "wordCount": 864,
-          "title": "Help for households",
-          "imageUrl": "https://costoflivingsupport.campaign.gov.uk/wp-content/themes/campaign-2.0/templates/static/lib/govuk-frontend/govuk/assets/images/govuk-opengraph-image.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=0t_OtvkFHRw&feature=youtu.be",
@@ -161,7 +161,7 @@
           "description": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "link": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 9579,
+          "wordCount": 10978,
           "title": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669"
         },
@@ -181,7 +181,7 @@
           "description": "Embattled crypto lender Celsius files for bankruptcy protection",
           "link": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 13228,
+          "wordCount": 13237,
           "title": "Embattled crypto lender Celsius files for bankruptcy protection",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107074612-1655108062602-gettyimages-1236340828-PO1_0004.jpeg?v=1657268821&w=1920&h=1080"
         },
