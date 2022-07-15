@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/157647/celsius-bankruptcy-documents-claim-1-2-billion-balance-sheet-gap",
+          "author": null,
+          "description": "Celsius bankruptcy documents claim $1.2 billion balance sheet gap",
+          "link": "https://www.theblock.co/post/157647/celsius-bankruptcy-documents-claim-1-2-billion-balance-sheet-gap",
+          "publishedOn": "2022-07-15T01:00:03.000Z",
+          "wordCount": 79005,
+          "title": "Celsius bankruptcy documents claim $1.2 billion balance sheet gap",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_Celsius_Generic.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=J5O34DgiO4w&feature=youtu.be",
+          "author": null,
+          "description": "🏰 BuidlGuidl + 🍌 Juicebox hackathon finale!",
+          "link": "https://www.youtube.com/watch?v=J5O34DgiO4w&feature=youtu.be",
+          "publishedOn": "2022-07-14T23:30:03.000Z",
+          "wordCount": null,
+          "title": "🏰 BuidlGuidl + 🍌 Juicebox hackathon finale!",
+          "imageUrl": null
+        },
+        {
           "id": "https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf",
           "author": null,
           "description": "[PDF] 126122257414.pdf",
@@ -14,6 +34,26 @@
           "wordCount": 53751,
           "title": "[PDF] 126122257414.pdf",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lmn3QK3RzCk&feature=youtu.be",
+          "author": null,
+          "description": "StarkNet token, Polygon in Disney Accelerator & more - The Daily Gwei Refuel #406 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=lmn3QK3RzCk&feature=youtu.be",
+          "publishedOn": "2022-07-14T22:00:03.000Z",
+          "wordCount": null,
+          "title": "StarkNet token, Polygon in Disney Accelerator & more - The Daily Gwei Refuel #406 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "author": null,
+          "description": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
+          "link": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "publishedOn": "2022-07-14T21:00:03.000Z",
+          "wordCount": 2322,
+          "title": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
+          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         },
         {
           "id": "https://vitalik.ca/",
@@ -46,14 +86,24 @@
           "imageUrl": "http://static1.squarespace.com/static/54b81e72e4b0fee4b01a42e9/t/62d03aaeb93b83074f1028e0/1657813749733/flex-voting-diagram-transparent.png?format=1500w"
         },
         {
-          "id": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "id": "https://github.com/nalinbhardwaj/zordle",
           "author": null,
-          "description": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
-          "link": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
+          "description": "GitHub - nalinbhardwaj/zordle",
+          "link": "https://github.com/nalinbhardwaj/zordle",
           "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 2322,
-          "title": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
-          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
+          "wordCount": 3250,
+          "title": "GitHub - nalinbhardwaj/zordle",
+          "imageUrl": "https://opengraph.githubassets.com/998dc4b6ac09ae69e72c24f1fdca06d51117f77c285ed2c7a484ade7e5796d3a/nalinbhardwaj/zordle"
+        },
+        {
+          "id": "https://zordle.xyz/",
+          "author": null,
+          "description": "ZK Wordle",
+          "link": "https://zordle.xyz/",
+          "publishedOn": "2022-07-14T21:00:03.000Z",
+          "wordCount": 10,
+          "title": "ZK Wordle",
+          "imageUrl": null
         },
         {
           "id": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
@@ -74,36 +124,6 @@
           "wordCount": 23329,
           "title": "NFX is tripling down on web3. For that, we need you.",
           "imageUrl": "https://content.nfx.com/wp-content/uploads/2022/07/Web3-Hiring-Blue-1.png"
-        },
-        {
-          "id": "https://github.com/nalinbhardwaj/zordle",
-          "author": null,
-          "description": "GitHub - nalinbhardwaj/zordle",
-          "link": "https://github.com/nalinbhardwaj/zordle",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 3250,
-          "title": "GitHub - nalinbhardwaj/zordle",
-          "imageUrl": "https://opengraph.githubassets.com/0b2c4ec3309106e6ee40bbedcd59d44b8d50fc1f55345cfbe7e2fb7d4758af14/nalinbhardwaj/zordle"
-        },
-        {
-          "id": "https://zordle.xyz/",
-          "author": null,
-          "description": "ZK Wordle",
-          "link": "https://zordle.xyz/",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 10,
-          "title": "ZK Wordle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.binance.com/en/blog/from-cz/a-letter-from-our-ceo-5-years-of-protecting-users-and-supporting-the-global-digital-asset-ecosystem-2435011738702007817?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "author": null,
-          "description": "A Letter from Our CEO: 5 Years of Protecting Users and Supporting the Global Digital Asset Ecosystem | Binance Blog",
-          "link": "https://www.binance.com/en/blog/from-cz/a-letter-from-our-ceo-5-years-of-protecting-users-and-supporting-the-global-digital-asset-ecosystem-2435011738702007817?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "publishedOn": "2022-07-14T18:00:04.000Z",
-          "wordCount": 11571,
-          "title": "A Letter from Our CEO: 5 Years of Protecting Users and Supporting the Global Digital Asset Ecosystem | Binance Blog",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220714/ec1fda31-22ee-4c8e-8c92-4a1899d1345f.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=0KGm0FJ5LWg",
@@ -136,12 +156,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.businessoffashion.com/articles/technology/what-does-a-web3-luxury-brand-look-like/",
+          "author": null,
+          "description": "What a Web3 Luxury Brand Looks Like",
+          "link": "https://www.businessoffashion.com/articles/technology/what-does-a-web3-luxury-brand-look-like/",
+          "publishedOn": "2022-07-14T11:00:03.000Z",
+          "wordCount": 6122,
+          "title": "What a Web3 Luxury Brand Looks Like",
+          "imageUrl": "https://img.businessoffashion.com/resizer/GvkXlE0MLBZYylfFM33sPts8VFs=/1200x630/filters:format(jpg):quality(70):focal(869x397:879x407)/cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/JQ4LQQDRRBHSJNNGNNTXYYC7JI.jpg"
+        },
+        {
           "id": "https://www.businesswire.com/news/home/20220713005911/en/Celsius-Network-Initiates-Financial-Restructuring-to-Stabilize-Business-and-Maximize-Value-for-All-Stakeholders",
           "author": null,
           "description": "Celsius Network Initiates Financial Restructuring to Stabilize Business and Maximize Value for All Stakeholders",
           "link": "https://www.businesswire.com/news/home/20220713005911/en/Celsius-Network-Initiates-Financial-Restructuring-to-Stabilize-Business-and-Maximize-Value-for-All-Stakeholders",
           "publishedOn": "2022-07-14T11:00:02.000Z",
-          "wordCount": 2585,
+          "wordCount": 2621,
           "title": "Celsius Network Initiates Financial Restructuring to Stabilize Business and Maximize Value for All Stakeholders",
           "imageUrl": "https://mms.businesswire.com/media/20220713005911/en/1513292/23/Navy.jpg"
         },
@@ -161,39 +191,9 @@
           "description": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "link": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 10978,
+          "wordCount": 11397,
           "title": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669"
-        },
-        {
-          "id": "https://blog.synthetix.io/synthetix-2022-release-milestones-halfway-review-and-deep-dive/",
-          "author": null,
-          "description": "Synthetix 2022 Release Milestones - Halfway Review and Deep Dive",
-          "link": "https://blog.synthetix.io/synthetix-2022-release-milestones-halfway-review-and-deep-dive/",
-          "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 2872,
-          "title": "Synthetix 2022 Release Milestones - Halfway Review and Deep Dive",
-          "imageUrl": "https://blog.synthetix.io/content/images/2022/07/Release_Milestones_2022.png"
-        },
-        {
-          "id": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
-          "author": null,
-          "description": "Embattled crypto lender Celsius files for bankruptcy protection",
-          "link": "https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html",
-          "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 13237,
-          "title": "Embattled crypto lender Celsius files for bankruptcy protection",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107074612-1655108062602-gettyimages-1236340828-PO1_0004.jpeg?v=1657268821&w=1920&h=1080"
-        },
-        {
-          "id": "https://confluencevcweekly.beehiiv.com/p/50-brutally-honest-takeaways-time-venture-capital",
-          "author": null,
-          "description": "📶 50 brutally honest takeaways about my time in venture capital",
-          "link": "https://confluencevcweekly.beehiiv.com/p/50-brutally-honest-takeaways-time-venture-capital",
-          "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 2472,
-          "title": "📶 50 brutally honest takeaways about my time in venture capital",
-          "imageUrl": "https://media.beehiiv.net/uploads/asset/file/897d3dad-9dc2-4e02-8e4a-dbd6880935c5/Takeaways.png"
         },
         {
           "id": "https://medium.com/element-finance/treasury-management-in-defi-magic-of-fixed-income-85c5d2188953",
