@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://multisig.lol/",
+          "author": null,
+          "description": "multisig.lol",
+          "link": "https://multisig.lol/",
+          "publishedOn": "2022-07-15T21:30:03.000Z",
+          "wordCount": 43,
+          "title": "multisig.lol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nft.buidlguidl.com/",
+          "author": null,
+          "description": "BuidlGuidl NFTs",
+          "link": "https://nft.buidlguidl.com/",
+          "publishedOn": "2022-07-15T21:30:03.000Z",
+          "wordCount": 44,
+          "title": "BuidlGuidl NFTs",
+          "imageUrl": null
+        },
+        {
           "id": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
           "author": null,
           "description": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
           "link": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
           "publishedOn": "2022-07-15T19:30:04.000Z",
-          "wordCount": 938,
+          "wordCount": 940,
           "title": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
           "imageUrl": null
         },
@@ -21,19 +41,9 @@
           "description": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
           "link": "https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html",
           "publishedOn": "2022-07-15T19:30:04.000Z",
-          "wordCount": 15100,
+          "wordCount": 15115,
           "title": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/xuQgBPAhbx06xOisPo74Uw--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/00386a3dd5933e52b01870b929284aaa"
-        },
-        {
-          "id": "https://github.com/paulrberg/prb-test",
-          "author": null,
-          "description": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
-          "link": "https://github.com/paulrberg/prb-test",
-          "publishedOn": "2022-07-15T18:00:04.000Z",
-          "wordCount": 1395,
-          "title": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
-          "imageUrl": "https://opengraph.githubassets.com/24301e936d2f13f1beb3929ce130d3050cafc2c0f45ad702849cd4e12709f1cb/paulrberg/prb-test"
         },
         {
           "id": "https://www.ft.com/content/70bd513e-8a10-4c96-b7e2-c43dea8df554",
@@ -41,7 +51,7 @@
           "description": "EquitiesFirst revealed as mysterious debtor to troubled crypto firm Celsius",
           "link": "https://www.ft.com/content/70bd513e-8a10-4c96-b7e2-c43dea8df554",
           "publishedOn": "2022-07-15T17:00:03.000Z",
-          "wordCount": 2183,
+          "wordCount": 2182,
           "title": "EquitiesFirst revealed as mysterious debtor to troubled crypto firm Celsius",
           "imageUrl": null
         },
@@ -146,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://open.withlens.app/",
-          "author": null,
-          "description": "Lens links that open with your preferred frontend",
-          "link": "https://open.withlens.app/",
-          "publishedOn": "2022-07-15T02:30:02.000Z",
-          "wordCount": 60,
-          "title": "Lens links that open with your preferred frontend",
-          "imageUrl": "https://open.withlens.app/_next/static/media/card.d0694d9d.jpg"
-        },
-        {
           "id": "https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf",
           "author": null,
           "description": "[PDF] 126122257414.pdf",
@@ -201,7 +201,7 @@
           "description": "Providing Greater Transparency",
           "link": "https://www.circle.com/blog/providing-greater-transparency",
           "publishedOn": "2022-07-14T21:00:02.000Z",
-          "wordCount": 1879,
+          "wordCount": 1876,
           "title": "Providing Greater Transparency",
           "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/tnt-ProvidingGreaterTransparency.png#keepProtocol"
         }
