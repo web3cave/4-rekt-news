@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html",
+          "author": null,
+          "description": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
+          "link": "https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html",
+          "publishedOn": "2022-07-15T16:30:03.000Z",
+          "wordCount": 15019,
+          "title": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
+          "imageUrl": "https://s.yimg.com/uu/api/res/1.2/xuQgBPAhbx06xOisPo74Uw--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/00386a3dd5933e52b01870b929284aaa"
+        },
+        {
+          "id": "https://writings.flashbots.net/writings/mev-boost-call-for-testing/",
+          "author": null,
+          "description": "Boost your MEV in Ethereum proof-of-stake | Flashbots",
+          "link": "https://writings.flashbots.net/writings/mev-boost-call-for-testing/",
+          "publishedOn": "2022-07-15T15:30:05.000Z",
+          "wordCount": 320,
+          "title": "Boost your MEV in Ethereum proof-of-stake | Flashbots",
+          "imageUrl": "https://writings.flashbots.net/img/dall-e.jpeg"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/iconic-fed-analyst-calls-it-powell-will-be-forced-end-qt-much-sooner-expected",
           "author": null,
           "description": "Iconic Fed Analyst Calls It: Powell Will Be Forced To End QT Much Sooner Than Expected | ZeroHedge",
@@ -21,7 +41,7 @@
           "description": "rhino.fi | Layer 2 Gateway to Multi-Chain DeFi | Swap, Trade, Invest",
           "link": "https://rhino.fi/?utm_source=social&utm_medium=twitter&utm_campaign=rebrand",
           "publishedOn": "2022-07-15T09:00:03.000Z",
-          "wordCount": 27756,
+          "wordCount": 27759,
           "title": "rhino.fi | Layer 2 Gateway to Multi-Chain DeFi | Swap, Trade, Invest",
           "imageUrl": null
         },
@@ -126,26 +146,6 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/EFbpheH-N1pwZzMnpOYoH.png?height=2250&width=4500&h=2250&w=4500&auto=compress"
         },
         {
-          "id": "https://vitalik.ca/",
-          "author": null,
-          "description": "Vitalik Buterin's website",
-          "link": "https://vitalik.ca/",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 775,
-          "title": "Vitalik Buterin's website",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gitcoin.co/issue/29104",
-          "author": null,
-          "description": "Add dark mode to vitalik.ca | gitcoinco Funded Issue Detail | Gitcoin",
-          "link": "https://gitcoin.co/issue/29104",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 3013,
-          "title": "Add dark mode to vitalik.ca | gitcoinco Funded Issue Detail | Gitcoin",
-          "imageUrl": "https://gitcoin.co/dynamic/avatar/gitcoinco/1"
-        },
-        {
           "id": "https://www.scopelift.co/blog/introducing-flexible-voting",
           "author": null,
           "description": "Introducing Flexible Voting: A Powerful New Building Block for DAO Governance — ScopeLift",
@@ -163,7 +163,7 @@
           "publishedOn": "2022-07-14T21:00:03.000Z",
           "wordCount": 3250,
           "title": "GitHub - nalinbhardwaj/zordle",
-          "imageUrl": "https://opengraph.githubassets.com/df89ab640c8b1f2cf3d631b7cfd821cdbba363d09391413eddf8263c1093ad79/nalinbhardwaj/zordle"
+          "imageUrl": "https://opengraph.githubassets.com/889cd578e75c7151748c9fc68e77fbbe6f8a47621003456fd68afaeaced8afd6/nalinbhardwaj/zordle"
         },
         {
           "id": "https://zordle.xyz/",
@@ -196,14 +196,14 @@
           "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/tnt-ProvidingGreaterTransparency.png#keepProtocol"
         },
         {
-          "id": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
+          "id": "https://www.youtube.com/watch?v=0KGm0FJ5LWg",
           "author": null,
           "description": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
-          "link": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
+          "link": "https://www.youtube.com/watch?v=0KGm0FJ5LWg",
           "publishedOn": "2022-07-14T17:00:03.000Z",
-          "wordCount": 12159,
+          "wordCount": null,
           "title": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN373-TCB-Social-1.jpg"
+          "imageUrl": null
         }
       ]
     }
