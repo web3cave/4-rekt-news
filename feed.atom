@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T09:21:20.156Z</id>
+    <id>urn:2022-07-15T10:25:41.382Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T09:21:20.156Z</updated>
+    <updated>2022-07-15T10:25:41.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://github.com/ava-labs/subnet-evm/releases/tag/v0.2.5"/>
         <updated>2022-07-15T07:30:03.000Z</updated>
         <summary type="html"><![CDATA[Release v0.2.5 · ava-labs/subnet-evm]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022]]></title>
+        <id>https://beaconcha.in/</id>
+        <link href="https://beaconcha.in/"/>
+        <updated>2022-07-15T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/"/>
         <updated>2022-07-14T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ferveo: Threshold Decryption for Mempool Privacy in BFT networks]]></title>
-        <id>https://eprint.iacr.org/2022/898</id>
-        <link href="https://eprint.iacr.org/2022/898"/>
-        <updated>2022-07-14T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ferveo: Threshold Decryption for Mempool Privacy in BFT networks]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
