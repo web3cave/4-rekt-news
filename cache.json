@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://open.withlens.app/",
+          "author": null,
+          "description": "Lens links that open with your preferred frontend",
+          "link": "https://open.withlens.app/",
+          "publishedOn": "2022-07-15T02:30:02.000Z",
+          "wordCount": 60,
+          "title": "Lens links that open with your preferred frontend",
+          "imageUrl": "https://open.withlens.app/_next/static/media/card.d0694d9d.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/157647/celsius-bankruptcy-documents-claim-1-2-billion-balance-sheet-gap",
           "author": null,
           "description": "Celsius bankruptcy documents claim $1.2 billion balance sheet gap",
@@ -36,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=lmn3QK3RzCk&feature=youtu.be",
-          "author": null,
-          "description": "StarkNet token, Polygon in Disney Accelerator & more - The Daily Gwei Refuel #406 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=lmn3QK3RzCk&feature=youtu.be",
-          "publishedOn": "2022-07-14T22:00:03.000Z",
-          "wordCount": null,
-          "title": "StarkNet token, Polygon in Disney Accelerator & more - The Daily Gwei Refuel #406 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://hackmd.io/@benjaminion/BkxQTpqpi9",
           "author": null,
           "description": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
@@ -54,6 +54,16 @@
           "wordCount": 2322,
           "title": "PoS Implementers’ Call #91 - 2022-07-14 - HackMD",
           "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
+        },
+        {
+          "id": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
+          "author": null,
+          "description": "Permanence, culture and decentralization - JPG achieves a new mi…",
+          "link": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
+          "publishedOn": "2022-07-14T21:00:03.000Z",
+          "wordCount": 2211,
+          "title": "Permanence, culture and decentralization - JPG achieves a new mi…",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/EFbpheH-N1pwZzMnpOYoH.png?height=2250&width=4500&h=2250&w=4500&auto=compress"
         },
         {
           "id": "https://vitalik.ca/",
@@ -93,7 +103,7 @@
           "publishedOn": "2022-07-14T21:00:03.000Z",
           "wordCount": 3250,
           "title": "GitHub - nalinbhardwaj/zordle",
-          "imageUrl": "https://opengraph.githubassets.com/998dc4b6ac09ae69e72c24f1fdca06d51117f77c285ed2c7a484ade7e5796d3a/nalinbhardwaj/zordle"
+          "imageUrl": "https://opengraph.githubassets.com/0872c8595cce4a9ae0f4825543382389fa63d9f75fc9b787a04d6fdc80d62efe/nalinbhardwaj/zordle"
         },
         {
           "id": "https://zordle.xyz/",
@@ -106,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
-          "author": null,
-          "description": "Permanence, culture and decentralization - JPG achieves a new mi…",
-          "link": "https://jpg.mirror.xyz/W-JMDmJj1cIaHbrMy6od2K0Lo-QH6pmJw2woTGEbbcU",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 2211,
-          "title": "Permanence, culture and decentralization - JPG achieves a new mi…",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/EFbpheH-N1pwZzMnpOYoH.png?height=2250&width=4500&h=2250&w=4500&auto=compress"
-        },
-        {
           "id": "https://www.nfx.com/post/nfx-hiring-web3-associate",
           "author": null,
           "description": "NFX is tripling down on web3. For that, we need you.",
@@ -126,14 +126,14 @@
           "imageUrl": "https://content.nfx.com/wp-content/uploads/2022/07/Web3-Hiring-Blue-1.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=0KGm0FJ5LWg",
+          "id": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
           "author": null,
           "description": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
-          "link": "https://www.youtube.com/watch?v=0KGm0FJ5LWg",
+          "link": "https://unchainedpodcast.com/the-chopping-block-anatoly-yakovenko-on-why-solana-is-building-the-saga-phone-ep-373/",
           "publishedOn": "2022-07-14T17:00:03.000Z",
-          "wordCount": null,
+          "wordCount": 12159,
           "title": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN373-TCB-Social-1.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=0t_OtvkFHRw&feature=youtu.be",
@@ -171,7 +171,7 @@
           "description": "Celsius Network Initiates Financial Restructuring to Stabilize Business and Maximize Value for All Stakeholders",
           "link": "https://www.businesswire.com/news/home/20220713005911/en/Celsius-Network-Initiates-Financial-Restructuring-to-Stabilize-Business-and-Maximize-Value-for-All-Stakeholders",
           "publishedOn": "2022-07-14T11:00:02.000Z",
-          "wordCount": 2621,
+          "wordCount": 2585,
           "title": "Celsius Network Initiates Financial Restructuring to Stabilize Business and Maximize Value for All Stakeholders",
           "imageUrl": "https://mms.businesswire.com/media/20220713005911/en/1513292/23/Navy.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "link": "https://techcrunch.com/2022/07/13/meet-the-newest-crypto-builders-from-web3-accelerator-alliance-daos-demo-day/",
           "publishedOn": "2022-07-14T03:15:02.000Z",
-          "wordCount": 11397,
+          "wordCount": 11425,
           "title": "Meet the newest crypto builders from Alliance DAO’s demo day – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1298765066.jpg?w=669"
         },
