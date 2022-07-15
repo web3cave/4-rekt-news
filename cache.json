@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/thegostep/awesome-mev-boost",
+          "author": null,
+          "description": "GitHub - thegostep/awesome-mev-boost: All awesome mev-boost related content",
+          "link": "https://github.com/thegostep/awesome-mev-boost",
+          "publishedOn": "2022-07-15T17:00:02.000Z",
+          "wordCount": 582,
+          "title": "GitHub - thegostep/awesome-mev-boost: All awesome mev-boost related content",
+          "imageUrl": "https://opengraph.githubassets.com/bb7c3fe085411384d82b4c1346dc9e246d4727efd8dfdae04d073e863ab0634f/thegostep/awesome-mev-boost"
+        },
+        {
           "id": "https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html",
           "author": null,
           "description": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
           "link": "https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html",
           "publishedOn": "2022-07-15T16:30:03.000Z",
-          "wordCount": 14961,
+          "wordCount": 14890,
           "title": "CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/xuQgBPAhbx06xOisPo74Uw--~B/aD0yMjU7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/00386a3dd5933e52b01870b929284aaa"
+        },
+        {
+          "id": "https://github.com/ethereum/pm/issues/564",
+          "author": null,
+          "description": "Merge Community Call #5 · Issue #564 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/564",
+          "publishedOn": "2022-07-15T16:00:05.000Z",
+          "wordCount": 828,
+          "title": "Merge Community Call #5 · Issue #564 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/7c10cdf34c07fac262bb55d618cc24fbe2c9321b816101fbbdeee9ebf33b203c/ethereum/pm/issues/564"
         },
         {
           "id": "https://writings.flashbots.net/writings/mev-boost-call-for-testing/",
@@ -46,22 +66,12 @@
           "imageUrl": "https://cdn.consensys.net/uploads/2022/07/14131818/MetaMask_The-Origin-Story-1.png"
         },
         {
-          "id": "https://rhino.fi/?utm_source=social&utm_medium=twitter&utm_campaign=rebrand",
-          "author": null,
-          "description": "rhino.fi | Layer 2 Gateway to Multi-Chain DeFi | Swap, Trade, Invest",
-          "link": "https://rhino.fi/?utm_source=social&utm_medium=twitter&utm_campaign=rebrand",
-          "publishedOn": "2022-07-15T09:00:03.000Z",
-          "wordCount": 27759,
-          "title": "rhino.fi | Layer 2 Gateway to Multi-Chain DeFi | Swap, Trade, Invest",
-          "imageUrl": null
-        },
-        {
           "id": "https://beaconcha.in/",
           "author": null,
           "description": "Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022",
           "link": "https://beaconcha.in/",
           "publishedOn": "2022-07-15T07:00:03.000Z",
-          "wordCount": 2380,
+          "wordCount": 2381,
           "title": "Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022",
           "imageUrl": "https://beaconcha.in/img/logo.png"
         },
@@ -96,6 +106,16 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*-HVTP3TOzmJGJbjP"
         },
         {
+          "id": "https://eprint.iacr.org/2022/914",
+          "author": null,
+          "description": "Cryptanalyzing MEGA in Six Queries",
+          "link": "https://eprint.iacr.org/2022/914",
+          "publishedOn": "2022-07-15T04:00:03.000Z",
+          "wordCount": 513,
+          "title": "Cryptanalyzing MEGA in Six Queries",
+          "imageUrl": null
+        },
+        {
           "id": "https://open.withlens.app/",
           "author": null,
           "description": "Lens links that open with your preferred frontend",
@@ -111,19 +131,19 @@
           "description": "Celsius bankruptcy documents claim $1.2 billion balance sheet gap",
           "link": "https://www.theblock.co/post/157647/celsius-bankruptcy-documents-claim-1-2-billion-balance-sheet-gap",
           "publishedOn": "2022-07-15T01:00:03.000Z",
-          "wordCount": 79155,
+          "wordCount": 77780,
           "title": "Celsius bankruptcy documents claim $1.2 billion balance sheet gap",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_Celsius_Generic.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=J5O34DgiO4w&feature=youtu.be",
+          "id": "https://www.theblock.co/post/157645/nft-marketplace-opensea-lays-off-about-20-of-its-team?utm_source=twitter&utm_medium=social",
           "author": null,
-          "description": "🏰 BuidlGuidl + 🍌 Juicebox hackathon finale!",
-          "link": "https://www.youtube.com/watch?v=J5O34DgiO4w&feature=youtu.be",
-          "publishedOn": "2022-07-14T23:30:03.000Z",
-          "wordCount": null,
-          "title": "🏰 BuidlGuidl + 🍌 Juicebox hackathon finale!",
-          "imageUrl": null
+          "description": "NFT marketplace OpenSea lays off about 20% of its team",
+          "link": "https://www.theblock.co/post/157645/nft-marketplace-opensea-lays-off-about-20-of-its-team?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-07-14T23:00:03.000Z",
+          "wordCount": 77075,
+          "title": "NFT marketplace OpenSea lays off about 20% of its team",
+          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2022/05/20220506_OpenSea-2.jpg"
         },
         {
           "id": "https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf",
@@ -146,16 +166,6 @@
           "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         },
         {
-          "id": "https://www.scopelift.co/blog/introducing-flexible-voting",
-          "author": null,
-          "description": "Introducing Flexible Voting: A Powerful New Building Block for DAO Governance — ScopeLift",
-          "link": "https://www.scopelift.co/blog/introducing-flexible-voting",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 2395,
-          "title": "Introducing Flexible Voting: A Powerful New Building Block for DAO Governance — ScopeLift",
-          "imageUrl": "http://static1.squarespace.com/static/54b81e72e4b0fee4b01a42e9/t/62d03aaeb93b83074f1028e0/1657813749733/flex-voting-diagram-transparent.png?format=1500w"
-        },
-        {
           "id": "https://github.com/nalinbhardwaj/zordle",
           "author": null,
           "description": "GitHub - nalinbhardwaj/zordle",
@@ -163,7 +173,7 @@
           "publishedOn": "2022-07-14T21:00:03.000Z",
           "wordCount": 3250,
           "title": "GitHub - nalinbhardwaj/zordle",
-          "imageUrl": "https://opengraph.githubassets.com/651d7b83570a9c4e60b6282180c89b67cc5012ad198bb81c75527905c46db79c/nalinbhardwaj/zordle"
+          "imageUrl": "https://opengraph.githubassets.com/3160819d8f854e28f46ddfc8b521bd29407f4ae92be9f1995c9e9b1500e282e5/nalinbhardwaj/zordle"
         },
         {
           "id": "https://zordle.xyz/",
@@ -174,16 +184,6 @@
           "wordCount": 10,
           "title": "ZK Wordle",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nfx.com/post/nfx-hiring-web3-associate",
-          "author": null,
-          "description": "NFX is tripling down on web3. For that, we need you.",
-          "link": "https://www.nfx.com/post/nfx-hiring-web3-associate",
-          "publishedOn": "2022-07-14T21:00:03.000Z",
-          "wordCount": 23329,
-          "title": "NFX is tripling down on web3. For that, we need you.",
-          "imageUrl": "https://content.nfx.com/wp-content/uploads/2022/07/Web3-Hiring-Blue-1.png"
         },
         {
           "id": "https://www.circle.com/blog/providing-greater-transparency",
