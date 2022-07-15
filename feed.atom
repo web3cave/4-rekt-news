@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-15T18:26:50.893Z</id>
+    <id>urn:2022-07-15T19:17:16.227Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-15T18:26:50.894Z</updated>
+    <updated>2022-07-15T19:17:16.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing Slippage Protection for 0x API]]></title>
+        <id>https://blog.0x.org/slippage-protection-for-0x-api/</id>
+        <link href="https://blog.0x.org/slippage-protection-for-0x-api/"/>
+        <updated>2022-07-15T19:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Slippage Protection for 0x API]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EquitiesFirst revealed as mysterious debtor to troubled crypto firm Celsius]]></title>
+        <id>https://www.ft.com/content/70bd513e-8a10-4c96-b7e2-c43dea8df554</id>
+        <link href="https://www.ft.com/content/70bd513e-8a10-4c96-b7e2-c43dea8df554"/>
+        <updated>2022-07-15T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[EquitiesFirst revealed as mysterious debtor to troubled crypto firm Celsius]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - thegostep/awesome-mev-boost: All awesome mev-boost related content]]></title>
         <id>https://github.com/thegostep/awesome-mev-boost</id>
         <link href="https://github.com/thegostep/awesome-mev-boost"/>
         <updated>2022-07-15T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - thegostep/awesome-mev-boost: All awesome mev-boost related content]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game]]></title>
-        <id>https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html</id>
-        <link href="https://finance.yahoo.com/news/club-closes-3-1m-seed-143700939.html"/>
-        <updated>2022-07-15T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[CLUB Closes $3.1M Seed Round for the First Free-to-Play (F2P) and Play-and-Earn Soccer Ownership game]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -41,6 +51,16 @@
         <link href="https://writings.flashbots.net/writings/mev-boost-call-for-testing/"/>
         <updated>2022-07-15T15:30:05.000Z</updated>
         <summary type="html"><![CDATA[Boost your MEV in Ethereum proof-of-stake | Flashbots]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsche Bank Now Modeling German Households Chopping Wood To Keep Warm This Winter | ZeroHedge]]></title>
+        <id>https://www.zerohedge.com/markets/deutsche-bank-now-modeling-german-households-chopping-wood-keep-warm-winter</id>
+        <link href="https://www.zerohedge.com/markets/deutsche-bank-now-modeling-german-households-chopping-wood-keep-warm-winter"/>
+        <updated>2022-07-15T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Deutsche Bank Now Modeling German Households Chopping Wood To Keep Warm This Winter | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT marketplace OpenSea lays off about 20% of its team]]></title>
-        <id>https://www.theblock.co/post/157645/nft-marketplace-opensea-lays-off-about-20-of-its-team?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/157645/nft-marketplace-opensea-lays-off-about-20-of-its-team?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-07-14T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[NFT marketplace OpenSea lays off about 20% of its team]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[PDF] 126122257414.pdf]]></title>
         <id>https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf</id>
         <link href="https://pacer-documents.s3.amazonaws.com/115/312902/126122257414.pdf"/>
@@ -191,16 +201,6 @@
         <link href="https://www.circle.com/blog/providing-greater-transparency"/>
         <updated>2022-07-14T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Providing Greater Transparency]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373]]></title>
-        <id>https://www.youtube.com/watch?v=0KGm0FJ5LWg</id>
-        <link href="https://www.youtube.com/watch?v=0KGm0FJ5LWg"/>
-        <updated>2022-07-14T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
