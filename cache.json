@@ -6,34 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://superbaud.org/posts/plonk-flow-part-1.html",
+          "author": null,
+          "description": "A Flow for PLONK, Part 1",
+          "link": "https://superbaud.org/posts/plonk-flow-part-1.html",
+          "publishedOn": "2022-07-16T19:00:03.000Z",
+          "wordCount": 1542,
+          "title": "A Flow for PLONK, Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/new-covid-19-variant-sensationalized-fauci-white-house-sen-paul",
+          "author": null,
+          "description": "New COVID-19 Variant \"Sensationalized\" By Fauci, White House: Sen. Paul | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/new-covid-19-variant-sensationalized-fauci-white-house-sen-paul",
+          "publishedOn": "2022-07-16T19:00:03.000Z",
+          "wordCount": 1040,
+          "title": "New COVID-19 Variant \"Sensationalized\" By Fauci, White House: Sen. Paul | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://compound.finance/docs/governance#pause-guardian",
+          "author": null,
+          "description": "Compound | Docs - Governance",
+          "link": "https://compound.finance/docs/governance#pause-guardian",
+          "publishedOn": "2022-07-16T19:00:02.000Z",
+          "wordCount": 2430,
+          "title": "Compound | Docs - Governance",
+          "imageUrl": "https://compound.finance/images/meta-tag.png"
+        },
+        {
           "id": "https://blog.veefriends.com/guess-whos-going-gold-5199e42159d8?gi=decc6280ac7e",
           "author": null,
           "description": "Guess Who’s Going Gold",
           "link": "https://blog.veefriends.com/guess-whos-going-gold-5199e42159d8?gi=decc6280ac7e",
           "publishedOn": "2022-07-16T17:00:04.000Z",
-          "wordCount": 2942,
+          "wordCount": 3057,
           "title": "Guess Who’s Going Gold",
           "imageUrl": "https://miro.medium.com/max/1200/0*_5RJ819xNDHjBkQr"
-        },
-        {
-          "id": "https://github.com/rotki/rotki/releases/",
-          "author": null,
-          "description": "Releases · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/releases/",
-          "publishedOn": "2022-07-16T17:00:04.000Z",
-          "wordCount": 9361,
-          "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/0b969e4c2c4bdcc963fa0da03d09802914befa2edef475d7fa95dd4eb4d41808/rotki/rotki"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/only-real-solution-default",
-          "author": null,
-          "description": "The Only Real Solution Is Default | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/only-real-solution-default",
-          "publishedOn": "2022-07-16T17:00:04.000Z",
-          "wordCount": 2076,
-          "title": "The Only Real Solution Is Default | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=9wDpIWyu_0Q",
@@ -74,16 +84,6 @@
           "wordCount": null,
           "title": "The Chopping Block: Anatoly Yakovenko on Why Solana Is Building the SAGA Phone - Ep. 373",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cnbc.com/amp/2022/07/15/millennials-are-to-blame-for-sky-high-inflation-strategist-says.html",
-          "author": null,
-          "description": "Millennials are to blame for sky-high inflation, strategist says",
-          "link": "https://www.cnbc.com/amp/2022/07/15/millennials-are-to-blame-for-sky-high-inflation-strategist-says.html",
-          "publishedOn": "2022-07-16T11:30:03.000Z",
-          "wordCount": 1839,
-          "title": "Millennials are to blame for sky-high inflation, strategist says",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107071925-1654577199683-gettyimages-648946898-_l4a0276.jpeg?v=1654577341"
         },
         {
           "id": "https://gist.github.com/banteg/dcf6082ff7fc6ad51ce220146f29d9ff",
