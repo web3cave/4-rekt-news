@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.npr.org/sections/npr-extra/2022/07/15/1111727112/npr-launches-disinformation-reporting-team",
+          "author": null,
+          "description": "NPR launches Disinformation Reporting team",
+          "link": "https://www.npr.org/sections/npr-extra/2022/07/15/1111727112/npr-launches-disinformation-reporting-team",
+          "publishedOn": "2022-07-17T12:00:02.000Z",
+          "wordCount": 969,
+          "title": "NPR launches Disinformation Reporting team",
+          "imageUrl": "https://media.npr.org/assets/img/2022/07/15/voss-nprelection280_wide-2760fa0603ea76887002eb2cdfcb635b6410f7e1.jpg?s=1400"
+        },
+        {
+          "id": "https://thepointmag.com/examined-life/torturing-geniuses-agnes-callard/",
+          "author": null,
+          "description": "Torturing Geniuses | The Point Magazine",
+          "link": "https://thepointmag.com/examined-life/torturing-geniuses-agnes-callard/",
+          "publishedOn": "2022-07-17T12:00:02.000Z",
+          "wordCount": 4964,
+          "title": "Torturing Geniuses | The Point Magazine",
+          "imageUrl": "https://thepointmag.com/wp-content/uploads/2020/11/queens-gambit-trailer-1598563196.jpg"
+        },
+        {
+          "id": "https://github.com/paulrberg/prb-test",
+          "author": null,
+          "description": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
+          "link": "https://github.com/paulrberg/prb-test",
+          "publishedOn": "2022-07-17T11:30:02.000Z",
+          "wordCount": 1458,
+          "title": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
+          "imageUrl": "https://opengraph.githubassets.com/0744dc40bebc0c166c22e52daa73e5cbdbca7a5837c9e5c45102629f1981a769/paulrberg/prb-test"
+        },
+        {
           "id": "https://fractional.art/vaults/punk-8810",
           "author": null,
           "description": "Punk #8810",
@@ -14,26 +44,6 @@
           "wordCount": 1263,
           "title": "Punk #8810",
           "imageUrl": "https://lh3.googleusercontent.com/YiFaJJFdxozvCRLmGtK2sWeZcBxvUv_rMwHV5mKkVSDl4zXs1WkwQOnSwc1sR69XWz6Xr_nxYOB6sX6dPJ3GOQUhbGF8yML_6V61Ww"
-        },
-        {
-          "id": "https://revoke.cash/",
-          "author": null,
-          "description": "Revoke.cash - Revoke your Ethereum token allowances",
-          "link": "https://revoke.cash/",
-          "publishedOn": "2022-07-17T11:00:02.000Z",
-          "wordCount": 7,
-          "title": "Revoke.cash - Revoke your Ethereum token allowances",
-          "imageUrl": "https://revoke.cash/revoke-card.png"
-        },
-        {
-          "id": "https://www.rinky.wtf/",
-          "author": null,
-          "description": "Rinky",
-          "link": "https://www.rinky.wtf/",
-          "publishedOn": "2022-07-17T11:00:02.000Z",
-          "wordCount": 76,
-          "title": "Rinky",
-          "imageUrl": "./assets/meta-img.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=zGDTt9Q3vyM&feature=youtu.be",
@@ -96,14 +106,14 @@
           "imageUrl": "https://cdn.sanity.io/images/fox336rh/production/cc7f8c8ed3f9bbba0e94f09f616cd33576c02722-1200x675.png?w=1200&fm=jpg"
         },
         {
-          "id": "https://www.zerohedge.com/political/catholic-voters-sour-biden-split-over-midterms",
+          "id": "https://www.bueno.art/blog/bueno-pinata-ipfs",
           "author": null,
-          "description": "Catholic Voters Sour On Biden, Split Over Midterms | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/catholic-voters-sour-biden-split-over-midterms",
+          "description": "Bueno Integrates Pinata to Provide Creators with IPFS Upload | Bueno Blog",
+          "link": "https://www.bueno.art/blog/bueno-pinata-ipfs",
           "publishedOn": "2022-07-17T05:00:02.000Z",
-          "wordCount": 2658,
-          "title": "Catholic Voters Sour On Biden, Split Over Midterms | ZeroHedge",
-          "imageUrl": null
+          "wordCount": 1068,
+          "title": "Bueno Integrates Pinata to Provide Creators with IPFS Upload | Bueno Blog",
+          "imageUrl": "https://assets-global.website-files.com/6171adb6a942ed69f5e6b5ee/62b1d7f38629c8feac9b6e8a_Thumbnail1.png"
         },
         {
           "id": "https://www.sixthtone.com/news/1010782/hot%2C-hot%2C-hot-china-hit-with-blistering-heat-wave?source=channel_home",
@@ -126,16 +136,6 @@
           "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
         },
         {
-          "id": "https://www.aeaweb.org/articles?id=10.1257/jep.36.2.123",
-          "author": null,
-          "description": "Slavery and the Rise of the Nineteenth-Century American Economy - American Economic Association",
-          "link": "https://www.aeaweb.org/articles?id=10.1257/jep.36.2.123",
-          "publishedOn": "2022-07-16T23:30:02.000Z",
-          "wordCount": 880,
-          "title": "Slavery and the Rise of the Nineteenth-Century American Economy - American Economic Association",
-          "imageUrl": null
-        },
-        {
           "id": "https://compound.finance/docs/governance#pause-guardian",
           "author": null,
           "description": "Compound | Docs - Governance",
@@ -151,7 +151,7 @@
           "description": "Guess Who’s Going Gold",
           "link": "https://blog.veefriends.com/guess-whos-going-gold-5199e42159d8?gi=decc6280ac7e",
           "publishedOn": "2022-07-16T17:00:04.000Z",
-          "wordCount": 3145,
+          "wordCount": 3024,
           "title": "Guess Who’s Going Gold",
           "imageUrl": "https://miro.medium.com/max/1200/0*_5RJ819xNDHjBkQr"
         },
