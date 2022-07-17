@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fractional.art/vaults/punk-8810",
+          "author": null,
+          "description": "Punk #8810",
+          "link": "https://fractional.art/vaults/punk-8810",
+          "publishedOn": "2022-07-17T16:00:03.000Z",
+          "wordCount": 1263,
+          "title": "Punk #8810",
+          "imageUrl": "https://lh3.googleusercontent.com/YiFaJJFdxozvCRLmGtK2sWeZcBxvUv_rMwHV5mKkVSDl4zXs1WkwQOnSwc1sR69XWz6Xr_nxYOB6sX6dPJ3GOQUhbGF8yML_6V61Ww"
+        },
+        {
           "id": "https://www.cityam.com/victims-of-onecoin-scam-given-hope-with-fbi-most-wanted-arrest-as-net-closes-on-cryptoqueen/?utm_source=dlvr.it&utm_medium=twitter",
           "author": null,
           "description": "Victims of OneCoin scam given hope with FBI 'Most Wanted' arrest as net closes on 'Cryptoqueen'",
@@ -41,7 +51,7 @@
           "description": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
           "link": "https://github.com/ethereum/emacs-solidity",
           "publishedOn": "2022-07-17T13:00:02.000Z",
-          "wordCount": 1379,
+          "wordCount": 1394,
           "title": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
           "imageUrl": "https://opengraph.githubassets.com/90c24efc436c8647e90abb1fff9acb1d9b344d99b04c8d5abf7cc024300a077c/ethereum/emacs-solidity"
         },
@@ -51,9 +61,9 @@
           "description": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
           "link": "https://github.com/paulrberg/foundry-template",
           "publishedOn": "2022-07-17T13:00:02.000Z",
-          "wordCount": 1075,
+          "wordCount": 1063,
           "title": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
-          "imageUrl": "https://opengraph.githubassets.com/7261856d4668e98165a0f88fa752c39da8724ab2c5882febd4f169bdd63a1368/paulrberg/foundry-template"
+          "imageUrl": "https://opengraph.githubassets.com/f328203d22805a0fb114a7d41f4a6db3eed32bed384c4890e366cd8a04868f56/paulrberg/foundry-template"
         },
         {
           "id": "https://github.com/paulrberg/hardhat-template",
@@ -61,7 +71,7 @@
           "description": "GitHub - paulrberg/hardhat-template: Hardhat-based template for developing Solidity smart contracts",
           "link": "https://github.com/paulrberg/hardhat-template",
           "publishedOn": "2022-07-17T13:00:02.000Z",
-          "wordCount": 905,
+          "wordCount": 1171,
           "title": "GitHub - paulrberg/hardhat-template: Hardhat-based template for developing Solidity smart contracts",
           "imageUrl": "https://opengraph.githubassets.com/05ab7002ea3693738d3e2828a819afa645b35b8480b94a738d248b979955d35b/paulrberg/hardhat-template"
         },
@@ -91,19 +101,9 @@
           "description": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
           "link": "https://github.com/paulrberg/prb-test",
           "publishedOn": "2022-07-17T11:30:02.000Z",
-          "wordCount": 1322,
+          "wordCount": 1451,
           "title": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
-          "imageUrl": "https://opengraph.githubassets.com/fd4c1fd4047c3fe8da2540828814ab95881c981ea088638a6c757404497a3bc3/paulrberg/prb-test"
-        },
-        {
-          "id": "https://fractional.art/vaults/punk-8810",
-          "author": null,
-          "description": "Punk #8810",
-          "link": "https://fractional.art/vaults/punk-8810",
-          "publishedOn": "2022-07-17T11:00:02.000Z",
-          "wordCount": 1263,
-          "title": "Punk #8810",
-          "imageUrl": "https://lh3.googleusercontent.com/YiFaJJFdxozvCRLmGtK2sWeZcBxvUv_rMwHV5mKkVSDl4zXs1WkwQOnSwc1sR69XWz6Xr_nxYOB6sX6dPJ3GOQUhbGF8yML_6V61Ww"
+          "imageUrl": "https://opengraph.githubassets.com/b5fa571272802ee85e08762101627895eb8f6c459ff422795cc58ca5a601a7a1/paulrberg/prb-test"
         },
         {
           "id": "https://revoke.cash/",
@@ -114,6 +114,16 @@
           "wordCount": 7,
           "title": "Revoke.cash - Revoke your Ethereum token allowances",
           "imageUrl": "https://revoke.cash/revoke-card.png"
+        },
+        {
+          "id": "https://www.rinky.wtf/",
+          "author": null,
+          "description": "Rinky",
+          "link": "https://www.rinky.wtf/",
+          "publishedOn": "2022-07-17T11:00:02.000Z",
+          "wordCount": 76,
+          "title": "Rinky",
+          "imageUrl": "./assets/meta-img.png"
         },
         {
           "id": "https://dune.com/blog/teams-launch",
@@ -156,24 +166,14 @@
           "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
         },
         {
-          "id": "https://compound.finance/docs/governance#pause-guardian",
+          "id": "https://www.aeaweb.org/articles?id=10.1257/jep.36.2.123",
           "author": null,
-          "description": "Compound | Docs - Governance",
-          "link": "https://compound.finance/docs/governance#pause-guardian",
-          "publishedOn": "2022-07-16T19:00:02.000Z",
-          "wordCount": 2430,
-          "title": "Compound | Docs - Governance",
-          "imageUrl": "https://compound.finance/images/meta-tag.png"
-        },
-        {
-          "id": "https://blog.veefriends.com/guess-whos-going-gold-5199e42159d8?gi=decc6280ac7e",
-          "author": null,
-          "description": "Guess Who’s Going Gold",
-          "link": "https://blog.veefriends.com/guess-whos-going-gold-5199e42159d8?gi=decc6280ac7e",
-          "publishedOn": "2022-07-16T17:00:04.000Z",
-          "wordCount": 3024,
-          "title": "Guess Who’s Going Gold",
-          "imageUrl": "https://miro.medium.com/max/1200/0*_5RJ819xNDHjBkQr"
+          "description": "Slavery and the Rise of the Nineteenth-Century American Economy - American Economic Association",
+          "link": "https://www.aeaweb.org/articles?id=10.1257/jep.36.2.123",
+          "publishedOn": "2022-07-16T23:30:02.000Z",
+          "wordCount": 880,
+          "title": "Slavery and the Rise of the Nineteenth-Century American Economy - American Economic Association",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=9wDpIWyu_0Q",
