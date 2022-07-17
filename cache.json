@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4NEUPQzH0D0&feature=youtu.be",
+          "author": null,
+          "description": "Create massive virtual events and social experiences on MSquared",
+          "link": "https://www.youtube.com/watch?v=4NEUPQzH0D0&feature=youtu.be",
+          "publishedOn": "2022-07-17T13:00:02.000Z",
+          "wordCount": null,
+          "title": "Create massive virtual events and social experiences on MSquared",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ethereum/emacs-solidity",
+          "author": null,
+          "description": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
+          "link": "https://github.com/ethereum/emacs-solidity",
+          "publishedOn": "2022-07-17T13:00:02.000Z",
+          "wordCount": 1462,
+          "title": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
+          "imageUrl": "https://opengraph.githubassets.com/90c24efc436c8647e90abb1fff9acb1d9b344d99b04c8d5abf7cc024300a077c/ethereum/emacs-solidity"
+        },
+        {
+          "id": "https://github.com/paulrberg/foundry-template",
+          "author": null,
+          "description": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
+          "link": "https://github.com/paulrberg/foundry-template",
+          "publishedOn": "2022-07-17T13:00:02.000Z",
+          "wordCount": 1075,
+          "title": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
+          "imageUrl": "https://opengraph.githubassets.com/2e84a35f7633ead4720ee39e435227cd0e7d47866d7f361d1ef50b5661ec9c06/paulrberg/foundry-template"
+        },
+        {
+          "id": "https://github.com/paulrberg/hardhat-template",
+          "author": null,
+          "description": "GitHub - paulrberg/hardhat-template: Hardhat-based template for developing Solidity smart contracts",
+          "link": "https://github.com/paulrberg/hardhat-template",
+          "publishedOn": "2022-07-17T13:00:02.000Z",
+          "wordCount": 905,
+          "title": "GitHub - paulrberg/hardhat-template: Hardhat-based template for developing Solidity smart contracts",
+          "imageUrl": "https://opengraph.githubassets.com/153372a83db6113391f685fdbc7acdf7d844afc90a041eaf9763f4d6053d9860/paulrberg/hardhat-template"
+        },
+        {
           "id": "https://www.npr.org/sections/npr-extra/2022/07/15/1111727112/npr-launches-disinformation-reporting-team",
           "author": null,
           "description": "NPR launches Disinformation Reporting team",
@@ -31,7 +71,7 @@
           "description": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
           "link": "https://github.com/paulrberg/prb-test",
           "publishedOn": "2022-07-17T11:30:02.000Z",
-          "wordCount": 1458,
+          "wordCount": 1451,
           "title": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
           "imageUrl": "https://opengraph.githubassets.com/0744dc40bebc0c166c22e52daa73e5cbdbca7a5837c9e5c45102629f1981a769/paulrberg/prb-test"
         },
@@ -46,54 +86,14 @@
           "imageUrl": "https://lh3.googleusercontent.com/YiFaJJFdxozvCRLmGtK2sWeZcBxvUv_rMwHV5mKkVSDl4zXs1WkwQOnSwc1sR69XWz6Xr_nxYOB6sX6dPJ3GOQUhbGF8yML_6V61Ww"
         },
         {
-          "id": "https://www.youtube.com/watch?v=zGDTt9Q3vyM&feature=youtu.be",
+          "id": "https://revoke.cash/",
           "author": null,
-          "description": "5. Blockchain Basics & Transactions, UTXO and Script Code",
-          "link": "https://www.youtube.com/watch?v=zGDTt9Q3vyM&feature=youtu.be",
-          "publishedOn": "2022-07-17T09:00:02.000Z",
-          "wordCount": null,
-          "title": "5. Blockchain Basics & Transactions, UTXO and Script Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RAhQ5JjwhV0&feature=youtu.be",
-          "author": null,
-          "description": "Dave Chappelle Samuel Jackson beer",
-          "link": "https://www.youtube.com/watch?v=RAhQ5JjwhV0&feature=youtu.be",
-          "publishedOn": "2022-07-17T07:00:03.000Z",
-          "wordCount": null,
-          "title": "Dave Chappelle Samuel Jackson beer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-eurasia-war-economic-corridors-full-swing",
-          "author": null,
-          "description": "Escobar: In Eurasia, The War Of Economic Corridors Is In Full Swing | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-eurasia-war-economic-corridors-full-swing",
-          "publishedOn": "2022-07-17T07:00:03.000Z",
-          "wordCount": 3138,
-          "title": "Escobar: In Eurasia, The War Of Economic Corridors Is In Full Swing | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dao.buidlguidl.com/",
-          "author": null,
-          "description": "BuidlGuidl DAO LLC",
-          "link": "https://dao.buidlguidl.com/",
-          "publishedOn": "2022-07-17T05:30:03.000Z",
-          "wordCount": 45,
-          "title": "BuidlGuidl DAO LLC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/commodities/satellite-imagery-shows-global-crop-declines-except-russia-and-china",
-          "author": null,
-          "description": "Satellite Imagery Shows Global Crop Declines – Except For Russia And China | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/satellite-imagery-shows-global-crop-declines-except-russia-and-china",
-          "publishedOn": "2022-07-17T05:30:03.000Z",
-          "wordCount": 1226,
-          "title": "Satellite Imagery Shows Global Crop Declines – Except For Russia And China | ZeroHedge",
-          "imageUrl": null
+          "description": "Revoke.cash - Revoke your Ethereum token allowances",
+          "link": "https://revoke.cash/",
+          "publishedOn": "2022-07-17T11:00:02.000Z",
+          "wordCount": 7,
+          "title": "Revoke.cash - Revoke your Ethereum token allowances",
+          "imageUrl": "https://revoke.cash/revoke-card.png"
         },
         {
           "id": "https://dune.com/blog/teams-launch",
