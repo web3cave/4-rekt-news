@@ -6,6 +6,86 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nbcchicago.com/news/local/chicago-is-the-2nd-best-city-in-the-world-according-to-a-new-list/2879464/",
+          "author": null,
+          "description": "Chicago is the 2nd Best City in the World, According to a New List",
+          "link": "https://www.nbcchicago.com/news/local/chicago-is-the-2nd-best-city-in-the-world-according-to-a-new-list/2879464/",
+          "publishedOn": "2022-07-18T03:00:04.000Z",
+          "wordCount": 6675,
+          "title": "Chicago is the 2nd Best City in the World, According to a New List",
+          "imageUrl": "https://media.nbcchicago.com/2022/06/ChicagoTripAdvisor.jpg?quality=85&strip=all&fit=1200%2C675"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8_8LTUmHWP0&feature=youtu.be",
+          "author": null,
+          "description": "You Will Eat The Bugs",
+          "link": "https://www.youtube.com/watch?v=8_8LTUmHWP0&feature=youtu.be",
+          "publishedOn": "2022-07-18T03:00:04.000Z",
+          "wordCount": null,
+          "title": "You Will Eat The Bugs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VGfIIjN-P7o",
+          "author": null,
+          "description": "Sasquatch Sierra Sounds by Ron Morehead & Al Berry in (HD)",
+          "link": "https://www.youtube.com/watch?v=VGfIIjN-P7o",
+          "publishedOn": "2022-07-18T03:00:04.000Z",
+          "wordCount": null,
+          "title": "Sasquatch Sierra Sounds by Ron Morehead & Al Berry in (HD)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rettig.substack.com/p/three-things-26-july-17-2022?utm_source=twitter&sd=pf",
+          "author": null,
+          "description": "Three Things #26: July 17, 2022",
+          "link": "https://rettig.substack.com/p/three-things-26-july-17-2022?utm_source=twitter&sd=pf",
+          "publishedOn": "2022-07-18T03:00:04.000Z",
+          "wordCount": 4825,
+          "title": "Three Things #26: July 17, 2022",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bbe4c5-1771-46f1-aacb-8373bd163cad_9000x6000.jpeg"
+        },
+        {
+          "id": "https://www.zerohedge.com/technology/2023-global-emoji-count-could-grow-3491",
+          "author": null,
+          "description": "In 2023, Global Emoji Count Could Grow To 3,491 | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/2023-global-emoji-count-could-grow-3491",
+          "publishedOn": "2022-07-18T03:00:04.000Z",
+          "wordCount": 1115,
+          "title": "In 2023, Global Emoji Count Could Grow To 3,491 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=rW8GrxQYPbI",
+          "author": null,
+          "description": "Robert Leshner and Jesse Walden: Deep Dive on Decentralization",
+          "link": "https://www.youtube.com/watch?app=desktop&v=rW8GrxQYPbI",
+          "publishedOn": "2022-07-18T03:00:03.000Z",
+          "wordCount": null,
+          "title": "Robert Leshner and Jesse Walden: Deep Dive on Decentralization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.circle.com/blog/providing-greater-transparency",
+          "author": null,
+          "description": "Providing Greater Transparency",
+          "link": "https://www.circle.com/blog/providing-greater-transparency",
+          "publishedOn": "2022-07-18T02:30:08.000Z",
+          "wordCount": 1876,
+          "title": "Providing Greater Transparency",
+          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/tnt-ProvidingGreaterTransparency.png#keepProtocol"
+        },
+        {
+          "id": "https://www.zerohedge.com/weather/relentless-heat-wave-pummeling-texas-and-central-plains-bring-hottest-temp-year",
+          "author": null,
+          "description": "Relentless Heat Wave Pummeling Texas And Central Plains To Bring Hottest Temperatures Of Year | ZeroHedge",
+          "link": "https://www.zerohedge.com/weather/relentless-heat-wave-pummeling-texas-and-central-plains-bring-hottest-temp-year",
+          "publishedOn": "2022-07-18T02:30:08.000Z",
+          "wordCount": 783,
+          "title": "Relentless Heat Wave Pummeling Texas And Central Plains To Bring Hottest Temperatures Of Year | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://vitalik.ca/general/2022/07/13/networkstates.html#what-aspects-of-balajis-vision-do-i-like",
           "author": null,
           "description": "What do I think about network states?",
@@ -23,16 +103,6 @@
           "publishedOn": "2022-07-18T01:00:02.000Z",
           "wordCount": 2671,
           "title": "EIP-2025: Block Rewards Proposal for funding Eth1.x",
-          "imageUrl": null
-        },
-        {
-          "id": "https://timroughgarden.org/papers/eip1559.pdf",
-          "author": null,
-          "description": "[PDF] eip1559.pdf",
-          "link": "https://timroughgarden.org/papers/eip1559.pdf",
-          "publishedOn": "2022-07-18T01:00:02.000Z",
-          "wordCount": 13192,
-          "title": "[PDF] eip1559.pdf",
           "imageUrl": null
         },
         {
@@ -56,46 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/morgan-stanley-central-banks-are-increasingly-out-balance",
-          "author": null,
-          "description": "Morgan Stanley: Central Banks Are Increasingly Out Of Balance | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/morgan-stanley-central-banks-are-increasingly-out-balance",
-          "publishedOn": "2022-07-18T01:00:02.000Z",
-          "wordCount": 1471,
-          "title": "Morgan Stanley: Central Banks Are Increasingly Out Of Balance | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/republicans-freak-ukrainian-born-gop-colleague-trash-talks-zelensky",
-          "author": null,
-          "description": "Republicans Freak As Ukrainian-Born GOP Colleague Trash Talks Zelensky | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/republicans-freak-ukrainian-born-gop-colleague-trash-talks-zelensky",
-          "publishedOn": "2022-07-18T01:00:02.000Z",
-          "wordCount": 1314,
-          "title": "Republicans Freak As Ukrainian-Born GOP Colleague Trash Talks Zelensky | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/logistics-warehouse-activity-may-cool-interest-rates-heat-uup",
-          "author": null,
-          "description": "Logistics Warehouse Activity May Cool As Interest Rates Heat Up | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/logistics-warehouse-activity-may-cool-interest-rates-heat-uup",
-          "publishedOn": "2022-07-18T01:00:02.000Z",
-          "wordCount": 2380,
-          "title": "Logistics Warehouse Activity May Cool As Interest Rates Heat Up | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.veefriends.com/whats-in-the-cards-for-veefriends-at-the-national-sports-collectors-convention-bdceb70cefa0?gi=ee3a52b3067e",
-          "author": null,
-          "description": "What’s in the Cards for VeeFriends at the National Sports Collectors Convention?",
-          "link": "https://blog.veefriends.com/whats-in-the-cards-for-veefriends-at-the-national-sports-collectors-convention-bdceb70cefa0?gi=ee3a52b3067e",
-          "publishedOn": "2022-07-18T00:30:03.000Z",
-          "wordCount": 2750,
-          "title": "What’s in the Cards for VeeFriends at the National Sports Collectors Convention?",
-          "imageUrl": "https://miro.medium.com/max/1200/1*fSPlvEARHTm6rvRzrh4CYA.png"
-        },
-        {
           "id": "https://www.bueno.art/blog/bueno-pinata-ipfs",
           "author": null,
           "description": "Bueno Integrates Pinata to Provide Creators with IPFS Upload | Bueno Blog",
@@ -104,16 +134,6 @@
           "wordCount": 1068,
           "title": "Bueno Integrates Pinata to Provide Creators with IPFS Upload | Bueno Blog",
           "imageUrl": "https://assets-global.website-files.com/6171adb6a942ed69f5e6b5ee/62b1d7f38629c8feac9b6e8a_Thumbnail1.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/housing-market-peaks-home-prices-finally-drop-all-time-highs",
-          "author": null,
-          "description": "Housing Market Peaks: Home Prices Finally Drop From All-Time Highs | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/housing-market-peaks-home-prices-finally-drop-all-time-highs",
-          "publishedOn": "2022-07-17T23:00:03.000Z",
-          "wordCount": 2621,
-          "title": "Housing Market Peaks: Home Prices Finally Drop From All-Time Highs | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://gist.github.com/banteg/87bdae8a43d36ad2b2f71558211b7a2c",
@@ -134,16 +154,6 @@
           "wordCount": 17478,
           "title": "A Samurai, a Knight, and a Yankee",
           "imageUrl": "https://miro.medium.com/max/1200/0*-HVTP3TOzmJGJbjP"
-        },
-        {
-          "id": "https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/",
-          "author": null,
-          "description": "Our empty oceans: Scots team's research finds Atlantic plankton all but wiped out in catastrophic loss of life",
-          "link": "https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/",
-          "publishedOn": "2022-07-17T22:00:03.000Z",
-          "wordCount": 6796,
-          "title": "Our empty oceans: Scots team's research finds Atlantic plankton all but wiped out in catastrophic loss of life",
-          "imageUrl": "http://wpcluster.dctdigital.com/wp-content/uploads/sites/13/2022/07/Ring-in-ocean-one3ayne-scaled-e1658009197202.jpg"
         },
         {
           "id": "https://studio.ribbonfarm.com/p/superhistory-not-superintelligence",
@@ -181,19 +191,9 @@
           "description": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
           "link": "https://github.com/ethereum/emacs-solidity",
           "publishedOn": "2022-07-17T13:00:02.000Z",
-          "wordCount": 1462,
+          "wordCount": 1379,
           "title": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
           "imageUrl": "https://opengraph.githubassets.com/4bf16b9893d384360110e446c2075bc38da515e052e9c4b2c3ba01a8d667e219/ethereum/emacs-solidity"
-        },
-        {
-          "id": "https://www.sixthtone.com/news/1010782/hot%2C-hot%2C-hot-china-hit-with-blistering-heat-wave?source=channel_home",
-          "author": null,
-          "description": "‘Hot, Hot, Hot’: China Hit with Blistering Heat Wave",
-          "link": "https://www.sixthtone.com/news/1010782/hot%2C-hot%2C-hot-china-hit-with-blistering-heat-wave?source=channel_home",
-          "publishedOn": "2022-07-17T04:00:03.000Z",
-          "wordCount": 2586,
-          "title": "‘Hot, Hot, Hot’: China Hit with Blistering Heat Wave",
-          "imageUrl": "https://image5.sixthtone.com/image/5/55/919.jpg"
         },
         {
           "id": "https://settlers.canto.io/",
