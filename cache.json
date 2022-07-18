@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ft.com/content/9fe8d00f-ca21-43bc-bf7a-bf765c493044",
+          "author": null,
+          "description": "Russia’s future: a giant Iran of Eurasia",
+          "link": "https://www.ft.com/content/9fe8d00f-ca21-43bc-bf7a-bf765c493044",
+          "publishedOn": "2022-07-18T10:00:02.000Z",
+          "wordCount": 1432,
+          "title": "Russia’s future: a giant Iran of Eurasia",
+          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fb3cc64d4-dbe6-486e-ad32-6582638d0327?source=next-opengraph&fit=scale-down&width=900"
+        },
+        {
+          "id": "https://www.businesstoday.in/crypto/story/flipkart-to-airdrop-nothing-nfts-on-firedrop-341534-2022-07-14",
+          "author": null,
+          "description": "Flipkart to airdrop Nothing NFTs on Firedrop",
+          "link": "https://www.businesstoday.in/crypto/story/flipkart-to-airdrop-nothing-nfts-on-firedrop-341534-2022-07-14",
+          "publishedOn": "2022-07-18T10:00:02.000Z",
+          "wordCount": 14382,
+          "title": "Flipkart to airdrop Nothing NFTs on Firedrop",
+          "imageUrl": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/flipkart-mint-11-e1450334710677_0-sixteen_nine.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/collapsing-euro-and-its-implications",
           "author": null,
           "description": "The Collapsing Euro And Its Implications | ZeroHedge",
@@ -13,6 +33,16 @@
           "publishedOn": "2022-07-18T09:00:03.000Z",
           "wordCount": 9491,
           "title": "The Collapsing Euro And Its Implications | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZYiRVro_G6s",
+          "author": null,
+          "description": "LF SYSTEM | Boiler Room x FLY Open Air 2022",
+          "link": "https://www.youtube.com/watch?v=ZYiRVro_G6s",
+          "publishedOn": "2022-07-18T09:00:03.000Z",
+          "wordCount": null,
+          "title": "LF SYSTEM | Boiler Room x FLY Open Air 2022",
           "imageUrl": null
         },
         {
@@ -51,19 +81,9 @@
           "description": "Sony announces PlayStation Stars, a loyalty program for gamers",
           "link": "https://www.washingtonpost.com/video-games/2022/07/14/sony-playstation-stars-announcement/",
           "publishedOn": "2022-07-18T05:00:03.000Z",
-          "wordCount": 6952,
+          "wordCount": 6902,
           "title": "Sony announces PlayStation Stars, a loyalty program for gamers",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D7UCJ3NVLNAKDNF7EB7AMWPNVA.jpg&w=1440"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/goldman-trader-top-client-question-week-was-why-did-market-not-go-down-face-incredibly",
-          "author": null,
-          "description": "Goldman Trader: The Top Client Question This Week Was \"Why Did The Market Not Go Down In The Face Of Incredibly...",
-          "link": "https://www.zerohedge.com/markets/goldman-trader-top-client-question-week-was-why-did-market-not-go-down-face-incredibly",
-          "publishedOn": "2022-07-18T04:30:02.000Z",
-          "wordCount": 411,
-          "title": "Goldman Trader: The Top Client Question This Week Was \"Why Did The Market Not Go Down In The Face Of Incredibly...",
-          "imageUrl": null
         },
         {
           "id": "https://www.nbcchicago.com/news/local/chicago-is-the-2nd-best-city-in-the-world-according-to-a-new-list/2879464/",
@@ -71,7 +91,7 @@
           "description": "Chicago is the 2nd Best City in the World, According to a New List",
           "link": "https://www.nbcchicago.com/news/local/chicago-is-the-2nd-best-city-in-the-world-according-to-a-new-list/2879464/",
           "publishedOn": "2022-07-18T03:00:04.000Z",
-          "wordCount": 6675,
+          "wordCount": 6680,
           "title": "Chicago is the 2nd Best City in the World, According to a New List",
           "imageUrl": "https://media.nbcchicago.com/2022/06/ChicagoTripAdvisor.jpg?quality=85&strip=all&fit=1200%2C675"
         },
@@ -151,7 +171,7 @@
           "description": "Our empty oceans: Scots team's research finds Atlantic plankton all but wiped out in catastrophic loss of life",
           "link": "https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/",
           "publishedOn": "2022-07-17T22:00:03.000Z",
-          "wordCount": 6788,
+          "wordCount": 6804,
           "title": "Our empty oceans: Scots team's research finds Atlantic plankton all but wiped out in catastrophic loss of life",
           "imageUrl": "http://wpcluster.dctdigital.com/wp-content/uploads/sites/13/2022/07/Ring-in-ocean-one3ayne-scaled-e1658009197202.jpg"
         },
@@ -184,26 +204,6 @@
           "wordCount": 1462,
           "title": "GitHub - ethereum/emacs-solidity: The official solidity-mode for EMACS",
           "imageUrl": "https://opengraph.githubassets.com/4bf16b9893d384360110e446c2075bc38da515e052e9c4b2c3ba01a8d667e219/ethereum/emacs-solidity"
-        },
-        {
-          "id": "https://github.com/paulrberg/foundry-template",
-          "author": null,
-          "description": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
-          "link": "https://github.com/paulrberg/foundry-template",
-          "publishedOn": "2022-07-17T13:00:02.000Z",
-          "wordCount": 1063,
-          "title": "GitHub - paulrberg/foundry-template: Foundry-based template for developing Solidity smart contracts",
-          "imageUrl": "https://opengraph.githubassets.com/3862c4bb712d0cfbb90778fb99eb668b5916669168cb8aec58bbe6eca95adac2/paulrberg/foundry-template"
-        },
-        {
-          "id": "https://github.com/paulrberg/prb-test",
-          "author": null,
-          "description": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
-          "link": "https://github.com/paulrberg/prb-test",
-          "publishedOn": "2022-07-17T11:30:02.000Z",
-          "wordCount": 1458,
-          "title": "GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity",
-          "imageUrl": "https://opengraph.githubassets.com/77228909213e5cc3aa685268b4ffa85bff4056211300f16c4584d95b4b526c08/paulrberg/prb-test"
         }
       ]
     }
