@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T07:20:46.951Z</id>
+    <id>urn:2022-07-18T08:33:38.874Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T07:20:46.951Z</updated>
+    <updated>2022-07-18T08:33:38.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Network State: How To Start a New Country]]></title>
+        <id>https://thenetworkstate.com/</id>
+        <link href="https://thenetworkstate.com/"/>
+        <updated>2022-07-17T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[The Network State: How To Start a New Country]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Our empty oceans: Scots team's research finds Atlantic plankton all but wiped out in catastrophic loss of life]]></title>
         <id>https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/</id>
         <link href="https://www.sundaypost.com/fp/humanity-will-not-survive-extinction-of-most-marine-plants-and-animals/"/>
@@ -191,16 +201,6 @@
         <link href="https://github.com/paulrberg/prb-test"/>
         <updated>2022-07-17T11:30:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - paulrberg/prb-test: A modern collection of testing assertions and logging utilities for Solidity]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></title>
-        <id>https://revoke.cash/</id>
-        <link href="https://revoke.cash/"/>
-        <updated>2022-07-17T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
