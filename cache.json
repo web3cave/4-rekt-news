@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
+          "author": null,
+          "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
+          "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
+          "publishedOn": "2022-07-20T21:30:02.000Z",
+          "wordCount": 14786,
+          "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
+        },
+        {
+          "id": "https://open.spotify.com/episode/6rRq5CszDgtX5W08yCDf6j",
+          "author": null,
+          "description": "getty @ Interest Protocol || DAO Talk Interviews #4",
+          "link": "https://open.spotify.com/episode/6rRq5CszDgtX5W08yCDf6j",
+          "publishedOn": "2022-07-20T21:30:02.000Z",
+          "wordCount": 681,
+          "title": "getty @ Interest Protocol || DAO Talk Interviews #4",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8abcba9a83330c1040b8c6fcab"
+        },
+        {
           "id": "https://github.com/ethereum/pm/issues/569",
           "author": null,
           "description": "KZG-Ceremony Call #4 · Issue #569 · ethereum/pm",
@@ -14,6 +34,16 @@
           "wordCount": 415,
           "title": "KZG-Ceremony Call #4 · Issue #569 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/ebabf56eee23c3b2b64b945bbd69ad430dcab811e9616b24f4386861f8496415/ethereum/pm/issues/569"
+        },
+        {
+          "id": "https://desfemmesmagazine.com/blogs/news/mentorship-program",
+          "author": null,
+          "description": "Des Femmes 2022 Mentorship Program - Apply by Aug 15 👩‍🏫✍️",
+          "link": "https://desfemmesmagazine.com/blogs/news/mentorship-program",
+          "publishedOn": "2022-07-20T20:00:04.000Z",
+          "wordCount": 3085,
+          "title": "Des Femmes 2022 Mentorship Program - Apply by Aug 15 👩‍🏫✍️",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0549/2840/8708/articles/header_graphics_1200x1200.png?v=1657536430"
         },
         {
           "id": "https://blog.coinbase.com/institutional-insights-our-approach-to-crypto-financing-cf550bda891a?gi=425a1b71bdcf",
@@ -51,7 +81,7 @@
           "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "link": "https://github.com/hyperledger/besu/",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 647,
+          "wordCount": 1133,
           "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
         },
@@ -61,7 +91,7 @@
           "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "link": "https://github.com/ledgerwatch/erigon",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 3649,
+          "wordCount": 4126,
           "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
         },
@@ -71,7 +101,7 @@
           "description": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "link": "https://github.com/NethermindEth/nethermind",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 1009,
+          "wordCount": 1252,
           "title": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "imageUrl": "https://opengraph.githubassets.com/77892597afa6c3cb9df50192c73a9bb2b0e632717618674b1491fee5e1e8e408/NethermindEth/nethermind"
         },
@@ -101,7 +131,7 @@
           "description": "Making sense of recent drama in Proof of Humanity",
           "link": "https://medium.com/@ClementLesaege/making-sense-of-recent-drama-in-proof-of-humanity-ccf3082eb0fa",
           "publishedOn": "2022-07-20T15:00:04.000Z",
-          "wordCount": 8985,
+          "wordCount": 8934,
           "title": "Making sense of recent drama in Proof of Humanity",
           "imageUrl": "https://miro.medium.com/max/1025/1*AgCnK2n6EhGXE8TNoxS0FQ.png"
         },
@@ -146,16 +176,6 @@
           "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
         },
         {
-          "id": "https://mirror.xyz/ladislaus.eth/XY00FiQBunZss_SddZ7rSfYocrONdEJkM0o2NZG9Tf4",
-          "author": null,
-          "description": "FAQ: MEV and mev-boost (for node runners)",
-          "link": "https://mirror.xyz/ladislaus.eth/XY00FiQBunZss_SddZ7rSfYocrONdEJkM0o2NZG9Tf4",
-          "publishedOn": "2022-07-20T03:00:04.000Z",
-          "wordCount": 4135,
-          "title": "FAQ: MEV and mev-boost (for node runners)",
-          "imageUrl": ""
-        },
-        {
           "id": "https://ethstaker.cc/the-merge-validator-prep-workshop/",
           "author": null,
           "description": "The Merge Validator Prep Workshop",
@@ -164,16 +184,6 @@
           "wordCount": 536,
           "title": "The Merge Validator Prep Workshop",
           "imageUrl": "https://ethstaker.cc/wp-content/uploads/2022/07/ethstaker-workshop.jpeg"
-        },
-        {
-          "id": "https://www.theblock.co/post/158533/3ac-borrowed-and-repaid-more-than-2-billion-from-blockchain-com-before-outstanding-debt",
-          "author": null,
-          "description": "3AC borrowed and repaid more than $2 billion from Blockchain.com before outstanding debt",
-          "link": "https://www.theblock.co/post/158533/3ac-borrowed-and-repaid-more-than-2-billion-from-blockchain-com-before-outstanding-debt",
-          "publishedOn": "2022-07-20T03:00:04.000Z",
-          "wordCount": 78626,
-          "title": "3AC borrowed and repaid more than $2 billion from Blockchain.com before outstanding debt",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200520_Blockchain.com-WM-Daily.jpg"
         },
         {
           "id": "https://ftx.us/",
@@ -194,16 +204,6 @@
           "wordCount": 2207,
           "title": "📜Announcing the Scroll pre-alpha testnet",
           "imageUrl": "https://mirror-media.imgix.net/nft/tqlTeBgrWPhHQfC-yJz6c.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://gov.uniswap.org/t/fee-switch-design-space-next-steps/17132",
-          "author": null,
-          "description": "\"Fee Switch\" Design Space & Next Steps",
-          "link": "https://gov.uniswap.org/t/fee-switch-design-space-next-steps/17132",
-          "publishedOn": "2022-07-19T05:00:03.000Z",
-          "wordCount": 3370,
-          "title": "\"Fee Switch\" Design Space & Next Steps",
-          "imageUrl": "https://aws1.discourse-cdn.com/business6/uploads/uniswap1/original/2X/e/ec0448d11cafe2bd2ceb66ea58dcb9ed520e85fa.png"
         }
       ]
     }
