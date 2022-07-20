@@ -6,6 +6,66 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://thenetworkstate.com/dashboard",
+          "author": null,
+          "description": "The Network State Dashboard",
+          "link": "https://thenetworkstate.com/dashboard",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 524,
+          "title": "The Network State Dashboard",
+          "imageUrl": "https://assets.thenetworkstate.com/dashboard-opengraph.png"
+        },
+        {
+          "id": "https://blog.coinbase.com/institutional-insights-our-approach-to-crypto-financing-cf550bda891a?gi=425a1b71bdcf",
+          "author": null,
+          "description": "Institutional Insights: Our Approach to Crypto Financing",
+          "link": "https://blog.coinbase.com/institutional-insights-our-approach-to-crypto-financing-cf550bda891a?gi=425a1b71bdcf",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 3233,
+          "title": "Institutional Insights: Our Approach to Crypto Financing",
+          "imageUrl": "https://miro.medium.com/max/1200/0*h5mYbwCbFeXzfzAW"
+        },
+        {
+          "id": "https://github.com/MetaMask/metamask-extension/issues/15298",
+          "author": null,
+          "description": "Expand scroll area in account menu · Issue #15298 · MetaMask/metamask-extension",
+          "link": "https://github.com/MetaMask/metamask-extension/issues/15298",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 494,
+          "title": "Expand scroll area in account menu · Issue #15298 · MetaMask/metamask-extension",
+          "imageUrl": "https://opengraph.githubassets.com/fae785a32ab7d8490229c6026fddcb8c6223a50ec6390d9015255f047498306e/MetaMask/metamask-extension/issues/15298"
+        },
+        {
+          "id": "https://github.com/hyperledger/besu/",
+          "author": null,
+          "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
+          "link": "https://github.com/hyperledger/besu/",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 648,
+          "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
+          "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
+        },
+        {
+          "id": "https://github.com/ledgerwatch/erigon",
+          "author": null,
+          "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
+          "link": "https://github.com/ledgerwatch/erigon",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 3649,
+          "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
+          "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
+        },
+        {
+          "id": "https://github.com/NethermindEth/nethermind",
+          "author": null,
+          "description": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
+          "link": "https://github.com/NethermindEth/nethermind",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 1260,
+          "title": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
+          "imageUrl": "https://opengraph.githubassets.com/77892597afa6c3cb9df50192c73a9bb2b0e632717618674b1491fee5e1e8e408/NethermindEth/nethermind"
+        },
+        {
           "id": "https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73",
           "author": null,
           "description": "100 Days to Mainnet",
@@ -96,16 +156,6 @@
           "imageUrl": "https://www.ar.ca/hubfs/That%E2%80%99s%20Our%20Two%20Satoshis%E2%80%8A%E2%80%94_4-27-20.png#keepProtocol"
         },
         {
-          "id": "https://www.youtube.com/watch?v=bXSxSJigX88&feature=youtu.be",
-          "author": null,
-          "description": "lunacian summer special live! axie infinity breeding event 2022",
-          "link": "https://www.youtube.com/watch?v=bXSxSJigX88&feature=youtu.be",
-          "publishedOn": "2022-07-20T03:00:04.000Z",
-          "wordCount": null,
-          "title": "lunacian summer special live! axie infinity breeding event 2022",
-          "imageUrl": null
-        },
-        {
           "id": "https://ethstaker.cc/the-merge-validator-prep-workshop/",
           "author": null,
           "description": "The Merge Validator Prep Workshop",
@@ -121,29 +171,9 @@
           "description": "3AC borrowed and repaid more than $2 billion from Blockchain.com before outstanding debt",
           "link": "https://www.theblock.co/post/158533/3ac-borrowed-and-repaid-more-than-2-billion-from-blockchain-com-before-outstanding-debt",
           "publishedOn": "2022-07-20T03:00:04.000Z",
-          "wordCount": 78070,
+          "wordCount": 78557,
           "title": "3AC borrowed and repaid more than $2 billion from Blockchain.com before outstanding debt",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200520_Blockchain.com-WM-Daily.jpg"
-        },
-        {
-          "id": "https://smartcon.chain.link/",
-          "author": null,
-          "description": "SmartCon 2022 | The Premier Conference for Web3 Builders",
-          "link": "https://smartcon.chain.link/",
-          "publishedOn": "2022-07-20T00:00:02.000Z",
-          "wordCount": 1960,
-          "title": "SmartCon 2022 | The Premier Conference for Web3 Builders",
-          "imageUrl": "https://assets-global.website-files.com/6244869babb7c8841146a53b/62d59ba47794ddb6dcdf8326_SC22%20-%20OpenGraph%20Banner%20V2_sc22-og-home.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yi-Y_NZKeIE",
-          "author": null,
-          "description": "Bitcoin in El Salvador: Why Would Cypherpunks Support Government-Mandated Bitcoin Adoption? - Ep 375",
-          "link": "https://www.youtube.com/watch?v=yi-Y_NZKeIE",
-          "publishedOn": "2022-07-20T00:00:02.000Z",
-          "wordCount": null,
-          "title": "Bitcoin in El Salvador: Why Would Cypherpunks Support Government-Mandated Bitcoin Adoption? - Ep 375",
-          "imageUrl": null
         },
         {
           "id": "https://ftx.us/",
@@ -154,36 +184,6 @@
           "wordCount": 1510,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
           "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
-        },
-        {
-          "id": "https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820",
-          "author": null,
-          "description": "Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today",
-          "link": "https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820",
-          "publishedOn": "2022-07-19T21:00:02.000Z",
-          "wordCount": 3326,
-          "title": "Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today",
-          "imageUrl": "https://miro.medium.com/max/1200/0*JT7qXPp0QaQoKQLP"
-        },
-        {
-          "id": "https://stateful.mirror.xyz/Y1ED9RorG9OvEUXD8NBmXgYhSVhjj8H537-I2SZJkYA",
-          "author": null,
-          "description": "Beacon Book: Read and Mint now!",
-          "link": "https://stateful.mirror.xyz/Y1ED9RorG9OvEUXD8NBmXgYhSVhjj8H537-I2SZJkYA",
-          "publishedOn": "2022-07-19T21:00:02.000Z",
-          "wordCount": 23969,
-          "title": "Beacon Book: Read and Mint now!",
-          "imageUrl": "https://mirror-media.imgix.net/nft/1e10ea96-6c94-422b-81ec-e65a741c9862.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://blog.synthetix.io/susd-bridge-enabled/",
-          "author": null,
-          "description": "The sUSD Bridge has been enabled",
-          "link": "https://blog.synthetix.io/susd-bridge-enabled/",
-          "publishedOn": "2022-07-19T20:30:03.000Z",
-          "wordCount": 1040,
-          "title": "The sUSD Bridge has been enabled",
-          "imageUrl": "https://blog.synthetix.io/content/images/2022/07/sUSDBridge.png"
         },
         {
           "id": "https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
