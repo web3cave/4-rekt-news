@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T13:46:24.111Z</id>
+    <id>urn:2022-07-20T14:23:05.139Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T13:46:24.111Z</updated>
+    <updated>2022-07-20T14:23:05.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Contributing]]></title>
+        <id>https://websockets.readthedocs.io/en/stable/project/contributing.html</id>
+        <link href="https://websockets.readthedocs.io/en/stable/project/contributing.html"/>
+        <updated>2022-07-20T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Contributing]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EthCC LIVE - at interspace.chat]]></title>
         <id>https://ethcc.interspace.chat/</id>
@@ -151,16 +161,6 @@
         <link href="https://www.youtube.com/watch?v=YfHNmYRxdUw&amp;feature=youtu.be"/>
         <updated>2022-07-19T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Mudit Gupta - The Security Trilemma]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation]]></title>
-        <id>https://www.w3.org/2022/07/pressrelease-did-rec.html.en</id>
-        <link href="https://www.w3.org/2022/07/pressrelease-did-rec.html.en"/>
-        <updated>2022-07-19T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
