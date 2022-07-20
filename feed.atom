@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-20T06:27:59.531Z</id>
+    <id>urn:2022-07-20T07:20:33.322Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-20T06:27:59.531Z</updated>
+    <updated>2022-07-20T07:20:33.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Multicoin Capital: Protocols don’t capture value, DAOs manage risk]]></title>
+        <id>https://multicoin.capital/2021/09/16/daos-manage-risk/</id>
+        <link href="https://multicoin.capital/2021/09/16/daos-manage-risk/"/>
+        <updated>2022-07-20T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Multicoin Capital: Protocols don’t capture value, DAOs manage risk]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FAQ: MEV and mev-boost (for node runners)]]></title>
         <id>https://mirror.xyz/ladislaus.eth/XY00FiQBunZss_SddZ7rSfYocrONdEJkM0o2NZG9Tf4</id>
@@ -66,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prop House]]></title>
-        <id>https://prop.house/</id>
-        <link href="https://prop.house/"/>
-        <updated>2022-07-20T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Prop House]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SmartCon 2022 | The Premier Conference for Web3 Builders]]></title>
         <id>https://smartcon.chain.link/</id>
         <link href="https://smartcon.chain.link/"/>
@@ -96,21 +96,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today]]></title>
-        <id>https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820</id>
-        <link href="https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820"/>
-        <updated>2022-07-19T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></title>
         <id>https://ftx.us/</id>
         <link href="https://ftx.us/"/>
         <updated>2022-07-19T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today]]></title>
+        <id>https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820</id>
+        <link href="https://medium.com/across-protocol/across-referral-program-is-now-live-how-you-can-farm-acx-tokens-today-695019797820"/>
+        <updated>2022-07-19T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Across’ Referral Program Is Now Live: How You Can Farm $ACX Tokens Today]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
