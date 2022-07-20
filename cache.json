@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://expopulus.medium.com/final-form-entering-early-access-soon-c4ee8686493f",
+          "author": null,
+          "description": "Final Form Entering Early Access Soon",
+          "link": "https://expopulus.medium.com/final-form-entering-early-access-soon-c4ee8686493f",
+          "publishedOn": "2022-07-20T23:00:02.000Z",
+          "wordCount": 2527,
+          "title": "Final Form Entering Early Access Soon",
+          "imageUrl": "https://miro.medium.com/max/1200/1*pGdP_XGraDWrroCdGt8xlw.png"
+        },
+        {
           "id": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "author": null,
           "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "publishedOn": "2022-07-20T21:30:02.000Z",
-          "wordCount": 14786,
+          "wordCount": 14830,
           "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
         },
@@ -81,7 +91,7 @@
           "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "link": "https://github.com/hyperledger/besu/",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 1133,
+          "wordCount": 647,
           "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
         },
@@ -91,7 +101,7 @@
           "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "link": "https://github.com/ledgerwatch/erigon",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 4126,
+          "wordCount": 3649,
           "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
         },
@@ -101,7 +111,7 @@
           "description": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "link": "https://github.com/NethermindEth/nethermind",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 1252,
+          "wordCount": 1009,
           "title": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "imageUrl": "https://opengraph.githubassets.com/77892597afa6c3cb9df50192c73a9bb2b0e632717618674b1491fee5e1e8e408/NethermindEth/nethermind"
         },
@@ -114,16 +124,6 @@
           "wordCount": 3396,
           "title": "100 Days to Mainnet",
           "imageUrl": "https://miro.medium.com/max/1200/0*cTZueoysSpW4d2NC"
-        },
-        {
-          "id": "https://nexustracker.io/",
-          "author": null,
-          "description": "Nexus Mutual Tracker",
-          "link": "https://nexustracker.io/",
-          "publishedOn": "2022-07-20T15:30:02.000Z",
-          "wordCount": 114,
-          "title": "Nexus Mutual Tracker",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/@ClementLesaege/making-sense-of-recent-drama-in-proof-of-humanity-ccf3082eb0fa",
