@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/three-things-traders-will-be-watching-ecb-today",
+          "author": null,
+          "description": "Three Things Traders Will Be Watching For From The ECB Today | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/three-things-traders-will-be-watching-ecb-today",
+          "publishedOn": "2022-07-21T13:00:02.000Z",
+          "wordCount": 1234,
+          "title": "Three Things Traders Will Be Watching For From The ECB Today | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/draghi-resigns-premier-plunging-italy-new-political-crisis-euro-bonds-slide",
+          "author": null,
+          "description": "Draghi Resigns As Premier, Plunging Italy Into New Political Crisis; Euro, Bonds, Stocks Slide | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/draghi-resigns-premier-plunging-italy-new-political-crisis-euro-bonds-slide",
+          "publishedOn": "2022-07-21T13:00:02.000Z",
+          "wordCount": 1766,
+          "title": "Draghi Resigns As Premier, Plunging Italy Into New Political Crisis; Euro, Bonds, Stocks Slide | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://stakewise.medium.com/stakewise-purchases-slashing-cover-from-nexus-mutual-a80a5d7a1159",
           "author": null,
           "description": "StakeWise Purchases Slashing Cover From Nexus Mutual",
@@ -16,13 +36,13 @@
           "imageUrl": "https://miro.medium.com/max/1110/0*nMsD7oEarF2huAsL"
         },
         {
-          "id": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
+          "id": "https://www.ensgrants.xyz/",
           "author": null,
-          "description": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
-          "publishedOn": "2022-07-21T03:30:03.000Z",
-          "wordCount": null,
-          "title": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
+          "description": "ENS Small Grants",
+          "link": "https://www.ensgrants.xyz/",
+          "publishedOn": "2022-07-21T06:30:03.000Z",
+          "wordCount": 24,
+          "title": "ENS Small Grants",
           "imageUrl": null
         },
         {
@@ -31,7 +51,7 @@
           "description": "Tesla sold $936 million in bitcoin in the second quarter",
           "link": "https://www.theblock.co/post/158765/tesla-sold-936-million-in-bitcoin-in-the-second-quarter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-21T03:00:03.000Z",
-          "wordCount": 77749,
+          "wordCount": 76195,
           "title": "Tesla sold $936 million in bitcoin in the second quarter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210208_Bitcoin-Tesla-Elon-Musk.jpg"
         },
@@ -41,7 +61,7 @@
           "description": "The Credit Crunch Is Not the End of Crypto Lending",
           "link": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
           "publishedOn": "2022-07-21T01:00:02.000Z",
-          "wordCount": 17404,
+          "wordCount": 18176,
           "title": "The Credit Crunch Is Not the End of Crypto Lending",
           "imageUrl": "https://www.coindesk.com/resizer/OU4gpXxfMY1C1x7S94TQMqKYLwc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5GM3T7EFZBS3NMPAVDJVR2HUY.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "publishedOn": "2022-07-20T21:30:02.000Z",
-          "wordCount": 14615,
+          "wordCount": 14722,
           "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
         },
@@ -131,7 +151,7 @@
           "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "link": "https://github.com/hyperledger/besu/",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 647,
+          "wordCount": 1179,
           "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
           "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
         },
@@ -141,7 +161,7 @@
           "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "link": "https://github.com/ledgerwatch/erigon",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 3629,
+          "wordCount": 4130,
           "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
           "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
         },
@@ -151,7 +171,7 @@
           "description": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "link": "https://github.com/NethermindEth/nethermind",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 1023,
+          "wordCount": 987,
           "title": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
           "imageUrl": "https://opengraph.githubassets.com/77892597afa6c3cb9df50192c73a9bb2b0e632717618674b1491fee5e1e8e408/NethermindEth/nethermind"
         },
@@ -174,26 +194,6 @@
           "wordCount": 3396,
           "title": "100 Days to Mainnet",
           "imageUrl": "https://miro.medium.com/max/1200/0*cTZueoysSpW4d2NC"
-        },
-        {
-          "id": "https://websockets.readthedocs.io/en/stable/project/contributing.html",
-          "author": null,
-          "description": "Contributing",
-          "link": "https://websockets.readthedocs.io/en/stable/project/contributing.html",
-          "publishedOn": "2022-07-20T14:00:04.000Z",
-          "wordCount": 652,
-          "title": "Contributing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ethcc.interspace.chat/",
-          "author": null,
-          "description": "EthCC LIVE - at interspace.chat",
-          "link": "https://ethcc.interspace.chat/",
-          "publishedOn": "2022-07-20T11:00:02.000Z",
-          "wordCount": 42,
-          "title": "EthCC LIVE - at interspace.chat",
-          "imageUrl": null
         },
         {
           "id": "https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
