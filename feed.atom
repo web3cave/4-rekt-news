@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-21T08:27:43.131Z</id>
+    <id>urn:2022-07-21T09:21:20.424Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-21T08:27:43.131Z</updated>
+    <updated>2022-07-21T09:21:20.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/"/>
         <updated>2022-07-21T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[The Credit Crunch Is Not the End of Crypto Lending]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase]]></title>
-        <id>https://www.coindesk.com/business/2022/07/20/binanceus-starts-affiliate-marketing-program-taking-aim-at-coinbase/</id>
-        <link href="https://www.coindesk.com/business/2022/07/20/binanceus-starts-affiliate-marketing-program-taking-aim-at-coinbase/"/>
-        <updated>2022-07-21T00:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,6 +141,16 @@
         <link href="https://github.com/ledgerwatch/erigon"/>
         <updated>2022-07-20T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...]]></title>
+        <id>https://github.com/NethermindEth/nethermind</id>
+        <link href="https://github.com/NethermindEth/nethermind"/>
+        <updated>2022-07-20T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
