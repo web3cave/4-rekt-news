@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://nexustracker.io/",
+          "id": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
           "author": null,
-          "description": "Nexus Mutual Tracker",
-          "link": "https://nexustracker.io/",
-          "publishedOn": "2022-07-21T02:00:03.000Z",
-          "wordCount": 114,
-          "title": "Nexus Mutual Tracker",
+          "description": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
+          "publishedOn": "2022-07-21T03:30:03.000Z",
+          "wordCount": null,
+          "title": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/158765/tesla-sold-936-million-in-bitcoin-in-the-second-quarter?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Tesla sold $936 million in bitcoin in the second quarter",
+          "link": "https://www.theblock.co/post/158765/tesla-sold-936-million-in-bitcoin-in-the-second-quarter?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-07-21T03:00:03.000Z",
+          "wordCount": 78240,
+          "title": "Tesla sold $936 million in bitcoin in the second quarter",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210208_Bitcoin-Tesla-Elon-Musk.jpg"
         },
         {
           "id": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
@@ -21,7 +31,7 @@
           "description": "The Credit Crunch Is Not the End of Crypto Lending",
           "link": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
           "publishedOn": "2022-07-21T01:00:02.000Z",
-          "wordCount": 20430,
+          "wordCount": 20446,
           "title": "The Credit Crunch Is Not the End of Crypto Lending",
           "imageUrl": "https://www.coindesk.com/resizer/OU4gpXxfMY1C1x7S94TQMqKYLwc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5GM3T7EFZBS3NMPAVDJVR2HUY.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase",
           "link": "https://www.coindesk.com/business/2022/07/20/binanceus-starts-affiliate-marketing-program-taking-aim-at-coinbase/",
           "publishedOn": "2022-07-21T00:30:03.000Z",
-          "wordCount": 17122,
+          "wordCount": 17139,
           "title": "Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase",
           "imageUrl": "https://www.coindesk.com/resizer/z6YukiTW-kTEkEsbrFSckFbAW_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WRBJSXAGTJCXZEKHIQSBEVERAM.jpeg"
         },
@@ -41,7 +51,7 @@
           "description": "Front-running The Regen Opportunity 🌱",
           "link": "https://newsletter.banklesshq.com/p/gitcoin-climate-change-impact-crypto",
           "publishedOn": "2022-07-21T00:00:03.000Z",
-          "wordCount": 5771,
+          "wordCount": 5977,
           "title": "Front-running The Regen Opportunity 🌱",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5039b6f0-2981-4b98-b3e1-8d2ef3df8d53_2668x1501.jpeg"
         },
@@ -61,7 +71,7 @@
           "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "publishedOn": "2022-07-20T21:30:02.000Z",
-          "wordCount": 14728,
+          "wordCount": 14815,
           "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
         },
@@ -116,6 +126,26 @@
           "imageUrl": "https://opengraph.githubassets.com/b4da93cd1e573389b6643caec54291f91512f2268aada7478bed3373b583f415/MetaMask/metamask-extension/issues/15298"
         },
         {
+          "id": "https://github.com/hyperledger/besu/",
+          "author": null,
+          "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
+          "link": "https://github.com/hyperledger/besu/",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 647,
+          "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
+          "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
+        },
+        {
+          "id": "https://github.com/ledgerwatch/erigon",
+          "author": null,
+          "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
+          "link": "https://github.com/ledgerwatch/erigon",
+          "publishedOn": "2022-07-20T19:00:03.000Z",
+          "wordCount": 3673,
+          "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
+          "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
+        },
+        {
           "id": "https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73",
           "author": null,
           "description": "100 Days to Mainnet",
@@ -124,16 +154,6 @@
           "wordCount": 3396,
           "title": "100 Days to Mainnet",
           "imageUrl": "https://miro.medium.com/max/1200/0*cTZueoysSpW4d2NC"
-        },
-        {
-          "id": "https://medium.com/@ClementLesaege/making-sense-of-recent-drama-in-proof-of-humanity-ccf3082eb0fa",
-          "author": null,
-          "description": "Making sense of recent drama in Proof of Humanity",
-          "link": "https://medium.com/@ClementLesaege/making-sense-of-recent-drama-in-proof-of-humanity-ccf3082eb0fa",
-          "publishedOn": "2022-07-20T15:00:04.000Z",
-          "wordCount": 8985,
-          "title": "Making sense of recent drama in Proof of Humanity",
-          "imageUrl": "https://miro.medium.com/max/1025/1*AgCnK2n6EhGXE8TNoxS0FQ.png"
         },
         {
           "id": "https://websockets.readthedocs.io/en/stable/project/contributing.html",
@@ -166,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://multicoin.capital/2021/09/16/daos-manage-risk/",
-          "author": null,
-          "description": "Multicoin Capital: Protocols don’t capture value, DAOs manage risk",
-          "link": "https://multicoin.capital/2021/09/16/daos-manage-risk/",
-          "publishedOn": "2022-07-20T07:00:03.000Z",
-          "wordCount": 3790,
-          "title": "Multicoin Capital: Protocols don’t capture value, DAOs manage risk",
-          "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
-        },
-        {
           "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -184,16 +194,6 @@
           "wordCount": 1510,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
           "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
-        },
-        {
-          "id": "https://members.delphidigital.io/reports/uniswap-vs-curve-which-is-the-best-dex",
-          "author": null,
-          "description": "Delphi Digital",
-          "link": "https://members.delphidigital.io/reports/uniswap-vs-curve-which-is-the-best-dex",
-          "publishedOn": "2022-07-19T21:00:02.000Z",
-          "wordCount": 4832,
-          "title": "Delphi Digital",
-          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/07/Curve-v2-vs-Uni-v3-Cover-v1.png"
         },
         {
           "id": "https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
