@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sybil.org/",
+          "author": null,
+          "description": "Sybil",
+          "link": "https://sybil.org/",
+          "publishedOn": "2022-07-21T17:00:09.000Z",
+          "wordCount": 62,
+          "title": "Sybil",
+          "imageUrl": null
+        },
+        {
+          "id": "https://members.delphidigital.io/reports/the-future-of-crypto-gaming",
+          "author": null,
+          "description": "Delphi Digital",
+          "link": "https://members.delphidigital.io/reports/the-future-of-crypto-gaming",
+          "publishedOn": "2022-07-21T17:00:09.000Z",
+          "wordCount": 13447,
+          "title": "Delphi Digital",
+          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/07/PlayFi-Comp-Cover-Final.png"
+        },
+        {
+          "id": "https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/",
+          "author": null,
+          "description": "DoD Announces the Establishment of the All-domain Anomaly Resolution Office",
+          "link": "https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/",
+          "publishedOn": "2022-07-21T17:00:09.000Z",
+          "wordCount": 1297,
+          "title": "DoD Announces the Establishment of the All-domain Anomaly Resolution Office",
+          "imageUrl": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG"
+        },
+        {
           "id": "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220721~973e6e7273.en.html",
           "author": null,
           "description": "The Transmission Protection Instrument",
@@ -21,19 +51,9 @@
           "description": "1LQoWist8KkaUXSPKZHNvEyfrEkPHzSsCd - Bitcoin Address",
           "link": "https://bitinfocharts.com/bitcoin/address/1LQoWist8KkaUXSPKZHNvEyfrEkPHzSsCd",
           "publishedOn": "2022-07-21T15:00:03.000Z",
-          "wordCount": 5636,
+          "wordCount": 5638,
           "title": "1LQoWist8KkaUXSPKZHNvEyfrEkPHzSsCd - Bitcoin Address",
           "imageUrl": "https://bitinfocharts.com/logo-1201.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
-          "author": null,
-          "description": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=sLJv9AUonDo&feature=youtu.be",
-          "publishedOn": "2022-07-21T14:30:03.000Z",
-          "wordCount": null,
-          "title": "Polygon zkEVM announced, Gitcoin Passport detailed - The Daily Gwei Refuel #410 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://www.coindesk.com/tech/2022/07/21/ethereums-kaleido-collaborates-with-polygon-for-web3-adoption/",
@@ -41,7 +61,7 @@
           "description": "Ethereum’s Kaleido Collaborates With Polygon for Web3 Adoption",
           "link": "https://www.coindesk.com/tech/2022/07/21/ethereums-kaleido-collaborates-with-polygon-for-web3-adoption/",
           "publishedOn": "2022-07-21T14:30:02.000Z",
-          "wordCount": 15107,
+          "wordCount": 13960,
           "title": "Ethereum’s Kaleido Collaborates With Polygon for Web3 Adoption",
           "imageUrl": "https://www.coindesk.com/resizer/zlpPkMheJ7pfOhNXCNMf4QeN0D4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H6OYDUF345EJFAIDKKAZ7G67M4"
         },
@@ -64,16 +84,6 @@
           "wordCount": 1766,
           "title": "Draghi Resigns As Premier, Plunging Italy Into New Political Crisis; Euro, Bonds, Stocks Slide | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/spec/01_state.md",
-          "author": null,
-          "description": "cosmos-sdk/01_state.md at main · cosmos/cosmos-sdk",
-          "link": "https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/spec/01_state.md",
-          "publishedOn": "2022-07-21T09:30:02.000Z",
-          "wordCount": 390,
-          "title": "cosmos-sdk/01_state.md at main · cosmos/cosmos-sdk",
-          "imageUrl": "https://opengraph.githubassets.com/632dade2280f184e39e69eefa2ad486f00b9fd3b608bbc565ebecc2cc57f8847/cosmos/cosmos-sdk"
         },
         {
           "id": "https://stakewise.medium.com/stakewise-purchases-slashing-cover-from-nexus-mutual-a80a5d7a1159",
@@ -101,7 +111,7 @@
           "description": "Tesla sold $936 million in bitcoin in the second quarter",
           "link": "https://www.theblock.co/post/158765/tesla-sold-936-million-in-bitcoin-in-the-second-quarter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-21T03:00:03.000Z",
-          "wordCount": 76596,
+          "wordCount": 77486,
           "title": "Tesla sold $936 million in bitcoin in the second quarter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210208_Bitcoin-Tesla-Elon-Musk.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "The Credit Crunch Is Not the End of Crypto Lending",
           "link": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
           "publishedOn": "2022-07-21T01:00:02.000Z",
-          "wordCount": 18185,
+          "wordCount": 16987,
           "title": "The Credit Crunch Is Not the End of Crypto Lending",
           "imageUrl": "https://www.coindesk.com/resizer/OU4gpXxfMY1C1x7S94TQMqKYLwc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5GM3T7EFZBS3NMPAVDJVR2HUY.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "publishedOn": "2022-07-20T21:30:02.000Z",
-          "wordCount": 14679,
+          "wordCount": 14637,
           "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
         },
@@ -184,16 +194,6 @@
           "wordCount": 614,
           "title": "Expand scroll area in account menu · Issue #15298 · MetaMask/metamask-extension",
           "imageUrl": "https://opengraph.githubassets.com/b4da93cd1e573389b6643caec54291f91512f2268aada7478bed3373b583f415/MetaMask/metamask-extension/issues/15298"
-        },
-        {
-          "id": "https://www.whatbitcoindid.com/podcast/the-role-of-bitcoin-maximalism",
-          "author": null,
-          "description": "The Role of Bitcoin Maximalism with Udi Wertheimer — What Bitcoin Did",
-          "link": "https://www.whatbitcoindid.com/podcast/the-role-of-bitcoin-maximalism",
-          "publishedOn": "2022-07-20T19:00:02.000Z",
-          "wordCount": 1390,
-          "title": "The Role of Bitcoin Maximalism with Udi Wertheimer — What Bitcoin Did",
-          "imageUrl": "http://static1.squarespace.com/static/59641a28ff7c5099c12a5eda/5a1830d2f9619afa6af38f18/62d7de3c09c72c36f8373210/1658322362156/WBD529+-+Udi+Wertheimer+-+Large+Banner.png?format=1500w"
         },
         {
           "id": "https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73",
