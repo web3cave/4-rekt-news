@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nexustracker.io/",
+          "author": null,
+          "description": "Nexus Mutual Tracker",
+          "link": "https://nexustracker.io/",
+          "publishedOn": "2022-07-21T02:00:03.000Z",
+          "wordCount": 114,
+          "title": "Nexus Mutual Tracker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
+          "author": null,
+          "description": "The Credit Crunch Is Not the End of Crypto Lending",
+          "link": "https://www.coindesk.com/layer2/2022/07/20/the-credit-crunch-is-not-the-end-of-crypto-lending/",
+          "publishedOn": "2022-07-21T01:00:02.000Z",
+          "wordCount": 20430,
+          "title": "The Credit Crunch Is Not the End of Crypto Lending",
+          "imageUrl": "https://www.coindesk.com/resizer/OU4gpXxfMY1C1x7S94TQMqKYLwc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5GM3T7EFZBS3NMPAVDJVR2HUY.jpg"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/07/20/binanceus-starts-affiliate-marketing-program-taking-aim-at-coinbase/",
+          "author": null,
+          "description": "Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase",
+          "link": "https://www.coindesk.com/business/2022/07/20/binanceus-starts-affiliate-marketing-program-taking-aim-at-coinbase/",
+          "publishedOn": "2022-07-21T00:30:03.000Z",
+          "wordCount": 17122,
+          "title": "Binance.US Starts Affiliate Marketing Program Taking Aim at Coinbase",
+          "imageUrl": "https://www.coindesk.com/resizer/z6YukiTW-kTEkEsbrFSckFbAW_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WRBJSXAGTJCXZEKHIQSBEVERAM.jpeg"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/gitcoin-climate-change-impact-crypto",
+          "author": null,
+          "description": "Front-running The Regen Opportunity 🌱",
+          "link": "https://newsletter.banklesshq.com/p/gitcoin-climate-change-impact-crypto",
+          "publishedOn": "2022-07-21T00:00:03.000Z",
+          "wordCount": 5771,
+          "title": "Front-running The Regen Opportunity 🌱",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5039b6f0-2981-4b98-b3e1-8d2ef3df8d53_2668x1501.jpeg"
+        },
+        {
           "id": "https://expopulus.medium.com/final-form-entering-early-access-soon-c4ee8686493f",
           "author": null,
           "description": "Final Form Entering Early Access Soon",
@@ -21,7 +61,7 @@
           "description": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "link": "https://finance.yahoo.com/news/tesla-q2-earnings-2022-201008978.html",
           "publishedOn": "2022-07-20T21:30:02.000Z",
-          "wordCount": 14830,
+          "wordCount": 14728,
           "title": "Tesla earnings meet Q2 expectations, sells 75% of its Bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/ewUiLaj_XQJmUPH4NTGrPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/0fe8c130-077a-11ed-bdfe-6a3b92ea4565"
         },
@@ -46,22 +86,12 @@
           "imageUrl": "https://opengraph.githubassets.com/ebabf56eee23c3b2b64b945bbd69ad430dcab811e9616b24f4386861f8496415/ethereum/pm/issues/569"
         },
         {
-          "id": "https://desfemmesmagazine.com/blogs/news/mentorship-program",
-          "author": null,
-          "description": "Des Femmes 2022 Mentorship Program - Apply by Aug 15 👩‍🏫✍️",
-          "link": "https://desfemmesmagazine.com/blogs/news/mentorship-program",
-          "publishedOn": "2022-07-20T20:00:04.000Z",
-          "wordCount": 3085,
-          "title": "Des Femmes 2022 Mentorship Program - Apply by Aug 15 👩‍🏫✍️",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/0549/2840/8708/articles/header_graphics_1200x1200.png?v=1657536430"
-        },
-        {
           "id": "https://blog.coinbase.com/institutional-insights-our-approach-to-crypto-financing-cf550bda891a?gi=425a1b71bdcf",
           "author": null,
           "description": "Institutional Insights: Our Approach to Crypto Financing",
           "link": "https://blog.coinbase.com/institutional-insights-our-approach-to-crypto-financing-cf550bda891a?gi=425a1b71bdcf",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 3233,
+          "wordCount": 3225,
           "title": "Institutional Insights: Our Approach to Crypto Financing",
           "imageUrl": "https://miro.medium.com/max/1200/0*h5mYbwCbFeXzfzAW"
         },
@@ -81,39 +111,9 @@
           "description": "Expand scroll area in account menu · Issue #15298 · MetaMask/metamask-extension",
           "link": "https://github.com/MetaMask/metamask-extension/issues/15298",
           "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 604,
+          "wordCount": 614,
           "title": "Expand scroll area in account menu · Issue #15298 · MetaMask/metamask-extension",
           "imageUrl": "https://opengraph.githubassets.com/b4da93cd1e573389b6643caec54291f91512f2268aada7478bed3373b583f415/MetaMask/metamask-extension/issues/15298"
-        },
-        {
-          "id": "https://github.com/hyperledger/besu/",
-          "author": null,
-          "description": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
-          "link": "https://github.com/hyperledger/besu/",
-          "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 647,
-          "title": "GitHub - hyperledger/besu: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client...",
-          "imageUrl": "https://repository-images.githubusercontent.com/206414745/a9aaa900-127c-11ea-8095-5139ce4e7a09"
-        },
-        {
-          "id": "https://github.com/ledgerwatch/erigon",
-          "author": null,
-          "description": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
-          "link": "https://github.com/ledgerwatch/erigon",
-          "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 3649,
-          "title": "GitHub - ledgerwatch/erigon: Ethereum implementation on the efficiency frontier",
-          "imageUrl": "https://repository-images.githubusercontent.com/188836864/283052df-f2a1-4d53-9ef6-40dffec6aba1"
-        },
-        {
-          "id": "https://github.com/NethermindEth/nethermind",
-          "author": null,
-          "description": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
-          "link": "https://github.com/NethermindEth/nethermind",
-          "publishedOn": "2022-07-20T19:00:03.000Z",
-          "wordCount": 1009,
-          "title": "GitHub - NethermindEth/nethermind: Our flagship .NET Core Ethereum client for Linux, Windows, MacOs - full and...",
-          "imageUrl": "https://opengraph.githubassets.com/77892597afa6c3cb9df50192c73a9bb2b0e632717618674b1491fee5e1e8e408/NethermindEth/nethermind"
         },
         {
           "id": "https://matterlabs.medium.com/100-days-to-mainnet-6f230893bd73",
@@ -131,7 +131,7 @@
           "description": "Making sense of recent drama in Proof of Humanity",
           "link": "https://medium.com/@ClementLesaege/making-sense-of-recent-drama-in-proof-of-humanity-ccf3082eb0fa",
           "publishedOn": "2022-07-20T15:00:04.000Z",
-          "wordCount": 8934,
+          "wordCount": 8985,
           "title": "Making sense of recent drama in Proof of Humanity",
           "imageUrl": "https://miro.medium.com/max/1025/1*AgCnK2n6EhGXE8TNoxS0FQ.png"
         },
@@ -176,16 +176,6 @@
           "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
         },
         {
-          "id": "https://ethstaker.cc/the-merge-validator-prep-workshop/",
-          "author": null,
-          "description": "The Merge Validator Prep Workshop",
-          "link": "https://ethstaker.cc/the-merge-validator-prep-workshop/",
-          "publishedOn": "2022-07-20T03:00:04.000Z",
-          "wordCount": 536,
-          "title": "The Merge Validator Prep Workshop",
-          "imageUrl": "https://ethstaker.cc/wp-content/uploads/2022/07/ethstaker-workshop.jpeg"
-        },
-        {
           "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -194,6 +184,16 @@
           "wordCount": 1510,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
           "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
+        },
+        {
+          "id": "https://members.delphidigital.io/reports/uniswap-vs-curve-which-is-the-best-dex",
+          "author": null,
+          "description": "Delphi Digital",
+          "link": "https://members.delphidigital.io/reports/uniswap-vs-curve-which-is-the-best-dex",
+          "publishedOn": "2022-07-19T21:00:02.000Z",
+          "wordCount": 4832,
+          "title": "Delphi Digital",
+          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/07/Curve-v2-vs-Uni-v3-Cover-v1.png"
         },
         {
           "id": "https://mirror.xyz/scroll.eth/XQyXDgyxoefag6hcBgGJFz8qrb10rmSU-zUBvY3Q9_A",
