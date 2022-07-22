@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=iWYzWkAW_0w&feature=youtu.be",
+          "id": "https://interchainsecurity.dev/",
           "author": null,
-          "description": "zkSync 2.0 update, Exciting Ethereum things and more - The Daily Gwei Refuel #411 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=iWYzWkAW_0w&feature=youtu.be",
-          "publishedOn": "2022-07-22T13:00:03.000Z",
-          "wordCount": null,
-          "title": "zkSync 2.0 update, Exciting Ethereum things and more - The Daily Gwei Refuel #411 - Ethereum Updates",
+          "description": "Interchain Security by Informal Systems",
+          "link": "https://interchainsecurity.dev/",
+          "publishedOn": "2022-07-22T15:00:03.000Z",
+          "wordCount": 617,
+          "title": "Interchain Security by Informal Systems",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UIJ5wpLHodo",
+          "author": null,
+          "description": "Ape Tax Remix - Rekt Records",
+          "link": "https://www.youtube.com/watch?v=UIJ5wpLHodo",
+          "publishedOn": "2022-07-22T15:00:03.000Z",
+          "wordCount": null,
+          "title": "Ape Tax Remix - Rekt Records",
+          "imageUrl": null
+        },
+        {
+          "id": "https://polynya.mirror.xyz/sA0qPEbQ99HXCEXEi3BW34HXohMpLyDDM1a4AJhCF4E",
+          "author": null,
+          "description": "4844 and Done",
+          "link": "https://polynya.mirror.xyz/sA0qPEbQ99HXCEXEi3BW34HXohMpLyDDM1a4AJhCF4E",
+          "publishedOn": "2022-07-22T07:00:03.000Z",
+          "wordCount": 2879,
+          "title": "4844 and Done",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1516950485336424450/r6qhrulR_normal.jpg"
         },
         {
           "id": "https://axie.substack.com/p/customlunaciancodes",
@@ -24,16 +44,6 @@
           "wordCount": 1178,
           "title": "Custom Lunacian Codes Are Here!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1283cadb-762c-48b3-ba21-c33303ce44cd_2400x1350.jpeg"
-        },
-        {
-          "id": "https://cryptohayes.medium.com/excalibur-44b2822dc4e6",
-          "author": null,
-          "description": "Excalibur",
-          "link": "https://cryptohayes.medium.com/excalibur-44b2822dc4e6",
-          "publishedOn": "2022-07-22T03:00:02.000Z",
-          "wordCount": 14651,
-          "title": "Excalibur",
-          "imageUrl": "https://miro.medium.com/max/400/0*s2Sbdhw_U8KvXf2C"
         },
         {
           "id": "https://smartcon.chain.link/?&utm_medium=organic-social&utm_source=twitter-chainlink&utm_campaign=smartcon2022",
@@ -56,22 +66,12 @@
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/uyXbMncHRX4"
         },
         {
-          "id": "https://www.youtube.com/watch?v=6roeoukWykI&feature=youtu.be",
-          "author": null,
-          "description": "Speed Run Ethereum with Austin Griffith | Green Pill #29",
-          "link": "https://www.youtube.com/watch?v=6roeoukWykI&feature=youtu.be",
-          "publishedOn": "2022-07-21T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Speed Run Ethereum with Austin Griffith | Green Pill #29",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/158998/curve-finance-founder-implies-a-stablecoin-is-on-its-way?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Curve Finance founder implies a stablecoin is on its way",
           "link": "https://www.theblock.co/post/158998/curve-finance-founder-implies-a-stablecoin-is-on-its-way?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-21T21:00:03.000Z",
-          "wordCount": 80815,
+          "wordCount": 79989,
           "title": "Curve Finance founder implies a stablecoin is on its way",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220531_Coin-Solar-Renewable-Climate-1.jpg"
         },
@@ -81,7 +81,7 @@
           "description": "SEC lists nine crypto tokens as securities following Coinbase insider trading charges",
           "link": "https://www.theblock.co/post/158973/sec-lists-nine-crypto-tokens-as-securities-following-coinbase-insider-trading-charges?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-21T21:00:03.000Z",
-          "wordCount": 80622,
+          "wordCount": 79812,
           "title": "SEC lists nine crypto tokens as securities following Coinbase insider trading charges",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211029_SEC_General4.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "Sablier Expands to Ronin Chain",
           "link": "https://medium.com/sablier/sablier-expands-to-ronin-chain-9316b500ed15",
           "publishedOn": "2022-07-21T19:00:03.000Z",
-          "wordCount": 1497,
+          "wordCount": 1852,
           "title": "Sablier Expands to Ronin Chain",
           "imageUrl": "https://miro.medium.com/max/1200/1*D3umk-mVjdAxuzDJJ7Q5RQ.png"
         },
