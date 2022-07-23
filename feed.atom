@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-23T03:54:57.420Z</id>
+    <id>urn:2022-07-23T04:36:41.825Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-23T03:54:57.420Z</updated>
+    <updated>2022-07-23T04:36:41.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkNetCC – July 22, 2022]]></title>
+        <id>https://www.starknet.cc/</id>
+        <link href="https://www.starknet.cc/"/>
+        <updated>2022-07-23T04:30:03.000Z</updated>
+        <summary type="html"><![CDATA[StarkNetCC – July 22, 2022]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What the Next Exciting Crypto Opportunities Look Like w/ Mike Dudas]]></title>
         <id>https://open.spotify.com/episode/6IXe8GrYjoZ3B8LzPuBGUD?si=TY6OnSv7Sv6S8r55CHW6Vg</id>
@@ -171,16 +181,6 @@
         <link href="https://www.oma3.org/"/>
         <updated>2022-07-22T12:30:03.000Z</updated>
         <summary type="html"><![CDATA[OMA3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[forward packets by prioritization in desc order by taozhu-chicago · Pull Request #25406 · solana-labs/solana]]></title>
-        <id>https://github.com/solana-labs/solana/pull/25406</id>
-        <link href="https://github.com/solana-labs/solana/pull/25406"/>
-        <updated>2022-07-22T07:30:04.000Z</updated>
-        <summary type="html"><![CDATA[forward packets by prioritization in desc order by taozhu-chicago · Pull Request #25406 · solana-labs/solana]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
