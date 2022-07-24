@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://defillama.com/chain/Ethereum",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/chain/Ethereum",
+          "publishedOn": "2022-07-24T16:30:02.000Z",
+          "wordCount": 2456,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/Ethereum.jpeg?theme=dark&valueHeader=Total+Value+Locked&tvl=%2455.91b&volumeChange=%2B1.15%25&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg&images=https%3A%2F%2Fdefillama.com%2Fchain-icons%2Frsz_ethereum.jpg"
+        },
+        {
+          "id": "https://www.theblock.co/post/159308/hacker-pockets-1-1-million-after-stealing-from-music-streaming-protocol-audius?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Hacker pockets $1.1 million after stealing from music streaming protocol Audius",
+          "link": "https://www.theblock.co/post/159308/hacker-pockets-1-1-million-after-stealing-from-music-streaming-protocol-audius?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-07-24T16:30:02.000Z",
+          "wordCount": 77772,
+          "title": "Hacker pockets $1.1 million after stealing from music streaming protocol Audius",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/211130_Hacked_General3.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/rabobank-welcome-europes-new-abnormal",
           "author": null,
           "description": "Rabobank: Welcome To Europe's New (Ab)normal | ZeroHedge",
@@ -31,7 +51,7 @@
           "description": "NFT Insider Trading – Can There Be A Crime If It’s Not A Security?",
           "link": "https://www.natlawreview.com/article/nft-insider-trading-can-there-be-crime-if-it-s-not-security",
           "publishedOn": "2022-07-24T15:00:03.000Z",
-          "wordCount": 3590,
+          "wordCount": 3523,
           "title": "NFT Insider Trading – Can There Be A Crime If It’s Not A Security?",
           "imageUrl": "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/15527/Non%20Fungibel%20Token%20NFT%20finance%20investment%20crypto%20art_0.jpg?itok=PcTrssPB"
         },
@@ -74,6 +94,16 @@
           "wordCount": 1790,
           "title": "Bitcoin Beach",
           "imageUrl": null
+        },
+        {
+          "id": "https://app.museumofcryptoart.com/floor-auction",
+          "author": null,
+          "description": "MOCA. Museum of Crypto Art",
+          "link": "https://app.museumofcryptoart.com/floor-auction",
+          "publishedOn": "2022-07-24T15:00:03.000Z",
+          "wordCount": 3591,
+          "title": "MOCA. Museum of Crypto Art",
+          "imageUrl": "https://app.museumofcryptoart.com/social.jpg"
         },
         {
           "id": "https://www.coindesk.com/policy/2022/07/19/dubai-unveils-metaverse-strategy-aims-to-attract-over-1000-firms/",
@@ -121,9 +151,9 @@
           "description": "Ethereum’s Transition to Proof of Stake & Future Roadmap HostedBy @TimBeiko",
           "link": "https://www.eventbrite.com/e/ethereums-transition-to-proof-of-stake-future-roadmap-hostedby-timbeiko-tickets-352186749047",
           "publishedOn": "2022-07-24T08:00:03.000Z",
-          "wordCount": 3415,
+          "wordCount": 3412,
           "title": "Ethereum’s Transition to Proof of Stake & Future Roadmap HostedBy @TimBeiko",
-          "imageUrl": "https://cdn.evbuc.com/images/294264939/718406436843/1/logo.20220531-043045"
+          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F294264939%2F718406436843%2F1%2Foriginal.20220531-043045?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=41%2C0%2C1918%2C959&s=8000b3bcf1c4336da9d1a634841a9f4c"
         },
         {
           "id": "https://foreignpolicy.com/2022/07/20/china-mortgage-boycott-real-estate-crisis/",
@@ -131,7 +161,7 @@
           "description": "Chinese Mortgage Boycott Gains Steam",
           "link": "https://foreignpolicy.com/2022/07/20/china-mortgage-boycott-real-estate-crisis/",
           "publishedOn": "2022-07-24T07:30:04.000Z",
-          "wordCount": 5526,
+          "wordCount": 5520,
           "title": "Chinese Mortgage Boycott Gains Steam",
           "imageUrl": "https://foreignpolicy.com/wp-content/uploads/2022/07/china-construction-evergrande-GettyImages-1409018692.jpg?w=1000"
         },
@@ -144,6 +174,16 @@
           "wordCount": 27,
           "title": "Proof of Humanity, a sybil-proof list of humans.",
           "imageUrl": "https://app.proofofhumanity.id/images/open-graph-image.png"
+        },
+        {
+          "id": "https://registry.impervious.com/",
+          "author": null,
+          "description": "Impervious Registry",
+          "link": "https://registry.impervious.com/",
+          "publishedOn": "2022-07-24T01:00:02.000Z",
+          "wordCount": 7,
+          "title": "Impervious Registry",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=LmkFe75K9rw",
@@ -164,46 +204,6 @@
           "wordCount": 551,
           "title": "Wildcat Group — Veritas Financial Analytics LLC",
           "imageUrl": null
-        },
-        {
-          "id": "https://texasgop.org/wp-content/uploads/2022/07/2022-RPT-Platform.pdf",
-          "author": null,
-          "description": "[PDF] 2022-RPT-Platform.pdf",
-          "link": "https://texasgop.org/wp-content/uploads/2022/07/2022-RPT-Platform.pdf",
-          "publishedOn": "2022-07-23T19:30:03.000Z",
-          "wordCount": 12648,
-          "title": "[PDF] 2022-RPT-Platform.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nftboxes.io/",
-          "author": null,
-          "description": "NFTBoxes",
-          "link": "https://www.nftboxes.io/",
-          "publishedOn": "2022-07-23T19:00:02.000Z",
-          "wordCount": 518,
-          "title": "NFTBoxes",
-          "imageUrl": "https://www.nftboxes.io/images/banner.png"
-        },
-        {
-          "id": "https://ethereum-magicians.org/t/proposals-to-adjust-memory-gas-costs/10036",
-          "author": null,
-          "description": "Proposals to adjust memory gas costs",
-          "link": "https://ethereum-magicians.org/t/proposals-to-adjust-memory-gas-costs/10036",
-          "publishedOn": "2022-07-23T11:00:02.000Z",
-          "wordCount": 1626,
-          "title": "Proposals to adjust memory gas costs",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://notes.ethereum.org/@vbuterin/proposals_to_adjust_memory_gas_costs",
-          "author": null,
-          "description": "Proposals to adjust memory gas costs - HackMD",
-          "link": "https://notes.ethereum.org/@vbuterin/proposals_to_adjust_memory_gas_costs",
-          "publishedOn": "2022-07-23T08:30:03.000Z",
-          "wordCount": 1745,
-          "title": "Proposals to adjust memory gas costs - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
         }
       ]
     }
