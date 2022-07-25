@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.impersonator.xyz/",
+          "author": null,
+          "description": "Impersonator",
+          "link": "https://www.impersonator.xyz/",
+          "publishedOn": "2022-07-25T20:30:03.000Z",
+          "wordCount": 45,
+          "title": "Impersonator",
+          "imageUrl": "https://www.impersonator.xyz/metaIMG.PNG"
+        },
+        {
           "id": "https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging",
           "author": null,
           "description": "Valuing Galaxy ($GAL) & The Emerging Web 3 Social Stack",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-07-25T19:00:02.000Z",
           "wordCount": 303,
           "title": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
-          "imageUrl": "https://opengraph.githubassets.com/13bb866c3e834cc364f0cc63e2a60a2df1d5211560e631b162544af4d53bd31f/ethereum-optimism/optimism"
+          "imageUrl": "https://opengraph.githubassets.com/5cf59063926a54440deda2a39c27f6bdba5251eaccc99a2bf8c762ad89ed8c4d/ethereum-optimism/optimism"
         },
         {
           "id": "https://github.com/ethereum/EIPs/pull/5338",
@@ -81,7 +91,7 @@
           "description": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "link": "https://www.coindesk.com/business/2022/07/25/aptos-labs-raises-150m-to-revive-diem-in-ftx-ventures-led-funding-round/",
           "publishedOn": "2022-07-25T15:00:02.000Z",
-          "wordCount": 12814,
+          "wordCount": 17092,
           "title": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "imageUrl": "https://www.coindesk.com/resizer/OyjcjLRa9N8juuUmbdiknSJrGTE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AXR2HPSGAZCZLBVPTT2YGI5URE.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "link": "https://www.theblock.co/post/159423/bitfinex-tether-video-calling-app-keet-holepunch-hypercore?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T13:00:02.000Z",
-          "wordCount": 78099,
+          "wordCount": 78438,
           "title": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/Bitfinex-Tether-e1578669665467.jpg"
         },
@@ -151,7 +161,7 @@
           "description": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "link": "https://www.theblock.co/post/159387/voyager-document-says-ftx-alameda-proposal-has-misleading-or-outright-false-claims?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T05:00:02.000Z",
-          "wordCount": 78111,
+          "wordCount": 79073,
           "title": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220701_Voyager.jpg"
         },
@@ -163,16 +173,6 @@
           "publishedOn": "2022-07-25T01:00:02.000Z",
           "wordCount": null,
           "title": "Daniel Robinson - Uniswap v3, or How I Learned To Stop Worrying And Love Concentrated Liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lWeNo2iPntc",
-          "author": null,
-          "description": "Evan Van Ness - Maximal Decentralization On All Axes",
-          "link": "https://www.youtube.com/watch?v=lWeNo2iPntc",
-          "publishedOn": "2022-07-24T21:30:04.000Z",
-          "wordCount": null,
-          "title": "Evan Van Ness - Maximal Decentralization On All Axes",
           "imageUrl": null
         },
         {
@@ -201,7 +201,7 @@
           "description": "Elon Musk’s Friendship With Sergey Brin Ruptured by Alleged Affair",
           "link": "https://www.wsj.com/articles/elon-musk-affair-sergey-brin-wife-divorce-11658674840?mod=e2tw",
           "publishedOn": "2022-07-24T17:00:02.000Z",
-          "wordCount": 5106,
+          "wordCount": 5108,
           "title": "Elon Musk’s Friendship With Sergey Brin Ruptured by Alleged Affair",
           "imageUrl": "https://images.wsj.net/im-589725/social"
         }
