@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://web3-startups.org/",
+          "author": null,
+          "description": "Entrepreneurship In Web3",
+          "link": "https://web3-startups.org/",
+          "publishedOn": "2022-07-25T21:30:05.000Z",
+          "wordCount": 413,
+          "title": "Entrepreneurship In Web3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/c/UnchainedPodcast",
+          "author": null,
+          "description": "Unchained Podcast - YouTube",
+          "link": "https://www.youtube.com/c/UnchainedPodcast",
+          "publishedOn": "2022-07-25T21:30:04.000Z",
+          "wordCount": 7445,
+          "title": "Unchained Podcast - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "id": "https://medium.com/@ultimatemoney/why-solana-is-more-decentralized-than-you-think-d3710249a92",
+          "author": null,
+          "description": "Why Solana is more decentralized than you think",
+          "link": "https://medium.com/@ultimatemoney/why-solana-is-more-decentralized-than-you-think-d3710249a92",
+          "publishedOn": "2022-07-25T21:00:02.000Z",
+          "wordCount": 5747,
+          "title": "Why Solana is more decentralized than you think",
+          "imageUrl": "https://miro.medium.com/max/1158/1*4VQG6QJlXRveqGQpasbWcA.png"
+        },
+        {
           "id": "https://www.impersonator.xyz/",
           "author": null,
           "description": "Impersonator",
@@ -41,7 +71,7 @@
           "description": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
           "link": "https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-periphery",
           "publishedOn": "2022-07-25T19:00:02.000Z",
-          "wordCount": 303,
+          "wordCount": 548,
           "title": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
           "imageUrl": "https://opengraph.githubassets.com/5cf59063926a54440deda2a39c27f6bdba5251eaccc99a2bf8c762ad89ed8c4d/ethereum-optimism/optimism"
         },
@@ -91,19 +121,9 @@
           "description": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "link": "https://www.coindesk.com/business/2022/07/25/aptos-labs-raises-150m-to-revive-diem-in-ftx-ventures-led-funding-round/",
           "publishedOn": "2022-07-25T15:00:02.000Z",
-          "wordCount": 17092,
+          "wordCount": 16095,
           "title": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "imageUrl": "https://www.coindesk.com/resizer/OyjcjLRa9N8juuUmbdiknSJrGTE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AXR2HPSGAZCZLBVPTT2YGI5URE.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/ukraine-moves-criminalize-russian-passport-application",
-          "author": null,
-          "description": "Ukraine Moves To Criminalize Russian Passport Application | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/ukraine-moves-criminalize-russian-passport-application",
-          "publishedOn": "2022-07-25T13:30:04.000Z",
-          "wordCount": 710,
-          "title": "Ukraine Moves To Criminalize Russian Passport Application | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://keet.io/",
@@ -121,7 +141,7 @@
           "description": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "link": "https://www.theblock.co/post/159423/bitfinex-tether-video-calling-app-keet-holepunch-hypercore?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T13:00:02.000Z",
-          "wordCount": 78438,
+          "wordCount": 78214,
           "title": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/Bitfinex-Tether-e1578669665467.jpg"
         },
@@ -161,7 +181,7 @@
           "description": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "link": "https://www.theblock.co/post/159387/voyager-document-says-ftx-alameda-proposal-has-misleading-or-outright-false-claims?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T05:00:02.000Z",
-          "wordCount": 79073,
+          "wordCount": 78866,
           "title": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220701_Voyager.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://9to5mac.com/2022/07/22/twitter-data-breach/",
-          "author": null,
-          "description": "Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k",
-          "link": "https://9to5mac.com/2022/07/22/twitter-data-breach/",
-          "publishedOn": "2022-07-24T21:00:02.000Z",
-          "wordCount": 4669,
-          "title": "Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k",
-          "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/twitter-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
           "id": "https://vyper-by-example.org/",
           "author": null,
           "description": "Vyper by Example",
@@ -194,16 +204,6 @@
           "wordCount": 14,
           "title": "Vyper by Example",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/elon-musk-affair-sergey-brin-wife-divorce-11658674840?mod=e2tw",
-          "author": null,
-          "description": "Elon Musk’s Friendship With Sergey Brin Ruptured by Alleged Affair",
-          "link": "https://www.wsj.com/articles/elon-musk-affair-sergey-brin-wife-divorce-11658674840?mod=e2tw",
-          "publishedOn": "2022-07-24T17:00:02.000Z",
-          "wordCount": 5108,
-          "title": "Elon Musk’s Friendship With Sergey Brin Ruptured by Alleged Affair",
-          "imageUrl": "https://images.wsj.net/im-589725/social"
         }
       ]
     }
