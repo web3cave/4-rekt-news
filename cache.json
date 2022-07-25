@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FY5o3W4hSBM",
+          "author": null,
+          "description": "Lefteris Karapetsas - rotki: showcasing advantages of opensource local apps",
+          "link": "https://www.youtube.com/watch?v=FY5o3W4hSBM",
+          "publishedOn": "2022-07-25T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Lefteris Karapetsas - rotki: showcasing advantages of opensource local apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/bancorprotocol/contracts-solidity/issues/282",
+          "author": null,
+          "description": "Some BancorConverters are old and not compatible with getReturnByPath · Issue #282 · bancorprotocol/contracts-solidity",
+          "link": "https://github.com/bancorprotocol/contracts-solidity/issues/282",
+          "publishedOn": "2022-07-25T11:30:04.000Z",
+          "wordCount": 818,
+          "title": "Some BancorConverters are old and not compatible with getReturnByPath · Issue #282 · bancorprotocol/contracts-solidity",
+          "imageUrl": "https://opengraph.githubassets.com/d75bd5ba9499f2d4c0a71d189fce7c3466526257c1a7d9a7f6d5b6cb21d9fef6/bancorprotocol/contracts-solidity/issues/282"
+        },
+        {
           "id": "https://www.coingecko.com/en/coins/ambrosus",
           "author": null,
           "description": "Ambrosus Price in USD: AMB Live Price Chart & News | CoinGecko",
           "link": "https://www.coingecko.com/en/coins/ambrosus",
           "publishedOn": "2022-07-25T11:00:03.000Z",
-          "wordCount": 2887,
+          "wordCount": 2442,
           "title": "Ambrosus Price in USD: AMB Live Price Chart & News | CoinGecko",
           "imageUrl": "https://assets.coingecko.com/coins/images/1041/large/Avatar_Logo_Ambrosus.png?1644905963"
         },
@@ -71,7 +91,7 @@
           "description": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "link": "https://www.theblock.co/post/159387/voyager-document-says-ftx-alameda-proposal-has-misleading-or-outright-false-claims?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T05:00:02.000Z",
-          "wordCount": 79430,
+          "wordCount": 78239,
           "title": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220701_Voyager.jpg"
         },
@@ -81,7 +101,7 @@
           "description": "GitHub - THUDM/CogVideo: Text-to-video generation.",
           "link": "https://github.com/THUDM/CogVideo",
           "publishedOn": "2022-07-25T02:15:02.000Z",
-          "wordCount": 851,
+          "wordCount": 785,
           "title": "GitHub - THUDM/CogVideo: Text-to-video generation.",
           "imageUrl": "https://opengraph.githubassets.com/2591b4d0dc268ded33f8addcfd9721fee71cfcce9aa4e13aeb8050de1b0418fe/THUDM/CogVideo"
         },
@@ -104,16 +124,6 @@
           "wordCount": null,
           "title": "Daniel Robinson - Uniswap v3, or How I Learned To Stop Worrying And Love Concentrated Liquidity",
           "imageUrl": null
-        },
-        {
-          "id": "https://cryptogucci.substack.com/p/this-week-in-ethereum-ec1",
-          "author": null,
-          "description": "This Week In Ethereum",
-          "link": "https://cryptogucci.substack.com/p/this-week-in-ethereum-ec1",
-          "publishedOn": "2022-07-24T23:00:03.000Z",
-          "wordCount": 5642,
-          "title": "This Week In Ethereum",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98049f34-d57d-44c2-ad6d-0787fd27a0fa_720x405.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=lWeNo2iPntc",
@@ -194,16 +204,6 @@
           "wordCount": 997,
           "title": "Terra Co-Founder's Home In South Korea Raided By Authorities Last Week | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/07/19/dubai-unveils-metaverse-strategy-aims-to-attract-over-1000-firms/",
-          "author": null,
-          "description": "Dubai Unveils Metaverse Strategy, Aims to Attract Over 1,000 Firms",
-          "link": "https://www.coindesk.com/policy/2022/07/19/dubai-unveils-metaverse-strategy-aims-to-attract-over-1000-firms/",
-          "publishedOn": "2022-07-24T13:30:03.000Z",
-          "wordCount": 17392,
-          "title": "Dubai Unveils Metaverse Strategy, Aims to Attract Over 1,000 Firms",
-          "imageUrl": "https://www.coindesk.com/resizer/DNJsfbspdM8j-oF7V-8GRtMeZk8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YLOTDDY4HRCN5HNADJ6TAQX7DA.jpg"
         }
       ]
     }
