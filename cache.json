@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://market.ledger.com/",
+          "author": null,
+          "description": "[ Ledger ] Market",
+          "link": "https://market.ledger.com/",
+          "publishedOn": "2022-07-25T22:30:03.000Z",
+          "wordCount": 1689,
+          "title": "[ Ledger ] Market",
+          "imageUrl": "https://images.prismic.io/ledger-market-hype/b7e4e652-68ee-4c48-be10-e8ff9e613137_genesis-pass.jpg?auto=compress,format&rect=0,0,3838,2290&w=1200&h=716"
+        },
+        {
           "id": "https://web3-startups.org/",
           "author": null,
           "description": "Entrepreneurship In Web3",
@@ -31,19 +41,9 @@
           "description": "Why Solana is more decentralized than you think",
           "link": "https://medium.com/@ultimatemoney/why-solana-is-more-decentralized-than-you-think-d3710249a92",
           "publishedOn": "2022-07-25T21:00:02.000Z",
-          "wordCount": 5747,
+          "wordCount": 5695,
           "title": "Why Solana is more decentralized than you think",
           "imageUrl": "https://miro.medium.com/max/1158/1*4VQG6QJlXRveqGQpasbWcA.png"
-        },
-        {
-          "id": "https://www.impersonator.xyz/",
-          "author": null,
-          "description": "Impersonator",
-          "link": "https://www.impersonator.xyz/",
-          "publishedOn": "2022-07-25T20:30:03.000Z",
-          "wordCount": 45,
-          "title": "Impersonator",
-          "imageUrl": "https://www.impersonator.xyz/metaIMG.PNG"
         },
         {
           "id": "https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging",
@@ -71,7 +71,7 @@
           "description": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
           "link": "https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-periphery",
           "publishedOn": "2022-07-25T19:00:02.000Z",
-          "wordCount": 548,
+          "wordCount": 303,
           "title": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
           "imageUrl": "https://opengraph.githubassets.com/5cf59063926a54440deda2a39c27f6bdba5251eaccc99a2bf8c762ad89ed8c4d/ethereum-optimism/optimism"
         },
@@ -81,9 +81,9 @@
           "description": "Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs",
           "link": "https://github.com/ethereum/EIPs/pull/5338",
           "publishedOn": "2022-07-25T19:00:02.000Z",
-          "wordCount": 1719,
+          "wordCount": 1758,
           "title": "Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs",
-          "imageUrl": "https://opengraph.githubassets.com/09b26fde0482eaf19bb70d8fd822a42551a352a67c084072da21ac15242a61c3/ethereum/EIPs/pull/5338"
+          "imageUrl": "https://opengraph.githubassets.com/218d5f2b0547e5eb9a2f0ec1fd57d46b86a5a0b95312826c12fb99da63d6c0cb/ethereum/EIPs/pull/5338"
         },
         {
           "id": "https://www.youtube.com/watch?v=rt_Bqey3VH0&feature=youtu.be",
@@ -121,7 +121,7 @@
           "description": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "link": "https://www.coindesk.com/business/2022/07/25/aptos-labs-raises-150m-to-revive-diem-in-ftx-ventures-led-funding-round/",
           "publishedOn": "2022-07-25T15:00:02.000Z",
-          "wordCount": 16095,
+          "wordCount": 15942,
           "title": "Aptos Labs Raises $150M to Revive Diem in FTX Ventures-Led Funding Round",
           "imageUrl": "https://www.coindesk.com/resizer/OyjcjLRa9N8juuUmbdiknSJrGTE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AXR2HPSGAZCZLBVPTT2YGI5URE.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "link": "https://www.theblock.co/post/159423/bitfinex-tether-video-calling-app-keet-holepunch-hypercore?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T13:00:02.000Z",
-          "wordCount": 78214,
+          "wordCount": 78233,
           "title": "Bitfinex and Tether launch peer-to-peer video calling app Keet",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/Bitfinex-Tether-e1578669665467.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "link": "https://www.theblock.co/post/159387/voyager-document-says-ftx-alameda-proposal-has-misleading-or-outright-false-claims?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-25T05:00:02.000Z",
-          "wordCount": 78866,
+          "wordCount": 78885,
           "title": "Voyager filing says FTX, Alameda proposal has 'misleading or outright false claims'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220701_Voyager.jpg"
         },
