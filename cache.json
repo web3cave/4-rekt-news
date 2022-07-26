@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rt_Bqey3VH0&feature=youtu.be",
+          "author": null,
+          "description": "ETH at the merge, Social decentralization and more - The Daily Gwei Refuel #413 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=rt_Bqey3VH0&feature=youtu.be",
+          "publishedOn": "2022-07-26T16:30:03.000Z",
+          "wordCount": null,
+          "title": "ETH at the merge, Social decentralization and more - The Daily Gwei Refuel #413 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://druglike.com/",
+          "author": null,
+          "description": "Druglike",
+          "link": "https://druglike.com/",
+          "publishedOn": "2022-07-26T16:30:03.000Z",
+          "wordCount": 178,
+          "title": "Druglike",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.audius.co/article/audius-governance-takeover-post-mortem-7-23-22",
           "author": null,
           "description": "Audius Governance Takeover Post-Mortem 7/23/22 | Audius Blog",
@@ -24,6 +44,26 @@
           "wordCount": 12073,
           "title": "Audius Contracts Audit - OpenZeppelin blog",
           "imageUrl": "https://blog.openzeppelin.com/wp-content/uploads/2020/06/cover_audits_audius-1024x576.png"
+        },
+        {
+          "id": "https://github.com/omurovec/ethcc5-hackathon",
+          "author": null,
+          "description": "GitHub - omurovec/ethcc5-hackathon: ERC-4626 compatible CryptoSwap pool",
+          "link": "https://github.com/omurovec/ethcc5-hackathon",
+          "publishedOn": "2022-07-26T13:30:04.000Z",
+          "wordCount": 537,
+          "title": "GitHub - omurovec/ethcc5-hackathon: ERC-4626 compatible CryptoSwap pool",
+          "imageUrl": "https://opengraph.githubassets.com/05a9ac9435b78125757837b2758caeaefb41316545ea6e4680ce159104ab5a03/omurovec/ethcc5-hackathon"
+        },
+        {
+          "id": "https://github.com/rotki/rotki/releases",
+          "author": null,
+          "description": "Releases · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/releases",
+          "publishedOn": "2022-07-26T09:30:05.000Z",
+          "wordCount": 9361,
+          "title": "Releases · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/108b4fb408446de846e3f3aa42a496095586b74d900aad2658c20f71372401aa/rotki/rotki"
         },
         {
           "id": "https://www.realvision.com/shows/crypto-seismic/videos/is-the-bottom-in-a-special-crypto-update-from-raoul-pal-99X8?utm_campaign=Standard&utm_medium=email&_hsmi=220752220&_hsenc=p2ANqtz-8neOkMdwbDOzS-q9FbyR1j538j2MZ0QMInP_clF1fOof6iJcgSnnGmM_mASGzzbIiVmvVASlF4BkC-Z8B8e2UjTUCwrHb_KL8Za3byaVQ-5HuIc9M&utm_source=2022725_alert_video_members_combo_1",
@@ -66,16 +106,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*1MtU2FgRMgZglHcsXHgoRw.png"
         },
         {
-          "id": "https://market.ledger.com/",
-          "author": null,
-          "description": "[ Ledger ] Market",
-          "link": "https://market.ledger.com/",
-          "publishedOn": "2022-07-25T22:30:03.000Z",
-          "wordCount": 1679,
-          "title": "[ Ledger ] Market",
-          "imageUrl": "https://images.prismic.io/ledger-market-hype/b7e4e652-68ee-4c48-be10-e8ff9e613137_genesis-pass.jpg?auto=compress,format&rect=0,0,3838,2290&w=1200&h=716"
-        },
-        {
           "id": "https://solana.com/summercamp",
           "author": null,
           "description": "Solana Summer Camp Hackathon | Solana: Build crypto apps that scale",
@@ -116,16 +146,6 @@
           "imageUrl": "https://miro.medium.com/max/1158/1*4VQG6QJlXRveqGQpasbWcA.png"
         },
         {
-          "id": "https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging",
-          "author": null,
-          "description": "Valuing Galaxy ($GAL) & The Emerging Web 3 Social Stack",
-          "link": "https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging",
-          "publishedOn": "2022-07-25T20:00:04.000Z",
-          "wordCount": 1440,
-          "title": "Valuing Galaxy ($GAL) & The Emerging Web 3 Social Stack",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60246631-fb1e-44a2-8380-51de932e5a9b_1214x698.png"
-        },
-        {
           "id": "https://medium.com/nexus-mutual/announcing-eth2-staking-cover-comprehensive-protection-against-slashing-b98b64e0c0fd",
           "author": null,
           "description": "Announcing ETH2 Staking Cover: Comprehensive Protection Against Slashing",
@@ -154,26 +174,6 @@
           "wordCount": 548,
           "title": "optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism",
           "imageUrl": "https://opengraph.githubassets.com/654c3a22fa250460850441e353c82fa5595b2e63e1df8849232bc1f3de0590f4/ethereum-optimism/optimism"
-        },
-        {
-          "id": "https://github.com/ethereum/EIPs/pull/5338",
-          "author": null,
-          "description": "Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs",
-          "link": "https://github.com/ethereum/EIPs/pull/5338",
-          "publishedOn": "2022-07-25T19:00:02.000Z",
-          "wordCount": 1912,
-          "title": "Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs",
-          "imageUrl": "https://opengraph.githubassets.com/3e31620165213f1fa40691a462c4bf512ebf3b76b58a06aa3dd29c838dee14fe/ethereum/EIPs/pull/5338"
-        },
-        {
-          "id": "https://www.vice.com/en/article/wxndpx/revealed-documents-show-how-roblox-planned-to-bend-to-chinese-censorship",
-          "author": null,
-          "description": "Revealed: Documents Show How Roblox Planned to Bend to Chinese Censorship",
-          "link": "https://www.vice.com/en/article/wxndpx/revealed-documents-show-how-roblox-planned-to-bend-to-chinese-censorship",
-          "publishedOn": "2022-07-25T17:30:04.000Z",
-          "wordCount": 8660,
-          "title": "Revealed: Documents Show How Roblox Planned to Bend to Chinese Censorship",
-          "imageUrl": "https://video-images.vice.com/articles/62d96e7e9290db009cecf9ad/lede/1658517996437-china-government-policy.png?image-resize-opts=Y3JvcD0xeHc6MC45OTgxNTY5ODE3ODY2NDM2eGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio"
         },
         {
           "id": "https://keet.io/",

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T15:25:31.870Z</id>
+    <id>urn:2022-07-26T16:32:05.369Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-26T15:25:31.870Z</updated>
+    <updated>2022-07-26T16:32:05.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH at the merge, Social decentralization and more - The Daily Gwei Refuel #413 - Ethereum Updates]]></title>
+        <id>https://www.youtube.com/watch?v=rt_Bqey3VH0&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=rt_Bqey3VH0&amp;feature=youtu.be"/>
+        <updated>2022-07-26T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[ETH at the merge, Social decentralization and more - The Daily Gwei Refuel #413 - Ethereum Updates]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Druglike]]></title>
+        <id>https://druglike.com/</id>
+        <link href="https://druglike.com/"/>
+        <updated>2022-07-26T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Druglike]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audius Governance Takeover Post-Mortem 7/23/22 | Audius Blog]]></title>
         <id>https://blog.audius.co/article/audius-governance-takeover-post-mortem-7-23-22</id>
@@ -21,6 +41,26 @@
         <link href="https://blog.openzeppelin.com/audius-contracts-audit/"/>
         <updated>2022-07-26T13:30:04.000Z</updated>
         <summary type="html"><![CDATA[Audius Contracts Audit - OpenZeppelin blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - omurovec/ethcc5-hackathon: ERC-4626 compatible CryptoSwap pool]]></title>
+        <id>https://github.com/omurovec/ethcc5-hackathon</id>
+        <link href="https://github.com/omurovec/ethcc5-hackathon"/>
+        <updated>2022-07-26T13:30:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - omurovec/ethcc5-hackathon: ERC-4626 compatible CryptoSwap pool]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Releases · rotki/rotki]]></title>
+        <id>https://github.com/rotki/rotki/releases</id>
+        <link href="https://github.com/rotki/rotki/releases"/>
+        <updated>2022-07-26T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Releases · rotki/rotki]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -66,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ Ledger ] Market]]></title>
-        <id>https://market.ledger.com/</id>
-        <link href="https://market.ledger.com/"/>
-        <updated>2022-07-25T22:30:03.000Z</updated>
-        <summary type="html"><![CDATA[[ Ledger ] Market]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solana Summer Camp Hackathon | Solana: Build crypto apps that scale]]></title>
         <id>https://solana.com/summercamp</id>
         <link href="https://solana.com/summercamp"/>
@@ -116,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valuing Galaxy ($GAL) & The Emerging Web 3 Social Stack]]></title>
-        <id>https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging</id>
-        <link href="https://blockcrunch.substack.com/p/valuing-galaxy-gal-and-the-emerging"/>
-        <updated>2022-07-25T20:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Valuing Galaxy ($GAL) & The Emerging Web 3 Social Stack]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing ETH2 Staking Cover: Comprehensive Protection Against Slashing]]></title>
         <id>https://medium.com/nexus-mutual/announcing-eth2-staking-cover-comprehensive-protection-against-slashing-b98b64e0c0fd</id>
         <link href="https://medium.com/nexus-mutual/announcing-eth2-staking-cover-comprehensive-protection-against-slashing-b98b64e0c0fd"/>
@@ -151,26 +171,6 @@
         <link href="https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-periphery"/>
         <updated>2022-07-25T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[optimism/packages/contracts-periphery at develop · ethereum-optimism/optimism]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs]]></title>
-        <id>https://github.com/ethereum/EIPs/pull/5338</id>
-        <link href="https://github.com/ethereum/EIPs/pull/5338"/>
-        <updated>2022-07-25T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Publish EIP-67 as withdrawn by SamWilsn · Pull Request #5338 · ethereum/EIPs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealed: Documents Show How Roblox Planned to Bend to Chinese Censorship]]></title>
-        <id>https://www.vice.com/en/article/wxndpx/revealed-documents-show-how-roblox-planned-to-bend-to-chinese-censorship</id>
-        <link href="https://www.vice.com/en/article/wxndpx/revealed-documents-show-how-roblox-planned-to-bend-to-chinese-censorship"/>
-        <updated>2022-07-25T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Revealed: Documents Show How Roblox Planned to Bend to Chinese Censorship]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
