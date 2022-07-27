@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LA7CMuX2_fc&feature=youtu.be",
+          "author": null,
+          "description": "Paolo Ardoino & Mathias Buus on Holepunch, Keet, Building P2P Apps, and Lightning Adoption | E59",
+          "link": "https://www.youtube.com/watch?v=LA7CMuX2_fc&feature=youtu.be",
+          "publishedOn": "2022-07-27T20:00:05.000Z",
+          "wordCount": null,
+          "title": "Paolo Ardoino & Mathias Buus on Holepunch, Keet, Building P2P Apps, and Lightning Adoption | E59",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.swaap.finance/",
+          "author": null,
+          "description": "Swaap Protocol -  Market Neutral AMM.",
+          "link": "https://www.swaap.finance/",
+          "publishedOn": "2022-07-27T19:30:05.000Z",
+          "wordCount": 6,
+          "title": "Swaap Protocol -  Market Neutral AMM.",
+          "imageUrl": "share-image.png"
+        },
+        {
           "id": "https://github.com/vyperlang/vyper/releases/tag/v0.3.4",
           "author": null,
           "description": "Release v0.3.4 · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/releases/tag/v0.3.4",
           "publishedOn": "2022-07-27T19:00:03.000Z",
-          "wordCount": 589,
+          "wordCount": 599,
           "title": "Release v0.3.4 · vyperlang/vyper",
           "imageUrl": "https://opengraph.githubassets.com/2915261f0a46885ba224d0b2c0ceb108722e17db0cfa6417c1341ceff6de5ee8/vyperlang/vyper/releases/tag/v0.3.4"
         },
@@ -56,16 +76,6 @@
           "imageUrl": "https://www.ledgerinsights.com/wp-content/uploads/2022/07/mercedes-benz.jpg"
         },
         {
-          "id": "https://medium.com/aptoslabs/entering-the-next-phase-of-the-aptos-journey-with-added-funding-and-new-partners-d4daa03dd17c",
-          "author": null,
-          "description": "Entering The Next Phase of The Aptos Journey With Added Funding and New Partners",
-          "link": "https://medium.com/aptoslabs/entering-the-next-phase-of-the-aptos-journey-with-added-funding-and-new-partners-d4daa03dd17c",
-          "publishedOn": "2022-07-27T16:30:03.000Z",
-          "wordCount": 1986,
-          "title": "Entering The Next Phase of The Aptos Journey With Added Funding and New Partners",
-          "imageUrl": "https://miro.medium.com/max/1200/1*iE905qEuvUhSkXkWdSl8lA.jpeg"
-        },
-        {
           "id": "https://rhino.fi/signup/?utm_source=social&utm_medium=twitter&utm_campaign=bankless",
           "author": null,
           "description": "Join Our Newsletter | Signup | rhino.fi",
@@ -101,7 +111,7 @@
           "description": "Tether says that it holds no Chinese commercial paper",
           "link": "https://www.theblock.co/post/159815/tether-says-that-it-holds-no-chinese-commercial-paper?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-27T15:00:03.000Z",
-          "wordCount": 78536,
+          "wordCount": 78546,
           "title": "Tether says that it holds no Chinese commercial paper",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/04/Tether-e1579096098389.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 3882,
           "title": "What Is CryptoArt?  — Artnome",
           "imageUrl": "http://static1.squarespace.com/static/59413d96e6f2e1c6837c7ecd/t/5a5bde42e4966b7d9bf1a90e/1516437606082/CryptoArt_Homer_Pepe.jpeg?format=1500w"
-        },
-        {
-          "id": "https://forum.sushi.com/t/election-of-jonathan-howard-as-head-chef/10874",
-          "author": null,
-          "description": "Election of Jonathan Howard as Head Chef",
-          "link": "https://forum.sushi.com/t/election-of-jonathan-howard-as-head-chef/10874",
-          "publishedOn": "2022-07-26T20:30:02.000Z",
-          "wordCount": 5667,
-          "title": "Election of Jonathan Howard as Head Chef",
-          "imageUrl": "https://aws1.discourse-cdn.com/business7/uploads/sushiswapclassic/original/1X/507bc40f53db1f27d254810bc9b895c87fdb638c.png"
         },
         {
           "id": "https://dev.mirror.xyz/Jn62zF5n62BfowdaFgm3uIx3Fgp2vIR7b-HTSxKVXqk",
