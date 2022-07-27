@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T04:09:27.674Z</id>
+    <id>urn:2022-07-27T05:35:19.101Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-27T04:09:27.675Z</updated>
+    <updated>2022-07-27T05:35:19.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Island]]></title>
+        <id>https://www.theisland.wtf/</id>
+        <link href="https://www.theisland.wtf/"/>
+        <updated>2022-07-27T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Island]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mighty Bear Games raises $10M for Mighty Action Heroes Web3 game]]></title>
         <id>https://venturebeat.com/2022/07/26/mighty-bear-games-raises-10m-for-mighty-action-heroes-web3-game/</id>
@@ -21,26 +31,6 @@
         <link href="https://www.youtube.com/watch?v=3XybKU2SqUI&amp;feature=youtu.be"/>
         <updated>2022-07-27T02:00:05.000Z</updated>
         <summary type="html"><![CDATA[Ethereum hyperscaling, Arbitrum Nitro is coming - The Daily Gwei Refuel #414 - Ethereum Updates]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axie World Championship Registration!]]></title>
-        <id>https://axie.substack.com/p/axie-world-championship-registration</id>
-        <link href="https://axie.substack.com/p/axie-world-championship-registration"/>
-        <updated>2022-07-27T02:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Axie World Championship Registration!]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is CryptoArt?  — Artnome]]></title>
-        <id>https://www.artnome.com/news/2018/1/14/what-is-cryptoart</id>
-        <link href="https://www.artnome.com/news/2018/1/14/what-is-cryptoart"/>
-        <updated>2022-07-27T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[What Is CryptoArt?  — Artnome]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,6 +111,16 @@
         <link href="https://forum.sushi.com/t/election-of-jonathan-howard-as-head-chef/10874"/>
         <updated>2022-07-26T20:30:02.000Z</updated>
         <summary type="html"><![CDATA[Election of Jonathan Howard as Head Chef]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase does not list securities. End of story.]]></title>
+        <id>https://blog.coinbase.com/coinbase-does-not-list-securities-end-of-story-e58dc873be79?gi=4f561dbe054a</id>
+        <link href="https://blog.coinbase.com/coinbase-does-not-list-securities-end-of-story-e58dc873be79?gi=4f561dbe054a"/>
+        <updated>2022-07-26T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase does not list securities. End of story.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
