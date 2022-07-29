@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/gakonst/ethers-rs",
+          "author": null,
+          "description": "GitHub - gakonst/ethers-rs: Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+          "link": "https://github.com/gakonst/ethers-rs",
+          "publishedOn": "2022-07-29T15:00:04.000Z",
+          "wordCount": 1482,
+          "title": "GitHub - gakonst/ethers-rs: Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers",
+          "imageUrl": "https://opengraph.githubassets.com/38fa3749ddca3058c35cce9ecdab037efd99b419c946ca354514a0dc222710e5/gakonst/ethers-rs"
+        },
+        {
+          "id": "https://docs.rs/ethers/latest/ethers/",
+          "author": null,
+          "description": "ethers - Rust",
+          "link": "https://docs.rs/ethers/latest/ethers/",
+          "publishedOn": "2022-07-29T15:00:04.000Z",
+          "wordCount": 681,
+          "title": "ethers - Rust",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EcAAl-0s468&feature=youtu.be",
           "author": null,
           "description": "The zkWARS | Battle of the zkEVMS | Polygon vs. zkSync vs. Scroll",
@@ -31,7 +51,7 @@
           "description": "Babel Finance lost over $280 million in proprietary trading with customer funds",
           "link": "https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring",
           "publishedOn": "2022-07-29T10:00:05.000Z",
-          "wordCount": 76741,
+          "wordCount": 78172,
           "title": "Babel Finance lost over $280 million in proprietary trading with customer funds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/03/Babel-Finance.jpg"
         },
@@ -41,7 +61,7 @@
           "description": "Redeem-and-retain NFTs are the future of luxury goods",
           "link": "https://medium.com/@nic__carter/redeem-and-retain-nfts-are-the-future-of-luxury-goods-760f00dbce23",
           "publishedOn": "2022-07-29T07:30:05.000Z",
-          "wordCount": 9758,
+          "wordCount": 9752,
           "title": "Redeem-and-retain NFTs are the future of luxury goods",
           "imageUrl": "https://miro.medium.com/max/1200/1*aOtUeZstzKNMkQXlgJ7XJw.png"
         },
@@ -81,7 +101,7 @@
           "description": "Crypto Lender Voyager Ordered by US Regulators to Stop Misleading Customers",
           "link": "https://www.coindesk.com/policy/2022/07/28/crypto-lender-voyager-ordered-by-us-regulators-to-stop-misleading-customers/",
           "publishedOn": "2022-07-29T03:00:04.000Z",
-          "wordCount": 8234,
+          "wordCount": 8147,
           "title": "Crypto Lender Voyager Ordered by US Regulators to Stop Misleading Customers",
           "imageUrl": "https://www.coindesk.com/resizer/AvUIzKdbgwE66PzHvU1udtCOksI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T4UJOBP5VBFBRI56K6QSZDRALM.jpg"
         },
@@ -91,19 +111,9 @@
           "description": "EIP-4844 Breakout Room #2 · Issue #581 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/581",
           "publishedOn": "2022-07-29T02:30:03.000Z",
-          "wordCount": 469,
+          "wordCount": 489,
           "title": "EIP-4844 Breakout Room #2 · Issue #581 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/854f59de0824a036f4c035acfb1d59246745f00f24f9d8f45275be91d63df714/ethereum/pm/issues/581"
-        },
-        {
-          "id": "https://mirror.xyz/haunventures.eth/renjKDhQY8gXsPWUlhVzZ4z1yqVYEbTJZgWdE1T9o9U",
-          "author": null,
-          "description": "Business-Governance Fit by Chris Ahn",
-          "link": "https://mirror.xyz/haunventures.eth/renjKDhQY8gXsPWUlhVzZ4z1yqVYEbTJZgWdE1T9o9U",
-          "publishedOn": "2022-07-29T02:00:05.000Z",
-          "wordCount": 3564,
-          "title": "Business-Governance Fit by Chris Ahn",
-          "imageUrl": "https://mirror-media.imgix.net/nft/zMBiM6_fftxi6lG9VzEQB.png?h=null&w=null&auto=compress"
+          "imageUrl": "https://opengraph.githubassets.com/770da983ba4c840204796d074ba43108d7b1b80092a948b42e063644c1f6bfae/ethereum/pm/issues/581"
         },
         {
           "id": "https://www.miamigov.com/My-Government/City-Officials/Mayor-Francis-Suarez/web3-Project-City-of-Miami-x-TIME-Mastercard-Salesforce?transfer=3e054433-c291-483a-a531-7e6b8dbf1118",
@@ -121,7 +131,7 @@
           "description": "Coinbase is in deep sh*tcoins—and so is the SEC",
           "link": "https://fortune.com/2022/07/28/coinbase-illegal-securities-novelty-coins-sec-fails-to-set-rules-on-crypto/",
           "publishedOn": "2022-07-28T21:30:05.000Z",
-          "wordCount": 3875,
+          "wordCount": 3895,
           "title": "Coinbase is in deep sh*tcoins—and so is the SEC",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/07/GettyImages-1240747278.jpg?resize=1200,600"
         },
@@ -156,22 +166,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/160041/variant-raises-450-million-for-two-new-venture-funds",
-          "author": null,
-          "description": "Variant raises $450 million for two new venture funds",
-          "link": "https://www.theblock.co/post/160041/variant-raises-450-million-for-two-new-venture-funds",
-          "publishedOn": "2022-07-28T17:00:03.000Z",
-          "wordCount": 76577,
-          "title": "Variant raises $450 million for two new venture funds",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220728_Variant.jpg"
-        },
-        {
           "id": "https://medium.com/macrohacks/announcing-macro-hackathons-the-first-nft-financialization-hackathon-222694fd4edc",
           "author": null,
           "description": "Announcing Macro Hackathons: the first NFT Financialization Hackathon",
           "link": "https://medium.com/macrohacks/announcing-macro-hackathons-the-first-nft-financialization-hackathon-222694fd4edc",
           "publishedOn": "2022-07-28T17:00:03.000Z",
-          "wordCount": 2019,
+          "wordCount": 1689,
           "title": "Announcing Macro Hackathons: the first NFT Financialization Hackathon",
           "imageUrl": "https://miro.medium.com/max/1200/1*kI6H67jK5JbchZfA0t2npg.jpeg"
         },
