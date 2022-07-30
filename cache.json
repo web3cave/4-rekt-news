@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.30daysofweb3.xyz/",
+          "author": null,
+          "description": "30 Days of Web3",
+          "link": "https://www.30daysofweb3.xyz/",
+          "publishedOn": "2022-07-30T16:00:05.000Z",
+          "wordCount": 1134,
+          "title": "30 Days of Web3",
+          "imageUrl": "https://www.30daysofweb3.xyz/images/og-image.png"
+        },
+        {
+          "id": "https://assets.ctfassets.net/c5bd0wqjc7v0/79db1PxjBTv1JbL574fFvA/61e9950c436df5556c878d94bfcee855/CBI-StablecoinWhitepaper-July2022.pdf",
+          "author": null,
+          "description": "[PDF] CBI-StablecoinWhitepaper-July2022.pdf",
+          "link": "https://assets.ctfassets.net/c5bd0wqjc7v0/79db1PxjBTv1JbL574fFvA/61e9950c436df5556c878d94bfcee855/CBI-StablecoinWhitepaper-July2022.pdf",
+          "publishedOn": "2022-07-30T15:30:04.000Z",
+          "wordCount": 43393,
+          "title": "[PDF] CBI-StablecoinWhitepaper-July2022.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uEhbRTfC6c4&feature=youtu.be",
           "author": null,
           "description": "\"GHO is the Next Big Stablecoin\" - Stani Kulechov | EthCC 2022 Experience #6",
@@ -34,16 +54,6 @@
           "wordCount": 1044,
           "title": "Iran Gains Access To Russian Mir Payment Cards | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://ftx.us/?fromIntl=true",
-          "author": null,
-          "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/?fromIntl=true",
-          "publishedOn": "2022-07-30T03:30:04.000Z",
-          "wordCount": 1510,
-          "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=4EqNwCYuQOw&feature=youtu.be",
@@ -101,7 +111,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 582,
+          "wordCount": 611,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Schwab set to launch its first crypto-linked ETF",
           "link": "https://www.theblock.co/post/160262/schwab-set-to-launch-its-first-crypto-linked-etf?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 77846,
+          "wordCount": 77865,
           "title": "Schwab set to launch its first crypto-linked ETF",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Charles_Schwab_Bitcoin.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15307,
+          "wordCount": 15298,
           "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
         },
@@ -184,16 +194,6 @@
           "wordCount": 2577,
           "title": "Academic Grants Round grantee announcement",
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring",
-          "author": null,
-          "description": "Babel Finance lost over $280 million in proprietary trading with customer funds",
-          "link": "https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring",
-          "publishedOn": "2022-07-29T10:00:05.000Z",
-          "wordCount": 78268,
-          "title": "Babel Finance lost over $280 million in proprietary trading with customer funds",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/03/Babel-Finance.jpg"
         },
         {
           "id": "https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/",
