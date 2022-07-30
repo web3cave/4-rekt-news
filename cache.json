@@ -16,16 +16,6 @@
           "imageUrl": "https://insights.deribit.com/wp-content/uploads/2021/02/Miners-will-accept-EIP-1559-here-is-why.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=0mogq5zCvsU&feature=youtu.be",
-          "author": null,
-          "description": "HackATOM Seoul 2022 Opening Ceremony",
-          "link": "https://www.youtube.com/watch?v=0mogq5zCvsU&feature=youtu.be",
-          "publishedOn": "2022-07-30T06:30:03.000Z",
-          "wordCount": null,
-          "title": "HackATOM Seoul 2022 Opening Ceremony",
-          "imageUrl": null
-        },
-        {
           "id": "https://ftx.us/?fromIntl=true",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -101,7 +91,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 582,
+          "wordCount": 611,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
@@ -121,7 +111,7 @@
           "description": "Schwab set to launch its first crypto-linked ETF",
           "link": "https://www.theblock.co/post/160262/schwab-set-to-launch-its-first-crypto-linked-etf?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 78489,
+          "wordCount": 78351,
           "title": "Schwab set to launch its first crypto-linked ETF",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Charles_Schwab_Bitcoin.jpg"
         },
@@ -141,7 +131,7 @@
           "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15307,
+          "wordCount": 15298,
           "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
         },
@@ -164,6 +154,16 @@
           "wordCount": 62,
           "title": "Wassieverse",
           "imageUrl": "./config/images/og-image.jpeg"
+        },
+        {
+          "id": "https://blockworks.co/coinbase-defends-listing-process-despite-sec-pressure/",
+          "author": null,
+          "description": "Coinbase Defends Listing Process, Despite SEC Pressure - Blockworks",
+          "link": "https://blockworks.co/coinbase-defends-listing-process-despite-sec-pressure/",
+          "publishedOn": "2022-07-29T15:00:04.000Z",
+          "wordCount": 4795,
+          "title": "Coinbase Defends Listing Process, Despite SEC Pressure - Blockworks",
+          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Brian-Armstrong-Coinbase-1024x576.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce/",
@@ -191,7 +191,7 @@
           "description": "Babel Finance lost over $280 million in proprietary trading with customer funds",
           "link": "https://www.theblock.co/post/160230/babel-finance-crypto-lost-280-million-proprietary-trading-restructuring",
           "publishedOn": "2022-07-29T10:00:05.000Z",
-          "wordCount": 78853,
+          "wordCount": 78773,
           "title": "Babel Finance lost over $280 million in proprietary trading with customer funds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/03/Babel-Finance.jpg"
         },
