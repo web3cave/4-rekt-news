@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uEhbRTfC6c4&feature=youtu.be",
+          "author": null,
+          "description": "\"GHO is the Next Big Stablecoin\" - Stani Kulechov | EthCC 2022 Experience #6",
+          "link": "https://www.youtube.com/watch?v=uEhbRTfC6c4&feature=youtu.be",
+          "publishedOn": "2022-07-30T13:30:19.000Z",
+          "wordCount": null,
+          "title": "\"GHO is the Next Big Stablecoin\" - Stani Kulechov | EthCC 2022 Experience #6",
+          "imageUrl": null
+        },
+        {
           "id": "https://insights.deribit.com/market-research/miners-will-accept-eip-1559-here-is-why/",
           "author": null,
           "description": "EIP-1559: Why Miners will accept EIP-1559",
@@ -46,14 +56,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://unchainedpodcast.com/why-the-crypto-industry-believes-sec-regulation-by-enforcement-hurts-us-consumers-ep-378/",
+          "id": "https://www.youtube.com/watch?v=LrRmMuKQoe8",
           "author": null,
           "description": "Why the Crypto Industry Believes SEC Regulation by Enforcement Hurts US Consumers - Ep. 378",
-          "link": "https://unchainedpodcast.com/why-the-crypto-industry-believes-sec-regulation-by-enforcement-hurts-us-consumers-ep-378/",
+          "link": "https://www.youtube.com/watch?v=LrRmMuKQoe8",
           "publishedOn": "2022-07-29T22:00:05.000Z",
-          "wordCount": 11930,
+          "wordCount": null,
           "title": "Why the Crypto Industry Believes SEC Regulation by Enforcement Hurts US Consumers - Ep. 378",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/07/UN378-social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.appropriations.senate.gov/imo/media/doc/FSGGFY23RPT.pdf",
@@ -91,7 +101,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 582,
+          "wordCount": 611,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15298,
+          "wordCount": 15268,
           "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
         },
@@ -164,16 +174,6 @@
           "wordCount": 349,
           "title": "Episode 5: Sudoswap - The Parsec Podcast",
           "imageUrl": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUDNzV3dNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2cfa4dba3813588fcae3b5a7eb4dced95d8de133/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJMU1IZ3lOVEJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERJMU1IZ3lOVEFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--7c01cea9791a272b28ad9ad979e61898eb50a271/sudo_cover.jpg"
-        },
-        {
-          "id": "https://blockworks.co/coinbase-defends-listing-process-despite-sec-pressure/",
-          "author": null,
-          "description": "Coinbase Defends Listing Process, Despite SEC Pressure - Blockworks",
-          "link": "https://blockworks.co/coinbase-defends-listing-process-despite-sec-pressure/",
-          "publishedOn": "2022-07-29T15:00:04.000Z",
-          "wordCount": 4795,
-          "title": "Coinbase Defends Listing Process, Despite SEC Pressure - Blockworks",
-          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Brian-Armstrong-Coinbase-1024x576.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce/",
