@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.eip4844.com/",
+          "author": null,
+          "description": "EIP-4844: Shard Blob Transactions",
+          "link": "https://www.eip4844.com/",
+          "publishedOn": "2022-07-30T17:30:04.000Z",
+          "wordCount": 573,
+          "title": "EIP-4844: Shard Blob Transactions",
+          "imageUrl": "https://www.eip4844.com/images/square-logo.png?v=2"
+        },
+        {
           "id": "https://cryptofees.info/",
           "author": null,
           "description": "CryptoFees.info",
@@ -36,14 +46,14 @@
           "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
-          "id": "https://www.30daysofweb3.xyz/",
+          "id": "https://mexico.ethglobal.com/",
           "author": null,
-          "description": "30 Days of Web3",
-          "link": "https://www.30daysofweb3.xyz/",
-          "publishedOn": "2022-07-30T16:00:05.000Z",
-          "wordCount": 1134,
-          "title": "30 Days of Web3",
-          "imageUrl": "https://www.30daysofweb3.xyz/images/og-image.png"
+          "description": "ETHMexico (Aug 19-21, 2022)",
+          "link": "https://mexico.ethglobal.com/",
+          "publishedOn": "2022-07-30T17:00:02.000Z",
+          "wordCount": 363,
+          "title": "ETHMexico (Aug 19-21, 2022)",
+          "imageUrl": "https://mexico.ethglobal.com/img/mexico-og.jpg?v=2.0.0"
         },
         {
           "id": "https://assets.ctfassets.net/c5bd0wqjc7v0/79db1PxjBTv1JbL574fFvA/61e9950c436df5556c878d94bfcee855/CBI-StablecoinWhitepaper-July2022.pdf",
@@ -191,19 +201,9 @@
           "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15268,
+          "wordCount": 15277,
           "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
-        },
-        {
-          "id": "https://wassieverse.com/",
-          "author": null,
-          "description": "Wassieverse",
-          "link": "https://wassieverse.com/",
-          "publishedOn": "2022-07-29T18:30:04.000Z",
-          "wordCount": 62,
-          "title": "Wassieverse",
-          "imageUrl": "./config/images/og-image.jpeg"
         }
       ]
     }
