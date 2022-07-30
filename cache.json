@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptofees.info/",
+          "author": null,
+          "description": "CryptoFees.info",
+          "link": "https://cryptofees.info/",
+          "publishedOn": "2022-07-30T17:00:03.000Z",
+          "wordCount": 2781,
+          "title": "CryptoFees.info",
+          "imageUrl": "https://crypto-fees-m0u48lvd1-crypto-fees-info.vercel.app/api/social/top.png?30"
+        },
+        {
+          "id": "https://github.com/ethereum-optimism/optimism/tree/develop/specs",
+          "author": null,
+          "description": "optimism/specs at develop · ethereum-optimism/optimism",
+          "link": "https://github.com/ethereum-optimism/optimism/tree/develop/specs",
+          "publishedOn": "2022-07-30T17:00:03.000Z",
+          "wordCount": 884,
+          "title": "optimism/specs at develop · ethereum-optimism/optimism",
+          "imageUrl": "https://opengraph.githubassets.com/7426625baf11149410514ba76170c9677d42ae9172512eab4f8deda8abede173/ethereum-optimism/optimism"
+        },
+        {
+          "id": "https://www.fdic.gov/news/financial-institution-letters/2022/fil22035.html",
+          "author": null,
+          "description": "Advisory to FDIC-Insured Institutions Regarding Deposit Insurance and Dealings with Crypto Companies",
+          "link": "https://www.fdic.gov/news/financial-institution-letters/2022/fil22035.html",
+          "publishedOn": "2022-07-30T17:00:02.000Z",
+          "wordCount": 1851,
+          "title": "Advisory to FDIC-Insured Institutions Regarding Deposit Insurance and Dealings with Crypto Companies",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+        },
+        {
           "id": "https://www.30daysofweb3.xyz/",
           "author": null,
           "description": "30 Days of Web3",
@@ -46,6 +76,16 @@
           "imageUrl": "https://insights.deribit.com/wp-content/uploads/2021/02/Miners-will-accept-EIP-1559-here-is-why.jpg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=x75UobIr4qo&feature=youtu.be",
+          "author": null,
+          "description": "HackATOM Seoul 2022  Day 2",
+          "link": "https://www.youtube.com/watch?v=x75UobIr4qo&feature=youtu.be",
+          "publishedOn": "2022-07-30T06:00:05.000Z",
+          "wordCount": null,
+          "title": "HackATOM Seoul 2022  Day 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/iran-gains-access-russian-mir-payment-cards",
           "author": null,
           "description": "Iran Gains Access To Russian Mir Payment Cards | ZeroHedge",
@@ -76,10 +116,20 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=LrRmMuKQoe8",
+          "id": "https://hackmd.io/@benjaminion/eth2_news",
+          "author": null,
+          "description": "What’s New in Eth2 - HackMD",
+          "link": "https://hackmd.io/@benjaminion/eth2_news",
+          "publishedOn": "2022-07-30T01:00:02.000Z",
+          "wordCount": 577,
+          "title": "What’s New in Eth2 - HackMD",
+          "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LrRmMuKQoe8&feature=youtu.be",
           "author": null,
           "description": "Why the Crypto Industry Believes SEC Regulation by Enforcement Hurts US Consumers - Ep. 378",
-          "link": "https://www.youtube.com/watch?v=LrRmMuKQoe8",
+          "link": "https://www.youtube.com/watch?v=LrRmMuKQoe8&feature=youtu.be",
           "publishedOn": "2022-07-29T22:00:05.000Z",
           "wordCount": null,
           "title": "Why the Crypto Industry Believes SEC Regulation by Enforcement Hurts US Consumers - Ep. 378",
@@ -96,22 +146,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://euroweeklynews.com/2022/07/29/chinas-army-posts-get-ready-for-war-message-over-us-visit-to-taiwan/",
-          "author": null,
-          "description": "China's Army posts \"Get ready for war!\" message over US visit to Taiwan",
-          "link": "https://euroweeklynews.com/2022/07/29/chinas-army-posts-get-ready-for-war-message-over-us-visit-to-taiwan/",
-          "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 2778,
-          "title": "China's Army posts \"Get ready for war!\" message over US visit to Taiwan",
-          "imageUrl": "https://euroweeklynews.com/wp-content/uploads/2022/07/china-army-scaled.jpg"
-        },
-        {
           "id": "https://arxiv.org/abs/2207.13135",
           "author": null,
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 611,
+          "wordCount": 582,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
@@ -126,14 +166,14 @@
           "imageUrl": "https://paradigm.xyz/meta.png"
         },
         {
-          "id": "https://www.theblock.co/post/160262/schwab-set-to-launch-its-first-crypto-linked-etf?utm_source=twitter&utm_medium=social",
+          "id": "https://www.youtube.com/watch?v=VBPTFlpv31k",
           "author": null,
-          "description": "Schwab set to launch its first crypto-linked ETF",
-          "link": "https://www.theblock.co/post/160262/schwab-set-to-launch-its-first-crypto-linked-etf?utm_source=twitter&utm_medium=social",
+          "description": "Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307",
+          "link": "https://www.youtube.com/watch?v=VBPTFlpv31k",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 77865,
-          "title": "Schwab set to launch its first crypto-linked ETF",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/03/20210303_Charles_Schwab_Bitcoin.jpg"
+          "wordCount": null,
+          "title": "Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307",
+          "imageUrl": null
         },
         {
           "id": "https://stateful.mirror.xyz/_2_XjNGAJsN9BAj3IxPqgTykLJMQi3TX5dD4G9FHQEA",
@@ -151,19 +191,9 @@
           "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15298,
+          "wordCount": 15268,
           "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.fintechlawblog.com/2022/07/sec-v-wahi-an-enforcement-action-that-could-impact-the-broader-crypto-digital-assets-industry/",
-          "author": null,
-          "description": "SEC v. Wahi:  An Enforcement Action That Could Impact the Broader Crypto / Digital Assets Industry | FinTech Law Watch",
-          "link": "https://www.fintechlawblog.com/2022/07/sec-v-wahi-an-enforcement-action-that-could-impact-the-broader-crypto-digital-assets-industry/",
-          "publishedOn": "2022-07-29T19:00:03.000Z",
-          "wordCount": 2540,
-          "title": "SEC v. Wahi:  An Enforcement Action That Could Impact the Broader Crypto / Digital Assets Industry | FinTech Law Watch",
-          "imageUrl": null
         },
         {
           "id": "https://wassieverse.com/",
@@ -174,36 +204,6 @@
           "wordCount": 62,
           "title": "Wassieverse",
           "imageUrl": "./config/images/og-image.jpeg"
-        },
-        {
-          "id": "https://www.buzzsprout.com/1983061/11044665",
-          "author": null,
-          "description": "Episode 5: Sudoswap - The Parsec Podcast",
-          "link": "https://www.buzzsprout.com/1983061/11044665",
-          "publishedOn": "2022-07-29T18:00:05.000Z",
-          "wordCount": 349,
-          "title": "Episode 5: Sudoswap - The Parsec Podcast",
-          "imageUrl": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUDNzV3dNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2cfa4dba3813588fcae3b5a7eb4dced95d8de133/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJMU1IZ3lOVEJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERJMU1IZ3lOVEFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--7c01cea9791a272b28ad9ad979e61898eb50a271/sudo_cover.jpg"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce/",
-          "author": null,
-          "description": "Academic Grants Round grantee announcement",
-          "link": "https://blog.ethereum.org/2022/07/29/academic-grants-grantee-announce/",
-          "publishedOn": "2022-07-29T13:00:02.000Z",
-          "wordCount": 2577,
-          "title": "Academic Grants Round grantee announcement",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
-          "id": "https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/",
-          "author": null,
-          "description": "What the Merge Means for Ethereum Today [Part 1]",
-          "link": "https://future.com/what-the-merge-means-for-ethereum-with-danny-ryan/",
-          "publishedOn": "2022-07-28T19:30:05.000Z",
-          "wordCount": 4143,
-          "title": "What the Merge Means for Ethereum Today [Part 1]",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/07/Danny_Ryan_QA_1_LinkedIn.jpg"
         }
       ]
     }
