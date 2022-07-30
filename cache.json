@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.proofofhumanity.org/",
+          "author": null,
+          "description": "Proof of Humanity, a sybil-proof list of humans.",
+          "link": "https://www.proofofhumanity.org/",
+          "publishedOn": "2022-07-30T19:30:05.000Z",
+          "wordCount": 27,
+          "title": "Proof of Humanity, a sybil-proof list of humans.",
+          "imageUrl": "https://app.proofofhumanity.id/images/open-graph-image.png"
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/china-holds-live-fire-drills-taiwan-us-carrier-group-nearby-pelosis-plane-en-route",
           "author": null,
           "description": "China Launches Live-Fire Drills Off Taiwan With US Carrier Group Nearby, As Pelosi's Plane En Route To Asia | ZeroHedge",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-07-30T19:00:03.000Z",
           "wordCount": 956,
           "title": "Nuclear War Threat Higher Than In Cold War: UK National Security Advisor | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/canada-unveils-mandatory-ar-15-buyback-program-us-house-passes-assault-weapons-ban",
-          "author": null,
-          "description": "Canada Unveils \"Mandatory\" AR-15 Buyback Program; US House Passes Assault Weapons Ban | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/canada-unveils-mandatory-ar-15-buyback-program-us-house-passes-assault-weapons-ban",
-          "publishedOn": "2022-07-30T19:00:03.000Z",
-          "wordCount": 1039,
-          "title": "Canada Unveils \"Mandatory\" AR-15 Buyback Program; US House Passes Assault Weapons Ban | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -94,6 +94,16 @@
           "wordCount": null,
           "title": "\"GHO is the Next Big Stablecoin\" - Stani Kulechov | EthCC 2022 Experience #6",
           "imageUrl": null
+        },
+        {
+          "id": "https://mashable.com/article/helium-lime-web3-crypto",
+          "author": null,
+          "description": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
+          "link": "https://mashable.com/article/helium-lime-web3-crypto",
+          "publishedOn": "2022-07-30T07:30:05.000Z",
+          "wordCount": 3570,
+          "title": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
+          "imageUrl": "https://helios-i.mashable.com/imagery/articles/07LM7Ed0NaJRuamPcpULjgw/hero-image.fill.size_1200x675.v1659114052.jpg"
         },
         {
           "id": "https://insights.deribit.com/market-research/miners-will-accept-eip-1559-here-is-why/",
@@ -161,7 +171,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 611,
+          "wordCount": 582,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
@@ -194,16 +204,6 @@
           "wordCount": 1899,
           "title": "Announcing “New Home of the Heart:” a benefit NFT sale for the c…",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/nDDWRfPhH-QeDltIH5liN.png?height=1000&width=2000&h=1000&w=2000&auto=compress"
-        },
-        {
-          "id": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
-          "author": null,
-          "description": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
-          "link": "https://www.cnbc.com/video/2022/07/29/leading-indicators-show-cpi-will-be-under-2percent-in-6-months-says-fundstrats-tom-lee.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
-          "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 15268,
-          "title": "Leading indicators show CPI will be under 2% in 6 months, says Fundstrat's Tom Lee",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107096177-16591123071659112303-24582176378-1080pnbcnews.jpg?v=1659112306&w=1920&h=1080"
         }
       ]
     }
