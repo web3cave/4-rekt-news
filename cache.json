@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.mattblaze.org/papers/safelocks.pdf",
-          "author": null,
-          "description": "[PDF] safelocks.pdf",
-          "link": "https://www.mattblaze.org/papers/safelocks.pdf",
-          "publishedOn": "2022-07-31T13:30:04.000Z",
-          "wordCount": 43820,
-          "title": "[PDF] safelocks.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/economics/israels-war-cash-about-get-more-drastic",
           "author": null,
           "description": "Israel's War On Cash Is About To Get More Drastic | ZeroHedge",
@@ -44,6 +34,16 @@
           "wordCount": 530,
           "title": "NFTBoxes",
           "imageUrl": "https://www.nftboxes.io/images/banner.png"
+        },
+        {
+          "id": "https://create.zora.co/",
+          "author": null,
+          "description": "ZORA Creator",
+          "link": "https://create.zora.co/",
+          "publishedOn": "2022-07-31T12:30:03.000Z",
+          "wordCount": 968,
+          "title": "ZORA Creator",
+          "imageUrl": null
         },
         {
           "id": "https://mexico.ethglobal.com/",
@@ -91,7 +91,7 @@
           "description": "✂️ Saylor on Ethereum and the Bible",
           "link": "https://www.youtube.com/clip/Ugkxt4DSToXV8ECss0KbLtTsPCfRIsm_B43v",
           "publishedOn": "2022-07-31T03:00:02.000Z",
-          "wordCount": 4883,
+          "wordCount": 4879,
           "title": "✂️ Saylor on Ethereum and the Bible",
           "imageUrl": "https://i.ytimg.com/vi/B1PI7BCjopk/maxresdefault.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 611,
+          "wordCount": 582,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
