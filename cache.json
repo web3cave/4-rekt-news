@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://syzygy-tables.info/?fen=K7/N7/k7/8/3p4/8/N7/8_w_-_-_0_1",
+          "author": null,
+          "description": "KNNvKP – Syzygy endgame tablebases",
+          "link": "https://syzygy-tables.info/?fen=K7/N7/k7/8/3p4/8/N7/8_w_-_-_0_1",
+          "publishedOn": "2022-07-31T09:00:05.000Z",
+          "wordCount": 139,
+          "title": "KNNvKP – Syzygy endgame tablebases",
+          "imageUrl": "https://backscattering.de/web-boardimage/board.png?fen=K7/N7/k7/8/3p4/8/N7/8"
+        },
+        {
+          "id": "https://syzygy-tables.info/?fen=8/8/8/8/4N2q/3K4/8/3k3N_b_-_-_0_1",
+          "author": null,
+          "description": "KNNvKQ – Syzygy endgame tablebases",
+          "link": "https://syzygy-tables.info/?fen=8/8/8/8/4N2q/3K4/8/3k3N_b_-_-_0_1",
+          "publishedOn": "2022-07-31T09:00:05.000Z",
+          "wordCount": 123,
+          "title": "KNNvKQ – Syzygy endgame tablebases",
+          "imageUrl": "https://backscattering.de/web-boardimage/board.png?fen=8/8/8/8/4N2q/3K4/8/3k3N"
+        },
+        {
+          "id": "https://trends.vercel.app/?language=solidity&time=8",
+          "author": null,
+          "description": "Trends",
+          "link": "https://trends.vercel.app/?language=solidity&time=8",
+          "publishedOn": "2022-07-31T09:00:04.000Z",
+          "wordCount": 805,
+          "title": "Trends",
+          "imageUrl": null
+        },
+        {
           "id": "https://syzygy-tables.info/?fen=1K6/2P3q1/8/8/8/8/5P2/6k1_b_-_-_0_1",
           "author": null,
           "description": "KPPvKQ – Syzygy endgame tablebases",
@@ -21,7 +51,7 @@
           "description": "East Qualifier #4 - Axie Classic World Championship Qualifiers | Community Gaming | Automated Esports Tournaments",
           "link": "https://www.communitygaming.io/tournament/east-qualifier-4-axie-classic-world-championship-qualifiers",
           "publishedOn": "2022-07-31T07:00:04.000Z",
-          "wordCount": 2195,
+          "wordCount": 2194,
           "title": "East Qualifier #4 - Axie Classic World Championship Qualifiers | Community Gaming | Automated Esports Tournaments",
           "imageUrl": "https://imgs.communitygaming.io/tournaments/east-qualifier-4-axie-classic-world-championship-qualifiers-tn-2130.jpeg"
         },
@@ -46,26 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/these-are-worlds-top-10-restaurants-2022",
-          "author": null,
-          "description": "These Are The World's Top 10 Restaurants In 2022 | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/these-are-worlds-top-10-restaurants-2022",
-          "publishedOn": "2022-07-31T04:00:04.000Z",
-          "wordCount": 628,
-          "title": "These Are The World's Top 10 Restaurants In 2022 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/pro-life-now-hate-speech",
-          "author": null,
-          "description": "Is Pro-Life Now Hate Speech? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/pro-life-now-hate-speech",
-          "publishedOn": "2022-07-31T03:30:04.000Z",
-          "wordCount": 2433,
-          "title": "Is Pro-Life Now Hate Speech? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://121g.fund/",
           "author": null,
           "description": "1.21 Gigawatts Fund",
@@ -81,7 +91,7 @@
           "description": "✂️ Saylor on Ethereum and the Bible",
           "link": "https://www.youtube.com/clip/Ugkxt4DSToXV8ECss0KbLtTsPCfRIsm_B43v",
           "publishedOn": "2022-07-31T03:00:02.000Z",
-          "wordCount": 4941,
+          "wordCount": 4933,
           "title": "✂️ Saylor on Ethereum and the Bible",
           "imageUrl": "https://i.ytimg.com/vi/B1PI7BCjopk/maxresdefault.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 32186,
           "title": "Developer Program Policy: July 27, 2022 announcement - Play Console Help",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theverge.com/2022/7/29/23284330/helium-crypto-mesh-network-lime-salesforce-denials",
-          "author": null,
-          "description": "Helium says its crypto mesh network is used by Lime and Salesforce — it isn’t",
-          "link": "https://www.theverge.com/2022/7/29/23284330/helium-crypto-mesh-network-lime-salesforce-denials",
-          "publishedOn": "2022-07-31T01:30:04.000Z",
-          "wordCount": 2058,
-          "title": "Helium says its crypto mesh network is used by Lime and Salesforce — it isn’t",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bFscAT1aIFLlnAHzfUszD2d1AZs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23587765/acastro_220524_STK428_0001.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2015/07/30/ethereum-launches/",
@@ -171,7 +171,7 @@
           "description": "Publicly verifiable quantum money from random lattices",
           "link": "https://arxiv.org/abs/2207.13135",
           "publishedOn": "2022-07-29T21:00:03.000Z",
-          "wordCount": 582,
+          "wordCount": 611,
           "title": "Publicly verifiable quantum money from random lattices",
           "imageUrl": null
         },
