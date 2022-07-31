@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?t=1050&v=4EqNwCYuQOw&feature=youtu.be",
-          "author": null,
-          "description": "Governance for Public Blockchains and DAOs -Vitalik Buterin",
-          "link": "https://www.youtube.com/watch?t=1050&v=4EqNwCYuQOw&feature=youtu.be",
-          "publishedOn": "2022-07-31T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Governance for Public Blockchains and DAOs -Vitalik Buterin",
-          "imageUrl": null
-        },
-        {
           "id": "https://zora-starter-kit.vercel.app/",
           "author": null,
           "description": "Create Next App",
@@ -26,12 +16,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://zora.co/",
+          "author": null,
+          "description": "ZORA - The NFT Marketplace Protocol",
+          "link": "https://zora.co/",
+          "publishedOn": "2022-07-31T17:00:03.000Z",
+          "wordCount": 1838,
+          "title": "ZORA - The NFT Marketplace Protocol",
+          "imageUrl": "https://zora.co/assets/og-image.png"
+        },
+        {
           "id": "https://nft.tiffany.com/?sf168618783=1",
           "author": null,
           "description": "Tiffany",
           "link": "https://nft.tiffany.com/?sf168618783=1",
           "publishedOn": "2022-07-31T17:00:02.000Z",
-          "wordCount": 21,
+          "wordCount": 30,
           "title": "Tiffany",
           "imageUrl": "https://nft.tiffany.com/feature-meta.png"
         },
@@ -141,7 +141,7 @@
           "description": "✂️ Saylor on Ethereum and the Bible",
           "link": "https://www.youtube.com/clip/Ugkxt4DSToXV8ECss0KbLtTsPCfRIsm_B43v",
           "publishedOn": "2022-07-31T03:00:02.000Z",
-          "wordCount": 4800,
+          "wordCount": 4778,
           "title": "✂️ Saylor on Ethereum and the Bible",
           "imageUrl": "https://i.ytimg.com/vi/B1PI7BCjopk/maxresdefault.jpg"
         },
@@ -156,14 +156,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://cointelegraph.com/news/ethereum-will-outpace-visa-with-zkevm-rollups-says-polygon-co-founder",
+          "id": "https://www.businessinsider.in/stock-market/news/big-short-investor-michael-burry-slams-the-white-house-for-denying-a-recession-is-looming-and-sounds-the-alarm-on-inflation-credit-card-debt-and-labor-shortages/amp_articleshow/93117435.cms",
           "author": null,
-          "description": "Ethereum will outpace Visa with zkEVM Rollups, says Polygon co-founder",
-          "link": "https://cointelegraph.com/news/ethereum-will-outpace-visa-with-zkevm-rollups-says-polygon-co-founder",
-          "publishedOn": "2022-07-30T19:30:05.000Z",
-          "wordCount": 39212,
-          "title": "Ethereum will outpace Visa with zkEVM Rollups, says Polygon co-founder",
-          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDcvNzNjNjA4MzUtMWUwNC00MzU2LWJiMWUtNGMxOGFlYmZjZDE5LnBuZw==.jpg"
+          "description": "'Big Short' investor Michael Burry slams the White House for denying a recession is looming - and sounds the alarm on...",
+          "link": "https://www.businessinsider.in/stock-market/news/big-short-investor-michael-burry-slams-the-white-house-for-denying-a-recession-is-looming-and-sounds-the-alarm-on-inflation-credit-card-debt-and-labor-shortages/amp_articleshow/93117435.cms",
+          "publishedOn": "2022-07-30T23:00:02.000Z",
+          "wordCount": 6596,
+          "title": "'Big Short' investor Michael Burry slams the White House for denying a recession is looming - and sounds the alarm on...",
+          "imageUrl": null
         },
         {
           "id": "https://blog.ethereum.org/2015/07/30/ethereum-launches/",
@@ -191,7 +191,7 @@
           "description": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "link": "https://mashable.com/article/helium-lime-web3-crypto",
           "publishedOn": "2022-07-30T07:30:05.000Z",
-          "wordCount": 3564,
+          "wordCount": 3591,
           "title": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "imageUrl": "https://helios-i.mashable.com/imagery/articles/07LM7Ed0NaJRuamPcpULjgw/hero-image.fill.size_1200x675.v1659114052.jpg"
         },
