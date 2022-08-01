@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://vitalik.ca/general/2022/06/20/backpack.html",
-          "author": null,
-          "description": "My 40-liter backpack travel guide",
-          "link": "https://vitalik.ca/general/2022/06/20/backpack.html",
-          "publishedOn": "2022-08-01T05:00:03.000Z",
-          "wordCount": 2806,
-          "title": "My 40-liter backpack travel guide",
-          "imageUrl": null
-        },
-        {
           "id": "https://rootsofprogress.org/where-is-my-flying-car",
           "author": null,
           "description": "Progress, stagnation, and flying cars",
@@ -31,7 +21,7 @@
           "description": "Bitcoin Maximalist Michael Saylor Makes the Case Against Ethereum",
           "link": "https://www.coindesk.com/business/2022/07/27/bitcoin-maximalist-michael-saylor-makes-the-case-against-ethereum/",
           "publishedOn": "2022-08-01T03:30:04.000Z",
-          "wordCount": 7805,
+          "wordCount": 7790,
           "title": "Bitcoin Maximalist Michael Saylor Makes the Case Against Ethereum",
           "imageUrl": "https://www.coindesk.com/resizer/v_WfKgf9wHFGoy-0wVRyhD-lHLg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EMABZND55REIPNEYGJH6YAN4GM.jpg"
         },
@@ -91,7 +81,7 @@
           "description": "GitHub - ethereum/fe: Emerging smart contract language for the Ethereum blockchain.",
           "link": "https://github.com/ethereum/fe",
           "publishedOn": "2022-07-31T22:00:05.000Z",
-          "wordCount": 964,
+          "wordCount": 828,
           "title": "GitHub - ethereum/fe: Emerging smart contract language for the Ethereum blockchain.",
           "imageUrl": "https://opengraph.githubassets.com/820517f3c1c605ac7b71140689ded411e2daacf31831ad7c39e3b816a6cc0c6e/ethereum/fe"
         },
@@ -174,6 +164,16 @@
           "wordCount": 1440,
           "title": "Tiffany",
           "imageUrl": "https://nft.tiffany.com/feature-meta.png"
+        },
+        {
+          "id": "https://www.flightradar24.com/SPAR19/2cdf5e4d",
+          "author": null,
+          "description": "Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+          "link": "https://www.flightradar24.com/SPAR19/2cdf5e4d",
+          "publishedOn": "2022-07-31T17:00:02.000Z",
+          "wordCount": 2463,
+          "title": "Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+          "imageUrl": "https://images.flightradar24.com/opengraph/fr24_logo_default.png"
         },
         {
           "id": "https://www.zerohedge.com/economics/israels-war-cash-about-get-more-drastic",
