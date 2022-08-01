@@ -6,43 +6,53 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/sinoglobalcap",
+          "id": "https://eips.ethereum.org/EIPS/eip-173",
           "author": null,
-          "description": "sinoglobalcap - Overview",
-          "link": "https://github.com/sinoglobalcap",
-          "publishedOn": "2022-08-01T16:30:04.000Z",
-          "wordCount": 407,
-          "title": "sinoglobalcap - Overview",
-          "imageUrl": "https://avatars.githubusercontent.com/u/78551662?v=4?s=400"
+          "description": "EIP-173: Contract Ownership Standard",
+          "link": "https://eips.ethereum.org/EIPS/eip-173",
+          "publishedOn": "2022-08-01T17:00:03.000Z",
+          "wordCount": 963,
+          "title": "EIP-173: Contract Ownership Standard",
+          "imageUrl": null
         },
         {
-          "id": "https://sinoglobalcap.medium.com/",
+          "id": "https://eips.ethereum.org/EIPS/eip-5133",
           "author": null,
-          "description": "Sino Global Capital – Medium",
-          "link": "https://sinoglobalcap.medium.com/",
-          "publishedOn": "2022-08-01T16:30:04.000Z",
-          "wordCount": 1907,
-          "title": "Sino Global Capital – Medium",
-          "imageUrl": "https://miro.medium.com/max/2400/1*07qaAeo37_EgcytLMuWIcg.png"
+          "description": "EIP-5133: Delaying Difficulty Bomb to mid-September 2022",
+          "link": "https://eips.ethereum.org/EIPS/eip-5133",
+          "publishedOn": "2022-08-01T17:00:03.000Z",
+          "wordCount": 558,
+          "title": "EIP-5133: Delaying Difficulty Bomb to mid-September 2022",
+          "imageUrl": null
         },
         {
-          "id": "https://app.clearpool.finance/",
+          "id": "https://www.youtube.com/watch?app=desktop&v=N5p0TB77flM",
           "author": null,
-          "description": "Market leading returns on USDC",
-          "link": "https://app.clearpool.finance/",
-          "publishedOn": "2022-08-01T16:30:04.000Z",
-          "wordCount": 141,
-          "title": "Market leading returns on USDC",
-          "imageUrl": "https://app.clearpool.finance/images/opengraph.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8cTfaNkkUoA&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum turns 7, Layer 2 chat and much more - The Daily Gwei Refuel #418 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=8cTfaNkkUoA&feature=youtu.be",
-          "publishedOn": "2022-08-01T16:00:05.000Z",
+          "description": "119 - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Tim Beiko",
+          "link": "https://www.youtube.com/watch?app=desktop&v=N5p0TB77flM",
+          "publishedOn": "2022-08-01T17:00:03.000Z",
           "wordCount": null,
-          "title": "Ethereum turns 7, Layer 2 chat and much more - The Daily Gwei Refuel #418 - Ethereum Updates",
+          "title": "119 - Dive into Danksharding | Vitalik, Dankrad, Protolambda, Tim Beiko",
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu#details",
+          "author": null,
+          "description": "130 - How to Fix DeFi Tokens | Hasu",
+          "link": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu#details",
+          "publishedOn": "2022-08-01T17:00:02.000Z",
+          "wordCount": 2022,
+          "title": "130 - How to Fix DeFi Tokens | Hasu",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1qqkoGatPdE"
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-155",
+          "author": null,
+          "description": "EIP-155: Simple replay attack protection",
+          "link": "https://eips.ethereum.org/EIPS/eip-155",
+          "publishedOn": "2022-08-01T15:30:05.000Z",
+          "wordCount": 522,
+          "title": "EIP-155: Simple replay attack protection",
           "imageUrl": null
         },
         {
@@ -81,7 +91,7 @@
           "description": "Ether derivatives trading is surging as large hedge funds speculate on merge",
           "link": "https://www.theblock.co/post/160423/hedge-funds-are-pouring-into-ether-derivatives-ahead-of-the-merge",
           "publishedOn": "2022-08-01T03:30:03.000Z",
-          "wordCount": 78186,
+          "wordCount": 78205,
           "title": "Ether derivatives trading is surging as large hedge funds speculate on merge",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-3.jpg"
         },
@@ -121,9 +131,9 @@
           "description": "unroll `in` and `not in` statements by charles-cooper · Pull Request #3017 · vyperlang/vyper",
           "link": "https://github.com/vyperlang/vyper/pull/3017",
           "publishedOn": "2022-07-31T23:00:02.000Z",
-          "wordCount": 1109,
+          "wordCount": 1107,
           "title": "unroll `in` and `not in` statements by charles-cooper · Pull Request #3017 · vyperlang/vyper",
-          "imageUrl": "https://opengraph.githubassets.com/0f50379d8c9c5b9061ac144f05e975d4e2d6f7845c1dc76ced2f07e983dc240d/vyperlang/vyper/pull/3017"
+          "imageUrl": "https://opengraph.githubassets.com/bbd30857c59356ce7abc29b1d8f481a82d551f8f3831b7265ae71454662b4e30/vyperlang/vyper/pull/3017"
         },
         {
           "id": "https://www.thepullrequest.com/p/the-right-to-never-be-forgotten",
@@ -141,7 +151,7 @@
           "description": "Tiffany & Co. announces NFT-backed, limited edition CryptoPunk pendants",
           "link": "https://www.theblock.co/post/160284/tiffany-co-announces-nft-backed-limited-edition-cryptopunk-pendants?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-07-31T20:30:03.000Z",
-          "wordCount": 78013,
+          "wordCount": 78019,
           "title": "Tiffany & Co. announces NFT-backed, limited edition CryptoPunk pendants",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/cryptopunks.jpeg"
         },
@@ -176,22 +186,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.ghostscript.com/blog/pdfi.html",
-          "author": null,
-          "description": "Ghostscript : PDFI",
-          "link": "https://www.ghostscript.com/blog/pdfi.html",
-          "publishedOn": "2022-07-31T19:00:02.000Z",
-          "wordCount": 1299,
-          "title": "Ghostscript : PDFI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/channel/UCfZnTvJ2oz9RoROuH-jY6Jg",
           "author": null,
           "description": "Cryptocito Clips - YouTube",
           "link": "https://www.youtube.com/channel/UCfZnTvJ2oz9RoROuH-jY6Jg",
           "publishedOn": "2022-07-31T18:30:02.000Z",
-          "wordCount": 1995,
+          "wordCount": 1991,
           "title": "Cryptocito Clips - YouTube",
           "imageUrl": "https://yt3.ggpht.com/ChCyEqmvM4Vh9PxIVToe-ZT-TSRE0HeZGwBwm7GcqIvRfDkN6Koj17UYqQWAE7yuSOTYXyz5MA=s900-c-k-c0x00ffffff-no-rj"
         },
