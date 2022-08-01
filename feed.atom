@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-01T18:30:41.963Z</id>
+    <id>urn:2022-08-01T19:17:15.139Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-01T18:30:41.963Z</updated>
+    <updated>2022-08-01T19:17:15.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Cboe reports $460 million write-down on ErisX acquisition]]></title>
-        <id>https://www.theblock.co/post/160602/cboe-reports-460-million-write-down-on-erisx-acquisition</id>
-        <link href="https://www.theblock.co/post/160602/cboe-reports-460-million-write-down-on-erisx-acquisition"/>
-        <updated>2022-08-01T18:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Cboe reports $460 million write-down on ErisX acquisition]]></summary>
+        <title type="html"><![CDATA[Meridian]]></title>
+        <id>https://www.vetroeditions.com/products/meridian</id>
+        <link href="https://www.vetroeditions.com/products/meridian"/>
+        <updated>2022-08-01T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Meridian]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></title>
+        <id>https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#rewards-and-penalties</id>
+        <link href="https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#rewards-and-penalties"/>
+        <updated>2022-08-01T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -41,16 +51,6 @@
         <link href="https://eips.ethereum.org/EIPS/eip-5133"/>
         <updated>2022-08-01T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[EIP-5133: Delaying Difficulty Bomb to mid-September 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halting The SEC's Regulatory Attack On Crypto | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/crypto/halting-secs-regulatory-attack-crypto</id>
-        <link href="https://www.zerohedge.com/crypto/halting-secs-regulatory-attack-crypto"/>
-        <updated>2022-08-01T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Halting The SEC's Regulatory Attack On Crypto | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -197,8 +197,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiffany]]></title>
-        <id>https://nft.tiffany.com/?sf168618783=1</id>
-        <link href="https://nft.tiffany.com/?sf168618783=1"/>
+        <id>https://nft.tiffany.com/</id>
+        <link href="https://nft.tiffany.com/"/>
         <updated>2022-07-31T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Tiffany]]></summary>
         <author>
