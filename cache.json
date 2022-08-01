@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/hedge-funds-bullish-us-diesel-inventories-dwindle",
+          "author": null,
+          "description": "Hedge Funds Bullish On U.S. Diesel As Inventories Dwindle | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/hedge-funds-bullish-us-diesel-inventories-dwindle",
+          "publishedOn": "2022-08-01T19:30:05.000Z",
+          "wordCount": 599,
+          "title": "Hedge Funds Bullish On U.S. Diesel As Inventories Dwindle | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://haseebq.com/ethereum-is-now-unforkable-thanks-to-defi/",
+          "author": null,
+          "description": "Ethereum is now unforkable, thanks to DeFi",
+          "link": "https://haseebq.com/ethereum-is-now-unforkable-thanks-to-defi/",
+          "publishedOn": "2022-08-01T19:30:04.000Z",
+          "wordCount": 2254,
+          "title": "Ethereum is now unforkable, thanks to DeFi",
+          "imageUrl": "https://haseebq.com/images/ether-coins.png"
+        },
+        {
           "id": "https://www.vetroeditions.com/products/meridian",
           "author": null,
           "description": "Meridian",
@@ -14,16 +34,6 @@
           "wordCount": 4049,
           "title": "Meridian",
           "imageUrl": "http://cdn.shopify.com/s/files/1/0561/8817/4542/products/MERIDIAN_Presale_Mockup_1_5_1200x1200.png?v=1658740746"
-        },
-        {
-          "id": "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#rewards-and-penalties",
-          "author": null,
-          "description": "consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs",
-          "link": "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#rewards-and-penalties",
-          "publishedOn": "2022-08-01T19:00:02.000Z",
-          "wordCount": 6204,
-          "title": "consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs",
-          "imageUrl": "https://opengraph.githubassets.com/ee7cb2122b9664b3c6960890a2b9602454088364fb6c7a66e48924e15bfa019b/ethereum/consensus-specs"
         },
         {
           "id": "https://www.cnn.com/2022/08/01/perspectives/cryptocurrency-government-regulation/index.html",
@@ -76,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theverge.com/2022/7/29/23284330/helium-crypto-mesh-network-lime-salesforce-denials",
+          "author": null,
+          "description": "Helium says its crypto mesh network is used by Lime and Salesforce — it isn’t",
+          "link": "https://www.theverge.com/2022/7/29/23284330/helium-crypto-mesh-network-lime-salesforce-denials",
+          "publishedOn": "2022-08-01T14:00:05.000Z",
+          "wordCount": 2058,
+          "title": "Helium says its crypto mesh network is used by Lime and Salesforce — it isn’t",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bFscAT1aIFLlnAHzfUszD2d1AZs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23587765/acastro_220524_STK428_0001.jpg"
+        },
+        {
           "id": "https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf",
           "author": null,
           "description": "[PDF] Wright-v-McCormack-Judgment.pdf",
@@ -111,7 +131,7 @@
           "description": "Ether derivatives trading is surging as large hedge funds speculate on merge",
           "link": "https://www.theblock.co/post/160423/hedge-funds-are-pouring-into-ether-derivatives-ahead-of-the-merge",
           "publishedOn": "2022-08-01T03:30:03.000Z",
-          "wordCount": 78775,
+          "wordCount": 78793,
           "title": "Ether derivatives trading is surging as large hedge funds speculate on merge",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-3.jpg"
         },
@@ -146,16 +166,6 @@
           "imageUrl": "https://lh6.googleusercontent.com/z1ckuk3kWYmGZB1zrrFieX0OTg5gRWjiSOHjzdf5VIiI7f952b-8eDeaco5LWEf8z_lrZUP1x7QbRg=w1200-h630-p"
         },
         {
-          "id": "https://github.com/vyperlang/vyper/pull/3017",
-          "author": null,
-          "description": "unroll `in` and `not in` statements by charles-cooper · Pull Request #3017 · vyperlang/vyper",
-          "link": "https://github.com/vyperlang/vyper/pull/3017",
-          "publishedOn": "2022-07-31T23:00:02.000Z",
-          "wordCount": 1107,
-          "title": "unroll `in` and `not in` statements by charles-cooper · Pull Request #3017 · vyperlang/vyper",
-          "imageUrl": "https://opengraph.githubassets.com/bbd30857c59356ce7abc29b1d8f481a82d551f8f3831b7265ae71454662b4e30/vyperlang/vyper/pull/3017"
-        },
-        {
           "id": "https://amirbolous.com/posts/crypto-frustrations/",
           "author": null,
           "description": "What I'm frustrated by in crypto",
@@ -174,16 +184,6 @@
           "wordCount": 6076,
           "title": "The right to never be forgotten",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd349a7e7-5bd3-4c8b-b1b9-69ee50601bb3_5120x3413.jpeg"
-        },
-        {
-          "id": "https://www.theblock.co/post/160284/tiffany-co-announces-nft-backed-limited-edition-cryptopunk-pendants?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Tiffany & Co. announces NFT-backed, limited edition CryptoPunk pendants",
-          "link": "https://www.theblock.co/post/160284/tiffany-co-announces-nft-backed-limited-edition-cryptopunk-pendants?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-07-31T20:30:03.000Z",
-          "wordCount": 78601,
-          "title": "Tiffany & Co. announces NFT-backed, limited edition CryptoPunk pendants",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/cryptopunks.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=6lsAOSCT4oY",
