@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eips.ethereum.org/EIPS/eip-5133",
+          "author": null,
+          "description": "EIP-5133: Delaying Difficulty Bomb to mid-September 2022",
+          "link": "https://eips.ethereum.org/EIPS/eip-5133",
+          "publishedOn": "2022-08-02T08:00:04.000Z",
+          "wordCount": 558,
+          "title": "EIP-5133: Delaying Difficulty Bomb to mid-September 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://pythnetwork.medium.com/introducing-pythnet-f54192c355c5",
           "author": null,
           "description": "Introducing Pythnet",
@@ -41,9 +51,9 @@
           "description": "GitHub - allemanfredi/lens-protocol-promote-module: This Lens Protocol module allows you to create a Transparent...",
           "link": "https://github.com/allemanfredi/lens-protocol-promote-module",
           "publishedOn": "2022-08-01T23:00:03.000Z",
-          "wordCount": 657,
+          "wordCount": 585,
           "title": "GitHub - allemanfredi/lens-protocol-promote-module: This Lens Protocol module allows you to create a Transparent...",
-          "imageUrl": "https://opengraph.githubassets.com/3fb5f4652f7414906efb58e989e2e7c0a1bc6a05b6fb27b4052eaab27c3d5dfe/allemanfredi/lens-protocol-promote-module"
+          "imageUrl": "https://opengraph.githubassets.com/fccbbaeb2f0996d6e7437bbff49eb273d2417b1eaf3c1c14aa39e8bd0ee0e02b/allemanfredi/lens-protocol-promote-module"
         },
         {
           "id": "https://beaconchain.goerlishadowfork6.ethdevops.io/",
@@ -93,7 +103,7 @@
           "publishedOn": "2022-08-01T23:00:02.000Z",
           "wordCount": 591,
           "title": "merge-testnets/goerli-shadow-fork-6 at main · eth-clients/merge-testnets",
-          "imageUrl": "https://opengraph.githubassets.com/4a3d56941e287648c3b36408b2bf961cbf9f90368d51439df43a157c8c150e7d/eth-clients/merge-testnets"
+          "imageUrl": "https://opengraph.githubassets.com/ef2cc741b5971fb5f37e0278e006c0a7a8aaa7d6f947e954c0e1493eda190256/eth-clients/merge-testnets"
         },
         {
           "id": "https://www.ft.com/content/a2a69c08-b327-4a4d-99ff-20f92a4437f3",
@@ -101,7 +111,7 @@
           "description": "Nancy Pelosi to meet Taiwan’s president on Wednesday",
           "link": "https://www.ft.com/content/a2a69c08-b327-4a4d-99ff-20f92a4437f3",
           "publishedOn": "2022-08-01T21:30:04.000Z",
-          "wordCount": 2394,
+          "wordCount": 2392,
           "title": "Nancy Pelosi to meet Taiwan’s president on Wednesday",
           "imageUrl": null
         },
@@ -154,16 +164,6 @@
           "wordCount": 36360,
           "title": "Opinion: Crypto can't rely on the government to save it from itself",
           "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220729170703-bitcoin-cryptocurrency-0419-restricted-super-tease.jpg"
-        },
-        {
-          "id": "https://eips.ethereum.org/EIPS/eip-173",
-          "author": null,
-          "description": "EIP-173: Contract Ownership Standard",
-          "link": "https://eips.ethereum.org/EIPS/eip-173",
-          "publishedOn": "2022-08-01T17:00:03.000Z",
-          "wordCount": 963,
-          "title": "EIP-173: Contract Ownership Standard",
-          "imageUrl": null
         },
         {
           "id": "https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu#details",
