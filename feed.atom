@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T08:29:21.941Z</id>
+    <id>urn:2022-08-02T09:20:59.179Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T08:29:21.941Z</updated>
+    <updated>2022-08-02T09:20:59.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -166,6 +166,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EIP-173: Contract Ownership Standard]]></title>
+        <id>https://eips.ethereum.org/EIPS/eip-173</id>
+        <link href="https://eips.ethereum.org/EIPS/eip-173"/>
+        <updated>2022-08-01T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[EIP-173: Contract Ownership Standard]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[130 - How to Fix DeFi Tokens | Hasu]]></title>
         <id>https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu#details</id>
         <link href="https://shows.banklesshq.com/p/130-how-to-fix-defi-tokens-hasu#details"/>
@@ -191,16 +201,6 @@
         <link href="https://eccc.weizmann.ac.il/report/2022/110/"/>
         <updated>2022-08-01T11:30:04.000Z</updated>
         <summary type="html"><![CDATA[ECCC - TR22-110]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiffany]]></title>
-        <id>https://nft.tiffany.com/</id>
-        <link href="https://nft.tiffany.com/"/>
-        <updated>2022-07-31T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Tiffany]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
