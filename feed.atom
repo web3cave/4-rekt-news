@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T11:18:33.051Z</id>
+    <id>urn:2022-08-02T12:48:27.951Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T11:18:33.051Z</updated>
+    <updated>2022-08-02T12:48:27.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[EIP-5133: Delaying Difficulty Bomb to mid-September 2022]]></title>
-        <id>https://eips.ethereum.org/EIPS/eip-5133</id>
-        <link href="https://eips.ethereum.org/EIPS/eip-5133"/>
-        <updated>2022-08-02T08:00:04.000Z</updated>
-        <summary type="html"><![CDATA[EIP-5133: Delaying Difficulty Bomb to mid-September 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Pythnet]]></title>
         <id>https://pythnetwork.medium.com/introducing-pythnet-f54192c355c5</id>
@@ -41,6 +31,26 @@
         <link href="https://charts.volmex.finance/"/>
         <updated>2022-08-02T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Volmex]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] docs/Nomad-Audit.pdf at 1ff0c55dba2a842c811468c57793ff9a6542ef0f · nomad-xyz/docs]]></title>
+        <id>https://github.com/nomad-xyz/docs/blob/1ff0c55dba2a842c811468c57793ff9a6542ef0f/docs/public/Nomad-Audit.pdf</id>
+        <link href="https://github.com/nomad-xyz/docs/blob/1ff0c55dba2a842c811468c57793ff9a6542ef0f/docs/public/Nomad-Audit.pdf"/>
+        <updated>2022-08-02T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] docs/Nomad-Audit.pdf at 1ff0c55dba2a842c811468c57793ff9a6542ef0f · nomad-xyz/docs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grails II by PROOF]]></title>
+        <id>https://collective.proof.xyz/grails-2</id>
+        <link href="https://collective.proof.xyz/grails-2"/>
+        <updated>2022-08-02T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Grails II by PROOF]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://www.cnn.com/2022/08/01/perspectives/cryptocurrency-government-regulation/index.html"/>
         <updated>2022-08-01T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Opinion: Crypto can't rely on the government to save it from itself]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP-173: Contract Ownership Standard]]></title>
-        <id>https://eips.ethereum.org/EIPS/eip-173</id>
-        <link href="https://eips.ethereum.org/EIPS/eip-173"/>
-        <updated>2022-08-01T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EIP-173: Contract Ownership Standard]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
