@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T19:17:34.843Z</id>
+    <id>urn:2022-08-02T20:24:17.030Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-02T19:17:34.843Z</updated>
+    <updated>2022-08-02T20:24:17.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Testnet Ethereum Explorer]]></title>
+        <id>https://explorer.goerlishadowfork6.ethdevops.io/</id>
+        <link href="https://explorer.goerlishadowfork6.ethdevops.io/"/>
+        <updated>2022-08-02T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Testnet Ethereum Explorer]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomad bridge hacked, ENS has a big July & much more - The Daily Gwei Refuel #419 - Ethereum Updates]]></title>
+        <id>https://www.youtube.com/watch?v=OGqVJhMQHOE&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=OGqVJhMQHOE&amp;feature=youtu.be"/>
+        <updated>2022-08-02T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Nomad bridge hacked, ENS has a big July & much more - The Daily Gwei Refuel #419 - Ethereum Updates]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Centralized Food Production Crisis | Anthony Gustin]]></title>
         <id>https://www.youtube.com/watch?v=DJ7LdADWCd0</id>
@@ -136,6 +156,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PDF] docs/Nomad-Audit.pdf at 1ff0c55dba2a842c811468c57793ff9a6542ef0f · nomad-xyz/docs]]></title>
+        <id>https://github.com/nomad-xyz/docs/blob/1ff0c55dba2a842c811468c57793ff9a6542ef0f/docs/public/Nomad-Audit.pdf</id>
+        <link href="https://github.com/nomad-xyz/docs/blob/1ff0c55dba2a842c811468c57793ff9a6542ef0f/docs/public/Nomad-Audit.pdf"/>
+        <updated>2022-08-02T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] docs/Nomad-Audit.pdf at 1ff0c55dba2a842c811468c57793ff9a6542ef0f · nomad-xyz/docs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aglaé Ventures - Global tech VC firm (early stage & Growth) - Paris - SF]]></title>
         <id>https://aglaeventures.com/</id>
         <link href="https://aglaeventures.com/"/>
@@ -156,41 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goerli-shadow-fork-6 - Index - beaconcha.in - 2022]]></title>
-        <id>https://beaconchain.goerlishadowfork6.ethdevops.io/</id>
-        <link href="https://beaconchain.goerlishadowfork6.ethdevops.io/"/>
-        <updated>2022-08-01T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[goerli-shadow-fork-6 - Index - beaconcha.in - 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node monitor]]></title>
-        <id>https://forkmon.goerlishadowfork6.ethdevops.io/</id>
-        <link href="https://forkmon.goerlishadowfork6.ethdevops.io/"/>
-        <updated>2022-08-01T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Node monitor]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ethereum Network Status]]></title>
         <id>https://ethstats.goerlishadowfork6.ethdevops.io/</id>
         <link href="https://ethstats.goerlishadowfork6.ethdevops.io/"/>
         <updated>2022-08-01T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Network Status]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testnet Ethereum Explorer]]></title>
-        <id>https://explorer.goerlishadowfork6.ethdevops.io/</id>
-        <link href="https://explorer.goerlishadowfork6.ethdevops.io/"/>
-        <updated>2022-08-01T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Testnet Ethereum Explorer]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
