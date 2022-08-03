@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=O1iA8kQul4o&feature=youtu.be",
+          "author": null,
+          "description": "The Nouners | Jacob, Noun 40, & Noun 22 | Nouns DAO Series Ep #2",
+          "link": "https://www.youtube.com/watch?v=O1iA8kQul4o&feature=youtu.be",
+          "publishedOn": "2022-08-03T22:00:06.000Z",
+          "wordCount": null,
+          "title": "The Nouners | Jacob, Noun 40, & Noun 22 | Nouns DAO Series Ep #2",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ethereum.org/2022/08/03/sepolia-post-merge-upgrade/",
           "author": null,
           "description": "Sepolia Post-Merge Upgrade Announcement",
@@ -46,12 +56,22 @@
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUOEROGFTEI6ZDH7GOYFT5GBW4.jpg&w=1440"
         },
         {
+          "id": "https://domainnamewire.com/2022/08/03/namecheap-appears-ready-to-fight-unstoppable-domains/",
+          "author": null,
+          "description": "Namecheap appears ready to fight Unstoppable Domains - Domain Name Wire | Domain Name News",
+          "link": "https://domainnamewire.com/2022/08/03/namecheap-appears-ready-to-fight-unstoppable-domains/",
+          "publishedOn": "2022-08-03T19:00:03.000Z",
+          "wordCount": 2261,
+          "title": "Namecheap appears ready to fight Unstoppable Domains - Domain Name Wire | Domain Name News",
+          "imageUrl": "https://domainnamewire.com/wp-content/handshake-logo.jpg"
+        },
+        {
           "id": "https://www.inputmag.com/features/bored-ape-yacht-club-greg-solano-wylie-aronow-profile?utm_campaign=input&utm_content=1659528365&utm_medium=owned&utm_source=twitter",
           "author": null,
           "description": "Planet of the Bored Apes: Inside the NFT world's biggest success story",
           "link": "https://www.inputmag.com/features/bored-ape-yacht-club-greg-solano-wylie-aronow-profile?utm_campaign=input&utm_content=1659528365&utm_medium=owned&utm_source=twitter",
           "publishedOn": "2022-08-03T17:00:03.000Z",
-          "wordCount": 13228,
+          "wordCount": 13344,
           "title": "Planet of the Bored Apes: Inside the NFT world's biggest success story",
           "imageUrl": "https://imgix.bustle.com/uploads/image/2022/8/2/dec457fe-4b07-493c-b1d2-611e0d656316-bayc_cms_social_image_5.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         },
@@ -101,9 +121,9 @@
           "description": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
           "link": "https://www.theblock.co/post/161168/crypto-vc-hashed-confirms-luna-loss-3-billion",
           "publishedOn": "2022-08-03T12:30:03.000Z",
-          "wordCount": 78324,
+          "wordCount": 37828,
           "title": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220513_Luna-Terra.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
@@ -111,9 +131,19 @@
           "description": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
           "link": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-03T12:00:05.000Z",
-          "wordCount": 78391,
+          "wordCount": 37828,
           "title": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/220113_NFT_Generic2.jpg"
+          "imageUrl": null
+        },
+        {
+          "id": "https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack",
+          "author": null,
+          "description": "Solana, USDC Drained From Wallets in Epic Attack - Decrypt",
+          "link": "https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack",
+          "publishedOn": "2022-08-03T12:00:05.000Z",
+          "wordCount": 6837,
+          "title": "Solana, USDC Drained From Wallets in Epic Attack - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/hacker-laptop-wallet-gID_1.png"
         },
         {
           "id": "https://cryptofees.info/",
@@ -146,26 +176,6 @@
           "imageUrl": "https://images.wsj.net/im-595409/social"
         },
         {
-          "id": "https://blog.hubbleprotocol.io/net-outflow-caps/",
-          "author": null,
-          "description": "Hubble Adds Net Outflow Caps to Enhance Security",
-          "link": "https://blog.hubbleprotocol.io/net-outflow-caps/",
-          "publishedOn": "2022-08-03T01:00:02.000Z",
-          "wordCount": 1814,
-          "title": "Hubble Adds Net Outflow Caps to Enhance Security",
-          "imageUrl": "https://blog.hubbleprotocol.io/content/images/2022/08/Net-outflow-caps.png"
-        },
-        {
-          "id": "https://finance.yahoo.com/news/michael-saylor-microstrategy-ceo-bitcoin-204325431.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
-          "author": null,
-          "description": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
-          "link": "https://finance.yahoo.com/news/michael-saylor-microstrategy-ceo-bitcoin-204325431.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
-          "publishedOn": "2022-08-02T23:00:03.000Z",
-          "wordCount": 15131,
-          "title": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BDqThjI_kepnJ1OJaLpU6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/17924630-e82c-11ec-ab7b-52a6c1c93703"
-        },
-        {
           "id": "https://prestonbyrne.com/2022/08/02/craig-wrights-pyrrhic-victory-proves-that-english-libel-law-needs-to-be-reformed-right-now/",
           "author": null,
           "description": "Craig Wright’s Pyrrhic victory proves that English libel law needs to be reformed, right now",
@@ -194,16 +204,6 @@
           "wordCount": 8562,
           "title": "Sufficient Decentralization – Variant",
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/03/careers-image-1.png"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/587",
-          "author": null,
-          "description": "KZG-Ceremony Call #5 · Issue #587 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/587",
-          "publishedOn": "2022-08-02T21:30:04.000Z",
-          "wordCount": 444,
-          "title": "KZG-Ceremony Call #5 · Issue #587 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/f6240b01210ddcdf878e75f50ba71c894cfd47d75403754f6af97af813c0b967/ethereum/pm/issues/587"
         }
       ]
     }
