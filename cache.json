@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2022/08/03/sepolia-post-merge-upgrade/",
+          "author": null,
+          "description": "Sepolia Post-Merge Upgrade Announcement",
+          "link": "https://blog.ethereum.org/2022/08/03/sepolia-post-merge-upgrade/",
+          "publishedOn": "2022-08-03T21:00:04.000Z",
+          "wordCount": 1191,
+          "title": "Sepolia Post-Merge Upgrade Announcement",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
+        },
+        {
+          "id": "https://alien-alpha.softr.app/keyboard-monkey",
+          "author": null,
+          "description": "Keyboard Monkey Fashion Airdrop",
+          "link": "https://alien-alpha.softr.app/keyboard-monkey",
+          "publishedOn": "2022-08-03T21:00:03.000Z",
+          "wordCount": 2356,
+          "title": "Keyboard Monkey Fashion Airdrop",
+          "imageUrl": "https://softr-prod.imgix.net/applications/3504de8a-d42f-45c6-8bd6-8b4c999950fd/assets/d9165722-2e7d-4f4e-9201-5a2acfb79f85.jpeg"
+        },
+        {
+          "id": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
+          "author": null,
+          "description": "Goerli/Prater Merge Announcement",
+          "link": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
+          "publishedOn": "2022-08-03T20:30:03.000Z",
+          "wordCount": 2327,
+          "title": "Goerli/Prater Merge Announcement",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
+        },
+        {
           "id": "https://www.washingtonpost.com/business/2022/08/03/stabenow-boozman-bitcoin-cftc-bill/",
           "author": null,
           "description": "A Senate proposal would give CFTC responsibility for policing bitcoin, ethereum",
@@ -16,14 +46,14 @@
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUOEROGFTEI6ZDH7GOYFT5GBW4.jpg&w=1440"
         },
         {
-          "id": "https://www.chess.com/",
+          "id": "https://www.inputmag.com/features/bored-ape-yacht-club-greg-solano-wylie-aronow-profile?utm_campaign=input&utm_content=1659528365&utm_medium=owned&utm_source=twitter",
           "author": null,
-          "description": "Chess.com - Play Chess Online - Free Games",
-          "link": "https://www.chess.com/",
-          "publishedOn": "2022-08-03T19:00:03.000Z",
-          "wordCount": null,
-          "title": "Chess.com - Play Chess Online - Free Games",
-          "imageUrl": null
+          "description": "Planet of the Bored Apes: Inside the NFT world's biggest success story",
+          "link": "https://www.inputmag.com/features/bored-ape-yacht-club-greg-solano-wylie-aronow-profile?utm_campaign=input&utm_content=1659528365&utm_medium=owned&utm_source=twitter",
+          "publishedOn": "2022-08-03T17:00:03.000Z",
+          "wordCount": 13228,
+          "title": "Planet of the Bored Apes: Inside the NFT world's biggest success story",
+          "imageUrl": "https://imgix.bustle.com/uploads/image/2022/8/2/dec457fe-4b07-493c-b1d2-611e0d656316-bayc_cms_social_image_5.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         },
         {
           "id": "https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/",
@@ -41,7 +71,7 @@
           "description": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "link": "https://www.wsj.com/articles/senate-plan-would-put-bitcoin-ether-under-commodity-regulators-watch-11659499261?mod=e2tw",
           "publishedOn": "2022-08-03T17:00:02.000Z",
-          "wordCount": 6514,
+          "wordCount": 6502,
           "title": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "imageUrl": "https://images.wsj.net/im-592848/social"
         },
@@ -66,22 +96,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://variety.com/2022/film/news/batgirl-not-released-warner-bros-hbo-max-1235331897/",
-          "author": null,
-          "description": "‘Batgirl’ Film Axed by Warner Bros., Won’t Be Released on Any Platform",
-          "link": "https://variety.com/2022/film/news/batgirl-not-released-warner-bros-hbo-max-1235331897/",
-          "publishedOn": "2022-08-03T16:00:05.000Z",
-          "wordCount": 8059,
-          "title": "‘Batgirl’ Film Axed by Warner Bros., Won’t Be Released on Any Platform",
-          "imageUrl": "https://variety.com/wp-content/uploads/2022/08/Batgirl.jpg?w=1000"
-        },
-        {
           "id": "https://www.theblock.co/post/161168/crypto-vc-hashed-confirms-luna-loss-3-billion",
           "author": null,
           "description": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
           "link": "https://www.theblock.co/post/161168/crypto-vc-hashed-confirms-luna-loss-3-billion",
           "publishedOn": "2022-08-03T12:30:03.000Z",
-          "wordCount": 78602,
+          "wordCount": 78324,
           "title": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220513_Luna-Terra.jpg"
         },
@@ -91,7 +111,7 @@
           "description": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
           "link": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-03T12:00:05.000Z",
-          "wordCount": 78669,
+          "wordCount": 78391,
           "title": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/220113_NFT_Generic2.jpg"
         },
@@ -121,7 +141,7 @@
           "description": "Opinion | The SEC’s Cryptocurrency Confusion",
           "link": "https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-coinbase-tokens-securities-register-payment-bitcoin-equity-scam-regulation-11659463294",
           "publishedOn": "2022-08-03T03:30:04.000Z",
-          "wordCount": 5484,
+          "wordCount": 5490,
           "title": "Opinion | The SEC’s Cryptocurrency Confusion",
           "imageUrl": "https://images.wsj.net/im-595409/social"
         },
@@ -136,22 +156,12 @@
           "imageUrl": "https://blog.hubbleprotocol.io/content/images/2022/08/Net-outflow-caps.png"
         },
         {
-          "id": "https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role",
-          "author": null,
-          "description": "Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role",
-          "link": "https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role",
-          "publishedOn": "2022-08-02T23:00:03.000Z",
-          "wordCount": 78615,
-          "title": "Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201207_Microstrategy-Daily.jpg"
-        },
-        {
           "id": "https://finance.yahoo.com/news/michael-saylor-microstrategy-ceo-bitcoin-204325431.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "author": null,
           "description": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
           "link": "https://finance.yahoo.com/news/michael-saylor-microstrategy-ceo-bitcoin-204325431.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-08-02T23:00:03.000Z",
-          "wordCount": 15004,
+          "wordCount": 15131,
           "title": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BDqThjI_kepnJ1OJaLpU6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/17924630-e82c-11ec-ab7b-52a6c1c93703"
         },
@@ -184,16 +194,6 @@
           "wordCount": 8562,
           "title": "Sufficient Decentralization – Variant",
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/03/careers-image-1.png"
-        },
-        {
-          "id": "https://rekt.news/nomad-rekt/",
-          "author": null,
-          "description": "Rekt - Nomad Bridge - REKT",
-          "link": "https://rekt.news/nomad-rekt/",
-          "publishedOn": "2022-08-02T21:30:04.000Z",
-          "wordCount": 2004,
-          "title": "Rekt - Nomad Bridge - REKT",
-          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/07/nomad-header.png"
         },
         {
           "id": "https://github.com/ethereum/pm/issues/587",
