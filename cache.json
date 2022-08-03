@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
+          "author": null,
+          "description": "Goerli/Prater Merge Announcement",
+          "link": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
+          "publishedOn": "2022-08-03T17:00:03.000Z",
+          "wordCount": 2327,
+          "title": "Goerli/Prater Merge Announcement",
+          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
+        },
+        {
           "id": "https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/",
           "author": null,
           "description": "A new Senate bill focuses on cryptocurrency exchanges. Here’s what developers and users should keep an eye on. - Coin...",
@@ -21,7 +31,7 @@
           "description": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "link": "https://www.wsj.com/articles/senate-plan-would-put-bitcoin-ether-under-commodity-regulators-watch-11659499261?mod=e2tw",
           "publishedOn": "2022-08-03T17:00:02.000Z",
-          "wordCount": 6496,
+          "wordCount": 6514,
           "title": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "imageUrl": "https://images.wsj.net/im-592848/social"
         },
@@ -51,19 +61,9 @@
           "description": "‘Batgirl’ Film Axed by Warner Bros., Won’t Be Released on Any Platform",
           "link": "https://variety.com/2022/film/news/batgirl-not-released-warner-bros-hbo-max-1235331897/",
           "publishedOn": "2022-08-03T16:00:05.000Z",
-          "wordCount": 8016,
+          "wordCount": 8028,
           "title": "‘Batgirl’ Film Axed by Warner Bros., Won’t Be Released on Any Platform",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/08/Batgirl.jpg?w=1000"
-        },
-        {
-          "id": "https://www.meetup.com/ethvancouver-meetup-group/events/287562636/",
-          "author": null,
-          "description": "THE MERGE - TIM BEIKO & AFTERPARTY | Moving Ethereum to Proof-of-Stake |, Fri, Aug 5, 2022, 6:00 PM   | Meetup",
-          "link": "https://www.meetup.com/ethvancouver-meetup-group/events/287562636/",
-          "publishedOn": "2022-08-03T15:00:03.000Z",
-          "wordCount": 985,
-          "title": "THE MERGE - TIM BEIKO & AFTERPARTY | Moving Ethereum to Proof-of-Stake |, Fri, Aug 5, 2022, 6:00 PM   | Meetup",
-          "imageUrl": "https://secure-content.meetupstatic.com/images/classic-events/505989120/676x380.jpg"
         },
         {
           "id": "https://www.theblock.co/post/161168/crypto-vc-hashed-confirms-luna-loss-3-billion",
@@ -71,7 +71,7 @@
           "description": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
           "link": "https://www.theblock.co/post/161168/crypto-vc-hashed-confirms-luna-loss-3-billion",
           "publishedOn": "2022-08-03T12:30:03.000Z",
-          "wordCount": 78909,
+          "wordCount": 78478,
           "title": "Crypto VC firm Hashed confirms losing more than $3 billion in luna crash: Bloomberg",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220513_Luna-Terra.jpg"
         },
@@ -81,7 +81,7 @@
           "description": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
           "link": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-03T12:00:05.000Z",
-          "wordCount": 78976,
+          "wordCount": 78647,
           "title": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/220113_NFT_Generic2.jpg"
         },
@@ -111,7 +111,7 @@
           "description": "Opinion | The SEC’s Cryptocurrency Confusion",
           "link": "https://www.wsj.com/articles/the-secs-cryptocurrency-confusion-coinbase-tokens-securities-register-payment-bitcoin-equity-scam-regulation-11659463294",
           "publishedOn": "2022-08-03T03:30:04.000Z",
-          "wordCount": 5499,
+          "wordCount": 5484,
           "title": "Opinion | The SEC’s Cryptocurrency Confusion",
           "imageUrl": "https://images.wsj.net/im-595409/social"
         },
@@ -131,7 +131,7 @@
           "description": "Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role",
           "link": "https://www.theblock.co/post/161025/michael-saylor-to-step-down-as-microstrategy-ceo-shift-to-executive-chairman-role",
           "publishedOn": "2022-08-02T23:00:03.000Z",
-          "wordCount": 78922,
+          "wordCount": 78593,
           "title": "Michael Saylor to step down as MicroStrategy CEO, shift to executive chairman role",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201207_Microstrategy-Daily.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
           "link": "https://finance.yahoo.com/news/michael-saylor-microstrategy-ceo-bitcoin-204325431.html?ncid=twitter_yfsocialtw_l1gbd0noiom",
           "publishedOn": "2022-08-02T23:00:03.000Z",
-          "wordCount": 15108,
+          "wordCount": 15150,
           "title": "Michael Saylor steps down as MicroStrategy CEO, company takes $917 million charge on bitcoin",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/BDqThjI_kepnJ1OJaLpU6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/17924630-e82c-11ec-ab7b-52a6c1c93703"
         },
