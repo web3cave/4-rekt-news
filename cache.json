@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.shapeshift.com/",
+          "author": null,
+          "description": "ShapeShift DAO",
+          "link": "https://app.shapeshift.com/",
+          "publishedOn": "2022-08-04T12:00:05.000Z",
+          "wordCount": 9,
+          "title": "ShapeShift DAO",
+          "imageUrl": "https://cloudflare-ipfs.com/ipfs/bafkreih6dv4vseypunkzoy6padk4d44mgnu6olzzn4lp6ww4s7upf3woau"
+        },
+        {
+          "id": "https://vitalik.eth.limo/general/2022/08/04/zkevm.html",
+          "author": null,
+          "description": "The different types of ZK-EVMs",
+          "link": "https://vitalik.eth.limo/general/2022/08/04/zkevm.html",
+          "publishedOn": "2022-08-04T11:30:04.000Z",
+          "wordCount": 2298,
+          "title": "The different types of ZK-EVMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/maple-labs/revenue-distribution-token/",
+          "author": null,
+          "description": "GitHub - maple-labs/revenue-distribution-token: Token to distribute aggregated vested earnings of any underlying...",
+          "link": "https://github.com/maple-labs/revenue-distribution-token/",
+          "publishedOn": "2022-08-04T11:30:04.000Z",
+          "wordCount": 1027,
+          "title": "GitHub - maple-labs/revenue-distribution-token: Token to distribute aggregated vested earnings of any underlying...",
+          "imageUrl": "https://repository-images.githubusercontent.com/452400641/630b07ac-9afe-45ae-9f14-48ddfe753ffc"
+        },
+        {
           "id": "https://mirror.xyz/kain.eth/wstTdM5tz1LqdupcKwBCJBJ-tHNtP-CAITf-ewJqRd0",
           "author": null,
           "description": "Synthetix L2H2",
@@ -31,7 +61,7 @@
           "description": "Tiger Global blames inflation as flagship hedge fund down 50% in 2022",
           "link": "https://www.ft.com/content/87347d49-390d-408b-9059-2e5a42b5787c",
           "publishedOn": "2022-08-04T03:30:05.000Z",
-          "wordCount": 2114,
+          "wordCount": 2125,
           "title": "Tiger Global blames inflation as flagship hedge fund down 50% in 2022",
           "imageUrl": null
         },
@@ -126,16 +156,6 @@
           "imageUrl": "image/og_image.jpg"
         },
         {
-          "id": "https://domainnamewire.com/2022/08/03/namecheap-appears-ready-to-fight-unstoppable-domains/",
-          "author": null,
-          "description": "Namecheap appears ready to fight Unstoppable Domains - Domain Name Wire | Domain Name News",
-          "link": "https://domainnamewire.com/2022/08/03/namecheap-appears-ready-to-fight-unstoppable-domains/",
-          "publishedOn": "2022-08-03T19:00:03.000Z",
-          "wordCount": 2740,
-          "title": "Namecheap appears ready to fight Unstoppable Domains - Domain Name Wire | Domain Name News",
-          "imageUrl": "https://domainnamewire.com/wp-content/handshake-logo.jpg"
-        },
-        {
           "id": "https://www.coincenter.org/a-new-senate-bill-focuses-on-cryptocurrency-exchanges-heres-what-developers-and-users-should-keep-an-eye-on/",
           "author": null,
           "description": "A new Senate bill focuses on cryptocurrency exchanges. Here’s what developers and users should keep an eye on. - Coin...",
@@ -151,7 +171,7 @@
           "description": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "link": "https://www.wsj.com/articles/senate-plan-would-put-bitcoin-ether-under-commodity-regulators-watch-11659499261?mod=e2tw",
           "publishedOn": "2022-08-03T17:00:02.000Z",
-          "wordCount": 6425,
+          "wordCount": 6439,
           "title": "Senate Plan Would Put Bitcoin, Ether Under Commodity Regulator’s Watch",
           "imageUrl": "https://images.wsj.net/im-592848/social"
         },
@@ -174,26 +194,6 @@
           "wordCount": 1403,
           "title": "Creating a Squad - Squads Docs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
-          "link": "https://www.theblock.co/post/160955/nft-counterfeit-detector-marqvision-raises-20-million-in-series-a-funding?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-08-03T12:00:05.000Z",
-          "wordCount": 75642,
-          "title": "NFT counterfeit detector MarqVision raises $20 million in Series A funding",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/220113_NFT_Generic2.jpg"
-        },
-        {
-          "id": "https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack",
-          "author": null,
-          "description": "Solana, USDC Drained From Wallets in Epic Attack - Decrypt",
-          "link": "https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack",
-          "publishedOn": "2022-08-03T12:00:05.000Z",
-          "wordCount": 6974,
-          "title": "Solana, USDC Drained From Wallets in Epic Attack - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/hacker-laptop-wallet-gID_1.png"
         },
         {
           "id": "https://variant.fund/articles/sufficient-decentralization/",
