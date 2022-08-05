@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://curve.fi/",
+          "author": null,
+          "description": "Curve.fi",
+          "link": "https://curve.fi/",
+          "publishedOn": "2022-08-05T05:30:05.000Z",
+          "wordCount": 15,
+          "title": "Curve.fi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/saber-hq/stable-swap/blob/master/stable-swap-math/src/curve.rs",
+          "author": null,
+          "description": "stable-swap/curve.rs at master · saber-hq/stable-swap",
+          "link": "https://github.com/saber-hq/stable-swap/blob/master/stable-swap-math/src/curve.rs",
+          "publishedOn": "2022-08-05T05:30:05.000Z",
+          "wordCount": 4002,
+          "title": "stable-swap/curve.rs at master · saber-hq/stable-swap",
+          "imageUrl": "https://repository-images.githubusercontent.com/301870896/1ac4e5f0-dc16-4f81-b879-30fdb5541ee8"
+        },
+        {
+          "id": "https://blog.chain.link/new-chainlink-keepers-features/",
+          "author": null,
+          "description": "7 New Chainlink Keepers Features To Help Web3 Developers Innovate Faster - Chainlink Blog",
+          "link": "https://blog.chain.link/new-chainlink-keepers-features/",
+          "publishedOn": "2022-08-05T05:00:03.000Z",
+          "wordCount": 2901,
+          "title": "7 New Chainlink Keepers Features To Help Web3 Developers Innovate Faster - Chainlink Blog",
+          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/08/Chainlink-Blog-Post-Generic-Banner-Template.png"
+        },
+        {
           "id": "https://github.com/foundry-rs/foundry/milestone/1",
           "author": null,
           "description": "v1.0.0 Milestone · foundry-rs/foundry",
@@ -24,16 +54,6 @@
           "wordCount": 10,
           "title": "Lens Protocol",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.telegraph.co.uk/tv/0/woodstock-99-catastrophic-music-festival-turned-peace-love-violent/?utm_content=telegraph&utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1659512855",
-          "author": null,
-          "description": "Woodstock ’99: the catastrophic music festival that turned peace and love into violent chaos",
-          "link": "https://www.telegraph.co.uk/tv/0/woodstock-99-catastrophic-music-festival-turned-peace-love-violent/?utm_content=telegraph&utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1659512855",
-          "publishedOn": "2022-08-05T03:00:04.000Z",
-          "wordCount": 1680,
-          "title": "Woodstock ’99: the catastrophic music festival that turned peace and love into violent chaos",
-          "imageUrl": "https://www.telegraph.co.uk/content/dam/tv/2022/08/02/TELEMMGLPICT000303669833_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=logo-overlay"
         },
         {
           "id": "https://medium.com/offchainlabs/prepare-your-engines-nitro-is-imminent-a46af99b9e60",
@@ -61,7 +81,7 @@
           "description": "Lattice Capital Raises $60M for Second Crypto Fund",
           "link": "https://www.coindesk.com/business/2022/08/04/venture-capital-firm-lattice-capital-raises-60m-for-second-crypto-fund/",
           "publishedOn": "2022-08-04T23:00:03.000Z",
-          "wordCount": 7430,
+          "wordCount": 7434,
           "title": "Lattice Capital Raises $60M for Second Crypto Fund",
           "imageUrl": "https://www.coindesk.com/resizer/hSs3fyZrFZptlsgJqBq08paWc_A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A72KS2IWYRF63JCCQNEYTSOFFI.jpg"
         },
@@ -96,16 +116,6 @@
           "imageUrl": "https://about.fb.com/wp-content/uploads/2022/05/Introducing-Digital-Collectibles-to-Showcase-NFTs-on-Instagram_Header-1.jpg?w=1200"
         },
         {
-          "id": "https://blockworks.co/brevan-howard-scores-largest-crypto-hedge-fund-launch-ever/",
-          "author": null,
-          "description": "Brevan Howard Scores Largest Crypto Hedge Fund Launch Ever - Blockworks",
-          "link": "https://blockworks.co/brevan-howard-scores-largest-crypto-hedge-fund-launch-ever/",
-          "publishedOn": "2022-08-04T21:00:04.000Z",
-          "wordCount": 4315,
-          "title": "Brevan Howard Scores Largest Crypto Hedge Fund Launch Ever - Blockworks",
-          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/01/2022-01-18-Alan-Howard.jpg"
-        },
-        {
           "id": "https://gov.uniswap.org/t/temperature-check-create-the-uniswap-foundation/17358",
           "author": null,
           "description": "[Temperature Check] Create the Uniswap Foundation",
@@ -121,19 +131,9 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13133,
+          "wordCount": 13128,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
-        },
-        {
-          "id": "https://variant.fund/articles/sufficient-decentralization/",
-          "author": null,
-          "description": "Sufficient Decentralization – Variant",
-          "link": "https://variant.fund/articles/sufficient-decentralization/",
-          "publishedOn": "2022-08-04T17:00:03.000Z",
-          "wordCount": 8562,
-          "title": "Sufficient Decentralization – Variant",
-          "imageUrl": "https://variant.fund/wp-content/uploads/2022/03/careers-image-1.png"
         },
         {
           "id": "https://www.ft.com/content/7cb3f87d-7cb3-4429-952a-ba122efdda3b",
