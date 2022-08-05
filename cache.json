@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/foundry-rs/foundry/milestone/1",
+          "author": null,
+          "description": "v1.0.0 Milestone · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/milestone/1",
+          "publishedOn": "2022-08-05T04:00:07.000Z",
+          "wordCount": 225,
+          "title": "v1.0.0 Milestone · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/b9b276695d95aa8ca8155d90c9b684710b2629c79723150e6e37b145d3d0f70e/foundry-rs/foundry"
+        },
+        {
+          "id": "https://lens.xyz/",
+          "author": null,
+          "description": "Lens Protocol",
+          "link": "https://lens.xyz/",
+          "publishedOn": "2022-08-05T03:30:07.000Z",
+          "wordCount": 10,
+          "title": "Lens Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.telegraph.co.uk/tv/0/woodstock-99-catastrophic-music-festival-turned-peace-love-violent/?utm_content=telegraph&utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1659512855",
+          "author": null,
+          "description": "Woodstock ’99: the catastrophic music festival that turned peace and love into violent chaos",
+          "link": "https://www.telegraph.co.uk/tv/0/woodstock-99-catastrophic-music-festival-turned-peace-love-violent/?utm_content=telegraph&utm_medium=Social&utm_campaign=Echobox&utm_source=Twitter#Echobox=1659512855",
+          "publishedOn": "2022-08-05T03:00:04.000Z",
+          "wordCount": 1680,
+          "title": "Woodstock ’99: the catastrophic music festival that turned peace and love into violent chaos",
+          "imageUrl": "https://www.telegraph.co.uk/content/dam/tv/2022/08/02/TELEMMGLPICT000303669833_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=logo-overlay"
+        },
+        {
+          "id": "https://medium.com/offchainlabs/prepare-your-engines-nitro-is-imminent-a46af99b9e60",
+          "author": null,
+          "description": "Prepare Your Engines, Nitro is Imminent",
+          "link": "https://medium.com/offchainlabs/prepare-your-engines-nitro-is-imminent-a46af99b9e60",
+          "publishedOn": "2022-08-05T03:00:03.000Z",
+          "wordCount": 2036,
+          "title": "Prepare Your Engines, Nitro is Imminent",
+          "imageUrl": "https://miro.medium.com/max/888/0*eIrY8O_g1_7hpP9R"
+        },
+        {
           "id": "https://cryptohayes.medium.com/max-bidding-7a1c56c1cd07",
           "author": null,
           "description": "Max Bidding",
@@ -16,22 +56,12 @@
           "imageUrl": "https://miro.medium.com/max/401/0*c9MlL9oTLworFZnr"
         },
         {
-          "id": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
-          "author": null,
-          "description": "Goerli/Prater Merge Announcement",
-          "link": "https://blog.ethereum.org/2022/07/27/goerli-prater-merge-announcement/",
-          "publishedOn": "2022-08-04T23:30:06.000Z",
-          "wordCount": 2327,
-          "title": "Goerli/Prater Merge Announcement",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/08/04/venture-capital-firm-lattice-capital-raises-60m-for-second-crypto-fund/",
           "author": null,
           "description": "Lattice Capital Raises $60M for Second Crypto Fund",
           "link": "https://www.coindesk.com/business/2022/08/04/venture-capital-firm-lattice-capital-raises-60m-for-second-crypto-fund/",
           "publishedOn": "2022-08-04T23:00:03.000Z",
-          "wordCount": 7447,
+          "wordCount": 7430,
           "title": "Lattice Capital Raises $60M for Second Crypto Fund",
           "imageUrl": "https://www.coindesk.com/resizer/hSs3fyZrFZptlsgJqBq08paWc_A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A72KS2IWYRF63JCCQNEYTSOFFI.jpg"
         },
@@ -56,34 +86,24 @@
           "imageUrl": null
         },
         {
+          "id": "https://about.fb.com/news/2022/05/introducing-digital-collectibles-to-showcase-nfts-instagram/",
+          "author": null,
+          "description": "Introducing Digital Collectibles to Showcase NFTs on Instagram | Meta",
+          "link": "https://about.fb.com/news/2022/05/introducing-digital-collectibles-to-showcase-nfts-instagram/",
+          "publishedOn": "2022-08-04T21:00:04.000Z",
+          "wordCount": 4843,
+          "title": "Introducing Digital Collectibles to Showcase NFTs on Instagram | Meta",
+          "imageUrl": "https://about.fb.com/wp-content/uploads/2022/05/Introducing-Digital-Collectibles-to-Showcase-NFTs-on-Instagram_Header-1.jpg?w=1200"
+        },
+        {
           "id": "https://blockworks.co/brevan-howard-scores-largest-crypto-hedge-fund-launch-ever/",
           "author": null,
           "description": "Brevan Howard Scores Largest Crypto Hedge Fund Launch Ever - Blockworks",
           "link": "https://blockworks.co/brevan-howard-scores-largest-crypto-hedge-fund-launch-ever/",
           "publishedOn": "2022-08-04T21:00:04.000Z",
-          "wordCount": 4306,
+          "wordCount": 4315,
           "title": "Brevan Howard Scores Largest Crypto Hedge Fund Launch Ever - Blockworks",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/01/2022-01-18-Alan-Howard.jpg"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/583",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting 144 Agenda  · Issue #583 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/583",
-          "publishedOn": "2022-08-04T21:00:04.000Z",
-          "wordCount": 828,
-          "title": "Ethereum Core Devs Meeting 144 Agenda  · Issue #583 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/3b67d5f2973a2fcec0b02ad5f47d45eef0a5bcae4f3c873379013c26ec604fcc/ethereum/pm/issues/583"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vJYzfRH62Ok&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting #144 [2022-8-4]",
-          "link": "https://www.youtube.com/watch?v=vJYzfRH62Ok&feature=youtu.be",
-          "publishedOn": "2022-08-04T21:00:04.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #144 [2022-8-4]",
-          "imageUrl": null
         },
         {
           "id": "https://gov.uniswap.org/t/temperature-check-create-the-uniswap-foundation/17358",
@@ -101,7 +121,7 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13148,
+          "wordCount": 13133,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
         },
@@ -154,26 +174,6 @@
           "wordCount": 11147,
           "title": "Synthetix L2H2",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/PixcZcqK4Hlw34Rx0EeRV.png?h=876&w=976"
-        },
-        {
-          "id": "https://axie.substack.com/p/summerlovin",
-          "author": null,
-          "description": "☀️Lunacian Summer Art Contest☀️",
-          "link": "https://axie.substack.com/p/summerlovin",
-          "publishedOn": "2022-08-04T07:30:04.000Z",
-          "wordCount": 1685,
-          "title": "☀️Lunacian Summer Art Contest☀️",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97db792-2361-4802-ab21-83ca442facdf_1600x900.jpeg"
-        },
-        {
-          "id": "https://www.ft.com/content/87347d49-390d-408b-9059-2e5a42b5787c",
-          "author": null,
-          "description": "Tiger Global blames inflation as flagship hedge fund down 50% in 2022",
-          "link": "https://www.ft.com/content/87347d49-390d-408b-9059-2e5a42b5787c",
-          "publishedOn": "2022-08-04T03:30:05.000Z",
-          "wordCount": 2236,
-          "title": "Tiger Global blames inflation as flagship hedge fund down 50% in 2022",
-          "imageUrl": null
         },
         {
           "id": "https://newsletter.banklesshq.com/p/ethereum-merge-launch-release-date-roadmap",
