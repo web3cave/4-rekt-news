@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-06T17:20:20.856Z</id>
+    <id>urn:2022-08-06T18:25:58.532Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-06T17:20:20.856Z</updated>
+    <updated>2022-08-06T18:25:58.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Humbling of Coinbase]]></title>
+        <id>https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html</id>
+        <link href="https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html"/>
+        <updated>2022-08-06T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The Humbling of Coinbase]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Perils of Audience Capture]]></title>
         <id>https://gurwinder.substack.com/p/the-perils-of-audience-capture</id>
@@ -46,11 +56,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Successful MEV-boost testing through Goerli Shadow Fork 6 merge!]]></title>
-        <id>https://boost.flashbots.net/mev-boost-status-updates/successful-mev-boost-testing-through-goerli-shadow-fork-6-merge</id>
-        <link href="https://boost.flashbots.net/mev-boost-status-updates/successful-mev-boost-testing-through-goerli-shadow-fork-6-merge"/>
-        <updated>2022-08-06T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Successful MEV-boost testing through Goerli Shadow Fork 6 merge!]]></summary>
+        <title type="html"><![CDATA[Loopy Wonderful Trees]]></title>
+        <id>https://www.youtube.com/watch?v=yCiV3wDIwLE&amp;ab_channel=Socrates1024</id>
+        <link href="https://www.youtube.com/watch?v=yCiV3wDIwLE&amp;ab_channel=Socrates1024"/>
+        <updated>2022-08-06T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Loopy Wonderful Trees]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -108,21 +118,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet a Master of Macro and Crypto | Real Vision]]></title>
-        <id>https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/meet-a-master-of-macro-and-crypto-QpNR?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=202285_RAIC_MR_TW_W1_LINK</id>
-        <link href="https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/meet-a-master-of-macro-and-crypto-QpNR?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=202285_RAIC_MR_TW_W1_LINK"/>
-        <updated>2022-08-05T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Meet a Master of Macro and Crypto | Real Vision]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SongADEX | Song a Day World]]></title>
         <id>https://songaday.world/songadex/</id>
         <link href="https://songaday.world/songadex/"/>
         <updated>2022-08-05T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[SongADEX | Song a Day World]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos without Tendermint: Exploring Narwhal and Bullshark - Paradigm]]></title>
+        <id>https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack</id>
+        <link href="https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack"/>
+        <updated>2022-08-05T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos without Tendermint: Exploring Narwhal and Bullshark - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -143,16 +153,6 @@
         <link href="https://writings.flashbots.net/writings/understanding-mev-boost-liveness-risks/"/>
         <updated>2022-08-05T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[Understanding liveness risks from mev-boost | Flashbots]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos without Tendermint: Exploring Narwhal and Bullshark - Paradigm]]></title>
-        <id>https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack</id>
-        <link href="https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack"/>
-        <updated>2022-08-05T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos without Tendermint: Exploring Narwhal and Bullshark - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
