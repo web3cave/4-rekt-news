@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bittrex.com/",
+          "author": null,
+          "description": "Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Exchange",
+          "link": "https://bittrex.com/",
+          "publishedOn": "2022-08-06T19:00:03.000Z",
+          "wordCount": 864,
+          "title": "Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Exchange",
+          "imageUrl": "https://bittrex.com/wp-content/uploads/2021/01/BUS_Hero.png"
+        },
+        {
+          "id": "https://forum.devcon.org/t/proposed-location-nha-trang-city-vietnam/697",
+          "author": null,
+          "description": "Proposed Location: Nha Trang city, Vietnam 🇻🇳",
+          "link": "https://forum.devcon.org/t/proposed-location-nha-trang-city-vietnam/697",
+          "publishedOn": "2022-08-06T19:00:03.000Z",
+          "wordCount": 2872,
+          "title": "Proposed Location: Nha Trang city, Vietnam 🇻🇳",
+          "imageUrl": "https://forum.devcon.org/uploads/default/original/1X/514a881adc605ee44a03eabb1d6760906c1c6170.jpeg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html",
           "author": null,
           "description": "The Humbling of Coinbase",
@@ -66,12 +86,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.swanbitcoin.com/a-look-at-the-lightning-network/",
+          "author": null,
+          "description": "A Look At the Lightning Network",
+          "link": "https://www.swanbitcoin.com/a-look-at-the-lightning-network/",
+          "publishedOn": "2022-08-06T04:00:04.000Z",
+          "wordCount": 22540,
+          "title": "A Look At the Lightning Network",
+          "imageUrl": "https://www.datocms-assets.com/56652/1659731996-swan-feature-image-main-1.png?auto=format&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&mark=https%3A%2F%2Fwww.datocms-assets.com%2F56652%2F1649776858-signallightwatermak.png%3Fauto%3Dformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26w%3D1200&mark-h=630&mark-x=0&mark-y=0&w=1200"
+        },
+        {
           "id": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "author": null,
           "description": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "link": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "publishedOn": "2022-08-06T01:00:03.000Z",
-          "wordCount": 5546,
+          "wordCount": 5552,
           "title": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "imageUrl": "https://www.redditstatic.com/new-icon.png"
         },
@@ -96,10 +126,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.cr.yp.to/20220805-nsa.html",
+          "id": "http://blog.cr.yp.to/20220805-nsa.html",
           "author": null,
           "description": "cr.yp.to: \n2022.08.05: NSA, NIST, and post-quantum cryptography",
-          "link": "https://blog.cr.yp.to/20220805-nsa.html",
+          "link": "http://blog.cr.yp.to/20220805-nsa.html",
           "publishedOn": "2022-08-05T23:00:03.000Z",
           "wordCount": 6265,
           "title": "cr.yp.to: \n2022.08.05: NSA, NIST, and post-quantum cryptography",
@@ -136,16 +166,6 @@
           "imageUrl": "https://paradigm.xyz/static/experiment-narwhal-bullshark-cosmos-stack/cover.png"
         },
         {
-          "id": "https://www.youtube.com/c/UnchainedPodcast",
-          "author": null,
-          "description": "Unchained Podcast - YouTube",
-          "link": "https://www.youtube.com/c/UnchainedPodcast",
-          "publishedOn": "2022-08-05T23:00:02.000Z",
-          "wordCount": 7460,
-          "title": "Unchained Podcast - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
           "id": "https://writings.flashbots.net/writings/understanding-mev-boost-liveness-risks/",
           "author": null,
           "description": "Understanding liveness risks from mev-boost | Flashbots",
@@ -166,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://across.to/?ref=0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8",
-          "author": null,
-          "description": "Across",
-          "link": "https://across.to/?ref=0xCFFE08BDf20918007f8Ab268C32f8756494fC8D8",
-          "publishedOn": "2022-08-05T23:00:02.000Z",
-          "wordCount": 69,
-          "title": "Across",
-          "imageUrl": "/logo-small.png"
-        },
-        {
           "id": "https://solana.com/",
           "author": null,
           "description": "Scalable Blockchain Infrastructure: Billions of transactions & counting | Solana: Build crypto apps that scale",
@@ -186,22 +196,12 @@
           "imageUrl": "https://solana.com/sharing-card.png"
         },
         {
-          "id": "https://create.zora.co/",
-          "author": null,
-          "description": "ZORA Creator",
-          "link": "https://create.zora.co/",
-          "publishedOn": "2022-08-05T20:00:06.000Z",
-          "wordCount": 987,
-          "title": "ZORA Creator",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "author": null,
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13239,
+          "wordCount": 13231,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
         }
