@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html",
+          "author": null,
+          "description": "The Humbling of Coinbase",
+          "link": "https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html",
+          "publishedOn": "2022-08-06T22:00:04.000Z",
+          "wordCount": 6383,
+          "title": "The Humbling of Coinbase",
+          "imageUrl": "https://static01.nyt.com/images/2022/08/05/business/05coinbase-alt/05coinbase-alt-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/greatest-value-investor-youve-never-heard",
+          "author": null,
+          "description": "The Greatest Value Investor You've Never Heard Of | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/greatest-value-investor-youve-never-heard",
+          "publishedOn": "2022-08-06T22:00:04.000Z",
+          "wordCount": 3872,
+          "title": "The Greatest Value Investor You've Never Heard Of | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/situation-really-precarious-worlds-largest-rice-exporter-faces-output-decline-amid-heatwave",
           "author": null,
           "description": "\"Situation Is Really Precarious\": World's Largest Rice Exporter Faces Output Decline Amid Heatwave | ZeroHedge",
@@ -13,16 +33,6 @@
           "publishedOn": "2022-08-06T21:00:03.000Z",
           "wordCount": 1225,
           "title": "\"Situation Is Really Precarious\": World's Largest Rice Exporter Faces Output Decline Amid Heatwave | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/reuters-links-deadly-dc-lightning-strike-global-warming",
-          "author": null,
-          "description": "Reuters Links Deadly DC Lightning Strike To Global Warming | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/reuters-links-deadly-dc-lightning-strike-global-warming",
-          "publishedOn": "2022-08-06T20:00:05.000Z",
-          "wordCount": 1186,
-          "title": "Reuters Links Deadly DC Lightning Strike To Global Warming | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -34,16 +44,6 @@
           "wordCount": 13695,
           "title": "Mainnet",
           "imageUrl": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_600,h_315,c_fill,c_pad,f_auto,q_auto:best/vrun1wty4wk2i4wwjp9a.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/15-dead-israeli-pounds-gaza-military-prepares-week-fighting",
-          "author": null,
-          "description": "15 Dead As Israel Pounds Gaza, Military Prepares For \"Week Of Fighting\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/15-dead-israeli-pounds-gaza-military-prepares-week-fighting",
-          "publishedOn": "2022-08-06T19:30:05.000Z",
-          "wordCount": 1575,
-          "title": "15 Dead As Israel Pounds Gaza, Military Prepares For \"Week Of Fighting\" | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://gurwinder.substack.com/p/the-perils-of-audience-capture",
@@ -111,7 +111,7 @@
           "description": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "link": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "publishedOn": "2022-08-06T01:00:03.000Z",
-          "wordCount": 5524,
+          "wordCount": 5533,
           "title": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "imageUrl": "https://www.redditstatic.com/new-icon.png"
         },
@@ -201,7 +201,7 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13204,
+          "wordCount": 13221,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
         }
