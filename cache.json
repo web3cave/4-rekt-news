@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM",
+          "author": null,
+          "description": "Introducing Delegatable Ethereum",
+          "link": "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM",
+          "publishedOn": "2022-08-06T23:00:03.000Z",
+          "wordCount": 4434,
+          "title": "Introducing Delegatable Ethereum",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/wRBQ-n2GdCbUFj9MzvMEg.jpeg?height=700&width=1400&h=700&w=1400&auto=compress"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Q9UKRAW7EOI&feature=youtu.be",
+          "author": null,
+          "description": "Stephane Gosselin & Vasiliy Shapovalov: MEV-Boost – Preparing for the Merge #455",
+          "link": "https://www.youtube.com/watch?v=Q9UKRAW7EOI&feature=youtu.be",
+          "publishedOn": "2022-08-06T22:00:04.000Z",
+          "wordCount": null,
+          "title": "Stephane Gosselin & Vasiliy Shapovalov: MEV-Boost – Preparing for the Merge #455",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/08/05/business/coinbase-crypto.html",
           "author": null,
           "description": "The Humbling of Coinbase",
@@ -23,16 +43,6 @@
           "publishedOn": "2022-08-06T22:00:04.000Z",
           "wordCount": 3872,
           "title": "The Greatest Value Investor You've Never Heard Of | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/situation-really-precarious-worlds-largest-rice-exporter-faces-output-decline-amid-heatwave",
-          "author": null,
-          "description": "\"Situation Is Really Precarious\": World's Largest Rice Exporter Faces Output Decline Amid Heatwave | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/situation-really-precarious-worlds-largest-rice-exporter-faces-output-decline-amid-heatwave",
-          "publishedOn": "2022-08-06T21:00:03.000Z",
-          "wordCount": 1225,
-          "title": "\"Situation Is Really Precarious\": World's Largest Rice Exporter Faces Output Decline Amid Heatwave | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -86,16 +96,6 @@
           "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=yCiV3wDIwLE&ab_channel=Socrates1024",
-          "author": null,
-          "description": "Loopy Wonderful Trees",
-          "link": "https://www.youtube.com/watch?v=yCiV3wDIwLE&ab_channel=Socrates1024",
-          "publishedOn": "2022-08-06T05:00:03.000Z",
-          "wordCount": null,
-          "title": "Loopy Wonderful Trees",
-          "imageUrl": null
-        },
-        {
           "id": "https://weekinethereumnews.com/week-in-ethereum-news-august-6-2022/",
           "author": null,
           "description": "The latest Week in Ethereum News",
@@ -111,7 +111,7 @@
           "description": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "link": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "publishedOn": "2022-08-06T01:00:03.000Z",
-          "wordCount": 5533,
+          "wordCount": 5534,
           "title": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "imageUrl": "https://www.redditstatic.com/new-icon.png"
         },
@@ -201,7 +201,7 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13221,
+          "wordCount": 13248,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
         }
