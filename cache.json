@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x2e09-0x0f",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x0f",
+          "publishedOn": "2022-08-06T07:30:05.000Z",
+          "wordCount": 11,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
           "id": "https://boost.flashbots.net/mev-boost-status-updates/successful-mev-boost-testing-through-goerli-shadow-fork-6-merge",
           "author": null,
           "description": "Successful MEV-boost testing through Goerli Shadow Fork 6 merge!",
@@ -21,7 +31,7 @@
           "description": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "link": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "publishedOn": "2022-08-06T01:00:03.000Z",
-          "wordCount": 5553,
+          "wordCount": 5532,
           "title": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "imageUrl": "https://www.redditstatic.com/new-icon.png"
         },
@@ -36,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ournetwork.substack.com/p/ournetwork-issue-132",
-          "author": null,
-          "description": "OurNetwork #132",
-          "link": "https://ournetwork.substack.com/p/ournetwork-issue-132",
-          "publishedOn": "2022-08-05T23:00:03.000Z",
-          "wordCount": 2437,
-          "title": "OurNetwork #132",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9df1772-ef31-419c-9b05-3fdabf990f3f_420x300.jpeg"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=4Zkk1Y7VaaY",
           "author": null,
           "description": "Why Kevin Zhou Believes Ethereum Will Have 3 Forks After the Merge- Ep. 381",
@@ -54,6 +54,16 @@
           "wordCount": null,
           "title": "Why Kevin Zhou Believes Ethereum Will Have 3 Forks After the Merge- Ep. 381",
           "imageUrl": null
+        },
+        {
+          "id": "https://ournetwork.substack.com/p/ournetwork-issue-132",
+          "author": null,
+          "description": "OurNetwork #132",
+          "link": "https://ournetwork.substack.com/p/ournetwork-issue-132",
+          "publishedOn": "2022-08-05T23:00:03.000Z",
+          "wordCount": 2437,
+          "title": "OurNetwork #132",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9df1772-ef31-419c-9b05-3fdabf990f3f_420x300.jpeg"
         },
         {
           "id": "https://blog.cr.yp.to/20220805-nsa.html",
@@ -136,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://store.tomsachs.com/",
-          "author": null,
-          "description": "Tom Sachs: Store",
-          "link": "https://store.tomsachs.com/",
-          "publishedOn": "2022-08-05T16:00:05.000Z",
-          "wordCount": 14245,
-          "title": "Tom Sachs: Store",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/0044/2813/6551/files/logo.png?height=628&pad_color=fff&v=1548992272&width=1200"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=0Kpa_fXZzm0",
           "author": null,
           "description": "Layer 1 Wars: How Near Protocol Is Different | Illia Polosukhin, Co-Founder Of Near",
@@ -191,7 +191,7 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13205,
+          "wordCount": 13209,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
         },
