@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EFLc0eprZBg&feature=youtu.be",
+          "author": null,
+          "description": "EIP-1559 turns 1, Coinbase partners with BlackRock - The Daily Gwei Refuel #422 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=EFLc0eprZBg&feature=youtu.be",
+          "publishedOn": "2022-08-06T05:30:05.000Z",
+          "wordCount": null,
+          "title": "EIP-1559 turns 1, Coinbase partners with BlackRock - The Daily Gwei Refuel #422 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "author": null,
           "description": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "link": "https://old.reddit.com/r/ethereum/comments/mo9mw8/reminder_in_the_long_run_asset_transfer_fees_are/",
           "publishedOn": "2022-08-06T01:00:03.000Z",
-          "wordCount": 5543,
+          "wordCount": 5538,
           "title": "Reminder: in the long run asset transfer fees are probably a bad idea",
           "imageUrl": "https://www.redditstatic.com/new-icon.png"
         },
@@ -51,7 +61,7 @@
           "description": "cr.yp.to: \n2022.08.05: NSA, NIST, and post-quantum cryptography",
           "link": "https://blog.cr.yp.to/20220805-nsa.html",
           "publishedOn": "2022-08-05T23:00:03.000Z",
-          "wordCount": 6172,
+          "wordCount": 6186,
           "title": "cr.yp.to: \n2022.08.05: NSA, NIST, and post-quantum cryptography",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "ZORA Creator",
           "link": "https://create.zora.co/",
           "publishedOn": "2022-08-05T20:00:06.000Z",
-          "wordCount": 991,
+          "wordCount": 987,
           "title": "ZORA Creator",
           "imageUrl": null
         },
@@ -181,19 +191,9 @@
           "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
           "publishedOn": "2022-08-04T20:30:03.000Z",
-          "wordCount": 13207,
+          "wordCount": 13201,
           "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
-        },
-        {
-          "id": "https://blog.coinbase.com/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via-b9e7144f313d?gi=88c485c4f71f",
-          "author": null,
-          "description": "Coinbase selected by BlackRock; provide Aladdin clients access to crypto trading and custody via…",
-          "link": "https://blog.coinbase.com/coinbase-selected-by-blackrock-provide-aladdin-clients-access-to-crypto-trading-and-custody-via-b9e7144f313d?gi=88c485c4f71f",
-          "publishedOn": "2022-08-04T13:30:05.000Z",
-          "wordCount": 2422,
-          "title": "Coinbase selected by BlackRock; provide Aladdin clients access to crypto trading and custody via…",
-          "imageUrl": "https://miro.medium.com/max/1200/0*htmS8oUkWovuXq2b"
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/08/04/zkevm.html",
