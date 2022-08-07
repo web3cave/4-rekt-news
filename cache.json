@@ -6,24 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/economics/great-recession-facts-vs-denials",
+          "author": null,
+          "description": "The Great Recession: Facts Vs Denials | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/great-recession-facts-vs-denials",
+          "publishedOn": "2022-08-07T15:30:04.000Z",
+          "wordCount": 3708,
+          "title": "The Great Recession: Facts Vs Denials | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.wired.com/story/no-one-cares-about-my-framed-nft-art/",
           "author": null,
           "description": "No One Cares About My Framed NFT Art",
           "link": "https://www.wired.com/story/no-one-cares-about-my-framed-nft-art/",
           "publishedOn": "2022-08-07T15:00:02.000Z",
-          "wordCount": 22658,
+          "wordCount": 22646,
           "title": "No One Cares About My Framed NFT Art",
           "imageUrl": "https://media.wired.com/photos/62e9863a73e44c149d0e800f/191:100/w_1280,c_limit/NFT-Frames-Gear-GettyImages-1387322248.jpg"
-        },
-        {
-          "id": "https://thisartworkisalwaysonsale.com/",
-          "author": null,
-          "description": "This Artwork Is Always On Sale",
-          "link": "https://thisartworkisalwaysonsale.com/",
-          "publishedOn": "2022-08-07T15:00:02.000Z",
-          "wordCount": 48,
-          "title": "This Artwork Is Always On Sale",
-          "imageUrl": "http://thisartworkisalwaysonsale.com/static/media/TAIAOS4.3cd60b66.png"
         },
         {
           "id": "https://www.unun.link/",
@@ -54,6 +54,16 @@
           "wordCount": 2301,
           "title": "A Winter Of Anger | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://math.stackexchange.com/questions/4507694/sage-constructing-maximal-ideal-of-a-local-ring-m-langle-x-p-x-rangle",
+          "author": null,
+          "description": "Sage: Constructing maximal ideal of a local ring, $M = \\langle x - P_x \\rangle$ gives invalid result, but $M =...",
+          "link": "https://math.stackexchange.com/questions/4507694/sage-constructing-maximal-ideal-of-a-local-ring-m-langle-x-p-x-rangle",
+          "publishedOn": "2022-08-07T13:00:03.000Z",
+          "wordCount": 3763,
+          "title": "Sage: Constructing maximal ideal of a local ring, $M = \\langle x - P_x \\rangle$ gives invalid result, but $M =...",
+          "imageUrl": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1"
         },
         {
           "id": "https://www.zerohedge.com/political/revolution-has-begun-75000-brits-stop-paying-power-bills-amid-inflation-storm",
@@ -96,22 +106,12 @@
           "imageUrl": "https://wenmerge.com/wp-content/uploads/2022/03/Screenshot-2022-03-15-at-16-23-42-Follow-The-Merge-Ethereum.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=gUUdr80wkCA&ab_channel=GrandAmphiTh%C3%A9atre",
-          "author": null,
-          "description": "Sunny  Aggarwal - Why builders are flocking to interchain DeFi and how users can reap the benefits",
-          "link": "https://www.youtube.com/watch?v=gUUdr80wkCA&ab_channel=GrandAmphiTh%C3%A9atre",
-          "publishedOn": "2022-08-07T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Sunny  Aggarwal - Why builders are flocking to interchain DeFi and how users can reap the benefits",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-5131.md",
           "author": null,
           "description": "EIPs/eip-5131.md at master · ethereum/EIPs",
           "link": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-5131.md",
           "publishedOn": "2022-08-07T09:00:02.000Z",
-          "wordCount": 2745,
+          "wordCount": 3049,
           "title": "EIPs/eip-5131.md at master · ethereum/EIPs",
           "imageUrl": "https://opengraph.githubassets.com/67db8eef229fa871142bbcb68933a4506b3f9edeb8f85d1d155e0d6707df1c18/ethereum/EIPs"
         },
