@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.unun.link/",
+          "author": null,
+          "description": "✧unun.inicio",
+          "link": "https://www.unun.link/",
+          "publishedOn": "2022-08-07T14:00:04.000Z",
+          "wordCount": 160,
+          "title": "✧unun.inicio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nft.tiffany.com/legal/",
+          "author": null,
+          "description": "Tiffany & Co.",
+          "link": "https://nft.tiffany.com/legal/",
+          "publishedOn": "2022-08-07T13:30:03.000Z",
+          "wordCount": 2957,
+          "title": "Tiffany & Co.",
+          "imageUrl": "https://nft.tiffany.com/feature-meta.png"
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/winter-anger",
           "author": null,
           "description": "A Winter Of Anger | ZeroHedge",
@@ -21,7 +41,7 @@
           "description": "Sage: Constructing maximal ideal of a local ring, $M = \\langle x - P_x \\rangle$ gives invalid result, but $M =...",
           "link": "https://math.stackexchange.com/questions/4507694/sage-constructing-maximal-ideal-of-a-local-ring-m-langle-x-p-x-rangle",
           "publishedOn": "2022-08-07T13:00:03.000Z",
-          "wordCount": 3806,
+          "wordCount": 3817,
           "title": "Sage: Constructing maximal ideal of a local ring, $M = \\langle x - P_x \\rangle$ gives invalid result, but $M =...",
           "imageUrl": "https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon@2.png?v=4ec1df2e49b1"
         },
@@ -64,16 +84,6 @@
           "wordCount": 1813,
           "title": "Follow The Merge - Ethereum",
           "imageUrl": "https://wenmerge.com/wp-content/uploads/2022/03/Screenshot-2022-03-15-at-16-23-42-Follow-The-Merge-Ethereum.png"
-        },
-        {
-          "id": "http://jpkoning.blogspot.com/2013/09/ghost-money-chiles-unidad-de-fomento.html?m=1",
-          "author": null,
-          "description": "Ghost Money: Chile's Unidad de Fomento",
-          "link": "http://jpkoning.blogspot.com/2013/09/ghost-money-chiles-unidad-de-fomento.html?m=1",
-          "publishedOn": "2022-08-07T09:00:02.000Z",
-          "wordCount": 4921,
-          "title": "Ghost Money: Chile's Unidad de Fomento",
-          "imageUrl": "https://3.bp.blogspot.com/-xn_VIri88Bw/TsMq4YOvRjI/AAAAAAAAHow/PxSDqsWKrNM/w1200-h630-p-k-no-nu/Santiago_Chile_and_Andes_Mountains.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=gUUdr80wkCA&ab_channel=GrandAmphiTh%C3%A9atre",
@@ -174,16 +184,6 @@
           "wordCount": 5885,
           "title": "The Perils of Audience Capture",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62f96f3e-f113-44d6-9897-c7eca5c83716_2048x1468.jpeg"
-        },
-        {
-          "id": "https://mint.wagmiunited.com/",
-          "author": null,
-          "description": "WAGMI United: Mint Now",
-          "link": "https://mint.wagmiunited.com/",
-          "publishedOn": "2022-08-06T15:00:03.000Z",
-          "wordCount": 12,
-          "title": "WAGMI United: Mint Now",
-          "imageUrl": "https://mint.wagmiunited.com/wagmi-snippet.jpg"
         },
         {
           "id": "https://gov.gitcoin.co/t/characterizing-the-sybil-resistance-problem/11235",
