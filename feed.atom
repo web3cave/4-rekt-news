@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T05:18:51.164Z</id>
+    <id>urn:2022-08-07T06:26:08.273Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-07T05:18:51.164Z</updated>
+    <updated>2022-08-07T06:26:08.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fantasy Premier League, Official Fantasy Football Game of the Premier League]]></title>
+        <id>https://fantasy.premierleague.com/leagues/auto-join/z8frfb</id>
+        <link href="https://fantasy.premierleague.com/leagues/auto-join/z8frfb"/>
+        <updated>2022-08-07T06:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Fantasy Premier League, Official Fantasy Football Game of the Premier League]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Growing Threat From North Korea | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/geopolitical/growing-threat-north-korea</id>
@@ -66,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Successful MEV-boost testing through Goerli Shadow Fork 6 merge!]]></title>
-        <id>https://boost.flashbots.net/mev-boost-status-updates/successful-mev-boost-testing-through-goerli-shadow-fork-6-merge</id>
-        <link href="https://boost.flashbots.net/mev-boost-status-updates/successful-mev-boost-testing-through-goerli-shadow-fork-6-merge"/>
-        <updated>2022-08-07T00:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Successful MEV-boost testing through Goerli Shadow Fork 6 merge!]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing Delegatable Ethereum]]></title>
         <id>https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM</id>
         <link href="https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/pTIrlopsSUvWAbnq1qJDNKU1pGNLP8VEn1H8DSVcvXM"/>
@@ -106,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mainnet]]></title>
-        <id>https://mainnet.events/</id>
-        <link href="https://mainnet.events/"/>
-        <updated>2022-08-06T19:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Mainnet]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT.NYC | The Leading Annual Non-Fungible Token Event]]></title>
         <id>https://www.nft.nyc/</id>
         <link href="https://www.nft.nyc/"/>
@@ -131,6 +121,16 @@
         <link href="https://gurwinder.substack.com/p/the-perils-of-audience-capture"/>
         <updated>2022-08-06T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Perils of Audience Capture]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAGMI United: Mint Now]]></title>
+        <id>https://mint.wagmiunited.com/</id>
+        <link href="https://mint.wagmiunited.com/"/>
+        <updated>2022-08-06T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[WAGMI United: Mint Now]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
