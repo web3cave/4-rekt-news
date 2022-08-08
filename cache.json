@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.notboring.co/p/everything-is-broken",
+          "author": null,
+          "description": "Everything is Broken",
+          "link": "https://www.notboring.co/p/everything-is-broken",
+          "publishedOn": "2022-08-08T15:00:03.000Z",
+          "wordCount": 10165,
+          "title": "Everything is Broken",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fed9878e6-c1a6-4768-8a65-e434fb3bd3b1_1200x600.png"
+        },
+        {
+          "id": "https://forta.org/",
+          "author": null,
+          "description": "Forta Network",
+          "link": "https://forta.org/",
+          "publishedOn": "2022-08-08T15:00:02.000Z",
+          "wordCount": 2710,
+          "title": "Forta Network",
+          "imageUrl": "https://forta.org/wp-content/uploads/2022/06/og-img.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/nvidia-plunges-after-preannouncing-terrible-q2-results-slashes-guidance-blames",
+          "author": null,
+          "description": "Nvidia Plunges After Preannouncing Terrible Q2 Results, Slashes Guidance, Blames \"Macroeconomic Headwinds\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/nvidia-plunges-after-preannouncing-terrible-q2-results-slashes-guidance-blames",
+          "publishedOn": "2022-08-08T15:00:02.000Z",
+          "wordCount": 1728,
+          "title": "Nvidia Plunges After Preannouncing Terrible Q2 Results, Slashes Guidance, Blames \"Macroeconomic Headwinds\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/there-giant-illusion-majority-market-commentators-choosing-not-see-it",
           "author": null,
           "description": "There Is A Giant Illusion For The Majority Of Market Commentators Choosing Not To See It | ZeroHedge",
@@ -31,7 +61,7 @@
           "description": "r/Bitcoin - Does Bitcoin have a secret root certificate private key? If so, what is it used for?",
           "link": "https://www.reddit.com/r/Bitcoin/comments/wj47bm/does_bitcoin_have_a_secret_root_certificate/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
           "publishedOn": "2022-08-08T13:00:03.000Z",
-          "wordCount": 28321,
+          "wordCount": 29633,
           "title": "r/Bitcoin - Does Bitcoin have a secret root certificate private key? If so, what is it used for?",
           "imageUrl": null
         },
@@ -46,22 +76,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/commodities/french-farmers-union-official-warns-milk-shortage",
-          "author": null,
-          "description": "French Farmers' Union Official Warns Of Milk Shortage | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/french-farmers-union-official-warns-milk-shortage",
-          "publishedOn": "2022-08-08T13:00:03.000Z",
-          "wordCount": 734,
-          "title": "French Farmers' Union Official Warns Of Milk Shortage | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/162035/crypto-lending-platform-hodlnaut-halts-withdrawals-and-is-working-on-a-recovery-plan",
           "author": null,
           "description": "Crypto lending platform Hodlnaut halts withdrawals and is working on a recovery plan",
           "link": "https://www.theblock.co/post/162035/crypto-lending-platform-hodlnaut-halts-withdrawals-and-is-working-on-a-recovery-plan",
           "publishedOn": "2022-08-08T13:00:02.000Z",
-          "wordCount": 75758,
+          "wordCount": 75449,
           "title": "Crypto lending platform Hodlnaut halts withdrawals and is working on a recovery plan",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220309_Hacking_Dollar.jpg"
         },
@@ -76,16 +96,6 @@
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         },
         {
-          "id": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
-          "author": null,
-          "description": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
-          "link": "https://www.coindesk.com/layer2/2022/08/04/master-of-anons-how-a-crypto-developer-faked-a-defi-ecosystem/",
-          "publishedOn": "2022-08-08T09:30:04.000Z",
-          "wordCount": 13113,
-          "title": "Master of Anons: How a Crypto Developer Faked a DeFi Ecosystem",
-          "imageUrl": "https://www.coindesk.com/resizer/vP2s7C0-MpwCbL-0tRH2wn23Ey0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XSJFNETPH5HTJEP5OVQMD234OI.jpg"
-        },
-        {
           "id": "https://blog.bitmex.com/ethpow-coin-listing/",
           "author": null,
           "description": "Coming Soon: Tether-Margined ETHPoW Listing | BitMEX Blog",
@@ -94,16 +104,6 @@
           "wordCount": 6234,
           "title": "Coming Soon: Tether-Margined ETHPoW Listing | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/08/Banner-Blog-1_new_1200x675-EN.png"
-        },
-        {
-          "id": "https://governance.aave.com/t/bgd-technical-analysis-aave-ethereums-pos-merge/9226",
-          "author": null,
-          "description": "BGD. Technical analysis Aave  Ethereum's PoS Merge",
-          "link": "https://governance.aave.com/t/bgd-technical-analysis-aave-ethereums-pos-merge/9226",
-          "publishedOn": "2022-08-08T09:00:02.000Z",
-          "wordCount": 1457,
-          "title": "BGD. Technical analysis Aave <> Ethereum's PoS Merge",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
         },
         {
           "id": "https://www.coca-colacompany.com/news/coca-cola-marks-first-anniversary-in-the-metaverse-on-international-friendship-day",
@@ -141,7 +141,7 @@
           "description": "CryptoDickbutts Ethereum NFTs Surge 690% in Daily Sales Volume - Decrypt",
           "link": "https://decrypt.co/106914/why-cryptodickbutts-ethereum-nft-surging-in-volume?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2022-08-08T01:00:02.000Z",
-          "wordCount": 5914,
+          "wordCount": 5999,
           "title": "CryptoDickbutts Ethereum NFTs Surge 690% in Daily Sales Volume - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/cryptodickbutts-gID_4.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Malcolm Gladwell slams working from home:  ‘What have you reduced your life to?’",
           "link": "https://nypost.com/2022/08/05/malcolm-gladwell-slams-working-from-home/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
           "publishedOn": "2022-08-07T21:00:03.000Z",
-          "wordCount": 6320,
+          "wordCount": 6518,
           "title": "Malcolm Gladwell slams working from home:  ‘What have you reduced your life to?’",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/08/malcolm-gladwell-getty-01.jpg?quality=75&strip=all&w=1024"
         },
