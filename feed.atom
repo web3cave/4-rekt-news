@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T08:26:54.729Z</id>
+    <id>urn:2022-08-09T09:22:35.458Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T08:26:54.729Z</updated>
+    <updated>2022-08-09T09:22:35.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://github.com/tornadocash"/>
         <updated>2022-08-08T20:00:06.000Z</updated>
         <summary type="html"><![CDATA[Tornado Cash]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - Alcibiades-Capital/mev_bundle_generator: A MEV bundle generator written in Rust]]></title>
+        <id>https://github.com/Alcibiades-Capital/mev_bundle_generator</id>
+        <link href="https://github.com/Alcibiades-Capital/mev_bundle_generator"/>
+        <updated>2022-08-08T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - Alcibiades-Capital/mev_bundle_generator: A MEV bundle generator written in Rust]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237/2"/>
         <updated>2022-08-08T11:00:02.000Z</updated>
         <summary type="html"><![CDATA[ERC721 Extension for zk-SNARKs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon: Tether-Margined ETHPoW Listing | BitMEX Blog]]></title>
-        <id>https://blog.bitmex.com/ethpow-coin-listing/</id>
-        <link href="https://blog.bitmex.com/ethpow-coin-listing/"/>
-        <updated>2022-08-08T09:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Coming Soon: Tether-Margined ETHPoW Listing | BitMEX Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
