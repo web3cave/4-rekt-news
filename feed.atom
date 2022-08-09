@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T16:31:05.981Z</id>
+    <id>urn:2022-08-09T17:23:27.129Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-09T16:31:05.981Z</updated>
+    <updated>2022-08-09T17:23:27.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
-        <id>https://www.youtube.com/c/UnchainedPodcast</id>
-        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
-        <updated>2022-08-09T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[FTX partners with Reddit to roll out tokenized Community Points]]></title>
         <id>https://ftx.com/blog/post/reddit-tokenized-community-points</id>
@@ -71,6 +61,16 @@
         <link href="https://medium.com/avalancheavax/core-browser-extension-adds-support-for-ethereum-setting-a-new-standard-for-ux-across-avalanche-d18e51627e5d"/>
         <updated>2022-08-09T07:00:03.000Z</updated>
         <summary type="html"><![CDATA[Core Browser Extension Adds Support for Ethereum, Setting a New Standard for UX across Avalanche…]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webaverse | Metadrop]]></title>
+        <id>https://metadrop.com/drops/webaverse</id>
+        <link href="https://metadrop.com/drops/webaverse"/>
+        <updated>2022-08-09T05:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Webaverse | Metadrop]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
