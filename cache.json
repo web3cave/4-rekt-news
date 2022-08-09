@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fortune.com/2022/08/09/creatordao-raises-20-million-in-a16z-led-seed-round/",
+          "author": null,
+          "description": "CreatorDAO raises $20 million in 'ambitious bet' on creator economy, a16z and Paris Hilton among backers",
+          "link": "https://fortune.com/2022/08/09/creatordao-raises-20-million-in-a16z-led-seed-round/",
+          "publishedOn": "2022-08-09T21:30:05.000Z",
+          "wordCount": 3347,
+          "title": "CreatorDAO raises $20 million in 'ambitious bet' on creator economy, a16z and Paris Hilton among backers",
+          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/08/CreatorDAO_Michael-and-Jonathan-Wald.jpeg?resize=1200,600"
+        },
+        {
+          "id": "https://book.getfoundry.sh/",
+          "author": null,
+          "description": "Foundry Book",
+          "link": "https://book.getfoundry.sh/",
+          "publishedOn": "2022-08-09T21:00:03.000Z",
+          "wordCount": 561,
+          "title": "Foundry Book",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.circle.com/blog/usdc-and-ethereums-upcoming-merge",
           "author": null,
           "description": "USDC and Ethereum’s Upcoming Merge",
@@ -71,7 +91,7 @@
           "description": "FTX Bringing Crypto Swaps to Reddit - Blockworks",
           "link": "https://blockworks.co/ftx-bringing-crypto-swaps-to-reddit/",
           "publishedOn": "2022-08-09T15:00:04.000Z",
-          "wordCount": 3813,
+          "wordCount": 3814,
           "title": "FTX Bringing Crypto Swaps to Reddit - Blockworks",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Sam-Bankman-Fried.jpg"
         },
@@ -111,7 +131,7 @@
           "description": "Tornado Cash crackdown by Treasury puts honest crypto investors at risk of criminal exposure",
           "link": "https://www.cnbc.com/2022/08/08/tornado-cash-crackdown-by-treasury-punishes-honest-crypto-investors.html",
           "publishedOn": "2022-08-09T05:00:04.000Z",
-          "wordCount": 13755,
+          "wordCount": 13995,
           "title": "Tornado Cash crackdown by Treasury puts honest crypto investors at risk of criminal exposure",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/106899006-16239527542021-06-16t052542z_487156768_rc2h1o9aflhz_rtrmadp_0_canada-weather-tornado.jpeg?v=1623954593&w=1920&h=1080"
         },
@@ -136,33 +156,23 @@
           "imageUrl": "https://miro.medium.com/max/800/1*2yJHcAIvpXFMRVEPoGLeTA.jpeg"
         },
         {
-          "id": "https://www.circle.com/blog/why-developers-can-trust-usdc",
+          "id": "https://immutablex.medium.com/ground-up-guide-zkevm-evm-compatibility-rollups-787b6e88108e",
           "author": null,
-          "description": "How safe is USDC stablecoin for developers? | Circle Blog",
-          "link": "https://www.circle.com/blog/why-developers-can-trust-usdc",
-          "publishedOn": "2022-08-09T01:00:03.000Z",
-          "wordCount": 3245,
-          "title": "How safe is USDC stablecoin for developers? | Circle Blog",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/USDC-developer.png#keepProtocol"
+          "description": "Ground Up Guide: zkEVM, EVM Compatibility & Rollups",
+          "link": "https://immutablex.medium.com/ground-up-guide-zkevm-evm-compatibility-rollups-787b6e88108e",
+          "publishedOn": "2022-08-09T01:30:05.000Z",
+          "wordCount": 10361,
+          "title": "Ground Up Guide: zkEVM, EVM Compatibility & Rollups",
+          "imageUrl": "https://miro.medium.com/max/937/1*R7ZWNWqkX35Z-oEgR1WkTA.png"
         },
         {
-          "id": "https://www.youtube.com/watch?t=27539&v=gHuZrcj3ZXg&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=gHuZrcj3ZXg&list=PL40dyJ0UYTLJm-Cl7ez3UXp8R4IuUNDfb&index=3",
           "author": null,
           "description": "Zcon 3 - Day 2 Track 1",
-          "link": "https://www.youtube.com/watch?t=27539&v=gHuZrcj3ZXg&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=gHuZrcj3ZXg&list=PL40dyJ0UYTLJm-Cl7ez3UXp8R4IuUNDfb&index=3",
           "publishedOn": "2022-08-09T01:00:02.000Z",
           "wordCount": null,
           "title": "Zcon 3 - Day 2 Track 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/tornadocash",
-          "author": null,
-          "description": "Tornado Cash",
-          "link": "https://github.com/tornadocash",
-          "publishedOn": "2022-08-08T20:00:06.000Z",
-          "wordCount": null,
-          "title": "Tornado Cash",
           "imageUrl": null
         },
         {
@@ -183,16 +193,6 @@
           "publishedOn": "2022-08-08T17:00:03.000Z",
           "wordCount": 2703,
           "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash",
-          "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
-        },
-        {
-          "id": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808",
-          "author": null,
-          "description": "Cyber-related Designation",
-          "link": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808",
-          "publishedOn": "2022-08-08T17:00:02.000Z",
-          "wordCount": 1862,
-          "title": "Cyber-related Designation",
           "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
         },
         {
