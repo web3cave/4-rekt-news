@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
-          "author": null,
-          "description": "Building Market Microstructure for NFTs",
-          "link": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
-          "publishedOn": "2022-08-09T08:00:06.000Z",
-          "wordCount": 8601,
-          "title": "Building Market Microstructure for NFTs",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/8g_kbYnO9wo2Js_MVObBe.png?height=690&width=1380&h=690&w=1380&auto=compress"
-        },
-        {
           "id": "https://kermankohli.substack.com/p/founders-stop-valuation-maxing-your?utm_source=twitter&utm_campaign=auto_share&s=w",
           "author": null,
           "description": "Founders, stop valuation-maxing your venture.",
@@ -66,6 +56,16 @@
           "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/USDC-developer.png#keepProtocol"
         },
         {
+          "id": "https://github.com/ethereum/pm/issues/580",
+          "author": null,
+          "description": "Merge Community Call #6 · Issue #580 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/580",
+          "publishedOn": "2022-08-09T01:00:03.000Z",
+          "wordCount": 536,
+          "title": "Merge Community Call #6 · Issue #580 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/bec442e29a189d55372907ba1113eca32d61062c2dd961912abea3f968bf80b4/ethereum/pm/issues/580"
+        },
+        {
           "id": "https://www.youtube.com/watch?t=27539&v=gHuZrcj3ZXg&feature=youtu.be",
           "author": null,
           "description": "Zcon 3 - Day 2 Track 1",
@@ -93,7 +93,7 @@
           "publishedOn": "2022-08-08T20:00:06.000Z",
           "wordCount": 545,
           "title": "GitHub - Alcibiades-Capital/mev_bundle_generator: A MEV bundle generator written in Rust",
-          "imageUrl": "https://opengraph.githubassets.com/92f3cbae26b1b698820f7b202d2a2f3012f4ae51070504d11e80e4e8cf8b0111/Alcibiades-Capital/mev_bundle_generator"
+          "imageUrl": "https://opengraph.githubassets.com/d310d061e6b2fff32edbb08c428903b4149b7fcfc9277cda8981c258a607c52b/Alcibiades-Capital/mev_bundle_generator"
         },
         {
           "id": "https://arbiscan.io/address/0x84443cfd09a48af6ef360c6976c5392ac5023a1f",
@@ -101,7 +101,7 @@
           "description": "Contract Address 0x84443cfd09a48af6ef360c6976c5392ac5023a1f | Arbiscan",
           "link": "https://arbiscan.io/address/0x84443cfd09a48af6ef360c6976c5392ac5023a1f",
           "publishedOn": "2022-08-08T19:00:04.000Z",
-          "wordCount": 4996,
+          "wordCount": 4994,
           "title": "Contract Address 0x84443cfd09a48af6ef360c6976c5392ac5023a1f | Arbiscan",
           "imageUrl": "https://arbiscan.io/images/brandassets/arbiscan-logo-circle.jpg"
         },
@@ -111,7 +111,7 @@
           "description": "Michael Lewis teases new Wall Street book: ‘You’ll learn all about crypto’",
           "link": "https://www.fnlondon.com/articles/michael-lewis-teases-new-wall-street-book-youll-learn-all-about-crypto-20220808",
           "publishedOn": "2022-08-08T17:30:06.000Z",
-          "wordCount": 3152,
+          "wordCount": 3178,
           "title": "Michael Lewis teases new Wall Street book: ‘You’ll learn all about crypto’",
           "imageUrl": "https://images.fnlondon.com/im-598605/?width=749&height=499"
         },
@@ -131,7 +131,7 @@
           "description": "Crypto Mixing Service Tornado Cash Blacklisted by US Treasury",
           "link": "https://www.coindesk.com/policy/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-us-treasury/",
           "publishedOn": "2022-08-08T17:30:05.000Z",
-          "wordCount": 9341,
+          "wordCount": 9314,
           "title": "Crypto Mixing Service Tornado Cash Blacklisted by US Treasury",
           "imageUrl": "https://www.coindesk.com/resizer/X5u9nwT44R_JnzZITnMSseO1F6c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YEVGR5PT3ZCR7D7W3R3YRIF36Q.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "The Great Reset: Preparing For NFT Runes & Charms",
           "link": "https://axie.substack.com/p/greatreset",
           "publishedOn": "2022-08-08T13:00:03.000Z",
-          "wordCount": 1744,
+          "wordCount": 1950,
           "title": "The Great Reset: Preparing For NFT Runes & Charms",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd057d466-79c1-446c-9989-42406f164b8d_2400x1350.jpeg"
         },
@@ -191,7 +191,7 @@
           "description": "ERC721 Extension for zk-SNARKs",
           "link": "https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237/2",
           "publishedOn": "2022-08-08T11:00:02.000Z",
-          "wordCount": 2177,
+          "wordCount": 2247,
           "title": "ERC721 Extension for zk-SNARKs",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         },
