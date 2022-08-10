@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-10T06:29:17.994Z</id>
+    <id>urn:2022-08-10T07:20:48.903Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-10T06:29:17.994Z</updated>
+    <updated>2022-08-10T07:20:48.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Building Market Microstructure for NFTs]]></title>
-        <id>https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE</id>
-        <link href="https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE"/>
-        <updated>2022-08-10T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Building Market Microstructure for NFTs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[tornado.py]]></title>
         <id>https://gist.github.com/banteg/8c8215c14a392e473ab5b3a4cad8db4d</id>
@@ -51,6 +41,16 @@
         <link href="https://revoke.cash/"/>
         <updated>2022-08-09T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Revoke.cash - Revoke your Ethereum token allowances]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomad Bridge incident analysis]]></title>
+        <id>https://blog.coinbase.com/nomad-bridge-incident-analysis-899b425b0f34?gi=cf0bece434e3</id>
+        <link href="https://blog.coinbase.com/nomad-bridge-incident-analysis-899b425b0f34?gi=cf0bece434e3"/>
+        <updated>2022-08-09T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Nomad Bridge incident analysis]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
