@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-10T09:21:46.386Z</id>
+    <id>urn:2022-08-10T10:24:28.522Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-10T09:21:46.386Z</updated>
+    <updated>2022-08-10T10:24:28.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[zk.money]]></title>
+        <id>https://zk.money/</id>
+        <link href="https://zk.money/"/>
+        <updated>2022-08-10T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[zk.money]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celsius CEO Cashed in After Bankrupt Crypto Lender's Token Surged]]></title>
         <id>https://www.coindesk.com/markets/2022/08/09/dormant-wallet-linked-to-alex-mashinsky-used-to-cash-in-on-cel-token-surge/</id>
@@ -151,16 +161,6 @@
         <link href="https://www.prnewswire.com/news-releases/ftx-pays-payment-and-exchange-infrastructure-integrates-with-reddit-community-points-301601906.html"/>
         <updated>2022-08-09T14:30:04.000Z</updated>
         <summary type="html"><![CDATA[FTX Pay's Payment and Exchange Infrastructure Integrates with Reddit Community Points]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lunarpunk and the Dark Side of the Cycle]]></title>
-        <id>https://www.youtube.com/watch?v=QA3YZVDUN5s</id>
-        <link href="https://www.youtube.com/watch?v=QA3YZVDUN5s"/>
-        <updated>2022-08-09T11:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Lunarpunk and the Dark Side of the Cycle]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
