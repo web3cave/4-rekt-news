@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
+          "author": null,
+          "description": "Measuring SNARK Performance",
+          "link": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
+          "publishedOn": "2022-08-11T17:00:09.000Z",
+          "wordCount": 4587,
+          "title": "Measuring SNARK Performance",
+          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/04/a16z-crypto-Logo-lc_Solid.png"
+        },
+        {
+          "id": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
+          "author": null,
+          "description": "Urgent Executive Inclusion Request",
+          "link": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
+          "publishedOn": "2022-08-11T17:00:09.000Z",
+          "wordCount": 381,
+          "title": "Urgent Executive Inclusion Request",
+          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
+        },
+        {
           "id": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "author": null,
           "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
           "link": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "publishedOn": "2022-08-11T15:00:04.000Z",
-          "wordCount": 403,
+          "wordCount": 12304,
           "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN383_TCB-social.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=nZXRV4MezEw&feature=youtu.be",
@@ -31,7 +51,7 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 76150,
+          "wordCount": 76259,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
           "link": "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html",
           "publishedOn": "2022-08-11T08:30:04.000Z",
-          "wordCount": 4492,
+          "wordCount": 4493,
           "title": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
           "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/14/full/1594667237-1967.jpg"
         },
@@ -81,19 +101,9 @@
           "description": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
           "link": "https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T05:00:02.000Z",
-          "wordCount": 76512,
+          "wordCount": 76621,
           "title": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
-        },
-        {
-          "id": "https://bheau.substack.com/p/sudoswap-the-nft-amm-explained?sd=pf",
-          "author": null,
-          "description": "SudoSwap: The NFT AMM Explained",
-          "link": "https://bheau.substack.com/p/sudoswap-the-nft-amm-explained?sd=pf",
-          "publishedOn": "2022-08-11T05:00:02.000Z",
-          "wordCount": 6125,
-          "title": "SudoSwap: The NFT AMM Explained",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd692db8-613a-4e07-8397-616e3d9500f2_589x385.png"
         },
         {
           "id": "https://www.jobs.irs.gov/resources/job-descriptions/irs-criminal-investigation-special-agent",
@@ -101,7 +111,7 @@
           "description": "IRS Criminal Investigation Special Agent",
           "link": "https://www.jobs.irs.gov/resources/job-descriptions/irs-criminal-investigation-special-agent",
           "publishedOn": "2022-08-11T04:00:05.000Z",
-          "wordCount": 2175,
+          "wordCount": 2166,
           "title": "IRS Criminal Investigation Special Agent",
           "imageUrl": null
         },
@@ -136,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?t=1&v=I845O57ZSy4&feature=youtu.be",
-          "author": null,
-          "description": "John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309",
-          "link": "https://www.youtube.com/watch?t=1&v=I845O57ZSy4&feature=youtu.be",
-          "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": null,
-          "title": "John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309",
-          "imageUrl": null
-        },
-        {
           "id": "https://metadrop.com/",
           "author": null,
           "description": "Metadrop",
@@ -161,7 +161,7 @@
           "description": "Let’s go, Aka-Chan!",
           "link": "https://anatanft.medium.com/lets-go-aka-chan-93b8b3eb83ed",
           "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": 2959,
+          "wordCount": 2956,
           "title": "Let’s go, Aka-Chan!",
           "imageUrl": "https://miro.medium.com/max/1200/1*tmMpEEqMyxgfOkQUJLnRzQ.png"
         },
