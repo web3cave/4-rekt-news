@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://oasis.app/",
+          "author": null,
+          "description": "Oasis.app",
+          "link": "https://oasis.app/",
+          "publishedOn": "2022-08-11T19:00:06.000Z",
+          "wordCount": 8254,
+          "title": "Oasis.app",
+          "imageUrl": "https://oasis.app/static/og.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mehuqinCk1o",
+          "author": null,
+          "description": "Let's Talk MEV RoundTable",
+          "link": "https://www.youtube.com/watch?v=mehuqinCk1o",
+          "publishedOn": "2022-08-11T19:00:06.000Z",
+          "wordCount": null,
+          "title": "Let's Talk MEV RoundTable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://astroport.medium.com/",
+          "author": null,
+          "description": "Astroport – Medium",
+          "link": "https://astroport.medium.com/",
+          "publishedOn": "2022-08-11T19:00:06.000Z",
+          "wordCount": 2030,
+          "title": "Astroport – Medium",
+          "imageUrl": "https://miro.medium.com/max/2400/1*7Qy05sarfVy_AZcVWAwxpQ.jpeg"
+        },
+        {
           "id": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "author": null,
           "description": "Announcing our $10M Raise",
           "link": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "publishedOn": "2022-08-11T18:00:06.000Z",
-          "wordCount": 2087,
+          "wordCount": 2086,
           "title": "Announcing our $10M Raise",
           "imageUrl": "https://miro.medium.com/max/1200/1*avLYnpdIV9rxLRZdFlG_1Q.png"
         },
@@ -21,7 +51,7 @@
           "description": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
           "link": "https://www.washingtonpost.com/politics/2022/08/11/google-plan-loosen-spam-filters-peril-democrats-mount-opposition/",
           "publishedOn": "2022-08-11T17:30:06.000Z",
-          "wordCount": 8910,
+          "wordCount": 8912,
           "title": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53YMFEAY64I63OMYWKVWR5MENA.jpg&w=1440"
         },
@@ -34,6 +64,16 @@
           "wordCount": 4587,
           "title": "Measuring SNARK Performance",
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/04/a16z-crypto-Logo-lc_Solid.png"
+        },
+        {
+          "id": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
+          "author": null,
+          "description": "Urgent Executive Inclusion Request",
+          "link": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
+          "publishedOn": "2022-08-11T17:00:09.000Z",
+          "wordCount": 381,
+          "title": "Urgent Executive Inclusion Request",
+          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
         },
         {
           "id": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
@@ -126,16 +166,6 @@
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/10220119/GoerliMerge.jpg"
         },
         {
-          "id": "https://docs.uniswap.org/sdk/widgets/swap-widget",
-          "author": null,
-          "description": "Getting Started with the Swap Widget | Uniswap",
-          "link": "https://docs.uniswap.org/sdk/widgets/swap-widget",
-          "publishedOn": "2022-08-10T23:30:04.000Z",
-          "wordCount": 2274,
-          "title": "Getting Started with the Swap Widget | Uniswap",
-          "imageUrl": "https://docs.uniswap.org//img/twitter_card_bg.jpg"
-        },
-        {
           "id": "https://parallel.fractional.art/",
           "author": null,
           "description": "Fractional & Parallel Parasets",
@@ -156,26 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://metadrop.com/",
-          "author": null,
-          "description": "Metadrop",
-          "link": "https://metadrop.com/",
-          "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": 51,
-          "title": "Metadrop",
-          "imageUrl": "https://res.cloudinary.com/dtxk1z5zc/image/upload/c_scale,w_1680/v1658470497/shared/metadrop_og_fg87tx.png"
-        },
-        {
-          "id": "https://anatanft.medium.com/lets-go-aka-chan-93b8b3eb83ed",
-          "author": null,
-          "description": "Let’s go, Aka-Chan!",
-          "link": "https://anatanft.medium.com/lets-go-aka-chan-93b8b3eb83ed",
-          "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": 2956,
-          "title": "Let’s go, Aka-Chan!",
-          "imageUrl": "https://miro.medium.com/max/1200/1*tmMpEEqMyxgfOkQUJLnRzQ.png"
-        },
-        {
           "id": "https://gasguzzlers.wtf/",
           "author": null,
           "description": "Gas Guzzlers",
@@ -183,16 +193,6 @@
           "publishedOn": "2022-08-10T23:00:02.000Z",
           "wordCount": 4,
           "title": "Gas Guzzlers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lJZx8RyeJys&feature=youtu.be",
-          "author": null,
-          "description": "Tornado Cash BANNED By OFAC... Is this the War on Crypto?",
-          "link": "https://www.youtube.com/watch?v=lJZx8RyeJys&feature=youtu.be",
-          "publishedOn": "2022-08-10T19:30:04.000Z",
-          "wordCount": null,
-          "title": "Tornado Cash BANNED By OFAC... Is this the War on Crypto?",
           "imageUrl": null
         },
         {
