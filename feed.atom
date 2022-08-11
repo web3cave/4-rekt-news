@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T21:19:59.269Z</id>
+    <id>urn:2022-08-11T22:21:15.720Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T21:19:59.269Z</updated>
+    <updated>2022-08-11T22:21:15.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383]]></title>
+        <id>https://www.youtube.com/watch?v=UJ_kfHdCLUk</id>
+        <link href="https://www.youtube.com/watch?v=UJ_kfHdCLUk"/>
+        <updated>2022-08-11T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECDSA signature malleability]]></title>
         <id>https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h</id>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Measuring SNARK Performance]]></title>
+        <id>https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/</id>
+        <link href="https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/"/>
+        <updated>2022-08-11T17:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Measuring SNARK Performance]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383]]></title>
         <id>https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/</id>
         <link href="https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/"/>
@@ -96,21 +116,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BlackRock launches private trust offering direct bitcoin exposure]]></title>
-        <id>https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-08-11T14:00:06.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock launches private trust offering direct bitcoin exposure]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[PDF] presspb2022d8_en.pdf]]></title>
         <id>https://unctad.org/system/files/official-document/presspb2022d8_en.pdf</id>
         <link href="https://unctad.org/system/files/official-document/presspb2022d8_en.pdf"/>
         <updated>2022-08-11T14:00:06.000Z</updated>
         <summary type="html"><![CDATA[[PDF] presspb2022d8_en.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock launches private trust offering direct bitcoin exposure]]></title>
+        <id>https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&amp;utm_medium=social</id>
+        <link href="https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&amp;utm_medium=social"/>
+        <updated>2022-08-11T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock launches private trust offering direct bitcoin exposure]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -146,31 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum's final proof-of-stake 'test merge' is live on Goerli]]></title>
-        <id>https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-08-11T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's final proof-of-stake 'test merge' is live on Goerli]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant]]></title>
         <id>https://thedefiant.io/ethereum-goerli-merge-complete</id>
         <link href="https://thedefiant.io/ethereum-goerli-merge-complete"/>
         <updated>2022-08-11T04:00:05.000Z</updated>
         <summary type="html"><![CDATA[BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractional & Parallel Parasets]]></title>
-        <id>https://parallel.fractional.art/</id>
-        <link href="https://parallel.fractional.art/"/>
-        <updated>2022-08-10T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Fractional & Parallel Parasets]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

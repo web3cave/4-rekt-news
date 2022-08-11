@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
+          "author": null,
+          "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383",
+          "link": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
+          "publishedOn": "2022-08-11T21:30:05.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
           "author": null,
           "description": "ECDSA signature malleability",
@@ -71,9 +81,19 @@
           "description": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
           "link": "https://www.washingtonpost.com/politics/2022/08/11/google-plan-loosen-spam-filters-peril-democrats-mount-opposition/",
           "publishedOn": "2022-08-11T17:30:06.000Z",
-          "wordCount": 8912,
+          "wordCount": 10231,
           "title": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53YMFEAY64I63OMYWKVWR5MENA.jpg&w=1440"
+        },
+        {
+          "id": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
+          "author": null,
+          "description": "Measuring SNARK Performance",
+          "link": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
+          "publishedOn": "2022-08-11T17:00:09.000Z",
+          "wordCount": 4609,
+          "title": "Measuring SNARK Performance",
+          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/04/a16z-crypto-Logo-lc_Solid.png"
         },
         {
           "id": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
@@ -81,9 +101,9 @@
           "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
           "link": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "publishedOn": "2022-08-11T15:00:04.000Z",
-          "wordCount": 12304,
+          "wordCount": 946,
           "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN383_TCB-social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=nZXRV4MezEw&feature=youtu.be",
@@ -96,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "BlackRock launches private trust offering direct bitcoin exposure",
-          "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 76247,
-          "title": "BlackRock launches private trust offering direct bitcoin exposure",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
-        },
-        {
           "id": "https://unctad.org/system/files/official-document/presspb2022d8_en.pdf",
           "author": null,
           "description": "[PDF] presspb2022d8_en.pdf",
@@ -114,6 +124,16 @@
           "wordCount": 5101,
           "title": "[PDF] presspb2022d8_en.pdf",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "BlackRock launches private trust offering direct bitcoin exposure",
+          "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-08-11T14:00:06.000Z",
+          "wordCount": 77283,
+          "title": "BlackRock launches private trust offering direct bitcoin exposure",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
         {
           "id": "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html",
@@ -146,16 +166,6 @@
           "imageUrl": "https://images.ctfassets.net/peywamf72mj3/4aTRkzYIER8bVw55ZXAkga/861958a8e02784131afdce2b5c7c86bb/tornado-outage.png"
         },
         {
-          "id": "https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
-          "link": "https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-08-11T05:00:02.000Z",
-          "wordCount": 76590,
-          "title": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
-        },
-        {
           "id": "https://thedefiant.io/ethereum-goerli-merge-complete",
           "author": null,
           "description": "BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant",
@@ -164,16 +174,6 @@
           "wordCount": 975,
           "title": "BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/10220119/GoerliMerge.jpg"
-        },
-        {
-          "id": "https://parallel.fractional.art/",
-          "author": null,
-          "description": "Fractional & Parallel Parasets",
-          "link": "https://parallel.fractional.art/",
-          "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": 18,
-          "title": "Fractional & Parallel Parasets",
-          "imageUrl": "https://assets-production.fractional.xyz/media/parallel/meta/parallel_fractional_social_optimized.png?width=1400&fit=bounds"
         },
         {
           "id": "https://angeris.github.io/papers/block-space.pdf",
