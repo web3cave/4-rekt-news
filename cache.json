@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
+          "author": null,
+          "description": "ECDSA signature malleability",
+          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
+          "publishedOn": "2022-08-11T19:30:05.000Z",
+          "wordCount": 379,
+          "title": "ECDSA signature malleability",
+          "imageUrl": "https://opengraph.githubassets.com/4960bcda615c0347e463bbe10d312f9fcf5b4d461714dd3ab796a226dbb54bb2/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"
+        },
+        {
+          "id": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
+          "author": null,
+          "description": "FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
+          "publishedOn": "2022-08-11T19:00:07.000Z",
+          "wordCount": 2213,
+          "title": "FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices",
+          "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg"
+        },
+        {
           "id": "https://oasis.app/",
           "author": null,
           "description": "Oasis.app",
@@ -31,7 +51,7 @@
           "description": "Astroport – Medium",
           "link": "https://astroport.medium.com/",
           "publishedOn": "2022-08-11T19:00:06.000Z",
-          "wordCount": 2030,
+          "wordCount": 1988,
           "title": "Astroport – Medium",
           "imageUrl": "https://miro.medium.com/max/2400/1*7Qy05sarfVy_AZcVWAwxpQ.jpeg"
         },
@@ -41,7 +61,7 @@
           "description": "Announcing our $10M Raise",
           "link": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "publishedOn": "2022-08-11T18:00:06.000Z",
-          "wordCount": 2086,
+          "wordCount": 2087,
           "title": "Announcing our $10M Raise",
           "imageUrl": "https://miro.medium.com/max/1200/1*avLYnpdIV9rxLRZdFlG_1Q.png"
         },
@@ -56,34 +76,14 @@
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53YMFEAY64I63OMYWKVWR5MENA.jpg&w=1440"
         },
         {
-          "id": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
-          "author": null,
-          "description": "Measuring SNARK Performance",
-          "link": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
-          "publishedOn": "2022-08-11T17:00:09.000Z",
-          "wordCount": 4587,
-          "title": "Measuring SNARK Performance",
-          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/04/a16z-crypto-Logo-lc_Solid.png"
-        },
-        {
-          "id": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
-          "author": null,
-          "description": "Urgent Executive Inclusion Request",
-          "link": "https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179",
-          "publishedOn": "2022-08-11T17:00:09.000Z",
-          "wordCount": 381,
-          "title": "Urgent Executive Inclusion Request",
-          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
-        },
-        {
           "id": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "author": null,
           "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
           "link": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "publishedOn": "2022-08-11T15:00:04.000Z",
-          "wordCount": 969,
+          "wordCount": 12304,
           "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN383_TCB-social.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=nZXRV4MezEw&feature=youtu.be",
@@ -101,7 +101,7 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 75860,
+          "wordCount": 76309,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
@@ -151,7 +151,7 @@
           "description": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
           "link": "https://www.theblock.co/post/162913/ethereums-final-proof-of-stake-test-merge-is-live-on-goerli?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T05:00:02.000Z",
-          "wordCount": 76203,
+          "wordCount": 76652,
           "title": "Ethereum's final proof-of-stake 'test merge' is live on Goerli",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
         },

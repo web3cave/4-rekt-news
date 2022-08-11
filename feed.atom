@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-11T19:16:13.894Z</id>
+    <id>urn:2022-08-11T20:22:23.899Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-11T19:16:13.894Z</updated>
+    <updated>2022-08-11T20:22:23.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ECDSA signature malleability]]></title>
+        <id>https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h</id>
+        <link href="https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"/>
+        <updated>2022-08-11T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[ECDSA signature malleability]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices]]></title>
+        <id>https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices</id>
+        <link href="https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices"/>
+        <updated>2022-08-11T19:00:07.000Z</updated>
+        <summary type="html"><![CDATA[FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oasis.app]]></title>
         <id>https://oasis.app/</id>
@@ -51,26 +71,6 @@
         <link href="https://www.washingtonpost.com/politics/2022/08/11/google-plan-loosen-spam-filters-peril-democrats-mount-opposition/"/>
         <updated>2022-08-11T17:30:06.000Z</updated>
         <summary type="html"><![CDATA[Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring SNARK Performance]]></title>
-        <id>https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/</id>
-        <link href="https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/"/>
-        <updated>2022-08-11T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Measuring SNARK Performance]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent Executive Inclusion Request]]></title>
-        <id>https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179</id>
-        <link href="https://forum.makerdao.com/t/urgent-executive-inclusion-request/17179"/>
-        <updated>2022-08-11T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Urgent Executive Inclusion Request]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
