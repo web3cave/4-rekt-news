@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://informal.systems/2022/08/11/interchain-security-pre-release/",
+          "author": null,
+          "description": "Announcing: Interchain security v0.1 Pre-Release",
+          "link": "https://informal.systems/2022/08/11/interchain-security-pre-release/",
+          "publishedOn": "2022-08-11T23:00:02.000Z",
+          "wordCount": 581,
+          "title": "Announcing: Interchain security v0.1 Pre-Release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://davidphelps.substack.com/p/the-case-for-modular-maxis",
+          "author": null,
+          "description": "The Case for Modular Maxis",
+          "link": "https://davidphelps.substack.com/p/the-case-for-modular-maxis",
+          "publishedOn": "2022-08-11T23:00:02.000Z",
+          "wordCount": 8554,
+          "title": "The Case for Modular Maxis",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0387ba2a-5cab-4a10-ba3f-8df2c704d264_1600x1012.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
           "author": null,
           "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383",
@@ -16,22 +36,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
-          "author": null,
-          "description": "ECDSA signature malleability",
-          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
-          "publishedOn": "2022-08-11T19:30:05.000Z",
-          "wordCount": 379,
-          "title": "ECDSA signature malleability",
-          "imageUrl": "https://opengraph.githubassets.com/4960bcda615c0347e463bbe10d312f9fcf5b4d461714dd3ab796a226dbb54bb2/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"
-        },
-        {
           "id": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
           "author": null,
           "description": "FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices",
           "link": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-explores-rules-cracking-down-commercial-surveillance-lax-data-security-practices",
           "publishedOn": "2022-08-11T19:00:07.000Z",
-          "wordCount": 2208,
+          "wordCount": 2211,
           "title": "FTC Explores Rules Cracking Down on Commercial Surveillance and Lax Data Security Practices",
           "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg"
         },
@@ -76,16 +86,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*avLYnpdIV9rxLRZdFlG_1Q.png"
         },
         {
-          "id": "https://www.washingtonpost.com/politics/2022/08/11/google-plan-loosen-spam-filters-peril-democrats-mount-opposition/",
-          "author": null,
-          "description": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
-          "link": "https://www.washingtonpost.com/politics/2022/08/11/google-plan-loosen-spam-filters-peril-democrats-mount-opposition/",
-          "publishedOn": "2022-08-11T17:30:06.000Z",
-          "wordCount": 10231,
-          "title": "Analysis | Google plan to loosen spam filters in peril as Democrats mount opposition",
-          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53YMFEAY64I63OMYWKVWR5MENA.jpg&w=1440"
-        },
-        {
           "id": "https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/",
           "author": null,
           "description": "Measuring SNARK Performance",
@@ -101,9 +101,9 @@
           "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
           "link": "https://unchainedpodcast.com/the-chopping-block-how-to-manage-makerdao-with-hasu-and-rune-ep-383/",
           "publishedOn": "2022-08-11T15:00:04.000Z",
-          "wordCount": 946,
+          "wordCount": 12304,
           "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep.383",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN383_TCB-social.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=nZXRV4MezEw&feature=youtu.be",
@@ -131,7 +131,7 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 77283,
+          "wordCount": 77354,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
@@ -196,10 +196,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg",
           "author": null,
           "description": "Goerli Merge 🐼 LIVESTREAM | Bankless, ETH Stakers, and Friends!",
-          "link": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg",
           "publishedOn": "2022-08-09T23:00:03.000Z",
           "wordCount": null,
           "title": "Goerli Merge 🐼 LIVESTREAM | Bankless, ETH Stakers, and Friends!",
