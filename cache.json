@@ -36,16 +36,6 @@
           "imageUrl": "https://opengraph.githubassets.com/b45ed99e6321f17984f012b6c0ff0d772e9edacebee284631776ab15a7bc0775/banteg/staking-deposit"
         },
         {
-          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
-          "author": null,
-          "description": "ECDSA signature malleability",
-          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
-          "publishedOn": "2022-08-12T02:30:03.000Z",
-          "wordCount": 379,
-          "title": "ECDSA signature malleability",
-          "imageUrl": "https://opengraph.githubassets.com/4960bcda615c0347e463bbe10d312f9fcf5b4d461714dd3ab796a226dbb54bb2/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"
-        },
-        {
           "id": "https://www.blocknative.com/blog/announcement-transaction-distribution-network?utm_source=twitter&utm_medium=social&utm_campaign=tdn",
           "author": null,
           "description": "Blocknative Launches Transaction Distribution Network",
@@ -83,7 +73,17 @@
           "publishedOn": "2022-08-11T23:00:02.000Z",
           "wordCount": 326,
           "title": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
-          "imageUrl": "https://opengraph.githubassets.com/2cc979816653c6ea479e47bd34a3c4e1caf53bcff751e36ead0db573dcd1bef1/aptos-labs/aptos-core"
+          "imageUrl": "https://opengraph.githubassets.com/c6b7a88b326896777903e0d98262ac302cec8401a17edc24be168fc2cfd1a32a/aptos-labs/aptos-core"
+        },
+        {
+          "id": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
+          "author": null,
+          "description": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
+          "link": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
+          "publishedOn": "2022-08-11T21:30:06.000Z",
+          "wordCount": 1983,
+          "title": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
+          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/08/Carousel-Proof-of-reserve-1-1024x512.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
@@ -166,6 +166,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://availableon.com/overpricedJPEGs",
+          "author": null,
+          "description": "Overpriced JPEGs",
+          "link": "https://availableon.com/overpricedJPEGs",
+          "publishedOn": "2022-08-11T15:00:04.000Z",
+          "wordCount": 339,
+          "title": "Overpriced JPEGs",
+          "imageUrl": null
+        },
+        {
           "id": "https://unctad.org/system/files/official-document/presspb2022d8_en.pdf",
           "author": null,
           "description": "[PDF] presspb2022d8_en.pdf",
@@ -181,19 +191,9 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 76104,
+          "wordCount": 76222,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CIAGQMUKEZ4",
-          "author": null,
-          "description": "Consensus Layer Call #93 [2022/8/10]",
-          "link": "https://www.youtube.com/watch?v=CIAGQMUKEZ4",
-          "publishedOn": "2022-08-11T08:00:04.000Z",
-          "wordCount": null,
-          "title": "Consensus Layer Call #93 [2022/8/10]",
-          "imageUrl": null
         },
         {
           "id": "https://dydx.exchange/blog/tornado-outage",
