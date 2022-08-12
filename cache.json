@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.blocknative.com/blog/announcement-transaction-distribution-network?utm_source=twitter&utm_medium=social&utm_campaign=tdn",
+          "author": null,
+          "description": "Blocknative Launches Transaction Distribution Network",
+          "link": "https://www.blocknative.com/blog/announcement-transaction-distribution-network?utm_source=twitter&utm_medium=social&utm_campaign=tdn",
+          "publishedOn": "2022-08-11T23:00:03.000Z",
+          "wordCount": 1640,
+          "title": "Blocknative Launches Transaction Distribution Network",
+          "imageUrl": "https://www.blocknative.com/hubfs/tdn%20main.png#keepProtocol"
+        },
+        {
           "id": "https://informal.systems/2022/08/11/interchain-security-pre-release/",
           "author": null,
           "description": "Announcing: Interchain security v0.1 Pre-Release",
@@ -24,6 +34,26 @@
           "wordCount": 8554,
           "title": "The Case for Modular Maxis",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0387ba2a-5cab-4a10-ba3f-8df2c704d264_1600x1012.png"
+        },
+        {
+          "id": "https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf",
+          "author": null,
+          "description": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
+          "link": "https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf",
+          "publishedOn": "2022-08-11T23:00:02.000Z",
+          "wordCount": 326,
+          "title": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
+          "imageUrl": "https://opengraph.githubassets.com/f85bdb4a1328cc29836fed0853ec9b549dd127ce0594a5b0d71e210e9d326826/aptos-labs/aptos-core"
+        },
+        {
+          "id": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
+          "author": null,
+          "description": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
+          "link": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
+          "publishedOn": "2022-08-11T21:30:06.000Z",
+          "wordCount": 1983,
+          "title": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
+          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/08/Carousel-Proof-of-reserve-1-1024x512.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
@@ -66,22 +96,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://astroport.medium.com/",
-          "author": null,
-          "description": "Astroport – Medium",
-          "link": "https://astroport.medium.com/",
-          "publishedOn": "2022-08-11T19:00:06.000Z",
-          "wordCount": 1988,
-          "title": "Astroport – Medium",
-          "imageUrl": "https://miro.medium.com/max/2400/1*7Qy05sarfVy_AZcVWAwxpQ.jpeg"
-        },
-        {
           "id": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "author": null,
           "description": "Announcing our $10M Raise",
           "link": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "publishedOn": "2022-08-11T18:00:06.000Z",
-          "wordCount": 2089,
+          "wordCount": 2452,
           "title": "Announcing our $10M Raise",
           "imageUrl": "https://miro.medium.com/max/1200/1*avLYnpdIV9rxLRZdFlG_1Q.png"
         },
@@ -131,7 +151,7 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 77354,
+          "wordCount": 76960,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/10220119/GoerliMerge.jpg"
         },
         {
-          "id": "https://angeris.github.io/papers/block-space.pdf",
-          "author": null,
-          "description": "[PDF] block-space.pdf",
-          "link": "https://angeris.github.io/papers/block-space.pdf",
-          "publishedOn": "2022-08-10T23:00:03.000Z",
-          "wordCount": 16152,
-          "title": "[PDF] block-space.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://gasguzzlers.wtf/",
           "author": null,
           "description": "Gas Guzzlers",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-08-10T23:00:02.000Z",
           "wordCount": 4,
           "title": "Gas Guzzlers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg",
-          "author": null,
-          "description": "Goerli Merge 🐼 LIVESTREAM | Bankless, ETH Stakers, and Friends!",
-          "link": "https://www.youtube.com/watch?v=7eN8Qz8D8Eg",
-          "publishedOn": "2022-08-09T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Goerli Merge 🐼 LIVESTREAM | Bankless, ETH Stakers, and Friends!",
           "imageUrl": null
         }
       ]
