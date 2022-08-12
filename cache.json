@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/balancer-labs/balancer-api/pull/22",
+          "author": null,
+          "description": "Add lambda to perform sanctions check for frontend by timjrobinson · Pull Request #22 · balancer-labs/balancer-api",
+          "link": "https://github.com/balancer-labs/balancer-api/pull/22",
+          "publishedOn": "2022-08-12T23:00:02.000Z",
+          "wordCount": 779,
+          "title": "Add lambda to perform sanctions check for frontend by timjrobinson · Pull Request #22 · balancer-labs/balancer-api",
+          "imageUrl": "https://opengraph.githubassets.com/ca1f860ac473c85272ede9b416468070f99130982381d9f715408e27423d241e/balancer-labs/balancer-api/pull/22"
+        },
+        {
+          "id": "https://github.com/balancer-labs/frontend-v2/search?q=trm",
+          "author": null,
+          "description": "Search · trm · balancer-labs/frontend-v2",
+          "link": "https://github.com/balancer-labs/frontend-v2/search?q=trm",
+          "publishedOn": "2022-08-12T23:00:02.000Z",
+          "wordCount": 800,
+          "title": "Search · trm · balancer-labs/frontend-v2",
+          "imageUrl": "https://opengraph.githubassets.com/5a26ff32d97f00f4647ce0a5efed1ef386280382ea2109be66531587681dc437/balancer-labs/frontend-v2"
+        },
+        {
           "id": "https://sh-brennan.medium.com/on-tornado-cash-a-bang-61f281b11f92",
           "author": null,
           "description": "On Tornado Cash. A Bang.",
@@ -31,9 +51,9 @@
           "description": "FoxCRYPT",
           "link": "https://foxcry.pt/",
           "publishedOn": "2022-08-12T19:00:04.000Z",
-          "wordCount": 601,
+          "wordCount": null,
           "title": "FoxCRYPT",
-          "imageUrl": "http://foxcry.pt/img/logo-big.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://vitalik.ca/",
@@ -51,7 +71,7 @@
           "description": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/92",
           "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 2433,
+          "wordCount": 2438,
           "title": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/03ad31e5eb89f6111804c4caa151fe72ce047201a55837a83415c9e8c2f6d1cb/flashbots/rpc-endpoint/pull/92"
         },
@@ -111,7 +131,7 @@
           "description": "Suspected Tornado Cash developer arrested in Amsterdam",
           "link": "https://www.theblock.co/post/163206/suspected-tornado-cash-developer-arrested-in-amsterdam?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-12T15:00:03.000Z",
-          "wordCount": 76913,
+          "wordCount": 76703,
           "title": "Suspected Tornado Cash developer arrested in Amsterdam",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220808_Tornado-Cash-2.jpg"
         },
@@ -131,7 +151,7 @@
           "description": "Netherlands Arrests Suspected Tornado Cash Developer",
           "link": "https://www.coindesk.com/policy/2022/08/12/netherlands-arrests-suspected-tornado-cash-developer/",
           "publishedOn": "2022-08-12T15:00:03.000Z",
-          "wordCount": 7605,
+          "wordCount": 7618,
           "title": "Netherlands Arrests Suspected Tornado Cash Developer",
           "imageUrl": "https://www.coindesk.com/resizer/eLokFfDmP4ck8dRXzxv9pkoxc08=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KJROXIG5X5CSZNRONHVKJ5RAKY"
         },
@@ -141,7 +161,7 @@
           "description": "Tornado Cash DAO discusses legal avenues to challenge US sanctions",
           "link": "https://www.theblock.co/post/163220/tornado-cash-community-discussing-legal-avenues-to-challenge-us-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-12T15:00:03.000Z",
-          "wordCount": 77364,
+          "wordCount": 77154,
           "title": "Tornado Cash DAO discusses legal avenues to challenge US sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200626_Crypto_Legal-Daily.jpg"
         },
@@ -151,7 +171,7 @@
           "description": "Crypto Entrepreneurs Bankman-Fried, Sun in Talks to Buy Majority of Huobi Global Exchange: Report",
           "link": "https://www.coindesk.com/business/2022/08/12/huobi-founder-in-talks-to-sell-majority-stake-at-3b-valuation-report/",
           "publishedOn": "2022-08-12T14:30:03.000Z",
-          "wordCount": 8089,
+          "wordCount": 8106,
           "title": "Crypto Entrepreneurs Bankman-Fried, Sun in Talks to Buy Majority of Huobi Global Exchange: Report",
           "imageUrl": "https://www.coindesk.com/resizer/f4zaB-hOXwfS-enu2v06W_-Up14=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ERI5B63625B3FFYY3DMZ3YCUUM.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "https://zeeprime.capital/wp-content/uploads/zeeprime-web3-social-media-research-blog.png"
         },
         {
-          "id": "https://www.nytimes.com/2022/08/11/us/politics/trump-fbi-subpoena.html",
-          "author": null,
-          "description": "Subpoena Preceded Search Warrant in Push to Retrieve Material From Trump",
-          "link": "https://www.nytimes.com/2022/08/11/us/politics/trump-fbi-subpoena.html",
-          "publishedOn": "2022-08-12T04:30:02.000Z",
-          "wordCount": 7317,
-          "title": "Subpoena Preceded Search Warrant in Push to Retrieve Material From Trump",
-          "imageUrl": "https://static01.nyt.com/images/2022/08/11/us/politics/11dc-investigate/11dc-investigate-facebookJumbo.jpg"
-        },
-        {
           "id": "https://axie.substack.com/p/phase3",
           "author": null,
           "description": "Origin Season 0: Phase 3 Is Here!",
@@ -194,16 +204,6 @@
           "wordCount": 3532,
           "title": "Origin Season 0: Phase 3 Is Here!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5e8fac7-93a7-423f-a385-15a8a75b99b4_1500x500.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
-          "author": null,
-          "description": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383",
-          "link": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
-          "publishedOn": "2022-08-11T21:30:05.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block: How to Manage MakerDAO, With Hasu and Rune - Ep. 383",
-          "imageUrl": null
         }
       ]
     }
