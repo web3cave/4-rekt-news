@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/08/11/us/politics/trump-fbi-subpoena.html",
+          "author": null,
+          "description": "Subpoena Preceded Search Warrant in Push to Retrieve Material From Trump",
+          "link": "https://www.nytimes.com/2022/08/11/us/politics/trump-fbi-subpoena.html",
+          "publishedOn": "2022-08-12T04:30:02.000Z",
+          "wordCount": 7394,
+          "title": "Subpoena Preceded Search Warrant in Push to Retrieve Material From Trump",
+          "imageUrl": "https://static01.nyt.com/images/2022/08/11/us/politics/11dc-investigate/11dc-investigate-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://github.com/banteg/staking-deposit",
+          "author": null,
+          "description": "GitHub - banteg/staking-deposit: simple görli mass deposit contract",
+          "link": "https://github.com/banteg/staking-deposit",
+          "publishedOn": "2022-08-12T04:00:07.000Z",
+          "wordCount": 482,
+          "title": "GitHub - banteg/staking-deposit: simple görli mass deposit contract",
+          "imageUrl": "https://opengraph.githubassets.com/a757bb82e79041d95bc755a4d98e85c7ea6855d575719ca439508b560bfef813/banteg/staking-deposit"
+        },
+        {
+          "id": "https://axie.substack.com/p/phase3",
+          "author": null,
+          "description": "Origin Season 0: Phase 3 Is Here!",
+          "link": "https://axie.substack.com/p/phase3",
+          "publishedOn": "2022-08-12T04:00:07.000Z",
+          "wordCount": 3532,
+          "title": "Origin Season 0: Phase 3 Is Here!",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5e8fac7-93a7-423f-a385-15a8a75b99b4_1500x500.png"
+        },
+        {
           "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
           "author": null,
           "description": "ECDSA signature malleability",
@@ -44,26 +74,6 @@
           "wordCount": 8554,
           "title": "The Case for Modular Maxis",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0387ba2a-5cab-4a10-ba3f-8df2c704d264_1600x1012.png"
-        },
-        {
-          "id": "https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf",
-          "author": null,
-          "description": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
-          "link": "https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf",
-          "publishedOn": "2022-08-11T23:00:02.000Z",
-          "wordCount": 326,
-          "title": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
-          "imageUrl": "https://opengraph.githubassets.com/95c1933d3b7f485a84c8d5324972e7f0a65615bf0debe4a9109ebbaf0233e0d1/aptos-labs/aptos-core"
-        },
-        {
-          "id": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
-          "author": null,
-          "description": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
-          "link": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
-          "publishedOn": "2022-08-11T21:30:06.000Z",
-          "wordCount": 1983,
-          "title": "Kraken Proof of Reserves audit expands to include five new assets - Kraken Blog",
-          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/08/Carousel-Proof-of-reserve-1-1024x512.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=UJ_kfHdCLUk",
@@ -164,16 +174,6 @@
           "wordCount": 77261,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "dYdX confirms blocking user accounts tied to Tornado Cash",
-          "link": "https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-08-11T09:00:03.000Z",
-          "wordCount": 77395,
-          "title": "dYdX confirms blocking user accounts tied to Tornado Cash",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200513_Tornado_Securirty_Daily.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=CIAGQMUKEZ4",
