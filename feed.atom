@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T02:02:31.260Z</id>
+    <id>urn:2022-08-12T03:54:47.886Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T02:02:31.260Z</updated>
+    <updated>2022-08-12T03:54:47.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ECDSA signature malleability]]></title>
+        <id>https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h</id>
+        <link href="https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"/>
+        <updated>2022-08-12T02:30:03.000Z</updated>
+        <summary type="html"><![CDATA[ECDSA signature malleability]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blocknative Launches Transaction Distribution Network]]></title>
         <id>https://www.blocknative.com/blog/announcement-transaction-distribution-network?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=tdn</id>
@@ -156,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Too many employees, but few work': Pichai, Zuckerberg sound the alarm]]></title>
-        <id>https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html</id>
-        <link href="https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html"/>
-        <updated>2022-08-11T08:30:04.000Z</updated>
-        <summary type="html"><![CDATA['Too many employees, but few work': Pichai, Zuckerberg sound the alarm]]></summary>
+        <title type="html"><![CDATA[dYdX confirms blocking user accounts tied to Tornado Cash]]></title>
+        <id>https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&amp;utm_medium=social</id>
+        <link href="https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&amp;utm_medium=social"/>
+        <updated>2022-08-11T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[dYdX confirms blocking user accounts tied to Tornado Cash]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://dydx.exchange/blog/tornado-outage"/>
         <updated>2022-08-11T06:30:02.000Z</updated>
         <summary type="html"><![CDATA[Tornado Outage]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant]]></title>
-        <id>https://thedefiant.io/ethereum-goerli-merge-complete</id>
-        <link href="https://thedefiant.io/ethereum-goerli-merge-complete"/>
-        <updated>2022-08-11T04:00:05.000Z</updated>
-        <summary type="html"><![CDATA[BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

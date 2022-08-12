@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
+          "author": null,
+          "description": "ECDSA signature malleability",
+          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h",
+          "publishedOn": "2022-08-12T02:30:03.000Z",
+          "wordCount": 379,
+          "title": "ECDSA signature malleability",
+          "imageUrl": "https://opengraph.githubassets.com/4960bcda615c0347e463bbe10d312f9fcf5b4d461714dd3ab796a226dbb54bb2/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h"
+        },
+        {
           "id": "https://www.blocknative.com/blog/announcement-transaction-distribution-network?utm_source=twitter&utm_medium=social&utm_campaign=tdn",
           "author": null,
           "description": "Blocknative Launches Transaction Distribution Network",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-08-11T23:00:02.000Z",
           "wordCount": 326,
           "title": "[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core",
-          "imageUrl": "https://opengraph.githubassets.com/f85bdb4a1328cc29836fed0853ec9b549dd127ce0594a5b0d71e210e9d326826/aptos-labs/aptos-core"
+          "imageUrl": "https://opengraph.githubassets.com/95c1933d3b7f485a84c8d5324972e7f0a65615bf0debe4a9109ebbaf0233e0d1/aptos-labs/aptos-core"
         },
         {
           "id": "https://blog.kraken.com/post/15002/kraken-proof-of-reserves-audit-expands-to-include-five-new-assets/?utm_source=Twitter&utm_medium=Social&utm_campaign=PoW+Snapshot+TW",
@@ -101,7 +111,7 @@
           "description": "Announcing our $10M Raise",
           "link": "https://jito-labs.medium.com/announcing-our-10m-raise-60e450c07fd6",
           "publishedOn": "2022-08-11T18:00:06.000Z",
-          "wordCount": 2452,
+          "wordCount": 2389,
           "title": "Announcing our $10M Raise",
           "imageUrl": "https://miro.medium.com/max/1200/1*avLYnpdIV9rxLRZdFlG_1Q.png"
         },
@@ -151,19 +161,19 @@
           "description": "BlackRock launches private trust offering direct bitcoin exposure",
           "link": "https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-11T14:00:06.000Z",
-          "wordCount": 76960,
+          "wordCount": 77261,
           "title": "BlackRock launches private trust offering direct bitcoin exposure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/01/shutterstock_1324038479-e1579012194702.jpg"
         },
         {
-          "id": "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html",
+          "id": "https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&utm_medium=social",
           "author": null,
-          "description": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
-          "link": "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html",
-          "publishedOn": "2022-08-11T08:30:04.000Z",
-          "wordCount": 4492,
-          "title": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
-          "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/14/full/1594667237-1967.jpg"
+          "description": "dYdX confirms blocking user accounts tied to Tornado Cash",
+          "link": "https://www.theblock.co/post/162928/dydx-confirms-blocking-user-accounts-tied-to-tornado-cash?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-08-11T09:00:03.000Z",
+          "wordCount": 77395,
+          "title": "dYdX confirms blocking user accounts tied to Tornado Cash",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200513_Tornado_Securirty_Daily.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=CIAGQMUKEZ4",
@@ -184,16 +194,6 @@
           "wordCount": 5001,
           "title": "Tornado Outage",
           "imageUrl": "https://images.ctfassets.net/peywamf72mj3/4aTRkzYIER8bVw55ZXAkga/861958a8e02784131afdce2b5c7c86bb/tornado-outage.png"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-goerli-merge-complete",
-          "author": null,
-          "description": "BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant",
-          "link": "https://thedefiant.io/ethereum-goerli-merge-complete",
-          "publishedOn": "2022-08-11T04:00:05.000Z",
-          "wordCount": 975,
-          "title": "BREAKING: Ethereum Completes Goerli Testnet Merge - The Defiant",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/10220119/GoerliMerge.jpg"
         },
         {
           "id": "https://gasguzzlers.wtf/",
