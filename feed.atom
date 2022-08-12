@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-12T07:20:03.163Z</id>
+    <id>urn:2022-08-12T08:27:10.582Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-12T07:20:03.163Z</updated>
+    <updated>2022-08-12T08:27:10.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://davidphelps.substack.com/p/the-case-for-modular-maxis"/>
         <updated>2022-08-11T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[The Case for Modular Maxis]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core]]></title>
+        <id>https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf</id>
+        <link href="https://github.com/aptos-labs/aptos-core/blob/main/developer-docs-site/static/papers/whitepaper.pdf"/>
+        <updated>2022-08-11T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] aptos-core/whitepaper.pdf at main · aptos-labs/aptos-core]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://dydx.exchange/blog/tornado-outage"/>
         <updated>2022-08-11T06:30:02.000Z</updated>
         <summary type="html"><![CDATA[Tornado Outage]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Guzzlers]]></title>
-        <id>https://gasguzzlers.wtf/</id>
-        <link href="https://gasguzzlers.wtf/"/>
-        <updated>2022-08-10T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Gas Guzzlers]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
