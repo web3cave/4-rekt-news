@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://shop.metafactory.ai/products/tornado-sanction-tee",
-          "author": null,
-          "description": "\"Tornado Sanction\" Tee",
-          "link": "https://shop.metafactory.ai/products/tornado-sanction-tee",
-          "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 4650,
-          "title": "\"Tornado Sanction\" Tee",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/0258/8924/3182/products/1614_Thumb_b543ce0301794fbf8af4dfc456844dd2-614_1200x1200.png?v=1660083515"
-        },
-        {
           "id": "https://github.com/aave/interface/pull/1017",
           "author": null,
           "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "link": "https://github.com/aave/interface/pull/1017",
           "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 1587,
+          "wordCount": 1588,
           "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "imageUrl": "https://opengraph.githubassets.com/d5048be3b8a8d07c18b65d0aab46edb36377a351ad7c9cf22ec1a109a3c06a7c/aave/interface/pull/1017"
         },
@@ -34,6 +24,16 @@
           "wordCount": 1912,
           "title": "TRM labs integration by piekczyk · Pull Request #923 · OasisDEX/oasis-borrow",
           "imageUrl": "https://opengraph.githubassets.com/409adae7164836f75c15e213bf5fc93dbd1bd91aff9fd3e951a2ee70c08e7c3a/OasisDEX/oasis-borrow/pull/923"
+        },
+        {
+          "id": "https://shop.metafactory.ai/products/tornado-sanction-tee",
+          "author": null,
+          "description": "\"Tornado Sanction\" Tee",
+          "link": "https://shop.metafactory.ai/products/tornado-sanction-tee",
+          "publishedOn": "2022-08-13T01:30:05.000Z",
+          "wordCount": 4650,
+          "title": "\"Tornado Sanction\" Tee",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0258/8924/3182/products/1614_Thumb_b543ce0301794fbf8af4dfc456844dd2-614_1200x1200.png?v=1660083515"
         },
         {
           "id": "https://archive.nytimes.com/www.nytimes.com/library/tech/99/05/cyber/articles/07encrypt.html",
@@ -54,6 +54,16 @@
           "wordCount": 936,
           "title": "Update on Tornado Cash",
           "imageUrl": "https://www.blog.pokt.network/content/images/2022/08/Pocket-logo-blog-feature-image.png"
+        },
+        {
+          "id": "https://skynetlabs.com/news/skynet-labs-shutting-down-skynet-remains-online/",
+          "author": null,
+          "description": "Skynet Labs is shutting down. Skynet will remain online.",
+          "link": "https://skynetlabs.com/news/skynet-labs-shutting-down-skynet-remains-online/",
+          "publishedOn": "2022-08-12T23:00:03.000Z",
+          "wordCount": 1330,
+          "title": "Skynet Labs is shutting down. Skynet will remain online.",
+          "imageUrl": "https://cms.skynetlabs.com/content/images/2022/08/BlackBlogImage.png"
         },
         {
           "id": "https://github.com/balancer-labs/balancer-api/pull/22",
@@ -101,7 +111,7 @@
           "description": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/92",
           "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 2658,
+          "wordCount": 2659,
           "title": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/94f12b0795c76ffc38727c512019610728d12ad3fa14c644514e308e293fb8d9/flashbots/rpc-endpoint/pull/92"
         },
@@ -124,16 +134,6 @@
           "wordCount": 857,
           "title": "Finalized no. 36",
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
-          "id": "https://coincenter.substack.com/p/us-sanction-of-tornado-cash-curtails?showWelcome=true",
-          "author": null,
-          "description": "U.S. Sanction of Tornado Cash curtails the rights of all Americans",
-          "link": "https://coincenter.substack.com/p/us-sanction-of-tornado-cash-curtails?showWelcome=true",
-          "publishedOn": "2022-08-12T18:30:04.000Z",
-          "wordCount": 2354,
-          "title": "U.S. Sanction of Tornado Cash curtails the rights of all Americans",
-          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/edesyfzh4gtdp05zlzee"
         },
         {
           "id": "https://availableon.com/overpricedJPEGs",
@@ -161,9 +161,9 @@
           "description": "Tornado Cash Sanctioned. Did the Government Overstep Its Bounds? - Ep. 384",
           "link": "https://unchainedpodcast.com/tornado-cash-sanctioned-did-the-government-overstep-its-bounds-ep-384/",
           "publishedOn": "2022-08-12T16:30:24.000Z",
-          "wordCount": 846,
+          "wordCount": 12029,
           "title": "Tornado Cash Sanctioned. Did the Government Overstep Its Bounds? - Ep. 384",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN384-Social.jpg"
         },
         {
           "id": "https://www.theblock.co/post/163206/suspected-tornado-cash-developer-arrested-in-amsterdam?utm_source=twitter&utm_medium=social",
@@ -191,7 +191,7 @@
           "description": "Netherlands Arrests Suspected Tornado Cash Developer",
           "link": "https://www.coindesk.com/policy/2022/08/12/netherlands-arrests-suspected-tornado-cash-developer/",
           "publishedOn": "2022-08-12T15:00:03.000Z",
-          "wordCount": 7605,
+          "wordCount": 7601,
           "title": "Netherlands Arrests Suspected Tornado Cash Developer",
           "imageUrl": "https://www.coindesk.com/resizer/eLokFfDmP4ck8dRXzxv9pkoxc08=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KJROXIG5X5CSZNRONHVKJ5RAKY"
         },
