@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mjx6yADeEjU",
+          "author": null,
+          "description": "Tornado Cash Sanctioned. Did the Government Overstep Its Bounds? - Ep. 384",
+          "link": "https://www.youtube.com/watch?v=mjx6yADeEjU",
+          "publishedOn": "2022-08-13T22:00:05.000Z",
+          "wordCount": null,
+          "title": "Tornado Cash Sanctioned. Did the Government Overstep Its Bounds? - Ep. 384",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/08/12/issues-crypto-should-watch-for-in-the-tornado-cash-sanctions/",
           "author": null,
           "description": "Issues Crypto Should Watch For in the Tornado Cash Sanctions",
@@ -14,16 +24,6 @@
           "wordCount": 10344,
           "title": "Issues Crypto Should Watch For in the Tornado Cash Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/cOUWCQ6kxipgQslOx6h5i8EqbW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IMQFX2ABLVCVPO7UTUEYBUJYWE.jpg"
-        },
-        {
-          "id": "https://github.com/Uniswap/interface/search?q=sendEvent",
-          "author": null,
-          "description": "Search · sendEvent · Uniswap/interface",
-          "link": "https://github.com/Uniswap/interface/search?q=sendEvent",
-          "publishedOn": "2022-08-13T17:00:04.000Z",
-          "wordCount": 1157,
-          "title": "Search · sendEvent · Uniswap/interface",
-          "imageUrl": "https://repository-images.githubusercontent.com/108706901/c4deeb80-9c03-11ea-846b-0921bd7dc3ba"
         },
         {
           "id": "https://blog.helium.com/the-wait-is-over-mobile-rewards-are-live-7d21cb014e22?gi=599611e53a98",
@@ -81,7 +81,7 @@
           "description": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
           "link": "https://github.com/Uniswap/interface/pull/2623",
           "publishedOn": "2022-08-13T05:00:03.000Z",
-          "wordCount": 18231,
+          "wordCount": 18233,
           "title": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
           "imageUrl": "https://opengraph.githubassets.com/f56903f005b4e6d487443b4f109d181b5ccd2815f3103f9cc811027b6de94986/Uniswap/interface/pull/2623"
         },
@@ -96,14 +96,14 @@
           "imageUrl": "https://opengraph.githubassets.com/109ca0ae00e9f35a8f45cb76f43a516d19bbfa3116ae3cddbf68fc3057f2bbb9/renproject/bridge-v2/commit/a1af3029ba808b64e42a6ef1817fcd11af0539b9"
         },
         {
-          "id": "https://github.com/aave/interface/pull/1017/files",
+          "id": "https://github.com/aave/interface/pull/1017",
           "author": null,
           "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "link": "https://github.com/aave/interface/pull/1017/files",
+          "link": "https://github.com/aave/interface/pull/1017",
           "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 2240,
+          "wordCount": 1713,
           "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "imageUrl": "https://avatars.githubusercontent.com/u/23554636?s=400&v=4"
+          "imageUrl": "https://opengraph.githubassets.com/6b83ad9df49773850ff5bc6a7a97609d73d1dc4d865e309865ba928726d3ac77/aave/interface/pull/1017"
         },
         {
           "id": "https://github.com/OasisDEX/oasis-borrow/pull/923",
@@ -181,7 +181,7 @@
           "description": "Tornado Cash Community",
           "link": "https://github.com/tornadocash-community",
           "publishedOn": "2022-08-12T21:30:06.000Z",
-          "wordCount": 404,
+          "wordCount": 400,
           "title": "Tornado Cash Community",
           "imageUrl": "https://avatars.githubusercontent.com/u/110972114?s=280&v=4"
         },
