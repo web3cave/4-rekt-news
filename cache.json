@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/balancer-labs/frontend-v2/pull/2017",
+          "author": null,
+          "description": "TRM Sanctioned Wallets by 1saf · Pull Request #2017 · balancer-labs/frontend-v2",
+          "link": "https://github.com/balancer-labs/frontend-v2/pull/2017",
+          "publishedOn": "2022-08-13T05:00:03.000Z",
+          "wordCount": 1374,
+          "title": "TRM Sanctioned Wallets by 1saf · Pull Request #2017 · balancer-labs/frontend-v2",
+          "imageUrl": "https://opengraph.githubassets.com/78f37cd4799cae43f969b90243e45c38f2b301feb87152e034e0a60e82999841/balancer-labs/frontend-v2/pull/2017"
+        },
+        {
+          "id": "https://github.com/Uniswap/interface/pull/2623",
+          "author": null,
+          "description": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
+          "link": "https://github.com/Uniswap/interface/pull/2623",
+          "publishedOn": "2022-08-13T05:00:03.000Z",
+          "wordCount": 18198,
+          "title": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
+          "imageUrl": "https://opengraph.githubassets.com/f2a35f9ccb99b2735716de793ecf48868028dd01ab822d379c132d0996b2d947/Uniswap/interface/pull/2623"
+        },
+        {
+          "id": "https://github.com/renproject/bridge-v2/commit/master",
+          "author": null,
+          "description": "Merge pull request #167 from renproject/fix/ui-some-icon-fixes · renproject/bridge-v2@a1af302",
+          "link": "https://github.com/renproject/bridge-v2/commit/master",
+          "publishedOn": "2022-08-13T05:00:03.000Z",
+          "wordCount": 943,
+          "title": "Merge pull request #167 from renproject/fix/ui-some-icon-fixes · renproject/bridge-v2@a1af302",
+          "imageUrl": "https://opengraph.githubassets.com/109ca0ae00e9f35a8f45cb76f43a516d19bbfa3116ae3cddbf68fc3057f2bbb9/renproject/bridge-v2/commit/a1af3029ba808b64e42a6ef1817fcd11af0539b9"
+        },
+        {
           "id": "https://github.com/aave/interface/pull/1017",
           "author": null,
           "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "link": "https://github.com/aave/interface/pull/1017",
           "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 1588,
+          "wordCount": 1589,
           "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "imageUrl": "https://opengraph.githubassets.com/d5048be3b8a8d07c18b65d0aab46edb36377a351ad7c9cf22ec1a109a3c06a7c/aave/interface/pull/1017"
         },
@@ -106,36 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/flashbots/rpc-endpoint/pull/92",
-          "author": null,
-          "description": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
-          "link": "https://github.com/flashbots/rpc-endpoint/pull/92",
-          "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 2659,
-          "title": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
-          "imageUrl": "https://opengraph.githubassets.com/94f12b0795c76ffc38727c512019610728d12ad3fa14c644514e308e293fb8d9/flashbots/rpc-endpoint/pull/92"
-        },
-        {
-          "id": "https://www.theblock.co/post/163297/arrested-tornado-cash-developer-is-alexey-pertsev-his-wife-confirms",
-          "author": null,
-          "description": "Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms",
-          "link": "https://www.theblock.co/post/163297/arrested-tornado-cash-developer-is-alexey-pertsev-his-wife-confirms",
-          "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 76858,
-          "title": "Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/08/12/finalized-no-36/",
-          "author": null,
-          "description": "Finalized no. 36",
-          "link": "https://blog.ethereum.org/2022/08/12/finalized-no-36/",
-          "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 857,
-          "title": "Finalized no. 36",
-          "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
-        },
-        {
           "id": "https://availableon.com/overpricedJPEGs",
           "author": null,
           "description": "Overpriced JPEGs",
@@ -191,7 +191,7 @@
           "description": "Netherlands Arrests Suspected Tornado Cash Developer",
           "link": "https://www.coindesk.com/policy/2022/08/12/netherlands-arrests-suspected-tornado-cash-developer/",
           "publishedOn": "2022-08-12T15:00:03.000Z",
-          "wordCount": 7601,
+          "wordCount": 7605,
           "title": "Netherlands Arrests Suspected Tornado Cash Developer",
           "imageUrl": "https://www.coindesk.com/resizer/eLokFfDmP4ck8dRXzxv9pkoxc08=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KJROXIG5X5CSZNRONHVKJ5RAKY"
         },
