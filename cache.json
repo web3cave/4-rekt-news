@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://blog.helium.com/the-wait-is-over-mobile-rewards-are-live-7d21cb014e22?gi=599611e53a98",
-          "author": null,
-          "description": "The Wait Is Over. MOBILE Rewards Are Live.",
-          "link": "https://blog.helium.com/the-wait-is-over-mobile-rewards-are-live-7d21cb014e22?gi=599611e53a98",
-          "publishedOn": "2022-08-13T15:00:05.000Z",
-          "wordCount": 3538,
-          "title": "The Wait Is Over. MOBILE Rewards Are Live.",
-          "imageUrl": "https://miro.medium.com/max/1200/1*nbJ4PaadJi5zfqukFNwyvg.jpeg"
-        },
-        {
           "id": "https://github.com/balancer-labs/frontend-v2/pull/2017",
           "author": null,
           "description": "TRM Sanctioned Wallets by 1saf · Pull Request #2017 · balancer-labs/frontend-v2",
@@ -46,14 +36,14 @@
           "imageUrl": "https://opengraph.githubassets.com/109ca0ae00e9f35a8f45cb76f43a516d19bbfa3116ae3cddbf68fc3057f2bbb9/renproject/bridge-v2/commit/a1af3029ba808b64e42a6ef1817fcd11af0539b9"
         },
         {
-          "id": "https://github.com/aave/interface/pull/1017",
+          "id": "https://github.com/aave/interface/pull/1017/files",
           "author": null,
           "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "link": "https://github.com/aave/interface/pull/1017",
+          "link": "https://github.com/aave/interface/pull/1017/files",
           "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 1676,
+          "wordCount": 2240,
           "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "imageUrl": "https://opengraph.githubassets.com/d5048be3b8a8d07c18b65d0aab46edb36377a351ad7c9cf22ec1a109a3c06a7c/aave/interface/pull/1017"
+          "imageUrl": "https://avatars.githubusercontent.com/u/23554636?s=400&v=4"
         },
         {
           "id": "https://github.com/OasisDEX/oasis-borrow/pull/923",
@@ -121,9 +111,19 @@
           "description": "Search · trm · balancer-labs/frontend-v2",
           "link": "https://github.com/balancer-labs/frontend-v2/search?q=trm",
           "publishedOn": "2022-08-12T23:00:02.000Z",
-          "wordCount": 631,
+          "wordCount": 800,
           "title": "Search · trm · balancer-labs/frontend-v2",
           "imageUrl": "https://opengraph.githubassets.com/5a26ff32d97f00f4647ce0a5efed1ef386280382ea2109be66531587681dc437/balancer-labs/frontend-v2"
+        },
+        {
+          "id": "https://github.com/tornadocash-community",
+          "author": null,
+          "description": "Tornado Cash Community",
+          "link": "https://github.com/tornadocash-community",
+          "publishedOn": "2022-08-12T21:30:06.000Z",
+          "wordCount": 404,
+          "title": "Tornado Cash Community",
+          "imageUrl": "https://avatars.githubusercontent.com/u/110972114?s=280&v=4"
         },
         {
           "id": "https://sh-brennan.medium.com/on-tornado-cash-a-bang-61f281b11f92",
@@ -141,7 +141,7 @@
           "description": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/92",
           "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 2947,
+          "wordCount": 2951,
           "title": "Removes OFAC blacklist. by MicahZoltu · Pull Request #92 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/322d3a0e674bcea826915ee41ac6557c4179b85f2b043022729049ada469fd95/flashbots/rpc-endpoint/pull/92"
         },
@@ -151,7 +151,7 @@
           "description": "Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms",
           "link": "https://www.theblock.co/post/163297/arrested-tornado-cash-developer-is-alexey-pertsev-his-wife-confirms",
           "publishedOn": "2022-08-12T19:00:03.000Z",
-          "wordCount": 76544,
+          "wordCount": 77293,
           "title": "Arrested Tornado Cash developer is Alexey Pertsev, his wife confirms",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
         },
@@ -166,6 +166,16 @@
           "imageUrl": "https://blog.ethereum.org/img/ethereum-blog-og-image.png"
         },
         {
+          "id": "https://coincenter.substack.com/p/us-sanction-of-tornado-cash-curtails?showWelcome=true",
+          "author": null,
+          "description": "U.S. Sanction of Tornado Cash curtails the rights of all Americans",
+          "link": "https://coincenter.substack.com/p/us-sanction-of-tornado-cash-curtails?showWelcome=true",
+          "publishedOn": "2022-08-12T18:30:04.000Z",
+          "wordCount": 2354,
+          "title": "U.S. Sanction of Tornado Cash curtails the rights of all Americans",
+          "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/edesyfzh4gtdp05zlzee"
+        },
+        {
           "id": "https://availableon.com/overpricedJPEGs",
           "author": null,
           "description": "Overpriced JPEGs",
@@ -174,16 +184,6 @@
           "wordCount": 339,
           "title": "Overpriced JPEGs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.circle.com/blog/ofacs-designation-of-tornado-cash-protocols-privacy-and-a-call-to-action",
-          "author": null,
-          "description": "OFAC’s Designation of Tornado Cash - Protocols, Privacy and a Call to Action",
-          "link": "https://www.circle.com/blog/ofacs-designation-of-tornado-cash-protocols-privacy-and-a-call-to-action",
-          "publishedOn": "2022-08-12T17:00:03.000Z",
-          "wordCount": 2449,
-          "title": "OFAC’s Designation of Tornado Cash - Protocols, Privacy and a Call to Action",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/policy-dante-ProtocolsPrivacy.png#keepProtocol"
         },
         {
           "id": "https://www.youtube.com/watch?v=mjx6yADeEjU",
