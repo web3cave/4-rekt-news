@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/technology/brand-loyalty-declining-most-luxury-automakers",
+          "author": null,
+          "description": "Brand Loyalty Is Declining For Most Luxury Automakers | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/brand-loyalty-declining-most-luxury-automakers",
+          "publishedOn": "2022-08-14T03:30:05.000Z",
+          "wordCount": 1044,
+          "title": "Brand Loyalty Is Declining For Most Luxury Automakers | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.makerdao.com/t/the-real-legal-risks/17207",
+          "author": null,
+          "description": "The Real Legal Risks",
+          "link": "https://forum.makerdao.com/t/the-real-legal-risks/17207",
+          "publishedOn": "2022-08-14T02:00:04.000Z",
+          "wordCount": 3593,
+          "title": "The Real Legal Risks",
+          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
+        },
+        {
           "id": "https://flipperzero.one/",
           "author": null,
           "description": "Flipper Zero — Portable Multi-tool Device for Geeks",
@@ -14,16 +34,6 @@
           "wordCount": 14335,
           "title": "Flipper Zero — Portable Multi-tool Device for Geeks",
           "imageUrl": "https://static.tildacdn.com/tild3038-3932-4065-a163-656631323038/main-2500-2.jpg"
-        },
-        {
-          "id": "https://nakamoto.com/credible-neutrality/",
-          "author": null,
-          "description": "Credible Neutrality As A Guiding Principle",
-          "link": "https://nakamoto.com/credible-neutrality/",
-          "publishedOn": "2022-08-13T22:30:03.000Z",
-          "wordCount": 3198,
-          "title": "Credible Neutrality As A Guiding Principle",
-          "imageUrl": "https://nakamoto.com/content/images/2020/01/credible-neutrality.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=mjx6yADeEjU",
@@ -41,7 +51,7 @@
           "description": "Issues Crypto Should Watch For in the Tornado Cash Sanctions",
           "link": "https://www.coindesk.com/policy/2022/08/12/issues-crypto-should-watch-for-in-the-tornado-cash-sanctions/",
           "publishedOn": "2022-08-13T19:30:04.000Z",
-          "wordCount": 10344,
+          "wordCount": 10357,
           "title": "Issues Crypto Should Watch For in the Tornado Cash Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/cOUWCQ6kxipgQslOx6h5i8EqbW4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IMQFX2ABLVCVPO7UTUEYBUJYWE.jpg"
         },
@@ -54,16 +64,6 @@
           "wordCount": 3601,
           "title": "The Wait Is Over. MOBILE Rewards Are Live.",
           "imageUrl": "https://miro.medium.com/max/1200/1*nbJ4PaadJi5zfqukFNwyvg.jpeg"
-        },
-        {
-          "id": "https://github.com/Uniswap/interface/search?q=screening-worker",
-          "author": null,
-          "description": "Search · screening-worker · Uniswap/interface",
-          "link": "https://github.com/Uniswap/interface/search?q=screening-worker",
-          "publishedOn": "2022-08-13T16:00:05.000Z",
-          "wordCount": 645,
-          "title": "Search · screening-worker · Uniswap/interface",
-          "imageUrl": "https://repository-images.githubusercontent.com/108706901/c4deeb80-9c03-11ea-846b-0921bd7dc3ba"
         },
         {
           "id": "https://github.com/MetaMask/metamask-extension/pull/15462",
@@ -84,6 +84,16 @@
           "wordCount": 3065,
           "title": "A Treatise on Bitcoin Seed Backup Device Design",
           "imageUrl": "https://blog.lopp.net/content/images/2022/08/writing-seed-phrase.png"
+        },
+        {
+          "id": "https://github.com/ape-dev-cs/unblock-dapps",
+          "author": null,
+          "description": "GitHub - ape-dev-cs/unblock-dapps: A list of uBlock Origin rules to prevent dapp frontends which don't respect your...",
+          "link": "https://github.com/ape-dev-cs/unblock-dapps",
+          "publishedOn": "2022-08-13T15:00:04.000Z",
+          "wordCount": 626,
+          "title": "GitHub - ape-dev-cs/unblock-dapps: A list of uBlock Origin rules to prevent dapp frontends which don't respect your...",
+          "imageUrl": "https://opengraph.githubassets.com/ba34ceccc3f4dd4d508eb4ca8db7946b47dc0efd3d7cf9ec5645c9ff2cdf86d2/ape-dev-cs/unblock-dapps"
         },
         {
           "id": "https://github.com/balancer-labs/frontend-v2/pull/2017",
@@ -121,7 +131,7 @@
           "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "link": "https://github.com/aave/interface/pull/1017",
           "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 1713,
+          "wordCount": 1715,
           "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
           "imageUrl": "https://opengraph.githubassets.com/6b83ad9df49773850ff5bc6a7a97609d73d1dc4d865e309865ba928726d3ac77/aave/interface/pull/1017"
         },
@@ -154,16 +164,6 @@
           "wordCount": 936,
           "title": "Update on Tornado Cash",
           "imageUrl": "https://www.blog.pokt.network/content/images/2022/08/Pocket-logo-blog-feature-image.png"
-        },
-        {
-          "id": "https://skynetlabs.com/news/skynet-labs-shutting-down-skynet-remains-online/",
-          "author": null,
-          "description": "Skynet Labs is shutting down. Skynet will remain online.",
-          "link": "https://skynetlabs.com/news/skynet-labs-shutting-down-skynet-remains-online/",
-          "publishedOn": "2022-08-12T23:00:03.000Z",
-          "wordCount": 1330,
-          "title": "Skynet Labs is shutting down. Skynet will remain online.",
-          "imageUrl": "https://cms.skynetlabs.com/content/images/2022/08/BlackBlogImage.png"
         },
         {
           "id": "https://github.com/balancer-labs/balancer-api/pull/22",
