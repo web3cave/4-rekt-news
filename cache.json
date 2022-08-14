@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bitcoinmagazine.com/culture/bitcoin-a-currency-of-decolonization",
+          "author": null,
+          "description": "Fighting Monetary Colonialism With Open-Source Code",
+          "link": "https://bitcoinmagazine.com/culture/bitcoin-a-currency-of-decolonization",
+          "publishedOn": "2022-08-14T06:30:03.000Z",
+          "wordCount": 11669,
+          "title": "Fighting Monetary Colonialism With Open-Source Code",
+          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTgxOTM3Njk1MjM5NDQ3Njgz/img_5389.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QA3YZVDUN5s&feature=youtu.be",
           "author": null,
           "description": "Lunarpunk and the Dark Side of the Cycle",
@@ -86,6 +96,16 @@
           "imageUrl": "https://repository-images.githubusercontent.com/108706901/c4deeb80-9c03-11ea-846b-0921bd7dc3ba"
         },
         {
+          "id": "https://github.com/Uniswap/interface/search?q=sendAnalyticsEvent",
+          "author": null,
+          "description": "Search · sendAnalyticsEvent · Uniswap/interface",
+          "link": "https://github.com/Uniswap/interface/search?q=sendAnalyticsEvent",
+          "publishedOn": "2022-08-13T17:00:04.000Z",
+          "wordCount": 1101,
+          "title": "Search · sendAnalyticsEvent · Uniswap/interface",
+          "imageUrl": "https://repository-images.githubusercontent.com/108706901/c4deeb80-9c03-11ea-846b-0921bd7dc3ba"
+        },
+        {
           "id": "https://blog.helium.com/the-wait-is-over-mobile-rewards-are-live-7d21cb014e22?gi=599611e53a98",
           "author": null,
           "description": "The Wait Is Over. MOBILE Rewards Are Live.",
@@ -133,47 +153,27 @@
           "publishedOn": "2022-08-13T15:00:04.000Z",
           "wordCount": 626,
           "title": "GitHub - ape-dev-cs/unblock-dapps: A list of uBlock Origin rules to prevent dapp frontends which don't respect your...",
-          "imageUrl": "https://opengraph.githubassets.com/0e4acc93f3dd74f59efba869da9847235043b33c4ed0906a4235c842f48b8291/ape-dev-cs/unblock-dapps"
+          "imageUrl": "https://opengraph.githubassets.com/0b8da1b3df86227cf336c314d1ff52da2add12b7208873df148bd9779896be37/ape-dev-cs/unblock-dapps"
         },
         {
-          "id": "https://github.com/balancer-labs/frontend-v2/pull/2017",
+          "id": "https://aave.com/",
           "author": null,
-          "description": "TRM Sanctioned Wallets by 1saf · Pull Request #2017 · balancer-labs/frontend-v2",
-          "link": "https://github.com/balancer-labs/frontend-v2/pull/2017",
-          "publishedOn": "2022-08-13T05:00:03.000Z",
-          "wordCount": 1374,
-          "title": "TRM Sanctioned Wallets by 1saf · Pull Request #2017 · balancer-labs/frontend-v2",
-          "imageUrl": "https://opengraph.githubassets.com/78f37cd4799cae43f969b90243e45c38f2b301feb87152e034e0a60e82999841/balancer-labs/frontend-v2/pull/2017"
+          "description": "Aave - Open Source Liquidity Protocol",
+          "link": "https://aave.com/",
+          "publishedOn": "2022-08-13T15:00:04.000Z",
+          "wordCount": 57,
+          "title": "Aave - Open Source Liquidity Protocol",
+          "imageUrl": "https://aave.com/aaveSiteLogo.png"
         },
         {
-          "id": "https://github.com/Uniswap/interface/pull/2623",
+          "id": "https://github.com/aave/interface",
           "author": null,
-          "description": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
-          "link": "https://github.com/Uniswap/interface/pull/2623",
-          "publishedOn": "2022-08-13T05:00:03.000Z",
-          "wordCount": 18233,
-          "title": "feat: extend privacy and terms by justindomingue · Pull Request #2623 · Uniswap/interface",
-          "imageUrl": "https://opengraph.githubassets.com/f56903f005b4e6d487443b4f109d181b5ccd2815f3103f9cc811027b6de94986/Uniswap/interface/pull/2623"
-        },
-        {
-          "id": "https://github.com/renproject/bridge-v2/commit/master",
-          "author": null,
-          "description": "Merge pull request #167 from renproject/fix/ui-some-icon-fixes · renproject/bridge-v2@a1af302",
-          "link": "https://github.com/renproject/bridge-v2/commit/master",
-          "publishedOn": "2022-08-13T05:00:03.000Z",
-          "wordCount": 943,
-          "title": "Merge pull request #167 from renproject/fix/ui-some-icon-fixes · renproject/bridge-v2@a1af302",
-          "imageUrl": "https://opengraph.githubassets.com/109ca0ae00e9f35a8f45cb76f43a516d19bbfa3116ae3cddbf68fc3057f2bbb9/renproject/bridge-v2/commit/a1af3029ba808b64e42a6ef1817fcd11af0539b9"
-        },
-        {
-          "id": "https://github.com/aave/interface/pull/1017",
-          "author": null,
-          "description": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "link": "https://github.com/aave/interface/pull/1017",
-          "publishedOn": "2022-08-13T01:30:05.000Z",
-          "wordCount": 1715,
-          "title": "feat: address screening by grothem · Pull Request #1017 · aave/interface",
-          "imageUrl": "https://opengraph.githubassets.com/6b83ad9df49773850ff5bc6a7a97609d73d1dc4d865e309865ba928726d3ac77/aave/interface/pull/1017"
+          "description": "GitHub - aave/interface: An open source interface for the decentralized liquidity protocol Aave",
+          "link": "https://github.com/aave/interface",
+          "publishedOn": "2022-08-13T15:00:04.000Z",
+          "wordCount": 833,
+          "title": "GitHub - aave/interface: An open source interface for the decentralized liquidity protocol Aave",
+          "imageUrl": "https://opengraph.githubassets.com/d353625b943c1e06a52fb1c781b33fc660dd56d86b55544a235d041782426a4a/aave/interface"
         },
         {
           "id": "https://archive.nytimes.com/www.nytimes.com/library/tech/99/05/cyber/articles/07encrypt.html",
