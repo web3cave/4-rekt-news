@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-14T17:20:45.818Z</id>
+    <id>urn:2022-08-14T18:25:35.477Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-14T17:20:45.819Z</updated>
+    <updated>2022-08-14T18:25:35.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.youtube.com/watch?v=opG3U36c0Hg&amp;t=134s"/>
         <updated>2022-08-14T17:00:04.000Z</updated>
         <summary type="html"><![CDATA[Munter Hitch Rappels: Everything You Need to Know]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climbing Tools: The Monster Munter]]></title>
+        <id>https://www.youtube.com/watch?v=6ulTTrhfCvs</id>
+        <link href="https://www.youtube.com/watch?v=6ulTTrhfCvs"/>
+        <updated>2022-08-14T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Climbing Tools: The Monster Munter]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://hackingdistributed.com/2016/07/05/eth-is-more-resilient-to-censorship/"/>
         <updated>2022-08-13T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Ethereum is Inherently Secure Against Censorship]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Artwork Is Always On Sale]]></title>
-        <id>https://thisartworkisalwaysonsale.com/</id>
-        <link href="https://thisartworkisalwaysonsale.com/"/>
-        <updated>2022-08-13T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[This Artwork Is Always On Sale]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
