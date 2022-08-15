@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/the-challenges-of-block-chain-indexing/",
+          "author": null,
+          "description": "The Challenges of Block Chain Indexing",
+          "link": "https://blog.lopp.net/the-challenges-of-block-chain-indexing/",
+          "publishedOn": "2022-08-15T15:00:03.000Z",
+          "wordCount": 1523,
+          "title": "The Challenges of Block Chain Indexing",
+          "imageUrl": "https://blog.lopp.net/content/images/2021/04/cypherpunk-1.jpeg"
+        },
+        {
           "id": "https://mirror.xyz/luke-ethwalker.eth/ZS-nE46FZV--ZcpG2rFpXXCvYLQFBclOL0-bNkrorHk",
           "author": null,
           "description": "OFAC's Decision To Add Tornado Cash To The Specially Designated …",
@@ -31,7 +41,7 @@
           "description": "Adam Neumann Gets a New Backer",
           "link": "https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html",
           "publishedOn": "2022-08-15T13:00:02.000Z",
-          "wordCount": 5766,
+          "wordCount": 5756,
           "title": "Adam Neumann Gets a New Backer",
           "imageUrl": "https://static01.nyt.com/images/2022/08/15/multimedia/15db-neumann/15db-neumann-facebookJumbo.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "link": "https://www.reuters.com/article/us-belgium-cake-bugs/waiter-theres-a-fly-in-my-waffle-belgian-researchers-try-out-insect-butter-idUSKCN20M23U",
           "publishedOn": "2022-08-15T11:00:02.000Z",
-          "wordCount": 5117,
+          "wordCount": 5115,
           "title": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20200228&t=2&i=1496521226&r=LYNXNPEG1R1BS&w=800"
         },
@@ -111,7 +121,7 @@
           "description": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "link": "https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch",
           "publishedOn": "2022-08-15T07:00:02.000Z",
-          "wordCount": 15247,
+          "wordCount": 17270,
           "title": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "imageUrl": "https://media.voguebusiness.com/photos/62f65cd079884c5ffbe6c38c/16:9/w_1280,c_limit/gmoney-voguebus-photographer-month-22-social-newsletter.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1716,
           "title": "Approaches to complete privacy for MEV-Boost",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/d/def5e065e1d424f5bed3642ecfe8a2ee7193952b.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hUHrEFiktKI&feature=youtu.be",
-          "author": null,
-          "description": "Masayoshi Takanaka: True Guitar Madness",
-          "link": "https://www.youtube.com/watch?v=hUHrEFiktKI&feature=youtu.be",
-          "publishedOn": "2022-08-14T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Masayoshi Takanaka: True Guitar Madness",
-          "imageUrl": null
         },
         {
           "id": "https://blog.sia.tech/1inch-integrates-with-homescreen-8146f7971aad?gi=c02edcb2e0f6",
