@@ -16,16 +16,6 @@
           "imageUrl": "https://lightning.svbtle.com/cargo/icons/svbtle_logo-3c1c092ede2784d5fe59a99c079db8b03dfe0aaf9a9ae378dbd5d8cbc6a86808.png"
         },
         {
-          "id": "https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376",
-          "author": null,
-          "description": "Approaches to complete privacy for MEV-Boost",
-          "link": "https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376",
-          "publishedOn": "2022-08-16T09:30:05.000Z",
-          "wordCount": 1716,
-          "title": "Approaches to complete privacy for MEV-Boost",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/d/def5e065e1d424f5bed3642ecfe8a2ee7193952b.png"
-        },
-        {
           "id": "https://roninchain.com/",
           "author": null,
           "description": "Ronin Network",
@@ -61,7 +51,7 @@
           "description": "Aave says on-chain wallet address censorship will require DAO consensus",
           "link": "https://www.theblock.co/post/163586/aave-says-on-chain-wallet-address-censorship-will-require-dao-consensus?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T23:00:03.000Z",
-          "wordCount": 77952,
+          "wordCount": 78816,
           "title": "Aave says on-chain wallet address censorship will require DAO consensus",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/07/20200707_AAVE-Protocol.jpg"
         },
@@ -81,7 +71,7 @@
           "description": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/163585/coin-center-prepares-legal-challenge-to-treasurys-tornado-cash-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 77844,
+          "wordCount": 78213,
           "title": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/courthouse-1223280_1920.jpg"
         },
@@ -146,6 +136,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
+          "author": null,
+          "description": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
+          "link": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
+          "publishedOn": "2022-08-15T21:00:03.000Z",
+          "wordCount": null,
+          "title": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
           "author": null,
           "description": "Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center",
@@ -161,9 +161,9 @@
           "description": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/96",
           "publishedOn": "2022-08-15T17:00:03.000Z",
-          "wordCount": 1709,
+          "wordCount": 1916,
           "title": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
-          "imageUrl": "https://opengraph.githubassets.com/e80ed2a28101c5677280a38cf2f175a383082b325c5720b54098488d24d287aa/flashbots/rpc-endpoint/pull/96"
+          "imageUrl": "https://opengraph.githubassets.com/12f15a1c16acae65a7ece2dbfe7773566151c40e95c52050539faea32c8b5fb5/flashbots/rpc-endpoint/pull/96"
         },
         {
           "id": "https://github.com/ethereumpow/go-ethereum",
@@ -171,7 +171,7 @@
           "description": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "link": "https://github.com/ethereumpow/go-ethereum",
           "publishedOn": "2022-08-15T16:30:03.000Z",
-          "wordCount": 3009,
+          "wordCount": 3540,
           "title": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "imageUrl": "https://opengraph.githubassets.com/6058c80dba8414b06edbfb1ccac5a1f6615e6f85687b5d89ff9dd837f17c8061/ethereumpow/go-ethereum"
         },
@@ -181,7 +181,7 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-08-15T13:30:04.000Z",
-          "wordCount": 36967,
+          "wordCount": 36977,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Adam Neumann Gets a New Backer",
           "link": "https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html",
           "publishedOn": "2022-08-15T13:00:02.000Z",
-          "wordCount": 5757,
+          "wordCount": 5762,
           "title": "Adam Neumann Gets a New Backer",
           "imageUrl": "https://static01.nyt.com/images/2022/08/15/multimedia/15db-neumann/15db-neumann-facebookJumbo.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "link": "https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch",
           "publishedOn": "2022-08-15T07:00:02.000Z",
-          "wordCount": 15406,
+          "wordCount": 15457,
           "title": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "imageUrl": "https://media.voguebusiness.com/photos/62f65cd079884c5ffbe6c38c/16:9/w_1280,c_limit/gmoney-voguebus-photographer-month-22-social-newsletter.jpg"
         }
