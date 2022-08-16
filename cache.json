@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.gregbrockman.com/my-path-to-openai",
+          "author": null,
+          "description": "My path to OpenAI • Greg Brockman",
+          "link": "https://blog.gregbrockman.com/my-path-to-openai",
+          "publishedOn": "2022-08-16T11:00:03.000Z",
+          "wordCount": 2045,
+          "title": "My path to OpenAI • Greg Brockman",
+          "imageUrl": "https://lightning.svbtle.com/cargo/icons/svbtle_logo-3c1c092ede2784d5fe59a99c079db8b03dfe0aaf9a9ae378dbd5d8cbc6a86808.png"
+        },
+        {
           "id": "https://ethresear.ch/t/approaches-to-complete-privacy-for-mev-boost/13376",
           "author": null,
           "description": "Approaches to complete privacy for MEV-Boost",
@@ -51,7 +61,7 @@
           "description": "Aave says on-chain wallet address censorship will require DAO consensus",
           "link": "https://www.theblock.co/post/163586/aave-says-on-chain-wallet-address-censorship-will-require-dao-consensus?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T23:00:03.000Z",
-          "wordCount": 77966,
+          "wordCount": 77952,
           "title": "Aave says on-chain wallet address censorship will require DAO consensus",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/07/20200707_AAVE-Protocol.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/163585/coin-center-prepares-legal-challenge-to-treasurys-tornado-cash-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 77879,
+          "wordCount": 77844,
           "title": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/courthouse-1223280_1920.jpg"
         },
@@ -136,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
-          "author": null,
-          "description": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
-          "link": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
-          "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": null,
-          "title": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
           "author": null,
           "description": "Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center",
@@ -161,7 +161,7 @@
           "description": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/96",
           "publishedOn": "2022-08-15T17:00:03.000Z",
-          "wordCount": 1707,
+          "wordCount": 1709,
           "title": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/e80ed2a28101c5677280a38cf2f175a383082b325c5720b54098488d24d287aa/flashbots/rpc-endpoint/pull/96"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2022-08-15T16:30:03.000Z",
           "wordCount": 3009,
           "title": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
-          "imageUrl": "https://opengraph.githubassets.com/0a240197636fafcba67cbb6b93f3d9682eb4fc510628ea5a9ce08c3082fe541d/ethereumpow/go-ethereum"
+          "imageUrl": "https://opengraph.githubassets.com/6058c80dba8414b06edbfb1ccac5a1f6615e6f85687b5d89ff9dd837f17c8061/ethereumpow/go-ethereum"
         },
         {
           "id": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
@@ -181,7 +181,7 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-08-15T13:30:04.000Z",
-          "wordCount": 36968,
+          "wordCount": 36967,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "link": "https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch",
           "publishedOn": "2022-08-15T07:00:02.000Z",
-          "wordCount": 17447,
+          "wordCount": 15406,
           "title": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "imageUrl": "https://media.voguebusiness.com/photos/62f65cd079884c5ffbe6c38c/16:9/w_1280,c_limit/gmoney-voguebus-photographer-month-22-social-newsletter.jpg"
         }
