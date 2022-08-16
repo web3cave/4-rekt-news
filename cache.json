@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://roninchain.com/",
+          "author": null,
+          "description": "Ronin Network",
+          "link": "https://roninchain.com/",
+          "publishedOn": "2022-08-16T07:00:11.000Z",
+          "wordCount": 176,
+          "title": "Ronin Network",
+          "imageUrl": "/static/thumbnail.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7abafmCCyik&feature=youtu.be",
           "author": null,
           "description": "Jack Zampolin vs. Kyle Samani: FULL Debate on Appchains!",
@@ -31,7 +41,7 @@
           "description": "Aave says on-chain wallet address censorship will require DAO consensus",
           "link": "https://www.theblock.co/post/163586/aave-says-on-chain-wallet-address-censorship-will-require-dao-consensus?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T23:00:03.000Z",
-          "wordCount": 77068,
+          "wordCount": 77083,
           "title": "Aave says on-chain wallet address censorship will require DAO consensus",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/07/20200707_AAVE-Protocol.jpg"
         },
@@ -51,19 +61,9 @@
           "description": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/163585/coin-center-prepares-legal-challenge-to-treasurys-tornado-cash-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 76988,
+          "wordCount": 77003,
           "title": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/courthouse-1223280_1920.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?t=2354&v=K4UNOv6SUcQ&feature=youtu.be",
-          "author": null,
-          "description": "On Portfolio Construction in Crypto Assets",
-          "link": "https://www.youtube.com/watch?t=2354&v=K4UNOv6SUcQ&feature=youtu.be",
-          "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": null,
-          "title": "On Portfolio Construction in Crypto Assets",
-          "imageUrl": null
         },
         {
           "id": "https://avc.com/2022/08/the-merge/",
@@ -191,7 +191,7 @@
           "description": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "link": "https://www.reuters.com/article/us-belgium-cake-bugs/waiter-theres-a-fly-in-my-waffle-belgian-researchers-try-out-insect-butter-idUSKCN20M23U",
           "publishedOn": "2022-08-15T11:00:02.000Z",
-          "wordCount": 5095,
+          "wordCount": 5093,
           "title": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20200228&t=2&i=1496521226&r=LYNXNPEG1R1BS&w=800"
         },
@@ -201,7 +201,7 @@
           "description": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "link": "https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch",
           "publishedOn": "2022-08-15T07:00:02.000Z",
-          "wordCount": 17447,
+          "wordCount": 15406,
           "title": "Vault it, wear it or resell it? Inside Gmoney’s luxury label launch",
           "imageUrl": "https://media.voguebusiness.com/photos/62f65cd079884c5ffbe6c38c/16:9/w_1280,c_limit/gmoney-voguebus-photographer-month-22-social-newsletter.jpg"
         }
