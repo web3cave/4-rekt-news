@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fractional.art/vaults/cryptodickbutt-1",
+          "author": null,
+          "description": "CryptoDickButt #1",
+          "link": "https://fractional.art/vaults/cryptodickbutt-1",
+          "publishedOn": "2022-08-16T19:00:03.000Z",
+          "wordCount": 991,
+          "title": "CryptoDickButt #1",
+          "imageUrl": "https://lh3.googleusercontent.com/D270hETLRYi0qGqCmRolOwIQPD4TGp1-0zjqRIxs9Ocj51Jh9Z2fk1ib37bFL0wL3r9JEwI74_opH2vb74EWWk3DJmtXLM1dVSV4"
+        },
+        {
+          "id": "https://github.com/BlockchainCap/swaymigo",
+          "author": null,
+          "description": "GitHub - BlockchainCap/swaymigo: A library for common smart contract patterns in Sway on the FuelVM.",
+          "link": "https://github.com/BlockchainCap/swaymigo",
+          "publishedOn": "2022-08-16T19:00:02.000Z",
+          "wordCount": 1006,
+          "title": "GitHub - BlockchainCap/swaymigo: A library for common smart contract patterns in Sway on the FuelVM.",
+          "imageUrl": "https://opengraph.githubassets.com/15522de4b1459b9c898343b8a13f4ee3a349842442118fa3b37832cf8c136ec8/BlockchainCap/swaymigo"
+        },
+        {
           "id": "https://boomsupersonic.com/news/post/american-airlines-announces-agreement-to-purchase-boom-supersonic-overture-aircraft-places-deposit-on-20-overtures",
           "author": null,
           "description": "American Airlines Announces Agreement to Purchase Boom Supersonic Overture Aircraft, Places Deposit on 20 Overtures",
@@ -81,7 +101,7 @@
           "description": "r/ethereum - [AMA] We are the Go Ethereum (Geth) Team (18 August, 2022)",
           "link": "https://www.reddit.com/r/ethereum/comments/wpqmo1/ama_we_are_the_go_ethereum_geth_team_18_august/",
           "publishedOn": "2022-08-16T13:30:05.000Z",
-          "wordCount": 27294,
+          "wordCount": 27333,
           "title": "r/ethereum - [AMA] We are the Go Ethereum (Geth) Team (18 August, 2022)",
           "imageUrl": "https://external-preview.redd.it/1LMr6_WS_aqFdcdzRuN5lF1h5AjRYlE_fSPSIxOJ_LE.jpg?auto=webp&s=796a65986281adcce8bae808952a9bd0472556e4"
         },
@@ -91,7 +111,7 @@
           "description": "Alex Mashinsky took control of Celsius trading strategy months before bankruptcy",
           "link": "https://www.ft.com/content/43d4fb5d-72a1-468c-aac8-9e11c4693f4e",
           "publishedOn": "2022-08-16T13:00:03.000Z",
-          "wordCount": 3063,
+          "wordCount": 3106,
           "title": "Alex Mashinsky took control of Celsius trading strategy months before bankruptcy",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "My path to OpenAI • Greg Brockman",
           "link": "https://blog.gregbrockman.com/my-path-to-openai",
           "publishedOn": "2022-08-16T11:00:03.000Z",
-          "wordCount": 2037,
+          "wordCount": 2036,
           "title": "My path to OpenAI • Greg Brockman",
           "imageUrl": "https://lightning.svbtle.com/cargo/icons/svbtle_logo-3c1c092ede2784d5fe59a99c079db8b03dfe0aaf9a9ae378dbd5d8cbc6a86808.png"
         },
@@ -126,6 +146,16 @@
           "imageUrl": "/static/thumbnail.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=CZwv-N_5NH8&feature=youtu.be",
+          "author": null,
+          "description": "Is the Merge Priced In? with Hal Press & Ryan Berckmans",
+          "link": "https://www.youtube.com/watch?v=CZwv-N_5NH8&feature=youtu.be",
+          "publishedOn": "2022-08-16T05:00:02.000Z",
+          "wordCount": null,
+          "title": "Is the Merge Priced In? with Hal Press & Ryan Berckmans",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7abafmCCyik&feature=youtu.be",
           "author": null,
           "description": "Jack Zampolin vs. Kyle Samani: FULL Debate on Appchains!",
@@ -134,16 +164,6 @@
           "wordCount": null,
           "title": "Jack Zampolin vs. Kyle Samani: FULL Debate on Appchains!",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/0x4CeD9817cAD891aEFfbF5Fb7DcB6f3c6aEBd4228/6UtxzGXsyCt6onAZjqwinAlQXhmq41Ow9o5SvPRkNKo",
-          "author": null,
-          "description": "Canto Genesis",
-          "link": "https://mirror.xyz/0x4CeD9817cAD891aEFfbF5Fb7DcB6f3c6aEBd4228/6UtxzGXsyCt6onAZjqwinAlQXhmq41Ow9o5SvPRkNKo",
-          "publishedOn": "2022-08-16T01:00:03.000Z",
-          "wordCount": 2276,
-          "title": "Canto Genesis",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/TFyCVz7T-t7orPLnEvgdS.jpeg?height=1500&width=3000&h=1500&w=3000&auto=compress"
         },
         {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
@@ -161,19 +181,9 @@
           "description": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/163585/coin-center-prepares-legal-challenge-to-treasurys-tornado-cash-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 74310,
+          "wordCount": 74168,
           "title": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/courthouse-1223280_1920.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D42QcXqRCWE&t=665s",
-          "author": null,
-          "description": "132 - Polynya's Crypto Thesis",
-          "link": "https://www.youtube.com/watch?v=D42QcXqRCWE&t=665s",
-          "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": null,
-          "title": "132 - Polynya's Crypto Thesis",
-          "imageUrl": null
         },
         {
           "id": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
@@ -191,19 +201,9 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-08-15T13:30:04.000Z",
-          "wordCount": 37023,
+          "wordCount": 37025,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html",
-          "author": null,
-          "description": "Adam Neumann Gets a New Backer",
-          "link": "https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html",
-          "publishedOn": "2022-08-15T13:00:02.000Z",
-          "wordCount": 5741,
-          "title": "Adam Neumann Gets a New Backer",
-          "imageUrl": "https://static01.nyt.com/images/2022/08/15/multimedia/15db-neumann/15db-neumann-facebookJumbo.jpg"
         }
       ]
     }
