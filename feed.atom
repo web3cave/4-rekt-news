@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T15:24:56.456Z</id>
+    <id>urn:2022-08-16T16:32:08.277Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T15:24:56.456Z</updated>
+    <updated>2022-08-16T16:32:08.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Oasis.app]]></title>
+        <id>https://oasis.app/</id>
+        <link href="https://oasis.app/"/>
+        <updated>2022-08-16T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Oasis.app]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Nansen Portfolio – Your Personal DeFi Dashboard | Nansen]]></title>
+        <id>https://www.nansen.ai/post/introducing-nansen-portfolio-your-personal-defi-dashboard?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=PortfolioLaunch_15Aug2022</id>
+        <link href="https://www.nansen.ai/post/introducing-nansen-portfolio-your-personal-defi-dashboard?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=PortfolioLaunch_15Aug2022"/>
+        <updated>2022-08-16T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Nansen Portfolio – Your Personal DeFi Dashboard | Nansen]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum’s Progression with Hudson Jameson | Layer Zero]]></title>
         <id>https://shows.banklesshq.com/p/ethereums-progression-with-hudson#details</id>
         <link href="https://shows.banklesshq.com/p/ethereums-progression-with-hudson#details"/>
         <updated>2022-08-16T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Ethereum’s Progression with Hudson Jameson | Layer Zero]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC721K]]></title>
+        <id>https://github.com/erc721k</id>
+        <link href="https://github.com/erc721k"/>
+        <updated>2022-08-16T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[ERC721K]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -31,6 +61,16 @@
         <link href="https://jumpcrypto.com/jump-crypto-sets-out-to-build-new-validator-client-for-the-solana-blockchain-to-increase-the-throughput-and-reliability-of-the-network/"/>
         <updated>2022-08-16T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Jump Crypto - Jump Crypto Sets Out to Build New Validator Client for the Solana Blockchain to Increase the Throughput...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockprof]]></title>
+        <id>https://jwverret.substack.com/p/blockprof-be6?r=3865h&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web</id>
+        <link href="https://jwverret.substack.com/p/blockprof-be6?r=3865h&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web"/>
+        <updated>2022-08-16T14:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Blockprof]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -116,26 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Merge - AVC]]></title>
-        <id>https://avc.com/2022/08/the-merge/</id>
-        <link href="https://avc.com/2022/08/the-merge/"/>
-        <updated>2022-08-15T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Merge - AVC]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[添加制裁名单 by 0x316F26EF6A11 · Pull Request #97 · flashbots/rpc-endpoint]]></title>
-        <id>https://github.com/flashbots/rpc-endpoint/pull/97</id>
-        <link href="https://github.com/flashbots/rpc-endpoint/pull/97"/>
-        <updated>2022-08-15T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[添加制裁名单 by 0x316F26EF6A11 · Pull Request #97 · flashbots/rpc-endpoint]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[132 - Polynya's Crypto Thesis]]></title>
         <id>https://www.youtube.com/watch?v=D42QcXqRCWE&amp;t=665s</id>
         <link href="https://www.youtube.com/watch?v=D42QcXqRCWE&amp;t=665s"/>
@@ -146,31 +166,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant]]></title>
+        <id>https://www.youtube.com/watch?v=JHyix8P48uU&amp;ab_channel=VillaStraylight</id>
+        <link href="https://www.youtube.com/watch?v=JHyix8P48uU&amp;ab_channel=VillaStraylight"/>
+        <updated>2022-08-15T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center]]></title>
         <id>https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/</id>
         <link href="https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/"/>
         <updated>2022-08-15T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint]]></title>
-        <id>https://github.com/flashbots/rpc-endpoint/pull/96</id>
-        <link href="https://github.com/flashbots/rpc-endpoint/pull/96"/>
-        <updated>2022-08-15T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork]]></title>
-        <id>https://github.com/ethereumpow/go-ethereum</id>
-        <link href="https://github.com/ethereumpow/go-ethereum"/>
-        <updated>2022-08-15T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html"/>
         <updated>2022-08-15T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[Adam Neumann Gets a New Backer]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vault it, wear it or resell it? Inside Gmoney’s luxury label launch]]></title>
-        <id>https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch</id>
-        <link href="https://www.voguebusiness.com/fashion/vault-it-wear-it-or-resell-it-inside-gmoneys-luxury-label-launch"/>
-        <updated>2022-08-15T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Vault it, wear it or resell it? Inside Gmoney’s luxury label launch]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
