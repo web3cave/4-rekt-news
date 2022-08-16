@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237/2",
-          "author": null,
-          "description": "ERC721 Extension for zk-SNARKs",
-          "link": "https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237/2",
-          "publishedOn": "2022-08-16T01:30:05.000Z",
-          "wordCount": 3096,
-          "title": "ERC721 Extension for zk-SNARKs",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=7abafmCCyik&feature=youtu.be",
           "author": null,
           "description": "Jack Zampolin vs. Kyle Samani: FULL Debate on Appchains!",
@@ -26,12 +16,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://mirror.xyz/0x4CeD9817cAD891aEFfbF5Fb7DcB6f3c6aEBd4228/6UtxzGXsyCt6onAZjqwinAlQXhmq41Ow9o5SvPRkNKo",
+          "author": null,
+          "description": "Canto Genesis",
+          "link": "https://mirror.xyz/0x4CeD9817cAD891aEFfbF5Fb7DcB6f3c6aEBd4228/6UtxzGXsyCt6onAZjqwinAlQXhmq41Ow9o5SvPRkNKo",
+          "publishedOn": "2022-08-16T01:00:03.000Z",
+          "wordCount": 2273,
+          "title": "Canto Genesis",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/TFyCVz7T-t7orPLnEvgdS.jpeg?height=1500&width=3000&h=1500&w=3000&auto=compress"
+        },
+        {
           "id": "https://www.theblock.co/post/163586/aave-says-on-chain-wallet-address-censorship-will-require-dao-consensus?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Aave says on-chain wallet address censorship will require DAO consensus",
           "link": "https://www.theblock.co/post/163586/aave-says-on-chain-wallet-address-censorship-will-require-dao-consensus?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T23:00:03.000Z",
-          "wordCount": 77521,
+          "wordCount": 77900,
           "title": "Aave says on-chain wallet address censorship will require DAO consensus",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/07/20200707_AAVE-Protocol.jpg"
         },
@@ -51,7 +51,7 @@
           "description": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/163585/coin-center-prepares-legal-challenge-to-treasurys-tornado-cash-sanctions?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 77441,
+          "wordCount": 77820,
           "title": "Coin Center prepares legal challenge to Treasury's Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/courthouse-1223280_1920.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "添加制裁名单 by 0x316F26EF6A11 · Pull Request #97 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/97",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 670,
+          "wordCount": 680,
           "title": "添加制裁名单 by 0x316F26EF6A11 · Pull Request #97 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/868e94181e17da7827b4af03bc2dc535df68316910a80e5300ff5cd32cd6011d/flashbots/rpc-endpoint/pull/97"
         },
@@ -126,14 +126,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://open.spotify.com/show/4UTePv1CR3APdKOiosR3Iq?si=2a783458f2b54c77",
+          "id": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
           "author": null,
-          "description": "Empire",
-          "link": "https://open.spotify.com/show/4UTePv1CR3APdKOiosR3Iq?si=2a783458f2b54c77",
+          "description": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
+          "link": "https://www.youtube.com/watch?v=JHyix8P48uU&ab_channel=VillaStraylight",
           "publishedOn": "2022-08-15T21:00:03.000Z",
-          "wordCount": 3747,
-          "title": "Empire",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a4bd9eaf2423e09c8204c1861"
+          "wordCount": null,
+          "title": "The Ethereum Merge Thesis with Hal Press and Nikhil Shamapant",
+          "imageUrl": null
         },
         {
           "id": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
@@ -141,9 +141,9 @@
           "description": "Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center",
           "link": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
           "publishedOn": "2022-08-15T21:00:02.000Z",
-          "wordCount": 6568,
+          "wordCount": 6584,
           "title": "Analysis: What is and what is not a sanctionable entity in the Tornado Cash case - Coin Center",
-          "imageUrl": null
+          "imageUrl": "https://www.coincenter.org/app/uploads/2022/08/Screen-Shot-2022-08-15-at-9.27.42-AM.png"
         },
         {
           "id": "https://github.com/flashbots/rpc-endpoint/pull/96",
@@ -151,7 +151,7 @@
           "description": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
           "link": "https://github.com/flashbots/rpc-endpoint/pull/96",
           "publishedOn": "2022-08-15T17:00:03.000Z",
-          "wordCount": 1608,
+          "wordCount": 1622,
           "title": "Extend sanctions checking by jackturnbull · Pull Request #96 · flashbots/rpc-endpoint",
           "imageUrl": "https://opengraph.githubassets.com/4c2ec29d62cb10cfcbb24984a5763144a98775e96183a0c39c9954f762b5ecb5/flashbots/rpc-endpoint/pull/96"
         },
@@ -161,7 +161,7 @@
           "description": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "link": "https://github.com/ethereumpow/go-ethereum",
           "publishedOn": "2022-08-15T16:30:03.000Z",
-          "wordCount": 3009,
+          "wordCount": 3540,
           "title": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "imageUrl": "https://opengraph.githubassets.com/dd0bc9b0ec1a8b70d5c119ee52abfc08bf9017df42777f089f453449a3e318b3/ethereumpow/go-ethereum"
         },
@@ -171,7 +171,7 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-08-15T13:30:04.000Z",
-          "wordCount": 36985,
+          "wordCount": 36978,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Adam Neumann Gets a New Backer",
           "link": "https://www.nytimes.com/2022/08/15/business/dealbook/adam-neumann-flow-new-company-wework-real-estate.html",
           "publishedOn": "2022-08-15T13:00:02.000Z",
-          "wordCount": 5760,
+          "wordCount": 5757,
           "title": "Adam Neumann Gets a New Backer",
           "imageUrl": "https://static01.nyt.com/images/2022/08/15/multimedia/15db-neumann/15db-neumann-facebookJumbo.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "link": "https://www.reuters.com/article/us-belgium-cake-bugs/waiter-theres-a-fly-in-my-waffle-belgian-researchers-try-out-insect-butter-idUSKCN20M23U",
           "publishedOn": "2022-08-15T11:00:02.000Z",
-          "wordCount": 5098,
+          "wordCount": 5096,
           "title": "Waiter, there's a fly in my waffle: Belgian researchers try out insect butter",
           "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20200228&t=2&i=1496521226&r=LYNXNPEG1R1BS&w=800"
         },
