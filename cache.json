@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://lanyard.build/",
+          "author": null,
+          "description": "Lanyard",
+          "link": "http://lanyard.build/",
+          "publishedOn": "2022-08-17T21:00:03.000Z",
+          "wordCount": 227,
+          "title": "Lanyard",
+          "imageUrl": "https://lanyard.build/meta-image.png"
+        },
+        {
           "id": "https://medium.com/komorebi-collective/reflecting-on-a-year-of-komorebi-dao-8addfd6117cf",
           "author": null,
           "description": "Reflecting on a Year of Komorebi DAO",
           "link": "https://medium.com/komorebi-collective/reflecting-on-a-year-of-komorebi-dao-8addfd6117cf",
           "publishedOn": "2022-08-17T19:00:03.000Z",
-          "wordCount": 3693,
+          "wordCount": 3689,
           "title": "Reflecting on a Year of Komorebi DAO",
           "imageUrl": "https://miro.medium.com/max/600/1*z7lA6DaLUTYHstuj4ssqwQ.png"
         },
@@ -41,7 +51,7 @@
           "description": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "link": "https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-17T19:00:02.000Z",
-          "wordCount": 73343,
+          "wordCount": 73481,
           "title": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/Tessera-logo-1.png"
         },
@@ -91,7 +101,7 @@
           "description": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "link": "https://www.coindesk.com/policy/2022/08/17/us-regulator-improperly-pushing-banks-to-avoid-serving-crypto-companies-lawmaker-says/",
           "publishedOn": "2022-08-17T14:00:06.000Z",
-          "wordCount": 8079,
+          "wordCount": 8065,
           "title": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "imageUrl": "https://www.coindesk.com/resizer/BjH3ZtHLo7yKBSsCQKO1QotZIr8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3D6DDKZFKRAWHC2LS7ND2DPJS4.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "link": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
           "publishedOn": "2022-08-17T08:30:02.000Z",
-          "wordCount": 73865,
+          "wordCount": 73868,
           "title": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2021/03/20210318_Mining_Stocks.jpg"
         },
@@ -151,19 +161,9 @@
           "description": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
           "link": "https://ameensol.medium.com/a-money-god-raises-rai-is-live-on-ethereum-mainnet-f9aff2b1d331",
           "publishedOn": "2022-08-17T04:00:06.000Z",
-          "wordCount": 10114,
+          "wordCount": 10103,
           "title": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
           "imageUrl": "https://miro.medium.com/max/1200/0*FbI1IL3auMRyJar7"
-        },
-        {
-          "id": "https://www.youtube.com/c/UnchainedPodcast",
-          "author": null,
-          "description": "Unchained Podcast - YouTube",
-          "link": "https://www.youtube.com/c/UnchainedPodcast",
-          "publishedOn": "2022-08-17T03:00:03.000Z",
-          "wordCount": 7446,
-          "title": "Unchained Podcast - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         },
         {
           "id": "https://bankless.pallet.com/jobs/f89b01ff-a1e1-46fe-ab52-0e2b14be52fa",
