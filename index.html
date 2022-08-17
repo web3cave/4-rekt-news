@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-17 datetime="2022-08-17T01:30:40.000Z">2022-08-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-17 datetime="2022-08-17T01:30:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rekt - Feed</button>
+                  <a class="source-heading__link" href="https://feed.rekt.news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.gregbrockman.com/my-path-to-openai"
+                        open
+                      >
+                        <summary class="article-expander__title">My path to OpenAI • Greg Brockman</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.gregbrockman.com/my-path-to-openai">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lightning.svbtle.com/cargo/icons/svbtle_logo-3c1c092ede2784d5fe59a99c079db8b03dfe0aaf9a9ae378dbd5d8cbc6a86808.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>My path to OpenAI • Greg Brockman</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-16 datetime="2022-08-16T23:00:03.000Z">2022-08-16</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-16 datetime="2022-08-16T23:00:03.000Z"></time>
           </button>
@@ -357,26 +405,6 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://github.com/ethereum/go-ethereum/pull/25528"
-                        open
-                      >
-                        <summary class="article-expander__title">params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/ethereum/go-ethereum/pull/25528">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/7baa16d56028b4846d9e73fd2c2eeb3c9d81d5f8e8f94fb72ba34d93a211fb71/ethereum/go-ethereum/pull/25528" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.trmlabs.com/post/how-defi-platforms-are-using-data-from-trm-labs-to-respond-to-tornado-cash-sanctions"
                         open
                       >
@@ -417,11 +445,11 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.youtube.com/watch?v&#x3D;CZwv-N_5NH8&amp;feature&#x3D;youtu.be"
+                        data-accordion-key="https://www.youtube.com/watch?v&#x3D;CZwv-N_5NH8"
                         open
                       >
                         <summary class="article-expander__title">Is the Merge Priced In? with Hal Press &amp; Ryan Berckmans</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/watch?v&#x3D;CZwv-N_5NH8&amp;feature&#x3D;youtu.be">
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/watch?v&#x3D;CZwv-N_5NH8">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>Is the Merge Priced In? with Hal Press &amp; Ryan Berckmans</span>
@@ -505,8 +533,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/2871699332">
-        <time id="build-timestamp" datetime="2022-08-16T23:20:17.562Z">2022-08-16T23:20:17.562Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/2872354701">
+        <time id="build-timestamp" datetime="2022-08-17T02:25:45.254Z">2022-08-17T02:25:45.254Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

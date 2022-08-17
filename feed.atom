@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-16T23:20:17.602Z</id>
+    <id>urn:2022-08-17T02:25:45.288Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-16T23:20:17.602Z</updated>
+    <updated>2022-08-17T02:25:45.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My path to OpenAI • Greg Brockman]]></title>
+        <id>https://blog.gregbrockman.com/my-path-to-openai</id>
+        <link href="https://blog.gregbrockman.com/my-path-to-openai"/>
+        <updated>2022-08-17T01:30:40.000Z</updated>
+        <summary type="html"><![CDATA[My path to OpenAI • Greg Brockman]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENS Constitution]]></title>
         <id>https://constitution.ens.domains/</id>
@@ -146,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...]]></title>
-        <id>https://github.com/ethereum/go-ethereum/pull/25528</id>
-        <link href="https://github.com/ethereum/go-ethereum/pull/25528"/>
-        <updated>2022-08-16T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How DeFi platforms are using data from TRM Labs to respond to Tornado Cash sanctions | TRM Insights]]></title>
         <id>https://www.trmlabs.com/post/how-defi-platforms-are-using-data-from-trm-labs-to-respond-to-tornado-cash-sanctions</id>
         <link href="https://www.trmlabs.com/post/how-defi-platforms-are-using-data-from-trm-labs-to-respond-to-tornado-cash-sanctions"/>
@@ -177,8 +177,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Is the Merge Priced In? with Hal Press & Ryan Berckmans]]></title>
-        <id>https://www.youtube.com/watch?v=CZwv-N_5NH8&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=CZwv-N_5NH8&amp;feature=youtu.be"/>
+        <id>https://www.youtube.com/watch?v=CZwv-N_5NH8</id>
+        <link href="https://www.youtube.com/watch?v=CZwv-N_5NH8"/>
         <updated>2022-08-16T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[Is the Merge Priced In? with Hal Press & Ryan Berckmans]]></summary>
         <author>
