@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T04:22:06.150Z</id>
+    <id>urn:2022-08-18T05:36:58.465Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T04:22:06.150Z</updated>
+    <updated>2022-08-18T05:36:58.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEASON 0]]></title>
+        <id>https://nft.wedoalittle.com/</id>
+        <link href="https://nft.wedoalittle.com/"/>
+        <updated>2022-08-18T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[SEASON 0]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></title>
+        <id>https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit</id>
+        <link href="https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit"/>
+        <updated>2022-08-18T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm]]></title>
+        <id>https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44</id>
+        <link href="https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44"/>
+        <updated>2022-08-18T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initialize Compound III (USDC on Ethereum)]]></title>
+        <id>https://www.comp.xyz/t/initialize-compound-iii-usdc-on-ethereum/3499</id>
+        <link href="https://www.comp.xyz/t/initialize-compound-iii-usdc-on-ethereum/3499"/>
+        <updated>2022-08-18T05:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Initialize Compound III (USDC on Ethereum)]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum UASF discussion, 2 million ENS names - The Daily Gwei Refuel #429 - Ethereum Updates]]></title>
         <id>https://www.youtube.com/watch?v=oy4gPhup490&amp;feature=youtu.be</id>
@@ -31,16 +71,6 @@
         <link href="https://depression2022.substack.com/p/8172022-my-eth-wallet-is-wrongly"/>
         <updated>2022-08-17T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[8/17/2022: My ETH Wallet is Wrongly Sanctioned]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado.cash compliance]]></title>
-        <id>https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370</id>
-        <link href="https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370"/>
-        <updated>2022-08-17T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Tornado.cash compliance]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -76,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Entering the New Phase of Collective Ownership as Tessera]]></title>
-        <id>https://medium.com/tessera-nft/announcing-tessera-6cc66d92a6a6</id>
-        <link href="https://medium.com/tessera-nft/announcing-tessera-6cc66d92a6a6"/>
-        <updated>2022-08-17T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Entering the New Phase of Collective Ownership as Tessera]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Paradigm leads $20 million round for Fractional as it rebrands to Tessera]]></title>
         <id>https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&amp;utm_medium=social</id>
         <link href="https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&amp;utm_medium=social"/>
@@ -101,26 +121,6 @@
         <link href="https://www.trmlabs.com/post/how-defi-platforms-are-using-data-from-trm-labs-to-respond-to-tornado-cash-sanctions"/>
         <updated>2022-08-17T18:30:02.000Z</updated>
         <summary type="html"><![CDATA[How DeFi platforms are using data from TRM Labs to respond to Tornado Cash sanctions | TRM Insights]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrading Ethereum]]></title>
-        <id>https://eth2book.info/altair/part2/incentives/inactivity/</id>
-        <link href="https://eth2book.info/altair/part2/incentives/inactivity/"/>
-        <updated>2022-08-17T18:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Upgrading Ethereum]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voluntarily exit a validator]]></title>
-        <id>https://docs.teku.consensys.net/en/latest/HowTo/Voluntary-Exit/</id>
-        <link href="https://docs.teku.consensys.net/en/latest/HowTo/Voluntary-Exit/"/>
-        <updated>2022-08-17T17:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Voluntarily exit a validator]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

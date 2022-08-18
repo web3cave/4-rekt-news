@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nft.wedoalittle.com/",
+          "author": null,
+          "description": "SEASON 0",
+          "link": "https://nft.wedoalittle.com/",
+          "publishedOn": "2022-08-18T05:00:05.000Z",
+          "wordCount": 20,
+          "title": "SEASON 0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit",
+          "author": null,
+          "description": "consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs",
+          "link": "https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit",
+          "publishedOn": "2022-08-18T05:00:05.000Z",
+          "wordCount": 6204,
+          "title": "consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs",
+          "imageUrl": "https://opengraph.githubassets.com/18ce655a329e1a0d6108b7a209311058844d24b64df3607d628bf4dd8266e8c9/ethereum/consensus-specs"
+        },
+        {
+          "id": "https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44",
+          "author": null,
+          "description": "prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm",
+          "link": "https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44",
+          "publishedOn": "2022-08-18T05:00:05.000Z",
+          "wordCount": 1660,
+          "title": "prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm",
+          "imageUrl": "https://repository-images.githubusercontent.com/117156031/e32fe700-da8e-11ea-8c67-cc392508fc9f"
+        },
+        {
+          "id": "https://www.comp.xyz/t/initialize-compound-iii-usdc-on-ethereum/3499",
+          "author": null,
+          "description": "Initialize Compound III (USDC on Ethereum)",
+          "link": "https://www.comp.xyz/t/initialize-compound-iii-usdc-on-ethereum/3499",
+          "publishedOn": "2022-08-18T05:00:05.000Z",
+          "wordCount": 453,
+          "title": "Initialize Compound III (USDC on Ethereum)",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/5c3ed2f078b4a24132b11274c65c69d86fefaa2d.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oy4gPhup490&feature=youtu.be",
           "author": null,
           "description": "Ethereum UASF discussion, 2 million ENS names - The Daily Gwei Refuel #429 - Ethereum Updates",
@@ -31,19 +71,9 @@
           "description": "8/17/2022: My ETH Wallet is Wrongly Sanctioned",
           "link": "https://depression2022.substack.com/p/8172022-my-eth-wallet-is-wrongly",
           "publishedOn": "2022-08-17T23:00:02.000Z",
-          "wordCount": 2116,
+          "wordCount": 2156,
           "title": "8/17/2022: My ETH Wallet is Wrongly Sanctioned",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbca7b2bc-f4e5-4e86-9bee-ab18fca66a15_2444x1214.png"
-        },
-        {
-          "id": "https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370",
-          "author": null,
-          "description": "Tornado.cash compliance",
-          "link": "https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370",
-          "publishedOn": "2022-08-17T21:30:05.000Z",
-          "wordCount": 2085,
-          "title": "Tornado.cash compliance",
-          "imageUrl": "https://miro.medium.com/max/1200/1*eFPujgFJJtiI1L6ors235Q.png"
         },
         {
           "id": "http://lanyard.build/",
@@ -76,22 +106,12 @@
           "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-155389485-1660308912.jpg?crop=1xw:0.8561643835616438xh;center,top&resize=1200:*"
         },
         {
-          "id": "https://medium.com/tessera-nft/announcing-tessera-6cc66d92a6a6",
-          "author": null,
-          "description": "Entering the New Phase of Collective Ownership as Tessera",
-          "link": "https://medium.com/tessera-nft/announcing-tessera-6cc66d92a6a6",
-          "publishedOn": "2022-08-17T19:00:03.000Z",
-          "wordCount": 1912,
-          "title": "Entering the New Phase of Collective Ownership as Tessera",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ionyUJXgM_W-S5hvPM08Lw.png"
-        },
-        {
           "id": "https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "link": "https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-17T19:00:02.000Z",
-          "wordCount": 73172,
+          "wordCount": 72513,
           "title": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/Tessera-logo-1.png"
         },
@@ -104,26 +124,6 @@
           "wordCount": 2924,
           "title": "How DeFi platforms are using data from TRM Labs to respond to Tornado Cash sanctions | TRM Insights",
           "imageUrl": "https://assets-global.website-files.com/6082dc5b670562507b3587b4/62facb8d3c443c36a9f80f0c_TornadoCashBlogPost%402x%20(1).png"
-        },
-        {
-          "id": "https://eth2book.info/altair/part2/incentives/inactivity/",
-          "author": null,
-          "description": "Upgrading Ethereum",
-          "link": "https://eth2book.info/altair/part2/incentives/inactivity/",
-          "publishedOn": "2022-08-17T18:30:02.000Z",
-          "wordCount": 2773,
-          "title": "Upgrading Ethereum",
-          "imageUrl": "https://eth2book.info/f/android-icon-192x192.png"
-        },
-        {
-          "id": "https://docs.teku.consensys.net/en/latest/HowTo/Voluntary-Exit/",
-          "author": null,
-          "description": "Voluntarily exit a validator",
-          "link": "https://docs.teku.consensys.net/en/latest/HowTo/Voluntary-Exit/",
-          "publishedOn": "2022-08-17T17:00:05.000Z",
-          "wordCount": 555,
-          "title": "Voluntarily exit a validator",
-          "imageUrl": null
         },
         {
           "id": "https://writings.flashbots.net/writings/Flashbots-Relay-open-sourcing/",
@@ -161,7 +161,7 @@
           "description": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "link": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
           "publishedOn": "2022-08-17T08:30:02.000Z",
-          "wordCount": 73694,
+          "wordCount": 73023,
           "title": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2021/03/20210318_Mining_Stocks.jpg"
         },
