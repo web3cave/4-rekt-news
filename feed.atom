@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-18T22:22:32.827Z</id>
+    <id>urn:2022-08-18T23:22:21.368Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-18T22:22:32.827Z</updated>
+    <updated>2022-08-18T23:22:21.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Internet Game: Season 2 - Bear Market Battle]]></title>
+        <id>https://internet.game/</id>
+        <link href="https://internet.game/"/>
+        <updated>2022-08-18T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Internet Game: Season 2 - Bear Market Battle]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Is Not Close To Global Adoption | Sergej Kotliar]]></title>
         <id>https://www.youtube.com/watch?v=gr_VfXGFV3U&amp;t=4770s</id>
@@ -76,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Home | Song a Day World]]></title>
+        <id>https://songaday.world/</id>
+        <link href="https://songaday.world/"/>
+        <updated>2022-08-18T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Home | Song a Day World]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Synthetix Wrapper]]></title>
         <id>https://wrappers.synthetix.io/</id>
         <link href="https://wrappers.synthetix.io/"/>
@@ -121,26 +141,6 @@
         <link href="https://nft.wedoalittle.com/"/>
         <updated>2022-08-18T05:00:05.000Z</updated>
         <summary type="html"><![CDATA[SEASON 0]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></title>
-        <id>https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit</id>
-        <link href="https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#get_validator_churn_limit"/>
-        <updated>2022-08-18T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[consensus-specs/beacon-chain.md at dev · ethereum/consensus-specs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm]]></title>
-        <id>https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44</id>
-        <link href="https://github.com/prysmaticlabs/prysm/blob/d077483577bc8fdc658940adf71d8d11dfa5949b/beacon-chain/core/validators/validator.go#L44"/>
-        <updated>2022-08-18T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[prysm/validator.go at d077483577bc8fdc658940adf71d8d11dfa5949b · prysmaticlabs/prysm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
