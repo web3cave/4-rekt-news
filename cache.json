@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oy4gPhup490&feature=youtu.be",
+          "author": null,
+          "description": "Ethereum UASF discussion, 2 million ENS names - The Daily Gwei Refuel #429 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=oy4gPhup490&feature=youtu.be",
+          "publishedOn": "2022-08-18T01:30:05.000Z",
+          "wordCount": null,
+          "title": "Ethereum UASF discussion, 2 million ENS names - The Daily Gwei Refuel #429 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ultrasound.money/",
+          "author": null,
+          "description": "Ultra Sound Money",
+          "link": "https://ultrasound.money/",
+          "publishedOn": "2022-08-18T00:30:02.000Z",
+          "wordCount": 99,
+          "title": "Ultra Sound Money",
+          "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
           "id": "https://depression2022.substack.com/p/8172022-my-eth-wallet-is-wrongly",
           "author": null,
           "description": "8/17/2022: My ETH Wallet is Wrongly Sanctioned",
           "link": "https://depression2022.substack.com/p/8172022-my-eth-wallet-is-wrongly",
           "publishedOn": "2022-08-17T23:00:02.000Z",
-          "wordCount": 1883,
+          "wordCount": 2116,
           "title": "8/17/2022: My ETH Wallet is Wrongly Sanctioned",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbca7b2bc-f4e5-4e86-9bee-ab18fca66a15_2444x1214.png"
         },
         {
-          "id": "https://newsletter.banklesshq.com/p/is-the-merge-priced-in",
+          "id": "https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370",
           "author": null,
-          "description": "Is the Merge Priced In?",
-          "link": "https://newsletter.banklesshq.com/p/is-the-merge-priced-in",
-          "publishedOn": "2022-08-17T23:00:02.000Z",
-          "wordCount": 19811,
-          "title": "Is the Merge Priced In?",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57c976d9-1410-4068-a9c4-3373cf35e7b8_1656x928.png"
+          "description": "Tornado.cash compliance",
+          "link": "https://tornado-cash.medium.com/tornado-cash-compliance-9abbf254a370",
+          "publishedOn": "2022-08-17T21:30:05.000Z",
+          "wordCount": 1988,
+          "title": "Tornado.cash compliance",
+          "imageUrl": "https://miro.medium.com/max/1200/1*eFPujgFJJtiI1L6ors235Q.png"
         },
         {
           "id": "http://lanyard.build/",
@@ -61,7 +81,7 @@
           "description": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "link": "https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-17T19:00:02.000Z",
-          "wordCount": 72597,
+          "wordCount": 73172,
           "title": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/Tessera-logo-1.png"
         },
@@ -111,7 +131,7 @@
           "description": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "link": "https://www.coindesk.com/policy/2022/08/17/us-regulator-improperly-pushing-banks-to-avoid-serving-crypto-companies-lawmaker-says/",
           "publishedOn": "2022-08-17T14:00:06.000Z",
-          "wordCount": 8177,
+          "wordCount": 8154,
           "title": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "imageUrl": "https://www.coindesk.com/resizer/BjH3ZtHLo7yKBSsCQKO1QotZIr8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3D6DDKZFKRAWHC2LS7ND2DPJS4.jpg"
         },
@@ -126,22 +146,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://cdn2.hubspot.net/hubfs/4795067/ConsenSys-CBDC-White-Paper.pdf",
-          "author": null,
-          "description": "[PDF] ConsenSys-CBDC-White-Paper.pdf",
-          "link": "https://cdn2.hubspot.net/hubfs/4795067/ConsenSys-CBDC-White-Paper.pdf",
-          "publishedOn": "2022-08-17T12:30:02.000Z",
-          "wordCount": 10684,
-          "title": "[PDF] ConsenSys-CBDC-White-Paper.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
           "author": null,
           "description": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "link": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
           "publishedOn": "2022-08-17T08:30:02.000Z",
-          "wordCount": 73119,
+          "wordCount": 73694,
           "title": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
           "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2021/03/20210318_Mining_Stocks.jpg"
         },
@@ -151,7 +161,7 @@
           "description": "ETH-flexive",
           "link": "https://cryptohayes.medium.com/eth-flexive-7e1921123f64",
           "publishedOn": "2022-08-17T07:00:03.000Z",
-          "wordCount": 8474,
+          "wordCount": 8508,
           "title": "ETH-flexive",
           "imageUrl": "https://miro.medium.com/max/400/0*vCtCnWKKgDHGKFFJ"
         },
@@ -171,7 +181,7 @@
           "description": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
           "link": "https://ameensol.medium.com/a-money-god-raises-rai-is-live-on-ethereum-mainnet-f9aff2b1d331",
           "publishedOn": "2022-08-17T04:00:06.000Z",
-          "wordCount": 10114,
+          "wordCount": 10053,
           "title": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
           "imageUrl": "https://miro.medium.com/max/1200/0*FbI1IL3auMRyJar7"
         },
@@ -184,16 +194,6 @@
           "wordCount": 343,
           "title": "ERC721K",
           "imageUrl": "https://avatars.githubusercontent.com/u/111235517?s=280&v=4"
-        },
-        {
-          "id": "https://github.com/ethereum/go-ethereum/pull/25528",
-          "author": null,
-          "description": "params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...",
-          "link": "https://github.com/ethereum/go-ethereum/pull/25528",
-          "publishedOn": "2022-08-16T11:00:03.000Z",
-          "wordCount": 1013,
-          "title": "params: set mainnet terminal total difficulty for the merge by MariusVanDerWijden · Pull Request #25528 ·...",
-          "imageUrl": "https://opengraph.githubassets.com/7d5f4efc44bdcc2761e7f95871732f31e9abc547832259eaa24f12bf5f58577e/ethereum/go-ethereum/pull/25528"
         },
         {
           "id": "https://www.coincenter.org/analysis-what-is-and-what-is-not-a-sanctionable-entity-in-the-tornado-cash-case/",
