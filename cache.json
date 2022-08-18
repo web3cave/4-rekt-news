@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7dwG-eaVTqc&feature=youtu.be",
+          "author": null,
+          "description": "Exposing the SIMP Economy: How Much Can Only Fans Girls Make? $$",
+          "link": "https://www.youtube.com/watch?v=7dwG-eaVTqc&feature=youtu.be",
+          "publishedOn": "2022-08-18T07:30:04.000Z",
+          "wordCount": null,
+          "title": "Exposing the SIMP Economy: How Much Can Only Fans Girls Make? $$",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oy4gPhup490&feature=youtu.be",
           "author": null,
           "description": "Ethereum UASF discussion, 2 million ENS names - The Daily Gwei Refuel #429 - Ethereum Updates",
@@ -106,10 +116,10 @@
           "imageUrl": "https://lanyard.build/meta-image.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=rg7LVU9r38g&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=rg7LVU9r38g",
           "author": null,
           "description": "ETHW & Tornado Cash Aftermath w/ Ameen Soleimani, Chandler Guo & Xan Ditkoff  - Shitaverse #7",
-          "link": "https://www.youtube.com/watch?v=rg7LVU9r38g&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=rg7LVU9r38g",
           "publishedOn": "2022-08-17T19:00:03.000Z",
           "wordCount": null,
           "title": "ETHW & Tornado Cash Aftermath w/ Ameen Soleimani, Chandler Guo & Xan Ditkoff  - Shitaverse #7",
@@ -141,9 +151,19 @@
           "description": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "link": "https://www.theblock.co/post/164001/paradigm-leads-20-million-round-for-fractional-as-it-rebrands-to-tessera?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-17T19:00:02.000Z",
-          "wordCount": 72528,
+          "wordCount": 72862,
           "title": "Paradigm leads $20 million round for Fractional as it rebrands to Tessera",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/Tessera-logo-1.png"
+        },
+        {
+          "id": "https://eth2book.info/altair/part2/incentives/inactivity/",
+          "author": null,
+          "description": "Upgrading Ethereum",
+          "link": "https://eth2book.info/altair/part2/incentives/inactivity/",
+          "publishedOn": "2022-08-17T18:30:02.000Z",
+          "wordCount": 2773,
+          "title": "Upgrading Ethereum",
+          "imageUrl": "https://eth2book.info/f/android-icon-192x192.png"
         },
         {
           "id": "https://writings.flashbots.net/writings/Flashbots-Relay-open-sourcing/",
@@ -161,7 +181,7 @@
           "description": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "link": "https://www.coindesk.com/policy/2022/08/17/us-regulator-improperly-pushing-banks-to-avoid-serving-crypto-companies-lawmaker-says/",
           "publishedOn": "2022-08-17T14:00:06.000Z",
-          "wordCount": 8133,
+          "wordCount": 8140,
           "title": "US Regulator 'Improperly' Pushing Banks to Avoid Serving Crypto Companies, Lawmaker Says",
           "imageUrl": "https://www.coindesk.com/resizer/BjH3ZtHLo7yKBSsCQKO1QotZIr8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3D6DDKZFKRAWHC2LS7ND2DPJS4.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
-          "author": null,
-          "description": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
-          "link": "https://www.theblock.co/linked/106865/marathon-ofac-bitcoin-mining-pool-taproot",
-          "publishedOn": "2022-08-17T08:30:02.000Z",
-          "wordCount": 73038,
-          "title": "Marathon says its mining pool will stop censoring transactions following bitcoin community outcry",
-          "imageUrl": "https://dev-www.tbstat.com/wp/uploads/2021/03/20210318_Mining_Stocks.jpg"
-        },
-        {
           "id": "https://ameensol.medium.com/a-money-god-raises-rai-is-live-on-ethereum-mainnet-f9aff2b1d331",
           "author": null,
           "description": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
@@ -194,16 +204,6 @@
           "wordCount": 10139,
           "title": "A Money God RAIses — RAI is live on Ethereum Mainnet!",
           "imageUrl": "https://miro.medium.com/max/1200/0*FbI1IL3auMRyJar7"
-        },
-        {
-          "id": "https://github.com/erc721k",
-          "author": null,
-          "description": "ERC721K",
-          "link": "https://github.com/erc721k",
-          "publishedOn": "2022-08-16T15:00:03.000Z",
-          "wordCount": 343,
-          "title": "ERC721K",
-          "imageUrl": "https://avatars.githubusercontent.com/u/111235517?s=280&v=4"
         }
       ]
     }
