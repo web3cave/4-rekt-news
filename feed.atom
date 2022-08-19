@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T08:27:31.478Z</id>
+    <id>urn:2022-08-19T09:22:31.935Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-19T08:27:31.478Z</updated>
+    <updated>2022-08-19T09:22:31.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub - BradleyC/funbug-gm: An abstract P2E engine, allowing developers an interface to develop minigames and turn...]]></title>
+        <id>https://github.com/BradleyC/funbug-gm</id>
+        <link href="https://github.com/BradleyC/funbug-gm"/>
+        <updated>2022-08-19T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - BradleyC/funbug-gm: An abstract P2E engine, allowing developers an interface to develop minigames and turn...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PDF] MEV_Redistribution.pdf]]></title>
         <id>http://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pdf</id>
@@ -171,16 +181,6 @@
         <link href="https://eips.ethereum.org/EIPS/eip-1344#rationale"/>
         <updated>2022-08-18T14:30:03.000Z</updated>
         <summary type="html"><![CDATA[EIP-1344: ChainID opcode]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign the Petition]]></title>
-        <id>https://www.change.org/p/open-source-development-is-in-danger-take-action-before-it-s-too-late-opensourcenotacrime-privacynotacrime-freealex-freepertsev-freealekseypertsev?recruiter=307787901&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=psf_combo_share_initial&amp;utm_term=b875eeb80af5408098a08f89959839c6&amp;recruited_by_id=1ed88e70-07b2-11e5-8976-a106bdf34db6&amp;share_bandit_exp=initial-34212517-en-US</id>
-        <link href="https://www.change.org/p/open-source-development-is-in-danger-take-action-before-it-s-too-late-opensourcenotacrime-privacynotacrime-freealex-freepertsev-freealekseypertsev?recruiter=307787901&amp;utm_source=share_petition&amp;utm_medium=twitter&amp;utm_campaign=psf_combo_share_initial&amp;utm_term=b875eeb80af5408098a08f89959839c6&amp;recruited_by_id=1ed88e70-07b2-11e5-8976-a106bdf34db6&amp;share_bandit_exp=initial-34212517-en-US"/>
-        <updated>2022-08-18T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Sign the Petition]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
