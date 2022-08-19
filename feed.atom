@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T19:17:39.964Z</id>
+    <id>urn:2022-08-19T20:23:49.278Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-19T19:17:39.964Z</updated>
+    <updated>2022-08-19T20:23:49.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Home | ethereum.org]]></title>
+        <id>https://ethereum.org/en/</id>
+        <link href="https://ethereum.org/en/"/>
+        <updated>2022-08-19T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Home | ethereum.org]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The DarkFi Book]]></title>
         <id>https://darkrenaissance.github.io/darkfi/</id>
@@ -21,6 +31,16 @@
         <link href="https://open.spotify.com/episode/5tsB91hoZ2IUG8g4W0NOJq"/>
         <updated>2022-08-19T19:00:04.000Z</updated>
         <summary type="html"><![CDATA[DCFgod [Anon] | Investing in value, trading in narratives]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying a Vault and Strategy V2 | Yearn.finance]]></title>
+        <id>https://docs.yearn.finance/developers/v2/DEPLOYMENT</id>
+        <link href="https://docs.yearn.finance/developers/v2/DEPLOYMENT"/>
+        <updated>2022-08-19T19:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Deploying a Vault and Strategy V2 | Yearn.finance]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Internet Game: Season 2 - Bear Market Battle]]></title>
-        <id>https://internet.game/</id>
-        <link href="https://internet.game/"/>
-        <updated>2022-08-18T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Internet Game: Season 2 - Bear Market Battle]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS Privacy: Announcing InAppBrowser.com - see what JavaScript commands get injected through an in-app browser ·...]]></title>
         <id>https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser</id>
         <link href="https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser"/>
@@ -181,16 +191,6 @@
         <link href="https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/"/>
         <updated>2022-08-18T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Apple releases iOS, iPadOS, and macOS security fixes for two zero-days under active attack – TechCrunch]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Is Not Close To Global Adoption | Sergej Kotliar]]></title>
-        <id>https://www.youtube.com/watch?v=gr_VfXGFV3U&amp;t=4770s</id>
-        <link href="https://www.youtube.com/watch?v=gr_VfXGFV3U&amp;t=4770s"/>
-        <updated>2022-08-18T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Is Not Close To Global Adoption | Sergej Kotliar]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
