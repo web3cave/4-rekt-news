@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://snitchy.xyz/",
+          "author": null,
+          "description": "Snitchy",
+          "link": "https://snitchy.xyz/",
+          "publishedOn": "2022-08-19T22:00:05.000Z",
+          "wordCount": 763,
+          "title": "Snitchy",
+          "imageUrl": "https://snitchy.xyz/images/snitchy.jpg"
+        },
+        {
+          "id": "https://forum.gnosis-safe.io/t/proposal-safe-distribution-for-users/369",
+          "author": null,
+          "description": "Proposal: SAFE distribution for users",
+          "link": "https://forum.gnosis-safe.io/t/proposal-safe-distribution-for-users/369",
+          "publishedOn": "2022-08-19T21:30:04.000Z",
+          "wordCount": 3530,
+          "title": "Proposal: SAFE distribution for users",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard20/uploads/gnosis_safe/optimized/1X/2314d577cec7edc653dd8a9684f998f433c18aac_2_1024x576.jpeg"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/08/19/many-bored-ape-nfts-are-in-danger-of-getting-liquidated-as-borrowed-money-comes-back-to-bite/",
+          "author": null,
+          "description": "Many Bored Ape NFTs Are in Danger of Getting Liquidated as Borrowed Money Comes Back to Bite",
+          "link": "https://www.coindesk.com/business/2022/08/19/many-bored-ape-nfts-are-in-danger-of-getting-liquidated-as-borrowed-money-comes-back-to-bite/",
+          "publishedOn": "2022-08-19T21:00:02.000Z",
+          "wordCount": 8294,
+          "title": "Many Bored Ape NFTs Are in Danger of Getting Liquidated as Borrowed Money Comes Back to Bite",
+          "imageUrl": "https://www.coindesk.com/resizer/YfAGUdrJfl4Wa6l8x71N1aEAqAE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4W2WCXWQPFEURA53DBWXXD7O5Q.jpg"
+        },
+        {
           "id": "https://ethereum.org/en/",
           "author": null,
           "description": "Home | ethereum.org",
@@ -26,26 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://open.spotify.com/episode/5tsB91hoZ2IUG8g4W0NOJq",
-          "author": null,
-          "description": "DCFgod [Anon] | Investing in value, trading in narratives",
-          "link": "https://open.spotify.com/episode/5tsB91hoZ2IUG8g4W0NOJq",
-          "publishedOn": "2022-08-19T19:00:04.000Z",
-          "wordCount": 448,
-          "title": "DCFgod [Anon] | Investing in value, trading in narratives",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8ac572ed7cc0071638c4212851"
-        },
-        {
-          "id": "https://docs.yearn.finance/developers/v2/DEPLOYMENT",
-          "author": null,
-          "description": "Deploying a Vault and Strategy V2 | Yearn.finance",
-          "link": "https://docs.yearn.finance/developers/v2/DEPLOYMENT",
-          "publishedOn": "2022-08-19T19:00:04.000Z",
-          "wordCount": 1660,
-          "title": "Deploying a Vault and Strategy V2 | Yearn.finance",
-          "imageUrl": "https://docs.yearn.finance/img/YFILogoGradient.png"
-        },
-        {
           "id": "https://coincenter.substack.com/p/in-sanctioning-tornado-cash-itself",
           "author": null,
           "description": "In sanctioning Tornado Cash itself OFAC may have exceeded its authority",
@@ -56,14 +66,14 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54498564-b2ed-491e-9a08-e7ca01d5f301_1920x1280.jpeg"
         },
         {
-          "id": "https://snitchy.xyz/",
+          "id": "https://github.com/Uniswap/interface/pull/4418",
           "author": null,
-          "description": "Snitchy",
-          "link": "https://snitchy.xyz/",
-          "publishedOn": "2022-08-19T17:00:03.000Z",
-          "wordCount": 763,
-          "title": "Snitchy",
-          "imageUrl": "https://snitchy.xyz/images/snitchy.jpg"
+          "description": "feat: Removes censorship from the UI. by MicahZoltu · Pull Request #4418 · Uniswap/interface",
+          "link": "https://github.com/Uniswap/interface/pull/4418",
+          "publishedOn": "2022-08-19T15:30:05.000Z",
+          "wordCount": 2285,
+          "title": "feat: Removes censorship from the UI. by MicahZoltu · Pull Request #4418 · Uniswap/interface",
+          "imageUrl": "https://opengraph.githubassets.com/cf5b9d4f61a021c5229fb15c76d3bbeafb87f55d6a7c17a85edab024b1bd5ff3/Uniswap/interface/pull/4418"
         },
         {
           "id": "https://www.youtube.com/watch?v=SNJ1no92f6Q",
@@ -121,19 +131,9 @@
           "description": "Guessing C For Every Answer Is Now Enough To Pass The New York State Algebra Exam",
           "link": "https://medium.com/@newyorkteacher/guessing-c-for-every-answer-is-now-enough-to-pass-the-new-york-state-algebra-exam-93bac55b3e24",
           "publishedOn": "2022-08-19T11:00:03.000Z",
-          "wordCount": 5993,
+          "wordCount": 5980,
           "title": "Guessing C For Every Answer Is Now Enough To Pass The New York State Algebra Exam",
           "imageUrl": "https://miro.medium.com/max/799/1*vkyBle96966eK0yXCI-oxA.png"
-        },
-        {
-          "id": "https://www.binance.com/en/support/announcement/04619e62e3784dc09b17fea81ad4d0fd?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "author": null,
-          "description": "Binance Will List Stargate (STG) in the Innovation Zone | Binance Support",
-          "link": "https://www.binance.com/en/support/announcement/04619e62e3784dc09b17fea81ad4d0fd?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "publishedOn": "2022-08-19T11:00:03.000Z",
-          "wordCount": 8461,
-          "title": "Binance Will List Stargate (STG) in the Innovation Zone | Binance Support",
-          "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
         },
         {
           "id": "https://github.com/ethereum/pm/issues/592#issuecomment-1214768199",
@@ -191,7 +191,7 @@
           "description": "Apple releases iOS, iPadOS, and macOS security fixes for two zero-days under active attack – TechCrunch",
           "link": "https://techcrunch.com/2022/08/17/iphone-ipad-mac-zero-days/",
           "publishedOn": "2022-08-18T21:00:03.000Z",
-          "wordCount": 7595,
+          "wordCount": 7585,
           "title": "Apple releases iOS, iPadOS, and macOS security fixes for two zero-days under active attack – TechCrunch",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/08/ios-security.jpg?w=596"
         },
