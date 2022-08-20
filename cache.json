@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.theori.io/about",
+          "author": null,
+          "description": "About Us",
+          "link": "https://blog.theori.io/about",
+          "publishedOn": "2022-08-20T19:00:04.000Z",
+          "wordCount": 304,
+          "title": "About Us",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rand.org/blog/rand-review/2022/08/the-future-could-be-brilliant-rands-ceo-is-an-apocaloptimist.html?utm_campaign=randreview&utm_content=1659620195&utm_medium=rand_social&utm_source=twitter",
+          "author": null,
+          "description": "'The Future Could Be Brilliant': RAND's CEO Is an 'Apocaloptimist'",
+          "link": "https://www.rand.org/blog/rand-review/2022/08/the-future-could-be-brilliant-rands-ceo-is-an-apocaloptimist.html?utm_campaign=randreview&utm_content=1659620195&utm_medium=rand_social&utm_source=twitter",
+          "publishedOn": "2022-08-20T19:00:04.000Z",
+          "wordCount": 2183,
+          "title": "'The Future Could Be Brilliant': RAND's CEO Is an 'Apocaloptimist'",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/blog/rand-review/2022/08/the-future-could-be-brilliant-rands-ceo-is-an-apocaloptimist/jcr:content/par/teaser.aspectfit.0x1200.jpg/1659617180057.jpg"
+        },
+        {
+          "id": "https://metaversal.banklesshq.com/p/recent-nft-controversies-",
+          "author": null,
+          "description": "Recent NFT controversies ☕️",
+          "link": "https://metaversal.banklesshq.com/p/recent-nft-controversies-",
+          "publishedOn": "2022-08-20T18:30:03.000Z",
+          "wordCount": 3849,
+          "title": "Recent NFT controversies ☕️",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaeqL5ZWIAIarBR.png"
+        },
+        {
           "id": "https://www.unic.ac.cy/openmetaverse/mooc-nfts-metaverse/",
           "author": null,
           "description": "Free MOOC on NFTs and the Metaverse",
@@ -16,44 +46,14 @@
           "imageUrl": "https://www.unic.ac.cy/wp-content/uploads/UNIC-header-logo-white.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=XkX5VnC27pg&feature=youtu.be",
+          "id": "https://www.zerohedge.com/markets/there-no-pivot-never-forget-first-rule-watching-central-bank",
           "author": null,
-          "description": "What Is Going On With Bitcoin Right Now?",
-          "link": "https://www.youtube.com/watch?v=XkX5VnC27pg&feature=youtu.be",
+          "description": "'There Is No Pivot': Never Forget The First Rule Of Watching A Central Bank... | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/there-no-pivot-never-forget-first-rule-watching-central-bank",
           "publishedOn": "2022-08-20T17:00:04.000Z",
-          "wordCount": null,
-          "title": "What Is Going On With Bitcoin Right Now?",
+          "wordCount": 2801,
+          "title": "'There Is No Pivot': Never Forget The First Rule Of Watching A Central Bank... | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/kriskowal/gtor/tree/master/presentation#sharing-streams",
-          "author": null,
-          "description": "gtor/presentation at master · kriskowal/gtor",
-          "link": "https://github.com/kriskowal/gtor/tree/master/presentation#sharing-streams",
-          "publishedOn": "2022-08-20T17:00:04.000Z",
-          "wordCount": 4704,
-          "title": "gtor/presentation at master · kriskowal/gtor",
-          "imageUrl": "https://opengraph.githubassets.com/3044c0e258d6ca6e2bb7ae7fd1107a7662729c0f586b1debe2a1114ce32ed57e/kriskowal/gtor"
-        },
-        {
-          "id": "https://github.com/rotki/rotki/releases",
-          "author": null,
-          "description": "Releases · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/releases",
-          "publishedOn": "2022-08-20T17:00:04.000Z",
-          "wordCount": 9586,
-          "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/a32307ca49c952c043bf8a404f341182b293cabbb77ad49af1b83bf7e7b44162/rotki/rotki"
-        },
-        {
-          "id": "https://rotki.com/products/",
-          "author": null,
-          "description": "premium subscription | rotki",
-          "link": "https://rotki.com/products/",
-          "publishedOn": "2022-08-20T17:00:04.000Z",
-          "wordCount": 4857,
-          "title": "premium subscription | rotki",
-          "imageUrl": "https://rotki.com/img/share.png"
         },
         {
           "id": "https://www.finder.com.au/f2pool-is-censoring-shielded-zcash-transactions-for-reasons-unknown?utm_content=bufferd6a61&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
@@ -166,14 +166,14 @@
           "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
-          "id": "https://www.fdic.gov/news/press-releases/2022/pr22060.html",
+          "id": "https://finance.yahoo.com/news/coming-privacy-wars-180000997.html",
           "author": null,
-          "description": "FDIC Issues Cease and Desist Letters to Five Companies For Making Crypto-Related False or Misleading Representations...",
-          "link": "https://www.fdic.gov/news/press-releases/2022/pr22060.html",
+          "description": "The Coming Privacy Wars",
+          "link": "https://finance.yahoo.com/news/coming-privacy-wars-180000997.html",
           "publishedOn": "2022-08-19T23:00:03.000Z",
-          "wordCount": 1600,
-          "title": "FDIC Issues Cease and Desist Letters to Five Companies For Making Crypto-Related False or Misleading Representations...",
-          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+          "wordCount": 15089,
+          "title": "The Coming Privacy Wars",
+          "imageUrl": "https://s.yimg.com/uu/api/res/1.2/zlw5XgvmH_5Y.cTewct88A--~B/aD02MDA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coindesk_75/0f6d74a0151bd2dd18874e6d6526319a"
         },
         {
           "id": "https://www.coindesk.com/business/2022/08/19/many-bored-ape-nfts-are-in-danger-of-getting-liquidated-as-borrowed-money-comes-back-to-bite/",
@@ -181,7 +181,7 @@
           "description": "Many Bored Ape NFTs Are in Danger of Getting Liquidated as Borrowed Money Comes Back to Bite",
           "link": "https://www.coindesk.com/business/2022/08/19/many-bored-ape-nfts-are-in-danger-of-getting-liquidated-as-borrowed-money-comes-back-to-bite/",
           "publishedOn": "2022-08-19T21:00:02.000Z",
-          "wordCount": 8255,
+          "wordCount": 8238,
           "title": "Many Bored Ape NFTs Are in Danger of Getting Liquidated as Borrowed Money Comes Back to Bite",
           "imageUrl": "https://www.coindesk.com/resizer/YfAGUdrJfl4Wa6l8x71N1aEAqAE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4W2WCXWQPFEURA53DBWXXD7O5Q.jpg"
         },
@@ -201,9 +201,9 @@
           "description": "feat: Removes censorship from the UI. by MicahZoltu · Pull Request #4418 · Uniswap/interface",
           "link": "https://github.com/Uniswap/interface/pull/4418",
           "publishedOn": "2022-08-19T15:30:05.000Z",
-          "wordCount": 2774,
+          "wordCount": 3041,
           "title": "feat: Removes censorship from the UI. by MicahZoltu · Pull Request #4418 · Uniswap/interface",
-          "imageUrl": "https://opengraph.githubassets.com/a0bba7f9194c67e7bb2dbf615bd1676a105157eb24a961b88dfa50475f58f47c/Uniswap/interface/pull/4418"
+          "imageUrl": "https://opengraph.githubassets.com/22b10f5e4f1f7cb6550e3342cfaa3fb0164a079e5ec7c9e22df2b791bdb254c4/Uniswap/interface/pull/4418"
         }
       ]
     }
