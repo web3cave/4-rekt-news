@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sips.synthetix.io/sips/sip-6/",
+          "author": null,
+          "description": "SIP-6: Frontrunning protection",
+          "link": "https://sips.synthetix.io/sips/sip-6/",
+          "publishedOn": "2022-08-21T07:30:05.000Z",
+          "wordCount": 875,
+          "title": "SIP-6: Frontrunning protection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ahJZ6A-JW_c",
+          "author": null,
+          "description": "Privacy and Tunes with Justin Myles Holmes - ETHDenver 2020",
+          "link": "https://www.youtube.com/watch?v=ahJZ6A-JW_c",
+          "publishedOn": "2022-08-21T07:30:05.000Z",
+          "wordCount": null,
+          "title": "Privacy and Tunes with Justin Myles Holmes - ETHDenver 2020",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/rauljordan/graffiti-fetcher",
           "author": null,
           "description": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
           "link": "https://github.com/rauljordan/graffiti-fetcher",
           "publishedOn": "2022-08-21T07:00:03.000Z",
-          "wordCount": 590,
+          "wordCount": 562,
           "title": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
           "imageUrl": "https://opengraph.githubassets.com/7e9cea1e06ff9c8f4cc9c37d73d1339fe4b9900d94049c822bfca12a3945d7c1/rauljordan/graffiti-fetcher"
         },
@@ -21,7 +41,7 @@
           "description": "Saved [prod. by Mic Lee]",
           "link": "https://soundcloud.com/trinohbi/saved-prod-by-mic-lee",
           "publishedOn": "2022-08-21T07:00:03.000Z",
-          "wordCount": 1002,
+          "wordCount": 1003,
           "title": "Saved [prod. by Mic Lee]",
           "imageUrl": "https://i1.sndcdn.com/artworks-000164088877-vrvlw2-t500x500.jpg"
         },
@@ -33,16 +53,6 @@
           "publishedOn": "2022-08-21T04:00:14.000Z",
           "wordCount": 6036,
           "title": "Beacon Runner 2049: Network partitions",
-          "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
-        },
-        {
-          "id": "https://ethereum.github.io/rig/",
-          "author": null,
-          "description": "Robust Incentives Group",
-          "link": "https://ethereum.github.io/rig/",
-          "publishedOn": "2022-08-21T04:00:14.000Z",
-          "wordCount": 700,
-          "title": "Robust Incentives Group",
           "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
         },
         {
@@ -64,16 +74,6 @@
           "wordCount": 1247,
           "title": "CNN Boss Warns 'Unsettled' Staff To Prepare For 'More Changes' | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/164672/architect-of-the-dao-splits-from-ethereum-circus-after-nine-years?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Architect of The DAO splits from Ethereum ‘circus’ after nine years",
-          "link": "https://www.theblock.co/post/164672/architect-of-the-dao-splits-from-ethereum-circus-after-nine-years?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-08-21T01:00:02.000Z",
-          "wordCount": 72151,
-          "title": "Architect of The DAO splits from Ethereum ‘circus’ after nine years",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220526_Ethereum-The-Merge-2.jpg"
         },
         {
           "id": "https://bitcoinmagazine.com/business/op-ed-how-many-wrongs-make-wright",
