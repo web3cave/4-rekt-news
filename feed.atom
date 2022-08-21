@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T17:21:20.002Z</id>
+    <id>urn:2022-08-21T18:26:09.910Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-21T17:21:20.002Z</updated>
+    <updated>2022-08-21T18:26:09.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Round Tripping]]></title>
+        <id>https://page1.substack.com/p/round-tripping-40b</id>
+        <link href="https://page1.substack.com/p/round-tripping-40b"/>
+        <updated>2022-08-21T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Round Tripping]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Bitcoin Mining and the Environment]]></title>
+        <id>https://www.youtube.com/watch?v=JRd_wNHJG4o&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=JRd_wNHJG4o&amp;feature=youtu.be"/>
+        <updated>2022-08-21T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Bitcoin Mining and the Environment]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trading The Commodity Supercycle Intermission | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/commodities/trading-commodity-supercycle-intermission</id>
@@ -46,31 +66,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Desktop by Felt Zine]]></title>
+        <id>https://desktop.feltzine.art/</id>
+        <link href="https://desktop.feltzine.art/"/>
+        <updated>2022-08-21T15:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Desktop by Felt Zine]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[French Foreign Legion To Secure South Yemen Gas Exports: Report | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/energy/french-foreign-legion-secure-south-yemen-gas-exports-report</id>
         <link href="https://www.zerohedge.com/energy/french-foreign-legion-secure-south-yemen-gas-exports-report"/>
         <updated>2022-08-21T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[French Foreign Legion To Secure South Yemen Gas Exports: Report | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World's Second Largest Cinema Chain Is Preparing For Bankruptcy | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/worlds-second-largest-cinema-chain-preparing-bankruptcy</id>
-        <link href="https://www.zerohedge.com/markets/worlds-second-largest-cinema-chain-preparing-bankruptcy"/>
-        <updated>2022-08-21T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The World's Second Largest Cinema Chain Is Preparing For Bankruptcy | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hal Finney at Crypto98]]></title>
-        <id>https://www.youtube.com/watch?v=YjHVNstGLIQ&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=YjHVNstGLIQ&amp;feature=youtu.be"/>
-        <updated>2022-08-21T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Hal Finney at Crypto98]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -126,21 +136,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rekt Feed]]></title>
-        <id>https://feed.rekt.news/</id>
-        <link href="https://feed.rekt.news/"/>
-        <updated>2022-08-21T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Rekt Feed]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beacon Runner 2049: Network partitions]]></title>
         <id>https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html</id>
         <link href="https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html"/>
         <updated>2022-08-21T04:00:14.000Z</updated>
         <summary type="html"><![CDATA[Beacon Runner 2049: Network partitions]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust Incentives Group]]></title>
+        <id>https://ethereum.github.io/rig/</id>
+        <link href="https://ethereum.github.io/rig/"/>
+        <updated>2022-08-21T04:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Robust Incentives Group]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://0xmonaco.ctf.paradigm.xyz/"/>
         <updated>2022-08-20T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[0xMonaco]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIP-121: Proposal for the future of the Tribe DAO]]></title>
-        <id>https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34</id>
-        <link href="https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34"/>
-        <updated>2022-08-20T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[TIP-121: Proposal for the future of the Tribe DAO]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

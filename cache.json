@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://page1.substack.com/p/round-tripping-40b",
+          "author": null,
+          "description": "Round Tripping",
+          "link": "https://page1.substack.com/p/round-tripping-40b",
+          "publishedOn": "2022-08-21T18:00:04.000Z",
+          "wordCount": 4024,
+          "title": "Round Tripping",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaiX2dcWIAE2CQF.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JRd_wNHJG4o&feature=youtu.be",
+          "author": null,
+          "description": "The Future of Bitcoin Mining and the Environment",
+          "link": "https://www.youtube.com/watch?v=JRd_wNHJG4o&feature=youtu.be",
+          "publishedOn": "2022-08-21T17:30:04.000Z",
+          "wordCount": null,
+          "title": "The Future of Bitcoin Mining and the Environment",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/commodities/trading-commodity-supercycle-intermission",
           "author": null,
           "description": "Trading The Commodity Supercycle Intermission | ZeroHedge",
@@ -46,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://desktop.feltzine.art/",
+          "author": null,
+          "description": "Desktop by Felt Zine",
+          "link": "https://desktop.feltzine.art/",
+          "publishedOn": "2022-08-21T15:30:03.000Z",
+          "wordCount": 140,
+          "title": "Desktop by Felt Zine",
+          "imageUrl": "https://desktop.feltzine.art/images/desktop-preview.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/energy/french-foreign-legion-secure-south-yemen-gas-exports-report",
           "author": null,
           "description": "French Foreign Legion To Secure South Yemen Gas Exports: Report | ZeroHedge",
@@ -53,26 +83,6 @@
           "publishedOn": "2022-08-21T15:00:03.000Z",
           "wordCount": 954,
           "title": "French Foreign Legion To Secure South Yemen Gas Exports: Report | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/worlds-second-largest-cinema-chain-preparing-bankruptcy",
-          "author": null,
-          "description": "The World's Second Largest Cinema Chain Is Preparing For Bankruptcy | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/worlds-second-largest-cinema-chain-preparing-bankruptcy",
-          "publishedOn": "2022-08-21T15:00:03.000Z",
-          "wordCount": 710,
-          "title": "The World's Second Largest Cinema Chain Is Preparing For Bankruptcy | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YjHVNstGLIQ&feature=youtu.be",
-          "author": null,
-          "description": "Hal Finney at Crypto98",
-          "link": "https://www.youtube.com/watch?v=YjHVNstGLIQ&feature=youtu.be",
-          "publishedOn": "2022-08-21T15:00:03.000Z",
-          "wordCount": null,
-          "title": "Hal Finney at Crypto98",
           "imageUrl": null
         },
         {
@@ -126,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://feed.rekt.news/",
-          "author": null,
-          "description": "Rekt Feed",
-          "link": "https://feed.rekt.news/",
-          "publishedOn": "2022-08-21T11:00:03.000Z",
-          "wordCount": 51,
-          "title": "Rekt Feed",
-          "imageUrl": null
-        },
-        {
           "id": "https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html",
           "author": null,
           "description": "Beacon Runner 2049: Network partitions",
@@ -143,6 +143,16 @@
           "publishedOn": "2022-08-21T04:00:14.000Z",
           "wordCount": 6036,
           "title": "Beacon Runner 2049: Network partitions",
+          "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
+        },
+        {
+          "id": "https://ethereum.github.io/rig/",
+          "author": null,
+          "description": "Robust Incentives Group",
+          "link": "https://ethereum.github.io/rig/",
+          "publishedOn": "2022-08-21T04:00:14.000Z",
+          "wordCount": 700,
+          "title": "Robust Incentives Group",
           "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
         },
         {
@@ -174,16 +184,6 @@
           "wordCount": 56,
           "title": "0xMonaco",
           "imageUrl": null
-        },
-        {
-          "id": "https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34",
-          "author": null,
-          "description": "TIP-121: Proposal for the future of the Tribe DAO",
-          "link": "https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34",
-          "publishedOn": "2022-08-20T21:00:03.000Z",
-          "wordCount": 2165,
-          "title": "TIP-121: Proposal for the future of the Tribe DAO",
-          "imageUrl": "https://aws1.discourse-cdn.com/business5/uploads/fei/original/1X/2fbaa803bbd14a68ce8389b2ca149ae45dfb59fa.png"
         },
         {
           "id": "https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/",
