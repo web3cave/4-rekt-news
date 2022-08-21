@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://files.howtolivewiki.com/through_the_looking_glass_2010/Ireland%205.pdf",
+          "author": null,
+          "description": "[PDF] Ireland 5.pdf",
+          "link": "http://files.howtolivewiki.com/through_the_looking_glass_2010/Ireland%205.pdf",
+          "publishedOn": "2022-08-21T20:00:05.000Z",
+          "wordCount": 46986,
+          "title": "[PDF] Ireland 5.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "http://vinay.howtolivewiki.com/blog/other/introducing-aiac-a-new-word-for-western-civilization-1832",
+          "author": null,
+          "description": "Introducing aiac – a new word for Western Civilization | The Bucky-Gandhi Design Institution",
+          "link": "http://vinay.howtolivewiki.com/blog/other/introducing-aiac-a-new-word-for-western-civilization-1832",
+          "publishedOn": "2022-08-21T20:00:05.000Z",
+          "wordCount": 1333,
+          "title": "Introducing aiac – a new word for Western Civilization | The Bucky-Gandhi Design Institution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34",
+          "author": null,
+          "description": "TIP-121: Proposal for the future of the Tribe DAO",
+          "link": "https://tribe.fei.money/t/tip-121-proposal-for-the-future-of-the-tribe-dao/4475/34",
+          "publishedOn": "2022-08-21T19:30:04.000Z",
+          "wordCount": 2165,
+          "title": "TIP-121: Proposal for the future of the Tribe DAO",
+          "imageUrl": "https://aws1.discourse-cdn.com/business5/uploads/fei/original/1X/2fbaa803bbd14a68ce8389b2ca149ae45dfb59fa.png"
+        },
+        {
+          "id": "https://nft.wedoalittle.com/",
+          "author": null,
+          "description": "SEASON 0",
+          "link": "https://nft.wedoalittle.com/",
+          "publishedOn": "2022-08-21T19:30:04.000Z",
+          "wordCount": 20,
+          "title": "SEASON 0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/us-oil-and-gas-firms-made-74-billion-profits-last-year",
           "author": null,
           "description": "U.S. Oil And Gas Firms Made $74 Billion In Profits Last Year | ZeroHedge",
@@ -13,16 +53,6 @@
           "publishedOn": "2022-08-21T19:00:03.000Z",
           "wordCount": 863,
           "title": "U.S. Oil And Gas Firms Made $74 Billion In Profits Last Year | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/chinese-city-testing-fish-covid",
-          "author": null,
-          "description": "Chinese City Testing Fish For COVID | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/chinese-city-testing-fish-covid",
-          "publishedOn": "2022-08-21T19:00:03.000Z",
-          "wordCount": 705,
-          "title": "Chinese City Testing Fish For COVID | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -76,22 +106,12 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/Hdv_suXSlz8ly0ghWiXOO.png?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://subconscious.substack.com/p/soulbinding-like-a-state",
-          "author": null,
-          "description": "Soulbinding Like a State",
-          "link": "https://subconscious.substack.com/p/soulbinding-like-a-state",
-          "publishedOn": "2022-08-21T19:00:02.000Z",
-          "wordCount": 6380,
-          "title": "Soulbinding Like a State",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
-        },
-        {
           "id": "https://page1.substack.com/p/round-tripping-40b",
           "author": null,
           "description": "Round Tripping",
           "link": "https://page1.substack.com/p/round-tripping-40b",
           "publishedOn": "2022-08-21T18:00:04.000Z",
-          "wordCount": 4024,
+          "wordCount": 4023,
           "title": "Round Tripping",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaiX2dcWIAE2CQF.jpg"
         },
@@ -121,7 +141,7 @@
           "description": "Proposal: Use osmosis-labs/cosmos-sdk as default import · Issue #941 · CosmWasm/wasmd",
           "link": "https://github.com/CosmWasm/wasmd/issues/941",
           "publishedOn": "2022-08-21T14:00:04.000Z",
-          "wordCount": 8792,
+          "wordCount": 8812,
           "title": "Proposal: Use osmosis-labs/cosmos-sdk as default import · Issue #941 · CosmWasm/wasmd",
           "imageUrl": "https://opengraph.githubassets.com/197a702468976627cf949654c284b9db9cca58cf2e8601e9e5fd66f4dc0ac9de/CosmWasm/wasmd/issues/941"
         },
@@ -156,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html",
-          "author": null,
-          "description": "Beacon Runner 2049: Network partitions",
-          "link": "https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html",
-          "publishedOn": "2022-08-21T04:00:14.000Z",
-          "wordCount": 6036,
-          "title": "Beacon Runner 2049: Network partitions",
-          "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
-        },
-        {
           "id": "https://hackmd.io/@t11s/monaco-elo",
           "author": null,
           "description": "0xMonaco \"Elo → Score\" Logic - HackMD",
@@ -194,16 +204,6 @@
           "wordCount": 56,
           "title": "0xMonaco",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/",
-          "author": null,
-          "description": "OFAC Sanctions & Ethereum PoS - Some Technical Nuances | BitMEX Blog",
-          "link": "https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/",
-          "publishedOn": "2022-08-20T15:00:03.000Z",
-          "wordCount": 9175,
-          "title": "OFAC Sanctions & Ethereum PoS - Some Technical Nuances | BitMEX Blog",
-          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/08/Ethereum_v2_s-1024x576.jpeg"
         }
       ]
     }
