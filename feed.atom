@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T09:20:26.992Z</id>
+    <id>urn:2022-08-21T10:23:17.781Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-21T09:20:26.992Z</updated>
+    <updated>2022-08-21T10:23:17.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks]]></title>
+        <id>https://github.com/rauljordan/graffiti-fetcher</id>
+        <link href="https://github.com/rauljordan/graffiti-fetcher"/>
+        <updated>2022-08-21T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eth2-validator-censoring.ipynb]]></title>
+        <id>https://gist.github.com/banteg/b74c572eb4a5e1a0400ec5d511e385d3</id>
+        <link href="https://gist.github.com/banteg/b74c572eb4a5e1a0400ec5d511e385d3"/>
+        <updated>2022-08-21T09:30:04.000Z</updated>
+        <summary type="html"><![CDATA[eth2-validator-censoring.ipynb]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIP-6: Frontrunning protection]]></title>
         <id>https://sips.synthetix.io/sips/sip-6/</id>
@@ -26,31 +46,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks]]></title>
-        <id>https://github.com/rauljordan/graffiti-fetcher</id>
-        <link href="https://github.com/rauljordan/graffiti-fetcher"/>
-        <updated>2022-08-21T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saved [prod. by Mic Lee]]]></title>
         <id>https://soundcloud.com/trinohbi/saved-prod-by-mic-lee</id>
         <link href="https://soundcloud.com/trinohbi/saved-prod-by-mic-lee"/>
         <updated>2022-08-21T07:00:03.000Z</updated>
         <summary type="html"><![CDATA[Saved [prod. by Mic Lee]]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beacon Runner 2049: Network partitions]]></title>
-        <id>https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html</id>
-        <link href="https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html"/>
-        <updated>2022-08-21T04:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Beacon Runner 2049: Network partitions]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

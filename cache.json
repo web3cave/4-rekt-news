@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/rauljordan/graffiti-fetcher",
+          "author": null,
+          "description": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
+          "link": "https://github.com/rauljordan/graffiti-fetcher",
+          "publishedOn": "2022-08-21T10:00:09.000Z",
+          "wordCount": 590,
+          "title": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
+          "imageUrl": "https://opengraph.githubassets.com/7e9cea1e06ff9c8f4cc9c37d73d1339fe4b9900d94049c822bfca12a3945d7c1/rauljordan/graffiti-fetcher"
+        },
+        {
+          "id": "https://gist.github.com/banteg/b74c572eb4a5e1a0400ec5d511e385d3",
+          "author": null,
+          "description": "eth2-validator-censoring.ipynb",
+          "link": "https://gist.github.com/banteg/b74c572eb4a5e1a0400ec5d511e385d3",
+          "publishedOn": "2022-08-21T09:30:04.000Z",
+          "wordCount": 184,
+          "title": "eth2-validator-censoring.ipynb",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
           "id": "https://sips.synthetix.io/sips/sip-6/",
           "author": null,
           "description": "SIP-6: Frontrunning protection",
@@ -26,34 +46,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/rauljordan/graffiti-fetcher",
-          "author": null,
-          "description": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
-          "link": "https://github.com/rauljordan/graffiti-fetcher",
-          "publishedOn": "2022-08-21T07:00:03.000Z",
-          "wordCount": 579,
-          "title": "GitHub - rauljordan/graffiti-fetcher: Tool for fetching graffiti in Ethereum proof-of-stake blocks",
-          "imageUrl": "https://opengraph.githubassets.com/7e9cea1e06ff9c8f4cc9c37d73d1339fe4b9900d94049c822bfca12a3945d7c1/rauljordan/graffiti-fetcher"
-        },
-        {
           "id": "https://soundcloud.com/trinohbi/saved-prod-by-mic-lee",
           "author": null,
           "description": "Saved [prod. by Mic Lee]",
           "link": "https://soundcloud.com/trinohbi/saved-prod-by-mic-lee",
           "publishedOn": "2022-08-21T07:00:03.000Z",
-          "wordCount": 1002,
+          "wordCount": 1003,
           "title": "Saved [prod. by Mic Lee]",
           "imageUrl": "https://i1.sndcdn.com/artworks-000164088877-vrvlw2-t500x500.jpg"
-        },
-        {
-          "id": "https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html",
-          "author": null,
-          "description": "Beacon Runner 2049: Network partitions",
-          "link": "https://ethereum.github.io/beaconrunner/notebooks/beaconrunner2049/br2049.html",
-          "publishedOn": "2022-08-21T04:00:14.000Z",
-          "wordCount": 6036,
-          "title": "Beacon Runner 2049: Network partitions",
-          "imageUrl": "https://ethereum.github.io/rig/static/rig.png"
         },
         {
           "id": "https://hackmd.io/@t11s/monaco-elo",
