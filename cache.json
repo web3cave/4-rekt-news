@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/markets/2022/08/22/bitcoins-10-weekly-drop-puts-bears-in-control-ahead-of-jackson-hole-symposium/",
+          "author": null,
+          "description": "Bitcoin's 10% Weekly Drop Puts Bears in Control Ahead of Jackson Hole Symposium",
+          "link": "https://www.coindesk.com/markets/2022/08/22/bitcoins-10-weekly-drop-puts-bears-in-control-ahead-of-jackson-hole-symposium/",
+          "publishedOn": "2022-08-22T14:00:05.000Z",
+          "wordCount": 8051,
+          "title": "Bitcoin's 10% Weekly Drop Puts Bears in Control Ahead of Jackson Hole Symposium",
+          "imageUrl": "https://www.coindesk.com/resizer/q9gNaWDAo9u93KAVEUJJTJL4fB0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EQMRW3YRDRAU3GASIBRAP3KZ3M.png"
+        },
+        {
+          "id": "https://sea-nn.vercel.app/",
+          "author": null,
+          "description": "Sea-NN: Fully On-chain Convolutional Neural Network",
+          "link": "https://sea-nn.vercel.app/",
+          "publishedOn": "2022-08-22T14:00:05.000Z",
+          "wordCount": 14,
+          "title": "Sea-NN: Fully On-chain Convolutional Neural Network",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.lopp.net/bitcoins-security-model-a-deep-dive/",
+          "author": null,
+          "description": "Bitcoin’s Security Model: A Deep Dive",
+          "link": "https://blog.lopp.net/bitcoins-security-model-a-deep-dive/",
+          "publishedOn": "2022-08-22T14:00:05.000Z",
+          "wordCount": 4171,
+          "title": "Bitcoin’s Security Model: A Deep Dive",
+          "imageUrl": "https://blog.lopp.net/content/images/2020/04/Screenshot-from-2020-04-05-09-53-34.png"
+        },
+        {
           "id": "https://research.paradigm.xyz/staking",
           "author": null,
           "description": "On Staking Pools and Staking Derivatives",
@@ -41,7 +71,7 @@
           "description": "Release Promavess (v1.10.22) · ethereum/go-ethereum",
           "link": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.22",
           "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 702,
+          "wordCount": 704,
           "title": "Release Promavess (v1.10.22) · ethereum/go-ethereum",
           "imageUrl": "https://opengraph.githubassets.com/9936675900d3be2ee5ab2d1cf8c9de35c514239f0b69feda53af57bb5b594c53/ethereum/go-ethereum/releases/tag/v1.10.22"
         },
@@ -61,7 +91,7 @@
           "description": "UK inflation to hit 18.6% next year according to Citi",
           "link": "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567",
           "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 2207,
+          "wordCount": 2166,
           "title": "UK inflation to hit 18.6% next year according to Citi",
           "imageUrl": null
         },
@@ -126,16 +156,6 @@
           "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/GettyImages-1340281929.jpg?ve=1&tl=1"
         },
         {
-          "id": "https://github.com/berthubert/googerteller",
-          "author": null,
-          "description": "GitHub - berthubert/googerteller: audible feedback on just how much your browsing feeds into google",
-          "link": "https://github.com/berthubert/googerteller",
-          "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": 614,
-          "title": "GitHub - berthubert/googerteller: audible feedback on just how much your browsing feeds into google",
-          "imageUrl": "https://opengraph.githubassets.com/f0fac201683ab656ef3b22b57766b8e3e0953bdd5d15a4af404efd1bab586929/berthubert/googerteller"
-        },
-        {
           "id": "https://www.zerohedge.com/technology/digital-clones-deceased-loved-ones-chat-mourners-own-funerals",
           "author": null,
           "description": "Digital Clones Of Deceased Loved Ones Chat With Mourners At Own Funerals | ZeroHedge",
@@ -174,26 +194,6 @@
           "wordCount": null,
           "title": "Pop Wonder talks about his artistic style | We Do A Little Clips",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/CosmWasm/wasmd/issues/941",
-          "author": null,
-          "description": "Proposal: Use osmosis-labs/cosmos-sdk as default import · Issue #941 · CosmWasm/wasmd",
-          "link": "https://github.com/CosmWasm/wasmd/issues/941",
-          "publishedOn": "2022-08-21T14:00:04.000Z",
-          "wordCount": 9301,
-          "title": "Proposal: Use osmosis-labs/cosmos-sdk as default import · Issue #941 · CosmWasm/wasmd",
-          "imageUrl": "https://opengraph.githubassets.com/818a5b8f26f48cf42ef454c89f10abdae0cdb22232090e229c7cdc794e186826/CosmWasm/wasmd/issues/941"
-        },
-        {
-          "id": "https://medium.com/collab-currency/crypto-gaming-a-most-practical-thesis-ec4f55f53408",
-          "author": null,
-          "description": "Crypto Gaming: A Most Practical Thesis",
-          "link": "https://medium.com/collab-currency/crypto-gaming-a-most-practical-thesis-ec4f55f53408",
-          "publishedOn": "2022-08-21T13:30:08.000Z",
-          "wordCount": 12286,
-          "title": "Crypto Gaming: A Most Practical Thesis",
-          "imageUrl": "https://miro.medium.com/max/1200/1*TJSfTdS5feDolWlpZqAHNg.jpeg"
         },
         {
           "id": "https://0xmonaco.ctf.paradigm.xyz/howtoplay",
