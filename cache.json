@@ -6,12 +6,52 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.bitmex.com/eth-flexive/",
+          "author": null,
+          "description": "ETH-flexive | BitMEX Blog",
+          "link": "https://blog.bitmex.com/eth-flexive/",
+          "publishedOn": "2022-08-22T07:00:03.000Z",
+          "wordCount": 9360,
+          "title": "ETH-flexive | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/08/CTD-ETH-flexive-1-v1.jpg"
+        },
+        {
+          "id": "https://github.com/FrankieIsLost/gradual-dutch-auction",
+          "author": null,
+          "description": "GitHub - FrankieIsLost/gradual-dutch-auction: An reference implementation of Gradual Dutch Auctions. GDAs enable the...",
+          "link": "https://github.com/FrankieIsLost/gradual-dutch-auction",
+          "publishedOn": "2022-08-22T07:00:03.000Z",
+          "wordCount": 703,
+          "title": "GitHub - FrankieIsLost/gradual-dutch-auction: An reference implementation of Gradual Dutch Auctions. GDAs enable the...",
+          "imageUrl": "https://opengraph.githubassets.com/48f1226113ef59a6637c0ac29ab07e7f56a1bdfc59fd67269a570a816610e328/FrankieIsLost/gradual-dutch-auction"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7O5mAmGKcjU",
+          "author": null,
+          "description": "The Humours of Whiskey (Full Version) - Colm R. McGuinness",
+          "link": "https://www.youtube.com/watch?v=7O5mAmGKcjU",
+          "publishedOn": "2022-08-22T07:00:03.000Z",
+          "wordCount": null,
+          "title": "The Humours of Whiskey (Full Version) - Colm R. McGuinness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coingecko.com/en/categories/decentralized-finance-defi",
+          "author": null,
+          "description": "Top DeFi Coins by Market Cap | CoinGecko",
+          "link": "https://www.coingecko.com/en/categories/decentralized-finance-defi",
+          "publishedOn": "2022-08-22T07:00:03.000Z",
+          "wordCount": 5233,
+          "title": "Top DeFi Coins by Market Cap | CoinGecko",
+          "imageUrl": "https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png"
+        },
+        {
           "id": "https://polygonscan.com/address/0x3cdee4b81aea736c3e9e31f7fc18dffcf864e329#code",
           "author": null,
           "description": "Contract Address 0x3cdee4b81aea736c3e9e31f7fc18dffcf864e329 | PolygonScan",
           "link": "https://polygonscan.com/address/0x3cdee4b81aea736c3e9e31f7fc18dffcf864e329#code",
           "publishedOn": "2022-08-22T06:00:04.000Z",
-          "wordCount": 3039,
+          "wordCount": 3067,
           "title": "Contract Address 0x3cdee4b81aea736c3e9e31f7fc18dffcf864e329 | PolygonScan",
           "imageUrl": "https://polygonscan.com/images/brandassets/PolygonScan-logo-circle.jpg"
         },
@@ -24,16 +64,6 @@
           "wordCount": 708,
           "title": "Apply the msgSender trick · Issue #132 · solidstate-network/solidstate-solidity",
           "imageUrl": "https://opengraph.githubassets.com/882b7658baaa53601df92b282db9f75d4d14c1ec745ad734cd4acb2f56d01753/solidstate-network/solidstate-solidity/issues/132"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/facebook-fact-check-censors-factual-claim-irs-arming-agents-use-deadly-force",
-          "author": null,
-          "description": "Facebook Fact-Check Censors Factual Claim IRS Is Arming Agents To Use Deadly Force | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/facebook-fact-check-censors-factual-claim-irs-arming-agents-use-deadly-force",
-          "publishedOn": "2022-08-22T03:00:03.000Z",
-          "wordCount": 1300,
-          "title": "Facebook Fact-Check Censors Factual Claim IRS Is Arming Agents To Use Deadly Force | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.change.org/p/open-source-development-is-in-danger-take-action-before-it-s-too-late-opensourcenotacrime-privacynotacrime-freealex-freepertsev-freealekseypertsev?recruiter=false&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=petition_dashboard&recruited_by_id=9309d090-1e59-11ed-8a28-6f6d0c34746d&share_bandit_exp=initial-34212517-en-US",
@@ -51,19 +81,9 @@
           "description": "Let Alex Pertsev be free",
           "link": "https://setalexfree.nl/",
           "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 3677,
           "title": "Let Alex Pertsev be free",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eternalrose.notsofast.com/",
-          "author": null,
-          "description": "Eternal Rose",
-          "link": "https://eternalrose.notsofast.com/",
-          "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": 10,
-          "title": "Eternal Rose",
-          "imageUrl": null
+          "imageUrl": "https://static.tildacdn.com/tild3435-6461-4137-b866-363466633332/free_alex_ava.png"
         },
         {
           "id": "https://github.com/berthubert/googerteller",
@@ -71,29 +91,9 @@
           "description": "GitHub - berthubert/googerteller: audible feedback on just how much your browsing feeds into google",
           "link": "https://github.com/berthubert/googerteller",
           "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": 579,
+          "wordCount": 532,
           "title": "GitHub - berthubert/googerteller: audible feedback on just how much your browsing feeds into google",
-          "imageUrl": "https://opengraph.githubassets.com/7e297a8f751a7fd398d2c3be6b0f3228e6cb7fe1b19848936023ef15b3b28161/berthubert/googerteller"
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/what-would-crypto-crash-mean-markets-and-economy",
-          "author": null,
-          "description": "What Would A Crypto Crash Mean For Markets And The Economy | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/what-would-crypto-crash-mean-markets-and-economy",
-          "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": 8090,
-          "title": "What Would A Crypto Crash Mean For Markets And The Economy | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/energy/how-water-powers-world",
-          "author": null,
-          "description": "How Water Powers The World | ZeroHedge",
-          "link": "https://www.zerohedge.com/energy/how-water-powers-world",
-          "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": 818,
-          "title": "How Water Powers The World | ZeroHedge",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/70eb04e9d62c7021dc2cb8584755d9611b5e2c55954975a24b16ef9aee73364e/berthubert/googerteller"
         },
         {
           "id": "https://www.zerohedge.com/technology/digital-clones-deceased-loved-ones-chat-mourners-own-funerals",
