@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GegHMF8pefc&feature=youtu.be",
+          "author": null,
+          "description": "Merge client releases, Censorship-resistance & more - The Daily Gwei Refuel #432 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=GegHMF8pefc&feature=youtu.be",
+          "publishedOn": "2022-08-22T16:00:04.000Z",
+          "wordCount": null,
+          "title": "Merge client releases, Censorship-resistance & more - The Daily Gwei Refuel #432 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tokenbrice.xyz/aave-gho-stablecoin/",
+          "author": null,
+          "description": "Can Aave's GHO stablecoin help the protocol further grow and overtake MakerDAO and DAI?",
+          "link": "https://tokenbrice.xyz/aave-gho-stablecoin/",
+          "publishedOn": "2022-08-22T15:30:04.000Z",
+          "wordCount": 2369,
+          "title": "Can Aave's GHO stablecoin help the protocol further grow and overtake MakerDAO and DAI?",
+          "imageUrl": "https://tokenbrice.xyz/img/2022/aave-gho-stablecoin/aave-gho-stablecoin-cover.png"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/08/22/seven-s-korean-brokerages-plan-to-start-crypto-exchanges-next-year-report/",
           "author": null,
           "description": "Seven S. Korean Brokerages Plan to Start Crypto Exchanges Next Year: Report",
           "link": "https://www.coindesk.com/business/2022/08/22/seven-s-korean-brokerages-plan-to-start-crypto-exchanges-next-year-report/",
           "publishedOn": "2022-08-22T15:00:02.000Z",
-          "wordCount": 7352,
+          "wordCount": 7323,
           "title": "Seven S. Korean Brokerages Plan to Start Crypto Exchanges Next Year: Report",
           "imageUrl": "https://www.coindesk.com/resizer/GM1h6PVwLl_1kWGi1FRBRqfc4Nc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KM233GKIFRHSDDCSLTLJO5SOB4.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "South Korea Plans to Tax Crypto Airdrop Recipients: Report",
           "link": "https://www.coindesk.com/policy/2022/08/22/south-korea-plans-to-tax-crypto-airdrop-recipients-report/",
           "publishedOn": "2022-08-22T15:00:02.000Z",
-          "wordCount": 7569,
+          "wordCount": 7548,
           "title": "South Korea Plans to Tax Crypto Airdrop Recipients: Report",
           "imageUrl": "https://www.coindesk.com/resizer/6XezSwd_Y-4jb0knLquH0UuwdWI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BRAUYL3RDBCZLC2ORSN3NJXRBU.jpg"
         },
@@ -46,16 +66,6 @@
           "imageUrl": "https://research.paradigm.xyz/assets/staking.png"
         },
         {
-          "id": "https://github.com/rarible/nft-license",
-          "author": null,
-          "description": "GitHub - rarible/nft-license",
-          "link": "https://github.com/rarible/nft-license",
-          "publishedOn": "2022-08-22T13:00:03.000Z",
-          "wordCount": 1670,
-          "title": "GitHub - rarible/nft-license",
-          "imageUrl": "https://opengraph.githubassets.com/462918669fd6f3b4373f08304b59615d102960b88325850dd35a3b74703c009c/rarible/nft-license"
-        },
-        {
           "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.22",
           "author": null,
           "description": "Release Promavess (v1.10.22) · ethereum/go-ethereum",
@@ -66,24 +76,24 @@
           "imageUrl": "https://opengraph.githubassets.com/9936675900d3be2ee5ab2d1cf8c9de35c514239f0b69feda53af57bb5b594c53/ethereum/go-ethereum/releases/tag/v1.10.22"
         },
         {
-          "id": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
-          "author": null,
-          "description": "MEV capturing AMM (McAMM)",
-          "link": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
-          "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 2880,
-          "title": "MEV capturing AMM (McAMM)",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
-        },
-        {
           "id": "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567",
           "author": null,
           "description": "UK inflation to hit 18.6% next year according to Citi",
           "link": "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567",
           "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 2207,
+          "wordCount": 2204,
           "title": "UK inflation to hit 18.6% next year according to Citi",
           "imageUrl": null
+        },
+        {
+          "id": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
+          "author": null,
+          "description": "MEV capturing AMM (McAMM)",
+          "link": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
+          "publishedOn": "2022-08-22T13:00:02.000Z",
+          "wordCount": 3034,
+          "title": "MEV capturing AMM (McAMM)",
+          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         },
         {
           "id": "https://docs.teku.consensys.net/en/22.8.1/HowTo/Prepare-for-The-Merge/",
@@ -111,7 +121,7 @@
           "description": "Release Rick Prime · sigp/lighthouse",
           "link": "https://github.com/sigp/lighthouse/releases/tag/v3.0.0",
           "publishedOn": "2022-08-22T11:00:03.000Z",
-          "wordCount": 1374,
+          "wordCount": 1382,
           "title": "Release Rick Prime · sigp/lighthouse",
           "imageUrl": "https://opengraph.githubassets.com/83c9c3fd3034e3d0ce1adc9e9aff66ad2fceed8a3a37fcaeeda5b4f9146c939d/sigp/lighthouse/releases/tag/v3.0.0"
         },
@@ -131,9 +141,9 @@
           "description": "Let Alex Pertsev be free",
           "link": "https://setalexfree.nl/",
           "publishedOn": "2022-08-22T03:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 3805,
           "title": "Let Alex Pertsev be free",
-          "imageUrl": null
+          "imageUrl": "https://static.tildacdn.com/tild3435-6461-4137-b866-363466633332/free_alex_ava.png"
         },
         {
           "id": "https://www.foxbusiness.com/features/gary-gensler-gross-sec-overreach",
@@ -153,7 +163,7 @@
           "publishedOn": "2022-08-22T03:00:02.000Z",
           "wordCount": 614,
           "title": "GitHub - berthubert/googerteller: audible feedback on just how much your browsing feeds into google",
-          "imageUrl": "https://opengraph.githubassets.com/790ab2f0d2603873963a4a5ab34fa576241c99da1a47b3c4a8753dab60acf4fa/berthubert/googerteller"
+          "imageUrl": "https://opengraph.githubassets.com/76f9899edca94dfb4d87753005e9d6e5a0e0ff82d8bf5171275e37240d8859b2/berthubert/googerteller"
         },
         {
           "id": "https://www.zerohedge.com/technology/digital-clones-deceased-loved-ones-chat-mourners-own-funerals",
@@ -184,16 +194,6 @@
           "wordCount": 2040,
           "title": "Bored Apes Face Liquidation on BendDAO Amid NFT Bear Market - The Defiant",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19215141/NFTLendersLiquidated.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2NoTreNT_Vs",
-          "author": null,
-          "description": "Pop Wonder talks about his artistic style | We Do A Little Clips",
-          "link": "https://www.youtube.com/watch?v=2NoTreNT_Vs",
-          "publishedOn": "2022-08-21T19:00:02.000Z",
-          "wordCount": null,
-          "title": "Pop Wonder talks about his artistic style | We Do A Little Clips",
-          "imageUrl": null
         },
         {
           "id": "https://0xmonaco.ctf.paradigm.xyz/howtoplay",
