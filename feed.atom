@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-22T07:19:50.971Z</id>
+    <id>urn:2022-08-22T08:29:17.315Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-22T07:19:50.971Z</updated>
+    <updated>2022-08-22T08:29:17.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Add _msgSender() trick by danfinlay · Pull Request #133 · solidstate-network/solidstate-solidity]]></title>
+        <id>https://github.com/solidstate-network/solidstate-solidity/pull/133</id>
+        <link href="https://github.com/solidstate-network/solidstate-solidity/pull/133"/>
+        <updated>2022-08-22T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Add _msgSender() trick by danfinlay · Pull Request #133 · solidstate-network/solidstate-solidity]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH-flexive | BitMEX Blog]]></title>
         <id>https://blog.bitmex.com/eth-flexive/</id>
@@ -151,16 +161,6 @@
         <link href="https://www.youtube.com/watch?v=JRd_wNHJG4o&amp;feature=youtu.be"/>
         <updated>2022-08-21T17:30:04.000Z</updated>
         <summary type="html"><![CDATA[The Future of Bitcoin Mining and the Environment]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80 Character Line]]></title>
-        <id>https://thejenkinscomic.wordpress.com/2021/02/07/80-character-line/</id>
-        <link href="https://thejenkinscomic.wordpress.com/2021/02/07/80-character-line/"/>
-        <updated>2022-08-21T14:30:03.000Z</updated>
-        <summary type="html"><![CDATA[80 Character Line]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
