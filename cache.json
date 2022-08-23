@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0HJdCRddnr0&feature=youtu.be",
+          "author": null,
+          "description": "ETH flywheel effect, Case for social slashing - The Daily Gwei Refuel #433 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=0HJdCRddnr0&feature=youtu.be",
+          "publishedOn": "2022-08-23T21:30:07.000Z",
+          "wordCount": null,
+          "title": "ETH flywheel effect, Case for social slashing - The Daily Gwei Refuel #433 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://lens.xyz/",
           "author": null,
           "description": "Lens Protocol",
@@ -126,22 +136,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=_vc0lSFpfrU&ab_channel=Nansen",
-          "author": null,
-          "description": "400 ETH (!) Pudgy Penguin - NFT Rarity and Price Estimates w/ Nansen",
-          "link": "https://www.youtube.com/watch?v=_vc0lSFpfrU&ab_channel=Nansen",
-          "publishedOn": "2022-08-23T11:00:03.000Z",
-          "wordCount": null,
-          "title": "400 ETH (!) Pudgy Penguin - NFT Rarity and Price Estimates w/ Nansen",
-          "imageUrl": null
-        },
-        {
           "id": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
           "author": null,
           "description": "MEV capturing AMM (McAMM)",
           "link": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
           "publishedOn": "2022-08-23T10:30:05.000Z",
-          "wordCount": 3271,
+          "wordCount": 3501,
           "title": "MEV capturing AMM (McAMM)",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         },
@@ -191,7 +191,7 @@
           "description": "Code, Speech, and the Tornado Cash Mixer",
           "link": "https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer",
           "publishedOn": "2022-08-22T23:00:02.000Z",
-          "wordCount": 3151,
+          "wordCount": 3139,
           "title": "Code, Speech, and the Tornado Cash Mixer",
           "imageUrl": "https://www.eff.org/files/banner_library/code-is-speech.png"
         },
