@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nameless.io/",
+          "author": null,
+          "description": "QA your NFT project within a secure, cloud-based private testing environment.",
+          "link": "https://www.nameless.io/",
+          "publishedOn": "2022-08-23T17:00:04.000Z",
+          "wordCount": 1090,
+          "title": "QA your NFT project within a secure, cloud-based private testing environment.",
+          "imageUrl": "ogImage.png"
+        },
+        {
           "id": "https://boards.greenhouse.io/solanafoundation/jobs/4626330004",
           "author": null,
           "description": "Head of Marketing",
@@ -51,7 +61,7 @@
           "description": "Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies",
           "link": "https://edition.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html",
           "publishedOn": "2022-08-23T14:00:04.000Z",
-          "wordCount": 39837,
+          "wordCount": 39929,
           "title": "Ex-Twitter exec blows the whistle, alleging reckless and negligent cybersecurity policies",
           "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220822190437-02-peiter-zatko-portrait-super-tease.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
           "link": "https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/",
           "publishedOn": "2022-08-23T12:30:03.000Z",
-          "wordCount": 3875,
+          "wordCount": 3864,
           "title": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Christine-Lagarde-IMF.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "Code, Speech, and the Tornado Cash Mixer",
           "link": "https://www.eff.org/deeplinks/2022/08/code-speech-and-tornado-cash-mixer",
           "publishedOn": "2022-08-22T23:00:02.000Z",
-          "wordCount": 3151,
+          "wordCount": 3147,
           "title": "Code, Speech, and the Tornado Cash Mixer",
           "imageUrl": "https://www.eff.org/files/banner_library/code-is-speech.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 2208,
           "title": "UK inflation to hit 18.6% next year according to Citi",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ConsenSys/teku/releases/tag/22.8.1",
-          "author": null,
-          "description": "Release 22.8.1 · ConsenSys/teku",
-          "link": "https://github.com/ConsenSys/teku/releases/tag/22.8.1",
-          "publishedOn": "2022-08-22T11:30:04.000Z",
-          "wordCount": 773,
-          "title": "Release 22.8.1 · ConsenSys/teku",
-          "imageUrl": "https://opengraph.githubassets.com/a92755e0361f108decd03517aa20e4f8a460accac072a3a6542d2a4e3ea3b827/ConsenSys/teku/releases/tag/22.8.1"
         }
       ]
     }
