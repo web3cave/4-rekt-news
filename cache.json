@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.nil.foundation/2022/05/31/dbms-replication-protocol.html",
+          "author": null,
+          "description": "=nil;'s Trustless Data Management.",
+          "link": "https://blog.nil.foundation/2022/05/31/dbms-replication-protocol.html",
+          "publishedOn": "2022-08-23T12:30:03.000Z",
+          "wordCount": 3110,
+          "title": "=nil;'s Trustless Data Management.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/",
+          "author": null,
+          "description": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
+          "link": "https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/",
+          "publishedOn": "2022-08-23T12:30:03.000Z",
+          "wordCount": 3881,
+          "title": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
+          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Christine-Lagarde-IMF.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_vc0lSFpfrU&ab_channel=Nansen",
           "author": null,
           "description": "400 ETH (!) Pudgy Penguin - NFT Rarity and Price Estimates w/ Nansen",
@@ -86,16 +106,6 @@
           "imageUrl": "https://opengraph.githubassets.com/96499bf136fd0fd31e373113e946a164fc31541a003ba21b7dc28899deed3069/prysmaticlabs/prysm/releases/tag/v3.0.0"
         },
         {
-          "id": "https://github.com/traderjoe-xyz/LB-Whitepaper",
-          "author": null,
-          "description": "GitHub - traderjoe-xyz/LB-Whitepaper",
-          "link": "https://github.com/traderjoe-xyz/LB-Whitepaper",
-          "publishedOn": "2022-08-22T23:00:03.000Z",
-          "wordCount": 410,
-          "title": "GitHub - traderjoe-xyz/LB-Whitepaper",
-          "imageUrl": "https://opengraph.githubassets.com/e2c8bcf6089d9d7bc6b3c1dcf8353e10b7ea8788d1a3aef9e99a2b1e9a4002dd/traderjoe-xyz/LB-Whitepaper"
-        },
-        {
           "id": "https://github.com/tornado-repositories",
           "author": null,
           "description": "tornado-repositories",
@@ -131,7 +141,7 @@
           "description": "Help raise £80000 to Help Mairi Claire's treatment costs",
           "link": "https://www.justgiving.com/crowdfunding/gemma-sayers?utm_id=66&utm_term=W2kyw7gmJ",
           "publishedOn": "2022-08-22T17:30:04.000Z",
-          "wordCount": 3189,
+          "wordCount": 3221,
           "title": "Help raise £80000 to Help Mairi Claire's treatment costs",
           "imageUrl": "https://images.justgiving.com/image/974d7a4b-3be8-4df4-a9bd-6cdb327a3719.jpg"
         },
@@ -181,7 +191,7 @@
           "description": "UK inflation to hit 18.6% next year according to Citi",
           "link": "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567",
           "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 2243,
+          "wordCount": 2201,
           "title": "UK inflation to hit 18.6% next year according to Citi",
           "imageUrl": null
         },
@@ -194,16 +204,6 @@
           "wordCount": 773,
           "title": "Release 22.8.1 · ConsenSys/teku",
           "imageUrl": "https://opengraph.githubassets.com/a92755e0361f108decd03517aa20e4f8a460accac072a3a6542d2a4e3ea3b827/ConsenSys/teku/releases/tag/22.8.1"
-        },
-        {
-          "id": "https://docs.teku.consensys.net/en/22.8.1/HowTo/Prepare-for-The-Merge/",
-          "author": null,
-          "description": "Prepare for The Merge - Teku",
-          "link": "https://docs.teku.consensys.net/en/22.8.1/HowTo/Prepare-for-The-Merge/",
-          "publishedOn": "2022-08-22T11:30:04.000Z",
-          "wordCount": 986,
-          "title": "Prepare for The Merge - Teku",
-          "imageUrl": null
         }
       ]
     }
