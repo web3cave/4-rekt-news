@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T22:21:48.675Z</id>
+    <id>urn:2022-08-23T23:22:40.410Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-23T22:21:48.675Z</updated>
+    <updated>2022-08-23T23:22:40.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://lens.xyz/"/>
         <updated>2022-08-23T19:30:06.000Z</updated>
         <summary type="html"><![CDATA[Lens Protocol]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Run Ethereum]]></title>
+        <id>https://speedrunethereum.com/</id>
+        <link href="https://speedrunethereum.com/"/>
+        <updated>2022-08-23T19:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -138,6 +148,16 @@ CVE-2022-27948]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[400 ETH (!) Pudgy Penguin - NFT Rarity and Price Estimates w/ Nansen]]></title>
+        <id>https://www.youtube.com/watch?v=_vc0lSFpfrU&amp;ab_channel=Nansen</id>
+        <link href="https://www.youtube.com/watch?v=_vc0lSFpfrU&amp;ab_channel=Nansen"/>
+        <updated>2022-08-23T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[400 ETH (!) Pudgy Penguin - NFT Rarity and Price Estimates w/ Nansen]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MEV capturing AMM (McAMM)]]></title>
         <id>https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7</id>
         <link href="https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7"/>
@@ -148,31 +168,11 @@ CVE-2022-27948]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release v1.14.0 · NethermindEth/nethermind]]></title>
-        <id>https://github.com/NethermindEth/nethermind/releases/tag/1.14.0</id>
-        <link href="https://github.com/NethermindEth/nethermind/releases/tag/1.14.0"/>
-        <updated>2022-08-23T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Release v1.14.0 · NethermindEth/nethermind]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Case for Social Slashing]]></title>
         <id>https://ercwl.medium.com/the-case-for-social-slashing-59277ff4d9c7</id>
         <link href="https://ercwl.medium.com/the-case-for-social-slashing-59277ff4d9c7"/>
         <updated>2022-08-22T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Case for Social Slashing]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v3.0.0 · prysmaticlabs/prysm]]></title>
-        <id>https://github.com/prysmaticlabs/prysm/releases/tag/v3.0.0</id>
-        <link href="https://github.com/prysmaticlabs/prysm/releases/tag/v3.0.0"/>
-        <updated>2022-08-22T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Release v3.0.0 · prysmaticlabs/prysm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
