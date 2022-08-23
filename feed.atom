@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T02:23:18.521Z</id>
+    <id>urn:2022-08-23T04:46:05.814Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-23T02:23:18.521Z</updated>
+    <updated>2022-08-23T04:46:05.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MEV capturing AMM (McAMM)]]></title>
+        <id>https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7</id>
+        <link href="https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7"/>
+        <updated>2022-08-23T03:30:04.000Z</updated>
+        <summary type="html"><![CDATA[MEV capturing AMM (McAMM)]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v1.14.0 · NethermindEth/nethermind]]></title>
+        <id>https://github.com/NethermindEth/nethermind/releases/tag/1.14.0</id>
+        <link href="https://github.com/NethermindEth/nethermind/releases/tag/1.14.0"/>
+        <updated>2022-08-23T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Release v1.14.0 · NethermindEth/nethermind]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 22.7.1 - Ready to Merge · hyperledger/besu]]></title>
+        <id>https://github.com/hyperledger/besu/releases/tag/22.7.1</id>
+        <link href="https://github.com/hyperledger/besu/releases/tag/22.7.1"/>
+        <updated>2022-08-23T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Release 22.7.1 - Ready to Merge · hyperledger/besu]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scaling Trust in DAOs: Trustware vs Socialware]]></title>
         <id>https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE</id>
         <link href="https://orca.mirror.xyz/T70CmuhX95ubkw_JHOxSEy8d_EFeYXgtJnF13mPtaZE"/>
         <updated>2022-08-22T23:30:04.000Z</updated>
         <summary type="html"><![CDATA[Scaling Trust in DAOs: Trustware vs Socialware]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v3.0.0 · prysmaticlabs/prysm]]></title>
+        <id>https://github.com/prysmaticlabs/prysm/releases/tag/v3.0.0</id>
+        <link href="https://github.com/prysmaticlabs/prysm/releases/tag/v3.0.0"/>
+        <updated>2022-08-22T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Release v3.0.0 · prysmaticlabs/prysm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -76,26 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Silo Finance App]]></title>
-        <id>https://app.silo.finance/</id>
-        <link href="https://app.silo.finance/"/>
-        <updated>2022-08-22T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Silo Finance App]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silo is live in beta mainnet]]></title>
-        <id>https://medium.com/silo-protocol/silo-is-live-in-beta-mainnet-94b6b0164258</id>
-        <link href="https://medium.com/silo-protocol/silo-is-live-in-beta-mainnet-94b6b0164258"/>
-        <updated>2022-08-22T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Silo is live in beta mainnet]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Gitcoin Hyperstructure 🏢]]></title>
         <id>https://gov.gitcoin.co/t/the-gitcoin-hyperstructure/11335</id>
         <link href="https://gov.gitcoin.co/t/the-gitcoin-hyperstructure/11335"/>
@@ -116,31 +136,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub - rarible/nft-license]]></title>
-        <id>https://github.com/rarible/nft-license</id>
-        <link href="https://github.com/rarible/nft-license"/>
-        <updated>2022-08-22T16:30:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - rarible/nft-license]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can Aave's GHO stablecoin help the protocol further grow and overtake MakerDAO and DAI?]]></title>
         <id>https://tokenbrice.xyz/aave-gho-stablecoin/</id>
         <link href="https://tokenbrice.xyz/aave-gho-stablecoin/"/>
         <updated>2022-08-22T15:30:04.000Z</updated>
         <summary type="html"><![CDATA[Can Aave's GHO stablecoin help the protocol further grow and overtake MakerDAO and DAI?]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven S. Korean Brokerages Plan to Start Crypto Exchanges Next Year: Report]]></title>
-        <id>https://www.coindesk.com/business/2022/08/22/seven-s-korean-brokerages-plan-to-start-crypto-exchanges-next-year-report/</id>
-        <link href="https://www.coindesk.com/business/2022/08/22/seven-s-korean-brokerages-plan-to-start-crypto-exchanges-next-year-report/"/>
-        <updated>2022-08-22T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven S. Korean Brokerages Plan to Start Crypto Exchanges Next Year: Report]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -166,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MEV capturing AMM (McAMM)]]></title>
-        <id>https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7</id>
-        <link href="https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7"/>
-        <updated>2022-08-22T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[MEV capturing AMM (McAMM)]]></summary>
+        <title type="html"><![CDATA[Release 22.8.1 · ConsenSys/teku]]></title>
+        <id>https://github.com/ConsenSys/teku/releases/tag/22.8.1</id>
+        <link href="https://github.com/ConsenSys/teku/releases/tag/22.8.1"/>
+        <updated>2022-08-22T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Release 22.8.1 · ConsenSys/teku]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -186,11 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release 22.8.1 · ConsenSys/teku]]></title>
-        <id>https://github.com/ConsenSys/teku/releases/tag/22.8.1</id>
-        <link href="https://github.com/ConsenSys/teku/releases/tag/22.8.1"/>
-        <updated>2022-08-22T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Release 22.8.1 · ConsenSys/teku]]></summary>
+        <title type="html"><![CDATA[Release Rick Prime · sigp/lighthouse]]></title>
+        <id>https://github.com/sigp/lighthouse/releases/tag/v3.0.0</id>
+        <link href="https://github.com/sigp/lighthouse/releases/tag/v3.0.0"/>
+        <updated>2022-08-22T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Release Rick Prime · sigp/lighthouse]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
