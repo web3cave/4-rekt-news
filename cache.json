@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lens.xyz/",
+          "author": null,
+          "description": "Lens Protocol",
+          "link": "https://lens.xyz/",
+          "publishedOn": "2022-08-23T19:30:06.000Z",
+          "wordCount": 10,
+          "title": "Lens Protocol",
+          "imageUrl": null
+        },
+        {
           "id": "https://nvd.nist.gov/vuln/detail/CVE-2022-27254",
           "author": null,
           "description": "NVD - CVE-2022-27254",
@@ -31,7 +41,7 @@
           "description": "We Do A Little",
           "link": "https://www.wedoalittle.com/",
           "publishedOn": "2022-08-23T17:30:10.000Z",
-          "wordCount": 124,
+          "wordCount": 126,
           "title": "We Do A Little",
           "imageUrl": "https://www.wedoalittle.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkU0Y0FNPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c800f492479a3d54508e740694dec8df4dbd6dd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJMU1IZ3lOVEJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERJMU1IZ3lOVEFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--7c01cea9791a272b28ad9ad979e61898eb50a271/Season-0_SALUTE.jpg"
         },
@@ -116,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/",
-          "author": null,
-          "description": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
-          "link": "https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/",
-          "publishedOn": "2022-08-23T12:30:03.000Z",
-          "wordCount": 3864,
-          "title": "EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins",
-          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/06/Christine-Lagarde-IMF.jpg"
-        },
-        {
           "id": "https://ethresear.ch/t/mev-capturing-amm-mcamm/13336/7",
           "author": null,
           "description": "MEV capturing AMM (McAMM)",
@@ -141,9 +141,9 @@
           "description": "Release v1.14.0 · NethermindEth/nethermind",
           "link": "https://github.com/NethermindEth/nethermind/releases/tag/1.14.0",
           "publishedOn": "2022-08-23T03:00:02.000Z",
-          "wordCount": 701,
+          "wordCount": 700,
           "title": "Release v1.14.0 · NethermindEth/nethermind",
-          "imageUrl": "https://opengraph.githubassets.com/86de9ddce584ef00d6f8a7903e8e90e3206698445f16189ea9fe2701606994bf/NethermindEth/nethermind/releases/tag/1.14.0"
+          "imageUrl": "https://opengraph.githubassets.com/d1aa730273876020c753d565b57cac0b4fd41fc5b81f7e642442c32b8f8c8cb0/NethermindEth/nethermind/releases/tag/1.14.0"
         },
         {
           "id": "https://ercwl.medium.com/the-case-for-social-slashing-59277ff4d9c7",
@@ -201,7 +201,7 @@
           "description": "UK inflation to hit 18.6% next year according to Citi",
           "link": "https://www.ft.com/content/778e65e1-6ec5-4fd7-98d5-9d701eb29567",
           "publishedOn": "2022-08-22T13:00:02.000Z",
-          "wordCount": 2252,
+          "wordCount": 2209,
           "title": "UK inflation to hit 18.6% next year according to Citi",
           "imageUrl": null
         }

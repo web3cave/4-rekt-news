@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-23T19:18:03.870Z</id>
+    <id>urn:2022-08-23T20:22:38.878Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-23T19:18:03.870Z</updated>
+    <updated>2022-08-23T20:22:38.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lens Protocol]]></title>
+        <id>https://lens.xyz/</id>
+        <link href="https://lens.xyz/"/>
+        <updated>2022-08-23T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVD - CVE-2022-27254]]></title>
         <id>https://nvd.nist.gov/vuln/detail/CVE-2022-27254</id>
@@ -113,16 +123,6 @@ CVE-2022-27948]]></summary>
         <link href="https://www.youtube.com/watch?v=mW8IxnpDeeM&amp;feature=youtu.be"/>
         <updated>2022-08-23T13:00:03.000Z</updated>
         <summary type="html"><![CDATA[EP #01: We Do A Little Pop Wonder]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins]]></title>
-        <id>https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/</id>
-        <link href="https://blockworks.co/eu-crypto-lobby-fights-mica-limits-on-us-dollar-stablecoins/"/>
-        <updated>2022-08-23T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[EU Crypto Lobby Fights MiCA Limits on US Dollar Stablecoins]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
