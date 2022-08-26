@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x2e09-0x12",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x12",
+          "publishedOn": "2022-08-26T17:00:04.000Z",
+          "wordCount": 11,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BExrNe1t14U&feature=youtu.be",
+          "author": null,
+          "description": "Tornado Cash explainer, Arbitrum Nitro whitepaper - The Daily Gwei Refuel #436 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=BExrNe1t14U&feature=youtu.be",
+          "publishedOn": "2022-08-26T17:00:04.000Z",
+          "wordCount": null,
+          "title": "Tornado Cash explainer, Arbitrum Nitro whitepaper - The Daily Gwei Refuel #436 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://esp.ethereum.foundation/merge-data-challenge",
+          "author": null,
+          "description": "The Merge data challenge | Ethereum Foundation ESP",
+          "link": "https://esp.ethereum.foundation/merge-data-challenge",
+          "publishedOn": "2022-08-26T17:00:04.000Z",
+          "wordCount": 1368,
+          "title": "The Merge data challenge | Ethereum Foundation ESP",
+          "imageUrl": "https://esp.ethereum.foundation/images/homepage-hero-mobile.png"
+        },
+        {
+          "id": "https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm",
+          "author": null,
+          "description": "Speech by Chair Powell on monetary policy and price stability",
+          "link": "https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm",
+          "publishedOn": "2022-08-26T17:00:04.000Z",
+          "wordCount": 2570,
+          "title": "Speech by Chair Powell on monetary policy and price stability",
+          "imageUrl": "/Social_Default_Image.jpg"
+        },
+        {
           "id": "https://github.com/lambdaclass/cairo-rs",
           "author": null,
           "description": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
@@ -13,17 +53,7 @@
           "publishedOn": "2022-08-26T15:30:04.000Z",
           "wordCount": 1316,
           "title": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
-          "imageUrl": "https://opengraph.githubassets.com/92e747eb0e7087b9d4fb0e8e551ea784673f664ff54fcab2c3e6bbdf036877ce/lambdaclass/cairo-rs"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
-          "author": null,
-          "description": "Mainnet Merge Announcement | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
-          "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 4439,
-          "title": "Mainnet Merge Announcement | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_fc82062a814fd40a66c7d03a522da205.jpeg"
+          "imageUrl": "https://opengraph.githubassets.com/e7900ec21adbb7f3df9de80a155e81dd083ccc41f141c38b4073bba6a3353e31/lambdaclass/cairo-rs"
         },
         {
           "id": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
@@ -31,9 +61,9 @@
           "description": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
           "link": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 965,
+          "wordCount": 12139,
           "title": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN389-Social.jpg"
         },
         {
           "id": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
@@ -41,7 +71,7 @@
           "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 26327,
+          "wordCount": 26318,
           "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "imageUrl": null
         },
@@ -53,16 +83,6 @@
           "publishedOn": "2022-08-26T15:00:03.000Z",
           "wordCount": null,
           "title": "BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout | Pudgy Penguins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zh6CTrdsrhA",
-          "author": null,
-          "description": "HOW IM GOING TO WIN THE FIGHT EP. 1 PONZI TRADER",
-          "link": "https://www.youtube.com/watch?v=Zh6CTrdsrhA",
-          "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": null,
-          "title": "HOW IM GOING TO WIN THE FIGHT EP. 1 PONZI TRADER",
           "imageUrl": null
         },
         {
@@ -131,7 +151,7 @@
           "description": "Why We’re Launching a Voter Registration & Education Initiative",
           "link": "https://blog.coinbase.com/why-were-launching-a-voter-registration-education-initiative-e5b1498d3674?gi=8fcb98498d69",
           "publishedOn": "2022-08-26T03:00:02.000Z",
-          "wordCount": 2495,
+          "wordCount": 2392,
           "title": "Why We’re Launching a Voter Registration & Education Initiative",
           "imageUrl": "https://miro.medium.com/max/1200/1*bjsZn82qT1uyZQOclSRn4g.png"
         },
@@ -151,19 +171,9 @@
           "description": "If Ethereum Starts Slashing, It Burns",
           "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
           "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 8384,
+          "wordCount": 8417,
           "title": "If Ethereum Starts Slashing, It Burns",
           "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
-        },
-        {
-          "id": "https://www.hollywoodreporter.com/business/digital/uta-web3-artists-mv3-nft-1235206048/",
-          "author": null,
-          "description": "UTA Signs Trio of Web3 Artists and MV3 NFT Collection From ‘Stranger Things’ Writer",
-          "link": "https://www.hollywoodreporter.com/business/digital/uta-web3-artists-mv3-nft-1235206048/",
-          "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 7578,
-          "title": "UTA Signs Trio of Web3 Artists and MV3 NFT Collection From ‘Stranger Things’ Writer",
-          "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/UTA-Web3-Headshots-NFT-Collection-Publicity-H-2022.jpg?w=1024"
         },
         {
           "id": "https://a16zcrypto.com/supporting-public-goods-with-gitcoin-grants/",
@@ -194,16 +204,6 @@
           "wordCount": 503,
           "title": "Your Privacy, Risks, and Rights Following Tornado Cash Sanctions | Jill Gunter & Michael Mosier",
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a4bd9eaf2423e09c8204c1861"
-        },
-        {
-          "id": "https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html",
-          "author": null,
-          "description": "Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus",
-          "link": "https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html",
-          "publishedOn": "2022-08-25T13:30:05.000Z",
-          "wordCount": 2893,
-          "title": "Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus",
-          "imageUrl": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20blog%20banner.png"
         }
       ]
     }
