@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.paradigm.xyz/2022/08/das",
+          "author": null,
+          "description": "Data Availability Sampling: From Basics to Open Problems - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/08/das",
+          "publishedOn": "2022-08-26T19:00:02.000Z",
+          "wordCount": 17202,
+          "title": "Data Availability Sampling: From Basics to Open Problems - Paradigm",
+          "imageUrl": "https://paradigm.xyz/static/blog-das/cover.png"
+        },
+        {
           "id": "https://lenstube.xyz/watch/0x2e09-0x12",
           "author": null,
           "description": "Lenstube",
@@ -51,7 +61,7 @@
           "description": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
           "link": "https://github.com/lambdaclass/cairo-rs",
           "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 1157,
+          "wordCount": 1027,
           "title": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
           "imageUrl": "https://opengraph.githubassets.com/7cd6ba9533159054126edc3ddcf9505db069a3459bbdae58f7bd1ea61d37f3ee/lambdaclass/cairo-rs"
         },
@@ -71,7 +81,7 @@
           "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 26319,
+          "wordCount": 26428,
           "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "imageUrl": null
         },
@@ -146,16 +156,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*13a0xFOzkRnjOkOm8wYWXA.jpeg"
         },
         {
-          "id": "https://blog.coinbase.com/why-were-launching-a-voter-registration-education-initiative-e5b1498d3674?gi=8fcb98498d69",
-          "author": null,
-          "description": "Why We’re Launching a Voter Registration & Education Initiative",
-          "link": "https://blog.coinbase.com/why-were-launching-a-voter-registration-education-initiative-e5b1498d3674?gi=8fcb98498d69",
-          "publishedOn": "2022-08-26T03:00:02.000Z",
-          "wordCount": 2392,
-          "title": "Why We’re Launching a Voter Registration & Education Initiative",
-          "imageUrl": "https://miro.medium.com/max/1200/1*bjsZn82qT1uyZQOclSRn4g.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=0vmqduORB_8&feature=youtu.be",
           "author": null,
           "description": "Bankless🤝 Daily Gwei Livestream🐼",
@@ -171,7 +171,7 @@
           "description": "If Ethereum Starts Slashing, It Burns",
           "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
           "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 8441,
+          "wordCount": 8411,
           "title": "If Ethereum Starts Slashing, It Burns",
           "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
         },
