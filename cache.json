@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dflow.net/blog/mainnet-launch",
+          "author": null,
+          "description": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
+          "link": "https://dflow.net/blog/mainnet-launch",
+          "publishedOn": "2022-08-27T14:30:03.000Z",
+          "wordCount": 1285,
+          "title": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
+          "imageUrl": "https://dflow.net/images/blog/bg-mainnet-launch.jpg"
+        },
+        {
+          "id": "https://noahpinion.substack.com/p/the-elite-overproduction-hypothesis",
+          "author": null,
+          "description": "The Elite Overproduction Hypothesis",
+          "link": "https://noahpinion.substack.com/p/the-elite-overproduction-hypothesis",
+          "publishedOn": "2022-08-27T14:30:03.000Z",
+          "wordCount": 9218,
+          "title": "The Elite Overproduction Hypothesis",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cb804d8-1dd7-4baf-9f7f-985a7de0b881_1600x900.jpeg"
+        },
+        {
           "id": "https://borrow.tubbysea.com/",
           "author": null,
           "description": "tubby sea",
@@ -126,26 +146,6 @@
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_4dae2a4ab4b6c89615b4b5c624c04b52.jpg"
         },
         {
-          "id": "https://github.com/NethermindEth/sedge",
-          "author": null,
-          "description": "GitHub - NethermindEth/sedge: A tool to allow deploying validators with ease.",
-          "link": "https://github.com/NethermindEth/sedge",
-          "publishedOn": "2022-08-26T17:00:04.000Z",
-          "wordCount": 2093,
-          "title": "GitHub - NethermindEth/sedge: A tool to allow deploying validators with ease.",
-          "imageUrl": "https://opengraph.githubassets.com/b1305fe1d174af9eb628c4b2f7c739d014326f85afc38f0792e7542a29ff1325/NethermindEth/sedge"
-        },
-        {
-          "id": "https://github.com/lambdaclass/cairo-rs",
-          "author": null,
-          "description": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
-          "link": "https://github.com/lambdaclass/cairo-rs",
-          "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 1056,
-          "title": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
-          "imageUrl": "https://opengraph.githubassets.com/510cf538614910d7f3322fa4f5a1c19fd110babe94b1a11555984c367a8c6fb4/lambdaclass/cairo-rs"
-        },
-        {
           "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
           "author": null,
           "description": "Mainnet Merge Announcement | Ethereum Foundation Blog",
@@ -171,7 +171,7 @@
           "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 31446,
+          "wordCount": 26428,
           "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "Compound III is Live",
           "link": "https://medium.com/compound-finance/compound-iii-is-live-a7983dee7e60",
           "publishedOn": "2022-08-26T03:00:02.000Z",
-          "wordCount": 1989,
+          "wordCount": 2180,
           "title": "Compound III is Live",
           "imageUrl": "https://miro.medium.com/max/1200/1*13a0xFOzkRnjOkOm8wYWXA.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "If Ethereum Starts Slashing, It Burns",
           "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
           "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 8512,
+          "wordCount": 8498,
           "title": "If Ethereum Starts Slashing, It Burns",
           "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
         }
