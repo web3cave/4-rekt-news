@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://borrow.tubbysea.com/",
+          "author": null,
+          "description": "tubby sea",
+          "link": "https://borrow.tubbysea.com/",
+          "publishedOn": "2022-08-27T01:30:05.000Z",
+          "wordCount": 109,
+          "title": "tubby sea",
+          "imageUrl": "https://borrow.tubbysea.com/og.png"
+        },
+        {
           "id": "https://fanfaron.substack.com/p/from-fanfaron?utm_source=twitter&sd=pf",
           "author": null,
           "description": "From Fanfaron",
           "link": "https://fanfaron.substack.com/p/from-fanfaron?utm_source=twitter&sd=pf",
           "publishedOn": "2022-08-26T23:00:02.000Z",
-          "wordCount": 4147,
+          "wordCount": 4143,
           "title": "From Fanfaron",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7da70622-bc98-4243-8ad7-9d2782cec5ab_400x400.jpeg"
         },
@@ -101,19 +111,19 @@
           "description": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
           "link": "https://github.com/lambdaclass/cairo-rs",
           "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 1191,
+          "wordCount": 1056,
           "title": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
           "imageUrl": "https://opengraph.githubassets.com/e90b391a828718e9dacfa4678a2c4dece2ca74061c8153c8bf654e20f4572b3e/lambdaclass/cairo-rs"
         },
         {
-          "id": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
+          "id": "https://www.youtube.com/watch?v=iJv6JB4Pnqg",
           "author": null,
           "description": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
-          "link": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
+          "link": "https://www.youtube.com/watch?v=iJv6JB4Pnqg",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 2625,
+          "wordCount": null,
           "title": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN389-Social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
@@ -121,7 +131,7 @@
           "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 26318,
+          "wordCount": 26428,
           "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "imageUrl": null
         },
@@ -136,14 +146,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://vimeo.com/740034090",
+          "id": "https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/",
           "author": null,
-          "description": "Coinbase Protocol Access Program: Polygon",
-          "link": "https://vimeo.com/740034090",
+          "description": "Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy - bellingcat",
+          "link": "https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/",
           "publishedOn": "2022-08-26T14:00:05.000Z",
-          "wordCount": 3930,
-          "title": "Coinbase Protocol Access Program: Polygon",
-          "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1495011835-1c73a99e8c35ce5291f9c16ca3d2e59955b513805d516b86bf1bb7df99e0e3ce-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
+          "wordCount": 6559,
+          "title": "Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy - bellingcat",
+          "imageUrl": "https://www.bellingcat.com/app/uploads/2022/08/Bellingcat_AK_Aug25_300dpi-scaled.jpg"
         },
         {
           "id": "https://www.eip4844.com/",
@@ -154,16 +164,6 @@
           "wordCount": 645,
           "title": "EIP-4844: Shard Blob Transactions",
           "imageUrl": "https://www.eip4844.com/images/square-logo.png?v=2"
-        },
-        {
-          "id": "https://ultrasound.money/",
-          "author": null,
-          "description": "Ultra Sound Money",
-          "link": "https://ultrasound.money/",
-          "publishedOn": "2022-08-26T13:00:02.000Z",
-          "wordCount": 97,
-          "title": "Ultra Sound Money",
-          "imageUrl": "https://ultrasound.money/og-image.png"
         },
         {
           "id": "https://vimeo.com/743208783/14ac592b3e",
@@ -181,7 +181,7 @@
           "description": "Compound III is Live",
           "link": "https://medium.com/compound-finance/compound-iii-is-live-a7983dee7e60",
           "publishedOn": "2022-08-26T03:00:02.000Z",
-          "wordCount": 1989,
+          "wordCount": 2180,
           "title": "Compound III is Live",
           "imageUrl": "https://miro.medium.com/max/1200/1*13a0xFOzkRnjOkOm8wYWXA.jpeg"
         },
@@ -191,7 +191,7 @@
           "description": "If Ethereum Starts Slashing, It Burns",
           "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
           "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 8524,
+          "wordCount": 8525,
           "title": "If Ethereum Starts Slashing, It Burns",
           "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2022-08-26T01:00:02.000Z",
           "wordCount": 334,
           "title": "[PDF] nitro/Nitro-whitepaper.pdf at master · OffchainLabs/nitro",
-          "imageUrl": "https://opengraph.githubassets.com/8502ec512d5e0c281b19b6d05d6d5550491b5c138a4fcd1c56b32bccd6796beb/OffchainLabs/nitro"
+          "imageUrl": "https://opengraph.githubassets.com/4776d60725b836dd1ecc3113fc94450e903c5a8b1af50503f6d90a1cb4ca803a/OffchainLabs/nitro"
         }
       ]
     }
