@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dflow.net/blog/mainnet-launch",
+          "author": null,
+          "description": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
+          "link": "https://dflow.net/blog/mainnet-launch",
+          "publishedOn": "2022-08-27T12:30:02.000Z",
+          "wordCount": 1285,
+          "title": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
+          "imageUrl": "https://dflow.net/images/blog/bg-mainnet-launch.jpg"
+        },
+        {
+          "id": "https://noahpinion.substack.com/p/the-elite-overproduction-hypothesis",
+          "author": null,
+          "description": "The Elite Overproduction Hypothesis",
+          "link": "https://noahpinion.substack.com/p/the-elite-overproduction-hypothesis",
+          "publishedOn": "2022-08-27T12:30:02.000Z",
+          "wordCount": 9218,
+          "title": "The Elite Overproduction Hypothesis",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cb804d8-1dd7-4baf-9f7f-985a7de0b881_1600x900.jpeg"
+        },
+        {
           "id": "https://borrow.tubbysea.com/",
           "author": null,
           "description": "tubby sea",
@@ -131,29 +151,19 @@
           "description": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
           "link": "https://github.com/lambdaclass/cairo-rs",
           "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 1056,
+          "wordCount": 1191,
           "title": "GitHub - lambdaclass/cairo-rs: cairo-rs is a Rust implementation of the Cairo VM. Cairo is a programming language for...",
-          "imageUrl": "https://opengraph.githubassets.com/ca87f310eb67e69ea97c42b13fd05a1772e7102efe2403504491efac4baab65e/lambdaclass/cairo-rs"
+          "imageUrl": "https://opengraph.githubassets.com/7f5e754a331fa8c6267ea09b95092139d306771404c5ee28ef5d1087169fd15d/lambdaclass/cairo-rs"
         },
         {
-          "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
-          "author": null,
-          "description": "Mainnet Merge Announcement | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
-          "publishedOn": "2022-08-26T15:30:04.000Z",
-          "wordCount": 4439,
-          "title": "Mainnet Merge Announcement | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_fc82062a814fd40a66c7d03a522da205.jpeg"
-        },
-        {
-          "id": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
+          "id": "https://www.youtube.com/watch?v=iJv6JB4Pnqg",
           "author": null,
           "description": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
-          "link": "https://unchainedpodcast.com/with-the-merge-will-ethereum-take-over-bitcoins-title-as-digital-gold-ep-389/",
+          "link": "https://www.youtube.com/watch?v=iJv6JB4Pnqg",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 12139,
+          "wordCount": null,
           "title": "With the Merge, Will Ethereum Take Over Bitcoin’s Title as Digital Gold? - Ep. 389",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/08/UN389-Social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
@@ -161,18 +171,8 @@
           "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
           "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
           "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 26435,
+          "wordCount": 26319,
           "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Itf2pWAguWo&feature=youtu.be",
-          "author": null,
-          "description": "BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout | Pudgy Penguins",
-          "link": "https://www.youtube.com/watch?v=Itf2pWAguWo&feature=youtu.be",
-          "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": null,
-          "title": "BitBoy Lawsuit | Ethereum Merge Updates | Biden Cancels Debt | Tornado Cash Fallout | Pudgy Penguins",
           "imageUrl": null
         },
         {
@@ -201,7 +201,7 @@
           "description": "If Ethereum Starts Slashing, It Burns",
           "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
           "publishedOn": "2022-08-26T01:00:03.000Z",
-          "wordCount": 8527,
+          "wordCount": 8491,
           "title": "If Ethereum Starts Slashing, It Burns",
           "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
         }
