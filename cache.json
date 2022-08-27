@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://claims.mtgox.com/",
+          "author": null,
+          "description": "MTGOX-Online Rehabilitation Claim Filing System",
+          "link": "https://claims.mtgox.com/",
+          "publishedOn": "2022-08-27T20:00:04.000Z",
+          "wordCount": 30,
+          "title": "MTGOX-Online Rehabilitation Claim Filing System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
+          "author": null,
+          "description": "If Ethereum Starts Slashing, It Burns",
+          "link": "https://www.coindesk.com/layer2/2022/08/25/if-ethereum-starts-slashing-it-burns/",
+          "publishedOn": "2022-08-27T19:00:05.000Z",
+          "wordCount": 8511,
+          "title": "If Ethereum Starts Slashing, It Burns",
+          "imageUrl": "https://www.coindesk.com/resizer/5qyiZgDXSas2nEnOTVjYOySRFIs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V676OZ7RQJBPZHJSLKEP5MC5DI.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jFPqxNjNs1g&feature=youtu.be",
           "author": null,
           "description": "Hal Press from NRD | The Merge trade, ETH Bull Case, and PoW forks - The Daily Gwei Drive Thru #2",
@@ -31,7 +51,7 @@
           "description": "The Path of Compliance and the Path of Decentralization: Why Maker has no choice but to prepare to free float Dai",
           "link": "https://forum.makerdao.com/t/the-path-of-compliance-and-the-path-of-decentralization-why-maker-has-no-choice-but-to-prepare-to-free-float-dai/17466",
           "publishedOn": "2022-08-27T17:30:05.000Z",
-          "wordCount": 8937,
+          "wordCount": 9787,
           "title": "The Path of Compliance and the Path of Decentralization: Why Maker has no choice but to prepare to free float Dai",
           "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
         },
@@ -44,16 +64,6 @@
           "wordCount": 2957,
           "title": "Treasury Management: A Guide to Navigating Downturns",
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/08/Treasury-Management-Yoast_Facebook.jpeg"
-        },
-        {
-          "id": "https://dflow.net/blog/mainnet-launch",
-          "author": null,
-          "description": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
-          "link": "https://dflow.net/blog/mainnet-launch",
-          "publishedOn": "2022-08-27T14:30:03.000Z",
-          "wordCount": 1285,
-          "title": "DFlow on Mainnet: The Open and Fair PFOF Standard | DFlow Blog",
-          "imageUrl": "https://dflow.net/images/blog/bg-mainnet-launch.jpg"
         },
         {
           "id": "https://noahpinion.substack.com/p/the-elite-overproduction-hypothesis",
@@ -86,12 +96,22 @@
           "imageUrl": "https://benjaminion.xyz/f/favicon-96x96.png"
         },
         {
+          "id": "https://cryptorisks.substack.com/p/risk-assessment-synthetix-atomic?sd=pf",
+          "author": null,
+          "description": "Risk Assessment: Synthetix Atomic Swaps",
+          "link": "https://cryptorisks.substack.com/p/risk-assessment-synthetix-atomic?sd=pf",
+          "publishedOn": "2022-08-27T01:00:02.000Z",
+          "wordCount": 8757,
+          "title": "Risk Assessment: Synthetix Atomic Swaps",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F734d8863-82f4-4fd7-9463-8af2b59d9062_1575x785.png"
+        },
+        {
           "id": "https://fanfaron.substack.com/p/from-fanfaron?utm_source=twitter&sd=pf",
           "author": null,
           "description": "From Fanfaron",
           "link": "https://fanfaron.substack.com/p/from-fanfaron?utm_source=twitter&sd=pf",
           "publishedOn": "2022-08-26T23:00:02.000Z",
-          "wordCount": 4143,
+          "wordCount": 4142,
           "title": "From Fanfaron",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7da70622-bc98-4243-8ad7-9d2782cec5ab_400x400.jpeg"
         },
@@ -103,16 +123,6 @@
           "publishedOn": "2022-08-26T23:00:02.000Z",
           "wordCount": null,
           "title": "DeeZe vs Soby – $50,000 NFT Collection Challenge EP 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.punksvsapes.xyz/competition",
-          "author": null,
-          "description": "Competition & Donation Tracker",
-          "link": "https://www.punksvsapes.xyz/competition",
-          "publishedOn": "2022-08-26T23:00:02.000Z",
-          "wordCount": 599,
-          "title": "Competition & Donation Tracker",
           "imageUrl": null
         },
         {
@@ -131,9 +141,19 @@
           "description": "Feature Request: ERC-721 and 1155 Transfer Block-Lists for certain contracts · Issue #3655 ·...",
           "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/issues/3655",
           "publishedOn": "2022-08-26T23:00:02.000Z",
-          "wordCount": 1036,
+          "wordCount": 1047,
           "title": "Feature Request: ERC-721 and 1155 Transfer Block-Lists for certain contracts · Issue #3655 ·...",
           "imageUrl": "https://opengraph.githubassets.com/57296d27c0bc14678f4b0b00805c2cfe9da8f0dd3713c6c776766b42ab4821b3/OpenZeppelin/openzeppelin-contracts/issues/3655"
+        },
+        {
+          "id": "https://www.eventbrite.com/e/silicon-salon-2-tickets-403779845387",
+          "author": null,
+          "description": "Silicon Salon 2",
+          "link": "https://www.eventbrite.com/e/silicon-salon-2-tickets-403779845387",
+          "publishedOn": "2022-08-26T23:00:02.000Z",
+          "wordCount": 3533,
+          "title": "Silicon Salon 2",
+          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F340721109%2F956932281233%2F1%2Foriginal.20220823-183529?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ff13e35877ef80a7b998e652844cd009"
         },
         {
           "id": "https://github.com/transmissions11/VRGDAs/blob/master/src/examples/LogisticNFT.sol",
@@ -144,16 +164,6 @@
           "wordCount": 630,
           "title": "VRGDAs/LogisticNFT.sol at master · transmissions11/VRGDAs",
           "imageUrl": "https://opengraph.githubassets.com/0dd54fc98c057c1f0bee669b9f28b6594550e707cb09cfed576437e75d89321f/transmissions11/VRGDAs"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K45mb9zjaxY&feature=youtu.be",
-          "author": null,
-          "description": "Kanye West fucking around and playing Runaway on the MPC",
-          "link": "https://www.youtube.com/watch?v=K45mb9zjaxY&feature=youtu.be",
-          "publishedOn": "2022-08-26T21:30:05.000Z",
-          "wordCount": null,
-          "title": "Kanye West fucking around and playing Runaway on the MPC",
-          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/08/das",
@@ -194,16 +204,6 @@
           "wordCount": 4439,
           "title": "Mainnet Merge Announcement | Ethereum Foundation Blog",
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_fc82062a814fd40a66c7d03a522da205.jpeg"
-        },
-        {
-          "id": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
-          "author": null,
-          "description": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
-          "link": "https://www.reddit.com/r/hetzner/comments/wucxs4/comment/ilfoj8u/?utm_source=reddit&utm_medium=web2x&context=3",
-          "publishedOn": "2022-08-26T15:00:03.000Z",
-          "wordCount": 26319,
-          "title": "r/hetzner - Comment by u/Hetzner_OL on ”is it allowed to run a crypto block chain node?”",
-          "imageUrl": null
         }
       ]
     }
