@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-27T13:32:33.418Z</id>
+    <id>urn:2022-08-27T14:19:21.073Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-27T13:32:33.418Z</updated>
+    <updated>2022-08-27T14:19:21.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tornado Cash explainer, Arbitrum Nitro whitepaper - The Daily Gwei Refuel #436 - Ethereum Updates]]></title>
-        <id>https://www.youtube.com/watch?v=BExrNe1t14U&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=BExrNe1t14U&amp;feature=youtu.be"/>
-        <updated>2022-08-26T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Tornado Cash explainer, Arbitrum Nitro whitepaper - The Daily Gwei Refuel #436 - Ethereum Updates]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Merge data challenge | Ethereum Foundation ESP]]></title>
         <id>https://esp.ethereum.foundation/merge-data-challenge</id>
         <link href="https://esp.ethereum.foundation/merge-data-challenge"/>
@@ -131,6 +121,16 @@
         <link href="https://blog.ethereum.org/2022/08/26/finalized-no-37"/>
         <updated>2022-08-26T17:00:04.000Z</updated>
         <summary type="html"><![CDATA[Finalized no. 37 | Ethereum Foundation Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - NethermindEth/sedge: A tool to allow deploying validators with ease.]]></title>
+        <id>https://github.com/NethermindEth/sedge</id>
+        <link href="https://github.com/NethermindEth/sedge"/>
+        <updated>2022-08-26T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - NethermindEth/sedge: A tool to allow deploying validators with ease.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
