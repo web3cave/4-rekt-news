@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum.org/en/bug-bounty/",
+          "author": null,
+          "description": "Ethereum Bug Bounty Program | ethereum.org",
+          "link": "https://ethereum.org/en/bug-bounty/",
+          "publishedOn": "2022-08-29T11:30:04.000Z",
+          "wordCount": 3906,
+          "title": "Ethereum Bug Bounty Program | ethereum.org",
+          "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+        },
+        {
+          "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
+          "author": null,
+          "description": "Mainnet Merge Announcement | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
+          "publishedOn": "2022-08-29T11:30:04.000Z",
+          "wordCount": 4439,
+          "title": "Mainnet Merge Announcement | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_fc82062a814fd40a66c7d03a522da205.jpeg"
+        },
+        {
           "id": "https://www.lopp.net/bitcoin-information.html",
           "author": null,
           "description": "Jameson Lopp's Bitcoin Resources",
@@ -63,26 +83,6 @@
           "publishedOn": "2022-08-29T05:30:04.000Z",
           "wordCount": 1551,
           "title": "Chainflow.io",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-all-way-odessa",
-          "author": null,
-          "description": "Escobar: All The Way To Odessa | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-all-way-odessa",
-          "publishedOn": "2022-08-29T05:00:04.000Z",
-          "wordCount": 2175,
-          "title": "Escobar: All The Way To Odessa | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/technology/tiktok-weaponized-military-application-hands-our-kids-casey-fleming",
-          "author": null,
-          "description": "TikTok Is \"A Weaponized Military Application\" In The Hands Of Our Kids: Casey Fleming | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/tiktok-weaponized-military-application-hands-our-kids-casey-fleming",
-          "publishedOn": "2022-08-29T05:00:04.000Z",
-          "wordCount": 806,
-          "title": "TikTok Is \"A Weaponized Military Application\" In The Hands Of Our Kids: Casey Fleming | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -161,7 +161,7 @@
           "description": "Ethereum a New Era",
           "link": "https://go.ueth.org/",
           "publishedOn": "2022-08-28T19:00:03.000Z",
-          "wordCount": 2400,
+          "wordCount": 2434,
           "title": "Ethereum a New Era",
           "imageUrl": "https://ueth.s3.us-west-2.amazonaws.com/public/prod/go/go_logo.png"
         },
@@ -171,7 +171,7 @@
           "description": "Elon Musk and Neuralink executive Shivon Zilis conceived twins through IVF: report",
           "link": "https://nypost.com/2022/08/26/elon-musk-and-shivon-zilis-conceived-twins-through-ivf-report/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-08-28T16:30:03.000Z",
-          "wordCount": 6859,
+          "wordCount": 6858,
           "title": "Elon Musk and Neuralink executive Shivon Zilis conceived twins through IVF: report",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-musk-shivon-zilis-twins-ivf-comp-1.jpg?quality=75&strip=all&w=1024"
         },
@@ -191,7 +191,7 @@
           "description": "SEC Questions Grayscale’s Legal Stance on Stellar, Zcash and Horizen Crypto Trusts",
           "link": "https://www.coindesk.com/policy/2022/08/27/sec-questions-grayscales-legal-stance-on-stellar-zcash-and-horizen-crypto-trusts/",
           "publishedOn": "2022-08-27T22:00:04.000Z",
-          "wordCount": 6094,
+          "wordCount": 6119,
           "title": "SEC Questions Grayscale’s Legal Stance on Stellar, Zcash and Horizen Crypto Trusts",
           "imageUrl": "https://www.coindesk.com/resizer/JF3zXbSj_j2oz8vphKkOSpKLito=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2SYMKZCIN5A77CJP4V66E72AGY"
         },
