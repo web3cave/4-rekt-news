@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://parallel.life/",
+          "author": null,
+          "description": "Parallel",
+          "link": "https://parallel.life/",
+          "publishedOn": "2022-08-30T21:00:03.000Z",
+          "wordCount": 80,
+          "title": "Parallel",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/foundry-rs/foundry/pull/2991",
           "author": null,
           "description": "feat(forge): add forge geiger cmd by mattsse · Pull Request #2991 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/2991",
           "publishedOn": "2022-08-30T20:00:04.000Z",
-          "wordCount": 1965,
+          "wordCount": 1968,
           "title": "feat(forge): add forge geiger cmd by mattsse · Pull Request #2991 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/f43a189b1877ade1b57fd8a61959559f288e9449bfeb1efa37437bffdce2039c/foundry-rs/foundry/pull/2991"
         },
@@ -21,7 +31,7 @@
           "description": "Friktion and Fireblocks Launch Institutional DeFi Partnership",
           "link": "https://friktionlabs.medium.com/friktion-and-fireblocks-launch-institutional-defi-partnership-e70fd275ea56",
           "publishedOn": "2022-08-30T19:30:05.000Z",
-          "wordCount": 1920,
+          "wordCount": 1876,
           "title": "Friktion and Fireblocks Launch Institutional DeFi Partnership",
           "imageUrl": "https://miro.medium.com/max/1200/1*xbNcLBvcc9ZndJ-ZNi6RCA.png"
         },
@@ -34,16 +44,6 @@
           "wordCount": 975,
           "title": "$2,000 'Inflation'-Stimulus Payments Should Be Sent Out: Pennsylvania Governor | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
-          "author": null,
-          "description": "The Rise and Fall of iBox",
-          "link": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
-          "publishedOn": "2022-08-30T19:00:03.000Z",
-          "wordCount": 5527,
-          "title": "The Rise and Fall of iBox",
-          "imageUrl": "https://miro.medium.com/max/1200/0*j1s0_mv_GnnLVwPX"
         },
         {
           "id": "https://cryptoleaks.info/case-no-3",
@@ -71,7 +71,7 @@
           "description": "Solana automation network Clockwork raises $4 million",
           "link": "https://www.theblock.co/post/165953/solana-automation-network-clockwork-raises-4-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-30T18:30:01.000Z",
-          "wordCount": 74341,
+          "wordCount": 74933,
           "title": "Solana automation network Clockwork raises $4 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220804_Solana-3.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Top execs from Genesis and Galaxy are raising a $500 million fund",
           "link": "https://www.theblock.co/post/166463/top-execs-from-genesis-and-galaxy-are-raising-a-500-million-fund",
           "publishedOn": "2022-08-30T15:00:07.000Z",
-          "wordCount": 74344,
+          "wordCount": 74936,
           "title": "Top execs from Genesis and Galaxy are raising a $500 million fund",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200520_Genesis_Global_Trading-Daily.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "My Statement about the Crypto Leaks Lies",
           "link": "https://el33th4x0r.medium.com/my-statement-about-the-crypto-leaks-lies-ef2005da752",
           "publishedOn": "2022-08-29T19:00:02.000Z",
-          "wordCount": 2247,
+          "wordCount": 2256,
           "title": "My Statement about the Crypto Leaks Lies",
           "imageUrl": null
         },
