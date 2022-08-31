@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://open.spotify.com/episode/07sSh3KpMQUzdX9RYC79HM",
+          "author": null,
+          "description": "The Bull and Bear Case for the Merge: Anthony Sassano, Ep. 210",
+          "link": "https://open.spotify.com/episode/07sSh3KpMQUzdX9RYC79HM",
+          "publishedOn": "2022-08-31T17:00:05.000Z",
+          "wordCount": 421,
+          "title": "The Bull and Bear Case for the Merge: Anthony Sassano, Ep. 210",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8ac8888e889d5b712d01124b05"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_ohvRtxJzrc",
+          "author": null,
+          "description": "Given the Sanctions on Tornado Cash, Is Ethereum Censorship Resistant? - Ep. 390",
+          "link": "https://www.youtube.com/watch?v=_ohvRtxJzrc",
+          "publishedOn": "2022-08-31T17:00:05.000Z",
+          "wordCount": null,
+          "title": "Given the Sanctions on Tornado Cash, Is Ethereum Censorship Resistant? - Ep. 390",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/165953/solana-automation-network-clockwork-raises-4-million?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Solana automation network Clockwork raises $4 million",
           "link": "https://www.theblock.co/post/165953/solana-automation-network-clockwork-raises-4-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-31T16:00:05.000Z",
-          "wordCount": 72595,
+          "wordCount": 72770,
           "title": "Solana automation network Clockwork raises $4 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220804_Solana-3.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "BlockFi CEO shares lessons learned from liquidating 3AC",
           "link": "https://www.theblock.co/post/166594/blockfi-ceo-shares-lessons-learned-from-liquidating-3ac?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-31T15:00:02.000Z",
-          "wordCount": 73537,
+          "wordCount": 73712,
           "title": "BlockFi CEO shares lessons learned from liquidating 3AC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220829_TheScoop_Zac_Prince_16x9.jpg"
         },
@@ -31,7 +51,7 @@
           "description": "U.S. Life Expectancy Falls Again in ‘Historic’ Setback",
           "link": "https://www.nytimes.com/2022/08/31/health/life-expectancy-covid-pandemic.html?smid=nytcore-ios-share&referringSource=articleShare",
           "publishedOn": "2022-08-31T12:30:03.000Z",
-          "wordCount": 4702,
+          "wordCount": 5237,
           "title": "U.S. Life Expectancy Falls Again in ‘Historic’ Setback",
           "imageUrl": "https://static01.nyt.com/images/2022/08/31/science/31life-expectancy1/31life-expectancy1-facebookJumbo.jpg"
         },
@@ -91,7 +111,7 @@
           "description": "The Gorbachev era and the collapse of the Soviet Union",
           "link": "https://www.reuters.com/world/gorbachev-era-collapse-soviet-union-2022-08-30/",
           "publishedOn": "2022-08-31T03:00:02.000Z",
-          "wordCount": 4115,
+          "wordCount": 4190,
           "title": "The Gorbachev era and the collapse of the Soviet Union",
           "imageUrl": "https://www.reuters.com/resizer/uDye-QlQM9WhEGzNV-HXvtQNZ94=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A6JTCWQPGJLJBA7GYG74F5VKO4.jpg"
         },
@@ -166,14 +186,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*xbNcLBvcc9ZndJ-ZNi6RCA.png"
         },
         {
-          "id": "https://www.zerohedge.com/political/2000-inflation-stimulus-payments-should-be-sent-out-pennsylvania-governor",
+          "id": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
           "author": null,
-          "description": "$2,000 'Inflation'-Stimulus Payments Should Be Sent Out: Pennsylvania Governor | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/2000-inflation-stimulus-payments-should-be-sent-out-pennsylvania-governor",
-          "publishedOn": "2022-08-30T19:30:05.000Z",
-          "wordCount": 975,
-          "title": "$2,000 'Inflation'-Stimulus Payments Should Be Sent Out: Pennsylvania Governor | ZeroHedge",
-          "imageUrl": null
+          "description": "The Rise and Fall of iBox",
+          "link": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
+          "publishedOn": "2022-08-30T19:00:03.000Z",
+          "wordCount": 5503,
+          "title": "The Rise and Fall of iBox",
+          "imageUrl": "https://miro.medium.com/max/1200/0*j1s0_mv_GnnLVwPX"
         },
         {
           "id": "https://internet.game/mint",
@@ -184,26 +204,6 @@
           "wordCount": 71101,
           "title": "Internet Game - Season 2 Mint",
           "imageUrl": "/images/og.jpg"
-        },
-        {
-          "id": "https://cryptoleaks.info/case-no-3",
-          "author": null,
-          "description": "Crypto Leaks | Ava Labs (Avalanche) attacks Solana & cons regulators in evil conspiracy with bought law firm, Roche...",
-          "link": "https://cryptoleaks.info/case-no-3",
-          "publishedOn": "2022-08-30T19:00:02.000Z",
-          "wordCount": 5894,
-          "title": "Crypto Leaks | Ava Labs (Avalanche) attacks Solana & cons regulators in evil conspiracy with bought law firm, Roche...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://aigrant.org/",
-          "author": null,
-          "description": "AI Grant",
-          "link": "https://aigrant.org/",
-          "publishedOn": "2022-08-30T18:00:04.000Z",
-          "wordCount": 1380,
-          "title": "AI Grant",
-          "imageUrl": "/img/aigrantsimple.png"
         }
       ]
     }
