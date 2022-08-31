@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://proofofstake.gitcoin.co/",
+          "author": null,
+          "description": "Proof Of Stake",
+          "link": "https://proofofstake.gitcoin.co/",
+          "publishedOn": "2022-08-31T05:00:04.000Z",
+          "wordCount": 45,
+          "title": "Proof Of Stake",
+          "imageUrl": "https://gitcoin.co/ProofOfStake/images/Ethereum_lego.png"
+        },
+        {
+          "id": "https://vitalik.ca/general/2019/12/26/mvb.html",
+          "author": null,
+          "description": "Base Layers And Functionality Escape Velocity",
+          "link": "https://vitalik.ca/general/2019/12/26/mvb.html",
+          "publishedOn": "2022-08-31T03:00:02.000Z",
+          "wordCount": 1971,
+          "title": "Base Layers And Functionality Escape Velocity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://graymirror.substack.com/p/optimal-autonomous-organizations",
+          "author": null,
+          "description": "Optimal autonomous organizations",
+          "link": "https://graymirror.substack.com/p/optimal-autonomous-organizations",
+          "publishedOn": "2022-08-31T03:00:02.000Z",
+          "wordCount": 8570,
+          "title": "Optimal autonomous organizations",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F286b61b5-9b22-4a49-9650-694d6f36a10b_310x310.png"
+        },
+        {
+          "id": "https://www.reuters.com/world/gorbachev-era-collapse-soviet-union-2022-08-30/",
+          "author": null,
+          "description": "The Gorbachev era and the collapse of the Soviet Union",
+          "link": "https://www.reuters.com/world/gorbachev-era-collapse-soviet-union-2022-08-30/",
+          "publishedOn": "2022-08-31T03:00:02.000Z",
+          "wordCount": 4167,
+          "title": "The Gorbachev era and the collapse of the Soviet Union",
+          "imageUrl": "https://www.reuters.com/resizer/uDye-QlQM9WhEGzNV-HXvtQNZ94=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A6JTCWQPGJLJBA7GYG74F5VKO4.jpg"
+        },
+        {
+          "id": "https://jorbs.pleasr.org/",
+          "author": null,
+          "description": "PleasrJOBS",
+          "link": "https://jorbs.pleasr.org/",
+          "publishedOn": "2022-08-31T03:00:02.000Z",
+          "wordCount": 616,
+          "title": "PleasrJOBS",
+          "imageUrl": "https://super-static-assets.s3.amazonaws.com/cc750d4c-dbc4-48f8-a265-4b929fcd3ed1/images/12280dbf-4e8d-4fe1-98fe-8023d85a2567.png"
+        },
+        {
           "id": "https://www.cnbc.com/2022/08/30/cramer-says-avoid-all-speculative-investments-like-crypto-as-the-fed-stays-hawkish.html?utm_term=Autofeed&utm_medium=Social&utm_content=Intl&utm_source=Twitter#Echobox=1661899450",
           "author": null,
           "description": "Cramer says avoid all speculative investments like crypto as the Fed stays hawkish",
@@ -26,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.ic3.gov/Media/Y2022/PSA220829",
-          "author": null,
-          "description": "Cyber Criminals Increasingly Exploit Vulnerabilities in Decentralized Finance Platforms to Obtain Cryptocurrency,...",
-          "link": "https://www.ic3.gov/Media/Y2022/PSA220829",
-          "publishedOn": "2022-08-30T21:30:04.000Z",
-          "wordCount": 643,
-          "title": "Cyber Criminals Increasingly Exploit Vulnerabilities in Decentralized Finance Platforms to Obtain Cryptocurrency,...",
-          "imageUrl": null
-        },
-        {
           "id": "https://parallel.life/",
           "author": null,
           "description": "Parallel",
@@ -51,7 +91,7 @@
           "description": "feat(forge): add forge geiger cmd by mattsse · Pull Request #2991 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/pull/2991",
           "publishedOn": "2022-08-30T20:00:04.000Z",
-          "wordCount": 1979,
+          "wordCount": 1976,
           "title": "feat(forge): add forge geiger cmd by mattsse · Pull Request #2991 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/f43a189b1877ade1b57fd8a61959559f288e9449bfeb1efa37437bffdce2039c/foundry-rs/foundry/pull/2991"
         },
@@ -76,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
-          "author": null,
-          "description": "The Rise and Fall of iBox",
-          "link": "https://medium.com/dragonfly-research/the-rise-and-fall-of-ibox-d0b25804fbec",
-          "publishedOn": "2022-08-30T19:00:03.000Z",
-          "wordCount": 5503,
-          "title": "The Rise and Fall of iBox",
-          "imageUrl": "https://miro.medium.com/max/1200/0*j1s0_mv_GnnLVwPX"
-        },
-        {
           "id": "https://cryptoleaks.info/case-no-3",
           "author": null,
           "description": "Crypto Leaks | Ava Labs (Avalanche) attacks Solana & cons regulators in evil conspiracy with bought law firm, Roche...",
@@ -96,22 +126,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/google-barring-truth-social-play-store-due-insufficient-content-moderation",
-          "author": null,
-          "description": "Google Barring Truth Social From Play Store Due To 'Insufficient Content Moderation' | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/google-barring-truth-social-play-store-due-insufficient-content-moderation",
-          "publishedOn": "2022-08-30T19:00:02.000Z",
-          "wordCount": 1101,
-          "title": "Google Barring Truth Social From Play Store Due To 'Insufficient Content Moderation' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/165953/solana-automation-network-clockwork-raises-4-million?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Solana automation network Clockwork raises $4 million",
           "link": "https://www.theblock.co/post/165953/solana-automation-network-clockwork-raises-4-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-08-30T18:30:01.000Z",
-          "wordCount": 75428,
+          "wordCount": 73277,
           "title": "Solana automation network Clockwork raises $4 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220804_Solana-3.jpg"
         },
@@ -124,16 +144,6 @@
           "wordCount": 1370,
           "title": "AI Grant",
           "imageUrl": "/img/aigrantsimple.png"
-        },
-        {
-          "id": "https://www.presentmaterial.xyz/",
-          "author": null,
-          "description": "Present Material",
-          "link": "https://www.presentmaterial.xyz/",
-          "publishedOn": "2022-08-30T18:00:04.000Z",
-          "wordCount": 136,
-          "title": "Present Material",
-          "imageUrl": "https://www.presentmaterial.xyz/graphics/mobile_preview.png"
         },
         {
           "id": "https://unchainedpodcast.com/given-the-sanctions-on-tornado-cash-is-ethereum-censorship-resistant-ep-390/",
@@ -166,22 +176,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship#details",
-          "author": null,
-          "description": "Dissenting from China's Censorship with Jiajun Zeng | Layer Zero",
-          "link": "https://shows.banklesshq.com/p/dissenting-from-chinas-censorship#details",
-          "publishedOn": "2022-08-30T15:30:05.000Z",
-          "wordCount": 1882,
-          "title": "Dissenting from China's Censorship with Jiajun Zeng | Layer Zero",
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/Q6ITajMN38g"
-        },
-        {
           "id": "https://www.theblock.co/post/166463/top-execs-from-genesis-and-galaxy-are-raising-a-500-million-fund",
           "author": null,
           "description": "Top execs from Genesis and Galaxy are raising a $500 million fund",
           "link": "https://www.theblock.co/post/166463/top-execs-from-genesis-and-galaxy-are-raising-a-500-million-fund",
           "publishedOn": "2022-08-30T15:00:07.000Z",
-          "wordCount": 75454,
+          "wordCount": 73303,
           "title": "Top execs from Genesis and Galaxy are raising a $500 million fund",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200520_Genesis_Global_Trading-Daily.jpg"
         },
