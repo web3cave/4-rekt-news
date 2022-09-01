@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T18:29:30.745Z</id>
+    <id>urn:2022-09-01T19:18:05.680Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T18:29:30.745Z</updated>
+    <updated>2022-09-01T19:18:05.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[spells]]></title>
+        <id>https://spells.quest/</id>
+        <link href="https://spells.quest/"/>
+        <updated>2022-09-01T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[spells]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flashbots]]></title>
+        <id>https://www.flashbots.net/</id>
+        <link href="https://www.flashbots.net/"/>
+        <updated>2022-09-01T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Flashbots]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog]]></title>
         <id>https://www.binance.com/en/blog/from-cz/who-is-guanying-chen-and-is-binance-a-chinese-company-2386330931319516973</id>
@@ -96,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RabbitHole - Tech Lead]]></title>
+        <id>https://jobs.lever.co/RabbitHoleStudios/51d9b560-2984-4bd0-abe2-ea7d69da9d25</id>
+        <link href="https://jobs.lever.co/RabbitHoleStudios/51d9b560-2984-4bd0-abe2-ea7d69da9d25"/>
+        <updated>2022-09-01T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[RabbitHole - Tech Lead]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[PDF] 20220831_announcement_en.pdf]]></title>
         <id>https://www.mtgox.com/img/pdf/20220831_announcement_en.pdf</id>
         <link href="https://www.mtgox.com/img/pdf/20220831_announcement_en.pdf"/>
@@ -126,16 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner]]></title>
-        <id>https://www.youtube.com/watch?v=yYzQPRRAs6M</id>
-        <link href="https://www.youtube.com/watch?v=yYzQPRRAs6M"/>
-        <updated>2022-08-31T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Orca Protocol is now Metropolis]]></title>
         <id>https://metropolis.mirror.xyz/ozkx0ZMwIzyahRJiQKpNv_8r7vAhOo-8tucjONhXJHI</id>
         <link href="https://metropolis.mirror.xyz/ozkx0ZMwIzyahRJiQKpNv_8r7vAhOo-8tucjONhXJHI"/>
@@ -161,26 +181,6 @@
         <link href="https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767"/>
         <updated>2022-08-31T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Navigating Web3 Compensation: A Framework Report]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chopping Block Live! - with Jill Gunter in Palo Alto]]></title>
-        <id>https://www.youtube.com/watch?v=eXZHbVogpG0</id>
-        <link href="https://www.youtube.com/watch?v=eXZHbVogpG0"/>
-        <updated>2022-08-31T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Chopping Block Live! - with Jill Gunter in Palo Alto]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Code4rena upgrade eliminates work for audit contest sponsors]]></title>
-        <id>https://mirror.xyz/c4blog.eth/nZ9xcFlcMrAHfZw51vtOMHG0ZNevzwnmOYWLv9tkC6E</id>
-        <link href="https://mirror.xyz/c4blog.eth/nZ9xcFlcMrAHfZw51vtOMHG0ZNevzwnmOYWLv9tkC6E"/>
-        <updated>2022-08-31T20:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Major Code4rena upgrade eliminates work for audit contest sponsors]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
