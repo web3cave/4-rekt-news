@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T09:22:40.157Z</id>
+    <id>urn:2022-09-01T10:25:17.335Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T09:22:40.157Z</updated>
+    <updated>2022-09-01T10:25:17.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner]]></title>
-        <id>https://www.youtube.com/watch?v=yYzQPRRAs6M</id>
-        <link href="https://www.youtube.com/watch?v=yYzQPRRAs6M"/>
+        <id>https://www.youtube.com/watch?v=yYzQPRRAs6M&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=yYzQPRRAs6M&amp;feature=youtu.be"/>
         <updated>2022-08-31T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Nitro Launch with Steven Goldfeder & Harry Kalodner]]></summary>
         <author>
@@ -81,6 +81,16 @@
         <link href="https://www.0xchain.art/"/>
         <updated>2022-08-31T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[On-Chain Art]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...]]></title>
+        <id>https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor</id>
+        <link href="https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor"/>
+        <updated>2022-08-31T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://www.coindesk.com/tech/2022/08/31/can-ethereum-out-engineer-the-censors/"/>
         <updated>2022-08-31T15:30:04.000Z</updated>
         <summary type="html"><![CDATA[Can Ethereum Out-Engineer the Censors by 'Shuttering' the Beacon Chain?]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lasogette Integration]]></title>
-        <id>https://www.eternalproxy.com/lasogette-integration/</id>
-        <link href="https://www.eternalproxy.com/lasogette-integration/"/>
-        <updated>2022-08-31T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Lasogette Integration]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
