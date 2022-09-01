@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eth.build/",
+          "author": null,
+          "description": "ETH.Build - Educational Sandbox For Web3",
+          "link": "https://eth.build/",
+          "publishedOn": "2022-09-01T11:30:04.000Z",
+          "wordCount": 500,
+          "title": "ETH.Build - Educational Sandbox For Web3",
+          "imageUrl": "https://eth.build/title.jpg"
+        },
+        {
           "id": "https://github.com/risc0/risc0",
           "author": null,
           "description": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
@@ -13,7 +23,7 @@
           "publishedOn": "2022-09-01T11:00:03.000Z",
           "wordCount": 1676,
           "title": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
-          "imageUrl": "https://opengraph.githubassets.com/1855219d4aefeed97c0bf1140b20433c7f0f53b2ef0e485365e1e8f8fec5924c/risc0/risc0"
+          "imageUrl": "https://opengraph.githubassets.com/56afee41d08c5556cc4d2b84fd0641627f6ef9401454442042208d5aa9b155f3/risc0/risc0"
         },
         {
           "id": "https://time.com/6210087/gender-queer-book-ban-maia-kobabe/",
@@ -21,7 +31,7 @@
           "description": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
           "link": "https://time.com/6210087/gender-queer-book-ban-maia-kobabe/",
           "publishedOn": "2022-09-01T05:30:04.000Z",
-          "wordCount": 3108,
+          "wordCount": 3107,
           "title": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
           "imageUrl": "https://api.time.com/wp-content/uploads/2022/08/Maia-Kobabe-Tristan-Crane.jpg?quality=85&crop=0px%2C218px%2C1629px%2C852px&resize=1200%2C628&strip"
         },
@@ -81,7 +91,7 @@
           "description": "RSS3 X Lens - RSS3",
           "link": "https://rss3.xlog.app/rss3-lens",
           "publishedOn": "2022-08-31T21:00:03.000Z",
-          "wordCount": 140705,
+          "wordCount": 140218,
           "title": "RSS3 X Lens - RSS3",
           "imageUrl": null
         },
@@ -94,16 +104,6 @@
           "wordCount": 1209,
           "title": "On-Chain Art",
           "imageUrl": "/og-image.png"
-        },
-        {
-          "id": "https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor",
-          "author": null,
-          "description": "AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...",
-          "link": "https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor",
-          "publishedOn": "2022-08-31T21:00:03.000Z",
-          "wordCount": 1699,
-          "title": "AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...",
-          "imageUrl": null
         },
         {
           "id": "https://blog.seinetwork.io/sei-announces-5m-raise/",
@@ -131,7 +131,7 @@
           "description": "🌴 Babylon Finance is shutting down",
           "link": "https://medium.com/babylon-finance/babylon-finance-is-shutting-down-b58abf1bc251",
           "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 5860,
+          "wordCount": 5794,
           "title": "🌴 Babylon Finance is shutting down",
           "imageUrl": "https://miro.medium.com/max/1200/0*HG4ulmKazgXeVYKz.png"
         },
@@ -141,7 +141,7 @@
           "description": "Navigating Web3 Compensation: A Framework Report",
           "link": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
           "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 4538,
+          "wordCount": 4459,
           "title": "Navigating Web3 Compensation: A Framework Report",
           "imageUrl": "https://miro.medium.com/max/1200/0*8hlP79djA9npypfX"
         },
@@ -191,7 +191,7 @@
           "description": "Can Ethereum Out-Engineer the Censors by 'Shuttering' the Beacon Chain?",
           "link": "https://www.coindesk.com/tech/2022/08/31/can-ethereum-out-engineer-the-censors/",
           "publishedOn": "2022-08-31T15:30:04.000Z",
-          "wordCount": 9189,
+          "wordCount": 9160,
           "title": "Can Ethereum Out-Engineer the Censors by 'Shuttering' the Beacon Chain?",
           "imageUrl": "https://www.coindesk.com/resizer/qtRoKA-XG8kEjkyyRI5lEEo28sU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZLH563BYKZEXDCU5JLO66G4AZE.jpg"
         },

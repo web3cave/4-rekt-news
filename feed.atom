@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-01T11:19:15.916Z</id>
+    <id>urn:2022-09-01T12:45:51.685Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-01T11:19:15.916Z</updated>
+    <updated>2022-09-01T12:45:51.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH.Build - Educational Sandbox For Web3]]></title>
+        <id>https://eth.build/</id>
+        <link href="https://eth.build/"/>
+        <updated>2022-09-01T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[ETH.Build - Educational Sandbox For Web3]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...]]></title>
         <id>https://github.com/risc0/risc0</id>
@@ -91,16 +101,6 @@
         <link href="https://www.0xchain.art/"/>
         <updated>2022-08-31T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[On-Chain Art]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...]]></title>
-        <id>https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor</id>
-        <link href="https://oag.dc.gov/release/ag-racine-sues-dc-based-billionaire-michael-saylor"/>
-        <updated>2022-08-31T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[AG Racine Sues DC-Based Billionaire Michael Saylor & Software Company Microstrategy for Evading More Than $25 Million...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
