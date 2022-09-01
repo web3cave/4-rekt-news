@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eth.build/",
+          "author": null,
+          "description": "ETH.Build - Educational Sandbox For Web3",
+          "link": "https://eth.build/",
+          "publishedOn": "2022-09-01T23:00:03.000Z",
+          "wordCount": 500,
+          "title": "ETH.Build - Educational Sandbox For Web3",
+          "imageUrl": "https://eth.build/title.jpg"
+        },
+        {
+          "id": "https://canto.mirror.xyz/QjMcVxG65ScvuK0uMQ9W7I0gyo77jrEUIKibxWz0ebI",
+          "author": null,
+          "description": "Introducing CIP-1 Contract Secured Revenue (CSR): Tokenized Fee Sharing for Canto Builders",
+          "link": "https://canto.mirror.xyz/QjMcVxG65ScvuK0uMQ9W7I0gyo77jrEUIKibxWz0ebI",
+          "publishedOn": "2022-09-01T23:00:02.000Z",
+          "wordCount": 1509,
+          "title": "Introducing CIP-1 Contract Secured Revenue (CSR): Tokenized Fee Sharing for Canto Builders",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/aDbRl-Z3HtcQFthLHO_OB.png?height=1500&width=3000&h=1500&w=3000&auto=compress"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/the-decentralized-identity-revolution",
+          "author": null,
+          "description": "The Decentralized Identity Revolution",
+          "link": "https://newsletter.banklesshq.com/p/the-decentralized-identity-revolution",
+          "publishedOn": "2022-09-01T22:30:02.000Z",
+          "wordCount": 6216,
+          "title": "The Decentralized Identity Revolution",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7721b642-016b-45b6-9ec8-bdbac03e471b_1676x943.jpeg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gvKstUUdueM",
           "author": null,
           "description": "THE ETHEREUM MERGE! Everything You Need to Know",
@@ -51,7 +81,7 @@
           "description": "Thailand joins race to lure foreigners in path to economic boom",
           "link": "https://www.bangkokpost.com/business/2381821/thailand-joins-race-to-lure-foreigners-in-path-to-economic-boom",
           "publishedOn": "2022-09-01T20:00:04.000Z",
-          "wordCount": 12785,
+          "wordCount": 12797,
           "title": "Thailand joins race to lure foreigners in path to economic boom",
           "imageUrl": "https://static.bangkokpost.com/media/content/20220901/c1_2381821_700.jpg"
         },
@@ -81,7 +111,7 @@
           "description": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guanying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-01T18:00:04.000Z",
-          "wordCount": 11726,
+          "wordCount": 11749,
           "title": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -116,22 +146,12 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg"
         },
         {
-          "id": "https://github.com/risc0/risc0",
-          "author": null,
-          "description": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
-          "link": "https://github.com/risc0/risc0",
-          "publishedOn": "2022-09-01T11:00:03.000Z",
-          "wordCount": 1676,
-          "title": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
-          "imageUrl": "https://opengraph.githubassets.com/2bd12aff387e22d9b568abbf28325d79f3e9da024f6404234744525c30b61722/risc0/risc0"
-        },
-        {
           "id": "https://time.com/6210087/gender-queer-book-ban-maia-kobabe/",
           "author": null,
           "description": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
           "link": "https://time.com/6210087/gender-queer-book-ban-maia-kobabe/",
           "publishedOn": "2022-09-01T05:30:04.000Z",
-          "wordCount": 3110,
+          "wordCount": 3109,
           "title": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
           "imageUrl": "https://api.time.com/wp-content/uploads/2022/08/Maia-Kobabe-Tristan-Crane.jpg?quality=85&crop=0px%2C218px%2C1629px%2C852px&resize=1200%2C628&strip"
         },
@@ -146,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.mtgox.com/img/pdf/20220831_announcement_en.pdf",
-          "author": null,
-          "description": "[PDF] 20220831_announcement_en.pdf",
-          "link": "https://www.mtgox.com/img/pdf/20220831_announcement_en.pdf",
-          "publishedOn": "2022-09-01T00:00:04.000Z",
-          "wordCount": 3873,
-          "title": "[PDF] 20220831_announcement_en.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://metropolis.mirror.xyz/ozkx0ZMwIzyahRJiQKpNv_8r7vAhOo-8tucjONhXJHI",
           "author": null,
           "description": "Orca Protocol is now Metropolis",
@@ -164,16 +174,6 @@
           "wordCount": 2026,
           "title": "Orca Protocol is now Metropolis",
           "imageUrl": "https://mirror-media.imgix.net/nft/ivcj4pfvj3yKe6Tt3Mp4q.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://medium.com/babylon-finance/babylon-finance-is-shutting-down-b58abf1bc251",
-          "author": null,
-          "description": "🌴 Babylon Finance is shutting down",
-          "link": "https://medium.com/babylon-finance/babylon-finance-is-shutting-down-b58abf1bc251",
-          "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 6154,
-          "title": "🌴 Babylon Finance is shutting down",
-          "imageUrl": "https://miro.medium.com/max/1200/0*HG4ulmKazgXeVYKz.png"
         },
         {
           "id": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
@@ -201,9 +201,9 @@
           "description": "Proof Of Stake",
           "link": "https://proofofstake.gitcoin.co/",
           "publishedOn": "2022-08-31T05:00:04.000Z",
-          "wordCount": 45,
+          "wordCount": null,
           "title": "Proof Of Stake",
-          "imageUrl": "https://gitcoin.co/ProofOfStake/images/Ethereum_lego.png"
+          "imageUrl": null
         }
       ]
     }
