@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/risc0/risc0",
+          "author": null,
+          "description": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
+          "link": "https://github.com/risc0/risc0",
+          "publishedOn": "2022-09-01T11:00:03.000Z",
+          "wordCount": 1676,
+          "title": "GitHub - risc0/risc0: RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the...",
+          "imageUrl": "https://opengraph.githubassets.com/1855219d4aefeed97c0bf1140b20433c7f0f53b2ef0e485365e1e8f8fec5924c/risc0/risc0"
+        },
+        {
           "id": "https://time.com/6210087/gender-queer-book-ban-maia-kobabe/",
           "author": null,
           "description": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
@@ -14,6 +24,16 @@
           "wordCount": 3108,
           "title": "‘Gender Queer’ Author ‘Relieved’ After Court Rules Book's Sale Can’t Be Restricted in Virginia",
           "imageUrl": "https://api.time.com/wp-content/uploads/2022/08/Maia-Kobabe-Tristan-Crane.jpg?quality=85&crop=0px%2C218px%2C1629px%2C852px&resize=1200%2C628&strip"
+        },
+        {
+          "id": "https://tsdr.uspto.gov/#caseNumber=97095196&caseType=SERIAL_NO&searchType=statusSearch",
+          "author": null,
+          "description": "Trademark Status & Document Retrieval",
+          "link": "https://tsdr.uspto.gov/#caseNumber=97095196&caseType=SERIAL_NO&searchType=statusSearch",
+          "publishedOn": "2022-09-01T05:00:02.000Z",
+          "wordCount": 708,
+          "title": "Trademark Status & Document Retrieval",
+          "imageUrl": null
         },
         {
           "id": "https://www.mtgox.com/img/pdf/20220831_announcement_en.pdf",
@@ -34,16 +54,6 @@
           "wordCount": null,
           "title": "4th.Energy",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/etherscan-blog/souls-of-immortal-nfts-de212a840de5",
-          "author": null,
-          "description": "Souls of Immortal NFTs",
-          "link": "https://medium.com/etherscan-blog/souls-of-immortal-nfts-de212a840de5",
-          "publishedOn": "2022-08-31T23:00:02.000Z",
-          "wordCount": 6341,
-          "title": "Souls of Immortal NFTs",
-          "imageUrl": "https://miro.medium.com/max/1200/1*CopvTJ8IwBPw3SLzloqumA.png"
         },
         {
           "id": "https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed",
@@ -71,7 +81,7 @@
           "description": "RSS3 X Lens - RSS3",
           "link": "https://rss3.xlog.app/rss3-lens",
           "publishedOn": "2022-08-31T21:00:03.000Z",
-          "wordCount": 143727,
+          "wordCount": 140705,
           "title": "RSS3 X Lens - RSS3",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "🌴 Babylon Finance is shutting down",
           "link": "https://medium.com/babylon-finance/babylon-finance-is-shutting-down-b58abf1bc251",
           "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 5794,
+          "wordCount": 5860,
           "title": "🌴 Babylon Finance is shutting down",
           "imageUrl": "https://miro.medium.com/max/1200/0*HG4ulmKazgXeVYKz.png"
         },
@@ -131,7 +141,7 @@
           "description": "Navigating Web3 Compensation: A Framework Report",
           "link": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
           "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 4456,
+          "wordCount": 4538,
           "title": "Navigating Web3 Compensation: A Framework Report",
           "imageUrl": "https://miro.medium.com/max/1200/0*8hlP79djA9npypfX"
         },
@@ -181,7 +191,7 @@
           "description": "Can Ethereum Out-Engineer the Censors by 'Shuttering' the Beacon Chain?",
           "link": "https://www.coindesk.com/tech/2022/08/31/can-ethereum-out-engineer-the-censors/",
           "publishedOn": "2022-08-31T15:30:04.000Z",
-          "wordCount": 9214,
+          "wordCount": 9189,
           "title": "Can Ethereum Out-Engineer the Censors by 'Shuttering' the Beacon Chain?",
           "imageUrl": "https://www.coindesk.com/resizer/qtRoKA-XG8kEjkyyRI5lEEo28sU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZLH563BYKZEXDCU5JLO66G4AZE.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 45,
           "title": "Proof Of Stake",
           "imageUrl": "https://gitcoin.co/ProofOfStake/images/Ethereum_lego.png"
-        },
-        {
-          "id": "https://vitalik.ca/general/2019/12/26/mvb.html",
-          "author": null,
-          "description": "Base Layers And Functionality Escape Velocity",
-          "link": "https://vitalik.ca/general/2019/12/26/mvb.html",
-          "publishedOn": "2022-08-31T03:00:02.000Z",
-          "wordCount": 1971,
-          "title": "Base Layers And Functionality Escape Velocity",
-          "imageUrl": null
         }
       ]
     }
