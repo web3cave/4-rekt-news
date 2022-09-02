@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T14:20:15.406Z</id>
+    <id>urn:2022-09-02T15:23:49.603Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T14:20:15.406Z</updated>
+    <updated>2022-09-02T15:23:49.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog]]></title>
+        <id>https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third</id>
+        <link href="https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third"/>
+        <updated>2022-09-02T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider]]></title>
         <id>https://github.com/samcm/checkpointz</id>
@@ -191,16 +201,6 @@
         <link href="https://www.stanfordcrypto.io/chats/richard"/>
         <updated>2022-09-01T17:00:10.000Z</updated>
         <summary type="html"><![CDATA[Richard: 1confirmation — crypto @ stanford]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Web3 Compensation: A Framework Report]]></title>
-        <id>https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767</id>
-        <link href="https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767"/>
-        <updated>2022-08-31T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Navigating Web3 Compensation: A Framework Report]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

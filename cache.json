@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
+          "author": null,
+          "description": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
+          "publishedOn": "2022-09-02T15:00:07.000Z",
+          "wordCount": 1385,
+          "title": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_eee89d27faf03f0be7d1724c13c5d7dc.jpg"
+        },
+        {
           "id": "https://github.com/samcm/checkpointz",
           "author": null,
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
@@ -21,7 +31,7 @@
           "description": "Ultra Sound Money",
           "link": "https://ultrasound.money/",
           "publishedOn": "2022-09-02T06:00:06.000Z",
-          "wordCount": 12300,
+          "wordCount": 12144,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
@@ -101,7 +111,7 @@
           "description": "Summer Lovin' Artisan Contest Winners!",
           "link": "https://axie.substack.com/p/summer-lovin-artisan-contest-winners",
           "publishedOn": "2022-09-01T21:30:05.000Z",
-          "wordCount": 15924,
+          "wordCount": 15718,
           "title": "Summer Lovin' Artisan Contest Winners!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7719e7c0-8091-4174-a0bb-a417444e943d_4096x2539.jpeg"
         },
@@ -161,7 +171,7 @@
           "description": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guanying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-01T18:00:04.000Z",
-          "wordCount": 11742,
+          "wordCount": 11778,
           "title": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -181,7 +191,7 @@
           "description": "Maple Finance ($MPL) and the Future of DeFi",
           "link": "https://blockcrunch.substack.com/p/maple-finance-mpl-and-the-future?sd=pf",
           "publishedOn": "2022-09-01T17:00:10.000Z",
-          "wordCount": 1553,
+          "wordCount": 1552,
           "title": "Maple Finance ($MPL) and the Future of DeFi",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b9f2302-62ce-4c82-a3a0-5571148ceb67_1600x602.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 6670,
           "title": "Richard: 1confirmation — crypto @ stanford",
           "imageUrl": "http://static1.squarespace.com/static/616903f66e606d454be72f4d/t/620bd429467d58106494e2c1/1648086225655/c%40s+logo.jpg?format=1500w"
-        },
-        {
-          "id": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
-          "author": null,
-          "description": "Navigating Web3 Compensation: A Framework Report",
-          "link": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
-          "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 4852,
-          "title": "Navigating Web3 Compensation: A Framework Report",
-          "imageUrl": "https://miro.medium.com/max/1200/0*8hlP79djA9npypfX"
         }
       ]
     }
