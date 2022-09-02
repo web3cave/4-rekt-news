@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.stanfordcrypto.io/chats/richard",
+          "author": null,
+          "description": "Richard: 1confirmation — crypto @ stanford",
+          "link": "https://www.stanfordcrypto.io/chats/richard",
+          "publishedOn": "2022-09-02T20:30:03.000Z",
+          "wordCount": 6670,
+          "title": "Richard: 1confirmation — crypto @ stanford",
+          "imageUrl": "http://static1.squarespace.com/static/616903f66e606d454be72f4d/t/620bd429467d58106494e2c1/1648086225655/c%40s+logo.jpg?format=1500w"
+        },
+        {
+          "id": "https://www.flashbots.net/mev-sbc-workshop",
+          "author": null,
+          "description": "MEV-sbc Workshop",
+          "link": "https://www.flashbots.net/mev-sbc-workshop",
+          "publishedOn": "2022-09-02T20:30:03.000Z",
+          "wordCount": 2295,
+          "title": "MEV-sbc Workshop",
+          "imageUrl": "https://flashbots.net/api/social-image?id=6dcb3501-d7e6-47b9-8b70-3b6312c3e95b"
+        },
+        {
           "id": "https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html",
           "author": null,
           "description": "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.",
           "link": "https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html",
           "publishedOn": "2022-09-02T19:00:03.000Z",
-          "wordCount": 4704,
+          "wordCount": 4718,
           "title": "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.",
           "imageUrl": "https://static01.nyt.com/images/2022/09/01/business/00roose-1/00roose-1-facebookJumbo.jpg"
         },
@@ -31,7 +51,7 @@
           "description": "Paolo Ardoino talks Holepunch and the future of P2P tech",
           "link": "https://www.theblock.co/post/167276/paolo-ardoino-talks-holepunch-and-the-the-future-of-p2p-tech",
           "publishedOn": "2022-09-02T19:00:03.000Z",
-          "wordCount": 74269,
+          "wordCount": 74438,
           "title": "Paolo Ardoino talks Holepunch and the future of P2P tech",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220831_TheScoop_Paolo_Ardoino_16x93.jpg"
         },
@@ -91,9 +111,9 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1773,
+          "wordCount": 1764,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
-          "imageUrl": "https://opengraph.githubassets.com/5c4f913b4b9ff2abdca2e68d54356a3ab3dcaeff0bf7f8e4642b37516c080cd8/samcm/checkpointz"
+          "imageUrl": "https://opengraph.githubassets.com/03db4b683236405d3bb34c0b77a8366f986e1c82be07a4bca6c1700034fc68c2/samcm/checkpointz"
         },
         {
           "id": "https://ultrasound.money/",
@@ -101,19 +121,9 @@
           "description": "Ultra Sound Money",
           "link": "https://ultrasound.money/",
           "publishedOn": "2022-09-02T06:00:06.000Z",
-          "wordCount": 12072,
+          "wordCount": 12122,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
-        },
-        {
-          "id": "https://consensys.net/merge/",
-          "author": null,
-          "description": "Explore the Merge with Consensys",
-          "link": "https://consensys.net/merge/",
-          "publishedOn": "2022-09-02T05:30:05.000Z",
-          "wordCount": 2506,
-          "title": "Explore the Merge with Consensys",
-          "imageUrl": null
         },
         {
           "id": "https://blog.sudoswap.xyz/sudo-distribution.html",
@@ -126,14 +136,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/twitter-facebook-regularly-coordinated-biden-admin-censor-users",
+          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/proxy/beacon/IBeacon.sol",
           "author": null,
-          "description": "Twitter, Facebook Regularly Coordinated With Biden Admin To Censor Users | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/twitter-facebook-regularly-coordinated-biden-admin-censor-users",
-          "publishedOn": "2022-09-02T01:30:04.000Z",
-          "wordCount": 2162,
-          "title": "Twitter, Facebook Regularly Coordinated With Biden Admin To Censor Users | ZeroHedge",
-          "imageUrl": null
+          "description": "openzeppelin-contracts/IBeacon.sol at master · OpenZeppelin/openzeppelin-contracts",
+          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/proxy/beacon/IBeacon.sol",
+          "publishedOn": "2022-09-02T02:30:03.000Z",
+          "wordCount": 411,
+          "title": "openzeppelin-contracts/IBeacon.sol at master · OpenZeppelin/openzeppelin-contracts",
+          "imageUrl": "https://opengraph.githubassets.com/48337e206f6c6e2230f47da73b6c0b5f2bce02b86318e5b4316beca26e3599ce/OpenZeppelin/openzeppelin-contracts"
         },
         {
           "id": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/OjGTLJFbynwy9y9vererXiCpcO6xu_SHDoU-hbxL4co",
@@ -184,16 +194,6 @@
           "wordCount": null,
           "title": "THE ETHEREUM MERGE! Everything You Need to Know",
           "imageUrl": null
-        },
-        {
-          "id": "https://axie.substack.com/p/summer-lovin-artisan-contest-winners",
-          "author": null,
-          "description": "Summer Lovin' Artisan Contest Winners!",
-          "link": "https://axie.substack.com/p/summer-lovin-artisan-contest-winners",
-          "publishedOn": "2022-09-01T21:30:05.000Z",
-          "wordCount": 15717,
-          "title": "Summer Lovin' Artisan Contest Winners!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7719e7c0-8091-4174-a0bb-a417444e943d_4096x2539.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=yovdsKTQFR0&feature=youtu.be",
