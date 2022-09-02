@@ -6,24 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.bangkokpost.com/business/2381821/thailand-joins-race-to-lure-foreigners-in-path-to-economic-boom",
+          "id": "https://eips.ethereum.org/EIPS/eip-2",
           "author": null,
-          "description": "Thailand joins race to lure foreigners in path to economic boom",
-          "link": "https://www.bangkokpost.com/business/2381821/thailand-joins-race-to-lure-foreigners-in-path-to-economic-boom",
-          "publishedOn": "2022-09-02T16:30:02.000Z",
-          "wordCount": 12739,
-          "title": "Thailand joins race to lure foreigners in path to economic boom",
-          "imageUrl": "https://static.bangkokpost.com/media/content/20220901/c1_2381821_700.jpg"
+          "description": "EIP-2: Homestead Hard-fork Changes",
+          "link": "https://eips.ethereum.org/EIPS/eip-2",
+          "publishedOn": "2022-09-02T17:30:05.000Z",
+          "wordCount": 968,
+          "title": "EIP-2: Homestead Hard-fork Changes",
+          "imageUrl": null
         },
         {
-          "id": "https://volt.capital/blog/the-future-of-on-chain-gaming",
+          "id": "https://medium.com/yield-guild-games/ygg-purchases-digidaigaku-nfts-in-limit-breaks-free-to-own-game-5cf159789ae6",
           "author": null,
-          "description": "The Future of On-Chain Gaming",
-          "link": "https://volt.capital/blog/the-future-of-on-chain-gaming",
-          "publishedOn": "2022-09-02T16:30:02.000Z",
-          "wordCount": 1423,
-          "title": "The Future of On-Chain Gaming",
-          "imageUrl": ""
+          "description": "YGG Purchases DigiDaigaku NFTs in Limit Break’s “Free-to-Own” Game",
+          "link": "https://medium.com/yield-guild-games/ygg-purchases-digidaigaku-nfts-in-limit-breaks-free-to-own-game-5cf159789ae6",
+          "publishedOn": "2022-09-02T17:30:05.000Z",
+          "wordCount": 2015,
+          "title": "YGG Purchases DigiDaigaku NFTs in Limit Break’s “Free-to-Own” Game",
+          "imageUrl": "https://miro.medium.com/max/1200/0*-ldflKvastyEvNIk"
         },
         {
           "id": "https://github.com/ledgerwatch/erigon-lib/pull/616",
@@ -53,7 +53,7 @@
           "publishedOn": "2022-09-02T11:00:04.000Z",
           "wordCount": 1773,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
-          "imageUrl": "https://opengraph.githubassets.com/11528dd667726ecc8e4c15d3a8c20356c4e224129e5c68667fb9d990a52774a7/samcm/checkpointz"
+          "imageUrl": "https://opengraph.githubassets.com/5c4f913b4b9ff2abdca2e68d54356a3ab3dcaeff0bf7f8e4642b37516c080cd8/samcm/checkpointz"
         },
         {
           "id": "https://ultrasound.money/",
@@ -61,7 +61,7 @@
           "description": "Ultra Sound Money",
           "link": "https://ultrasound.money/",
           "publishedOn": "2022-09-02T06:00:06.000Z",
-          "wordCount": 12250,
+          "wordCount": 12181,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
@@ -86,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/proxy/beacon/IBeacon.sol",
+          "author": null,
+          "description": "openzeppelin-contracts/IBeacon.sol at master · OpenZeppelin/openzeppelin-contracts",
+          "link": "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/proxy/beacon/IBeacon.sol",
+          "publishedOn": "2022-09-02T02:30:03.000Z",
+          "wordCount": 411,
+          "title": "openzeppelin-contracts/IBeacon.sol at master · OpenZeppelin/openzeppelin-contracts",
+          "imageUrl": "https://opengraph.githubassets.com/8e6121a0706541faec174e571e4cfadc3f055e0118d6bac05771d4fc435f0feb/OpenZeppelin/openzeppelin-contracts"
+        },
+        {
           "id": "https://www.zerohedge.com/political/twitter-facebook-regularly-coordinated-biden-admin-censor-users",
           "author": null,
           "description": "Twitter, Facebook Regularly Coordinated With Biden Admin To Censor Users | ZeroHedge",
@@ -104,6 +114,16 @@
           "wordCount": 2360,
           "title": "Sherlock Launches the Next Generation of Audits",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/ha4wkdwb4NS0eu84Rg4Kf.png?height=2000&width=4000&h=2000&w=4000&auto=compress"
+        },
+        {
+          "id": "https://cyberbrokers.substack.com/p/pixie-bolt-ai-text-to-image-service",
+          "author": null,
+          "description": "Pixie Bolt AI Text-to-Image Service Launches",
+          "link": "https://cyberbrokers.substack.com/p/pixie-bolt-ai-text-to-image-service",
+          "publishedOn": "2022-09-01T23:30:05.000Z",
+          "wordCount": 2898,
+          "title": "Pixie Bolt AI Text-to-Image Service Launches",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65559506-6b4c-49c4-bdb1-3c313035bfa1_2671x1332.png"
         },
         {
           "id": "https://gm.xyz/",
@@ -136,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.farcaster.network/",
-          "author": null,
-          "description": "Farcaster Network",
-          "link": "https://www.farcaster.network/",
-          "publishedOn": "2022-09-01T21:30:05.000Z",
-          "wordCount": 28,
-          "title": "Farcaster Network",
-          "imageUrl": "https://farcaster.network/sharing.png"
-        },
-        {
           "id": "https://axie.substack.com/p/summer-lovin-artisan-contest-winners",
           "author": null,
           "description": "Summer Lovin' Artisan Contest Winners!",
@@ -174,16 +184,6 @@
           "wordCount": 2295,
           "title": "MEV-sbc Workshop",
           "imageUrl": "https://flashbots.net/api/social-image?id=6dcb3501-d7e6-47b9-8b70-3b6312c3e95b"
-        },
-        {
-          "id": "https://www.flashbots.net/",
-          "author": null,
-          "description": "Flashbots",
-          "link": "https://www.flashbots.net/",
-          "publishedOn": "2022-09-01T19:00:01.000Z",
-          "wordCount": 2279,
-          "title": "Flashbots",
-          "imageUrl": "https://flashbots.net/api/social-image?id=e5aaaa13ba604e09a31d944e8bf50318"
         },
         {
           "id": "https://www.youtube.com/watch?v=yovdsKTQFR0&feature=youtu.be",
