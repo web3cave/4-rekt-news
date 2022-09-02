@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=f_dUrmjVIHs&feature=youtu.be",
+          "author": null,
+          "description": "Arbitrum Nitro live, Orca is now Metropolis and more - The Daily Gwei Refuel #439 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=f_dUrmjVIHs&feature=youtu.be",
+          "publishedOn": "2022-09-02T06:00:07.000Z",
+          "wordCount": null,
+          "title": "Arbitrum Nitro live, Orca is now Metropolis and more - The Daily Gwei Refuel #439 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ultrasound.money/",
+          "author": null,
+          "description": "Ultra Sound Money",
+          "link": "https://ultrasound.money/",
+          "publishedOn": "2022-09-02T06:00:06.000Z",
+          "wordCount": 12137,
+          "title": "Ultra Sound Money",
+          "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
+          "id": "https://consensys.net/merge/",
+          "author": null,
+          "description": "Explore the Merge with Consensys",
+          "link": "https://consensys.net/merge/",
+          "publishedOn": "2022-09-02T05:30:05.000Z",
+          "wordCount": 2498,
+          "title": "Explore the Merge with Consensys",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.sudoswap.xyz/sudo-distribution.html",
           "author": null,
           "description": "sudoswap blog",
@@ -14,26 +44,6 @@
           "wordCount": 530,
           "title": "sudoswap blog",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/OjGTLJFbynwy9y9vererXiCpcO6xu_SHDoU-hbxL4co",
-          "author": null,
-          "description": "Sherlock Launches the Next Generation of Audits",
-          "link": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/OjGTLJFbynwy9y9vererXiCpcO6xu_SHDoU-hbxL4co",
-          "publishedOn": "2022-09-01T23:30:05.000Z",
-          "wordCount": 2360,
-          "title": "Sherlock Launches the Next Generation of Audits",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/ha4wkdwb4NS0eu84Rg4Kf.png?height=2000&width=4000&h=2000&w=4000&auto=compress"
-        },
-        {
-          "id": "https://gm.xyz/",
-          "author": null,
-          "description": "gm.xyz",
-          "link": "https://gm.xyz/",
-          "publishedOn": "2022-09-01T23:30:04.000Z",
-          "wordCount": 433,
-          "title": "gm.xyz",
-          "imageUrl": "https://gm.xyz/static/images/main.png"
         },
         {
           "id": "https://canto.mirror.xyz/QjMcVxG65ScvuK0uMQ9W7I0gyo77jrEUIKibxWz0ebI",
@@ -116,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.flashbots.net/mev-sbc-workshop",
-          "author": null,
-          "description": "MEV-sbc Workshop",
-          "link": "https://www.flashbots.net/mev-sbc-workshop",
-          "publishedOn": "2022-09-01T19:00:02.000Z",
-          "wordCount": 2295,
-          "title": "MEV-sbc Workshop",
-          "imageUrl": "https://flashbots.net/api/social-image?id=6dcb3501-d7e6-47b9-8b70-3b6312c3e95b"
-        },
-        {
           "id": "https://www.flashbots.net/",
           "author": null,
           "description": "Flashbots",
@@ -141,9 +141,19 @@
           "description": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guanying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-01T18:00:04.000Z",
-          "wordCount": 11741,
+          "wordCount": 11759,
           "title": "Who Is Guanying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yovdsKTQFR0",
+          "author": null,
+          "description": "The Evolution of Chainlink with Sergey Nazarov - Green Pill #41",
+          "link": "https://www.youtube.com/watch?v=yovdsKTQFR0",
+          "publishedOn": "2022-09-01T17:00:10.000Z",
+          "wordCount": null,
+          "title": "The Evolution of Chainlink with Sergey Nazarov - Green Pill #41",
+          "imageUrl": null
         },
         {
           "id": "https://www.prnewswire.com/news-releases/former-cftc-commissioner-jill-sommers-joins-ftx-us-derivatives-board-301616429.html?tc=eml_cleartime",
@@ -161,7 +171,7 @@
           "description": "Maple Finance ($MPL) and the Future of DeFi",
           "link": "https://blockcrunch.substack.com/p/maple-finance-mpl-and-the-future?sd=pf",
           "publishedOn": "2022-09-01T17:00:10.000Z",
-          "wordCount": 1529,
+          "wordCount": 1553,
           "title": "Maple Finance ($MPL) and the Future of DeFi",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b9f2302-62ce-4c82-a3a0-5571148ceb67_1600x602.png"
         },
@@ -176,22 +186,12 @@
           "imageUrl": "http://static1.squarespace.com/static/616903f66e606d454be72f4d/t/620bd429467d58106494e2c1/1648086225655/c%40s+logo.jpg?format=1500w"
         },
         {
-          "id": "https://www.youtube.com/watch?v=yovdsKTQFR0",
-          "author": null,
-          "description": "The Evolution of Chainlink with Sergey Nazarov - Green Pill #41",
-          "link": "https://www.youtube.com/watch?v=yovdsKTQFR0",
-          "publishedOn": "2022-09-01T17:00:10.000Z",
-          "wordCount": null,
-          "title": "The Evolution of Chainlink with Sergey Nazarov - Green Pill #41",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/166936/brown-rudnicks-crypto-practice-gains-four-seasoned-partners?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Brown Rudnick's crypto practice gains four seasoned partners",
           "link": "https://www.theblock.co/post/166936/brown-rudnicks-crypto-practice-gains-four-seasoned-partners?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-01T13:00:01.000Z",
-          "wordCount": 73829,
+          "wordCount": 73120,
           "title": "Brown Rudnick's crypto practice gains four seasoned partners",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/04/legal-letter-law-lawyer.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Navigating Web3 Compensation: A Framework Report",
           "link": "https://medium.com/@framework/navigating-web3-compensation-a-framework-report-1a053ba41767",
           "publishedOn": "2022-08-31T21:00:02.000Z",
-          "wordCount": 4852,
+          "wordCount": 4876,
           "title": "Navigating Web3 Compensation: A Framework Report",
           "imageUrl": "https://miro.medium.com/max/1200/0*8hlP79djA9npypfX"
         }
