@@ -6,12 +6,62 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bQK9Yr1BpQw&feature=youtu.be",
+          "author": null,
+          "description": "The Bull Case for Rocketpool with Marceau & Ken Smith",
+          "link": "https://www.youtube.com/watch?v=bQK9Yr1BpQw&feature=youtu.be",
+          "publishedOn": "2022-09-03T02:00:05.000Z",
+          "wordCount": null,
+          "title": "The Bull Case for Rocketpool with Marceau & Ken Smith",
+          "imageUrl": null
+        },
+        {
+          "id": "https://home.treasury.gov/system/files/126/20220902_cyber_regulations.pdf",
+          "author": null,
+          "description": "[PDF] 20220902_cyber_regulations.pdf",
+          "link": "https://home.treasury.gov/system/files/126/20220902_cyber_regulations.pdf",
+          "publishedOn": "2022-09-03T01:30:04.000Z",
+          "wordCount": 11145,
+          "title": "[PDF] 20220902_cyber_regulations.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
+          "author": null,
+          "description": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
+          "link": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
+          "publishedOn": "2022-09-03T00:30:03.000Z",
+          "wordCount": 4795,
+          "title": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
+          "imageUrl": "https://www.coindesk.com/resizer/R8giRh4Sxgto74FJ4rbt-Hvba_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/STK6NRQELZFN7PMYZ32QPLFFBU.jpg"
+        },
+        {
+          "id": "https://github.com/solana-labs/move",
+          "author": null,
+          "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
+          "link": "https://github.com/solana-labs/move",
+          "publishedOn": "2022-09-03T00:00:05.000Z",
+          "wordCount": 696,
+          "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
+          "imageUrl": "https://opengraph.githubassets.com/904d6eb00c9dbf46a16255657a93b235959281ffba4fb2c4381ce4f6a4bb9238/solana-labs/move"
+        },
+        {
+          "id": "https://nearcon.org/",
+          "author": null,
+          "description": "NEARCON BETA 2022",
+          "link": "https://nearcon.org/",
+          "publishedOn": "2022-09-02T23:30:05.000Z",
+          "wordCount": 17245,
+          "title": "NEARCON BETA 2022",
+          "imageUrl": "https://s3.amazonaws.com/s3.clients.splashthat.com/img/events/splash/cards/458468604.x3.9c72db2f.png"
+        },
+        {
           "id": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "author": null,
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-02T23:00:02.000Z",
-          "wordCount": 11787,
+          "wordCount": 11742,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -21,7 +71,7 @@
           "description": "Delphi Digital",
           "link": "https://members.delphidigital.io/reports/pollen-and-helium-the-race-to-bootstrap-a-5g-network/",
           "publishedOn": "2022-09-02T23:00:02.000Z",
-          "wordCount": 10063,
+          "wordCount": 10081,
           "title": "Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/07/Slide5-6-1024x544.png"
         },
@@ -56,16 +106,6 @@
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/08/CBE_NFT_Licenses_B_FacebookShare_R2.jpg"
         },
         {
-          "id": "https://www.flashbots.net/mev-sbc-workshop",
-          "author": null,
-          "description": "MEV-sbc Workshop",
-          "link": "https://www.flashbots.net/mev-sbc-workshop",
-          "publishedOn": "2022-09-02T20:30:03.000Z",
-          "wordCount": 2295,
-          "title": "MEV-sbc Workshop",
-          "imageUrl": "https://flashbots.net/api/social-image?id=6dcb3501-d7e6-47b9-8b70-3b6312c3e95b"
-        },
-        {
           "id": "https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html",
           "author": null,
           "description": "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.",
@@ -86,26 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/167276/paolo-ardoino-talks-holepunch-and-the-the-future-of-p2p-tech",
-          "author": null,
-          "description": "Paolo Ardoino talks Holepunch and the future of P2P tech",
-          "link": "https://www.theblock.co/post/167276/paolo-ardoino-talks-holepunch-and-the-the-future-of-p2p-tech",
-          "publishedOn": "2022-09-02T19:00:03.000Z",
-          "wordCount": 74501,
-          "title": "Paolo Ardoino talks Holepunch and the future of P2P tech",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220831_TheScoop_Paolo_Ardoino_16x93.jpg"
-        },
-        {
-          "id": "https://roadmap.lvcidia.xyz/assets/LVCIDIA_WhitePaper_v_01.pdf",
-          "author": null,
-          "description": "[PDF] LVCIDIA_WhitePaper_v_01.pdf",
-          "link": "https://roadmap.lvcidia.xyz/assets/LVCIDIA_WhitePaper_v_01.pdf",
-          "publishedOn": "2022-09-02T19:00:03.000Z",
-          "wordCount": null,
-          "title": "[PDF] LVCIDIA_WhitePaper_v_01.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://eips.ethereum.org/EIPS/eip-2",
           "author": null,
           "description": "EIP-2: Homestead Hard-fork Changes",
@@ -121,7 +141,7 @@
           "description": "YGG Purchases DigiDaigaku NFTs in Limit Break’s “Free-to-Own” Game",
           "link": "https://medium.com/yield-guild-games/ygg-purchases-digidaigaku-nfts-in-limit-breaks-free-to-own-game-5cf159789ae6",
           "publishedOn": "2022-09-02T17:30:05.000Z",
-          "wordCount": 2400,
+          "wordCount": 2015,
           "title": "YGG Purchases DigiDaigaku NFTs in Limit Break’s “Free-to-Own” Game",
           "imageUrl": "https://miro.medium.com/max/1200/0*-ldflKvastyEvNIk"
         },
@@ -151,7 +171,7 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1773,
+          "wordCount": 1645,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "imageUrl": "https://opengraph.githubassets.com/03db4b683236405d3bb34c0b77a8366f986e1c82be07a4bca6c1700034fc68c2/samcm/checkpointz"
         },
@@ -161,7 +181,7 @@
           "description": "Ultra Sound Money",
           "link": "https://ultrasound.money/",
           "publishedOn": "2022-09-02T06:00:06.000Z",
-          "wordCount": 12058,
+          "wordCount": 12097,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
@@ -174,26 +194,6 @@
           "wordCount": 530,
           "title": "sudoswap blog",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/OjGTLJFbynwy9y9vererXiCpcO6xu_SHDoU-hbxL4co",
-          "author": null,
-          "description": "Sherlock Launches the Next Generation of Audits",
-          "link": "https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/OjGTLJFbynwy9y9vererXiCpcO6xu_SHDoU-hbxL4co",
-          "publishedOn": "2022-09-01T23:30:05.000Z",
-          "wordCount": 2360,
-          "title": "Sherlock Launches the Next Generation of Audits",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/ha4wkdwb4NS0eu84Rg4Kf.png?height=2000&width=4000&h=2000&w=4000&auto=compress"
-        },
-        {
-          "id": "https://canto.mirror.xyz/QjMcVxG65ScvuK0uMQ9W7I0gyo77jrEUIKibxWz0ebI",
-          "author": null,
-          "description": "Introducing CIP-1 Contract Secured Revenue (CSR): Tokenized Fee Sharing for Canto Builders",
-          "link": "https://canto.mirror.xyz/QjMcVxG65ScvuK0uMQ9W7I0gyo77jrEUIKibxWz0ebI",
-          "publishedOn": "2022-09-01T23:00:02.000Z",
-          "wordCount": 1509,
-          "title": "Introducing CIP-1 Contract Secured Revenue (CSR): Tokenized Fee Sharing for Canto Builders",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/aDbRl-Z3HtcQFthLHO_OB.png?height=1500&width=3000&h=1500&w=3000&auto=compress"
         },
         {
           "id": "https://www.youtube.com/watch?v=gvKstUUdueM",
