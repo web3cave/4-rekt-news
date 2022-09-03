@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y60dtTqMUKo",
+          "author": null,
+          "description": "The Chopping Block: Why DeFi May Be Over-Complying With Tornado Cash Sanctions - Ep. 392",
+          "link": "https://www.youtube.com/watch?v=Y60dtTqMUKo",
+          "publishedOn": "2022-09-03T21:00:02.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block: Why DeFi May Be Over-Complying With Tornado Cash Sanctions - Ep. 392",
+          "imageUrl": null
+        },
+        {
+          "id": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
+          "author": null,
+          "description": "What Is a Short Squeeze? | Binance Academy",
+          "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
+          "publishedOn": "2022-09-03T21:00:02.000Z",
+          "wordCount": 6996,
+          "title": "What Is a Short Squeeze? | Binance Academy",
+          "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
+        },
+        {
           "id": "https://www.businessinsider.com/the-rise-of-cryptocurrency-youtube-influencers-2022-8",
           "author": null,
           "description": "The rise of the crypto hype men: How YouTubers are making fortunes by promoting cryptocurrencies, making wild...",
@@ -14,16 +34,6 @@
           "wordCount": 5065,
           "title": "The rise of the crypto hype men: How YouTubers are making fortunes by promoting cryptocurrencies, making wild...",
           "imageUrl": "https://i.insider.com/6303e231c2794d00197f1104?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
-          "author": null,
-          "description": "Designing a Central Bank Digital Currency with Support for Cash-Like Privacy",
-          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
-          "publishedOn": "2022-09-03T19:00:02.000Z",
-          "wordCount": 2871,
-          "title": "Designing a Central Bank Digital Currency with Support for Cash-Like Privacy",
-          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
         },
         {
           "id": "https://clientdiversity.org/",
@@ -36,34 +46,24 @@
           "imageUrl": "/assets/img/cover/cover.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=_5OwvNA6v5o&feature=youtu.be",
-          "author": null,
-          "description": "Zora on Bringing Latasha Into the Fold | We Do A Little Clips",
-          "link": "https://www.youtube.com/watch?v=_5OwvNA6v5o&feature=youtu.be",
-          "publishedOn": "2022-09-03T17:00:02.000Z",
-          "wordCount": null,
-          "title": "Zora on Bringing Latasha Into the Fold | We Do A Little Clips",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rq6GYJsbfCU",
-          "author": null,
-          "description": "The Space Revolution and The Purpose of People | Rick Tumlinson | TEDxWaterStreet",
-          "link": "https://www.youtube.com/watch?v=Rq6GYJsbfCU",
-          "publishedOn": "2022-09-03T17:00:02.000Z",
-          "wordCount": null,
-          "title": "The Space Revolution and The Purpose of People | Rick Tumlinson | TEDxWaterStreet",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/starkware/arithmetization-i-15c046390862",
           "author": null,
           "description": "Arithmetization I",
           "link": "https://medium.com/starkware/arithmetization-i-15c046390862",
           "publishedOn": "2022-09-03T16:30:02.000Z",
-          "wordCount": 4977,
+          "wordCount": 5040,
           "title": "Arithmetization I",
           "imageUrl": "https://miro.medium.com/max/1200/0*_QRuAz6Y7LL3prin"
+        },
+        {
+          "id": "https://dot.la/cameo-bored-ape-2658114731.html",
+          "author": null,
+          "description": "Cameo Adds a Bored Ape to Its Celebrity Video Platform",
+          "link": "https://dot.la/cameo-bored-ape-2658114731.html",
+          "publishedOn": "2022-09-03T16:30:02.000Z",
+          "wordCount": 8961,
+          "title": "Cameo Adds a Bored Ape to Its Celebrity Video Platform",
+          "imageUrl": "https://dot.la/media-library/adam-draper-next-to-his-bored-ape.jpg?id=31459643&width=1200&height=600&coordinates=0%2C0%2C0%2C250"
         },
         {
           "id": "https://www.comp.xyz/t/cgp-2-0-delegated-domain-allocation-by-questbook/3352/38",
@@ -81,7 +81,7 @@
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-03T14:30:02.000Z",
-          "wordCount": 11773,
+          "wordCount": 11746,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -91,7 +91,7 @@
           "description": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "link": "https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945?st=b41kb6qhscgycz7",
           "publishedOn": "2022-09-03T14:00:04.000Z",
-          "wordCount": 5536,
+          "wordCount": 5537,
           "title": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "imageUrl": "https://images.wsj.net/im-615468/social"
         },
@@ -136,14 +136,24 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
+          "author": null,
+          "description": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
+          "link": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
+          "publishedOn": "2022-09-03T00:30:03.000Z",
+          "wordCount": 4729,
+          "title": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
+          "imageUrl": "https://www.coindesk.com/resizer/R8giRh4Sxgto74FJ4rbt-Hvba_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/STK6NRQELZFN7PMYZ32QPLFFBU.jpg"
+        },
+        {
           "id": "https://github.com/solana-labs/move",
           "author": null,
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "link": "https://github.com/solana-labs/move",
           "publishedOn": "2022-09-03T00:00:05.000Z",
-          "wordCount": 696,
+          "wordCount": 919,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
-          "imageUrl": "https://opengraph.githubassets.com/55f9d4aa0ec1812df9df7ca708ec40ce66598c9e7f7f3394fe2baad1ab84fd8b/solana-labs/move"
+          "imageUrl": "https://opengraph.githubassets.com/8f7b503c1503e94b19e4ca87ccf4410c95dd0537e5b4bffd3bfa81d757e061ff/solana-labs/move"
         },
         {
           "id": "http://jpkoning.blogspot.com/2022/09/some-thoughts-about-resilience-of.html",
@@ -166,16 +176,6 @@
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/07/Slide5-6-1024x544.png"
         },
         {
-          "id": "https://storybookbrawl.com/articles/2022-09_worlds-announcement/",
-          "author": null,
-          "description": "SBB in The Bahamas - Announcing the 2022 World Championships!",
-          "link": "https://storybookbrawl.com/articles/2022-09_worlds-announcement/",
-          "publishedOn": "2022-09-02T23:00:02.000Z",
-          "wordCount": 1177,
-          "title": "SBB in The Bahamas - Announcing the 2022 World Championships!",
-          "imageUrl": "https://cdn.storybookbrawl.com/images/features/2022-09_worlds-announcement.png"
-        },
-        {
           "id": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
           "author": null,
           "description": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
@@ -191,7 +191,7 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1645,
+          "wordCount": 1773,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "imageUrl": "https://opengraph.githubassets.com/374f2691c7091f340f78aec42cd1a85c91546266e1a22a37612b4ebf12fa16cb/samcm/checkpointz"
         },
