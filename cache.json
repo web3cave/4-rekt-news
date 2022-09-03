@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.google.com/search?kgmid=/m/04dvhd&hl=en-US&q=Jason+Scott&kgs=374ab88693e1a06d&shndl=17&source=sh/x/kp/osrp/3&entrypoint=sh/x/kp/osrp",
+          "author": null,
+          "description": "Jason Scott - Google Search",
+          "link": "https://www.google.com/search?kgmid=/m/04dvhd&hl=en-US&q=Jason+Scott&kgs=374ab88693e1a06d&shndl=17&source=sh/x/kp/osrp/3&entrypoint=sh/x/kp/osrp",
+          "publishedOn": "2022-09-03T23:00:03.000Z",
+          "wordCount": 1042,
+          "title": "Jason Scott - Google Search",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nber.org/system/files/working_papers/w27053/w27053.pdf",
           "author": null,
           "description": "[PDF] w27053.pdf",
@@ -13,16 +23,6 @@
           "publishedOn": "2022-09-03T22:00:05.000Z",
           "wordCount": 8154,
           "title": "[PDF] w27053.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/us-government-seized-over-11000-non-classified-documents-trumps-home",
-          "author": null,
-          "description": "US Government Seized Over 11,000 Non-Classified Documents From Trump’s Home | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/us-government-seized-over-11000-non-classified-documents-trumps-home",
-          "publishedOn": "2022-09-03T21:30:04.000Z",
-          "wordCount": 1095,
-          "title": "US Government Seized Over 11,000 Non-Classified Documents From Trump’s Home | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -41,7 +41,7 @@
           "description": "What Is a Short Squeeze? | Binance Academy",
           "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6990,
+          "wordCount": 6978,
           "title": "What Is a Short Squeeze? | Binance Academy",
           "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
@@ -81,7 +81,7 @@
           "description": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "link": "https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945?st=b41kb6qhscgycz7",
           "publishedOn": "2022-09-03T14:00:04.000Z",
-          "wordCount": 5536,
+          "wordCount": 5531,
           "title": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "imageUrl": "https://images.wsj.net/im-615468/social"
         },
@@ -151,7 +151,7 @@
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "link": "https://github.com/solana-labs/move",
           "publishedOn": "2022-09-03T00:00:05.000Z",
-          "wordCount": 696,
+          "wordCount": 919,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "imageUrl": "https://opengraph.githubassets.com/8a1aad75f52a9ab0eeeec1507dfc7291b98aac5b282be720ce1cb31ef9135def/solana-labs/move"
         },
@@ -191,7 +191,7 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1645,
+          "wordCount": 1773,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "imageUrl": "https://opengraph.githubassets.com/799e10679b97d6fe15634fa12722b60ad2e237bc4e2404d5aaa8a0f44effa6e9/samcm/checkpointz"
         },
