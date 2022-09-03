@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://clientdiversity.org/",
+          "author": null,
+          "description": "Client Diversity | Ethereum",
+          "link": "https://clientdiversity.org/",
+          "publishedOn": "2022-09-03T17:00:02.000Z",
+          "wordCount": 678,
+          "title": "Client Diversity | Ethereum",
+          "imageUrl": "/assets/img/cover/cover.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_5OwvNA6v5o&feature=youtu.be",
+          "author": null,
+          "description": "Zora on Bringing Latasha Into the Fold | We Do A Little Clips",
+          "link": "https://www.youtube.com/watch?v=_5OwvNA6v5o&feature=youtu.be",
+          "publishedOn": "2022-09-03T17:00:02.000Z",
+          "wordCount": null,
+          "title": "Zora on Bringing Latasha Into the Fold | We Do A Little Clips",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rq6GYJsbfCU",
+          "author": null,
+          "description": "The Space Revolution and The Purpose of People | Rick Tumlinson | TEDxWaterStreet",
+          "link": "https://www.youtube.com/watch?v=Rq6GYJsbfCU",
+          "publishedOn": "2022-09-03T17:00:02.000Z",
+          "wordCount": null,
+          "title": "The Space Revolution and The Purpose of People | Rick Tumlinson | TEDxWaterStreet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/starkware/arithmetization-i-15c046390862",
+          "author": null,
+          "description": "Arithmetization I",
+          "link": "https://medium.com/starkware/arithmetization-i-15c046390862",
+          "publishedOn": "2022-09-03T16:30:02.000Z",
+          "wordCount": 4977,
+          "title": "Arithmetization I",
+          "imageUrl": "https://miro.medium.com/max/1200/0*_QRuAz6Y7LL3prin"
+        },
+        {
           "id": "https://www.comp.xyz/t/cgp-2-0-delegated-domain-allocation-by-questbook/3352/38",
           "author": null,
           "description": "CGP 2.0 - Delegated Domain Allocation by Questbook",
@@ -21,7 +61,7 @@
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-03T14:30:02.000Z",
-          "wordCount": 11748,
+          "wordCount": 11744,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -46,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/02/hacker-steals-bill-murrays-crypto-after-185k-nft-charity-auction/",
-          "author": null,
-          "description": "Hacker Steals Bill Murray’s Crypto After $185K NFT Charity Auction",
-          "link": "https://www.coindesk.com/business/2022/09/02/hacker-steals-bill-murrays-crypto-after-185k-nft-charity-auction/",
-          "publishedOn": "2022-09-03T07:00:03.000Z",
-          "wordCount": 5132,
-          "title": "Hacker Steals Bill Murray’s Crypto After $185K NFT Charity Auction",
-          "imageUrl": "https://www.coindesk.com/resizer/T8Szd__13NXBaBFkwGw1IrJCs0U=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MSTMRJASINGWNGKAGA4TIRIXZA.jpg"
-        },
-        {
           "id": "https://realtimeinequality.org/",
           "author": null,
           "description": "Realtime Inequality",
@@ -76,16 +106,6 @@
           "imageUrl": "https://blog.torproject.org/arti_100_released/lead.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=bQK9Yr1BpQw&feature=youtu.be",
-          "author": null,
-          "description": "The Bull Case for Rocketpool with Marceau & Ken Smith",
-          "link": "https://www.youtube.com/watch?v=bQK9Yr1BpQw&feature=youtu.be",
-          "publishedOn": "2022-09-03T02:00:05.000Z",
-          "wordCount": null,
-          "title": "The Bull Case for Rocketpool with Marceau & Ken Smith",
-          "imageUrl": null
-        },
-        {
           "id": "https://home.treasury.gov/system/files/126/20220902_cyber_regulations.pdf",
           "author": null,
           "description": "[PDF] 20220902_cyber_regulations.pdf",
@@ -96,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
-          "author": null,
-          "description": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
-          "link": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
-          "publishedOn": "2022-09-03T00:30:03.000Z",
-          "wordCount": 4733,
-          "title": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
-          "imageUrl": "https://www.coindesk.com/resizer/R8giRh4Sxgto74FJ4rbt-Hvba_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/STK6NRQELZFN7PMYZ32QPLFFBU.jpg"
-        },
-        {
           "id": "https://github.com/solana-labs/move",
           "author": null,
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
@@ -114,16 +124,6 @@
           "wordCount": 919,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "imageUrl": "https://opengraph.githubassets.com/426d6ac8a6f91a0279054c57eedd8938e553dac15035e647a4119141a43dba84/solana-labs/move"
-        },
-        {
-          "id": "https://nearcon.org/",
-          "author": null,
-          "description": "NEARCON BETA 2022",
-          "link": "https://nearcon.org/",
-          "publishedOn": "2022-09-02T23:30:05.000Z",
-          "wordCount": 17245,
-          "title": "NEARCON BETA 2022",
-          "imageUrl": "https://s3.amazonaws.com/s3.clients.splashthat.com/img/events/splash/cards/458468604.x3.9c72db2f.png"
         },
         {
           "id": "http://jpkoning.blogspot.com/2022/09/some-thoughts-about-resilience-of.html",
