@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T02:30:42.564Z</id>
+    <id>urn:2022-09-03T04:20:47.446Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T02:30:42.564Z</updated>
+    <updated>2022-09-03T04:20:47.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Realtime Inequality]]></title>
+        <id>https://realtimeinequality.org/</id>
+        <link href="https://realtimeinequality.org/"/>
+        <updated>2022-09-03T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Realtime Inequality]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | Tor Project]]></title>
+        <id>https://blog.torproject.org/arti_100_released/</id>
+        <link href="https://blog.torproject.org/arti_100_released/"/>
+        <updated>2022-09-03T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | Tor Project]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Bull Case for Rocketpool with Marceau & Ken Smith]]></title>
         <id>https://www.youtube.com/watch?v=bQK9Yr1BpQw&amp;feature=youtu.be</id>
@@ -21,16 +41,6 @@
         <link href="https://home.treasury.gov/system/files/126/20220902_cyber_regulations.pdf"/>
         <updated>2022-09-03T01:30:04.000Z</updated>
         <summary type="html"><![CDATA[[PDF] 20220902_cyber_regulations.pdf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product]]></title>
-        <id>https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/</id>
-        <link href="https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/"/>
-        <updated>2022-09-03T00:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://github.com/samcm/checkpointz"/>
         <updated>2022-09-02T11:00:04.000Z</updated>
         <summary type="html"><![CDATA[GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra Sound Money]]></title>
-        <id>https://ultrasound.money/</id>
-        <link href="https://ultrasound.money/"/>
-        <updated>2022-09-02T06:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Ultra Sound Money]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

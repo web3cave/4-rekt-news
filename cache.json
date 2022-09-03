@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://realtimeinequality.org/",
+          "author": null,
+          "description": "Realtime Inequality",
+          "link": "https://realtimeinequality.org/",
+          "publishedOn": "2022-09-03T04:00:04.000Z",
+          "wordCount": 24338,
+          "title": "Realtime Inequality",
+          "imageUrl": "https://realtimeinequality.org/rti-twitter.jpg"
+        },
+        {
+          "id": "https://blog.torproject.org/arti_100_released/",
+          "author": null,
+          "description": "Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | Tor Project",
+          "link": "https://blog.torproject.org/arti_100_released/",
+          "publishedOn": "2022-09-03T03:30:05.000Z",
+          "wordCount": 2313,
+          "title": "Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | Tor Project",
+          "imageUrl": "https://blog.torproject.org/arti_100_released/lead.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bQK9Yr1BpQw&feature=youtu.be",
           "author": null,
           "description": "The Bull Case for Rocketpool with Marceau & Ken Smith",
@@ -26,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
-          "author": null,
-          "description": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
-          "link": "https://www.coindesk.com/business/2022/09/02/asset-management-giant-blackrock-to-use-kraken-subsidiary-for-crypto-product/",
-          "publishedOn": "2022-09-03T00:30:03.000Z",
-          "wordCount": 4795,
-          "title": "Asset Management Giant BlackRock to Use Kraken Subsidiary For Crypto Product",
-          "imageUrl": "https://www.coindesk.com/resizer/R8giRh4Sxgto74FJ4rbt-Hvba_I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/STK6NRQELZFN7PMYZ32QPLFFBU.jpg"
-        },
-        {
           "id": "https://github.com/solana-labs/move",
           "author": null,
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-09-03T00:00:05.000Z",
           "wordCount": 696,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
-          "imageUrl": "https://opengraph.githubassets.com/904d6eb00c9dbf46a16255657a93b235959281ffba4fb2c4381ce4f6a4bb9238/solana-labs/move"
+          "imageUrl": "https://opengraph.githubassets.com/ec15faf1fd642484a3d88d62cf5ff6a0faf6ddb4e637d760f7545ec36d2f0a41/solana-labs/move"
         },
         {
           "id": "https://nearcon.org/",
@@ -61,7 +71,7 @@
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-02T23:00:02.000Z",
-          "wordCount": 11742,
+          "wordCount": 11785,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -111,7 +121,7 @@
           "description": "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.",
           "link": "https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html",
           "publishedOn": "2022-09-02T19:00:03.000Z",
-          "wordCount": 4718,
+          "wordCount": 4715,
           "title": "An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.",
           "imageUrl": "https://static01.nyt.com/images/2022/09/01/business/00roose-1/00roose-1-facebookJumbo.jpg"
         },
@@ -171,19 +181,9 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1645,
+          "wordCount": 1773,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "imageUrl": "https://opengraph.githubassets.com/03db4b683236405d3bb34c0b77a8366f986e1c82be07a4bca6c1700034fc68c2/samcm/checkpointz"
-        },
-        {
-          "id": "https://ultrasound.money/",
-          "author": null,
-          "description": "Ultra Sound Money",
-          "link": "https://ultrasound.money/",
-          "publishedOn": "2022-09-02T06:00:06.000Z",
-          "wordCount": 12097,
-          "title": "Ultra Sound Money",
-          "imageUrl": "https://ultrasound.money/og-image.png"
         },
         {
           "id": "https://blog.sudoswap.xyz/sudo-distribution.html",
