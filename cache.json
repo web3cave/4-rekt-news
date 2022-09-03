@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
+          "author": null,
+          "description": "Designing a Central Bank Digital Currency with Support for Cash-Like Privacy",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
+          "publishedOn": "2022-09-03T19:00:02.000Z",
+          "wordCount": 2871,
+          "title": "Designing a Central Bank Digital Currency with Support for Cash-Like Privacy",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
           "id": "https://clientdiversity.org/",
           "author": null,
           "description": "Client Diversity | Ethereum",
@@ -46,16 +56,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*_QRuAz6Y7LL3prin"
         },
         {
-          "id": "https://dot.la/cameo-bored-ape-2658114731.html",
-          "author": null,
-          "description": "Cameo Adds a Bored Ape to Its Celebrity Video Platform",
-          "link": "https://dot.la/cameo-bored-ape-2658114731.html",
-          "publishedOn": "2022-09-03T16:30:02.000Z",
-          "wordCount": 8884,
-          "title": "Cameo Adds a Bored Ape to Its Celebrity Video Platform",
-          "imageUrl": "https://dot.la/media-library/adam-draper-next-to-his-bored-ape.jpg?id=31459643&width=1200&height=600&coordinates=0%2C0%2C0%2C250"
-        },
-        {
           "id": "https://www.comp.xyz/t/cgp-2-0-delegated-domain-allocation-by-questbook/3352/38",
           "author": null,
           "description": "CGP 2.0 - Delegated Domain Allocation by Questbook",
@@ -71,7 +71,7 @@
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-03T14:30:02.000Z",
-          "wordCount": 11732,
+          "wordCount": 11773,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -81,7 +81,7 @@
           "description": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "link": "https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945?st=b41kb6qhscgycz7",
           "publishedOn": "2022-09-03T14:00:04.000Z",
-          "wordCount": 5546,
+          "wordCount": 5535,
           "title": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "imageUrl": "https://images.wsj.net/im-615468/social"
         },
@@ -181,9 +181,9 @@
           "description": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
           "link": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
           "publishedOn": "2022-09-02T15:00:07.000Z",
-          "wordCount": 1385,
+          "wordCount": null,
           "title": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_eee89d27faf03f0be7d1724c13c5d7dc.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://github.com/samcm/checkpointz",
@@ -191,7 +191,7 @@
           "description": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "link": "https://github.com/samcm/checkpointz",
           "publishedOn": "2022-09-02T11:00:04.000Z",
-          "wordCount": 1764,
+          "wordCount": 1773,
           "title": "GitHub - samcm/checkpointz: An Ethereum beacon chain checkpoint sync provider",
           "imageUrl": "https://opengraph.githubassets.com/374f2691c7091f340f78aec42cd1a85c91546266e1a22a37612b4ebf12fa16cb/samcm/checkpointz"
         },
