@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide",
+          "author": null,
+          "description": "DAOs, DACs, DAs and More: An Incomplete Terminology Guide | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide",
+          "publishedOn": "2022-09-04T07:00:03.000Z",
+          "wordCount": 7467,
+          "title": "DAOs, DACs, DAs and More: An Incomplete Terminology Guide | Ethereum Foundation Blog",
+          "imageUrl": "https://blog.ethereum.org/images/eth-org.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UUA_X9BEpMc&t=18702s",
+          "author": null,
+          "description": "Stanford Blockchain 2022 - Day 3",
+          "link": "https://www.youtube.com/watch?v=UUA_X9BEpMc&t=18702s",
+          "publishedOn": "2022-09-04T06:30:02.000Z",
+          "wordCount": null,
+          "title": "Stanford Blockchain 2022 - Day 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/bnb-chain/zkbas",
           "author": null,
           "description": "GitHub - bnb-chain/zkbas",
@@ -46,34 +66,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/uncertain-times-americans-stick-fast-food",
-          "author": null,
-          "description": "In Uncertain Times, Americans Stick With Fast Food | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/uncertain-times-americans-stick-fast-food",
-          "publishedOn": "2022-09-04T03:30:04.000Z",
-          "wordCount": 698,
-          "title": "In Uncertain Times, Americans Stick With Fast Food | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.libsoftiktok.com/p/if-twitter-permanently-bans-me-ill?sd=pf",
-          "author": null,
-          "description": "If Twitter bans me permanently, I'll sue them",
-          "link": "https://www.libsoftiktok.com/p/if-twitter-permanently-bans-me-ill?sd=pf",
-          "publishedOn": "2022-09-04T03:30:04.000Z",
-          "wordCount": 1529,
-          "title": "If Twitter bans me permanently, I'll sue them",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fab0a477a-018c-4a64-83d8-1f3217a9c604_800x418.png"
-        },
-        {
           "id": "https://github.com/sinasab/MergeSplitTokens",
           "author": null,
           "description": "GitHub - sinasab/MergeSplitTokens",
           "link": "https://github.com/sinasab/MergeSplitTokens",
           "publishedOn": "2022-09-04T02:00:05.000Z",
-          "wordCount": 1143,
+          "wordCount": 1209,
           "title": "GitHub - sinasab/MergeSplitTokens",
-          "imageUrl": "https://opengraph.githubassets.com/57ac6ee215f73c7fca52dc00e6bc9fd65c0eb17bbb84324a14f6efc2d10c1ea5/sinasab/MergeSplitTokens"
+          "imageUrl": "https://opengraph.githubassets.com/f190d98797815666a7197f76e1ed08cea653cd30263c3d5cf0b7ed5ea86064e4/sinasab/MergeSplitTokens"
         },
         {
           "id": "https://goatswap.xyz/",
@@ -121,7 +121,7 @@
           "description": "What Is a Short Squeeze? | Binance Academy",
           "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6990,
+          "wordCount": 6994,
           "title": "What Is a Short Squeeze? | Binance Academy",
           "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
@@ -151,7 +151,7 @@
           "description": "‎The Metaverse Podcast on Apple Podcasts",
           "link": "https://podcasts.apple.com/gb/podcast/the-metaverse-podcast/id1511782129",
           "publishedOn": "2022-09-03T16:30:02.000Z",
-          "wordCount": 8025,
+          "wordCount": 7984,
           "title": "‎The Metaverse Podcast on Apple Podcasts",
           "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/de/7a/45/de7a45a4-3b1c-fdbb-e022-d0a5b4fcf255/mza_6880696606804598524.jpg/1200x630wp.png"
         },
@@ -161,7 +161,7 @@
           "description": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "link": "https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945?st=b41kb6qhscgycz7",
           "publishedOn": "2022-09-03T14:00:04.000Z",
-          "wordCount": 5523,
+          "wordCount": 5529,
           "title": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "imageUrl": "https://images.wsj.net/im-615468/social"
         },
@@ -181,7 +181,7 @@
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "link": "https://github.com/solana-labs/move",
           "publishedOn": "2022-09-03T00:00:05.000Z",
-          "wordCount": 919,
+          "wordCount": 696,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "imageUrl": "https://opengraph.githubassets.com/87769da15280bbc2b579f4b28466ed48cf868007b43dd88a0da8514eb4d42316/solana-labs/move"
         },
