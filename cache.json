@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/energy/global-energy-crunch",
+          "author": null,
+          "description": "The Global Energy Crunch | ZeroHedge",
+          "link": "https://www.zerohedge.com/energy/global-energy-crunch",
+          "publishedOn": "2022-09-04T19:00:02.000Z",
+          "wordCount": 2088,
+          "title": "The Global Energy Crunch | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mainnet.events/",
+          "author": null,
+          "description": "Mainnet",
+          "link": "https://mainnet.events/",
+          "publishedOn": "2022-09-04T18:30:02.000Z",
+          "wordCount": 17114,
+          "title": "Mainnet",
+          "imageUrl": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_600,h_315,c_fill,c_pad,f_auto,q_auto:best/vrun1wty4wk2i4wwjp9a.png"
+        },
+        {
           "id": "https://www.zerohedge.com/political/lightfoot-texas-shipping-migrants-sanctuary-city-chicago-racist",
           "author": null,
           "description": "Lightfoot: Texas Shipping Migrants to Sanctuary City Chicago Is \"Racist\" | ZeroHedge",
@@ -14,16 +34,6 @@
           "wordCount": 1332,
           "title": "Lightfoot: Texas Shipping Migrants to Sanctuary City Chicago Is \"Racist\" | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://lenstube.xyz/watch/0x2e09-0x14",
-          "author": null,
-          "description": "Lenstube",
-          "link": "https://lenstube.xyz/watch/0x2e09-0x14",
-          "publishedOn": "2022-09-04T17:30:04.000Z",
-          "wordCount": 11,
-          "title": "Lenstube",
-          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
         },
         {
           "id": "https://ethereum-merge-fractals.surge.sh/",
@@ -46,24 +56,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ",
+          "id": "https://bitwiseinvestments.com/crypto-market-insights/bitwise-announces-results-of-august-2022-month-end-crypto-index-reconstitution",
           "author": null,
-          "description": "Michael Sugrue - YouTube",
-          "link": "https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ",
+          "description": "August 2022 Month-End Crypto Index Reconstitution",
+          "link": "https://bitwiseinvestments.com/crypto-market-insights/bitwise-announces-results-of-august-2022-month-end-crypto-index-reconstitution",
           "publishedOn": "2022-09-04T17:00:02.000Z",
-          "wordCount": 1948,
-          "title": "Michael Sugrue - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_Y52iB28yOxEEw7YfqH2_3cl3p_rO_eRTMS8PK=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/erdogan-issues-veiled-threat-military-action-against-greece",
-          "author": null,
-          "description": "Erdogan Issues Threat Of Military Action Against Greece | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/erdogan-issues-veiled-threat-military-action-against-greece",
-          "publishedOn": "2022-09-04T17:00:02.000Z",
-          "wordCount": 1158,
-          "title": "Erdogan Issues Threat Of Military Action Against Greece | ZeroHedge",
-          "imageUrl": null
+          "wordCount": 5128,
+          "title": "August 2022 Month-End Crypto Index Reconstitution",
+          "imageUrl": "https://www.datocms-assets.com/62087/1662093260-seo-month-end-crypto-index-reconstitution.png?auto=format&fit=max&w=1000"
         },
         {
           "id": "https://en.wikipedia.org/wiki/Post-quantum_cryptography#Algorithms",
@@ -126,14 +126,24 @@
           "imageUrl": "https://blog.ethereum.org/images/eth-org.jpeg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=UUA_X9BEpMc&t=18702s",
+          "author": null,
+          "description": "Stanford Blockchain 2022 - Day 3",
+          "link": "https://www.youtube.com/watch?v=UUA_X9BEpMc&t=18702s",
+          "publishedOn": "2022-09-04T06:30:02.000Z",
+          "wordCount": null,
+          "title": "Stanford Blockchain 2022 - Day 3",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/bnb-chain/zkbas",
           "author": null,
           "description": "GitHub - bnb-chain/zkbas",
           "link": "https://github.com/bnb-chain/zkbas",
           "publishedOn": "2022-09-04T05:30:04.000Z",
-          "wordCount": 2054,
+          "wordCount": 1789,
           "title": "GitHub - bnb-chain/zkbas",
-          "imageUrl": "https://opengraph.githubassets.com/3ae3b814e83de82a9c51306d02f1356d0aefe98d7ea0a7a80b514b600ca6e876/bnb-chain/zkbas"
+          "imageUrl": "https://opengraph.githubassets.com/ce40f663b9136824f9a85a509c759372e402f5070faae45488fbca98ac935488/bnb-chain/zkbas"
         },
         {
           "id": "https://github.com/sinasab/MergeSplitTokens",
@@ -143,7 +153,7 @@
           "publishedOn": "2022-09-04T02:00:05.000Z",
           "wordCount": 1209,
           "title": "GitHub - sinasab/MergeSplitTokens",
-          "imageUrl": "https://opengraph.githubassets.com/409ed6a62feb634029d66726116d5762ea8e91b50b91254c365bf60cb07712e8/sinasab/MergeSplitTokens"
+          "imageUrl": "https://opengraph.githubassets.com/de3de5e0e470b87e1ec3b181c7f1b9b9ee2150934e91cfbcb23d2df2fabc9eed/sinasab/MergeSplitTokens"
         },
         {
           "id": "https://goatswap.xyz/",
@@ -184,16 +194,6 @@
           "wordCount": null,
           "title": "The Chopping Block: Why DeFi May Be Over-Complying With Tornado Cash Sanctions - Ep. 392",
           "imageUrl": null
-        },
-        {
-          "id": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "author": null,
-          "description": "What Is a Short Squeeze? | Binance Academy",
-          "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
-          "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6996,
-          "title": "What Is a Short Squeeze? | Binance Academy",
-          "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
         {
           "id": "https://www.businessinsider.com/the-rise-of-cryptocurrency-youtube-influencers-2022-8",
