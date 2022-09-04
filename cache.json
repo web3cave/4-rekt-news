@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/rotki/rotki/pull/4741",
+          "author": null,
+          "description": "Support multiple blockchains in web3_nodes table by PabloCastellano · Pull Request #4741 · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/pull/4741",
+          "publishedOn": "2022-09-04T12:30:02.000Z",
+          "wordCount": 2482,
+          "title": "Support multiple blockchains in web3_nodes table by PabloCastellano · Pull Request #4741 · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/db6f3ffad44a0ca758bde6a8c03d80987bca1250c80674d844319e048c6a131a/rotki/rotki/pull/4741"
+        },
+        {
           "id": "https://www.libsoftiktok.com/p/if-twitter-permanently-bans-me-ill?sd=pf",
           "author": null,
           "description": "If Twitter bans me permanently, I'll sue them",
@@ -34,16 +44,6 @@
           "wordCount": 3395,
           "title": "This Is South Korea’s K-pop Soft Power Moment",
           "imageUrl": "https://thediplomat.com/wp-content/uploads/2022/02/sizes/td-story-s-2/thediplomat_2022-02-15-175357.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-cUMLo847FQ&feature=youtu.be",
-          "author": null,
-          "description": "Baltic Honeybadger 2022 conference live stream day 2",
-          "link": "https://www.youtube.com/watch?v=-cUMLo847FQ&feature=youtu.be",
-          "publishedOn": "2022-09-04T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Baltic Honeybadger 2022 conference live stream day 2",
-          "imageUrl": null
         },
         {
           "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
@@ -83,7 +83,7 @@
           "publishedOn": "2022-09-04T05:30:04.000Z",
           "wordCount": 1789,
           "title": "GitHub - bnb-chain/zkbas",
-          "imageUrl": "https://opengraph.githubassets.com/28a5cdb6f31c9b3747befdcdf1c3c48f84c6e82c0edc06b9b456fe7e3d645992/bnb-chain/zkbas"
+          "imageUrl": "https://opengraph.githubassets.com/ed7e4d5b277c3c5402ab9a2e9c65156548759dbc6c68dc3c81a0d0fca4f720a6/bnb-chain/zkbas"
         },
         {
           "id": "https://nft.substack.com/p/the-digital-asset-ownership-license",
@@ -103,7 +103,7 @@
           "publishedOn": "2022-09-04T02:00:05.000Z",
           "wordCount": 1209,
           "title": "GitHub - sinasab/MergeSplitTokens",
-          "imageUrl": "https://opengraph.githubassets.com/43edf97dffcfa7ca0d139b5ab7692dee91961c8daa23534bd8b2aae524216b2b/sinasab/MergeSplitTokens"
+          "imageUrl": "https://opengraph.githubassets.com/2e2328bc9a141ee5c09b0088dce49eaa32a05ddc8d3bb640a128e749b7b6b7d4/sinasab/MergeSplitTokens"
         },
         {
           "id": "https://goatswap.xyz/",
@@ -151,7 +151,7 @@
           "description": "What Is a Short Squeeze? | Binance Academy",
           "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6998,
+          "wordCount": 6988,
           "title": "What Is a Short Squeeze? | Binance Academy",
           "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
@@ -181,7 +181,7 @@
           "description": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "link": "https://www.wsj.com/articles/will-chinas-economy-surpass-the-u-s-s-some-now-doubt-it-11662123945?st=b41kb6qhscgycz7",
           "publishedOn": "2022-09-03T14:00:04.000Z",
-          "wordCount": 5517,
+          "wordCount": 5507,
           "title": "China’s Economy Won’t Overtake the U.S., Some Now Predict",
           "imageUrl": "https://images.wsj.net/im-615468/social"
         },
@@ -191,9 +191,9 @@
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "link": "https://github.com/solana-labs/move",
           "publishedOn": "2022-09-03T00:00:05.000Z",
-          "wordCount": 919,
+          "wordCount": 696,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
-          "imageUrl": "https://opengraph.githubassets.com/87769da15280bbc2b579f4b28466ed48cf868007b43dd88a0da8514eb4d42316/solana-labs/move"
+          "imageUrl": "https://opengraph.githubassets.com/b34850986920a07e230767f0f827829adfe4df1647be54011edd57e6966c28b1/solana-labs/move"
         },
         {
           "id": "http://jpkoning.blogspot.com/2022/09/some-thoughts-about-resilience-of.html",
