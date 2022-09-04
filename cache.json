@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yyn_7iiLQ2Y&feature=youtu.be",
+          "author": null,
+          "description": "The TRUE Oldest Minecraft Server - Began 2009...",
+          "link": "https://www.youtube.com/watch?v=yyn_7iiLQ2Y&feature=youtu.be",
+          "publishedOn": "2022-09-04T17:00:02.000Z",
+          "wordCount": null,
+          "title": "The TRUE Oldest Minecraft Server - Began 2009...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ethereum-merge-fractals.surge.sh/",
+          "author": null,
+          "description": "Merge Fractals",
+          "link": "https://ethereum-merge-fractals.surge.sh/",
+          "publishedOn": "2022-09-04T17:00:02.000Z",
+          "wordCount": 44,
+          "title": "Merge Fractals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ",
+          "author": null,
+          "description": "Michael Sugrue - YouTube",
+          "link": "https://www.youtube.com/channel/UCFaYLR_1aryjfB7hLrKGRaQ",
+          "publishedOn": "2022-09-04T17:00:02.000Z",
+          "wordCount": 1948,
+          "title": "Michael Sugrue - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_Y52iB28yOxEEw7YfqH2_3cl3p_rO_eRTMS8PK=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/Post-quantum_cryptography#Algorithms",
           "author": null,
           "description": "Post-quantum cryptography - Wikipedia",
@@ -21,7 +51,7 @@
           "description": "Bed Bath & Beyond CFO plunges to death at New York's Jenga tower - reports",
           "link": "https://www.reuters.com/business/bed-bath-beyond-cfo-plunges-death-new-yorks-jenga-tower-reports-2022-09-04/?taid=6314ad1408a8f400010c8386&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
           "publishedOn": "2022-09-04T16:00:04.000Z",
-          "wordCount": 3333,
+          "wordCount": 3290,
           "title": "Bed Bath & Beyond CFO plunges to death at New York's Jenga tower - reports",
           "imageUrl": "https://www.reuters.com/resizer/A6W0aig3fu1TC4KI0j0n8wkVNHw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSTPYRRNARJJ3OJPOJ3FANIQGY.jpg"
         },
@@ -34,36 +64,6 @@
           "wordCount": 7505,
           "title": "The super-rich ‘preppers’ planning to save themselves from the apocalypse",
           "imageUrl": "https://i.guim.co.uk/img/media/623a5bbdb1f343d31171968d7c795c3d67feffdb/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=aff22cc2d93c5c90f2e4321d215fb511"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/british-owned-satellite-startup-takes-229-million-writedown-after-kremlin-halts-kazakhstan",
-          "author": null,
-          "description": "British-Owned Satellite Startup Takes $229 Million Writedown After Kremlin Halts Kazakhstan-Based Launch Plans |...",
-          "link": "https://www.zerohedge.com/markets/british-owned-satellite-startup-takes-229-million-writedown-after-kremlin-halts-kazakhstan",
-          "publishedOn": "2022-09-04T13:00:03.000Z",
-          "wordCount": 614,
-          "title": "British-Owned Satellite Startup Takes $229 Million Writedown After Kremlin Halts Kazakhstan-Based Launch Plans |...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/eurasian-alliance-plans-moscow-world-standard-destroy-lbmas-monopoly-precious-metals",
-          "author": null,
-          "description": "Eurasian Alliance Plans A Moscow World Standard To Destroy LBMA's Monopoly In Precious Metals Pricing | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/eurasian-alliance-plans-moscow-world-standard-destroy-lbmas-monopoly-precious-metals",
-          "publishedOn": "2022-09-04T13:00:03.000Z",
-          "wordCount": 8464,
-          "title": "Eurasian Alliance Plans A Moscow World Standard To Destroy LBMA's Monopoly In Precious Metals Pricing | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/rotki/rotki/pull/4741",
-          "author": null,
-          "description": "Support multiple blockchains in web3_nodes table by PabloCastellano · Pull Request #4741 · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/pull/4741",
-          "publishedOn": "2022-09-04T12:30:02.000Z",
-          "wordCount": 2482,
-          "title": "Support multiple blockchains in web3_nodes table by PabloCastellano · Pull Request #4741 · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/db6f3ffad44a0ca758bde6a8c03d80987bca1250c80674d844319e048c6a131a/rotki/rotki/pull/4741"
         },
         {
           "id": "https://gov.gearbox.fi/t/pre-gip-gear-liquidity-raise-and-enabling-of-token-transferability/1470",
@@ -91,7 +91,7 @@
           "description": "Interview: Vitalik Buterin, creator of Ethereum",
           "link": "https://noahpinion.substack.com/p/interview-vitalik-buterin-creator",
           "publishedOn": "2022-09-04T07:30:05.000Z",
-          "wordCount": 10945,
+          "wordCount": 11013,
           "title": "Interview: Vitalik Buterin, creator of Ethereum",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5bc73a71-366b-4ebf-b80c-c2ecfec65e74_3223x3597.jpeg"
         },
@@ -121,7 +121,7 @@
           "description": "GitHub - bnb-chain/zkbas",
           "link": "https://github.com/bnb-chain/zkbas",
           "publishedOn": "2022-09-04T05:30:04.000Z",
-          "wordCount": 2054,
+          "wordCount": 1789,
           "title": "GitHub - bnb-chain/zkbas",
           "imageUrl": "https://opengraph.githubassets.com/3ae3b814e83de82a9c51306d02f1356d0aefe98d7ea0a7a80b514b600ca6e876/bnb-chain/zkbas"
         },
@@ -181,7 +181,7 @@
           "description": "What Is a Short Squeeze? | Binance Academy",
           "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6994,
+          "wordCount": 6990,
           "title": "What Is a Short Squeeze? | Binance Academy",
           "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
