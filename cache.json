@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/intervention-c-word-f-word",
+          "author": null,
+          "description": "Intervention, The 'C' Word, & The 'F' Word | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/intervention-c-word-f-word",
+          "publishedOn": "2022-09-04T15:00:03.000Z",
+          "wordCount": 3603,
+          "title": "Intervention, The 'C' Word, & The 'F' Word | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff",
+          "author": null,
+          "description": "The super-rich ‘preppers’ planning to save themselves from the apocalypse",
+          "link": "https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff",
+          "publishedOn": "2022-09-04T14:00:03.000Z",
+          "wordCount": 7505,
+          "title": "The super-rich ‘preppers’ planning to save themselves from the apocalypse",
+          "imageUrl": "https://i.guim.co.uk/img/media/623a5bbdb1f343d31171968d7c795c3d67feffdb/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=aff22cc2d93c5c90f2e4321d215fb511"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/saudis-using-snitching-app-identify-dissidents-turning-citizens-social-media-police",
           "author": null,
           "description": "Saudis Using Snitching App Sold By Google To Identify Dissidents | ZeroHedge",
@@ -36,16 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://bitcoinhivemind.com/#the-pm-sequence",
-          "author": null,
-          "description": "Truthcoin Protocol on BTC | The Bitcoin Hivemind",
-          "link": "https://bitcoinhivemind.com/#the-pm-sequence",
-          "publishedOn": "2022-09-04T13:00:03.000Z",
-          "wordCount": 543,
-          "title": "Truthcoin Protocol on BTC | The Bitcoin Hivemind",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/rotki/rotki/pull/4741",
           "author": null,
           "description": "Support multiple blockchains in web3_nodes table by PabloCastellano · Pull Request #4741 · rotki/rotki",
@@ -61,19 +71,9 @@
           "description": "If Twitter bans me permanently, I'll sue them",
           "link": "https://www.libsoftiktok.com/p/if-twitter-permanently-bans-me-ill?sd=pf",
           "publishedOn": "2022-09-04T09:30:05.000Z",
-          "wordCount": 1529,
+          "wordCount": 1832,
           "title": "If Twitter bans me permanently, I'll sue them",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fab0a477a-018c-4a64-83d8-1f3217a9c604_800x418.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-cUMLo847FQ&feature=youtu.be",
-          "author": null,
-          "description": "Baltic Honeybadger 2022 conference live stream day 2",
-          "link": "https://www.youtube.com/watch?v=-cUMLo847FQ&feature=youtu.be",
-          "publishedOn": "2022-09-04T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Baltic Honeybadger 2022 conference live stream day 2",
-          "imageUrl": null
         },
         {
           "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3891121",
@@ -91,9 +91,9 @@
           "description": "DAOs, DACs, DAs and More: An Incomplete Terminology Guide | Ethereum Foundation Blog",
           "link": "https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide",
           "publishedOn": "2022-09-04T07:00:03.000Z",
-          "wordCount": 7467,
+          "wordCount": null,
           "title": "DAOs, DACs, DAs and More: An Incomplete Terminology Guide | Ethereum Foundation Blog",
-          "imageUrl": "https://blog.ethereum.org/images/eth-org.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=UUA_X9BEpMc&t=18702s",
@@ -181,7 +181,7 @@
           "description": "What Is a Short Squeeze? | Binance Academy",
           "link": "https://academy.binance.com/en/articles/what-is-a-short-squeeze?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "publishedOn": "2022-09-03T21:00:02.000Z",
-          "wordCount": 6992,
+          "wordCount": 6986,
           "title": "What Is a Short Squeeze? | Binance Academy",
           "imageUrl": "https://public.bnbstatic.com/static/academy/uploads/11aea8dbe1d4468497582d301a184128.png"
         },
