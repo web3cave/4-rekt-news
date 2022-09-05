@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bordel.wtf/",
+          "author": null,
+          "description": "Bordel.wtf",
+          "link": "https://bordel.wtf/",
+          "publishedOn": "2022-09-05T07:30:05.000Z",
+          "wordCount": 84,
+          "title": "Bordel.wtf",
+          "imageUrl": "https://bordel.wtf/chart.png"
+        },
+        {
           "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5680136/",
           "author": null,
           "description": "Chitin and Its Effects on Inflammatory and Immune Responses",
@@ -26,44 +36,24 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/new-mexico-town-has-only-20-days-fresh-water-left",
-          "author": null,
-          "description": "New Mexico Town Has Only 20 Days Of Fresh Water Left | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/new-mexico-town-has-only-20-days-fresh-water-left",
-          "publishedOn": "2022-09-05T05:00:03.000Z",
-          "wordCount": 846,
-          "title": "New Mexico Town Has Only 20 Days Of Fresh Water Left | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/5-psychological-experiments-explain-modern-world",
-          "author": null,
-          "description": "5 Psychological Experiments That Explain The Modern World | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/5-psychological-experiments-explain-modern-world",
-          "publishedOn": "2022-09-05T05:00:03.000Z",
-          "wordCount": 4778,
-          "title": "5 Psychological Experiments That Explain The Modern World | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://realtps.net/",
           "author": null,
           "description": "Real TPS",
           "link": "https://realtps.net/",
           "publishedOn": "2022-09-05T05:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 80,
           "title": "Real TPS",
           "imageUrl": null
         },
         {
-          "id": "https://rettig.substack.com/p/three-things-33-september-4-2022?utm_source=twitter&sd=pf",
+          "id": "https://docs.prylabs.network/docs/prepare-for-merge",
           "author": null,
-          "description": "Three Things #33: September 4, 2022",
-          "link": "https://rettig.substack.com/p/three-things-33-september-4-2022?utm_source=twitter&sd=pf",
-          "publishedOn": "2022-09-05T04:30:03.000Z",
-          "wordCount": 4560,
-          "title": "Three Things #33: September 4, 2022",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55196699-c584-4cf1-9b03-5321cccba964_5984x3979.jpeg"
+          "description": "Prepare for The Merge | Prysm",
+          "link": "https://docs.prylabs.network/docs/prepare-for-merge",
+          "publishedOn": "2022-09-05T01:30:04.000Z",
+          "wordCount": 2111,
+          "title": "Prepare for The Merge | Prysm",
+          "imageUrl": null
         },
         {
           "id": "https://ethresear.ch/t/permissioned-privacy-pools/13572",
@@ -101,7 +91,7 @@
           "description": "Mainnet",
           "link": "https://mainnet.events/",
           "publishedOn": "2022-09-04T18:30:02.000Z",
-          "wordCount": 17114,
+          "wordCount": 17144,
           "title": "Mainnet",
           "imageUrl": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_600,h_315,c_fill,c_pad,f_auto,q_auto:best/vrun1wty4wk2i4wwjp9a.png"
         },
@@ -136,6 +126,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://bitwiseinvestments.com/crypto-market-insights/bitwise-announces-results-of-august-2022-month-end-crypto-index-reconstitution",
+          "author": null,
+          "description": "August 2022 Month-End Crypto Index Reconstitution",
+          "link": "https://bitwiseinvestments.com/crypto-market-insights/bitwise-announces-results-of-august-2022-month-end-crypto-index-reconstitution",
+          "publishedOn": "2022-09-04T17:00:02.000Z",
+          "wordCount": 5128,
+          "title": "August 2022 Month-End Crypto Index Reconstitution",
+          "imageUrl": "https://www.datocms-assets.com/62087/1662093260-seo-month-end-crypto-index-reconstitution.png?auto=format&fit=max&w=1000"
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/Post-quantum_cryptography#Algorithms",
           "author": null,
           "description": "Post-quantum cryptography - Wikipedia",
@@ -161,7 +161,7 @@
           "description": "[PRE GIP] Gear Liquidity Raise and Enabling of Token Transferability",
           "link": "https://gov.gearbox.fi/t/pre-gip-gear-liquidity-raise-and-enabling-of-token-transferability/1470",
           "publishedOn": "2022-09-04T11:30:26.000Z",
-          "wordCount": 4931,
+          "wordCount": 4994,
           "title": "[PRE GIP] Gear Liquidity Raise and Enabling of Token Transferability",
           "imageUrl": "https://aws1.discourse-cdn.com/standard20/uploads/gearbox2/original/1X/33537cb7dd4d8c17eb46e18322e063121c22a032.png"
         },
