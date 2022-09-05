@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dunedigest.substack.com/p/dune-digest-45",
+          "author": null,
+          "description": "Dune Digest #45",
+          "link": "https://dunedigest.substack.com/p/dune-digest-45",
+          "publishedOn": "2022-09-05T11:00:03.000Z",
+          "wordCount": 5698,
+          "title": "Dune Digest #45",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2dd072a6-4d28-495d-a8c4-89a4777383d0_1752x780.png"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/20-quid-pint-uk-pubs-forced-hike-prices-or-die",
           "author": null,
           "description": "'20 Quid For A Pint!?' UK Pubs Forced To Hike Prices Or Die  | ZeroHedge",
@@ -14,16 +24,6 @@
           "wordCount": 1332,
           "title": "'20 Quid For A Pint!?' UK Pubs Forced To Hike Prices Or Die  | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.flashbots.net/mev-sbc-workshop",
-          "author": null,
-          "description": "MEV-sbc Workshop",
-          "link": "https://www.flashbots.net/mev-sbc-workshop",
-          "publishedOn": "2022-09-05T09:00:02.000Z",
-          "wordCount": 2281,
-          "title": "MEV-sbc Workshop",
-          "imageUrl": "https://flashbots.net/api/social-image?id=6dcb3501-d7e6-47b9-8b70-3b6312c3e95b"
         },
         {
           "id": "https://bordel.wtf/",
@@ -101,7 +101,7 @@
           "description": "Mainnet",
           "link": "https://mainnet.events/",
           "publishedOn": "2022-09-04T18:30:02.000Z",
-          "wordCount": 17144,
+          "wordCount": 17148,
           "title": "Mainnet",
           "imageUrl": "https://res.cloudinary.com/bizzaboprod/image/upload/c_crop,g_custom,f_auto/w_600,h_315,c_fill,c_pad,f_auto,q_auto:best/vrun1wty4wk2i4wwjp9a.png"
         },
@@ -171,7 +171,7 @@
           "description": "Interview: Vitalik Buterin, creator of Ethereum",
           "link": "https://noahpinion.substack.com/p/interview-vitalik-buterin-creator",
           "publishedOn": "2022-09-04T07:30:05.000Z",
-          "wordCount": 11013,
+          "wordCount": 11219,
           "title": "Interview: Vitalik Buterin, creator of Ethereum",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5bc73a71-366b-4ebf-b80c-c2ecfec65e74_3223x3597.jpeg"
         },
