@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.paradigm.xyz/2022/09/goo",
+          "author": null,
+          "description": "GOO (Gradual Ownership Optimization) - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/09/goo",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": 31126,
+          "title": "GOO (Gradual Ownership Optimization) - Paradigm",
+          "imageUrl": "https://paradigm.xyz/static/goo_title_card.gif"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_3AcdKogaMg",
+          "author": null,
+          "description": "Arthur Hayes, Former Ethereum Skeptic, on Why the Merge Makes Him Bullish on ETH - Ep. 393",
+          "link": "https://www.youtube.com/watch?v=_3AcdKogaMg",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes, Former Ethereum Skeptic, on Why the Merge Makes Him Bullish on ETH - Ep. 393",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jpg.space/",
+          "author": null,
+          "description": "JPG",
+          "link": "https://jpg.space/",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": 155,
+          "title": "JPG",
+          "imageUrl": "https://api.jpg.space/opengraph.jpg"
+        },
+        {
+          "id": "https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
+          "author": null,
+          "description": "Someone’s Been Messing With My Subnormals!",
+          "link": "https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": 9239,
+          "title": "Someone’s Been Messing With My Subnormals!",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEid854WZEzp-Rtw3KuEZVBoPtT7eSci150VHH0wWvQ7QureR9pKovwQQPq1_e89uIeE1CA9g4SmxDvE6YQnWzEzVQMRuJe-bXI1frjcaxzNKpWKPfSYq3NKfLNkITBfVttrLil4FY4Um5wacFHUFVIXKj9u8MXwVZK9nrGO6p7Xu7M2lorX_v3swPOyPQ=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://github.com/transmissions11/goo-issuance",
+          "author": null,
+          "description": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
+          "link": "https://github.com/transmissions11/goo-issuance",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": 502,
+          "title": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
+          "imageUrl": "https://opengraph.githubassets.com/66c8110fc6d23aaca9fa595af7ed6267dba1993ec0b68d5693378009d2a0451f/transmissions11/goo-issuance"
+        },
+        {
           "id": "https://github.com/ledgerwatch/erigon/issues/5026",
           "author": null,
           "description": "previous README.md show a wrong block number (11184524) for the `--prune.r.before` parameter instead of `11052984` ·...",
@@ -41,7 +91,7 @@
           "description": "‎We Do A Little: Zora on Apple Podcasts",
           "link": "https://podcasts.apple.com/us/podcast/we-do-a-little/id1641236625?i=1000578508294",
           "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": 2759,
+          "wordCount": 2722,
           "title": "‎We Do A Little: Zora on Apple Podcasts",
           "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/dd/e7/cb/dde7cb34-27b2-e345-060e-089f206030e5/mza_6711645237074882627.jpg/1200x630wp.png"
         },
@@ -96,16 +146,6 @@
           "imageUrl": "https://bordel.wtf/chart.png"
         },
         {
-          "id": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
-          "author": null,
-          "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
-          "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
-          "publishedOn": "2022-09-06T11:30:07.000Z",
-          "wordCount": 11758,
-          "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
-          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
-        },
-        {
           "id": "https://tags.eth.samczsun.com/",
           "author": null,
           "description": "Ethereum Tags Database",
@@ -136,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/05/poolin-one-of-the-largest-bitcoin-mining-pools-suspends-withdrawals-from-wallet-service/",
-          "author": null,
-          "description": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
-          "link": "https://www.coindesk.com/business/2022/09/05/poolin-one-of-the-largest-bitcoin-mining-pools-suspends-withdrawals-from-wallet-service/",
-          "publishedOn": "2022-09-06T05:00:03.000Z",
-          "wordCount": 5045,
-          "title": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
-          "imageUrl": "https://www.coindesk.com/resizer/u1V1zZjHRvozkvgmSGy4I9bot9o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/24QBDYS6VVH3TOXQCCJ2AYQDLI.JPG"
-        },
-        {
           "id": "https://blog.coinbase.com/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana-developer-community-a42df0527213?gi=6c85ce8e0582",
           "author": null,
           "description": "Coinbase Cloud launches Solana Archival Nodes to empower the Solana developer community",
@@ -156,34 +186,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*_1P1CuflCUU_cafg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=R6Jzwy44AcQ&feature=youtu.be",
-          "author": null,
-          "description": "The Merge updates, Ethereum Protocol Fellowship - The Daily Gwei Refuel #440 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=R6Jzwy44AcQ&feature=youtu.be",
-          "publishedOn": "2022-09-06T01:15:02.000Z",
-          "wordCount": null,
-          "title": "The Merge updates, Ethereum Protocol Fellowship - The Daily Gwei Refuel #440 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://keet.io/",
-          "author": null,
-          "description": "Keet by Holepunch",
-          "link": "https://keet.io/",
-          "publishedOn": "2022-09-05T21:00:02.000Z",
-          "wordCount": 11,
-          "title": "Keet by Holepunch",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/curvefi/curve-stablecoin-js",
           "author": null,
           "description": "GitHub - curvefi/curve-stablecoin-js: JavaScript library for Curve Stablecoin",
           "link": "https://github.com/curvefi/curve-stablecoin-js",
           "publishedOn": "2022-09-05T20:30:02.000Z",
-          "wordCount": 1907,
+          "wordCount": 1861,
           "title": "GitHub - curvefi/curve-stablecoin-js: JavaScript library for Curve Stablecoin",
-          "imageUrl": "https://opengraph.githubassets.com/ff267a224a60c206da30a5bfaaf99315291beff6f2d5e915d479b90c0601d919/curvefi/curve-stablecoin-js"
+          "imageUrl": "https://opengraph.githubassets.com/092b27d59b24421e97ec60857f49c68724ff3e8b46e43b3385319e837f0e4ed7/curvefi/curve-stablecoin-js"
         },
         {
           "id": "https://www.binance.com/en/support/announcement/e62f703604a94538a1f1bc803b2d579f",
@@ -194,16 +204,6 @@
           "wordCount": 10075,
           "title": "Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
-        },
-        {
-          "id": "https://docs.flashbots.net/flashbots-mev-boost/introduction",
-          "author": null,
-          "description": "introduction | Flashbots Docs",
-          "link": "https://docs.flashbots.net/flashbots-mev-boost/introduction",
-          "publishedOn": "2022-09-05T17:00:04.000Z",
-          "wordCount": 305,
-          "title": "introduction | Flashbots Docs",
-          "imageUrl": null
         }
       ]
     }
