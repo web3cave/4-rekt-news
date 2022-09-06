@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T21:20:27.592Z</id>
+    <id>urn:2022-09-06T22:23:22.497Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T21:20:27.592Z</updated>
+    <updated>2022-09-06T22:23:22.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://github.com/transmissions11/goo-issuance"/>
         <updated>2022-09-06T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serenity Design Rationale - HackMD]]></title>
+        <id>https://notes.ethereum.org/@vbuterin/serenity_design_rationale</id>
+        <link href="https://notes.ethereum.org/@vbuterin/serenity_design_rationale"/>
+        <updated>2022-09-06T18:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Serenity Design Rationale - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://web3-startups.org/"/>
         <updated>2022-09-06T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Entrepreneurship In Web3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Cloud launches Solana Archival Nodes to empower the Solana developer community]]></title>
-        <id>https://blog.coinbase.com/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana-developer-community-a42df0527213?gi=6c85ce8e0582</id>
-        <link href="https://blog.coinbase.com/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana-developer-community-a42df0527213?gi=6c85ce8e0582"/>
-        <updated>2022-09-06T02:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Cloud launches Solana Archival Nodes to empower the Solana developer community]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
