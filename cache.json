@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/yearn/yearn-security/blob/master/disclosures/2022-10-06.md",
+          "author": null,
+          "description": "yearn-security/2022-10-06.md at master · yearn/yearn-security",
+          "link": "https://github.com/yearn/yearn-security/blob/master/disclosures/2022-10-06.md",
+          "publishedOn": "2022-09-06T07:00:02.000Z",
+          "wordCount": null,
+          "title": "yearn-security/2022-10-06.md at master · yearn/yearn-security",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/09/05/poolin-one-of-the-largest-bitcoin-mining-pools-suspends-withdrawals-from-wallet-service/",
           "author": null,
           "description": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
           "link": "https://www.coindesk.com/business/2022/09/05/poolin-one-of-the-largest-bitcoin-mining-pools-suspends-withdrawals-from-wallet-service/",
           "publishedOn": "2022-09-06T05:00:03.000Z",
-          "wordCount": 5096,
+          "wordCount": 5079,
           "title": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
           "imageUrl": "https://www.coindesk.com/resizer/zf48mEtEGA32SDOtB1EDtxs58YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3NXR75ZBORHP7AV7XSFFSH4CPA.JPG"
         },
@@ -31,7 +41,7 @@
           "description": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "link": "https://github.com/solana-labs/move",
           "publishedOn": "2022-09-06T02:30:02.000Z",
-          "wordCount": 696,
+          "wordCount": 919,
           "title": "GitHub - solana-labs/move: Move fork for providing llvm ir support",
           "imageUrl": "https://opengraph.githubassets.com/3699c8bede7b3830f2f79d87f34e4268fbb50de82345e357bf249b1adf7f4b46/solana-labs/move"
         },
@@ -61,9 +71,9 @@
           "description": "GitHub - curvefi/curve-stablecoin-js: JavaScript library for Curve Stablecoin",
           "link": "https://github.com/curvefi/curve-stablecoin-js",
           "publishedOn": "2022-09-05T20:30:02.000Z",
-          "wordCount": 1861,
+          "wordCount": 1907,
           "title": "GitHub - curvefi/curve-stablecoin-js: JavaScript library for Curve Stablecoin",
-          "imageUrl": "https://opengraph.githubassets.com/b6248800a29c0193be60f54db67385158f5e945068b9ebfe7ab4613842c5889d/curvefi/curve-stablecoin-js"
+          "imageUrl": "https://opengraph.githubassets.com/8ae8b509f95c13ca495b8d77a77f5d3524b3872ee0aa48b1bc69c9163e15e67f/curvefi/curve-stablecoin-js"
         },
         {
           "id": "https://www.thegamer.com/blizzard-revokes-third-party-diablo-immortal-orb-purchases/",
@@ -71,7 +81,7 @@
           "description": "Blizzard Revokes Third Party Diablo Immortal Orb Purchases, Leaving Players In Debt",
           "link": "https://www.thegamer.com/blizzard-revokes-third-party-diablo-immortal-orb-purchases/",
           "publishedOn": "2022-09-05T19:30:04.000Z",
-          "wordCount": 1514,
+          "wordCount": 1479,
           "title": "Blizzard Revokes Third Party Diablo Immortal Orb Purchases, Leaving Players In Debt",
           "imageUrl": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/09/This-is-worthless.jpg"
         },
@@ -91,7 +101,7 @@
           "description": "Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) | Binance Support",
           "link": "https://www.binance.com/en/support/announcement/e62f703604a94538a1f1bc803b2d579f",
           "publishedOn": "2022-09-05T19:00:02.000Z",
-          "wordCount": 10010,
+          "wordCount": 10015,
           "title": "Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Iran nuclear deal ‘in danger’, says EU chief negotiator",
           "link": "https://www.ft.com/content/004f0d5a-0eca-4ea0-a423-0184481d033c",
           "publishedOn": "2022-09-05T19:00:02.000Z",
-          "wordCount": 2203,
+          "wordCount": 2200,
           "title": "Iran nuclear deal ‘in danger’, says EU chief negotiator",
           "imageUrl": null
         },
@@ -141,7 +151,7 @@
           "description": "Russia switches off Europe’s main gas line until sanctions are lifted",
           "link": "https://www.ft.com/content/2624cc0f-57b9-4142-8bc1-4141833a73dd",
           "publishedOn": "2022-09-05T17:00:04.000Z",
-          "wordCount": 2435,
+          "wordCount": 2476,
           "title": "Russia switches off Europe’s main gas line until sanctions are lifted",
           "imageUrl": null
         },
@@ -184,16 +194,6 @@
           "wordCount": 581,
           "title": "AI向左，Crypto向右_人类",
           "imageUrl": "//5b0988e595225.cdn.sohucs.com/images/20190517/f7021eff3b774517bcfab1f67157f83d.jpeg"
-        },
-        {
-          "id": "https://bordel.wtf/",
-          "author": null,
-          "description": "Bordel.wtf",
-          "link": "https://bordel.wtf/",
-          "publishedOn": "2022-09-05T07:30:05.000Z",
-          "wordCount": 84,
-          "title": "Bordel.wtf",
-          "imageUrl": "https://bordel.wtf/chart.png"
         },
         {
           "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
