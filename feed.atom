@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T19:18:25.070Z</id>
+    <id>urn:2022-09-06T20:24:11.002Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T19:18:25.070Z</updated>
+    <updated>2022-09-06T20:24:11.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,26 @@
         <link href="https://gitcoin.co/grants/"/>
         <updated>2022-09-06T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Grants]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App.axie Is Here!]]></title>
+        <id>https://axie.substack.com/p/appaxie-is-here</id>
+        <link href="https://axie.substack.com/p/appaxie-is-here"/>
+        <updated>2022-09-06T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[App.axie Is Here!]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bips/bip-0300.mediawiki at master · psztorc/bips]]></title>
+        <id>https://github.com/psztorc/bips/blob/master/bip-0300.mediawiki</id>
+        <link href="https://github.com/psztorc/bips/blob/master/bip-0300.mediawiki"/>
+        <updated>2022-09-06T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[bips/bip-0300.mediawiki at master · psztorc/bips]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -176,31 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From tinkering with video games to building the new Ethereum: How Preston Van Loon became key to The Merge]]></title>
-        <id>https://www.theblock.co/post/167627/from-tinkering-with-video-games-to-building-the-new-ethereum-how-preston-van-loon-became-key-to-the-merge?utm_source=twitter&amp;utm</id>
-        <link href="https://www.theblock.co/post/167627/from-tinkering-with-video-games-to-building-the-new-ethereum-how-preston-van-loon-became-key-to-the-merge?utm_source=twitter&amp;utm"/>
-        <updated>2022-09-05T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[From tinkering with video games to building the new Ethereum: How Preston Van Loon became key to The Merge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[introduction | Flashbots Docs]]></title>
         <id>https://docs.flashbots.net/flashbots-mev-boost/introduction</id>
         <link href="https://docs.flashbots.net/flashbots-mev-boost/introduction"/>
         <updated>2022-09-05T17:00:04.000Z</updated>
         <summary type="html"><![CDATA[introduction | Flashbots Docs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mainnet Merge Announcement | Ethereum Foundation Blog]]></title>
-        <id>https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement</id>
-        <link href="https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement"/>
-        <updated>2022-09-05T01:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Mainnet Merge Announcement | Ethereum Foundation Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
