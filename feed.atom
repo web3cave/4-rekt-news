@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T17:28:25.740Z</id>
+    <id>urn:2022-09-06T18:28:33.836Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T17:28:25.740Z</updated>
+    <updated>2022-09-06T18:28:33.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[previous README.md show a wrong block number (11184524) for the `--prune.r.before` parameter instead of `11052984` ·...]]></title>
+        <id>https://github.com/ledgerwatch/erigon/issues/5026</id>
+        <link href="https://github.com/ledgerwatch/erigon/issues/5026"/>
+        <updated>2022-09-06T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[previous README.md show a wrong block number (11184524) for the `--prune.r.before` parameter instead of `11052984` ·...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[go-ethereum/config.go at master · ethereumpow/go-ethereum]]></title>
         <id>https://github.com/ethereumpow/go-ethereum/blob/master/params/config.go</id>
@@ -171,16 +181,6 @@
         <link href="https://www.theblock.co/post/167627/from-tinkering-with-video-games-to-building-the-new-ethereum-how-preston-van-loon-became-key-to-the-merge?utm_source=twitter&amp;utm"/>
         <updated>2022-09-05T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[From tinkering with video games to building the new Ethereum: How Preston Van Loon became key to The Merge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECOVERY]]></title>
-        <id>https://mirror.xyz/tombcouncil.eth/mdt3PIw8PZZ21dLA0OlEwb-1Nd3cMAWR5rFwphUiYxE</id>
-        <link href="https://mirror.xyz/tombcouncil.eth/mdt3PIw8PZZ21dLA0OlEwb-1Nd3cMAWR5rFwphUiYxE"/>
-        <updated>2022-09-05T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[RECOVERY]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

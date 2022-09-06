@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ledgerwatch/erigon/issues/5026",
+          "author": null,
+          "description": "previous README.md show a wrong block number (11184524) for the `--prune.r.before` parameter instead of `11052984` ·...",
+          "link": "https://github.com/ledgerwatch/erigon/issues/5026",
+          "publishedOn": "2022-09-06T18:00:06.000Z",
+          "wordCount": 1605,
+          "title": "previous README.md show a wrong block number (11184524) for the `--prune.r.before` parameter instead of `11052984` ·...",
+          "imageUrl": "https://opengraph.githubassets.com/c53a241f0d8aa3e48116ba19661a2123318df0261d98192e8822a706c9a7b943/ledgerwatch/erigon/issues/5026"
+        },
+        {
           "id": "https://github.com/ethereumpow/go-ethereum/blob/master/params/config.go",
           "author": null,
           "description": "go-ethereum/config.go at master · ethereumpow/go-ethereum",
@@ -71,7 +81,7 @@
           "description": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/who-is-guangying-chen-and-is-binance-a-chinese-company-2386330931319516973",
           "publishedOn": "2022-09-06T11:30:07.000Z",
-          "wordCount": 11794,
+          "wordCount": 11793,
           "title": "Who Is Guangying Chen, and Is Binance a “Chinese Company”? | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220901/f618ab67-d7a1-4615-8427-aef0e157a72f.png"
         },
@@ -81,7 +91,7 @@
           "description": "Ethereum Tags Database",
           "link": "https://tags.eth.samczsun.com/",
           "publishedOn": "2022-09-06T09:30:03.000Z",
-          "wordCount": 450,
+          "wordCount": 506,
           "title": "Ethereum Tags Database",
           "imageUrl": "https://tags.eth.samczsun.com/favicon.png"
         },
@@ -101,7 +111,7 @@
           "description": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
           "link": "https://www.coindesk.com/business/2022/09/05/poolin-one-of-the-largest-bitcoin-mining-pools-suspends-withdrawals-from-wallet-service/",
           "publishedOn": "2022-09-06T05:00:03.000Z",
-          "wordCount": 5014,
+          "wordCount": 4977,
           "title": "Poolin, One of the Largest Bitcoin Mining Pools, Suspends Withdrawals From Wallet Service",
           "imageUrl": "https://www.coindesk.com/resizer/u1V1zZjHRvozkvgmSGy4I9bot9o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/24QBDYS6VVH3TOXQCCJ2AYQDLI.JPG"
         },
@@ -151,7 +161,7 @@
           "description": "Blizzard Revokes Third Party Diablo Immortal Orb Purchases, Leaving Players In Debt",
           "link": "https://www.thegamer.com/blizzard-revokes-third-party-diablo-immortal-orb-purchases/",
           "publishedOn": "2022-09-05T19:30:04.000Z",
-          "wordCount": 1483,
+          "wordCount": 1503,
           "title": "Blizzard Revokes Third Party Diablo Immortal Orb Purchases, Leaving Players In Debt",
           "imageUrl": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/09/This-is-worthless.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 75487,
           "title": "From tinkering with video games to building the new Ethereum: How Preston Van Loon became key to The Merge",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220830_PrestonVanLoon.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/tombcouncil.eth/mdt3PIw8PZZ21dLA0OlEwb-1Nd3cMAWR5rFwphUiYxE",
-          "author": null,
-          "description": "RECOVERY",
-          "link": "https://mirror.xyz/tombcouncil.eth/mdt3PIw8PZZ21dLA0OlEwb-1Nd3cMAWR5rFwphUiYxE",
-          "publishedOn": "2022-09-05T19:00:02.000Z",
-          "wordCount": 5607,
-          "title": "RECOVERY",
-          "imageUrl": "https://mirror-media.imgix.net/nft/2pQWkqkAvt8bxyIjwjY5O.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://docs.flashbots.net/flashbots-mev-boost/introduction",
