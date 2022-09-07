@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://gitcoin.co/grants/",
-          "author": null,
-          "description": "Grants",
-          "link": "https://gitcoin.co/grants/",
-          "publishedOn": "2022-09-07T14:00:05.000Z",
-          "wordCount": 2098,
-          "title": "Grants",
-          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1-2.jpg"
-        },
-        {
           "id": "https://www.flashbots.net/",
           "author": null,
           "description": "Flashbots",
@@ -26,44 +16,14 @@
           "imageUrl": "https://www.flashbots.net/api/social-image?id=e5aaaa13ba604e09a31d944e8bf50318"
         },
         {
-          "id": "https://sinoglobalcapital.substack.com/p/technical-dive-into-polygons-zk-solutions?r=1c4o4b&s=w&utm_campaign=post&utm_medium=web",
-          "author": null,
-          "description": "Technical Dive into Polygon’s ZK Solutions",
-          "link": "https://sinoglobalcapital.substack.com/p/technical-dive-into-polygons-zk-solutions?r=1c4o4b&s=w&utm_campaign=post&utm_medium=web",
-          "publishedOn": "2022-09-07T14:00:05.000Z",
-          "wordCount": 3853,
-          "title": "Technical Dive into Polygon’s ZK Solutions",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a5bda27-6b8d-4da4-9bb3-8dd909521130_1080x1080.png"
-        },
-        {
           "id": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "author": null,
           "description": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "link": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "publishedOn": "2022-09-07T13:30:04.000Z",
-          "wordCount": 6488,
+          "wordCount": 6451,
           "title": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "imageUrl": "https://images.wsj.net/im-617736/social"
-        },
-        {
-          "id": "https://thedefiant.io/binance-stablecoin-delisting",
-          "author": null,
-          "description": "Binance to Delist Three Stablecoins and Fold Balances into BUSD - The Defiant",
-          "link": "https://thedefiant.io/binance-stablecoin-delisting",
-          "publishedOn": "2022-09-07T12:30:02.000Z",
-          "wordCount": 1564,
-          "title": "Binance to Delist Three Stablecoins and Fold Balances into BUSD - The Defiant",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/06153932/binancedelist.jpeg"
-        },
-        {
-          "id": "https://restofworld.org/2022/minecraft-nft-ban-critterz/",
-          "author": null,
-          "description": "They built a Minecraft crypto empire. Then it all came crashing down",
-          "link": "https://restofworld.org/2022/minecraft-nft-ban-critterz/",
-          "publishedOn": "2022-09-07T12:00:05.000Z",
-          "wordCount": 5557,
-          "title": "They built a Minecraft crypto empire. Then it all came crashing down",
-          "imageUrl": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/09/cropped-minecraftsocial.jpg"
         },
         {
           "id": "https://blog.helium.com/tl-dr-on-hip-70-hnt-ecosystem-would-expand-on-solana-abb123501765?gi=51f15dd0bb3d",
@@ -84,6 +44,26 @@
           "wordCount": 3786,
           "title": "Tornado Cash: What web3 Needs to Know by Katie Haun",
           "imageUrl": "https://mirror-media.imgix.net/nft/fjqtvKJDgi2D1epXKPmoZ.png?h=null&w=null&auto=compress"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NM6ggmFJmLw",
+          "author": null,
+          "description": "IS HELIUM BECOMING SOLANA? w/ Anatoly Yakovenko & Amir Haleem - Ep. 27",
+          "link": "https://www.youtube.com/watch?v=NM6ggmFJmLw",
+          "publishedOn": "2022-09-07T03:30:05.000Z",
+          "wordCount": null,
+          "title": "IS HELIUM BECOMING SOLANA? w/ Anatoly Yakovenko & Amir Haleem - Ep. 27",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/video/recent-videos/the-final-countdown-to-the-ethereum-merge-has-officially-begun/",
+          "author": null,
+          "description": "The Final Countdown to the Ethereum Merge Has Officially Begun",
+          "link": "https://www.coindesk.com/video/recent-videos/the-final-countdown-to-the-ethereum-merge-has-officially-begun/",
+          "publishedOn": "2022-09-07T03:30:05.000Z",
+          "wordCount": 38610,
+          "title": "The Final Countdown to the Ethereum Merge Has Officially Begun",
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/f1fUPcKR/poster.jpg?width=720"
         },
         {
           "id": "https://lenstube.xyz/watch/0x2e09-0x17",
@@ -111,7 +91,7 @@
           "description": "For the War",
           "link": "https://cryptohayes.medium.com/for-the-war-fd5509d525d",
           "publishedOn": "2022-09-07T02:00:05.000Z",
-          "wordCount": 16313,
+          "wordCount": 16233,
           "title": "For the War",
           "imageUrl": "https://miro.medium.com/max/400/0*rvrJYYe0w_1kY-5V"
         },
@@ -166,12 +146,22 @@
           "imageUrl": "https://api.jpg.space/opengraph.jpg"
         },
         {
+          "id": "https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/",
+          "author": null,
+          "description": "Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer",
+          "link": "https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/",
+          "publishedOn": "2022-09-06T21:00:02.000Z",
+          "wordCount": 1019,
+          "title": "Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer",
+          "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/09/Fuel_Trailer_Still_10.jpeg"
+        },
+        {
           "id": "https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
           "author": null,
           "description": "Someone’s Been Messing With My Subnormals!",
           "link": "https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html",
           "publishedOn": "2022-09-06T21:00:02.000Z",
-          "wordCount": 9266,
+          "wordCount": 9286,
           "title": "Someone’s Been Messing With My Subnormals!",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEid854WZEzp-Rtw3KuEZVBoPtT7eSci150VHH0wWvQ7QureR9pKovwQQPq1_e89uIeE1CA9g4SmxDvE6YQnWzEzVQMRuJe-bXI1frjcaxzNKpWKPfSYq3NKfLNkITBfVttrLil4FY4Um5wacFHUFVIXKj9u8MXwVZK9nrGO6p7Xu7M2lorX_v3swPOyPQ=w1200-h630-p-k-no-nu"
         },
@@ -181,19 +171,29 @@
           "description": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
           "link": "https://github.com/transmissions11/goo-issuance",
           "publishedOn": "2022-09-06T21:00:02.000Z",
-          "wordCount": 502,
+          "wordCount": 588,
           "title": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
-          "imageUrl": "https://opengraph.githubassets.com/5e299334bda7d5bb7a615e6424281ba1273ddbe6b9efcba5bea16571ce812ff1/transmissions11/goo-issuance"
+          "imageUrl": "https://opengraph.githubassets.com/4729ac895fc19d66c164d92735995188cc340ca311a381c91e93efd07b1100d0/transmissions11/goo-issuance"
         },
         {
-          "id": "https://www.galaxy.com/research/insights/overview-ethereums-merge-upgrade-associated-risks/",
+          "id": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
           "author": null,
-          "description": "A Step-By-Step Overview of Ethereum’s Merge Upgrade and Associated Risks",
-          "link": "https://www.galaxy.com/research/insights/overview-ethereums-merge-upgrade-associated-risks/",
+          "description": "Serenity Design Rationale - HackMD",
+          "link": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
+          "publishedOn": "2022-09-06T18:30:02.000Z",
+          "wordCount": 6043,
+          "title": "Serenity Design Rationale - HackMD",
+          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
+          "author": null,
+          "description": "EP #02: We Do A Little Zora",
+          "link": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
           "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": 4165,
-          "title": "A Step-By-Step Overview of Ethereum’s Merge Upgrade and Associated Risks",
-          "imageUrl": "https://images.ctfassets.net/f2k4wquz44by/3PkiPx7xF4itYjVqlkxJ7I/4ebbc8e265714b1ba91fdf6b3c4f2600/galaxy.com.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive"
+          "wordCount": null,
+          "title": "EP #02: We Do A Little Zora",
+          "imageUrl": null
         },
         {
           "id": "https://tags.eth.samczsun.com/",
