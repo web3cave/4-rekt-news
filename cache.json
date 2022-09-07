@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GkXgVbsnq1Y&feature=youtu.be",
+          "author": null,
+          "description": "EF ESP update, Fuel raises $80mil and more - The Daily Gwei Refuel #442 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=GkXgVbsnq1Y&feature=youtu.be",
+          "publishedOn": "2022-09-07T20:00:06.000Z",
+          "wordCount": null,
+          "title": "EF ESP update, Fuel raises $80mil and more - The Daily Gwei Refuel #442 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/policy/2022/09/07/celsius-misled-investors-about-financial-health-vermont-regulator-alleges/",
+          "author": null,
+          "description": "Celsius Resembled Ponzi Scheme at Times, Vermont Regulator Says",
+          "link": "https://www.coindesk.com/policy/2022/09/07/celsius-misled-investors-about-financial-health-vermont-regulator-alleges/",
+          "publishedOn": "2022-09-07T19:30:07.000Z",
+          "wordCount": 5769,
+          "title": "Celsius Resembled Ponzi Scheme at Times, Vermont Regulator Says",
+          "imageUrl": "https://www.coindesk.com/resizer/qrjmDC46uhpTyWrhHFXohf-Tc6Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/74QQSEGIERGVXM4UZOBZFC6JII.jpeg"
+        },
+        {
           "id": "https://blog.notional.finance/introducing-leveraged-vaults/",
           "author": null,
           "description": "Introducing Leveraged Vaults",
@@ -51,9 +71,19 @@
           "description": "Merge Community Call #7 · Issue #599 · ethereum/pm",
           "link": "https://github.com/ethereum/pm/issues/599",
           "publishedOn": "2022-09-07T17:00:02.000Z",
-          "wordCount": 935,
+          "wordCount": 939,
           "title": "Merge Community Call #7 · Issue #599 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/acf0425afa4fb04dc85a571141b0a16979f9dcd6564a62782b11560afaf80511/ethereum/pm/issues/599"
+        },
+        {
+          "id": "https://bitbanter.com/post/1021/",
+          "author": null,
+          "description": "Unstoppable NFTs By Meta, some restrictions apply",
+          "link": "https://bitbanter.com/post/1021/",
+          "publishedOn": "2022-09-07T17:00:02.000Z",
+          "wordCount": 1101,
+          "title": "Unstoppable NFTs By Meta, some restrictions apply",
+          "imageUrl": null
         },
         {
           "id": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
@@ -61,7 +91,7 @@
           "description": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "link": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "publishedOn": "2022-09-07T13:30:04.000Z",
-          "wordCount": 6611,
+          "wordCount": 6598,
           "title": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "imageUrl": "https://images.wsj.net/im-617736/social"
         },
@@ -121,29 +151,19 @@
           "description": "The Case for Parallel Processing Chains",
           "link": "https://medium.com/alliancedao/the-case-for-parallel-processing-chains-90bac38a6ba4",
           "publishedOn": "2022-09-06T23:00:03.000Z",
-          "wordCount": 6664,
+          "wordCount": 7002,
           "title": "The Case for Parallel Processing Chains",
           "imageUrl": "https://miro.medium.com/max/1200/1*y25Nqr536_k34eWmKFgRQA.png"
         },
         {
-          "id": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835",
+          "id": "https://www.youtube.com/watch?v=pgcPhmg5IaM&feature=youtu.be",
           "author": null,
-          "description": "Increasing transparency for new asset listings on Coinbase",
-          "link": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835",
+          "description": "How to Achieve Very Low Latency in Tezos",
+          "link": "https://www.youtube.com/watch?v=pgcPhmg5IaM&feature=youtu.be",
           "publishedOn": "2022-09-06T23:00:03.000Z",
-          "wordCount": 2532,
-          "title": "Increasing transparency for new asset listings on Coinbase",
-          "imageUrl": "https://miro.medium.com/max/1200/0*qDW4ne0fc71Ki3Zz"
-        },
-        {
-          "id": "https://github.com/graphprotocol/compound-v2-subgraph/issues/21",
-          "author": null,
-          "description": "Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...",
-          "link": "https://github.com/graphprotocol/compound-v2-subgraph/issues/21",
-          "publishedOn": "2022-09-06T23:00:03.000Z",
-          "wordCount": 681,
-          "title": "Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...",
-          "imageUrl": "https://opengraph.githubassets.com/15e654b14fab73462df2fd55b7d38cff9acf353764ca4b5ef47511d4de7fdf49/graphprotocol/compound-v2-subgraph/issues/21"
+          "wordCount": null,
+          "title": "How to Achieve Very Low Latency in Tezos",
+          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/09/goo",
@@ -174,26 +194,6 @@
           "wordCount": 1019,
           "title": "Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer",
           "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/09/Fuel_Trailer_Still_10.jpeg"
-        },
-        {
-          "id": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
-          "author": null,
-          "description": "Serenity Design Rationale - HackMD",
-          "link": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
-          "publishedOn": "2022-09-06T18:30:02.000Z",
-          "wordCount": 6043,
-          "title": "Serenity Design Rationale - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
-          "author": null,
-          "description": "EP #02: We Do A Little Zora",
-          "link": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
-          "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": null,
-          "title": "EP #02: We Do A Little Zora",
-          "imageUrl": null
         },
         {
           "id": "https://tags.eth.samczsun.com/",
