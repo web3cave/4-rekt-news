@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-07T18:29:21.593Z</id>
+    <id>urn:2022-09-07T19:19:35.646Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-07T18:29:21.593Z</updated>
+    <updated>2022-09-07T19:19:35.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,16 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Final Countdown to the Ethereum Merge Has Officially Begun]]></title>
-        <id>https://www.coindesk.com/video/recent-videos/the-final-countdown-to-the-ethereum-merge-has-officially-begun/</id>
-        <link href="https://www.coindesk.com/video/recent-videos/the-final-countdown-to-the-ethereum-merge-has-officially-begun/"/>
-        <updated>2022-09-07T03:30:05.000Z</updated>
-        <summary type="html"><![CDATA[The Final Countdown to the Ethereum Merge Has Officially Begun]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lenstube]]></title>
         <id>https://lenstube.xyz/watch/0x2e09-0x17</id>
         <link href="https://lenstube.xyz/watch/0x2e09-0x17"/>
@@ -141,6 +131,16 @@
         <link href="https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835"/>
         <updated>2022-09-06T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Increasing transparency for new asset listings on Coinbase]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...]]></title>
+        <id>https://github.com/graphprotocol/compound-v2-subgraph/issues/21</id>
+        <link href="https://github.com/graphprotocol/compound-v2-subgraph/issues/21"/>
+        <updated>2022-09-06T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
