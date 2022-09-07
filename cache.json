@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gitcoin.co/grants/",
+          "author": null,
+          "description": "Grants",
+          "link": "https://gitcoin.co/grants/",
+          "publishedOn": "2022-09-07T14:00:05.000Z",
+          "wordCount": 2098,
+          "title": "Grants",
+          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1-2.jpg"
+        },
+        {
+          "id": "https://www.flashbots.net/",
+          "author": null,
+          "description": "Flashbots",
+          "link": "https://www.flashbots.net/",
+          "publishedOn": "2022-09-07T14:00:05.000Z",
+          "wordCount": 2276,
+          "title": "Flashbots",
+          "imageUrl": "https://www.flashbots.net/api/social-image?id=e5aaaa13ba604e09a31d944e8bf50318"
+        },
+        {
+          "id": "https://sinoglobalcapital.substack.com/p/technical-dive-into-polygons-zk-solutions?r=1c4o4b&s=w&utm_campaign=post&utm_medium=web",
+          "author": null,
+          "description": "Technical Dive into Polygon’s ZK Solutions",
+          "link": "https://sinoglobalcapital.substack.com/p/technical-dive-into-polygons-zk-solutions?r=1c4o4b&s=w&utm_campaign=post&utm_medium=web",
+          "publishedOn": "2022-09-07T14:00:05.000Z",
+          "wordCount": 3853,
+          "title": "Technical Dive into Polygon’s ZK Solutions",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a5bda27-6b8d-4da4-9bb3-8dd909521130_1080x1080.png"
+        },
+        {
           "id": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "author": null,
           "description": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "link": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "publishedOn": "2022-09-07T13:30:04.000Z",
-          "wordCount": 6497,
+          "wordCount": 6488,
           "title": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "imageUrl": "https://images.wsj.net/im-617736/social"
         },
@@ -56,16 +86,6 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/fjqtvKJDgi2D1epXKPmoZ.png?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://www.youtube.com/watch?v=NM6ggmFJmLw",
-          "author": null,
-          "description": "IS HELIUM BECOMING SOLANA? w/ Anatoly Yakovenko & Amir Haleem - Ep. 27",
-          "link": "https://www.youtube.com/watch?v=NM6ggmFJmLw",
-          "publishedOn": "2022-09-07T03:30:05.000Z",
-          "wordCount": null,
-          "title": "IS HELIUM BECOMING SOLANA? w/ Anatoly Yakovenko & Amir Haleem - Ep. 27",
-          "imageUrl": null
-        },
-        {
           "id": "https://lenstube.xyz/watch/0x2e09-0x17",
           "author": null,
           "description": "Lenstube",
@@ -91,7 +111,7 @@
           "description": "For the War",
           "link": "https://cryptohayes.medium.com/for-the-war-fd5509d525d",
           "publishedOn": "2022-09-07T02:00:05.000Z",
-          "wordCount": 16288,
+          "wordCount": 16313,
           "title": "For the War",
           "imageUrl": "https://miro.medium.com/max/400/0*rvrJYYe0w_1kY-5V"
         },
@@ -111,7 +131,7 @@
           "description": "Increasing transparency for new asset listings on Coinbase",
           "link": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835",
           "publishedOn": "2022-09-06T23:00:03.000Z",
-          "wordCount": 2543,
+          "wordCount": 2532,
           "title": "Increasing transparency for new asset listings on Coinbase",
           "imageUrl": "https://miro.medium.com/max/1200/0*qDW4ne0fc71Ki3Zz"
         },
@@ -163,17 +183,7 @@
           "publishedOn": "2022-09-06T21:00:02.000Z",
           "wordCount": 502,
           "title": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
-          "imageUrl": "https://opengraph.githubassets.com/47ea01f67fd53d96d9c1cf0c6ced77c0a4beb6c767b86b36270cdf9c67fc0cc0/transmissions11/goo-issuance"
-        },
-        {
-          "id": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
-          "author": null,
-          "description": "Serenity Design Rationale - HackMD",
-          "link": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
-          "publishedOn": "2022-09-06T18:30:02.000Z",
-          "wordCount": 6043,
-          "title": "Serenity Design Rationale - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
+          "imageUrl": "https://opengraph.githubassets.com/5e299334bda7d5bb7a615e6424281ba1273ddbe6b9efcba5bea16571ce812ff1/transmissions11/goo-issuance"
         },
         {
           "id": "https://www.galaxy.com/research/insights/overview-ethereums-merge-upgrade-associated-risks/",
@@ -184,16 +194,6 @@
           "wordCount": 4165,
           "title": "A Step-By-Step Overview of Ethereum’s Merge Upgrade and Associated Risks",
           "imageUrl": "https://images.ctfassets.net/f2k4wquz44by/3PkiPx7xF4itYjVqlkxJ7I/4ebbc8e265714b1ba91fdf6b3c4f2600/galaxy.com.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
-          "author": null,
-          "description": "EP #02: We Do A Little Zora",
-          "link": "https://www.youtube.com/watch?v=j0FpKv9NVCY",
-          "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": null,
-          "title": "EP #02: We Do A Little Zora",
-          "imageUrl": null
         },
         {
           "id": "https://tags.eth.samczsun.com/",
