@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptohayes.medium.com/for-the-war-fd5509d525d",
+          "author": null,
+          "description": "For the War",
+          "link": "https://cryptohayes.medium.com/for-the-war-fd5509d525d",
+          "publishedOn": "2022-09-07T02:00:05.000Z",
+          "wordCount": 15902,
+          "title": "For the War",
+          "imageUrl": "https://miro.medium.com/max/400/0*rvrJYYe0w_1kY-5V"
+        },
+        {
           "id": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835",
           "author": null,
           "description": "Increasing transparency for new asset listings on Coinbase",
           "link": "https://blog.coinbase.com/increasing-transparency-for-new-asset-listings-on-coinbase-e06f2edb095e?gi=3933f2ffe835",
           "publishedOn": "2022-09-06T23:00:03.000Z",
-          "wordCount": 2713,
+          "wordCount": 2543,
           "title": "Increasing transparency for new asset listings on Coinbase",
           "imageUrl": "https://miro.medium.com/max/1200/0*qDW4ne0fc71Ki3Zz"
+        },
+        {
+          "id": "https://github.com/graphprotocol/compound-v2-subgraph/issues/21",
+          "author": null,
+          "description": "Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...",
+          "link": "https://github.com/graphprotocol/compound-v2-subgraph/issues/21",
+          "publishedOn": "2022-09-06T23:00:03.000Z",
+          "wordCount": 681,
+          "title": "Compound subgraph has stopped indexing as of block 15,442,130 (Aug-30-2022 07:15:59 PM +UTC) · Issue #21 ·...",
+          "imageUrl": "https://opengraph.githubassets.com/15e654b14fab73462df2fd55b7d38cff9acf353764ca4b5ef47511d4de7fdf49/graphprotocol/compound-v2-subgraph/issues/21"
         },
         {
           "id": "https://www.paradigm.xyz/2022/09/goo",
@@ -21,7 +41,7 @@
           "description": "GOO (Gradual Ownership Optimization) - Paradigm",
           "link": "https://www.paradigm.xyz/2022/09/goo",
           "publishedOn": "2022-09-06T21:00:02.000Z",
-          "wordCount": 31126,
+          "wordCount": 31036,
           "title": "GOO (Gradual Ownership Optimization) - Paradigm",
           "imageUrl": "https://paradigm.xyz/static/goo_title_card.gif"
         },
@@ -61,9 +81,9 @@
           "description": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
           "link": "https://github.com/transmissions11/goo-issuance",
           "publishedOn": "2022-09-06T21:00:02.000Z",
-          "wordCount": 502,
+          "wordCount": 592,
           "title": "GitHub - transmissions11/goo-issuance: GOO (Gradual Ownership Optimization) Issuance.",
-          "imageUrl": "https://opengraph.githubassets.com/c8e48275dc89d87b85324aabc0348efcc61a799214efe0c97ee63ce6c09f9434/transmissions11/goo-issuance"
+          "imageUrl": "https://opengraph.githubassets.com/199d33f7feabb19dbbf6cfbcff227f651af44c3c79cf862107b9f2304dffb909/transmissions11/goo-issuance"
         },
         {
           "id": "https://notes.ethereum.org/@vbuterin/serenity_design_rationale",
@@ -111,7 +131,7 @@
           "description": "‎We Do A Little: Zora on Apple Podcasts",
           "link": "https://podcasts.apple.com/us/podcast/we-do-a-little/id1641236625?i=1000578508294",
           "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": 2722,
+          "wordCount": 2675,
           "title": "‎We Do A Little: Zora on Apple Podcasts",
           "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/dd/e7/cb/dde7cb34-27b2-e345-060e-089f206030e5/mza_6711645237074882627.jpg/1200x630wp.png"
         },
@@ -121,9 +141,9 @@
           "description": "Grants",
           "link": "https://gitcoin.co/grants/",
           "publishedOn": "2022-09-06T17:00:02.000Z",
-          "wordCount": 2097,
+          "wordCount": null,
           "title": "Grants",
-          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1-2.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://axie.substack.com/p/appaxie-is-here",
@@ -156,14 +176,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://lenstube.xyz/watch/0x0ace-0x04",
+          "id": "https://www.galaxy.com/research/insights/overview-ethereums-merge-upgrade-associated-risks/",
           "author": null,
-          "description": "Lenstube",
-          "link": "https://lenstube.xyz/watch/0x0ace-0x04",
-          "publishedOn": "2022-09-06T15:30:04.000Z",
-          "wordCount": 11,
-          "title": "Lenstube",
-          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+          "description": "A Step-By-Step Overview of Ethereum’s Merge Upgrade and Associated Risks",
+          "link": "https://www.galaxy.com/research/insights/overview-ethereums-merge-upgrade-associated-risks/",
+          "publishedOn": "2022-09-06T17:00:02.000Z",
+          "wordCount": 4165,
+          "title": "A Step-By-Step Overview of Ethereum’s Merge Upgrade and Associated Risks",
+          "imageUrl": "https://images.ctfassets.net/f2k4wquz44by/3PkiPx7xF4itYjVqlkxJ7I/4ebbc8e265714b1ba91fdf6b3c4f2600/galaxy.com.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive"
         },
         {
           "id": "https://bordel.wtf/",
@@ -181,29 +201,9 @@
           "description": "Ethereum Tags Database",
           "link": "https://tags.eth.samczsun.com/",
           "publishedOn": "2022-09-06T09:30:03.000Z",
-          "wordCount": 506,
+          "wordCount": 698,
           "title": "Ethereum Tags Database",
           "imageUrl": "https://tags.eth.samczsun.com/favicon.png"
-        },
-        {
-          "id": "https://github.com/yearn/yearn-security/blob/master/disclosures/2022-10-06.md",
-          "author": null,
-          "description": "yearn-security/2022-10-06.md at master · yearn/yearn-security",
-          "link": "https://github.com/yearn/yearn-security/blob/master/disclosures/2022-10-06.md",
-          "publishedOn": "2022-09-06T07:00:02.000Z",
-          "wordCount": null,
-          "title": "yearn-security/2022-10-06.md at master · yearn/yearn-security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.binance.com/en/support/announcement/e62f703604a94538a1f1bc803b2d579f",
-          "author": null,
-          "description": "Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) | Binance Support",
-          "link": "https://www.binance.com/en/support/announcement/e62f703604a94538a1f1bc803b2d579f",
-          "publishedOn": "2022-09-05T19:00:02.000Z",
-          "wordCount": 10075,
-          "title": "Binance to Auto-Convert USDC, USDP, TUSD to BUSD (Binance USD) | Binance Support",
-          "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
         }
       ]
     }
