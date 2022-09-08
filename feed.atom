@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T21:21:46.423Z</id>
+    <id>urn:2022-09-08T22:24:14.670Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T21:21:46.423Z</updated>
+    <updated>2022-09-08T22:24:14.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coop Records]]></title>
+        <id>https://www.cooprecords.xyz/</id>
+        <link href="https://www.cooprecords.xyz/"/>
+        <updated>2022-09-08T21:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Coop Records]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QueenE DAO]]></title>
         <id>https://queene.wtf/</id>
@@ -31,16 +41,6 @@
         <link href="https://members.delphidigital.io/reports/finding-a-home-for-labs"/>
         <updated>2022-09-08T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Delphi Digital]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Rated Labs’ seed round]]></title>
-        <id>https://mirror.xyz/ratedw3b.eth/d27q8fhLvfW1a_cwJf8S4rjrOT2_kX3mmMrTmMvB4wc</id>
-        <link href="https://mirror.xyz/ratedw3b.eth/d27q8fhLvfW1a_cwJf8S4rjrOT2_kX3mmMrTmMvB4wc"/>
-        <updated>2022-09-08T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Rated Labs’ seed round]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

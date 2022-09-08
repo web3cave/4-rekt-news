@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.cooprecords.xyz/",
+          "author": null,
+          "description": "Coop Records",
+          "link": "https://www.cooprecords.xyz/",
+          "publishedOn": "2022-09-08T21:30:04.000Z",
+          "wordCount": 358,
+          "title": "Coop Records",
+          "imageUrl": "https://coop-records.vercel.app/images/favicons/opengraph.jpg"
+        },
+        {
           "id": "https://queene.wtf/",
           "author": null,
           "description": "QueenE DAO",
@@ -31,19 +41,9 @@
           "description": "Delphi Digital",
           "link": "https://members.delphidigital.io/reports/finding-a-home-for-labs",
           "publishedOn": "2022-09-08T19:00:03.000Z",
-          "wordCount": 15086,
+          "wordCount": 15083,
           "title": "Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/09/2022-09-07-10.45.25.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/ratedw3b.eth/d27q8fhLvfW1a_cwJf8S4rjrOT2_kX3mmMrTmMvB4wc",
-          "author": null,
-          "description": "Announcing Rated Labs’ seed round",
-          "link": "https://mirror.xyz/ratedw3b.eth/d27q8fhLvfW1a_cwJf8S4rjrOT2_kX3mmMrTmMvB4wc",
-          "publishedOn": "2022-09-08T19:00:03.000Z",
-          "wordCount": 1410,
-          "title": "Announcing Rated Labs’ seed round",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/agQa3LynuaMNYd1xvYkdD.png?h=840&w=854"
         },
         {
           "id": "https://entrepreneurshandbook.co/for-the-war-fd5509d525d?gi=9d87a13a7620",
@@ -61,7 +61,7 @@
           "description": "Coinbase backs lawsuit aimed at Treasury’s Tornado Cash sanctions",
           "link": "https://www.theblock.co/post/168502/backed-by-coinbase-employees-sue-treasury-to-roll-back-tornado-cash-sanctions",
           "publishedOn": "2022-09-08T17:00:03.000Z",
-          "wordCount": 71878,
+          "wordCount": 71388,
           "title": "Coinbase backs lawsuit aimed at Treasury’s Tornado Cash sanctions",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/09/shutterstock_210559972.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "Ethereum operators just sued to make Tornado Cash legal",
           "link": "https://fortune.com/2022/09/08/coinbase-employees-and-ethereum-backers-sue-u-s-treasury-over-tornado-cash-sanctions/",
           "publishedOn": "2022-09-08T17:00:03.000Z",
-          "wordCount": 3927,
+          "wordCount": 3932,
           "title": "Ethereum operators just sued to make Tornado Cash legal",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2021/03/GettyImages-1204916752.jpg?resize=1200,600"
         },
@@ -111,7 +111,7 @@
           "description": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "link": "https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115",
           "publishedOn": "2022-09-08T15:00:08.000Z",
-          "wordCount": 6200,
+          "wordCount": 6205,
           "title": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "imageUrl": "https://images.wsj.net/im-617547/social"
         },
@@ -121,7 +121,7 @@
           "description": "Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures",
           "link": "https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-08T14:00:05.000Z",
-          "wordCount": 73105,
+          "wordCount": 72605,
           "title": "Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_EvanCheng.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Crypto Startup Mysten Labs Raises $300 Million in FTX-Led Round",
           "link": "https://www.wsj.com/articles/crypto-startup-mysten-labs-raises-300-million-in-ftx-led-round-11662609293?mod=latest_headlines",
           "publishedOn": "2022-09-08T13:00:02.000Z",
-          "wordCount": 5955,
+          "wordCount": 5965,
           "title": "Crypto Startup Mysten Labs Raises $300 Million in FTX-Led Round",
           "imageUrl": "https://images.wsj.net/im-618578/social"
         },
@@ -191,7 +191,7 @@
           "description": "NEARCON BETA 2022",
           "link": "https://nearcon.org/",
           "publishedOn": "2022-09-08T01:30:04.000Z",
-          "wordCount": 18220,
+          "wordCount": 18239,
           "title": "NEARCON BETA 2022",
           "imageUrl": "https://s3.amazonaws.com/s3.clients.splashthat.com/img/events/splash/cards/458468604.x3.3ddd45b0.png"
         },
