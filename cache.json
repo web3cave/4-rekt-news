@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://chaoslabs.xyz/posts/chaos-labs-launches-aave-v3-risk-application",
+          "author": null,
+          "description": "Chaos Labs Launches AAVE v3 Risk Application",
+          "link": "https://chaoslabs.xyz/posts/chaos-labs-launches-aave-v3-risk-application",
+          "publishedOn": "2022-09-08T01:30:04.000Z",
+          "wordCount": 1692,
+          "title": "Chaos Labs Launches AAVE v3 Risk Application",
+          "imageUrl": "https://chaoslabs.xyz/blog/aave-ccar/aave_ccar_og.png"
+        },
+        {
+          "id": "https://nearcon.org/",
+          "author": null,
+          "description": "NEARCON BETA 2022",
+          "link": "https://nearcon.org/",
+          "publishedOn": "2022-09-08T01:30:04.000Z",
+          "wordCount": 18431,
+          "title": "NEARCON BETA 2022",
+          "imageUrl": "https://s3.amazonaws.com/s3.clients.splashthat.com/img/events/splash/cards/458468604.x3.3ddd45b0.png"
+        },
+        {
           "id": "https://jobs.lever.co/paradigm-xyz/60113a42-9b1d-4524-8034-ea1b14164edd",
           "author": null,
           "description": "Paradigm - Data Associate",
@@ -26,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.matchboxdao.com/",
-          "author": null,
-          "description": "MatchboxDAO Hackathon",
-          "link": "https://www.matchboxdao.com/",
-          "publishedOn": "2022-09-07T21:00:02.000Z",
-          "wordCount": 10375,
-          "title": "MatchboxDAO Hackathon",
-          "imageUrl": "http://static1.squarespace.com/static/6290822c51b22e433112f8e8/t/631754fd820ba665bc465f70/1662473469097/Matchbox+Logo.png?format=1500w"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=GkXgVbsnq1Y&feature=youtu.be",
           "author": null,
           "description": "EF ESP update, Fuel raises $80mil and more - The Daily Gwei Refuel #442 - Ethereum Updates",
@@ -51,7 +61,7 @@
           "description": "Celsius Resembled Ponzi Scheme at Times, Vermont Regulator Says",
           "link": "https://www.coindesk.com/policy/2022/09/07/celsius-misled-investors-about-financial-health-vermont-regulator-alleges/",
           "publishedOn": "2022-09-07T19:30:07.000Z",
-          "wordCount": 5843,
+          "wordCount": 5838,
           "title": "Celsius Resembled Ponzi Scheme at Times, Vermont Regulator Says",
           "imageUrl": "https://www.coindesk.com/resizer/qrjmDC46uhpTyWrhHFXohf-Tc6Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/74QQSEGIERGVXM4UZOBZFC6JII.jpeg"
         },
@@ -121,7 +131,7 @@
           "description": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "link": "https://www.wsj.com/articles/jerome-powells-inflation-fighting-pledge-could-tee-up-another-0-75-point-interest-rate-rise-11662550241",
           "publishedOn": "2022-09-07T13:30:04.000Z",
-          "wordCount": 6729,
+          "wordCount": 6701,
           "title": "Jerome Powell’s Inflation-Fighting Pledge Could Tee Up Another 0.75-Point Interest Rate Rise",
           "imageUrl": "https://images.wsj.net/im-617736/social"
         },
@@ -131,7 +141,7 @@
           "description": "tl;dr on HIP 70: HNT Ecosystem Would Expand on Solana",
           "link": "https://blog.helium.com/tl-dr-on-hip-70-hnt-ecosystem-would-expand-on-solana-abb123501765?gi=51f15dd0bb3d",
           "publishedOn": "2022-09-07T06:00:06.000Z",
-          "wordCount": 3822,
+          "wordCount": 3651,
           "title": "tl;dr on HIP 70: HNT Ecosystem Would Expand on Solana",
           "imageUrl": "https://miro.medium.com/max/1200/1*Kf5EDnXhh_nt48NtdkjCOg.png"
         },
@@ -151,7 +161,7 @@
           "description": "For the War",
           "link": "https://cryptohayes.medium.com/for-the-war-fd5509d525d",
           "publishedOn": "2022-09-07T02:00:05.000Z",
-          "wordCount": 16214,
+          "wordCount": 16231,
           "title": "For the War",
           "imageUrl": "https://miro.medium.com/max/400/0*rvrJYYe0w_1kY-5V"
         },
@@ -194,16 +204,6 @@
           "wordCount": 1019,
           "title": "Fuel Labs Announces $80 Million of Support for the Fastest Modular Execution Layer",
           "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/09/Fuel_Trailer_Still_10.jpeg"
-        },
-        {
-          "id": "https://tags.eth.samczsun.com/",
-          "author": null,
-          "description": "Ethereum Tags Database",
-          "link": "https://tags.eth.samczsun.com/",
-          "publishedOn": "2022-09-06T09:30:03.000Z",
-          "wordCount": 698,
-          "title": "Ethereum Tags Database",
-          "imageUrl": "https://tags.eth.samczsun.com/favicon.png"
         }
       ]
     }
