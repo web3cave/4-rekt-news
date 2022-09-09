@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T16:33:59.364Z</id>
+    <id>urn:2022-09-09T17:29:14.423Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-09T16:33:59.364Z</updated>
+    <updated>2022-09-09T17:29:14.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures]]></title>
-        <id>https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-09-09T16:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm]]></title>
         <id>https://www.paradigm.xyz/2022/09/goldfish</id>
@@ -131,6 +121,16 @@
         <link href="https://members.delphidigital.io/reports/finding-a-home-for-labs"/>
         <updated>2022-09-08T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Delphi Digital]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots]]></title>
+        <id>https://writings.flashbots.net/research/fcfs-and-front-running/</id>
+        <link href="https://writings.flashbots.net/research/fcfs-and-front-running/"/>
+        <updated>2022-09-08T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures",
-          "link": "https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-09-09T16:30:02.000Z",
-          "wordCount": 71951,
-          "title": "Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_EvanCheng.jpg"
-        },
-        {
           "id": "https://www.paradigm.xyz/2022/09/goldfish",
           "author": null,
           "description": "Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm",
@@ -136,6 +126,16 @@
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/09/2022-09-07-10.45.25.jpg"
         },
         {
+          "id": "https://writings.flashbots.net/research/fcfs-and-front-running/",
+          "author": null,
+          "description": "Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots",
+          "link": "https://writings.flashbots.net/research/fcfs-and-front-running/",
+          "publishedOn": "2022-09-08T19:00:03.000Z",
+          "wordCount": 3098,
+          "title": "Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots",
+          "imageUrl": "https://writings.flashbots.net/img/fcfs-and-front-running.png"
+        },
+        {
           "id": "https://mirror.xyz/ratedw3b.eth/d27q8fhLvfW1a_cwJf8S4rjrOT2_kX3mmMrTmMvB4wc",
           "author": null,
           "description": "Announcing Rated Labs’ seed round",
@@ -191,7 +191,7 @@
           "description": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "link": "https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115",
           "publishedOn": "2022-09-08T15:00:08.000Z",
-          "wordCount": 6176,
+          "wordCount": 6172,
           "title": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "imageUrl": "https://images.wsj.net/im-617547/social"
         },
