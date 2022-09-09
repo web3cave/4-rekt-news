@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf",
+          "author": null,
+          "description": "[PDF] 09-2022-Crypto-Assets-and-Climate-Report.pdf",
+          "link": "https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf",
+          "publishedOn": "2022-09-09T18:30:02.000Z",
+          "wordCount": 23010,
+          "title": "[PDF] 09-2022-Crypto-Assets-and-Climate-Report.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.paradigm.xyz/2022/09/goldfish",
           "author": null,
           "description": "Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm",
@@ -14,16 +24,6 @@
           "wordCount": 4380,
           "title": "Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm",
           "imageUrl": "https://paradigm.xyz/static/blog-goldfish/cover.png"
-        },
-        {
-          "id": "https://queene.wtf/",
-          "author": null,
-          "description": "QueenE DAO",
-          "link": "https://queene.wtf/",
-          "publishedOn": "2022-09-09T15:30:04.000Z",
-          "wordCount": 2,
-          "title": "QueenE DAO",
-          "imageUrl": null
         },
         {
           "id": "https://www.whitehouse.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf",
@@ -191,7 +191,7 @@
           "description": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "link": "https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115",
           "publishedOn": "2022-09-08T15:00:08.000Z",
-          "wordCount": 6172,
+          "wordCount": 6174,
           "title": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "imageUrl": "https://images.wsj.net/im-617547/social"
         },
