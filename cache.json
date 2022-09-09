@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://matcha.xyz/",
+          "author": null,
+          "description": "Matcha - Simple crypto trading for everyone",
+          "link": "https://matcha.xyz/",
+          "publishedOn": "2022-09-09T04:30:02.000Z",
+          "wordCount": 616,
+          "title": "Matcha - Simple crypto trading for everyone",
+          "imageUrl": "https://matcha.xyz/img/matcha-banner.png"
+        },
+        {
+          "id": "https://pluriverse.wtf/",
+          "author": null,
+          "description": "pluriverse.wtf",
+          "link": "https://pluriverse.wtf/",
+          "publishedOn": "2022-09-09T04:00:06.000Z",
+          "wordCount": 151,
+          "title": "pluriverse.wtf",
+          "imageUrl": "https://pluriverse.wtf/assets/pluriverse-twitter-card.png"
+        },
+        {
           "id": "https://lenstube.xyz/watch/0x0ce0-0x02",
           "author": null,
           "description": "Lenstube",
@@ -136,6 +156,16 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*bjsZn82qT1uyZQOclSRn4g.png"
         },
         {
+          "id": "https://stateful.mirror.xyz/mYXVnZ_0mP0eTtKMb1-NJqo3a8cRXGMySfk_0ep_Oeg",
+          "author": null,
+          "description": "Merge Manual",
+          "link": "https://stateful.mirror.xyz/mYXVnZ_0mP0eTtKMb1-NJqo3a8cRXGMySfk_0ep_Oeg",
+          "publishedOn": "2022-09-08T15:30:05.000Z",
+          "wordCount": 42243,
+          "title": "Merge Manual",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/3TFo2XkhCDL9y1TCJ4SJg.png?height=1200&width=2400&h=1200&w=2400&auto=compress"
+        },
+        {
           "id": "https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115",
           "author": null,
           "description": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
@@ -174,36 +204,6 @@
           "wordCount": 5975,
           "title": "Crypto Startup Mysten Labs Raises $300 Million in FTX-Led Round",
           "imageUrl": "https://images.wsj.net/im-618578/social"
-        },
-        {
-          "id": "https://domainnamewire.com/2022/09/07/breaking-ethereum-name-service-sues-to-stop-eth-link-domain-sale/",
-          "author": null,
-          "description": "Breaking: Ethereum Name Service sues to stop eth.link domain sale - Domain Name Wire | Domain Name News",
-          "link": "https://domainnamewire.com/2022/09/07/breaking-ethereum-name-service-sues-to-stop-eth-link-domain-sale/",
-          "publishedOn": "2022-09-08T06:00:04.000Z",
-          "wordCount": 2354,
-          "title": "Breaking: Ethereum Name Service sues to stop eth.link domain sale - Domain Name Wire | Domain Name News",
-          "imageUrl": "https://domainnamewire.com/wp-content/ens.png"
-        },
-        {
-          "id": "https://chain.link/block-stories",
-          "author": null,
-          "description": "Block Stories #2: Kain Warwick of Synthetix | Chainlink",
-          "link": "https://chain.link/block-stories",
-          "publishedOn": "2022-09-08T05:00:12.000Z",
-          "wordCount": 1489,
-          "title": "Block Stories #2: Kain Warwick of Synthetix | Chainlink",
-          "imageUrl": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/6308e40328e2be2fb3a28a5d_bs-og-episode02.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/haunventures.eth/E-iD-jqgD-WmqrZOjCnGjv6U-R_N5tUk8xPzxUHhQGc",
-          "author": null,
-          "description": "Tornado Cash: What web3 Needs to Know by Katie Haun",
-          "link": "https://mirror.xyz/haunventures.eth/E-iD-jqgD-WmqrZOjCnGjv6U-R_N5tUk8xPzxUHhQGc",
-          "publishedOn": "2022-09-07T04:30:02.000Z",
-          "wordCount": 3786,
-          "title": "Tornado Cash: What web3 Needs to Know by Katie Haun",
-          "imageUrl": "https://mirror-media.imgix.net/nft/fjqtvKJDgi2D1epXKPmoZ.png?h=null&w=null&auto=compress"
         }
       ]
     }
