@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://uniswap.org/blog/jit-liquidity",
+          "author": null,
+          "description": "Just-in-time Liquidity on the Uniswap Protocol",
+          "link": "https://uniswap.org/blog/jit-liquidity",
+          "publishedOn": "2022-09-09T23:00:02.000Z",
+          "wordCount": 8257,
+          "title": "Just-in-time Liquidity on the Uniswap Protocol",
+          "imageUrl": "https://uniswap.org/images/posts/jit-liquidity/header.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oE5ym63tKZU",
           "author": null,
           "description": "OAK x NFT Oakland 2022 - Recap",
@@ -121,7 +131,7 @@
           "description": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
           "link": "https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868",
           "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 1720,
+          "wordCount": 1723,
           "title": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
           "imageUrl": "https://opengraph.githubassets.com/7cad9f28560ae9f29c4f06fe68c1fc39b16cd1f443078b8f10b9c9e02fb1f740/ethereumpow/go-ethereum/pull/17"
         },
@@ -134,26 +144,6 @@
           "wordCount": 1417,
           "title": "It Appears Money Can Buy Happiness After All... | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://https.cio.gov/",
-          "author": null,
-          "description": "The HTTPS-Only Standard - The HTTPS-Only Standard",
-          "link": "https://https.cio.gov/",
-          "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 1749,
-          "title": "The HTTPS-Only Standard - The HTTPS-Only Standard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://archive.epic.org/crypto/ban/",
-          "author": null,
-          "description": "EPIC - Efforts to Ban Encryption in the 1990s",
-          "link": "https://archive.epic.org/crypto/ban/",
-          "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 1057,
-          "title": "EPIC - Efforts to Ban Encryption in the 1990s",
-          "imageUrl": "https://www.epic.org/i/epiclogo_sq2.jpg"
         },
         {
           "id": "https://matcha.xyz/",
@@ -186,6 +176,16 @@
           "imageUrl": "https://writings.flashbots.net/img/fcfs-and-front-running.png"
         },
         {
+          "id": "https://gitcoin.co/grants/1624/cryptofeesinfo",
+          "author": null,
+          "description": "💰 CryptoStats/CryptoFees.info | Grants",
+          "link": "https://gitcoin.co/grants/1624/cryptofeesinfo",
+          "publishedOn": "2022-09-08T17:00:03.000Z",
+          "wordCount": 6034,
+          "title": "💰 CryptoStats/CryptoFees.info | Grants",
+          "imageUrl": "https://c.gitcoin.co/grants/c04c7b7f82ef7fb3b3ef291d85a8a5b6/CryptoFees.png"
+        },
+        {
           "id": "https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=b0ecedc71fa8",
           "author": null,
           "description": "Defending Privacy in Crypto",
@@ -201,7 +201,7 @@
           "description": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "link": "https://www.wsj.com/articles/secs-gensler-supports-commodities-regulator-having-bitcoin-oversight-11662641115",
           "publishedOn": "2022-09-08T15:00:08.000Z",
-          "wordCount": 6212,
+          "wordCount": 6196,
           "title": "SEC’s Gensler Supports Commodities Regulator Having Bitcoin Oversight",
           "imageUrl": "https://images.wsj.net/im-617547/social"
         }

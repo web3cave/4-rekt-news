@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-09T22:24:11.917Z</id>
+    <id>urn:2022-09-09T23:26:30.083Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-09T22:24:11.917Z</updated>
+    <updated>2022-09-09T23:26:30.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Just-in-time Liquidity on the Uniswap Protocol]]></title>
+        <id>https://uniswap.org/blog/jit-liquidity</id>
+        <link href="https://uniswap.org/blog/jit-liquidity"/>
+        <updated>2022-09-09T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Just-in-time Liquidity on the Uniswap Protocol]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OAK x NFT Oakland 2022 - Recap]]></title>
         <id>https://www.youtube.com/watch?v=oE5ym63tKZU</id>
@@ -136,26 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The HTTPS-Only Standard - The HTTPS-Only Standard]]></title>
-        <id>https://https.cio.gov/</id>
-        <link href="https://https.cio.gov/"/>
-        <updated>2022-09-09T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The HTTPS-Only Standard - The HTTPS-Only Standard]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPIC - Efforts to Ban Encryption in the 1990s]]></title>
-        <id>https://archive.epic.org/crypto/ban/</id>
-        <link href="https://archive.epic.org/crypto/ban/"/>
-        <updated>2022-09-09T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EPIC - Efforts to Ban Encryption in the 1990s]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matcha - Simple crypto trading for everyone]]></title>
         <id>https://matcha.xyz/</id>
         <link href="https://matcha.xyz/"/>
@@ -181,6 +171,16 @@
         <link href="https://writings.flashbots.net/research/fcfs-and-front-running/"/>
         <updated>2022-09-08T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></title>
+        <id>https://gitcoin.co/grants/1624/cryptofeesinfo</id>
+        <link href="https://gitcoin.co/grants/1624/cryptofeesinfo"/>
+        <updated>2022-09-08T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
