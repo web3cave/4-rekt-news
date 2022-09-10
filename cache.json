@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.jewsforabortionaccess.org/fund",
+          "author": null,
+          "description": "Donate — Jews for Abortion Access",
+          "link": "https://www.jewsforabortionaccess.org/fund",
+          "publishedOn": "2022-09-10T16:30:08.000Z",
+          "wordCount": 8972,
+          "title": "Donate — Jews for Abortion Access",
+          "imageUrl": "http://static1.squarespace.com/static/62a874c9150c8e5bb63a5fd1/t/62a9cfdb82c52e3d31624540/1659622507210/Fund+Logo+%281%29.png?format=1500w"
+        },
+        {
+          "id": "https://thecoh.build/",
+          "author": null,
+          "description": "the COH",
+          "link": "https://thecoh.build/",
+          "publishedOn": "2022-09-10T16:00:04.000Z",
+          "wordCount": 5878,
+          "title": "the COH",
+          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=bf2664ca"
+        },
+        {
+          "id": "https://gov.proofofhumanity.id/t/phase-1-hip-63-delegations-on-the-dao-snapshot/2394",
+          "author": null,
+          "description": "[Phase-1] HIP-63 Delegations on the DAO Snapshot",
+          "link": "https://gov.proofofhumanity.id/t/phase-1-hip-63-delegations-on-the-dao-snapshot/2394",
+          "publishedOn": "2022-09-10T16:00:04.000Z",
+          "wordCount": 443,
+          "title": "[Phase-1] HIP-63 Delegations on the DAO Snapshot",
+          "imageUrl": "https://gov.proofofhumanity.id/uploads/default/original/1X/1fa810c24886c8a28548ef21b49869e18b849b55.png"
+        },
+        {
           "id": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opapham4",
           "author": null,
           "description": "Keynote Address by Commissioner Caroline D. Pham at the EUROFI Financial Forum Prague 2022 | CFTC",
@@ -24,26 +54,6 @@
           "wordCount": 3588,
           "title": "Software Engineering Code - ACM Ethics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.jewsforabortionaccess.org/fund",
-          "author": null,
-          "description": "Donate — Jews for Abortion Access",
-          "link": "https://www.jewsforabortionaccess.org/fund",
-          "publishedOn": "2022-09-10T15:00:03.000Z",
-          "wordCount": 8972,
-          "title": "Donate — Jews for Abortion Access",
-          "imageUrl": "http://static1.squarespace.com/static/62a874c9150c8e5bb63a5fd1/t/62a9cfdb82c52e3d31624540/1659622507210/Fund+Logo+%281%29.png?format=1500w"
-        },
-        {
-          "id": "https://writings.flashbots.net/research/fcfs-and-front-running/",
-          "author": null,
-          "description": "Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots",
-          "link": "https://writings.flashbots.net/research/fcfs-and-front-running/",
-          "publishedOn": "2022-09-10T14:30:07.000Z",
-          "wordCount": 3098,
-          "title": "Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots",
-          "imageUrl": "https://writings.flashbots.net/img/fcfs-and-front-running.png"
         },
         {
           "id": "https://pintail.xyz/posts/post-merge-mev/",
@@ -71,9 +81,19 @@
           "description": "MCON 2022",
           "link": "https://paper.dropbox.com/doc/GI6bCU9rxBLnc1WjXBvsi",
           "publishedOn": "2022-09-09T23:00:02.000Z",
-          "wordCount": 3577,
+          "wordCount": 3576,
           "title": "MCON 2022",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/layer2/2022/09/09/a-currency-crisis-looms-we-need-a-new-model/?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=headlines",
+          "author": null,
+          "description": "A Currency Crisis Looms: We Need a New Model",
+          "link": "https://www.coindesk.com/layer2/2022/09/09/a-currency-crisis-looms-we-need-a-new-model/?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=headlines",
+          "publishedOn": "2022-09-09T22:00:05.000Z",
+          "wordCount": 8200,
+          "title": "A Currency Crisis Looms: We Need a New Model",
+          "imageUrl": "https://www.coindesk.com/resizer/jEw7ylv4l7XLiwO7Wk1QI79r2g8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UH4A2U6MTVEGLDQ3ZRQ54YARMI.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=oE5ym63tKZU",
@@ -94,16 +114,6 @@
           "wordCount": 13129,
           "title": "Base Layer Neutrality - Paradigm",
           "imageUrl": "https://paradigm.xyz/static/cci-cover.jpg"
-        },
-        {
-          "id": "https://www.ftxpolicy.com/posts/sanctions-compliance",
-          "author": null,
-          "description": "FTX Policy",
-          "link": "https://www.ftxpolicy.com/posts/sanctions-compliance",
-          "publishedOn": "2022-09-09T21:00:02.000Z",
-          "wordCount": 1186,
-          "title": "FTX Policy",
-          "imageUrl": null
         },
         {
           "id": "https://cancel.fm/ripcord/",
@@ -146,6 +156,16 @@
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
         },
         {
+          "id": "https://eips.ethereum.org/EIPS/eip-3074",
+          "author": null,
+          "description": "EIP-3074: AUTH and AUTHCALL opcodes",
+          "link": "https://eips.ethereum.org/EIPS/eip-3074",
+          "publishedOn": "2022-09-09T21:00:02.000Z",
+          "wordCount": 3961,
+          "title": "EIP-3074: AUTH and AUTHCALL opcodes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B9x93lk6Y-0&feature=youtu.be",
           "author": null,
           "description": "Around the Block Ep 34: Tornado Cash: What Happened and Implications for Crypto",
@@ -166,26 +186,6 @@
           "imageUrl": "https://c.gitcoin.co/grants/e0e3bab8f99b2e123d6dd84af8ac9fdd/Frame_14.png"
         },
         {
-          "id": "https://www.paradigm.xyz/2022/09/goldfish",
-          "author": null,
-          "description": "Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm",
-          "link": "https://www.paradigm.xyz/2022/09/goldfish",
-          "publishedOn": "2022-09-09T16:00:05.000Z",
-          "wordCount": 4380,
-          "title": "Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm",
-          "imageUrl": "https://paradigm.xyz/static/blog-goldfish/cover.png"
-        },
-        {
-          "id": "https://vitalik.eth.limo/general/2022/09/09/ens.html",
-          "author": null,
-          "description": "Should there be demand-based recurring fees on ENS domains?",
-          "link": "https://vitalik.eth.limo/general/2022/09/09/ens.html",
-          "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 3610,
-          "title": "Should there be demand-based recurring fees on ENS domains?",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868",
           "author": null,
           "description": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
@@ -201,7 +201,7 @@
           "description": "Defending Privacy in Crypto",
           "link": "https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=b0ecedc71fa8",
           "publishedOn": "2022-09-08T15:30:05.000Z",
-          "wordCount": 2522,
+          "wordCount": 2493,
           "title": "Defending Privacy in Crypto",
           "imageUrl": "https://miro.medium.com/max/1200/1*bjsZn82qT1uyZQOclSRn4g.png"
         }
