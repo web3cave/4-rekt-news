@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5cbCYwgQkTE",
+          "author": null,
+          "description": "What if You Could Sing in Your Favorite Musician's Voice? | Holly Herndon | TED",
+          "link": "https://www.youtube.com/watch?v=5cbCYwgQkTE",
+          "publishedOn": "2022-09-10T03:30:04.000Z",
+          "wordCount": null,
+          "title": "What if You Could Sing in Your Favorite Musician's Voice? | Holly Herndon | TED",
+          "imageUrl": null
+        },
+        {
           "id": "https://uniswap.org/blog/jit-liquidity",
           "author": null,
           "description": "Just-in-time Liquidity on the Uniswap Protocol",
@@ -41,7 +51,7 @@
           "description": "Base Layer Neutrality - Paradigm",
           "link": "https://www.paradigm.xyz/2022/09/base-layer-neutrality",
           "publishedOn": "2022-09-09T21:00:02.000Z",
-          "wordCount": 13125,
+          "wordCount": 13129,
           "title": "Base Layer Neutrality - Paradigm",
           "imageUrl": "https://paradigm.xyz/static/cci-cover.jpg"
         },
@@ -151,9 +161,9 @@
           "description": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
           "link": "https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868",
           "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 1723,
+          "wordCount": 1828,
           "title": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
-          "imageUrl": "https://opengraph.githubassets.com/7cad9f28560ae9f29c4f06fe68c1fc39b16cd1f443078b8f10b9c9e02fb1f740/ethereumpow/go-ethereum/pull/17"
+          "imageUrl": "https://opengraph.githubassets.com/355d87b9f868b24d4ad7ee8b24e9a776d4980188f431238cd114381932ebf02d/ethereumpow/go-ethereum/pull/17"
         },
         {
           "id": "https://writings.flashbots.net/research/fcfs-and-front-running/",
@@ -181,19 +191,9 @@
           "description": "CryptoFees.info",
           "link": "https://cryptofees.info/",
           "publishedOn": "2022-09-08T17:00:03.000Z",
-          "wordCount": 3675,
+          "wordCount": 3687,
           "title": "CryptoFees.info",
           "imageUrl": "https://crypto-fees-918liwmzu-crypto-fees-info.vercel.app/api/social/top.png?10"
-        },
-        {
-          "id": "https://credibleconfessions.com/",
-          "author": null,
-          "description": "Write a Credible Confession",
-          "link": "https://credibleconfessions.com/",
-          "publishedOn": "2022-09-08T16:30:02.000Z",
-          "wordCount": 36,
-          "title": "Write a Credible Confession",
-          "imageUrl": null
         },
         {
           "id": "https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=b0ecedc71fa8",
@@ -201,7 +201,7 @@
           "description": "Defending Privacy in Crypto",
           "link": "https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=b0ecedc71fa8",
           "publishedOn": "2022-09-08T15:30:05.000Z",
-          "wordCount": 2591,
+          "wordCount": 2573,
           "title": "Defending Privacy in Crypto",
           "imageUrl": "https://miro.medium.com/max/1200/1*bjsZn82qT1uyZQOclSRn4g.png"
         }
