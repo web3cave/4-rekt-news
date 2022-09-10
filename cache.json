@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://promptbase.com/",
+          "author": null,
+          "description": "PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace",
+          "link": "https://promptbase.com/",
+          "publishedOn": "2022-09-10T22:00:05.000Z",
+          "wordCount": 481,
+          "title": "PromptBase | DALL·E, Midjourney & GPT-3 Prompt Marketplace",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/banteg/erigon-kv",
           "author": null,
           "description": "GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api",
           "link": "https://github.com/banteg/erigon-kv",
           "publishedOn": "2022-09-10T21:15:03.000Z",
-          "wordCount": 693,
+          "wordCount": 744,
           "title": "GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api",
           "imageUrl": "https://opengraph.githubassets.com/7c2bf561dc3bb85ec02fbe2ee1bd54ee3968dc7382572790a022636b0c7ea199/banteg/erigon-kv"
         },
@@ -101,7 +111,7 @@
           "description": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "link": "https://www.coindesk.com/business/2022/09/10/vitalik-buterin-makes-surprise-appearance-at-kyiv-tech-summit-in-show-of-support-for-ukraine/",
           "publishedOn": "2022-09-10T17:00:03.000Z",
-          "wordCount": 7408,
+          "wordCount": 7412,
           "title": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "imageUrl": "https://www.coindesk.com/resizer/PXjoDapL4IiF82bf3dxSe9qloYk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHS7GSIHKFGBNPVRZN3T6EQMFQ.jpeg"
         },
@@ -164,16 +174,6 @@
           "wordCount": 7455,
           "title": "Post-Merge MEV: Modelling Validator Returns",
           "imageUrl": "https://pintail.xyz/assets/images/model-post-merge-returns_files/patrick-langwallner-TTz_H1FrdIc-unsplash_cropped.jpg"
-        },
-        {
-          "id": "https://paper.dropbox.com/doc/GI6bCU9rxBLnc1WjXBvsi",
-          "author": null,
-          "description": "MCON 2022",
-          "link": "https://paper.dropbox.com/doc/GI6bCU9rxBLnc1WjXBvsi",
-          "publishedOn": "2022-09-09T23:00:02.000Z",
-          "wordCount": 3576,
-          "title": "MCON 2022",
-          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/09/base-layer-neutrality",
