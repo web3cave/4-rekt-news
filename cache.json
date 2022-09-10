@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.newsbtc.com/news/binance-coin/binance-coin-surpasses-1-billion-trading-volume/?utm_source=dlvr.it&utm_medium=twitter",
+          "author": null,
+          "description": "Binance Coin Surpasses 1 Billion Trading Volume After BNB Network Upgrade",
+          "link": "https://www.newsbtc.com/news/binance-coin/binance-coin-surpasses-1-billion-trading-volume/?utm_source=dlvr.it&utm_medium=twitter",
+          "publishedOn": "2022-09-10T18:00:04.000Z",
+          "wordCount": 5298,
+          "title": "Binance Coin Surpasses 1 Billion Trading Volume After BNB Network Upgrade",
+          "imageUrl": "https://www.newsbtc.com/wp-content/uploads/2022/09/BNB.png"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/09/08/firm-behind-ethereum-name-service-and-virgil-griffith-sue-godaddy-over-sale-of-ethlink/",
           "author": null,
           "description": "Firm Behind Ethereum Name Service and Virgil Griffith Sue GoDaddy Over Sale of Eth.link",
           "link": "https://www.coindesk.com/policy/2022/09/08/firm-behind-ethereum-name-service-and-virgil-griffith-sue-godaddy-over-sale-of-ethlink/",
           "publishedOn": "2022-09-10T17:00:04.000Z",
-          "wordCount": 7280,
+          "wordCount": 7263,
           "title": "Firm Behind Ethereum Name Service and Virgil Griffith Sue GoDaddy Over Sale of Eth.link",
           "imageUrl": "https://www.coindesk.com/resizer/w_6JNn24-30jdimfCiug5tRjUsA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/USCTLIZUMFE5ZPGCG4YVL7RKSI.jpg"
         },
@@ -21,9 +31,19 @@
           "description": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "link": "https://www.coindesk.com/business/2022/09/10/vitalik-buterin-makes-surprise-appearance-at-kyiv-tech-summit-in-show-of-support-for-ukraine/",
           "publishedOn": "2022-09-10T17:00:03.000Z",
-          "wordCount": 7383,
+          "wordCount": 7362,
           "title": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "imageUrl": "https://www.coindesk.com/resizer/PXjoDapL4IiF82bf3dxSe9qloYk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHS7GSIHKFGBNPVRZN3T6EQMFQ.jpeg"
+        },
+        {
+          "id": "https://notes.ethereum.org/@GW1ZUbNKR5iRjjKYx6_dJQ/Bk8zsJ9xj",
+          "author": null,
+          "description": "Tornado Cash Community Build - HackMD",
+          "link": "https://notes.ethereum.org/@GW1ZUbNKR5iRjjKYx6_dJQ/Bk8zsJ9xj",
+          "publishedOn": "2022-09-10T17:00:03.000Z",
+          "wordCount": 998,
+          "title": "Tornado Cash Community Build - HackMD",
+          "imageUrl": "https://avatars.githubusercontent.com/u/886059?s=400"
         },
         {
           "id": "https://thecoh.build/",
@@ -54,6 +74,16 @@
           "wordCount": 3588,
           "title": "Software Engineering Code - ACM Ethics",
           "imageUrl": null
+        },
+        {
+          "id": "https://polynya.mirror.xyz/eq4PNsg-ld4V2LDB7HlHuNm-ULFAtvmVH--utaxAAEs",
+          "author": null,
+          "description": "4488 and Done",
+          "link": "https://polynya.mirror.xyz/eq4PNsg-ld4V2LDB7HlHuNm-ULFAtvmVH--utaxAAEs",
+          "publishedOn": "2022-09-10T05:30:04.000Z",
+          "wordCount": 3093,
+          "title": "4488 and Done",
+          "imageUrl": ""
         },
         {
           "id": "https://pintail.xyz/posts/post-merge-mev/",
@@ -91,7 +121,7 @@
           "description": "A Currency Crisis Looms: We Need a New Model",
           "link": "https://www.coindesk.com/layer2/2022/09/09/a-currency-crisis-looms-we-need-a-new-model/?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=headlines",
           "publishedOn": "2022-09-09T22:00:05.000Z",
-          "wordCount": 8229,
+          "wordCount": 8234,
           "title": "A Currency Crisis Looms: We Need a New Model",
           "imageUrl": "https://www.coindesk.com/resizer/jEw7ylv4l7XLiwO7Wk1QI79r2g8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UH4A2U6MTVEGLDQ3ZRQ54YARMI.jpg"
         },
@@ -146,26 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777",
-          "author": null,
-          "description": "Shanghai Core EIP Consideration",
-          "link": "https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777",
-          "publishedOn": "2022-09-09T21:00:02.000Z",
-          "wordCount": 733,
-          "title": "Shanghai Core EIP Consideration",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://eips.ethereum.org/EIPS/eip-3074",
-          "author": null,
-          "description": "EIP-3074: AUTH and AUTHCALL opcodes",
-          "link": "https://eips.ethereum.org/EIPS/eip-3074",
-          "publishedOn": "2022-09-09T21:00:02.000Z",
-          "wordCount": 3961,
-          "title": "EIP-3074: AUTH and AUTHCALL opcodes",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=B9x93lk6Y-0",
           "author": null,
           "description": "Around the Block Ep 34: Tornado Cash: What Happened and Implications for Crypto",
@@ -174,16 +184,6 @@
           "wordCount": null,
           "title": "Around the Block Ep 34: Tornado Cash: What Happened and Implications for Crypto",
           "imageUrl": null
-        },
-        {
-          "id": "https://gitcoin.co/grants/4832/protocol-guild",
-          "author": null,
-          "description": "💰 Protocol Guild | Grants",
-          "link": "https://gitcoin.co/grants/4832/protocol-guild",
-          "publishedOn": "2022-09-09T18:00:05.000Z",
-          "wordCount": 6036,
-          "title": "💰 Protocol Guild | Grants",
-          "imageUrl": "https://c.gitcoin.co/grants/e0e3bab8f99b2e123d6dd84af8ac9fdd/Frame_14.png"
         },
         {
           "id": "https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868",
