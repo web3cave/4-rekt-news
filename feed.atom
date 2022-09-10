@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T07:22:43.986Z</id>
+    <id>urn:2022-09-10T08:29:45.223Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-10T07:22:43.986Z</updated>
+    <updated>2022-09-10T08:29:45.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.youtube.com/watch?v=5cbCYwgQkTE"/>
         <updated>2022-09-10T03:30:04.000Z</updated>
         <summary type="html"><![CDATA[What if You Could Sing in Your Favorite Musician's Voice? | Holly Herndon | TED]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Merge MEV: Modelling Validator Returns]]></title>
+        <id>https://pintail.xyz/posts/post-merge-mev/</id>
+        <link href="https://pintail.xyz/posts/post-merge-mev/"/>
+        <updated>2022-09-10T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Post-Merge MEV: Modelling Validator Returns]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -126,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[💰 Protocol Guild | Grants]]></title>
+        <id>https://gitcoin.co/grants/4832/protocol-guild</id>
+        <link href="https://gitcoin.co/grants/4832/protocol-guild"/>
+        <updated>2022-09-09T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[💰 Protocol Guild | Grants]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm]]></title>
         <id>https://www.paradigm.xyz/2022/09/goldfish</id>
         <link href="https://www.paradigm.xyz/2022/09/goldfish"/>
@@ -166,31 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots]]></title>
-        <id>https://writings.flashbots.net/research/fcfs-and-front-running/</id>
-        <link href="https://writings.flashbots.net/research/fcfs-and-front-running/"/>
-        <updated>2022-09-08T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Can First Come First Served-Based Transaction Ordering Prevent Front-Running? | Flashbots]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></title>
-        <id>https://gitcoin.co/grants/1624/cryptofeesinfo</id>
-        <link href="https://gitcoin.co/grants/1624/cryptofeesinfo"/>
-        <updated>2022-09-08T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoFees.info]]></title>
-        <id>https://cryptofees.info/</id>
-        <link href="https://cryptofees.info/"/>
-        <updated>2022-09-08T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[CryptoFees.info]]></summary>
+        <title type="html"><![CDATA[Write a Credible Confession]]></title>
+        <id>https://credibleconfessions.com/</id>
+        <link href="https://credibleconfessions.com/"/>
+        <updated>2022-09-08T16:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Write a Credible Confession]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
