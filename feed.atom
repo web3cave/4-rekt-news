@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T18:29:24.351Z</id>
+    <id>urn:2022-09-10T19:18:33.317Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-10T18:29:24.351Z</updated>
+    <updated>2022-09-10T19:18:33.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Binance Coin Surpasses 1 Billion Trading Volume After BNB Network Upgrade]]></title>
-        <id>https://www.newsbtc.com/news/binance-coin/binance-coin-surpasses-1-billion-trading-volume/?utm_source=dlvr.it&amp;utm_medium=twitter</id>
-        <link href="https://www.newsbtc.com/news/binance-coin/binance-coin-surpasses-1-billion-trading-volume/?utm_source=dlvr.it&amp;utm_medium=twitter"/>
-        <updated>2022-09-10T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Binance Coin Surpasses 1 Billion Trading Volume After BNB Network Upgrade]]></summary>
+        <title type="html"><![CDATA[Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm]]></title>
+        <id>https://www.paradigm.xyz/2022/09/goldfish</id>
+        <link href="https://www.paradigm.xyz/2022/09/goldfish"/>
+        <updated>2022-09-10T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Goldfish: A Provably Secure Replacement for LMD GHOST in PoS Ethereum - Paradigm]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api]]></title>
+        <id>https://github.com/banteg/erigon-kv</id>
+        <link href="https://github.com/banteg/erigon-kv"/>
+        <updated>2022-09-10T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stakewiz]]></title>
+        <id>https://stakewiz.com/</id>
+        <link href="https://stakewiz.com/"/>
+        <updated>2022-09-10T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Stakewiz]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] spritely-core.pdf]]></title>
+        <id>https://spritely.institute/static/papers/spritely-core.pdf</id>
+        <link href="https://spritely.institute/static/papers/spritely-core.pdf"/>
+        <updated>2022-09-10T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] spritely-core.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -76,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4488 and Done]]></title>
-        <id>https://polynya.mirror.xyz/eq4PNsg-ld4V2LDB7HlHuNm-ULFAtvmVH--utaxAAEs</id>
-        <link href="https://polynya.mirror.xyz/eq4PNsg-ld4V2LDB7HlHuNm-ULFAtvmVH--utaxAAEs"/>
-        <updated>2022-09-10T05:30:04.000Z</updated>
-        <summary type="html"><![CDATA[4488 and Done]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Post-Merge MEV: Modelling Validator Returns]]></title>
         <id>https://pintail.xyz/posts/post-merge-mev/</id>
         <link href="https://pintail.xyz/posts/post-merge-mev/"/>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing dYdX Chain]]></title>
-        <id>https://dydx.exchange/blog/dydx-chain</id>
-        <link href="https://dydx.exchange/blog/dydx-chain"/>
-        <updated>2022-09-09T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Announcing dYdX Chain]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OAK x NFT Oakland 2022 - Recap]]></title>
         <id>https://www.youtube.com/watch?v=oE5ym63tKZU</id>
         <link href="https://www.youtube.com/watch?v=oE5ym63tKZU"/>
@@ -151,16 +161,6 @@
         <link href="https://www.paradigm.xyz/2022/09/base-layer-neutrality"/>
         <updated>2022-09-09T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Base Layer Neutrality - Paradigm]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripcord: Desktop Chat Client]]></title>
-        <id>https://cancel.fm/ripcord/</id>
-        <link href="https://cancel.fm/ripcord/"/>
-        <updated>2022-09-09T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Ripcord: Desktop Chat Client]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -187,8 +187,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...]]></title>
-        <id>https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868</id>
-        <link href="https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868"/>
+        <id>https://github.com/ethereumpow/go-ethereum/pull/17</id>
+        <link href="https://github.com/ethereumpow/go-ethereum/pull/17"/>
         <updated>2022-09-09T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...]]></summary>
         <author>
