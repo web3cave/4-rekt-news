@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=5cbCYwgQkTE",
-          "author": null,
-          "description": "What if You Could Sing in Your Favorite Musician's Voice? | Holly Herndon | TED",
-          "link": "https://www.youtube.com/watch?v=5cbCYwgQkTE",
-          "publishedOn": "2022-09-10T03:30:04.000Z",
-          "wordCount": null,
-          "title": "What if You Could Sing in Your Favorite Musician's Voice? | Holly Herndon | TED",
-          "imageUrl": null
-        },
-        {
           "id": "https://pintail.xyz/posts/post-merge-mev/",
           "author": null,
           "description": "Post-Merge MEV: Modelling Validator Returns",
@@ -126,6 +116,16 @@
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/2X/a/a8f2dc3c5324d3029c1831e518fc3fc51756b87f.jpeg"
         },
         {
+          "id": "https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777",
+          "author": null,
+          "description": "Shanghai Core EIP Consideration",
+          "link": "https://ethereum-magicians.org/t/shanghai-core-eip-consideration/10777",
+          "publishedOn": "2022-09-09T21:00:02.000Z",
+          "wordCount": 733,
+          "title": "Shanghai Core EIP Consideration",
+          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B9x93lk6Y-0&feature=youtu.be",
           "author": null,
           "description": "Around the Block Ep 34: Tornado Cash: What Happened and Implications for Crypto",
@@ -181,7 +181,7 @@
           "description": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
           "link": "https://github.com/ethereumpow/go-ethereum/pull/17#issuecomment-1241626868",
           "publishedOn": "2022-09-09T05:00:03.000Z",
-          "wordCount": 1910,
+          "wordCount": 1911,
           "title": "Request from Coinbase to clarify EthereumPoW fork code availability and activation by roberto-bayardo · Pull Request...",
           "imageUrl": "https://opengraph.githubassets.com/4d0a5155aca9daf97aad094975db6024261cdd96d945571030eef49f956455c0/ethereumpow/go-ethereum/pull/17"
         },
