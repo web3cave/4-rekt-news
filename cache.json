@@ -56,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Sdq4T3iRV80&feature=youtu.be",
+          "author": null,
+          "description": "Peace Train",
+          "link": "https://www.youtube.com/watch?v=Sdq4T3iRV80&feature=youtu.be",
+          "publishedOn": "2022-09-11T14:00:26.000Z",
+          "wordCount": null,
+          "title": "Peace Train",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/americans-love-nfl-change-looming-0",
           "author": null,
           "description": "Americans Love The NFL, But Change Is Looming | ZeroHedge",
@@ -86,6 +96,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://bruno.substack.com/p/kneejerk-19180?sd=pf",
+          "author": null,
+          "description": "Kneejerk 19/180",
+          "link": "https://bruno.substack.com/p/kneejerk-19180?sd=pf",
+          "publishedOn": "2022-09-11T07:00:02.000Z",
+          "wordCount": 1481,
+          "title": "Kneejerk 19/180",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc311c9da-cd4f-4e7d-bd23-c7f7c3d303a6_1280x720.jpeg"
+        },
+        {
           "id": "https://realtps.net/",
           "author": null,
           "description": "Real TPS",
@@ -94,6 +114,16 @@
           "wordCount": 80,
           "title": "Real TPS",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/st4k3h0us3/steak",
+          "author": null,
+          "description": "GitHub - st4k3h0us3/steak: Steak is a liquid staking protocol for CosmWasm-enabled chains, with deployments on...",
+          "link": "https://github.com/st4k3h0us3/steak",
+          "publishedOn": "2022-09-11T06:00:04.000Z",
+          "wordCount": 715,
+          "title": "GitHub - st4k3h0us3/steak: Steak is a liquid staking protocol for CosmWasm-enabled chains, with deployments on...",
+          "imageUrl": "https://opengraph.githubassets.com/e1073069537382b192c7b98b332726ee1a4611001e08309d50a0ac8b9be07a4d/st4k3h0us3/steak"
         },
         {
           "id": "https://github.com/MetaMask/metamask-extension/pull/15788/files",
@@ -146,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/banteg/erigon-kv",
-          "author": null,
-          "description": "GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api",
-          "link": "https://github.com/banteg/erigon-kv",
-          "publishedOn": "2022-09-10T21:15:03.000Z",
-          "wordCount": 678,
-          "title": "GitHub - banteg/erigon-kv: python bindings for erigon kv gprc api",
-          "imageUrl": "https://opengraph.githubassets.com/9b4da7aa6b0d9e30f190590c47c042eabdcdd9c6ae6610d8e7ecacee7d7c86fd/banteg/erigon-kv"
-        },
-        {
           "id": "https://gist.github.com/buffalu/daaee8368f8b755aa30b68d9c2b48912",
           "author": null,
           "description": "firedancer",
@@ -166,22 +186,12 @@
           "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
-          "id": "https://stakewiz.com/",
-          "author": null,
-          "description": "Stakewiz",
-          "link": "https://stakewiz.com/",
-          "publishedOn": "2022-09-10T19:04:14.000Z",
-          "wordCount": 50,
-          "title": "Stakewiz",
-          "imageUrl": "https://stakewiz.com/images/wiz-square.webp"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/09/10/vitalik-buterin-makes-surprise-appearance-at-kyiv-tech-summit-in-show-of-support-for-ukraine/",
           "author": null,
           "description": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "link": "https://www.coindesk.com/business/2022/09/10/vitalik-buterin-makes-surprise-appearance-at-kyiv-tech-summit-in-show-of-support-for-ukraine/",
           "publishedOn": "2022-09-10T17:00:03.000Z",
-          "wordCount": 7462,
+          "wordCount": 7445,
           "title": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "imageUrl": "https://www.coindesk.com/resizer/PXjoDapL4IiF82bf3dxSe9qloYk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHS7GSIHKFGBNPVRZN3T6EQMFQ.jpeg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 3093,
           "title": "4488 and Done",
           "imageUrl": ""
-        },
-        {
-          "id": "https://pintail.xyz/posts/post-merge-mev/",
-          "author": null,
-          "description": "Post-Merge MEV: Modelling Validator Returns",
-          "link": "https://pintail.xyz/posts/post-merge-mev/",
-          "publishedOn": "2022-09-10T00:00:05.000Z",
-          "wordCount": 7455,
-          "title": "Post-Merge MEV: Modelling Validator Returns",
-          "imageUrl": "https://pintail.xyz/assets/images/model-post-merge-returns_files/patrick-langwallner-TTz_H1FrdIc-unsplash_cropped.jpg"
         }
       ]
     }
