@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-11T08:27:59.475Z</id>
+    <id>urn:2022-09-11T09:22:47.744Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-11T08:27:59.475Z</updated>
+    <updated>2022-09-11T09:22:47.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://cryptofees.info/"/>
         <updated>2022-09-10T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[CryptoFees.info]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></title>
+        <id>https://gitcoin.co/grants/1624/cryptofeesinfo</id>
+        <link href="https://gitcoin.co/grants/1624/cryptofeesinfo"/>
+        <updated>2022-09-10T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[💰 CryptoStats/CryptoFees.info | Grants]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opapham4"/>
         <updated>2022-09-10T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Keynote Address by Commissioner Caroline D. Pham at the EUROFI Financial Forum Prague 2022 | CFTC]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Engineering Code - ACM Ethics]]></title>
-        <id>https://ethics.acm.org/code-of-ethics/software-engineering-code/</id>
-        <link href="https://ethics.acm.org/code-of-ethics/software-engineering-code/"/>
-        <updated>2022-09-10T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Software Engineering Code - ACM Ethics]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
