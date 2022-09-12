@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://zora.co/",
+          "author": null,
+          "description": "Zora - Tools for Collective Imagination",
+          "link": "https://zora.co/",
+          "publishedOn": "2022-09-12T21:00:02.000Z",
+          "wordCount": 536,
+          "title": "Zora - Tools for Collective Imagination",
+          "imageUrl": "https://zora.co/og-image.png"
+        },
+        {
           "id": "https://www.abra.com/blog/abra-bank-and-abra-boost/",
           "author": null,
           "description": "Abra Announces Abra Bank and Abra Boost",
           "link": "https://www.abra.com/blog/abra-bank-and-abra-boost/",
           "publishedOn": "2022-09-12T19:30:04.000Z",
-          "wordCount": 2959,
+          "wordCount": 2946,
           "title": "Abra Announces Abra Bank and Abra Boost",
           "imageUrl": "https://www.abra.com/wp-content/uploads/2022/09/abra-bank-annc-banner.png"
         },
@@ -51,7 +61,7 @@
           "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 6642,
+          "wordCount": 6603,
           "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "link": "https://cointelegraph.com/news/huobi-to-delist-monero-and-other-privacy-coins-citing-regulatory-pressures",
           "publishedOn": "2022-09-12T15:30:05.000Z",
-          "wordCount": 15050,
+          "wordCount": 15019,
           "title": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYTcyY2Q2ZmEtOWJlMC00Y2YyLThlOGMtMTcyNWI0NWJlZjAxLmpwZw==.jpg"
         },
@@ -91,7 +101,7 @@
           "description": "What’s left for Ethereum GPU miners after The Merge?",
           "link": "https://www.theblock.co/post/168380/whats-left-for-ethereum-gpu-miners-after-the-merge?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-12T15:00:03.000Z",
-          "wordCount": 76185,
+          "wordCount": 75104,
           "title": "What’s left for Ethereum GPU miners after The Merge?",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220906_Generic_Mining3.jpg"
         },
@@ -104,16 +114,6 @@
           "wordCount": 1872,
           "title": "Starbucks Taps Polygon for Its 'Starbucks® Odyssey' Web3 Experience  — Polygon | Blog",
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/09/polygon-starbucks-odyssey-scaled.jpg"
-        },
-        {
-          "id": "https://bordel.wtf/",
-          "author": null,
-          "description": "Bordel.wtf",
-          "link": "https://bordel.wtf/",
-          "publishedOn": "2022-09-12T15:00:02.000Z",
-          "wordCount": 104,
-          "title": "Bordel.wtf",
-          "imageUrl": "https://bordel.wtf/chart.png"
         },
         {
           "id": "https://statoshi.info/",
@@ -146,12 +146,22 @@
           "imageUrl": "https://simple-stakers-b0iaxad8t-crypto-fees-info.vercel.app/api/social/top.png"
         },
         {
+          "id": "https://www.rated.network/",
+          "author": null,
+          "description": "Rated landing page",
+          "link": "https://www.rated.network/",
+          "publishedOn": "2022-09-12T11:00:03.000Z",
+          "wordCount": 379,
+          "title": "Rated landing page",
+          "imageUrl": null
+        },
+        {
           "id": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
           "author": null,
           "description": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "link": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
           "publishedOn": "2022-09-12T05:00:01.000Z",
-          "wordCount": 15233,
+          "wordCount": 15247,
           "title": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYjJjOWIwN2QtMzFjMi00NGViLWFmMzMtYjgwMTQzMGE3ZjAxLmpwZw==.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 631,
           "title": "The Merge Panda · ZORA Creator",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/c/SALTTube",
-          "author": null,
-          "description": "SALT - YouTube",
-          "link": "https://www.youtube.com/c/SALTTube",
-          "publishedOn": "2022-09-11T22:30:02.000Z",
-          "wordCount": 3203,
-          "title": "SALT - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/Ctxj9ZBMb6-DKxyCx7S7I5ezY8bIZuL0vpRRZs9Xsmxn_8P3JLXb_vZVhpQZcNwhEeVaZHeP=s900-c-k-c0x00ffffff-no-rj"
         }
       ]
     }

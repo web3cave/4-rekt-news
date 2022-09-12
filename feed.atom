@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T20:26:23.402Z</id>
+    <id>urn:2022-09-12T21:22:37.757Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T20:26:23.402Z</updated>
+    <updated>2022-09-12T21:22:37.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zora - Tools for Collective Imagination]]></title>
+        <id>https://zora.co/</id>
+        <link href="https://zora.co/"/>
+        <updated>2022-09-12T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Zora - Tools for Collective Imagination]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abra Announces Abra Bank and Abra Boost]]></title>
         <id>https://www.abra.com/blog/abra-bank-and-abra-boost/</id>
@@ -106,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bordel.wtf]]></title>
-        <id>https://bordel.wtf/</id>
-        <link href="https://bordel.wtf/"/>
-        <updated>2022-09-12T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Bordel.wtf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana]]></title>
         <id>https://statoshi.info/</id>
         <link href="https://statoshi.info/"/>
@@ -141,6 +141,16 @@
         <link href="https://simplestakers.info/"/>
         <updated>2022-09-12T11:30:04.000Z</updated>
         <summary type="html"><![CDATA[SimpleStakers.info]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rated landing page]]></title>
+        <id>https://www.rated.network/</id>
+        <link href="https://www.rated.network/"/>
+        <updated>2022-09-12T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Rated landing page]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://create.zora.co/collections/0x97d5dc811642aecebb149aec5c79b8252a4724a9"/>
         <updated>2022-09-11T23:00:01.000Z</updated>
         <summary type="html"><![CDATA[The Merge Panda · ZORA Creator]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SALT - YouTube]]></title>
-        <id>https://www.youtube.com/c/SALTTube</id>
-        <link href="https://www.youtube.com/c/SALTTube"/>
-        <updated>2022-09-11T22:30:02.000Z</updated>
-        <summary type="html"><![CDATA[SALT - YouTube]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
