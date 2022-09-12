@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T18:30:42.016Z</id>
+    <id>urn:2022-09-12T19:20:47.559Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T18:30:42.016Z</updated>
+    <updated>2022-09-12T19:20:47.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[kauri.io]]></title>
-        <id>https://kauri.io/#communities/Ethereum%20Node%20Runners/running-an-ethereum-full-node-on-a-raspberrypi-4-/</id>
-        <link href="https://kauri.io/#communities/Ethereum%20Node%20Runners/running-an-ethereum-full-node-on-a-raspberrypi-4-/"/>
-        <updated>2022-09-12T18:00:03.000Z</updated>
-        <summary type="html"><![CDATA[kauri.io]]></summary>
+        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
+        <id>https://www.youtube.com/c/UnchainedPodcast</id>
+        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
+        <updated>2022-09-12T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helium Vote]]></title>
+        <id>https://heliumvote.com/</id>
+        <link href="https://heliumvote.com/"/>
+        <updated>2022-09-12T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Helium Vote]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -21,16 +31,6 @@
         <link href="https://github.com/flashbots/mev-boost/releases/tag/v1.0.0"/>
         <updated>2022-09-12T17:30:04.000Z</updated>
         <summary type="html"><![CDATA[Release v1.0.0 · flashbots/mev-boost]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Merge Edition Part 2: Moving to proof of stake is like swapping planes in flight]]></title>
-        <id>https://www.theblock.co/post/169128/ethereum-merge-edition-part-2-moving-to-proof-of-stake-is-like-swapping-planes-in-flight?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/169128/ethereum-merge-edition-part-2-moving-to-proof-of-stake-is-like-swapping-planes-in-flight?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-09-12T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Merge Edition Part 2: Moving to proof of stake is like swapping planes in flight]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
