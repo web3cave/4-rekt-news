@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://simplestakers.info/",
+          "author": null,
+          "description": "SimpleStakers.info",
+          "link": "https://simplestakers.info/",
+          "publishedOn": "2022-09-12T11:30:04.000Z",
+          "wordCount": 376,
+          "title": "SimpleStakers.info",
+          "imageUrl": "https://simple-stakers-b0iaxad8t-crypto-fees-info.vercel.app/api/social/top.png"
+        },
+        {
           "id": "https://github.com/akula-bft/akula/pull/292",
           "author": null,
           "description": "gRPC state traversal by vorot93 · Pull Request #292 · akula-bft/akula",
@@ -81,7 +91,7 @@
           "description": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "link": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
           "publishedOn": "2022-09-12T05:00:01.000Z",
-          "wordCount": 15201,
+          "wordCount": 15239,
           "title": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYjJjOWIwN2QtMzFjMi00NGViLWFmMzMtYjgwMTQzMGE3ZjAxLmpwZw==.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "pm/recordings.md at main · flashbots/pm",
           "link": "https://github.com/flashbots/pm/blob/main/recordings.md#mev-roast-recordings",
           "publishedOn": "2022-09-11T23:30:03.000Z",
-          "wordCount": 620,
+          "wordCount": 633,
           "title": "pm/recordings.md at main · flashbots/pm",
           "imageUrl": "https://opengraph.githubassets.com/849b594b0a0fa172836e224c5968de7675b6b7ea4d19da24b6f472a272aa6780/flashbots/pm"
         },
@@ -141,7 +151,7 @@
           "description": "NFT mints on Solana have surged to an all-time high",
           "link": "https://www.theblock.co/post/169050/nft-mints-on-solana-have-surged-to-an-all-time-high?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-11T23:00:02.000Z",
-          "wordCount": 70966,
+          "wordCount": 72124,
           "title": "NFT mints on Solana have surged to an all-time high",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220506_Solana.jpg"
         },
@@ -166,24 +176,14 @@
           "imageUrl": "https://yt3.ggpht.com/Ctxj9ZBMb6-DKxyCx7S7I5ezY8bIZuL0vpRRZs9Xsmxn_8P3JLXb_vZVhpQZcNwhEeVaZHeP=s900-c-k-c0x00ffffff-no-rj"
         },
         {
-          "id": "https://www.nodewatch.io/",
+          "id": "https://blog.zircon.finance/p/beta-launch",
           "author": null,
-          "description": "Nodewatch - Eth2 Node Analytics",
-          "link": "https://www.nodewatch.io/",
+          "description": "Road to Mainnet: Zircon Final Beta Launch & Airdrop Rehearsal",
+          "link": "https://blog.zircon.finance/p/beta-launch",
           "publishedOn": "2022-09-11T22:00:04.000Z",
-          "wordCount": 64,
-          "title": "Nodewatch - Eth2 Node Analytics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.forbes.com/sites/leeorshimron/2022/09/10/amazoneth-starbucksbitcoin-cokedao-crypto-domain-names-are-the-next-big-nft-craze/?sh=1b2be9cbb1dd",
-          "author": null,
-          "description": "Amazon.eth, Starbucks.bitcoin, Coke.dao? Crypto Domain Names Are The Next Big NFT Craze",
-          "link": "https://www.forbes.com/sites/leeorshimron/2022/09/10/amazoneth-starbucksbitcoin-cokedao-crypto-domain-names-are-the-next-big-nft-craze/?sh=1b2be9cbb1dd",
-          "publishedOn": "2022-09-11T22:00:04.000Z",
-          "wordCount": 10350,
-          "title": "Amazon.eth, Starbucks.bitcoin, Coke.dao? Crypto Domain Names Are The Next Big NFT Craze",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/631c902adaf18035aed7038a/0x0.jpg?format=jpg&width=1200"
+          "wordCount": 2632,
+          "title": "Road to Mainnet: Zircon Final Beta Launch & Airdrop Rehearsal",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F387d22fd-9b08-4b8e-8e4f-5e4a55f646fd_1200x675.png"
         },
         {
           "id": "https://notes.ethereum.org/DaWh-02HQ4qftum1xdphkg?view",
@@ -201,7 +201,7 @@
           "description": "Ethereum’s cat herder: Hudson Jameson reflects on the journey to The Merge",
           "link": "https://www.theblock.co/post/168539/ethereums-cat-herder-hudson-jameson-reflects-on-the-journey-to-the-merge?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-11T21:00:03.000Z",
-          "wordCount": 71939,
+          "wordCount": 73097,
           "title": "Ethereum’s cat herder: Hudson Jameson reflects on the journey to The Merge",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220830_HudsonJameson.jpg"
         }

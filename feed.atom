@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-12T11:21:08.651Z</id>
+    <id>urn:2022-09-12T12:53:05.564Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-12T11:21:08.651Z</updated>
+    <updated>2022-09-12T12:53:05.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SimpleStakers.info]]></title>
+        <id>https://simplestakers.info/</id>
+        <link href="https://simplestakers.info/"/>
+        <updated>2022-09-12T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[SimpleStakers.info]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gRPC state traversal by vorot93 · Pull Request #292 · akula-bft/akula]]></title>
         <id>https://github.com/akula-bft/akula/pull/292</id>
@@ -166,21 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nodewatch - Eth2 Node Analytics]]></title>
-        <id>https://www.nodewatch.io/</id>
-        <link href="https://www.nodewatch.io/"/>
+        <title type="html"><![CDATA[Road to Mainnet: Zircon Final Beta Launch & Airdrop Rehearsal]]></title>
+        <id>https://blog.zircon.finance/p/beta-launch</id>
+        <link href="https://blog.zircon.finance/p/beta-launch"/>
         <updated>2022-09-11T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Nodewatch - Eth2 Node Analytics]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon.eth, Starbucks.bitcoin, Coke.dao? Crypto Domain Names Are The Next Big NFT Craze]]></title>
-        <id>https://www.forbes.com/sites/leeorshimron/2022/09/10/amazoneth-starbucksbitcoin-cokedao-crypto-domain-names-are-the-next-big-nft-craze/?sh=1b2be9cbb1dd</id>
-        <link href="https://www.forbes.com/sites/leeorshimron/2022/09/10/amazoneth-starbucksbitcoin-cokedao-crypto-domain-names-are-the-next-big-nft-craze/?sh=1b2be9cbb1dd"/>
-        <updated>2022-09-11T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon.eth, Starbucks.bitcoin, Coke.dao? Crypto Domain Names Are The Next Big NFT Craze]]></summary>
+        <summary type="html"><![CDATA[Road to Mainnet: Zircon Final Beta Launch & Airdrop Rehearsal]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
