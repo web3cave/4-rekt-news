@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://synapseprotocol.com/",
+          "author": null,
+          "description": "Synapse",
+          "link": "https://synapseprotocol.com/",
+          "publishedOn": "2022-09-12T23:00:02.000Z",
+          "wordCount": 9,
+          "title": "Synapse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ambcrypto.com/french-nigerian-central-banks-to-join-hyperledger-foundation/",
+          "author": null,
+          "description": "French and Nigerian Central banks to join Hyperledger Foundation",
+          "link": "https://ambcrypto.com/french-nigerian-central-banks-to-join-hyperledger-foundation/",
+          "publishedOn": "2022-09-12T23:00:02.000Z",
+          "wordCount": 3968,
+          "title": "French and Nigerian Central banks to join Hyperledger Foundation",
+          "imageUrl": "https://statics.ambcrypto.com/wp-content/uploads/2022/09/sigmund-4UGmm3WRUoQ-unsplash-1000x600.jpg"
+        },
+        {
           "id": "https://www.wsj.com/articles/fidelity-weighs-bitcoin-trading-on-brokerage-platform-11663008698",
           "author": null,
           "description": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
           "link": "https://www.wsj.com/articles/fidelity-weighs-bitcoin-trading-on-brokerage-platform-11663008698",
           "publishedOn": "2022-09-12T21:30:04.000Z",
-          "wordCount": 6298,
+          "wordCount": 6290,
           "title": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
           "imageUrl": "https://images.wsj.net/im-621148/social"
         },
@@ -46,22 +66,12 @@
           "imageUrl": "https://www.abra.com/wp-content/uploads/2022/09/abra-bank-annc-banner.png"
         },
         {
-          "id": "https://www.topshelfrecords.com/",
-          "author": null,
-          "description": "Topshelf Records -",
-          "link": "https://www.topshelfrecords.com/",
-          "publishedOn": "2022-09-12T19:30:04.000Z",
-          "wordCount": 3993,
-          "title": "Topshelf Records -",
-          "imageUrl": "https://s9.limitedrun.com/images/1466122/logo.jpg"
-        },
-        {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
           "author": null,
           "description": "Unchained Podcast - YouTube",
           "link": "https://www.youtube.com/c/UnchainedPodcast",
           "publishedOn": "2022-09-12T19:00:02.000Z",
-          "wordCount": 7302,
+          "wordCount": 7468,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         },
@@ -81,7 +91,7 @@
           "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 6477,
+          "wordCount": 6616,
           "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "Release v1.0.0 · flashbots/mev-boost",
           "link": "https://github.com/flashbots/mev-boost/releases/tag/v1.0.0",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 416,
+          "wordCount": 430,
           "title": "Release v1.0.0 · flashbots/mev-boost",
           "imageUrl": "https://opengraph.githubassets.com/535ce99f3e10d2e49b6f918cc2bb71ac834d74328e3601883c458d7f83546661/flashbots/mev-boost/releases/tag/v1.0.0"
         },
@@ -111,7 +121,7 @@
           "description": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "link": "https://cointelegraph.com/news/huobi-to-delist-monero-and-other-privacy-coins-citing-regulatory-pressures",
           "publishedOn": "2022-09-12T15:30:05.000Z",
-          "wordCount": 15052,
+          "wordCount": 15050,
           "title": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYTcyY2Q2ZmEtOWJlMC00Y2YyLThlOGMtMTcyNWI0NWJlZjAxLmpwZw==.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "What’s left for Ethereum GPU miners after The Merge?",
           "link": "https://www.theblock.co/post/168380/whats-left-for-ethereum-gpu-miners-after-the-merge?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-12T15:00:03.000Z",
-          "wordCount": 75104,
+          "wordCount": 75335,
           "title": "What’s left for Ethereum GPU miners after The Merge?",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220906_Generic_Mining3.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 379,
           "title": "Rated landing page",
           "imageUrl": null
-        },
-        {
-          "id": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
-          "author": null,
-          "description": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
-          "link": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
-          "publishedOn": "2022-09-12T05:00:01.000Z",
-          "wordCount": 15179,
-          "title": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
-          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYjJjOWIwN2QtMzFjMi00NGViLWFmMzMtYjgwMTQzMGE3ZjAxLmpwZw==.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=xFZqk8k4QwQ",
