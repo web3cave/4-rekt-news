@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/fidelity-weighs-bitcoin-trading-on-brokerage-platform-11663008698",
+          "author": null,
+          "description": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
+          "link": "https://www.wsj.com/articles/fidelity-weighs-bitcoin-trading-on-brokerage-platform-11663008698",
+          "publishedOn": "2022-09-12T21:30:04.000Z",
+          "wordCount": 6298,
+          "title": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
+          "imageUrl": "https://images.wsj.net/im-621148/social"
+        },
+        {
           "id": "https://zora.co/",
           "author": null,
           "description": "Zora - Tools for Collective Imagination",
@@ -14,6 +24,16 @@
           "wordCount": 536,
           "title": "Zora - Tools for Collective Imagination",
           "imageUrl": "https://zora.co/og-image.png"
+        },
+        {
+          "id": "https://blog.ceramic.network/composedb-using-ceramic-as-a-graph-database/",
+          "author": null,
+          "description": "ComposeDB: Using Ceramic as a Graph Database",
+          "link": "https://blog.ceramic.network/composedb-using-ceramic-as-a-graph-database/",
+          "publishedOn": "2022-09-12T20:00:04.000Z",
+          "wordCount": 2779,
+          "title": "ComposeDB: Using Ceramic as a Graph Database",
+          "imageUrl": "https://blog.ceramic.network/content/images/2022/09/Ktu0J7bQ.JPEG"
         },
         {
           "id": "https://www.abra.com/blog/abra-bank-and-abra-boost/",
@@ -41,7 +61,7 @@
           "description": "Unchained Podcast - YouTube",
           "link": "https://www.youtube.com/c/UnchainedPodcast",
           "publishedOn": "2022-09-12T19:00:02.000Z",
-          "wordCount": 7468,
+          "wordCount": 7302,
           "title": "Unchained Podcast - YouTube",
           "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
         },
@@ -61,7 +81,7 @@
           "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 6603,
+          "wordCount": 6477,
           "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
         },
@@ -91,7 +111,7 @@
           "description": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "link": "https://cointelegraph.com/news/huobi-to-delist-monero-and-other-privacy-coins-citing-regulatory-pressures",
           "publishedOn": "2022-09-12T15:30:05.000Z",
-          "wordCount": 15019,
+          "wordCount": 15052,
           "title": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYTcyY2Q2ZmEtOWJlMC00Y2YyLThlOGMtMTcyNWI0NWJlZjAxLmpwZw==.jpg"
         },
@@ -161,7 +181,7 @@
           "description": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "link": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
           "publishedOn": "2022-09-12T05:00:01.000Z",
-          "wordCount": 15247,
+          "wordCount": 15179,
           "title": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYjJjOWIwN2QtMzFjMi00NGViLWFmMzMtYjgwMTQzMGE3ZjAxLmpwZw==.jpg"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html",
-          "author": null,
-          "description": "In Hasidic Enclaves, Failing Private Schools Flush With Public Money",
-          "link": "https://www.nytimes.com/2022/09/11/nyregion/hasidic-yeshivas-schools-new-york.html",
-          "publishedOn": "2022-09-12T00:00:04.000Z",
-          "wordCount": null,
-          "title": "In Hasidic Enclaves, Failing Private Schools Flush With Public Money",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/flashbots/pm/blob/main/recordings.md#mev-roast-recordings",
           "author": null,
           "description": "pm/recordings.md at main · flashbots/pm",
@@ -194,16 +204,6 @@
           "wordCount": 633,
           "title": "pm/recordings.md at main · flashbots/pm",
           "imageUrl": "https://opengraph.githubassets.com/d3a373812b22a8bc16c8b4d1b3a504ee18e625613c582015d53b232220640843/flashbots/pm"
-        },
-        {
-          "id": "https://create.zora.co/collections/0x97d5dc811642aecebb149aec5c79b8252a4724a9",
-          "author": null,
-          "description": "The Merge Panda · ZORA Creator",
-          "link": "https://create.zora.co/collections/0x97d5dc811642aecebb149aec5c79b8252a4724a9",
-          "publishedOn": "2022-09-11T23:00:01.000Z",
-          "wordCount": 631,
-          "title": "The Merge Panda · ZORA Creator",
-          "imageUrl": null
         }
       ]
     }
