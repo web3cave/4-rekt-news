@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.rainbowkit.com/",
+          "author": null,
+          "description": "RainbowKit",
+          "link": "https://www.rainbowkit.com/",
+          "publishedOn": "2022-09-12T06:30:02.000Z",
+          "wordCount": 591,
+          "title": "RainbowKit",
+          "imageUrl": "https://rainbowkit.com/social/default.png"
+        },
+        {
           "id": "https://www.tiktok.com/@hulkroganclips/video/7140334685674081541?_t=8VbqisrYVrm&_r=1",
           "author": null,
           "description": "hulkroganclips on TikTok",
           "link": "https://www.tiktok.com/@hulkroganclips/video/7140334685674081541?_t=8VbqisrYVrm&_r=1",
           "publishedOn": "2022-09-12T05:00:02.000Z",
-          "wordCount": 31295,
+          "wordCount": 31297,
           "title": "hulkroganclips on TikTok",
-          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5b8c9402f5e5495aa7a6567d4c53baec_1662488727~tplv-tiktok-play.jpeg?x-expires=1663567200&x-signature=2F1yLCGzS9rKXohohQe6QWey2xM%3D"
+          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/5b8c9402f5e5495aa7a6567d4c53baec_1662488727~tplv-tiktok-play.jpeg?x-expires=1663570800&x-signature=g1xxBuOC70pNkVe%2BDHlzAf8HyVg%3D"
         },
         {
           "id": "https://rettig.substack.com/p/three-things-34-september-11-2022?utm_source=twitter&sd=pf",
@@ -31,7 +41,7 @@
           "description": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "link": "https://cointelegraph.com/news/algorand-foundation-outlines-35m-exposure-to-crypto-lender-hodlnaut",
           "publishedOn": "2022-09-12T05:00:01.000Z",
-          "wordCount": 15065,
+          "wordCount": 15028,
           "title": "Algorand Foundation outlines $35M exposure to crypto lender Hodlnaut",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYjJjOWIwN2QtMzFjMi00NGViLWFmMzMtYjgwMTQzMGE3ZjAxLmpwZw==.jpg"
         },
@@ -76,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/alaska-reminds-us-ranked-choice-voting-bad-idea",
-          "author": null,
-          "description": "Alaska Reminds Us Ranked Choice Voting Is A Bad Idea | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/alaska-reminds-us-ranked-choice-voting-bad-idea",
-          "publishedOn": "2022-09-12T03:00:03.000Z",
-          "wordCount": 1778,
-          "title": "Alaska Reminds Us Ranked Choice Voting Is A Bad Idea | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=NN1f066QTMU",
           "author": null,
           "description": "David Guetta & Bebe Rexha - I'm Good (Blue) [Official Lyric Video]",
@@ -111,7 +111,7 @@
           "description": "This part of California was once an agricultural powerhouse. Now, it’s ‘just a wasteland’",
           "link": "https://www.sfchronicle.com/climate/article/California-rice-farming-Colusa-17428137.php",
           "publishedOn": "2022-09-12T01:30:05.000Z",
-          "wordCount": 4434,
+          "wordCount": 4436,
           "title": "This part of California was once an agricultural powerhouse. Now, it’s ‘just a wasteland’",
           "imageUrl": "https://s.hdnux.com/photos/01/27/31/15/22909795/3/rawImage.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "link": "https://www.coindesk.com/business/2022/09/10/vitalik-buterin-makes-surprise-appearance-at-kyiv-tech-summit-in-show-of-support-for-ukraine/",
           "publishedOn": "2022-09-10T17:00:03.000Z",
-          "wordCount": 7534,
+          "wordCount": 7467,
           "title": "Vitalik Buterin Makes Surprise Appearance at Kyiv Tech Summit in Show of Support for Ukraine",
           "imageUrl": "https://www.coindesk.com/resizer/PXjoDapL4IiF82bf3dxSe9qloYk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DHS7GSIHKFGBNPVRZN3T6EQMFQ.jpeg"
         }
