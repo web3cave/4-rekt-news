@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T17:32:19.256Z</id>
+    <id>urn:2022-09-13T18:30:26.861Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T17:32:19.256Z</updated>
+    <updated>2022-09-13T18:30:26.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://medium.com/cosmwasm/cosmwasm-1-1-14233baf8162"/>
         <updated>2022-09-13T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[CosmWasm 1.1]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mint the Merge | Song a Day World]]></title>
+        <id>https://songaday.world/merge/</id>
+        <link href="https://songaday.world/merge/"/>
+        <updated>2022-09-13T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Mint the Merge | Song a Day World]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://www.abra.com/blog/abra-bank-and-abra-boost/"/>
         <updated>2022-09-12T19:30:04.000Z</updated>
         <summary type="html"><![CDATA[Abra Announces Abra Bank and Abra Boost]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helium Vote]]></title>
-        <id>https://heliumvote.com/</id>
-        <link href="https://heliumvote.com/"/>
-        <updated>2022-09-12T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Helium Vote]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
