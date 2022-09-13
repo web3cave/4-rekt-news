@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gizmodo.com/ethereum-ether-merge-crypto-emissions-climate-1849524076",
+          "author": null,
+          "description": "Will the Merge Really Make Crypto Greener?",
+          "link": "https://gizmodo.com/ethereum-ether-merge-crypto-emissions-climate-1849524076",
+          "publishedOn": "2022-09-13T05:00:03.000Z",
+          "wordCount": 7688,
+          "title": "Will the Merge Really Make Crypto Greener?",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aa886d1697a950593cff3b2e81b24e5a.jpg"
+        },
+        {
+          "id": "https://ledgerfest.info/",
+          "author": null,
+          "description": "LedgerFest 2022",
+          "link": "https://ledgerfest.info/",
+          "publishedOn": "2022-09-13T05:00:02.000Z",
+          "wordCount": 2241,
+          "title": "LedgerFest 2022",
+          "imageUrl": "https://ledgerfest.info"
+        },
+        {
+          "id": "https://ethdos.xyz/",
+          "author": null,
+          "description": "ETHdos - ETH Degrees of Separation",
+          "link": "https://ethdos.xyz/",
+          "publishedOn": "2022-09-13T03:30:04.000Z",
+          "wordCount": 209,
+          "title": "ETHdos - ETH Degrees of Separation",
+          "imageUrl": "https://ethdos.xyz/cover.png"
+        },
+        {
           "id": "https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks/13634",
           "author": null,
           "description": "Bringing IBC to Ethereum using ZK-Snarks",
@@ -44,16 +74,6 @@
           "wordCount": 8436,
           "title": "AI Content Generation, Part 1: Machine Learning Basics",
           "imageUrl": "https://substackcdn.com/image/upload/w_728,c_limit/xycmfplryzxnrzb5lfcg"
-        },
-        {
-          "id": "https://www.prnewswire.com/news-releases/the-republic-of-el-salvador-announces-an-invitation-for-offers-to-tender-for-cash-its-2023-notes-and-2025-notes-301622290.html?tc=eml_cleartime",
-          "author": null,
-          "description": "THE REPUBLIC OF EL SALVADOR ANNOUNCES AN INVITATION FOR OFFERS TO TENDER FOR CASH ITS 2023 NOTES AND 2025 NOTES",
-          "link": "https://www.prnewswire.com/news-releases/the-republic-of-el-salvador-announces-an-invitation-for-offers-to-tender-for-cash-its-2023-notes-and-2025-notes-301622290.html?tc=eml_cleartime",
-          "publishedOn": "2022-09-12T23:30:04.000Z",
-          "wordCount": 3768,
-          "title": "THE REPUBLIC OF EL SALVADOR ANNOUNCES AN INVITATION FOR OFFERS TO TENDER FOR CASH ITS 2023 NOTES AND 2025 NOTES",
-          "imageUrl": null
         },
         {
           "id": "https://synapseprotocol.com/",
@@ -136,44 +156,24 @@
           "imageUrl": "https://heliumvote.com/images/o-g.png"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
-          "author": null,
-          "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
-          "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
-          "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 6516,
-          "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
-          "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
-        },
-        {
           "id": "https://medium.com/starkware/cairo-1-0-aa96eefb19a0",
           "author": null,
           "description": "Cairo 1.0",
           "link": "https://medium.com/starkware/cairo-1-0-aa96eefb19a0",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 2980,
+          "wordCount": 2671,
           "title": "Cairo 1.0",
           "imageUrl": "https://miro.medium.com/max/1200/1*iy9nQgKt4HUdNUYvanyYYw.png"
         },
         {
-          "id": "https://github.com/flashbots/mev-boost/releases/tag/v1.0.0",
+          "id": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "author": null,
-          "description": "Release v1.0.0 · flashbots/mev-boost",
-          "link": "https://github.com/flashbots/mev-boost/releases/tag/v1.0.0",
+          "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
+          "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 432,
-          "title": "Release v1.0.0 · flashbots/mev-boost",
-          "imageUrl": "https://opengraph.githubassets.com/535ce99f3e10d2e49b6f918cc2bb71ac834d74328e3601883c458d7f83546661/flashbots/mev-boost/releases/tag/v1.0.0"
-        },
-        {
-          "id": "https://cointelegraph.com/news/huobi-to-delist-monero-and-other-privacy-coins-citing-regulatory-pressures",
-          "author": null,
-          "description": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
-          "link": "https://cointelegraph.com/news/huobi-to-delist-monero-and-other-privacy-coins-citing-regulatory-pressures",
-          "publishedOn": "2022-09-12T15:30:05.000Z",
-          "wordCount": 15042,
-          "title": "Huobi to delist Monero and other privacy coins, citing regulatory pressures",
-          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvYTcyY2Q2ZmEtOWJlMC00Y2YyLThlOGMtMTcyNWI0NWJlZjAxLmpwZw==.jpg"
+          "wordCount": 6366,
+          "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
+          "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
         },
         {
           "id": "https://www.theblock.co/post/168380/whats-left-for-ethereum-gpu-miners-after-the-merge?utm_source=twitter&utm_medium=social",
@@ -181,7 +181,7 @@
           "description": "What’s left for Ethereum GPU miners after The Merge?",
           "link": "https://www.theblock.co/post/168380/whats-left-for-ethereum-gpu-miners-after-the-merge?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-12T15:00:03.000Z",
-          "wordCount": 75594,
+          "wordCount": 73635,
           "title": "What’s left for Ethereum GPU miners after The Merge?",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220906_Generic_Mining3.jpg"
         },
