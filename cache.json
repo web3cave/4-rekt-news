@@ -6,13 +6,33 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://medium.com/cosmwasm/cosmwasm-1-1-14233baf8162",
+          "author": null,
+          "description": "CosmWasm 1.1",
+          "link": "https://medium.com/cosmwasm/cosmwasm-1-1-14233baf8162",
+          "publishedOn": "2022-09-13T17:00:02.000Z",
+          "wordCount": 2296,
+          "title": "CosmWasm 1.1",
+          "imageUrl": "https://miro.medium.com/max/1200/1*yUtnjVYxjrG_1gVa374_0g.png"
+        },
+        {
           "id": "https://www.ft.com/content/e879f856-3ec3-4bd7-b564-ada5b590e3ef?sharetype=blocked",
           "author": null,
           "description": "How Wall Street stormed the music business",
           "link": "https://www.ft.com/content/e879f856-3ec3-4bd7-b564-ada5b590e3ef?sharetype=blocked",
           "publishedOn": "2022-09-13T15:00:02.000Z",
-          "wordCount": 3992,
+          "wordCount": 3994,
           "title": "How Wall Street stormed the music business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bls.gov/news.release/pdf/cpi.pdf",
+          "author": null,
+          "description": "[PDF] cpi.pdf",
+          "link": "https://www.bls.gov/news.release/pdf/cpi.pdf",
+          "publishedOn": "2022-09-13T14:00:04.000Z",
+          "wordCount": 10607,
+          "title": "[PDF] cpi.pdf",
           "imageUrl": null
         },
         {
@@ -21,7 +41,7 @@
           "description": "KKR Makes Piece of PE Fund Available on Public Blockchain",
           "link": "https://www.wsj.com/articles/kkr-makes-piece-of-pe-fund-available-on-public-blockchain-11663014955?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-09-13T12:00:04.000Z",
-          "wordCount": 5807,
+          "wordCount": 5804,
           "title": "KKR Makes Piece of PE Fund Available on Public Blockchain",
           "imageUrl": "https://images.wsj.net/im-618887/social"
         },
@@ -41,7 +61,7 @@
           "description": "LedgerFest 2022",
           "link": "https://ledgerfest.info/",
           "publishedOn": "2022-09-13T05:00:02.000Z",
-          "wordCount": 2305,
+          "wordCount": 2308,
           "title": "LedgerFest 2022",
           "imageUrl": "https://ledgerfest.info"
         },
@@ -121,7 +141,7 @@
           "description": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
           "link": "https://www.wsj.com/articles/fidelity-weighs-bitcoin-trading-on-brokerage-platform-11663008698",
           "publishedOn": "2022-09-12T21:30:04.000Z",
-          "wordCount": 6334,
+          "wordCount": 6331,
           "title": "Fidelity Weighs Bitcoin Trading on Brokerage Platform",
           "imageUrl": "https://images.wsj.net/im-621148/social"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://www.abra.com/wp-content/uploads/2022/09/abra-bank-annc-banner.png"
         },
         {
-          "id": "https://www.youtube.com/c/UnchainedPodcast",
-          "author": null,
-          "description": "Unchained Podcast - YouTube",
-          "link": "https://www.youtube.com/c/UnchainedPodcast",
-          "publishedOn": "2022-09-12T19:00:02.000Z",
-          "wordCount": 7472,
-          "title": "Unchained Podcast - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
           "id": "https://heliumvote.com/",
           "author": null,
           "description": "Helium Vote",
@@ -191,19 +201,9 @@
           "description": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "link": "https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/",
           "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 6691,
+          "wordCount": 6534,
           "title": "Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology",
           "imageUrl": "https://www.coindesk.com/resizer/ESImX9P833FAC7ROjIKOOmm9xDE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MZRMPTWANFC75L64FASO7V3DEQ.jpg"
-        },
-        {
-          "id": "https://github.com/flashbots/mev-boost/releases/tag/v1.0.0",
-          "author": null,
-          "description": "Release v1.0.0 · flashbots/mev-boost",
-          "link": "https://github.com/flashbots/mev-boost/releases/tag/v1.0.0",
-          "publishedOn": "2022-09-12T17:30:04.000Z",
-          "wordCount": 430,
-          "title": "Release v1.0.0 · flashbots/mev-boost",
-          "imageUrl": "https://opengraph.githubassets.com/535ce99f3e10d2e49b6f918cc2bb71ac834d74328e3601883c458d7f83546661/flashbots/mev-boost/releases/tag/v1.0.0"
         }
       ]
     }

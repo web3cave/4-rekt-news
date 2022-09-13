@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-13T16:34:20.311Z</id>
+    <id>urn:2022-09-13T17:32:19.256Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-13T16:34:20.311Z</updated>
+    <updated>2022-09-13T17:32:19.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CosmWasm 1.1]]></title>
+        <id>https://medium.com/cosmwasm/cosmwasm-1-1-14233baf8162</id>
+        <link href="https://medium.com/cosmwasm/cosmwasm-1-1-14233baf8162"/>
+        <updated>2022-09-13T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[CosmWasm 1.1]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Wall Street stormed the music business]]></title>
         <id>https://www.ft.com/content/e879f856-3ec3-4bd7-b564-ada5b590e3ef?sharetype=blocked</id>
         <link href="https://www.ft.com/content/e879f856-3ec3-4bd7-b564-ada5b590e3ef?sharetype=blocked"/>
         <updated>2022-09-13T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[How Wall Street stormed the music business]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] cpi.pdf]]></title>
+        <id>https://www.bls.gov/news.release/pdf/cpi.pdf</id>
+        <link href="https://www.bls.gov/news.release/pdf/cpi.pdf"/>
+        <updated>2022-09-13T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] cpi.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
-        <id>https://www.youtube.com/c/UnchainedPodcast</id>
-        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
-        <updated>2022-09-12T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Helium Vote]]></title>
         <id>https://heliumvote.com/</id>
         <link href="https://heliumvote.com/"/>
@@ -191,16 +201,6 @@
         <link href="https://www.coindesk.com/business/2022/09/12/starbucks-to-offer-nft-based-loyalty-program-alongside-polygon/"/>
         <updated>2022-09-12T17:30:04.000Z</updated>
         <summary type="html"><![CDATA[Starbucks to Offer NFT-Based Loyalty Program Using Polygon's Blockchain Technology]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v1.0.0 · flashbots/mev-boost]]></title>
-        <id>https://github.com/flashbots/mev-boost/releases/tag/v1.0.0</id>
-        <link href="https://github.com/flashbots/mev-boost/releases/tag/v1.0.0"/>
-        <updated>2022-09-12T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Release v1.0.0 · flashbots/mev-boost]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
