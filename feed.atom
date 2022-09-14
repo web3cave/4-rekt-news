@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-14T11:21:09.931Z</id>
+    <id>urn:2022-09-14T12:50:57.890Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-14T11:21:09.931Z</updated>
+    <updated>2022-09-14T12:50:57.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode]]></title>
+        <id>https://www.youtube.com/watch?v=It1SOjYhaac&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=It1SOjYhaac&amp;feature=youtu.be"/>
+        <updated>2022-09-14T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release Jarfor (v1.10.24) · ethereum/go-ethereum]]></title>
         <id>https://github.com/ethereum/go-ethereum/releases/tag/v1.10.24</id>
@@ -71,16 +81,6 @@
         <link href="https://github.com/blocknative/dreamboat"/>
         <updated>2022-09-14T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - blocknative/dreamboat: alpha mev-boost relay]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode]]></title>
-        <id>https://www.youtube.com/watch?v=It1SOjYhaac&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=It1SOjYhaac&amp;feature=youtu.be"/>
-        <updated>2022-09-13T21:30:04.000Z</updated>
-        <summary type="html"><![CDATA[David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -167,8 +167,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Mainnet]]></title>
-        <id>https://mainnet.events/home</id>
-        <link href="https://mainnet.events/home"/>
+        <id>https://mainnet.events/</id>
+        <link href="https://mainnet.events/"/>
         <updated>2022-09-13T19:00:10.000Z</updated>
         <summary type="html"><![CDATA[Mainnet]]></summary>
         <author>
