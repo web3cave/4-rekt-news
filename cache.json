@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.protocol.com/newsletters/climate/ethereum-mining-rig-e-waste",
+          "author": null,
+          "description": "Ethereum could face an impending e-wastepocalypse",
+          "link": "https://www.protocol.com/newsletters/climate/ethereum-mining-rig-e-waste",
+          "publishedOn": "2022-09-14T01:00:07.000Z",
+          "wordCount": 10191,
+          "title": "Ethereum could face an impending e-wastepocalypse",
+          "imageUrl": "https://www.protocol.com/media-library/a-person-on-a-cherrypicker-lift-inspecting-crypto-mining-rigs-lit-in-green.jpg?id=31698194&width=1200&height=600&coordinates=0%2C334%2C0%2C334"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nKc6qtdRMrM&feature=youtu.be",
+          "author": null,
+          "description": "The Merge in FT, LlamaNodes revealed and more - The Daily Gwei Refuel #446 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=nKc6qtdRMrM&feature=youtu.be",
+          "publishedOn": "2022-09-13T23:30:04.000Z",
+          "wordCount": null,
+          "title": "The Merge in FT, LlamaNodes revealed and more - The Daily Gwei Refuel #446 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reuters.com/world/asia-pacific/exclusive-us-considers-china-sanctions-deter-taiwan-action-taiwan-presses-eu-2022-09-13/",
           "author": null,
           "description": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
           "link": "https://www.reuters.com/world/asia-pacific/exclusive-us-considers-china-sanctions-deter-taiwan-action-taiwan-presses-eu-2022-09-13/",
           "publishedOn": "2022-09-13T22:00:05.000Z",
-          "wordCount": 4176,
+          "wordCount": 4205,
           "title": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
           "imageUrl": "https://www.reuters.com/resizer/hCJu4dK5YhCT1DFJCtdtwlVYaqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6VOQ5QQ3QVMCZLOSZHAGJYRVCM.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "Goldsky raises $20M to bring real-time, on-chain data to crypto companies",
           "link": "https://techcrunch.com/2022/09/13/goldsky-crypto-data-infrastructure-blockchain-startup-funding/?tpcc=tcplustwitter",
           "publishedOn": "2022-09-13T21:00:03.000Z",
-          "wordCount": 11653,
+          "wordCount": 9400,
           "title": "Goldsky raises $20M to bring real-time, on-chain data to crypto companies",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Hero-Image-1.png?resize=1200,675"
         },
@@ -84,16 +104,6 @@
           "wordCount": 1578,
           "title": "Ethereum Emissions",
           "imageUrl": "/images/card.png"
-        },
-        {
-          "id": "https://gitcoin.co/grants/285/democracy-earth-foundation",
-          "author": null,
-          "description": "💰 Universal Basic Income — UBI | Grants",
-          "link": "https://gitcoin.co/grants/285/democracy-earth-foundation",
-          "publishedOn": "2022-09-13T21:00:03.000Z",
-          "wordCount": 6042,
-          "title": "💰 Universal Basic Income — UBI | Grants",
-          "imageUrl": "https://c.gitcoin.co/grants/958ab740dcd524eb85430cd3e765f786/Screen_Shot_2022-09-13_at_4.18.24_PM.png"
         },
         {
           "id": "https://home.treasury.gov/policy-issues/financial-sanctions/faqs/added/2022-09-13",
@@ -131,7 +141,7 @@
           "description": "Traditional Finance Giants Charles Schwab, Citadel, Fidelity, and Others Start Crypto Exchange EDX Markets",
           "link": "https://www.coindesk.com/business/2022/09/13/charles-schwab-citadel-fidelity-and-others-start-crypto-exchange-edx-markets/",
           "publishedOn": "2022-09-13T21:00:02.000Z",
-          "wordCount": 6717,
+          "wordCount": 6770,
           "title": "Traditional Finance Giants Charles Schwab, Citadel, Fidelity, and Others Start Crypto Exchange EDX Markets",
           "imageUrl": "https://www.coindesk.com/resizer/bDrOAQtVP2M4e1XX39mkLL6YoVE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVHIVJ7VVJEEPFN2YKAHSYMKVE.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Art Gobblers - Paradigm",
           "link": "https://www.paradigm.xyz/2022/09/artgobblers",
           "publishedOn": "2022-09-13T21:00:02.000Z",
-          "wordCount": 9027,
+          "wordCount": 9025,
           "title": "Art Gobblers - Paradigm",
           "imageUrl": "https://paradigm.xyz/static/art_gobblers_title_card.png"
         },
@@ -171,7 +181,7 @@
           "description": "KKR Makes Piece of PE Fund Available on Public Blockchain",
           "link": "https://www.wsj.com/articles/kkr-makes-piece-of-pe-fund-available-on-public-blockchain-11663014955?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-09-13T12:00:04.000Z",
-          "wordCount": 5805,
+          "wordCount": 5803,
           "title": "KKR Makes Piece of PE Fund Available on Public Blockchain",
           "imageUrl": "https://images.wsj.net/im-618887/social"
         },
@@ -194,16 +204,6 @@
           "wordCount": 209,
           "title": "ETHdos - ETH Degrees of Separation",
           "imageUrl": "https://ethdos.xyz/cover.png"
-        },
-        {
-          "id": "https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks/13634",
-          "author": null,
-          "description": "Bringing IBC to Ethereum using ZK-Snarks",
-          "link": "https://ethresear.ch/t/bringing-ibc-to-ethereum-using-zk-snarks/13634",
-          "publishedOn": "2022-09-13T01:30:04.000Z",
-          "wordCount": 1916,
-          "title": "Bringing IBC to Ethereum using ZK-Snarks",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/c/c611fe11f4f71939893ec5ce35db433c2882419d.png"
         }
       ]
     }
