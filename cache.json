@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://medium.com/tessera-nft/wtf-are-nounlets-ec4d6e324910",
+          "author": null,
+          "description": "WTF are Nounlets?!",
+          "link": "https://medium.com/tessera-nft/wtf-are-nounlets-ec4d6e324910",
+          "publishedOn": "2022-09-14T21:00:02.000Z",
+          "wordCount": 1900,
+          "title": "WTF are Nounlets?!",
+          "imageUrl": "https://miro.medium.com/max/1024/1*7U4MViBRbwpLO02ZxmVv5A.png"
+        },
+        {
+          "id": "https://blockcrunch.substack.com/p/the-merge-13-questions-you-were-too",
+          "author": null,
+          "description": "The Merge: 13 Questions You Were Too Embarrassed to Ask",
+          "link": "https://blockcrunch.substack.com/p/the-merge-13-questions-you-were-too",
+          "publishedOn": "2022-09-14T21:00:02.000Z",
+          "wordCount": 5994,
+          "title": "The Merge: 13 Questions You Were Too Embarrassed to Ask",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd52a9a7b-3fb5-4d73-aa30-c0245768f5b9_2240x1260.png"
+        },
+        {
           "id": "https://bingobaker.com/",
           "author": null,
           "description": "#1 Free Bingo Card Generator - Play Online or Print Cards",
@@ -14,16 +34,6 @@
           "wordCount": 1061,
           "title": "#1 Free Bingo Card Generator - Play Online or Print Cards",
           "imageUrl": "https://bingobaker.com/static/1662615849/img/logo.gif"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=It1SOjYhaac&feature=youtu.be",
-          "author": null,
-          "description": "David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode",
-          "link": "https://www.youtube.com/watch?v=It1SOjYhaac&feature=youtu.be",
-          "publishedOn": "2022-09-14T19:30:05.000Z",
-          "wordCount": null,
-          "title": "David Hoffman Discusses Ethereum’s Merge, BTC vs. ETH, and Beating Vitalik at Chess | Full Episode",
-          "imageUrl": null
         },
         {
           "id": "https://solana.com/news/solana-summer-camp-winners",
@@ -61,7 +71,7 @@
           "description": "Ethereum Research",
           "link": "https://ethresear.ch/",
           "publishedOn": "2022-09-14T18:00:05.000Z",
-          "wordCount": 418,
+          "wordCount": 425,
           "title": "Ethereum Research",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         },
@@ -81,7 +91,7 @@
           "description": "r/ethstaker - Mainnet Merge POAP.Art Painting Party (2 hours before TTD)",
           "link": "https://www.reddit.com/r/ethstaker/comments/xe2fd6/mainnet_merge_poapart_painting_party_2_hours/",
           "publishedOn": "2022-09-14T17:00:05.000Z",
-          "wordCount": 34289,
+          "wordCount": 27456,
           "title": "r/ethstaker - Mainnet Merge POAP.Art Painting Party (2 hours before TTD)",
           "imageUrl": "https://external-preview.redd.it/yq9RsaKVGdf5-MlJulCpQUI3udbf-gj-QSXPzk4KQLw.png?auto=webp&s=7ad0abfa48112c80255ebadc1deab31e303f8c34"
         },
@@ -91,7 +101,7 @@
           "description": "Diamond tokenization startup Diamond Standard raises $30 million",
           "link": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T15:00:03.000Z",
-          "wordCount": 79758,
+          "wordCount": 80163,
           "title": "Diamond tokenization startup Diamond Standard raises $30 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup.jpg"
         },
@@ -116,12 +126,22 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/IByGBZ510XZ1Rcz0PJ8Rw.jpg?h=666&w=777"
         },
         {
+          "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.24",
+          "author": null,
+          "description": "Release Jarfor (v1.10.24) · ethereum/go-ethereum",
+          "link": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.24",
+          "publishedOn": "2022-09-14T11:00:02.000Z",
+          "wordCount": 495,
+          "title": "Release Jarfor (v1.10.24) · ethereum/go-ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/99b59995181c2792640a0b78c44285ccc7b31768680727225d156915bbb48fce/ethereum/go-ethereum/releases/tag/v1.10.24"
+        },
+        {
           "id": "https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg",
           "author": null,
           "description": "DeFi Dad - YouTube",
           "link": "https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg",
           "publishedOn": "2022-09-14T09:30:05.000Z",
-          "wordCount": 4267,
+          "wordCount": 4264,
           "title": "DeFi Dad - YouTube",
           "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_BpueG9KFYx5h9yfrMluDuRoDq61UO2PPFQCp5Yw=s900-c-k-c0x00ffffff-no-rj"
         },
@@ -131,7 +151,7 @@
           "description": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "link": "https://www.wsj.com/articles/70-million-in-art-at-moma-to-be-sold-to-extend-museums-digital-reach-11663117201?mod=e2tw",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 6734,
+          "wordCount": 6733,
           "title": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "imageUrl": "https://images.wsj.net/im-622155/social"
         },
@@ -141,7 +161,7 @@
           "description": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "link": "https://www.theblock.co/post/169825/south-korean-court-issues-warrant-for-do-kwons-arrest?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 80276,
+          "wordCount": 80355,
           "title": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
         },
@@ -156,22 +176,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://axie.substack.com/p/season1",
-          "author": null,
-          "description": "Axie: Origins Season 1 Starts Today!",
-          "link": "https://axie.substack.com/p/season1",
-          "publishedOn": "2022-09-14T05:00:02.000Z",
-          "wordCount": 3313,
-          "title": "Axie: Origins Season 1 Starts Today!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ed49ec5-df76-49b4-a444-dc997bbb1adc_2400x1350.png"
-        },
-        {
           "id": "https://github.com/blocknative/dreamboat",
           "author": null,
           "description": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "link": "https://github.com/blocknative/dreamboat",
           "publishedOn": "2022-09-14T05:00:02.000Z",
-          "wordCount": 1096,
+          "wordCount": 1094,
           "title": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "imageUrl": "https://repository-images.githubusercontent.com/535891678/742ad182-501c-42f6-b1c3-bb020baacb87"
         },
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-13T21:00:02.000Z",
           "wordCount": 2411,
           "title": "Frequently Asked Questions - Newly Added | U.S. Department of the Treasury",
-          "imageUrl": null
-        },
-        {
-          "id": "https://home.treasury.gov/taxonomy/term/1546",
-          "author": null,
-          "description": "Cyber-related Sanctions | U.S. Department of the Treasury",
-          "link": "https://home.treasury.gov/taxonomy/term/1546",
-          "publishedOn": "2022-09-13T21:00:02.000Z",
-          "wordCount": 2665,
-          "title": "Cyber-related Sanctions | U.S. Department of the Treasury",
           "imageUrl": null
         }
       ]
