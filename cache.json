@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://solana.com/news/solana-summer-camp-winners",
+          "author": null,
+          "description": "Meet the winners of the Solana Summer Camp Hackathon",
+          "link": "https://solana.com/news/solana-summer-camp-winners",
+          "publishedOn": "2022-09-14T19:00:02.000Z",
+          "wordCount": 13745,
+          "title": "Meet the winners of the Solana Summer Camp Hackathon",
+          "imageUrl": "https://solana.ghost.io/content/images/2022/09/solana-summer-camp-hackathon.jpg"
+        },
+        {
+          "id": "https://subpixel.space/entries/life-after-lifestyle/",
+          "author": null,
+          "description": "Life After Lifestyle",
+          "link": "https://subpixel.space/entries/life-after-lifestyle/",
+          "publishedOn": "2022-09-14T19:00:02.000Z",
+          "wordCount": 10488,
+          "title": "Life After Lifestyle",
+          "imageUrl": "https://subpixel.space/uploads/lal-twittercard.png"
+        },
+        {
           "id": "https://bordel.wtf/",
           "author": null,
           "description": "Bordel.wtf",
@@ -36,22 +56,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*83P1a9jn5cLc78Yd7uXbZw.png"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/09/14/crypto-auditing-platform-sherlock-raises-4m-in-funding/",
-          "author": null,
-          "description": "Crypto Auditing Platform Sherlock Raises $4M in Funding",
-          "link": "https://www.coindesk.com/business/2022/09/14/crypto-auditing-platform-sherlock-raises-4m-in-funding/",
-          "publishedOn": "2022-09-14T16:00:05.000Z",
-          "wordCount": 6792,
-          "title": "Crypto Auditing Platform Sherlock Raises $4M in Funding",
-          "imageUrl": "https://www.coindesk.com/resizer/mlsiITy3ZS_PvecSOEH0WMdrnTI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K22NOTQCZFEVFEKRUJGPRENNSU.jpg"
-        },
-        {
           "id": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Diamond tokenization startup Diamond Standard raises $30 million",
           "link": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T15:00:03.000Z",
-          "wordCount": 78824,
+          "wordCount": 79312,
           "title": "Diamond tokenization startup Diamond Standard raises $30 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "link": "https://www.wsj.com/articles/70-million-in-art-at-moma-to-be-sold-to-extend-museums-digital-reach-11663117201?mod=e2tw",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 6729,
+          "wordCount": 6717,
           "title": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "imageUrl": "https://images.wsj.net/im-622155/social"
         },
@@ -111,7 +121,7 @@
           "description": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "link": "https://www.theblock.co/post/169825/south-korean-court-issues-warrant-for-do-kwons-arrest?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 79342,
+          "wordCount": 79830,
           "title": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
         },
@@ -151,19 +161,9 @@
           "description": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "link": "https://github.com/blocknative/dreamboat",
           "publishedOn": "2022-09-14T05:00:02.000Z",
-          "wordCount": 1025,
+          "wordCount": 1036,
           "title": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "imageUrl": "https://repository-images.githubusercontent.com/535891678/742ad182-501c-42f6-b1c3-bb020baacb87"
-        },
-        {
-          "id": "https://www.reuters.com/world/asia-pacific/exclusive-us-considers-china-sanctions-deter-taiwan-action-taiwan-presses-eu-2022-09-13/",
-          "author": null,
-          "description": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
-          "link": "https://www.reuters.com/world/asia-pacific/exclusive-us-considers-china-sanctions-deter-taiwan-action-taiwan-presses-eu-2022-09-13/",
-          "publishedOn": "2022-09-13T22:00:05.000Z",
-          "wordCount": 4306,
-          "title": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
-          "imageUrl": "https://www.reuters.com/resizer/hCJu4dK5YhCT1DFJCtdtwlVYaqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6VOQ5QQ3QVMCZLOSZHAGJYRVCM.jpg"
         },
         {
           "id": "https://gov.uniswap.org/t/deploy-uniswap-v3-to-zksync/17649",
