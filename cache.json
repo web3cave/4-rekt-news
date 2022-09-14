@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://medium.com/@MakerDAO/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393",
+          "id": "https://linksdao.io/",
           "author": null,
-          "description": "a16z crypto purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO",
-          "link": "https://medium.com/@MakerDAO/a16z-crypto-purchases-6-of-mkr-backing-stablecoin-vanguard-makerdao-ff410a692393",
-          "publishedOn": "2022-09-14T15:00:03.000Z",
-          "wordCount": 1675,
-          "title": "a16z crypto purchases 6% of MKR, backing Stablecoin Vanguard MakerDAO",
-          "imageUrl": "https://miro.medium.com/max/1200/1*1ZvYIY8veFFQJ5T9sqNkVQ.png"
+          "description": "LinksDAO",
+          "link": "https://linksdao.io/",
+          "publishedOn": "2022-09-14T16:30:02.000Z",
+          "wordCount": 4437,
+          "title": "LinksDAO",
+          "imageUrl": "https://linksdao.io/cover.png"
+        },
+        {
+          "id": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
+          "author": null,
+          "description": "Mainnet Merge Announcement | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement",
+          "publishedOn": "2022-09-14T16:30:02.000Z",
+          "wordCount": 4966,
+          "title": "Mainnet Merge Announcement | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_fc82062a814fd40a66c7d03a522da205.jpeg"
         },
         {
           "id": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
@@ -21,19 +31,9 @@
           "description": "Diamond tokenization startup Diamond Standard raises $30 million",
           "link": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T15:00:03.000Z",
-          "wordCount": 80792,
+          "wordCount": 77983,
           "title": "Diamond tokenization startup Diamond Standard raises $30 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup.jpg"
-        },
-        {
-          "id": "https://www.wrappr.wtf/",
-          "author": null,
-          "description": "Wrappr - Home",
-          "link": "https://www.wrappr.wtf/",
-          "publishedOn": "2022-09-14T14:00:06.000Z",
-          "wordCount": 386,
-          "title": "Wrappr - Home",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.10.24",
@@ -61,9 +61,19 @@
           "description": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "link": "https://www.theblock.co/post/169825/south-korean-court-issues-warrant-for-do-kwons-arrest?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 80878,
+          "wordCount": 78501,
           "title": "South Korean court issues warrant for Do Kwon’s arrest, Chosun Ilbo reports",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/70-million-in-art-at-moma-to-be-sold-to-extend-museums-digital-reach-11663117201?mod=e2tw",
+          "author": null,
+          "description": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
+          "link": "https://www.wsj.com/articles/70-million-in-art-at-moma-to-be-sold-to-extend-museums-digital-reach-11663117201?mod=e2tw",
+          "publishedOn": "2022-09-14T08:00:05.000Z",
+          "wordCount": 6778,
+          "title": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
+          "imageUrl": "https://images.wsj.net/im-622155/social"
         },
         {
           "id": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
@@ -101,7 +111,7 @@
           "description": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "link": "https://github.com/blocknative/dreamboat",
           "publishedOn": "2022-09-14T05:00:02.000Z",
-          "wordCount": 1112,
+          "wordCount": 1109,
           "title": "GitHub - blocknative/dreamboat: alpha mev-boost relay",
           "imageUrl": "https://repository-images.githubusercontent.com/535891678/742ad182-501c-42f6-b1c3-bb020baacb87"
         },
@@ -111,7 +121,7 @@
           "description": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
           "link": "https://www.reuters.com/world/asia-pacific/exclusive-us-considers-china-sanctions-deter-taiwan-action-taiwan-presses-eu-2022-09-13/",
           "publishedOn": "2022-09-13T22:00:05.000Z",
-          "wordCount": 4359,
+          "wordCount": 4389,
           "title": "Exclusive: U.S. considers China sanctions to deter Taiwan action; Taiwan presses EU",
           "imageUrl": "https://www.reuters.com/resizer/hCJu4dK5YhCT1DFJCtdtwlVYaqM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6VOQ5QQ3QVMCZLOSZHAGJYRVCM.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Deploy Uniswap V3 to zkSync",
           "link": "https://gov.uniswap.org/t/deploy-uniswap-v3-to-zksync/17649",
           "publishedOn": "2022-09-13T21:00:03.000Z",
-          "wordCount": 1106,
+          "wordCount": 1108,
           "title": "Deploy Uniswap V3 to zkSync",
           "imageUrl": "https://aws1.discourse-cdn.com/business6/uploads/uniswap1/original/2X/e/ec0448d11cafe2bd2ceb66ea58dcb9ed520e85fa.png"
         },
@@ -151,7 +161,7 @@
           "description": "Traditional Finance Giants Charles Schwab, Citadel, Fidelity, and Others Start Crypto Exchange EDX Markets",
           "link": "https://www.coindesk.com/business/2022/09/13/charles-schwab-citadel-fidelity-and-others-start-crypto-exchange-edx-markets/",
           "publishedOn": "2022-09-13T21:00:02.000Z",
-          "wordCount": 6862,
+          "wordCount": 6754,
           "title": "Traditional Finance Giants Charles Schwab, Citadel, Fidelity, and Others Start Crypto Exchange EDX Markets",
           "imageUrl": "https://www.coindesk.com/resizer/bDrOAQtVP2M4e1XX39mkLL6YoVE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GVHIVJ7VVJEEPFN2YKAHSYMKVE.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 595,
           "title": "Mint the Merge | Song a Day World",
           "imageUrl": "https://songaday.world/assets/music-rainbow.png"
-        },
-        {
-          "id": "https://ethdos.xyz/",
-          "author": null,
-          "description": "ETHdos - ETH Degrees of Separation",
-          "link": "https://ethdos.xyz/",
-          "publishedOn": "2022-09-13T03:30:04.000Z",
-          "wordCount": 209,
-          "title": "ETHdos - ETH Degrees of Separation",
-          "imageUrl": "https://ethdos.xyz/cover.png"
         }
       ]
     }
