@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TDGq4aeevgY&feature=youtu.be",
+          "author": null,
+          "description": "Vitalik Buterin explains Ethereum",
+          "link": "https://www.youtube.com/watch?v=TDGq4aeevgY&feature=youtu.be",
+          "publishedOn": "2022-09-15T16:00:07.000Z",
+          "wordCount": null,
+          "title": "Vitalik Buterin explains Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WqE1gmjJfQ8&feature=youtu.be",
+          "author": null,
+          "description": "Post-Merge REACTIONS from the ETH Community",
+          "link": "https://www.youtube.com/watch?v=WqE1gmjJfQ8&feature=youtu.be",
+          "publishedOn": "2022-09-15T14:30:21.000Z",
+          "wordCount": null,
+          "title": "Post-Merge REACTIONS from the ETH Community",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.figma.com/blog/a-new-collaboration-with-adobe/",
           "author": null,
           "description": "A New Collaboration with Adobe",
@@ -46,6 +66,16 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*rQSQzl0pN6COy-rA5E1Iqw.png"
         },
         {
+          "id": "https://merge.nansen.ai/",
+          "author": null,
+          "description": "The Merge | Nansen",
+          "link": "https://merge.nansen.ai/",
+          "publishedOn": "2022-09-15T06:30:12.000Z",
+          "wordCount": 5,
+          "title": "The Merge | Nansen",
+          "imageUrl": "/up_/static/preview.png"
+        },
+        {
           "id": "https://ethglobal.tv/",
           "author": null,
           "description": "ETHGlobal.tv",
@@ -76,6 +106,16 @@
           "imageUrl": "https://assets-global.website-files.com/630828ea7fe04397b7da993a/63216f07a24c7d3f74ef3a7d_OR_Github_banner.jpeg"
         },
         {
+          "id": "https://www.coindesk.com/layer2/2022/09/14/ethereum-mainstay-hudson-jameson-on-what-makes-the-merge-monumental/",
+          "author": null,
+          "description": "Ethereum Mainstay Hudson Jameson on What Makes the Merge Monumental",
+          "link": "https://www.coindesk.com/layer2/2022/09/14/ethereum-mainstay-hudson-jameson-on-what-makes-the-merge-monumental/",
+          "publishedOn": "2022-09-15T01:00:03.000Z",
+          "wordCount": 6904,
+          "title": "Ethereum Mainstay Hudson Jameson on What Makes the Merge Monumental",
+          "imageUrl": "https://www.coindesk.com/resizer/qEbm_f_DZW-0JRXAbGwHqDku2xo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HXLFZY52YRC4PGFICG74XNIZFY.jpg"
+        },
+        {
           "id": "https://ultrasound.money/",
           "author": null,
           "description": "Ultra Sound Money",
@@ -84,6 +124,16 @@
           "wordCount": 580,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html",
+          "author": null,
+          "description": "Billionaire No More: Patagonia Founder Gives Away the Company",
+          "link": "https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html",
+          "publishedOn": "2022-09-14T23:30:05.000Z",
+          "wordCount": null,
+          "title": "Billionaire No More: Patagonia Founder Gives Away the Company",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=Nx-jYgI0QVI&feature=youtu.be",
@@ -114,36 +164,6 @@
           "wordCount": null,
           "title": "The Eve of the Merge with Special Guests!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/tessera-nft/wtf-are-nounlets-ec4d6e324910",
-          "author": null,
-          "description": "WTF are Nounlets?!",
-          "link": "https://medium.com/tessera-nft/wtf-are-nounlets-ec4d6e324910",
-          "publishedOn": "2022-09-14T21:00:02.000Z",
-          "wordCount": 2253,
-          "title": "WTF are Nounlets?!",
-          "imageUrl": "https://miro.medium.com/max/1024/1*7U4MViBRbwpLO02ZxmVv5A.png"
-        },
-        {
-          "id": "https://bingobaker.com/",
-          "author": null,
-          "description": "#1 Free Bingo Card Generator - Play Online or Print Cards",
-          "link": "https://bingobaker.com/",
-          "publishedOn": "2022-09-14T20:00:05.000Z",
-          "wordCount": 1061,
-          "title": "#1 Free Bingo Card Generator - Play Online or Print Cards",
-          "imageUrl": "https://bingobaker.com/static/1662615849/img/logo.gif"
-        },
-        {
-          "id": "https://solana.com/news/solana-summer-camp-winners",
-          "author": null,
-          "description": "Meet the winners of the Solana Summer Camp Hackathon",
-          "link": "https://solana.com/news/solana-summer-camp-winners",
-          "publishedOn": "2022-09-14T19:00:02.000Z",
-          "wordCount": 13971,
-          "title": "Meet the winners of the Solana Summer Camp Hackathon",
-          "imageUrl": "https://solana.ghost.io/content/images/2022/09/solana-summer-camp-hackathon.jpg"
         },
         {
           "id": "https://subpixel.space/entries/life-after-lifestyle/",
@@ -181,29 +201,9 @@
           "description": "r/ethstaker - Mainnet Merge POAP.Art Painting Party (2 hours before TTD)",
           "link": "https://www.reddit.com/r/ethstaker/comments/xe2fd6/mainnet_merge_poapart_painting_party_2_hours/",
           "publishedOn": "2022-09-14T17:00:05.000Z",
-          "wordCount": 27809,
+          "wordCount": 27821,
           "title": "r/ethstaker - Mainnet Merge POAP.Art Painting Party (2 hours before TTD)",
           "imageUrl": "https://external-preview.redd.it/yq9RsaKVGdf5-MlJulCpQUI3udbf-gj-QSXPzk4KQLw.png?auto=webp&s=7ad0abfa48112c80255ebadc1deab31e303f8c34"
-        },
-        {
-          "id": "https://www.wrappr.wtf/",
-          "author": null,
-          "description": "Wrappr - Home",
-          "link": "https://www.wrappr.wtf/",
-          "publishedOn": "2022-09-14T14:00:06.000Z",
-          "wordCount": 392,
-          "title": "Wrappr - Home",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/kalico.eth/wi5HevVbRWaUqQURy1dzsPsdVf9_QcwLa9YnGH8kfS8",
-          "author": null,
-          "description": "Introducing Wrappr: The Legal Wrapping Suite",
-          "link": "https://mirror.xyz/kalico.eth/wi5HevVbRWaUqQURy1dzsPsdVf9_QcwLa9YnGH8kfS8",
-          "publishedOn": "2022-09-14T14:00:06.000Z",
-          "wordCount": 3828,
-          "title": "Introducing Wrappr: The Legal Wrapping Suite",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/IByGBZ510XZ1Rcz0PJ8Rw.jpg?h=666&w=777"
         }
       ]
     }
