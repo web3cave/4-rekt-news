@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://boost-relay.flashbots.net/",
+          "author": null,
+          "description": "Flashbots MEV-Boost Relay - Mainnet",
+          "link": "https://boost-relay.flashbots.net/",
+          "publishedOn": "2022-09-15T09:30:06.000Z",
+          "wordCount": 305,
+          "title": "Flashbots MEV-Boost Relay - Mainnet",
+          "imageUrl": "https://d33wubrfki0l68.cloudfront.net/ae8530415158fbbbbe17fb033855452f792606c7/fe19f/img/logo.png"
+        },
+        {
           "id": "https://blog.1inch.io/a-vulnerability-disclosed-in-profanity-an-ethereum-vanity-address-tool-68ed7455fc8c?gi=f1703bf64b5e",
           "author": null,
           "description": "A vulnerability disclosed in Profanity, an Ethereum vanity address tool",
@@ -16,22 +26,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*rQSQzl0pN6COy-rA5E1Iqw.png"
         },
         {
-          "id": "https://merge.nansen.ai/",
-          "author": null,
-          "description": "The Merge | Nansen",
-          "link": "https://merge.nansen.ai/",
-          "publishedOn": "2022-09-15T06:30:12.000Z",
-          "wordCount": 5,
-          "title": "The Merge | Nansen",
-          "imageUrl": "/up_/static/preview.png"
-        },
-        {
           "id": "https://old.reddit.com/r/EtherMining/comments/xek7wq/powering_down_last_eth_mining_rig_the_only_proper/",
           "author": null,
           "description": "Powering down last ETH mining rig the only proper way….With Bagpipes",
           "link": "https://old.reddit.com/r/EtherMining/comments/xek7wq/powering_down_last_eth_mining_rig_the_only_proper/",
           "publishedOn": "2022-09-15T05:00:02.000Z",
-          "wordCount": 4350,
+          "wordCount": 4424,
           "title": "Powering down last ETH mining rig the only proper way….With Bagpipes",
           "imageUrl": "https://b.thumbs.redditmedia.com/T1D6MHYLw5mGPCL33TTw_YXtIPGgkfRDOLK8fZg2wrU.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Diamond tokenization startup Diamond Standard raises $30 million",
           "link": "https://www.theblock.co/post/169946/diamond-tokenization-startup-diamond-standard-raises-30-million?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-14T15:00:03.000Z",
-          "wordCount": 82792,
+          "wordCount": 82840,
           "title": "Diamond tokenization startup Diamond Standard raises $30 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "link": "https://www.wsj.com/articles/70-million-in-art-at-moma-to-be-sold-to-extend-museums-digital-reach-11663117201?mod=e2tw",
           "publishedOn": "2022-09-14T08:00:05.000Z",
-          "wordCount": 6709,
+          "wordCount": 6769,
           "title": "WSJ News Exclusive | $70 Million in Art at MoMA to Be Sold to Extend Museum’s Digital Reach",
           "imageUrl": "https://images.wsj.net/im-622155/social"
         }
