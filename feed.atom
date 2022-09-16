@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-16T10:27:37.140Z</id>
+    <id>urn:2022-09-16T11:20:46.186Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-16T10:27:37.140Z</updated>
+    <updated>2022-09-16T11:20:46.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Vitalik Buterin explains Ethereum]]></title>
         <id>https://www.youtube.com/watch?v=TDGq4aeevgY&amp;feature=youtu.be</id>
         <link href="https://www.youtube.com/watch?v=TDGq4aeevgY&amp;feature=youtu.be"/>
-        <updated>2022-09-16T09:00:03.000Z</updated>
+        <updated>2022-09-16T11:00:05.000Z</updated>
         <summary type="html"><![CDATA[Vitalik Buterin explains Ethereum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nodewatch - Eth2 Node Analytics]]></title>
+        <id>https://www.nodewatch.io/</id>
+        <link href="https://www.nodewatch.io/"/>
+        <updated>2022-09-16T10:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Nodewatch - Eth2 Node Analytics]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://www.youtube.com/watch?v=DdUt77_eWyc&amp;feature=youtu.be"/>
         <updated>2022-09-15T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Core Devs Meeting #147 [2022-9-15]]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Core Devs Meeting 147 Agenda · Issue #616 · ethereum/pm]]></title>
-        <id>https://github.com/ethereum/pm/issues/616</id>
-        <link href="https://github.com/ethereum/pm/issues/616"/>
-        <updated>2022-09-15T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Core Devs Meeting 147 Agenda · Issue #616 · ethereum/pm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
