@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://boost.flashbots.net/",
+          "author": null,
+          "description": "MEV-Boost in a Nutshell",
+          "link": "https://boost.flashbots.net/",
+          "publishedOn": "2022-09-16T16:00:07.000Z",
+          "wordCount": 3803,
+          "title": "MEV-Boost in a Nutshell",
+          "imageUrl": "https://super-static-assets.s3.amazonaws.com/711042fd-248d-487a-8710-823df149fa5c/images/3f2812ca-e9f1-4ec1-9cff-013f117f42e3.jpg"
+        },
+        {
+          "id": "https://blog.trailofbits.com/2022/09/15/it-pays-to-be-circomspect/",
+          "author": null,
+          "description": "It pays to be Circomspect",
+          "link": "https://blog.trailofbits.com/2022/09/15/it-pays-to-be-circomspect/",
+          "publishedOn": "2022-09-16T14:30:05.000Z",
+          "wordCount": 3305,
+          "title": "It pays to be Circomspect",
+          "imageUrl": "https://blog.trailofbits.com/wp-content/uploads/2022/09/image1-1024x508.png"
+        },
+        {
           "id": "https://www.gq-magazine.co.uk/lifestyle/article/leg-lengthening-surgery-men?utm_source=twitter&utm_social-type=owned&utm_medium=social",
           "author": null,
           "description": "Meet the men paying six figures to get taller—by having their legs broken",
@@ -56,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
-          "author": null,
-          "description": "ProgPoW: The Ethereum Community Speaks",
-          "link": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
-          "publishedOn": "2022-09-16T05:00:03.000Z",
-          "wordCount": 5968,
-          "title": "ProgPoW: The Ethereum Community Speaks",
-          "imageUrl": "http://souptacular.github.io/img/avatar-icon.jpg"
-        },
-        {
           "id": "https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942",
           "author": null,
           "description": "Comments on the White House report on the climate implications of crypto mining",
@@ -76,12 +86,22 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*z-KsjyPlxPKIINPXKvZO4g.png"
         },
         {
+          "id": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
+          "author": null,
+          "description": "ProgPoW: The Ethereum Community Speaks",
+          "link": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
+          "publishedOn": "2022-09-16T05:00:03.000Z",
+          "wordCount": 5968,
+          "title": "ProgPoW: The Ethereum Community Speaks",
+          "imageUrl": "http://souptacular.github.io/img/avatar-icon.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report/",
           "author": null,
           "description": "SEC’s Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies: Report",
           "link": "https://www.coindesk.com/policy/2022/09/15/secs-gensler-signals-extra-scrutiny-for-proof-of-stake-cryptocurrencies-report/",
           "publishedOn": "2022-09-16T03:00:02.000Z",
-          "wordCount": 6726,
+          "wordCount": 6718,
           "title": "SEC’s Gensler Signals Extra Scrutiny for Proof-of-Stake Cryptocurrencies: Report",
           "imageUrl": "https://www.coindesk.com/resizer/FT4MBr7-D4g5quldSu73rklVDgU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/64NBFDYQRNHRBFBWNMGZJXI5XA.jpg"
         },
@@ -101,7 +121,7 @@
           "description": "Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022",
           "link": "https://beaconcha.in/",
           "publishedOn": "2022-09-15T21:30:07.000Z",
-          "wordCount": 3444,
+          "wordCount": 3458,
           "title": "Ethereum 2.0 Beaconchain Explorer - Index - beaconcha.in - 2022",
           "imageUrl": "https://beaconcha.in/img/logo.png"
         },
@@ -111,7 +131,7 @@
           "description": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "link": "https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224",
           "publishedOn": "2022-09-15T21:00:03.000Z",
-          "wordCount": 5979,
+          "wordCount": 5968,
           "title": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "imageUrl": "https://images.wsj.net/im-624160/social"
         },
@@ -121,7 +141,7 @@
           "description": "Ethereum just completed The Merge — here’s how much energy it’s saving",
           "link": "https://www.theverge.com/2022/9/15/23354619/ethereum-cryptocurrency-merge-energy-electricity-greenhouse-gas-emissions-reduction",
           "publishedOn": "2022-09-15T19:30:06.000Z",
-          "wordCount": 12678,
+          "wordCount": 12448,
           "title": "Ethereum just completed The Merge — here’s how much energy it’s saving",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/Zz-xA5byGidurU_2k3wJA3DS9Uw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23983259/acastro_STK015_03.jpg"
         },
@@ -141,29 +161,9 @@
           "description": "Yuga Labs hopes to make $50M with new Mecha Apes collection",
           "link": "https://protos.com/yuga-labs-hopes-to-make-50m-with-new-mecha-apes-collection/",
           "publishedOn": "2022-09-15T19:00:02.000Z",
-          "wordCount": 2064,
+          "wordCount": 2071,
           "title": "Yuga Labs hopes to make $50M with new Mecha Apes collection",
           "imageUrl": "https://protos.com/wp-content/uploads/2022/09/Protos-Artwork-YugaLabs-SIMG.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DdUt77_eWyc&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting #147 [2022-9-15]",
-          "link": "https://www.youtube.com/watch?v=DdUt77_eWyc&feature=youtu.be",
-          "publishedOn": "2022-09-15T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #147 [2022-9-15]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/616",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting 147 Agenda · Issue #616 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/616",
-          "publishedOn": "2022-09-15T17:00:03.000Z",
-          "wordCount": 615,
-          "title": "Ethereum Core Devs Meeting 147 Agenda · Issue #616 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/a6f1e64e924adcb3237adf24cea8b1bdb2070c40796a8efbe270a6d0ed4775f2/ethereum/pm/issues/616"
         },
         {
           "id": "https://developers.morpho.xyz/erc-4626-vaults",
@@ -171,7 +171,7 @@
           "description": "ERC-4626 Vaults - Morpho Developers",
           "link": "https://developers.morpho.xyz/erc-4626-vaults",
           "publishedOn": "2022-09-15T17:00:03.000Z",
-          "wordCount": 2388,
+          "wordCount": 2391,
           "title": "ERC-4626 Vaults - Morpho Developers",
           "imageUrl": null
         },
