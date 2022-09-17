@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://eips.ethereum.org/EIPS/eip-3525",
+          "id": "https://www.mevboost.org/",
           "author": null,
-          "description": "EIP-3525: Semi-Fungible Token",
-          "link": "https://eips.ethereum.org/EIPS/eip-3525",
-          "publishedOn": "2022-09-17T01:00:02.000Z",
-          "wordCount": 4499,
-          "title": "EIP-3525: Semi-Fungible Token",
-          "imageUrl": null
+          "description": "mevboost.org | MEV-Boost Tracker",
+          "link": "https://www.mevboost.org/",
+          "publishedOn": "2022-09-17T04:00:06.000Z",
+          "wordCount": 477,
+          "title": "mevboost.org | MEV-Boost Tracker",
+          "imageUrl": "https://mevboost.org/meta.png"
+        },
+        {
+          "id": "https://blog.1inch.io/a-vulnerability-disclosed-in-profanity-an-ethereum-vanity-address-tool-68ed7455fc8c?gi=f1703bf64b5e",
+          "author": null,
+          "description": "A vulnerability disclosed in Profanity, an Ethereum vanity address tool",
+          "link": "https://blog.1inch.io/a-vulnerability-disclosed-in-profanity-an-ethereum-vanity-address-tool-68ed7455fc8c?gi=f1703bf64b5e",
+          "publishedOn": "2022-09-17T03:00:10.000Z",
+          "wordCount": 2374,
+          "title": "A vulnerability disclosed in Profanity, an Ethereum vanity address tool",
+          "imageUrl": "https://miro.medium.com/max/1200/1*rQSQzl0pN6COy-rA5E1Iqw.png"
         },
         {
           "id": "https://news.artnet.com/market/nfts-boom-bust-and-backlash-2176451",
@@ -34,16 +44,6 @@
           "wordCount": 7035,
           "title": "Binance Bungles Accounting for Helium Tokens, Overpays Clients Millions",
           "imageUrl": "https://www.coindesk.com/resizer/sIIh9gXOmOj2FP-orb82t1KB7pA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WW7D7YR7ANBYHLLEVQL6YVSO6I.jpg"
-        },
-        {
-          "id": "https://gitcoin.co/grants/149/rotki",
-          "author": null,
-          "description": "💰 Rotki - The portfolio tracker and accounting tool that protects your privacy | Grants",
-          "link": "https://gitcoin.co/grants/149/rotki",
-          "publishedOn": "2022-09-16T22:00:06.000Z",
-          "wordCount": 6056,
-          "title": "💰 Rotki - The portfolio tracker and accounting tool that protects your privacy | Grants",
-          "imageUrl": "https://c.gitcoin.co/grants/55489dd9b0bb55d2454115c8ad6f6b6f/rotkehlchen_logo.png"
         },
         {
           "id": "https://a16zcrypto.com/zero-knowledge-canon/",
@@ -71,9 +71,19 @@
           "description": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "link": "https://every.to/means-of-creation/the-new-creator-playbook-jumpstarting-communities-through-tokens",
           "publishedOn": "2022-09-16T21:00:01.000Z",
-          "wordCount": 2833,
+          "wordCount": 2845,
           "title": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2298/creatorplaybook.jpg"
+        },
+        {
+          "id": "https://blog.chain.link/undercollateralized-lending-teller-deco-poc/",
+          "author": null,
+          "description": "How DECO Enables Undercollateralized Lending | Chainlink Blog",
+          "link": "https://blog.chain.link/undercollateralized-lending-teller-deco-poc/",
+          "publishedOn": "2022-09-16T19:30:06.000Z",
+          "wordCount": 4171,
+          "title": "How DECO Enables Undercollateralized Lending | Chainlink Blog",
+          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/09/How-DECO-Enables-Undercollateralized-DeFi-Lending-Banner.png"
         },
         {
           "id": "https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69",
@@ -116,16 +126,6 @@
           "imageUrl": "https://blog.lopp.net/content/images/2022/09/satoshi_miner.png"
         },
         {
-          "id": "https://finance.yahoo.com/news/treasury-crypto-regulation-reports-september-100041563.html",
-          "author": null,
-          "description": "Treasury urges SEC, CFTC crack down on crypto industry in wide-ranging new reports",
-          "link": "https://finance.yahoo.com/news/treasury-crypto-regulation-reports-september-100041563.html",
-          "publishedOn": "2022-09-16T17:00:06.000Z",
-          "wordCount": 15097,
-          "title": "Treasury urges SEC, CFTC crack down on crypto industry in wide-ranging new reports",
-          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VL92cNAxuYWsdeb9iiReSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/568e0f00-355b-11ed-be9b-45bf64f0a8b8"
-        },
-        {
           "id": "https://home.treasury.gov/news/press-releases/jy0956",
           "author": null,
           "description": "Statement from Secretary of the Treasury Janet L. Yellen on the Release of Reports on Digital Assets",
@@ -141,7 +141,7 @@
           "description": "FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets -...",
           "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/",
           "publishedOn": "2022-09-16T17:00:05.000Z",
-          "wordCount": 3527,
+          "wordCount": 3975,
           "title": "FACT SHEET:  White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets -...",
           "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
         },
@@ -181,7 +181,7 @@
           "description": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "link": "https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224",
           "publishedOn": "2022-09-15T21:00:03.000Z",
-          "wordCount": 5982,
+          "wordCount": 5966,
           "title": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "imageUrl": "https://images.wsj.net/im-624160/social"
         },
