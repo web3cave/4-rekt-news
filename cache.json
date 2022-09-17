@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eips.ethereum.org/EIPS/eip-3525",
+          "author": null,
+          "description": "EIP-3525: Semi-Fungible Token",
+          "link": "https://eips.ethereum.org/EIPS/eip-3525",
+          "publishedOn": "2022-09-17T01:00:02.000Z",
+          "wordCount": 4499,
+          "title": "EIP-3525: Semi-Fungible Token",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.artnet.com/market/nfts-boom-bust-and-backlash-2176451",
+          "author": null,
+          "description": "The Boom and the Bust: How NFTs Went the Way of Beanie Babies | Artnet News",
+          "link": "https://news.artnet.com/market/nfts-boom-bust-and-backlash-2176451",
+          "publishedOn": "2022-09-16T23:30:05.000Z",
+          "wordCount": 3856,
+          "title": "The Boom and the Bust: How NFTs Went the Way of Beanie Babies | Artnet News",
+          "imageUrl": "https://p-news-uploads.storage.googleapis.com/2022/08/I-hate-nfts.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/09/16/binance-bungles-accounting-for-helium-tokens-overpays-clients-millions/",
           "author": null,
           "description": "Binance Bungles Accounting for Helium Tokens, Overpays Clients Millions",
           "link": "https://www.coindesk.com/business/2022/09/16/binance-bungles-accounting-for-helium-tokens-overpays-clients-millions/",
           "publishedOn": "2022-09-16T22:00:06.000Z",
-          "wordCount": 7039,
+          "wordCount": 7035,
           "title": "Binance Bungles Accounting for Helium Tokens, Overpays Clients Millions",
           "imageUrl": "https://www.coindesk.com/resizer/sIIh9gXOmOj2FP-orb82t1KB7pA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WW7D7YR7ANBYHLLEVQL6YVSO6I.jpg"
+        },
+        {
+          "id": "https://gitcoin.co/grants/149/rotki",
+          "author": null,
+          "description": "💰 Rotki - The portfolio tracker and accounting tool that protects your privacy | Grants",
+          "link": "https://gitcoin.co/grants/149/rotki",
+          "publishedOn": "2022-09-16T22:00:06.000Z",
+          "wordCount": 6056,
+          "title": "💰 Rotki - The portfolio tracker and accounting tool that protects your privacy | Grants",
+          "imageUrl": "https://c.gitcoin.co/grants/55489dd9b0bb55d2454115c8ad6f6b6f/rotkehlchen_logo.png"
         },
         {
           "id": "https://a16zcrypto.com/zero-knowledge-canon/",
@@ -41,7 +71,7 @@
           "description": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "link": "https://every.to/means-of-creation/the-new-creator-playbook-jumpstarting-communities-through-tokens",
           "publishedOn": "2022-09-16T21:00:01.000Z",
-          "wordCount": 2829,
+          "wordCount": 2833,
           "title": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2298/creatorplaybook.jpg"
         },
@@ -53,7 +83,17 @@
           "publishedOn": "2022-09-16T18:00:05.000Z",
           "wordCount": 1845,
           "title": "Web2 to Web3 - learn how to build on Ethereum - YouTube",
-          "imageUrl": "https://i.ytimg.com/vi/zuJ-elbo88E/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBA-7TuE1YeO6mTxDTe7T5aQY3bqQ&days_since_epoch=19251"
+          "imageUrl": "https://i.ytimg.com/vi/zuJ-elbo88E/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBA-7TuE1YeO6mTxDTe7T5aQY3bqQ&days_since_epoch=19252"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1W-AT98CyRM",
+          "author": null,
+          "description": "Redbeard on Education and Building a STEM Program | We Do A Little Clips",
+          "link": "https://www.youtube.com/watch?v=1W-AT98CyRM",
+          "publishedOn": "2022-09-16T18:00:05.000Z",
+          "wordCount": null,
+          "title": "Redbeard on Education and Building a STEM Program | We Do A Little Clips",
+          "imageUrl": null
         },
         {
           "id": "https://www.theguardian.com/technology/2022/sep/16/gifs-are-cringe-and-for-boomers-giphy-claims-in-meta-takeover-filing",
@@ -81,7 +121,7 @@
           "description": "Treasury urges SEC, CFTC crack down on crypto industry in wide-ranging new reports",
           "link": "https://finance.yahoo.com/news/treasury-crypto-regulation-reports-september-100041563.html",
           "publishedOn": "2022-09-16T17:00:06.000Z",
-          "wordCount": 15019,
+          "wordCount": 15097,
           "title": "Treasury urges SEC, CFTC crack down on crypto industry in wide-ranging new reports",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/VL92cNAxuYWsdeb9iiReSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/568e0f00-355b-11ed-be9b-45bf64f0a8b8"
         },
@@ -126,26 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://eips.ethereum.org/EIPS/eip-3525",
-          "author": null,
-          "description": "EIP-3525: Semi-Fungible Token",
-          "link": "https://eips.ethereum.org/EIPS/eip-3525",
-          "publishedOn": "2022-09-16T07:00:02.000Z",
-          "wordCount": 4499,
-          "title": "EIP-3525: Semi-Fungible Token",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html",
-          "author": null,
-          "description": "Uber Investigating Breach of Its Computer Systems",
-          "link": "https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html",
-          "publishedOn": "2022-09-16T05:30:05.000Z",
-          "wordCount": null,
-          "title": "Uber Investigating Breach of Its Computer Systems",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/@nic__carter/comments-on-the-white-house-report-on-the-climate-implications-of-crypto-mining-8d65d30ec942",
           "author": null,
           "description": "Comments on the White House report on the climate implications of crypto mining",
@@ -156,32 +176,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*z-KsjyPlxPKIINPXKvZO4g.png"
         },
         {
-          "id": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
-          "author": null,
-          "description": "ProgPoW: The Ethereum Community Speaks",
-          "link": "https://hudsonjameson.com/2020-03-02-progpow-the-ethereum-community-speaks/",
-          "publishedOn": "2022-09-16T05:00:03.000Z",
-          "wordCount": 5968,
-          "title": "ProgPoW: The Ethereum Community Speaks",
-          "imageUrl": "http://souptacular.github.io/img/avatar-icon.jpg"
-        },
-        {
-          "id": "https://ethereum.org/en/energy-consumption/#proof-of-stake-energy",
-          "author": null,
-          "description": "Ethereum Energy Consumption | ethereum.org",
-          "link": "https://ethereum.org/en/energy-consumption/#proof-of-stake-energy",
-          "publishedOn": "2022-09-16T02:00:06.000Z",
-          "wordCount": 3033,
-          "title": "Ethereum Energy Consumption | ethereum.org",
-          "imageUrl": "https://ethereum.org/static/f1351896b456f4e4a0ccf1c9f49a0f11/0f3ee/hero.png"
-        },
-        {
           "id": "https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224",
           "author": null,
           "description": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "link": "https://www.wsj.com/articles/ethers-new-staking-model-could-draw-sec-attention-11663266224",
           "publishedOn": "2022-09-15T21:00:03.000Z",
-          "wordCount": 5981,
+          "wordCount": 5982,
           "title": "Ether’s New ‘Staking’ Model Could Draw SEC Attention",
           "imageUrl": "https://images.wsj.net/im-624160/social"
         },
