@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0sddHG0D0Y4",
+          "author": null,
+          "description": "Global Instability and Software’s Opportunity | Palantir CEO Alex Karp and Stanley Druckenmiller",
+          "link": "https://www.youtube.com/watch?v=0sddHG0D0Y4",
+          "publishedOn": "2022-09-18T15:30:06.000Z",
+          "wordCount": null,
+          "title": "Global Instability and Software’s Opportunity | Palantir CEO Alex Karp and Stanley Druckenmiller",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?t=658&v=_14AnyAdmTU&feature=youtu.be",
           "author": null,
           "description": "Modern Warfare 2 Gameplay is VERY impressive...",
@@ -106,12 +116,22 @@
           "imageUrl": ""
         },
         {
+          "id": "https://www.theblock.co/post/170900/crypto-exchange-volumes-surge-amid-the-merge?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Crypto exchange volumes surge amid The Merge",
+          "link": "https://www.theblock.co/post/170900/crypto-exchange-volumes-surge-amid-the-merge?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-09-18T05:00:03.000Z",
+          "wordCount": 64981,
+          "title": "Crypto exchange volumes surge amid The Merge",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_Generic_ETH2.jpg"
+        },
+        {
           "id": "https://fortune.com/2022/09/17/mark-cuban-gen-z-greatest-generation-boomers-disappointing/?utm_source=twitter.com&xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_campaign=fortunemagazine",
           "author": null,
           "description": "Mark Cuban says Gen Z are the real ‘greatest generation’ and boomers are the most ‘disappointing’",
           "link": "https://fortune.com/2022/09/17/mark-cuban-gen-z-greatest-generation-boomers-disappointing/?utm_source=twitter.com&xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_campaign=fortunemagazine",
           "publishedOn": "2022-09-18T03:00:03.000Z",
-          "wordCount": 3199,
+          "wordCount": 3200,
           "title": "Mark Cuban says Gen Z are the real ‘greatest generation’ and boomers are the most ‘disappointing’",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/mark-cuban-GettyImages-1243176869.jpg?resize=1200,600"
         },
@@ -126,16 +146,6 @@
           "imageUrl": "/assets/img/cover/cover.png"
         },
         {
-          "id": "https://future.com/cities-broken-api/",
-          "author": null,
-          "description": "Our Cities Have an API Problem. Startups Can Fix It.",
-          "link": "https://future.com/cities-broken-api/",
-          "publishedOn": "2022-09-18T01:00:02.000Z",
-          "wordCount": 1825,
-          "title": "Our Cities Have an API Problem. Startups Can Fix It.",
-          "imageUrl": "https://future.com/wp-content/uploads/2022/09/SocialShareCard-AmericanCitiesHaveanAPIProblem-FB-1.png"
-        },
-        {
           "id": "https://cryptocurrencyjobs.co/other/world-economic-forum-specialist-blockchain-digital-assets/",
           "author": null,
           "description": "Specialist, Blockchain & Digital Assets at World Economic Forum",
@@ -146,22 +156,12 @@
           "imageUrl": "https://cryptocurrencyjobs.co/startups/assets/logos/world-economic-forum.6ac46fce1e50265ca8496900ff97a1ce5aa24c77893ac8d018a998d22f219153.png"
         },
         {
-          "id": "http://buidl.so/polygon-buidlers-jam-new-york",
-          "author": null,
-          "description": "Polygon Buidler's Jam - New York | Buidl.so",
-          "link": "http://buidl.so/polygon-buidlers-jam-new-york",
-          "publishedOn": "2022-09-17T23:00:02.000Z",
-          "wordCount": 630,
-          "title": "Polygon Buidler's Jam - New York | Buidl.so",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/170896/do-kwon-is-not-in-singapore-according-to-police-reuters?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Do Kwon is not in Singapore, according to police: Reuters",
           "link": "https://www.theblock.co/post/170896/do-kwon-is-not-in-singapore-according-to-police-reuters?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-17T21:00:03.000Z",
-          "wordCount": 65108,
+          "wordCount": 65017,
           "title": "Do Kwon is not in Singapore, according to police: Reuters",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "mevboost.org | MEV-Boost Tracker",
           "link": "https://www.mevboost.org/",
           "publishedOn": "2022-09-17T04:00:06.000Z",
-          "wordCount": 484,
+          "wordCount": 492,
           "title": "mevboost.org | MEV-Boost Tracker",
           "imageUrl": "https://mevboost.org/meta.png"
         }
