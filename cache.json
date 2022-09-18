@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IXez7p1w2zs",
+          "author": null,
+          "description": "DANSU - DO DO DO",
+          "link": "https://www.youtube.com/watch?v=IXez7p1w2zs",
+          "publishedOn": "2022-09-18T09:00:02.000Z",
+          "wordCount": null,
+          "title": "DANSU - DO DO DO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/pallada-92/dna-3d-engine",
+          "author": null,
+          "description": "GitHub - pallada-92/dna-3d-engine: 3d engine implementation in DNA code!",
+          "link": "https://github.com/pallada-92/dna-3d-engine",
+          "publishedOn": "2022-09-18T09:00:02.000Z",
+          "wordCount": 1055,
+          "title": "GitHub - pallada-92/dna-3d-engine: 3d engine implementation in DNA code!",
+          "imageUrl": "https://repository-images.githubusercontent.com/312912498/2906eb80-31f5-11eb-9fef-ac974a66c630"
+        },
+        {
           "id": "https://www.youtube.com/watch?app=desktop&v=zL19uMsnpSU",
           "author": null,
           "description": "Rick Astley Never gonna give you up 12 hour seamless loop",
@@ -41,29 +61,9 @@
           "description": "Cat Sees Bear For the First Time || ViralHog",
           "link": "https://www.youtube.com/shorts/Q2muJHYfmEQ",
           "publishedOn": "2022-09-18T05:00:04.000Z",
-          "wordCount": 1884,
+          "wordCount": 1872,
           "title": "Cat Sees Bear For the First Time || ViralHog",
           "imageUrl": "https://i.ytimg.com/vi/Q2muJHYfmEQ/hq2.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-samarkand-spirit-be-driven-responsible-powers-russia-china",
-          "author": null,
-          "description": "Escobar: 'Samarkand Spirit' To Be Driven By \"Responsible Powers\" Russia & China | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-samarkand-spirit-be-driven-responsible-powers-russia-china",
-          "publishedOn": "2022-09-18T05:00:04.000Z",
-          "wordCount": 4761,
-          "title": "Escobar: 'Samarkand Spirit' To Be Driven By \"Responsible Powers\" Russia & China | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/worlds-most-advanced-humanoid-robot-promises-not-take-over-world",
-          "author": null,
-          "description": "'World's Most Advanced' Humanoid Robot Promises Not To 'Take Over The World'  | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/worlds-most-advanced-humanoid-robot-promises-not-take-over-world",
-          "publishedOn": "2022-09-18T03:30:04.000Z",
-          "wordCount": 747,
-          "title": "'World's Most Advanced' Humanoid Robot Promises Not To 'Take Over The World'  | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://fortune.com/2022/09/17/mark-cuban-gen-z-greatest-generation-boomers-disappointing/?utm_source=twitter.com&xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_campaign=fortunemagazine",
@@ -121,7 +121,7 @@
           "description": "Do Kwon is not in Singapore, according to police: Reuters",
           "link": "https://www.theblock.co/post/170896/do-kwon-is-not-in-singapore-according-to-police-reuters?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-17T21:00:03.000Z",
-          "wordCount": 65522,
+          "wordCount": 65171,
           "title": "Do Kwon is not in Singapore, according to police: Reuters",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "mevboost.org | MEV-Boost Tracker",
           "link": "https://www.mevboost.org/",
           "publishedOn": "2022-09-17T04:00:06.000Z",
-          "wordCount": 501,
+          "wordCount": 496,
           "title": "mevboost.org | MEV-Boost Tracker",
           "imageUrl": "https://mevboost.org/meta.png"
         },
