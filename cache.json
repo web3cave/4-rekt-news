@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wyx6JDQCslE&feature=youtu.be",
+          "author": null,
+          "description": "LMFAO - Sexy and I Know It",
+          "link": "https://www.youtube.com/watch?v=wyx6JDQCslE&feature=youtu.be",
+          "publishedOn": "2022-09-19T07:00:02.000Z",
+          "wordCount": null,
+          "title": "LMFAO - Sexy and I Know It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WKw8406hRc4",
+          "author": null,
+          "description": "The Lord of the Rings The voice of Saruman",
+          "link": "https://www.youtube.com/watch?v=WKw8406hRc4",
+          "publishedOn": "2022-09-19T07:00:02.000Z",
+          "wordCount": null,
+          "title": "The Lord of the Rings The voice of Saruman",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mkfEh_fAgVk&feature=youtu.be",
           "author": null,
           "description": "The Midnight - Kids (reprise)",
@@ -24,6 +44,16 @@
           "wordCount": null,
           "title": "The Midnight - Youth",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.sott.net/article/322679-What-shape-are-photons",
+          "author": null,
+          "description": "What shape are photons? -- Sott.net",
+          "link": "https://www.sott.net/article/322679-What-shape-are-photons",
+          "publishedOn": "2022-09-19T05:30:04.000Z",
+          "wordCount": 3730,
+          "title": "What shape are photons? -- Sott.net",
+          "imageUrl": "https://www.sott.net/image/s16/331946/full/200716_photonhologram_1.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=-7sWLIybWnQ",
@@ -86,16 +116,6 @@
           "imageUrl": "https://opengraph.githubassets.com/ed895161f3721d9e7154c95d2512a52bb24e30fa9c850f17ffbe010628befb05/delegatable/delegatable-sol/pull/9"
         },
         {
-          "id": "https://www.twitch.tv/videos/1594794651",
-          "author": null,
-          "description": "Official SUNDAY Stream - coldbloodedshiller on Twitch",
-          "link": "https://www.twitch.tv/videos/1594794651",
-          "publishedOn": "2022-09-19T05:00:04.000Z",
-          "wordCount": 250,
-          "title": "Official SUNDAY Stream - coldbloodedshiller on Twitch",
-          "imageUrl": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"
-        },
-        {
           "id": "https://www.starlink.com/",
           "author": null,
           "description": "Starlink",
@@ -126,26 +146,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8476f08c-1804-4f18-be00-b0b4f8dd5317_512x512.jpeg"
         },
         {
-          "id": "https://www.scientificamerican.com/article/who-owns-the-ocean-rsquo-s-genes-tension-on-the-high-seas/?utm_source=newsletter&utm_medium=email&utm_campaign=today-in-science&utm_content=link&utm_term=2022-09-12_featured-this-week&spMailingID=72070199&spUserID=NTU5MjEwNzYyNzgxS0&spJobID=2253864745&spReportId=MjI1Mzg2NDc0NQS2",
-          "author": null,
-          "description": "Who Owns the Ocean’s Genes? Tension on the High Seas",
-          "link": "https://www.scientificamerican.com/article/who-owns-the-ocean-rsquo-s-genes-tension-on-the-high-seas/?utm_source=newsletter&utm_medium=email&utm_campaign=today-in-science&utm_content=link&utm_term=2022-09-12_featured-this-week&spMailingID=72070199&spUserID=NTU5MjEwNzYyNzgxS0&spJobID=2253864745&spReportId=MjI1Mzg2NDc0NQS2",
-          "publishedOn": "2022-09-19T03:00:03.000Z",
-          "wordCount": 5140,
-          "title": "Who Owns the Ocean&rsquo;s Genes? Tension on the High Seas",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/C5EDAD18-01A6-4282-A9CA3DA9AA9BF54E.jpg"
-        },
-        {
-          "id": "https://www.robotics247.com/article/uber_eats_to_use_nuro_delivery_robots_in_california_and_texas_as_part_of_10_year_deal?utm_source=Robotics%20247&utm_medium=email&utm_campaign=End-user%20News&oly_enc_id=5234I3744601F6Z",
-          "author": null,
-          "description": "Uber Eats to Use Nuro Delivery Robots in California and Texas as Part of 10-Year Deal",
-          "link": "https://www.robotics247.com/article/uber_eats_to_use_nuro_delivery_robots_in_california_and_texas_as_part_of_10_year_deal?utm_source=Robotics%20247&utm_medium=email&utm_campaign=End-user%20News&oly_enc_id=5234I3744601F6Z",
-          "publishedOn": "2022-09-19T03:00:03.000Z",
-          "wordCount": 3340,
-          "title": "Uber Eats to Use Nuro Delivery Robots in California and Texas as Part of 10-Year Deal",
-          "imageUrl": "https://www.robotics247.com/images/article/Nuro_copy.jpg"
-        },
-        {
           "id": "https://solana.org/tds22",
           "author": null,
           "description": "TdS 22 | Solana: Build crypto apps that scale",
@@ -171,9 +171,9 @@
           "description": "GitHub - cheethas/governor-of-athens: Governor of Athens: A protocol to enable private governance on existing...",
           "link": "https://github.com/cheethas/governor-of-athens",
           "publishedOn": "2022-09-18T21:00:01.000Z",
-          "wordCount": 1143,
+          "wordCount": 1051,
           "title": "GitHub - cheethas/governor-of-athens: Governor of Athens: A protocol to enable private governance on existing...",
-          "imageUrl": "https://opengraph.githubassets.com/b764f95eff4c8fe85127b5de4fe6f086351aa1b0cc8068c178d3840a77bf88a8/cheethas/governor-of-athens"
+          "imageUrl": "https://opengraph.githubassets.com/835a8fdc7e074b4850429adc4906bff260e3141371593c4b692ab61d36eb9ffd/cheethas/governor-of-athens"
         },
         {
           "id": "https://www.youtube.com/watch?v=0sddHG0D0Y4",
