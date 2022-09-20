@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-20T02:29:49.391Z</id>
+    <id>urn:2022-09-20T04:51:07.137Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-20T02:29:49.391Z</updated>
+    <updated>2022-09-20T04:51:07.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Indistinguishable from Magic]]></title>
+        <id>https://www.notboring.co/p/indistinguishable-from-magic</id>
+        <link href="https://www.notboring.co/p/indistinguishable-from-magic"/>
+        <updated>2022-09-20T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Indistinguishable from Magic]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAOs are not corporations: where decentralization in autonomous organizations matters]]></title>
         <id>https://vitalik.eth.limo/general/2022/09/20/daos.html</id>
@@ -191,16 +201,6 @@
         <link href="https://speedrunethereum.com/"/>
         <updated>2022-09-19T06:00:04.000Z</updated>
         <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink]]></title>
-        <id>https://www.starlink.com/</id>
-        <link href="https://www.starlink.com/"/>
-        <updated>2022-09-19T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Starlink]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
