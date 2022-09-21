@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T18:33:11.915Z</id>
+    <id>urn:2022-09-21T19:22:31.162Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-21T18:33:11.915Z</updated>
+    <updated>2022-09-21T19:22:31.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
+        <id>https://www.youtube.com/c/UnchainedPodcast</id>
+        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
+        <updated>2022-09-21T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital bank FV Bank integrates USDC stablecoin for direct deposits]]></title>
         <id>https://cointelegraph.com/news/digital-bank-fv-bank-integrates-usdc-stablecoin-for-direct-deposits</id>
@@ -41,16 +51,6 @@
         <link href="https://fortune.com/crypto/2022/09/21/messari-raises-35m-to-expand-bloomberg-of-crypto-ambitions/"/>
         <updated>2022-09-21T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Messari raises $35M to expand ‘Bloomberg of crypto’ ambitions]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The storytelling tool for work.]]></title>
-        <id>https://beta.tome.app/</id>
-        <link href="https://beta.tome.app/"/>
-        <updated>2022-09-21T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[The storytelling tool for work.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -96,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub - tommyz7/CIP-001]]></title>
+        <id>https://github.com/tommyz7/CIP-001</id>
+        <link href="https://github.com/tommyz7/CIP-001"/>
+        <updated>2022-09-21T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - tommyz7/CIP-001]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Urbit Virtual Machine]]></title>
         <id>https://uvm.network/</id>
         <link href="https://uvm.network/"/>
@@ -136,19 +146,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[PDF] VIV-paper.pdf]]></title>
-        <id>https://volmex.finance/VIV-paper.pdf</id>
-        <link href="https://volmex.finance/VIV-paper.pdf"/>
-        <updated>2022-09-20T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[[PDF] VIV-paper.pdf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Volmex]]></title>
-        <id>https://charts.volmex.finance/</id>
-        <link href="https://charts.volmex.finance/"/>
+        <id>http://charts.volmex.finance/</id>
+        <link href="http://charts.volmex.finance/"/>
         <updated>2022-09-20T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Volmex]]></summary>
         <author>
