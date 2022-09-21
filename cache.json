@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://board.fancyloogies.com/",
+          "author": null,
+          "description": "LoogieBoard",
+          "link": "https://board.fancyloogies.com/",
+          "publishedOn": "2022-09-21T19:30:06.000Z",
+          "wordCount": 43,
+          "title": "LoogieBoard",
+          "imageUrl": "./loogie-board.png"
+        },
+        {
           "id": "https://www.youtube.com/c/UnchainedPodcast",
           "author": null,
           "description": "Unchained Podcast - YouTube",
@@ -21,7 +31,7 @@
           "description": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "link": "https://cointelegraph.com/news/digital-bank-fv-bank-integrates-usdc-stablecoin-for-direct-deposits",
           "publishedOn": "2022-09-21T18:00:05.000Z",
-          "wordCount": 15238,
+          "wordCount": 15212,
           "title": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvNWE0MDEwZTAtNjRlMS00YWFhLWE3NmUtMTQwYzgyNGM4MjUyLmpwZw==.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Banking giant Nomura launches crypto VC unit",
           "link": "https://www.theblock.co/post/171700/banking-giant-nomura-launches-crypto-vc-unit?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-21T17:00:03.000Z",
-          "wordCount": 63316,
+          "wordCount": 62857,
           "title": "Banking giant Nomura launches crypto VC unit",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/10/shutterstock_1233214717-1.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Messari raises $35M to expand ‘Bloomberg of crypto’ ambitions",
           "link": "https://fortune.com/crypto/2022/09/21/messari-raises-35m-to-expand-bloomberg-of-crypto-ambitions/",
           "publishedOn": "2022-09-21T17:00:03.000Z",
-          "wordCount": 3788,
+          "wordCount": 3784,
           "title": "Messari raises $35M to expand ‘Bloomberg of crypto’ ambitions",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/Crypto-Ryan-Selkis.jpg?resize=1200,600"
         },
@@ -81,7 +91,7 @@
           "description": "Venture capitalists are shunning tokens, say veteran crypto investors",
           "link": "https://www.theblock.co/post/171438/venture-capitalists-are-shunning-tokens-say-veteran-crypto-investors?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-21T10:30:04.000Z",
-          "wordCount": 64110,
+          "wordCount": 63651,
           "title": "Venture capitalists are shunning tokens, say veteran crypto investors",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220920_TheScoop_MeltemDemirors_VanessaGrellet_16_x_9_.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "GitHub - tommyz7/CIP-001",
           "link": "https://github.com/tommyz7/CIP-001",
           "publishedOn": "2022-09-21T05:00:03.000Z",
-          "wordCount": 546,
+          "wordCount": 617,
           "title": "GitHub - tommyz7/CIP-001",
           "imageUrl": "https://opengraph.githubassets.com/49348898f4d7ede9a129c0ed2515ce2fbf1997d32c2a8887c54d4239d5dcc699/tommyz7/CIP-001"
         },
@@ -121,7 +131,7 @@
           "description": "Draft stablecoin bill in Congress to require Fed, state regulator approval",
           "link": "https://www.theblock.co/post/171565/draft-stablecoin-bill-in-congress-to-require-fed-state-regulator-approval",
           "publishedOn": "2022-09-21T01:00:02.000Z",
-          "wordCount": 63906,
+          "wordCount": 63433,
           "title": "Draft stablecoin bill in Congress to require Fed, state regulator approval",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201203_Stablecoin_Congress-Daily.png"
         },
@@ -174,16 +184,6 @@
           "wordCount": 2688,
           "title": "Hackers in Arbitrum’s Inbox",
           "imageUrl": "https://miro.medium.com/max/860/1*T17hBu8Xk9SB7341ztulmw.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E0LVeUm3zKY",
-          "author": null,
-          "description": "Is Bitcoin Doomed to Fail? Eric Wall and Justin Bons Face Off - Ep. 398",
-          "link": "https://www.youtube.com/watch?v=E0LVeUm3zKY",
-          "publishedOn": "2022-09-20T13:00:04.000Z",
-          "wordCount": null,
-          "title": "Is Bitcoin Doomed to Fail? Eric Wall and Justin Bons Face Off - Ep. 398",
-          "imageUrl": null
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/09/20/daos.html",
