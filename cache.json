@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ftxfoundation.org/",
+          "author": null,
+          "description": "FTX Foundation – FTX Foundation",
+          "link": "https://ftxfoundation.org/",
+          "publishedOn": "2022-09-21T23:00:03.000Z",
+          "wordCount": 806,
+          "title": "FTX Foundation – FTX Foundation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/markets/2022/09/21/stablecoin-issuer-tether-ordered-to-produce-documents-showing-backing-of-usdt/",
+          "author": null,
+          "description": "Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT",
+          "link": "https://www.coindesk.com/markets/2022/09/21/stablecoin-issuer-tether-ordered-to-produce-documents-showing-backing-of-usdt/",
+          "publishedOn": "2022-09-21T23:00:03.000Z",
+          "wordCount": 7000,
+          "title": "Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT",
+          "imageUrl": "https://www.coindesk.com/resizer/haQMV4nXjWWu8qljp5-rmU4oDEU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A2M6QRVJM5AKLHJFB7JW4O5VQY.png"
+        },
+        {
           "id": "https://www.forbes.com/sites/stevenehrlich/2022/09/21/kraken-ceo-jesse-powell-is-stepping-down/?sh=35b12f834bca",
           "author": null,
           "description": "Kraken CEO Jesse Powell Is Stepping Down",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/09/21/kraken-ceo-jesse-powell-is-stepping-down/?sh=35b12f834bca",
           "publishedOn": "2022-09-21T22:00:05.000Z",
-          "wordCount": 8696,
+          "wordCount": 8547,
           "title": "Kraken CEO Jesse Powell Is Stepping Down",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632b5a124780b1e49de7dacd/0x0.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=27GoypMwuvw&feature=youtu.be",
-          "author": null,
-          "description": "New stablecoin regulation, OpenSea on Arbitrum - The Daily Gwei Refuel #452 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=27GoypMwuvw&feature=youtu.be",
-          "publishedOn": "2022-09-21T21:30:05.000Z",
-          "wordCount": null,
-          "title": "New stablecoin regulation, OpenSea on Arbitrum - The Daily Gwei Refuel #452 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/09/20/daos.html",
@@ -46,6 +56,16 @@
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/Crypto-Kraken-Succession.jpg?resize=1200,600"
         },
         {
+          "id": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
+          "author": null,
+          "description": "CEO of Crypto Exchange Kraken Steps Down",
+          "link": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
+          "publishedOn": "2022-09-21T21:00:02.000Z",
+          "wordCount": 6034,
+          "title": "CEO of Crypto Exchange Kraken Steps Down",
+          "imageUrl": "https://images.wsj.net/im-627494/social"
+        },
+        {
           "id": "https://sound.mirror.xyz/t7GDH8RF6XbHLwbHb_R6QLnDTaln0KdGhExBgul6OXY",
           "author": null,
           "description": "Introducing Sound Protocol",
@@ -54,16 +74,6 @@
           "wordCount": 4345,
           "title": "Introducing Sound Protocol",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/qTnRPL1RleuWNYOLeKygf.png?height=1000&width=2000&h=1000&w=2000&auto=compress"
-        },
-        {
-          "id": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
-          "author": null,
-          "description": "CEO of Crypto Exchange Kraken Steps Down",
-          "link": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
-          "publishedOn": "2022-09-21T21:00:02.000Z",
-          "wordCount": 6030,
-          "title": "CEO of Crypto Exchange Kraken Steps Down",
-          "imageUrl": "https://images.wsj.net/im-627494/social"
         },
         {
           "id": "https://mirror.xyz/devi731.eth/Dy705L0V2MufftJ-x4zgAhfILw2yE18RY0lNsVN3mEA",
@@ -81,9 +91,19 @@
           "description": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "link": "https://cointelegraph.com/news/digital-bank-fv-bank-integrates-usdc-stablecoin-for-direct-deposits",
           "publishedOn": "2022-09-21T18:00:05.000Z",
-          "wordCount": 15234,
+          "wordCount": 15216,
           "title": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvNWE0MDEwZTAtNjRlMS00YWFhLWE3NmUtMTQwYzgyNGM4MjUyLmpwZw==.jpg"
+        },
+        {
+          "id": "https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data",
+          "author": null,
+          "description": "Revealed: U.S. Military Bought Mass Monitoring Tool That Includes Internet Browsing, Email Data",
+          "link": "https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data",
+          "publishedOn": "2022-09-21T18:00:05.000Z",
+          "wordCount": 12108,
+          "title": "Revealed: U.S. Military Bought Mass Monitoring Tool That Includes Internet Browsing, Email Data",
+          "imageUrl": "https://video-images.vice.com/articles/632a21d214808f00b9f9eaca/lede/1663770196248-us-army-computer.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI1eGg7MHh3LDAuMDAwNHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
         },
         {
           "id": "https://www.theblock.co/post/171700/banking-giant-nomura-launches-crypto-vc-unit?utm_source=twitter&utm_medium=social",
@@ -96,16 +116,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/10/shutterstock_1233214717-1.jpg"
         },
         {
-          "id": "https://uxdprotocol.medium.com/asset-liability-management-module-the-endgame-of-stablecoins-20c1c095cc72",
-          "author": null,
-          "description": "Asset Liability Management Module: The Endgame of Stablecoins",
-          "link": "https://uxdprotocol.medium.com/asset-liability-management-module-the-endgame-of-stablecoins-20c1c095cc72",
-          "publishedOn": "2022-09-21T17:00:03.000Z",
-          "wordCount": 3106,
-          "title": "Asset Liability Management Module: The Endgame of Stablecoins",
-          "imageUrl": "https://miro.medium.com/max/1200/1*7W4vRaAOto7OMhOkgTB1Qg.png"
-        },
-        {
           "id": "https://beta.dreamstudio.ai/",
           "author": null,
           "description": "DreamStudio",
@@ -114,16 +124,6 @@
           "wordCount": 34,
           "title": "DreamStudio",
           "imageUrl": null
-        },
-        {
-          "id": "https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran",
-          "author": null,
-          "description": "Куда бежать из России прямо сейчас. Список стран Если есть только паспорт граждан...",
-          "link": "https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran",
-          "publishedOn": "2022-09-21T13:00:03.000Z",
-          "wordCount": 4507,
-          "title": "Куда бежать из России прямо сейчас. Список стран Если есть только паспорт граждан...",
-          "imageUrl": "https://meduza.io/imgly/share/1663761608/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran"
         },
         {
           "id": "https://www.theblock.co/post/171438/venture-capitalists-are-shunning-tokens-say-veteran-crypto-investors?utm_source=twitter&utm_medium=social",
