@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gitcoin.co/grants/",
+          "author": null,
+          "description": "Grants",
+          "link": "https://gitcoin.co/grants/",
+          "publishedOn": "2022-09-22T04:30:03.000Z",
+          "wordCount": 2282,
+          "title": "Grants",
+          "imageUrl": "https://c.gitcoin.co/URL_Thumbnail_1-2.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ud0Dlr-RYBU",
           "author": null,
           "description": "The Chopping Block Live!",
@@ -31,7 +41,7 @@
           "description": "Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT",
           "link": "https://www.coindesk.com/markets/2022/09/21/stablecoin-issuer-tether-ordered-to-produce-documents-showing-backing-of-usdt/",
           "publishedOn": "2022-09-21T23:00:03.000Z",
-          "wordCount": 7006,
+          "wordCount": 7021,
           "title": "Stablecoin Issuer Tether Ordered to Produce Documents Showing Backing of USDT",
           "imageUrl": "https://www.coindesk.com/resizer/haQMV4nXjWWu8qljp5-rmU4oDEU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A2M6QRVJM5AKLHJFB7JW4O5VQY.png"
         },
@@ -61,7 +71,7 @@
           "description": "Jesse Powell, a true crypto OG, just stepped down as CEO of Kraken",
           "link": "https://fortune.com/crypto/2022/09/21/krakens-powell-steps-down-incoming-ceo-says-culture-will-not-change/",
           "publishedOn": "2022-09-21T21:00:02.000Z",
-          "wordCount": 3318,
+          "wordCount": 3319,
           "title": "Jesse Powell, a true crypto OG, just stepped down as CEO of Kraken",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/Crypto-Kraken-Succession.jpg?resize=1200,600"
         },
@@ -71,7 +81,7 @@
           "description": "CEO of Crypto Exchange Kraken Steps Down",
           "link": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
           "publishedOn": "2022-09-21T21:00:02.000Z",
-          "wordCount": 6022,
+          "wordCount": 6027,
           "title": "CEO of Crypto Exchange Kraken Steps Down",
           "imageUrl": "https://images.wsj.net/im-627494/social"
         },
@@ -101,7 +111,7 @@
           "description": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "link": "https://cointelegraph.com/news/digital-bank-fv-bank-integrates-usdc-stablecoin-for-direct-deposits",
           "publishedOn": "2022-09-21T18:00:05.000Z",
-          "wordCount": 15247,
+          "wordCount": 15216,
           "title": "Digital bank FV Bank integrates USDC stablecoin for direct deposits",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvNWE0MDEwZTAtNjRlMS00YWFhLWE3NmUtMTQwYzgyNGM4MjUyLmpwZw==.jpg"
         },
@@ -154,16 +164,6 @@
           "wordCount": 316,
           "title": "Urbit Virtual Machine",
           "imageUrl": null
-        },
-        {
-          "id": "https://devcon.org/bogota",
-          "author": null,
-          "description": "Location — Devcon Bogotá, Oct 11 → 14",
-          "link": "https://devcon.org/bogota",
-          "publishedOn": "2022-09-20T23:30:05.000Z",
-          "wordCount": 6091,
-          "title": "Location — Devcon Bogotá, Oct 11 → 14",
-          "imageUrl": "https://www.devcon.org/assets/images/og-graph.png"
         },
         {
           "id": "https://blog.succinct.xyz/post/2022/09/20/proof-of-consensus",
