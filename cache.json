@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/tornadocash",
+          "author": null,
+          "description": "Tornado Cash",
+          "link": "https://github.com/tornadocash",
+          "publishedOn": "2022-09-22T17:00:03.000Z",
+          "wordCount": 461,
+          "title": "Tornado Cash",
+          "imageUrl": "https://avatars.githubusercontent.com/u/58548030?s=280&v=4"
+        },
+        {
           "id": "https://www.coindesk.com/layer2/2022/09/20/what-are-solarpunk-and-lunarpunk-anyway/",
           "author": null,
           "description": "What Are Solarpunk and Lunarpunk Anyway?",
           "link": "https://www.coindesk.com/layer2/2022/09/20/what-are-solarpunk-and-lunarpunk-anyway/",
           "publishedOn": "2022-09-22T16:30:05.000Z",
-          "wordCount": 10163,
+          "wordCount": 10129,
           "title": "What Are Solarpunk and Lunarpunk Anyway?",
           "imageUrl": "https://www.coindesk.com/resizer/rUBu26krnYWYheofn3sQdrdpiUM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TA6CWB3BBNA5LFZZZBNRKMFQ5A.jpg"
         },
@@ -26,22 +36,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://board.fancyloogies.com/",
-          "author": null,
-          "description": "LoogieBoard",
-          "link": "https://board.fancyloogies.com/",
-          "publishedOn": "2022-09-22T10:00:05.000Z",
-          "wordCount": 43,
-          "title": "LoogieBoard",
-          "imageUrl": "./loogie-board.png"
-        },
-        {
           "id": "https://petkanics.medium.com/web3s-missing-killer-social-media-app-609292b3e882",
           "author": null,
           "description": "Web3’s Missing Killer Social Media App",
           "link": "https://petkanics.medium.com/web3s-missing-killer-social-media-app-609292b3e882",
           "publishedOn": "2022-09-22T09:30:05.000Z",
-          "wordCount": 6137,
+          "wordCount": 6134,
           "title": "Web3’s Missing Killer Social Media App",
           "imageUrl": "https://miro.medium.com/max/600/1*_SD67gyrCRbVH6Vsz9jWXw.png"
         },
@@ -91,7 +91,7 @@
           "description": "Banks in Lebanon to remain closed until further notice",
           "link": "https://today.lorientlejour.com/article/1312264/banks-in-lebanon-to-remain-closed-until-further-notice.html",
           "publishedOn": "2022-09-22T01:30:04.000Z",
-          "wordCount": 1573,
+          "wordCount": 1578,
           "title": "Banks in Lebanon to remain closed until further notice",
           "imageUrl": "https://s.lorientlejour.com/storage/attachments/1313/264824_734109.jpg/r/800/264824_734109.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "Kraken CEO Jesse Powell Is Stepping Down",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/09/21/kraken-ceo-jesse-powell-is-stepping-down/?sh=35b12f834bca",
           "publishedOn": "2022-09-21T22:00:05.000Z",
-          "wordCount": 9079,
+          "wordCount": 8727,
           "title": "Kraken CEO Jesse Powell Is Stepping Down",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632b5a124780b1e49de7dacd/0x0.jpg?format=jpg&width=1200"
         },
@@ -141,7 +141,7 @@
           "description": "Jesse Powell, a true crypto OG, just stepped down as CEO of Kraken",
           "link": "https://fortune.com/crypto/2022/09/21/krakens-powell-steps-down-incoming-ceo-says-culture-will-not-change/",
           "publishedOn": "2022-09-21T21:00:02.000Z",
-          "wordCount": 3325,
+          "wordCount": 3328,
           "title": "Jesse Powell, a true crypto OG, just stepped down as CEO of Kraken",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/Crypto-Kraken-Succession.jpg?resize=1200,600"
         },
@@ -151,7 +151,7 @@
           "description": "CEO of Crypto Exchange Kraken Steps Down",
           "link": "https://www.wsj.com/articles/ceo-of-crypto-exchange-kraken-steps-down-11663778989",
           "publishedOn": "2022-09-21T21:00:02.000Z",
-          "wordCount": 6030,
+          "wordCount": 6040,
           "title": "CEO of Crypto Exchange Kraken Steps Down",
           "imageUrl": "https://images.wsj.net/im-627494/social"
         },
@@ -176,14 +176,14 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/Nl9aqHLuvBH0b-htjbwus.jpg?height=1200&width=2400&h=1200&w=2400&auto=compress"
         },
         {
-          "id": "https://www.youtube.com/c/UnchainedPodcast",
+          "id": "https://openai.com/blog/whisper/",
           "author": null,
-          "description": "Unchained Podcast - YouTube",
-          "link": "https://www.youtube.com/c/UnchainedPodcast",
+          "description": "Introducing Whisper",
+          "link": "https://openai.com/blog/whisper/",
           "publishedOn": "2022-09-21T19:00:02.000Z",
-          "wordCount": 7468,
-          "title": "Unchained Podcast - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
+          "wordCount": 1935,
+          "title": "Introducing Whisper",
+          "imageUrl": "https://openai.com/content/images/2022/09/social.png"
         },
         {
           "id": "https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data",

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T16:35:48.461Z</id>
+    <id>urn:2022-09-22T17:34:06.646Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T16:35:48.461Z</updated>
+    <updated>2022-09-22T17:34:06.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tornado Cash]]></title>
+        <id>https://github.com/tornadocash</id>
+        <link href="https://github.com/tornadocash"/>
+        <updated>2022-09-22T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Cash]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Are Solarpunk and Lunarpunk Anyway?]]></title>
         <id>https://www.coindesk.com/layer2/2022/09/20/what-are-solarpunk-and-lunarpunk-anyway/</id>
@@ -21,16 +31,6 @@
         <link href="https://tomtunguz.com/state-of-crypto-2022-dunecon/"/>
         <updated>2022-09-22T15:30:06.000Z</updated>
         <summary type="html"><![CDATA[The State of Web3 in 2022 through Data by @ttunguz]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LoogieBoard]]></title>
-        <id>https://board.fancyloogies.com/</id>
-        <link href="https://board.fancyloogies.com/"/>
-        <updated>2022-09-22T10:00:05.000Z</updated>
-        <summary type="html"><![CDATA[LoogieBoard]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -176,11 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
-        <id>https://www.youtube.com/c/UnchainedPodcast</id>
-        <link href="https://www.youtube.com/c/UnchainedPodcast"/>
+        <title type="html"><![CDATA[Introducing Whisper]]></title>
+        <id>https://openai.com/blog/whisper/</id>
+        <link href="https://openai.com/blog/whisper/"/>
         <updated>2022-09-21T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Unchained Podcast - YouTube]]></summary>
+        <summary type="html"><![CDATA[Introducing Whisper]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
