@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-22T06:06:15.334Z</id>
+    <id>urn:2022-09-22T07:38:02.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-22T06:06:15.334Z</updated>
+    <updated>2022-09-22T07:38:02.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Flashbots Collective]]></title>
+        <id>https://collective.flashbots.net/</id>
+        <link href="https://collective.flashbots.net/"/>
+        <updated>2022-09-22T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The Flashbots Collective]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grants]]></title>
         <id>https://gitcoin.co/grants/</id>
@@ -141,16 +151,6 @@
         <link href="https://beta.dreamstudio.ai/"/>
         <updated>2022-09-21T14:00:05.000Z</updated>
         <summary type="html"><![CDATA[DreamStudio]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Куда бежать из России прямо сейчас. Список стран Если есть только паспорт граждан...]]></title>
-        <id>https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran</id>
-        <link href="https://meduza.io/feature/2022/09/21/kuda-bezhat-iz-rossii-pryamo-seychas-spisok-stran"/>
-        <updated>2022-09-21T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Куда бежать из России прямо сейчас. Список стран Если есть только паспорт граждан...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
