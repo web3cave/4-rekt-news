@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://stripe.com/newsroom/stories/braintrust-crypto-payouts",
+          "author": null,
+          "description": "Expanding access to the future of work with crypto payouts",
+          "link": "https://stripe.com/newsroom/stories/braintrust-crypto-payouts",
+          "publishedOn": "2022-09-22T19:00:03.000Z",
+          "wordCount": 1306,
+          "title": "Expanding access to the future of work with crypto payouts",
+          "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/4RHD69H8B17slPvj32jcew/d4d46690ca9cbd22daaa58200e2218d9/braintrust-crypto-payouts__1_.jpg?q=80"
+        },
+        {
+          "id": "https://blog.coinbase.com/coinbase-cloud-launches-platform-for-web3-developers-472eb355b1fa?gi=e87850fbbd7d",
+          "author": null,
+          "description": "Coinbase Cloud launches platform for web3 developers",
+          "link": "https://blog.coinbase.com/coinbase-cloud-launches-platform-for-web3-developers-472eb355b1fa?gi=e87850fbbd7d",
+          "publishedOn": "2022-09-22T18:30:02.000Z",
+          "wordCount": 2641,
+          "title": "Coinbase Cloud launches platform for web3 developers",
+          "imageUrl": "https://miro.medium.com/max/1200/0*JSwFq78qQ_V_mbk0"
+        },
+        {
           "id": "https://www.nature.com/articles/d41586-022-02999-9?utm_medium=Social&utm_campaign=nature&utm_source=Twitter&error=cookies_not_supported&code=79e8fe1b-9715-49f2-b4c2-c8b34eda3976",
           "author": null,
           "description": "AlphaFold developers win US$3-million Breakthrough Prize",
           "link": "https://www.nature.com/articles/d41586-022-02999-9?utm_medium=Social&utm_campaign=nature&utm_source=Twitter&error=cookies_not_supported&code=79e8fe1b-9715-49f2-b4c2-c8b34eda3976",
           "publishedOn": "2022-09-22T18:00:06.000Z",
-          "wordCount": 3123,
+          "wordCount": 3119,
           "title": "AlphaFold developers win US$3-million Breakthrough Prize",
           "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-022-02999-9/d41586-022-02999-9_23522066.jpg"
         },
@@ -31,19 +51,9 @@
           "description": "What Are Solarpunk and Lunarpunk Anyway?",
           "link": "https://www.coindesk.com/layer2/2022/09/20/what-are-solarpunk-and-lunarpunk-anyway/",
           "publishedOn": "2022-09-22T16:30:05.000Z",
-          "wordCount": 10151,
+          "wordCount": 10225,
           "title": "What Are Solarpunk and Lunarpunk Anyway?",
           "imageUrl": "https://www.coindesk.com/resizer/rUBu26krnYWYheofn3sQdrdpiUM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TA6CWB3BBNA5LFZZZBNRKMFQ5A.jpg"
-        },
-        {
-          "id": "https://tomtunguz.com/state-of-crypto-2022-dunecon/",
-          "author": null,
-          "description": "The State of Web3 in 2022 through Data by @ttunguz",
-          "link": "https://tomtunguz.com/state-of-crypto-2022-dunecon/",
-          "publishedOn": "2022-09-22T15:30:06.000Z",
-          "wordCount": 619,
-          "title": "The State of Web3 in 2022 through Data by @ttunguz",
-          "imageUrl": null
         },
         {
           "id": "https://petkanics.medium.com/web3s-missing-killer-social-media-app-609292b3e882",
@@ -51,7 +61,7 @@
           "description": "Web3’s Missing Killer Social Media App",
           "link": "https://petkanics.medium.com/web3s-missing-killer-social-media-app-609292b3e882",
           "publishedOn": "2022-09-22T09:30:05.000Z",
-          "wordCount": 6134,
+          "wordCount": 6472,
           "title": "Web3’s Missing Killer Social Media App",
           "imageUrl": "https://miro.medium.com/max/600/1*_SD67gyrCRbVH6Vsz9jWXw.png"
         },
@@ -131,7 +141,7 @@
           "description": "Kraken CEO Jesse Powell Is Stepping Down",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/09/21/kraken-ceo-jesse-powell-is-stepping-down/?sh=35b12f834bca",
           "publishedOn": "2022-09-21T22:00:05.000Z",
-          "wordCount": 10089,
+          "wordCount": 8696,
           "title": "Kraken CEO Jesse Powell Is Stepping Down",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632b5a124780b1e49de7dacd/0x0.jpg?format=jpg&width=1200"
         },
@@ -194,16 +204,6 @@
           "wordCount": 12108,
           "title": "Revealed: U.S. Military Bought Mass Monitoring Tool That Includes Internet Browsing, Email Data",
           "imageUrl": "https://video-images.vice.com/articles/632a21d214808f00b9f9eaca/lede/1663770196248-us-army-computer.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI1eGg7MHh3LDAuMDAwNHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-        },
-        {
-          "id": "https://qql.art/",
-          "author": null,
-          "description": "QQL",
-          "link": "https://qql.art/",
-          "publishedOn": "2022-09-19T21:00:02.000Z",
-          "wordCount": 31,
-          "title": "QQL",
-          "imageUrl": "https://qql.art/qql-social.png"
         }
       ]
     }
