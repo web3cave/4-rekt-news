@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://esp.ethereum.foundation/merge-data-challenge",
-          "author": null,
-          "description": "The Merge data challenge | Ethereum Foundation ESP",
-          "link": "https://esp.ethereum.foundation/merge-data-challenge",
-          "publishedOn": "2022-09-22T20:00:06.000Z",
-          "wordCount": 1381,
-          "title": "The Merge data challenge | Ethereum Foundation ESP",
-          "imageUrl": "https://esp.ethereum.foundation/images/merge-data-challenge-hero.jpeg"
-        },
-        {
           "id": "https://stripe.com/newsroom/stories/braintrust-crypto-payouts",
           "author": null,
           "description": "Expanding access to the future of work with crypto payouts",
@@ -24,6 +14,16 @@
           "wordCount": 1306,
           "title": "Expanding access to the future of work with crypto payouts",
           "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/4RHD69H8B17slPvj32jcew/d4d46690ca9cbd22daaa58200e2218d9/braintrust-crypto-payouts__1_.jpg?q=80"
+        },
+        {
+          "id": "https://marginalrevolution.com/marginalrevolution/2022/09/the-end-of-history-of-philosophy.html",
+          "author": null,
+          "description": "The End of History (of Philosophy) - Marginal REVOLUTION",
+          "link": "https://marginalrevolution.com/marginalrevolution/2022/09/the-end-of-history-of-philosophy.html",
+          "publishedOn": "2022-09-22T19:00:03.000Z",
+          "wordCount": 1945,
+          "title": "The End of History (of Philosophy) - Marginal REVOLUTION",
+          "imageUrl": "http://marginalrevolution.com/wp-content/uploads/2022/09/plato-200x300.jpg"
         },
         {
           "id": "https://blog.coinbase.com/coinbase-cloud-launches-platform-for-web3-developers-472eb355b1fa?gi=e87850fbbd7d",
@@ -71,7 +71,7 @@
           "description": "What Are Solarpunk and Lunarpunk Anyway?",
           "link": "https://www.coindesk.com/layer2/2022/09/20/what-are-solarpunk-and-lunarpunk-anyway/",
           "publishedOn": "2022-09-22T16:30:05.000Z",
-          "wordCount": 10299,
+          "wordCount": 9446,
           "title": "What Are Solarpunk and Lunarpunk Anyway?",
           "imageUrl": "https://www.coindesk.com/resizer/rUBu26krnYWYheofn3sQdrdpiUM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TA6CWB3BBNA5LFZZZBNRKMFQ5A.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "Coinbase Tested Group to Speculate on Crypto",
           "link": "https://www.wsj.com/articles/coinbase-tested-group-to-speculate-on-crypto-11663806157",
           "publishedOn": "2022-09-22T15:00:02.000Z",
-          "wordCount": 6706,
+          "wordCount": 6709,
           "title": "Coinbase Tested Group to Speculate on Crypto",
           "imageUrl": "https://images.wsj.net/im-614511/social"
         },
@@ -114,6 +114,16 @@
           "wordCount": 185,
           "title": "The Flashbots Collective",
           "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
+        },
+        {
+          "id": "https://github.com/smartcontracts/simple-optimism-node",
+          "author": null,
+          "description": "GitHub - smartcontracts/simple-optimism-node: The easiest way to run an Optimism node",
+          "link": "https://github.com/smartcontracts/simple-optimism-node",
+          "publishedOn": "2022-09-22T07:00:02.000Z",
+          "wordCount": 1675,
+          "title": "GitHub - smartcontracts/simple-optimism-node: The easiest way to run an Optimism node",
+          "imageUrl": "https://opengraph.githubassets.com/7f5fd58fea60497b460306af87ac624eb22d2d321308eae3d82a6c38e217ab0f/smartcontracts/simple-optimism-node"
         },
         {
           "id": "https://reason.com/2022/09/21/russians-are-fleeing-the-threat-of-conscription/",
@@ -156,24 +166,14 @@
           "imageUrl": "https://s.lorientlejour.com/storage/attachments/1313/264824_734109.jpg/r/800/264824_734109.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=Ud0Dlr-RYBU",
+          "id": "https://www.businessinsider.com/goldman-sachs-david-solomon-dj-brand-plane-2022-9",
           "author": null,
-          "description": "The Chopping Block Live!",
-          "link": "https://www.youtube.com/watch?v=Ud0Dlr-RYBU",
-          "publishedOn": "2022-09-22T01:00:03.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block Live!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://newsletter.tally.xyz/p/hello-nounsbuilder?r=zfebf&s=w&utm_campaign=post&utm_medium=web",
-          "author": null,
-          "description": "Hello NounsBuilder!",
-          "link": "https://newsletter.tally.xyz/p/hello-nounsbuilder?r=zfebf&s=w&utm_campaign=post&utm_medium=web",
-          "publishedOn": "2022-09-21T23:00:03.000Z",
-          "wordCount": 2481,
-          "title": "Hello NounsBuilder!",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62c699f4-60d0-40db-ad3e-b69fa6b9f5b0_600x425.png"
+          "description": "Goldman Sachs insiders say they are concerned about CEO David Solomon's push to build his personal brand, pointing to...",
+          "link": "https://www.businessinsider.com/goldman-sachs-david-solomon-dj-brand-plane-2022-9",
+          "publishedOn": "2022-09-22T01:30:04.000Z",
+          "wordCount": 6844,
+          "title": "Goldman Sachs insiders say they are concerned about CEO David Solomon's push to build his personal brand, pointing to...",
+          "imageUrl": "https://i.insider.com/6328ac024f9291001883b144?width=1200&format=jpeg"
         },
         {
           "id": "https://fortune.com/crypto/2022/09/21/krakens-powell-steps-down-incoming-ceo-says-culture-will-not-change/",
