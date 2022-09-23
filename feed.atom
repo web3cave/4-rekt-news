@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T16:37:20.995Z</id>
+    <id>urn:2022-09-23T17:35:03.987Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T16:37:20.995Z</updated>
+    <updated>2022-09-23T17:35:03.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization?utm_source=twitter&amp;utm_medium=social"/>
         <updated>2022-09-23T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[CFTC files lawsuit against decentralized autonomous organization]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] liquid-staking-report.pdf]]></title>
+        <id>https://mirror.chorus.one/liquid-staking-report.pdf</id>
+        <link href="https://mirror.chorus.one/liquid-staking-report.pdf"/>
+        <updated>2022-09-23T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] liquid-staking-report.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,16 +131,6 @@
         <link href="https://defillama.com/yields/halal"/>
         <updated>2022-09-22T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - messari/subgraphs: Standardized subgraphs for blockchain data]]></title>
-        <id>https://github.com/messari/subgraphs</id>
-        <link href="https://github.com/messari/subgraphs"/>
-        <updated>2022-09-22T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - messari/subgraphs: Standardized subgraphs for blockchain data]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
