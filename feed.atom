@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T11:21:14.200Z</id>
+    <id>urn:2022-09-23T12:49:01.971Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T11:21:14.200Z</updated>
+    <updated>2022-09-23T12:49:01.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://samyakdixit.substack.com/p/indians-will-one-day-be-the-largest?sd=pf"/>
         <updated>2022-09-23T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Indians will one day be the largest English-speaking population on the Internet. What will we have to say to the world?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></title>
+        <id>http://mumble.net/~jar/pubs/secureos/secureos.html</id>
+        <link href="http://mumble.net/~jar/pubs/secureos/secureos.html"/>
+        <updated>2022-09-23T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://github.com/tornadocash"/>
         <updated>2022-09-22T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Tornado Cash]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grants]]></title>
-        <id>https://gitcoin.co/grants/</id>
-        <link href="https://gitcoin.co/grants/"/>
-        <updated>2022-09-22T04:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Grants]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
