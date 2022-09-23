@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://mumble.net/~jar/pubs/secureos/secureos.html",
+          "author": null,
+          "description": "Emergent Technologies Inc. -- Security Kernel",
+          "link": "http://mumble.net/~jar/pubs/secureos/secureos.html",
+          "publishedOn": "2022-09-23T06:00:05.000Z",
+          "wordCount": 15237,
+          "title": "Emergent Technologies Inc. -- Security Kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "CFTC files lawsuit against decentralized autonomous organization",
           "link": "https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-23T05:00:03.000Z",
-          "wordCount": 65789,
+          "wordCount": 65163,
           "title": "CFTC files lawsuit against decentralized autonomous organization",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Snippets",
           "link": "https://cryptohayes.medium.com/snippets-6eebdee2b069",
           "publishedOn": "2022-09-23T04:00:08.000Z",
-          "wordCount": 8327,
+          "wordCount": 8307,
           "title": "Snippets",
           "imageUrl": "https://miro.medium.com/max/400/0*nSD9gIHEchZfONbD"
         },
@@ -81,7 +91,7 @@
           "description": "Angelbaby Owner Hume Lands $11.7 Million To Create, Promote Virtual Music ‘Metastars’",
           "link": "https://www.forbes.com/sites/dbloom/2022/09/22/angelbaby-owner-hume-lands-117-million-to-create-promote-virtual-music-metastars/",
           "publishedOn": "2022-09-23T01:00:03.000Z",
-          "wordCount": 10223,
+          "wordCount": 10222,
           "title": "Angelbaby Owner Hume Lands $11.7 Million To Create, Promote Virtual Music ‘Metastars’",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632ca4100cd552896bdd5384/0x0.jpg?format=jpg&width=1200"
         },
@@ -101,7 +111,7 @@
           "description": "GitHub - messari/subgraphs: Standardized subgraphs for blockchain data",
           "link": "https://github.com/messari/subgraphs",
           "publishedOn": "2022-09-22T23:00:03.000Z",
-          "wordCount": 1344,
+          "wordCount": 1104,
           "title": "GitHub - messari/subgraphs: Standardized subgraphs for blockchain data",
           "imageUrl": "https://opengraph.githubassets.com/aaf24dba5682f129cf3b07fb14962df44ba27587df1fa000d81facf5c2fbacdc/messari/subgraphs"
         },
@@ -111,9 +121,9 @@
           "description": "rage-router/RageRouter.sol at main · kalidao/rage-router",
           "link": "https://github.com/kalidao/rage-router/blob/main/src/RageRouter.sol",
           "publishedOn": "2022-09-22T23:00:02.000Z",
-          "wordCount": 806,
+          "wordCount": 793,
           "title": "rage-router/RageRouter.sol at main · kalidao/rage-router",
-          "imageUrl": "https://opengraph.githubassets.com/87a3cbde5960f7d58207103d6edb6650faae16c0ba896d6d4b9ca71fbd6a7afd/kalidao/rage-router"
+          "imageUrl": "https://opengraph.githubassets.com/f7dcf5c38801e22bdcec7e3d3a55dd98312a6b3501f21481473204295a998cf3/kalidao/rage-router"
         },
         {
           "id": "https://transparency.flashbots.net/",
@@ -184,16 +194,6 @@
           "wordCount": 461,
           "title": "Tornado Cash",
           "imageUrl": "https://avatars.githubusercontent.com/u/58548030?s=280&v=4"
-        },
-        {
-          "id": "https://tomtunguz.com/state-of-crypto-2022-dunecon/",
-          "author": null,
-          "description": "The State of Web3 in 2022 through Data by @ttunguz",
-          "link": "https://tomtunguz.com/state-of-crypto-2022-dunecon/",
-          "publishedOn": "2022-09-22T15:30:06.000Z",
-          "wordCount": 619,
-          "title": "The State of Web3 in 2022 through Data by @ttunguz",
-          "imageUrl": null
         },
         {
           "id": "https://gitcoin.co/grants/",

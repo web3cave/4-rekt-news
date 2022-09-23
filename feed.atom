@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T07:39:41.005Z</id>
+    <id>urn:2022-09-23T08:31:23.204Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-23T07:39:41.005Z</updated>
+    <updated>2022-09-23T08:31:23.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></title>
+        <id>http://mumble.net/~jar/pubs/secureos/secureos.html</id>
+        <link href="http://mumble.net/~jar/pubs/secureos/secureos.html"/>
+        <updated>2022-09-23T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC files lawsuit against decentralized autonomous organization]]></title>
         <id>https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization?utm_source=twitter&amp;utm_medium=social</id>
@@ -181,16 +191,6 @@
         <link href="https://github.com/tornadocash"/>
         <updated>2022-09-22T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Tornado Cash]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of Web3 in 2022 through Data by @ttunguz]]></title>
-        <id>https://tomtunguz.com/state-of-crypto-2022-dunecon/</id>
-        <link href="https://tomtunguz.com/state-of-crypto-2022-dunecon/"/>
-        <updated>2022-09-22T15:30:06.000Z</updated>
-        <summary type="html"><![CDATA[The State of Web3 in 2022 through Data by @ttunguz]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
