@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://defillama.com/yields/halal",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/yields/halal",
+          "publishedOn": "2022-09-23T18:30:04.000Z",
+          "wordCount": 940,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/09/23/ethereum-merge-vastly-increased-stakefishs-profile-but-25-of-its-employees-are-gone-anyway/?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=headlines",
           "author": null,
           "description": "Ethereum Merge Vastly Increased Stakefish’s Profile, but 25% of Its Employees Are Gone Anyway",
           "link": "https://www.coindesk.com/business/2022/09/23/ethereum-merge-vastly-increased-stakefishs-profile-but-25-of-its-employees-are-gone-anyway/?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=headlines",
           "publishedOn": "2022-09-23T15:00:02.000Z",
-          "wordCount": 8309,
+          "wordCount": 8325,
           "title": "Ethereum Merge Vastly Increased Stakefish’s Profile, but 25% of Its Employees Are Gone Anyway",
           "imageUrl": "https://www.coindesk.com/resizer/yfBvh2DbDDpWTAWi1lUIdryBNr0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/S3W4R3TN5ZFCJBI5XRAP5LWTDY.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "[Discussion] Safe DAO Resource Allocation Model (OBRA)",
           "link": "https://forum.gnosis-safe.io/t/discussion-safe-dao-resource-allocation-model-obra/1001",
           "publishedOn": "2022-09-23T14:00:05.000Z",
-          "wordCount": 3237,
+          "wordCount": 3614,
           "title": "[Discussion] Safe DAO Resource Allocation Model (OBRA)",
           "imageUrl": "https://aws1.discourse-cdn.com/standard20/uploads/gnosis_safe/optimized/1X/ab66ec2e77e09d03e10d091ebc6e3bc0e3b89daf_2_1024x858.jpeg"
         },
@@ -51,7 +61,7 @@
           "description": "CFTC files lawsuit against decentralized autonomous organization",
           "link": "https://www.theblock.co/post/172274/cftc-files-lawsuit-against-decentralized-autonomous-organization?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-23T05:00:03.000Z",
-          "wordCount": 65497,
+          "wordCount": 66126,
           "title": "CFTC files lawsuit against decentralized autonomous organization",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200630_CFTC-Daily.jpg"
         },
@@ -121,19 +131,9 @@
           "description": "Angelbaby Owner Hume Lands $11.7 Million To Create, Promote Virtual Music ‘Metastars’",
           "link": "https://www.forbes.com/sites/dbloom/2022/09/22/angelbaby-owner-hume-lands-117-million-to-create-promote-virtual-music-metastars/",
           "publishedOn": "2022-09-23T01:00:03.000Z",
-          "wordCount": 9958,
+          "wordCount": 9934,
           "title": "Angelbaby Owner Hume Lands $11.7 Million To Create, Promote Virtual Music ‘Metastars’",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632ca4100cd552896bdd5384/0x0.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://defillama.com/yields/halal",
-          "author": null,
-          "description": "DefiLlama",
-          "link": "https://defillama.com/yields/halal",
-          "publishedOn": "2022-09-22T23:00:03.000Z",
-          "wordCount": 940,
-          "title": "DefiLlama",
-          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://github.com/kalidao/rage-router/blob/main/src/RageRouter.sol",
@@ -141,19 +141,9 @@
           "description": "rage-router/RageRouter.sol at main · kalidao/rage-router",
           "link": "https://github.com/kalidao/rage-router/blob/main/src/RageRouter.sol",
           "publishedOn": "2022-09-22T23:00:02.000Z",
-          "wordCount": 793,
+          "wordCount": 806,
           "title": "rage-router/RageRouter.sol at main · kalidao/rage-router",
           "imageUrl": "https://opengraph.githubassets.com/efa105ff7a1ff4c8f3680c350d68bbe1c77a70f3a43c7ab6d45a2f6ff8eac498/kalidao/rage-router"
-        },
-        {
-          "id": "https://transparency.flashbots.net/",
-          "author": null,
-          "description": "Transparency dashboard",
-          "link": "https://transparency.flashbots.net/",
-          "publishedOn": "2022-09-22T23:00:02.000Z",
-          "wordCount": 44,
-          "title": "Transparency dashboard",
-          "imageUrl": null
         },
         {
           "id": "https://variant.fund/articles/hyperlane-and-the-bridge-to-a-multichain-future/",
@@ -174,6 +164,16 @@
           "wordCount": 8361,
           "title": "The Appchain Universe: The Risks and Opportunities",
           "imageUrl": "https://miro.medium.com/max/1033/0*qfffwwaGpaJm_WG5"
+        },
+        {
+          "id": "https://www.lumenprize.com/?utm_content=222122322&utm_medium=social&utm_source=twitter&hss_channel=tw-1486737250826211340",
+          "author": null,
+          "description": "Lumen Prize • The Award for Art and Technology",
+          "link": "https://www.lumenprize.com/?utm_content=222122322&utm_medium=social&utm_source=twitter&hss_channel=tw-1486737250826211340",
+          "publishedOn": "2022-09-22T23:00:02.000Z",
+          "wordCount": 9111,
+          "title": "Lumen Prize • The Award for Art and Technology",
+          "imageUrl": "http://static1.squarespace.com/static/5f60a71007b83749e747639c/t/607e856521a94a5fa7ee059b/1618492492609/1_vzHE7pZ71RL-jX4j1yIgXg.jpeg?format=1500w"
         },
         {
           "id": "https://faucet.paradigm.xyz/",
