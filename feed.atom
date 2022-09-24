@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-24T04:43:57.937Z</id>
+    <id>urn:2022-09-24T05:47:07.289Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-24T04:43:57.937Z</updated>
+    <updated>2022-09-24T05:47:07.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Delphi Digital]]></title>
+        <id>https://members.delphidigital.io/reports/cosmos-the-evolution-of-ibc</id>
+        <link href="https://members.delphidigital.io/reports/cosmos-the-evolution-of-ibc"/>
+        <updated>2022-09-24T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Delphi Digital]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: Update seeds inference to allow nested user defined structs as part of the seeds by ChewingGlass · Pull Request...]]></title>
+        <id>https://github.com/coral-xyz/anchor/pull/2198</id>
+        <link href="https://github.com/coral-xyz/anchor/pull/2198"/>
+        <updated>2022-09-24T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[feat: Update seeds inference to allow nested user defined structs as part of the seeds by ChewingGlass · Pull Request...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Isokratia - dust-nib]]></title>
         <id>https://nibnalin.me/dust-nib/isokratia.html</id>
@@ -106,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Merge Vastly Increased Stakefish’s Profile, but 25% of Its Employees Are Gone Anyway]]></title>
-        <id>https://www.coindesk.com/business/2022/09/23/ethereum-merge-vastly-increased-stakefishs-profile-but-25-of-its-employees-are-gone-anyway/?utm_medium=twitter&amp;utm_source=dlvr.it&amp;utm_campaign=headlines</id>
-        <link href="https://www.coindesk.com/business/2022/09/23/ethereum-merge-vastly-increased-stakefishs-profile-but-25-of-its-employees-are-gone-anyway/?utm_medium=twitter&amp;utm_source=dlvr.it&amp;utm_campaign=headlines"/>
-        <updated>2022-09-23T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Merge Vastly Increased Stakefish’s Profile, but 25% of Its Employees Are Gone Anyway]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[Discussion] Safe DAO Resource Allocation Model (OBRA)]]></title>
         <id>https://forum.gnosis-safe.io/t/discussion-safe-dao-resource-allocation-model-obra/1001</id>
         <link href="https://forum.gnosis-safe.io/t/discussion-safe-dao-resource-allocation-model-obra/1001"/>
@@ -151,16 +161,6 @@
         <link href="https://www.reddit.com/r/bsv/comments/xlilzv/fresh_from_oslo_kpmg_report_into_craig_wrights/"/>
         <updated>2022-09-23T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[r/bsv - Fresh from Oslo: KPMG report into Craig Wright's submitted evidence]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></title>
-        <id>http://mumble.net/~jar/pubs/secureos/secureos.html</id>
-        <link href="http://mumble.net/~jar/pubs/secureos/secureos.html"/>
-        <updated>2022-09-23T06:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Emergent Technologies Inc. -- Security Kernel]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
