@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.thecryptoacademy.io/",
+          "author": null,
+          "description": "The Crypto Academy",
+          "link": "https://www.thecryptoacademy.io/",
+          "publishedOn": "2022-09-24T16:00:07.000Z",
+          "wordCount": 1566,
+          "title": "The Crypto Academy",
+          "imageUrl": "https://global-uploads.webflow.com/61612fd1e3a9ccaa7dad058b/621e2d9c921d63ad152d8705_Pomp%20Crypto%20Academy%20Social%20Share.png"
+        },
+        {
           "id": "https://www.forbes.com/sites/caitlinlong/2022/09/23/banks-are-about-to-face-the-same-tsunami-that-hit-telecom-twenty-years-ago/?sh=d62891c7a7a8",
           "author": null,
           "description": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
@@ -16,12 +26,22 @@
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632e32df76c1d775ae355aeb/0x0.jpg?format=jpg&width=1200"
         },
         {
+          "id": "https://signal.org/blog/run-a-proxy/",
+          "author": null,
+          "description": "Help people in Iran reconnect to Signal – a request to our community",
+          "link": "https://signal.org/blog/run-a-proxy/",
+          "publishedOn": "2022-09-24T11:00:02.000Z",
+          "wordCount": 1039,
+          "title": "Help people in Iran reconnect to Signal – a request to our community",
+          "imageUrl": "https://signal.org/assets/og/og-image-ff2096df535eee499356de64b19fa8cebb9681ab1e78cca7330e7f8b8d5ec6d5.png"
+        },
+        {
           "id": "https://finance.yahoo.com/news/kapital-dao-leader-web3-gaming-215500165.html?.tsrc=fin-srch",
           "author": null,
           "description": "Kapital DAO, The Leader in Web3 Gaming Asset Management Tech, Announces Funding Support From Web3 Leaders Including...",
           "link": "https://finance.yahoo.com/news/kapital-dao-leader-web3-gaming-215500165.html?.tsrc=fin-srch",
           "publishedOn": "2022-09-24T09:00:02.000Z",
-          "wordCount": 14686,
+          "wordCount": 14663,
           "title": "Kapital DAO, The Leader in Web3 Gaming Asset Management Tech, Announces Funding Support From Web3 Leaders Including...",
           "imageUrl": "https://s.yimg.com/uu/api/res/1.2/Yx2p1Hn8C50QGlXeODWXbw--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/50b47b26bd702a5f6d2bcc88ed4a83bf"
         },
@@ -41,7 +61,7 @@
           "description": "California 'BitLicense' Bill Vetoed by Governor Gavin Newsom",
           "link": "https://www.coindesk.com/policy/2022/09/24/california-bitlicense-bill-vetoed-by-governor-gavin-newsom/",
           "publishedOn": "2022-09-24T05:00:02.000Z",
-          "wordCount": 7487,
+          "wordCount": 7450,
           "title": "California 'BitLicense' Bill Vetoed by Governor Gavin Newsom",
           "imageUrl": "https://www.coindesk.com/resizer/4UcwyYJSStJ0qB01uulclhqxHFs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLFMLUTELVCWRGLEJ2COSQNMJA.jpg"
         },
@@ -116,26 +136,6 @@
           "imageUrl": "https://nounlets.wtf/img/noun.jpg"
         },
         {
-          "id": "https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/how-to-invest-in-web3-324K",
-          "author": null,
-          "description": "How To Invest in Web3 | Real Vision",
-          "link": "https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/how-to-invest-in-web3-324K",
-          "publishedOn": "2022-09-23T19:00:02.000Z",
-          "wordCount": 5229,
-          "title": "How To Invest in Web3 | Real Vision",
-          "imageUrl": "https://ichef.realvision.com/2a6dfb7f593e4952a3d4d305f1997ad8/hero"
-        },
-        {
-          "id": "https://farcaster.vercel.app/?username=dwr",
-          "author": null,
-          "description": "Anycaster",
-          "link": "https://farcaster.vercel.app/?username=dwr",
-          "publishedOn": "2022-09-23T19:00:02.000Z",
-          "wordCount": 28,
-          "title": "Anycaster",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/",
           "author": null,
           "description": "Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich.",
@@ -153,7 +153,7 @@
           "publishedOn": "2022-09-23T19:00:02.000Z",
           "wordCount": 712,
           "title": "GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.",
-          "imageUrl": "https://opengraph.githubassets.com/a3030766802ee3cd8ba0cbf39748d3acd5bfb9629d27497599179bd08916a059/ethereum/kzg-ceremony"
+          "imageUrl": "https://opengraph.githubassets.com/f1584b08f29c958665f63bfaa2b8ae74f57e89eec9781dc46a8d6b73f288b6de/ethereum/kzg-ceremony"
         },
         {
           "id": "https://www.reddit.com/r/bsv/comments/xlilzv/fresh_from_oslo_kpmg_report_into_craig_wrights/",
