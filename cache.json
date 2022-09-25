@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://www.paulgraham.com/startuplessons.html",
+          "author": null,
+          "description": "The Hardest Lessons for Startups to Learn",
+          "link": "http://www.paulgraham.com/startuplessons.html",
+          "publishedOn": "2022-09-25T06:30:02.000Z",
+          "wordCount": 4929,
+          "title": "The Hardest Lessons for Startups to Learn",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/california-legalizes-human-composting",
           "author": null,
           "description": "California Legalizes 'Human Composting' | ZeroHedge",
@@ -121,7 +131,7 @@
           "description": "You're not good at this. - The Reformed Broker",
           "link": "https://thereformedbroker.com/2022/09/23/youre-not-good-at-this/",
           "publishedOn": "2022-09-24T22:00:04.000Z",
-          "wordCount": 1368,
+          "wordCount": 1366,
           "title": "You're not good at this. - The Reformed Broker",
           "imageUrl": "https://thereformedbroker.com/wp-content/uploads/2020/07/Josh_Banner_Twitter_005.jpg"
         },
@@ -151,7 +161,7 @@
           "description": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "link": "https://www.forbes.com/sites/caitlinlong/2022/09/23/banks-are-about-to-face-the-same-tsunami-that-hit-telecom-twenty-years-ago/?sh=d62891c7a7a8",
           "publishedOn": "2022-09-24T11:30:06.000Z",
-          "wordCount": 10733,
+          "wordCount": 10350,
           "title": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632e32df76c1d775ae355aeb/0x0.jpg?format=jpg&width=1200"
         },
@@ -194,16 +204,6 @@
           "wordCount": 1499,
           "title": "How Apple’s App Store Policies Squeeze NFT Startups",
           "imageUrl": "https://tii.imgix.net/production/articles/8757/ec059c40-24d7-4bc6-8bed-be29e1e139dc.png?fm=jpg&auto=compress&w=1200&frame=0"
-        },
-        {
-          "id": "https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/",
-          "author": null,
-          "description": "Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich.",
-          "link": "https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/",
-          "publishedOn": "2022-09-23T19:00:02.000Z",
-          "wordCount": 12275,
-          "title": "Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich.",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632c77e7a0178a9e03355ac7/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         }
       ]
     }
