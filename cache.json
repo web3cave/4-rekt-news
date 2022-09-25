@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=K2ku1A5Ox8U&feature=youtu.be",
+          "author": null,
+          "description": "Blame it on MT.GOX",
+          "link": "https://www.youtube.com/watch?v=K2ku1A5Ox8U&feature=youtu.be",
+          "publishedOn": "2022-09-25T03:30:05.000Z",
+          "wordCount": null,
+          "title": "Blame it on MT.GOX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/multipolar-world-order-part-1",
+          "author": null,
+          "description": "Multipolar World Order – Part 1 | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/multipolar-world-order-part-1",
+          "publishedOn": "2022-09-25T03:00:02.000Z",
+          "wordCount": 11896,
+          "title": "Multipolar World Order – Part 1 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.paulgraham.com/startuplessons.html",
           "author": null,
           "description": "The Hardest Lessons for Startups to Learn",
@@ -13,6 +33,16 @@
           "publishedOn": "2022-09-25T02:00:04.000Z",
           "wordCount": 4929,
           "title": "The Hardest Lessons for Startups to Learn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/planned-parenthood-stealth-edits-website-match-stacey-abrams-heartbeat-claim",
+          "author": null,
+          "description": "Planned Parenthood Stealth-Edits Website To Match Stacey Abrams 'Heartbeat' Claim | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/planned-parenthood-stealth-edits-website-match-stacey-abrams-heartbeat-claim",
+          "publishedOn": "2022-09-25T02:00:04.000Z",
+          "wordCount": 1222,
+          "title": "Planned Parenthood Stealth-Edits Website To Match Stacey Abrams 'Heartbeat' Claim | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -46,26 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/technology/smartphones-role-dumbing-down-america-0",
-          "author": null,
-          "description": "The Smartphone's Role In Dumbing Down America  | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/smartphones-role-dumbing-down-america-0",
-          "publishedOn": "2022-09-25T01:00:03.000Z",
-          "wordCount": 2957,
-          "title": "The Smartphone's Role In Dumbing Down America  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/chinas-zombie-housing-market-could-persist-due-plunging-number-marriages-country",
-          "author": null,
-          "description": "China's \"Zombie\" Housing Market  Could Persist Due To Lack Of Marriages | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/chinas-zombie-housing-market-could-persist-due-plunging-number-marriages-country",
-          "publishedOn": "2022-09-25T01:00:03.000Z",
-          "wordCount": 968,
-          "title": "China's \"Zombie\" Housing Market  Could Persist Due To Lack Of Marriages | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.cosmos.network/cosmos-history-inception-to-prelaunch-b05bcb6a4b2b?gi=6f51077fc371",
           "author": null,
           "description": "Cosmos History — Inception to PreLaunch",
@@ -81,7 +91,7 @@
           "description": "Disney hiring transaction lawyer for 'aggressive' NFT and DeFi plans",
           "link": "https://www.theblock.co/post/172654/disney-hiring-transaction-lawyer-for-aggressive-nft-and-defi-plans-linkedin-post",
           "publishedOn": "2022-09-24T23:00:04.000Z",
-          "wordCount": 60714,
+          "wordCount": 60711,
           "title": "Disney hiring transaction lawyer for 'aggressive' NFT and DeFi plans",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210903_Valuing_NFts.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "You're not good at this. - The Reformed Broker",
           "link": "https://thereformedbroker.com/2022/09/23/youre-not-good-at-this/",
           "publishedOn": "2022-09-24T22:00:04.000Z",
-          "wordCount": 1353,
+          "wordCount": 1355,
           "title": "You're not good at this. - The Reformed Broker",
           "imageUrl": "https://thereformedbroker.com/wp-content/uploads/2020/07/Josh_Banner_Twitter_005.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "link": "https://www.forbes.com/sites/caitlinlong/2022/09/23/banks-are-about-to-face-the-same-tsunami-that-hit-telecom-twenty-years-ago/?sh=d62891c7a7a8",
           "publishedOn": "2022-09-24T11:30:06.000Z",
-          "wordCount": 10350,
+          "wordCount": 10286,
           "title": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632e32df76c1d775ae355aeb/0x0.jpg?format=jpg&width=1200"
         },
@@ -176,22 +186,12 @@
           "imageUrl": "https://www.coindesk.com/resizer/4UcwyYJSStJ0qB01uulclhqxHFs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLFMLUTELVCWRGLEJ2COSQNMJA.jpg"
         },
         {
-          "id": "https://github.com/coral-xyz/anchor/pull/2198",
-          "author": null,
-          "description": "feat: Update seeds inference to allow nested user defined structs as part of the seeds by ChewingGlass · Pull Request...",
-          "link": "https://github.com/coral-xyz/anchor/pull/2198",
-          "publishedOn": "2022-09-24T05:00:02.000Z",
-          "wordCount": 798,
-          "title": "feat: Update seeds inference to allow nested user defined structs as part of the seeds by ChewingGlass · Pull Request...",
-          "imageUrl": "https://opengraph.githubassets.com/6f584ccc357e2a9c7b5b63883b1664d37f12a13a9a2bce39aaa55e9cd7d3110a/coral-xyz/anchor/pull/2198"
-        },
-        {
           "id": "https://www.theinformation.com/articles/how-apples-app-store-policies-squeeze-nft-startups",
           "author": null,
           "description": "How Apple’s App Store Policies Squeeze NFT Startups",
           "link": "https://www.theinformation.com/articles/how-apples-app-store-policies-squeeze-nft-startups",
           "publishedOn": "2022-09-23T21:30:05.000Z",
-          "wordCount": 1520,
+          "wordCount": 1499,
           "title": "How Apple’s App Store Policies Squeeze NFT Startups",
           "imageUrl": "https://tii.imgix.net/production/articles/8757/ec059c40-24d7-4bc6-8bed-be29e1e139dc.png?fm=jpg&auto=compress&w=1200&frame=0"
         },
@@ -201,7 +201,7 @@
           "description": "Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich.",
           "link": "https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/",
           "publishedOn": "2022-09-23T19:00:02.000Z",
-          "wordCount": 12108,
+          "wordCount": 12275,
           "title": "Crypto Darling Helium Promised A ‘People’s Network.’ Instead, Its Executives Got Rich.",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632c77e7a0178a9e03355ac7/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         }
