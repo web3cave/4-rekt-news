@@ -6,14 +6,84 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://bogota.ethglobal.com/",
+          "id": "https://www.moneyandstate.com/blog/letter-to-ross-ulbricht",
           "author": null,
-          "description": "ETHBogota (Oct 7-9, 2022) - Join us at Ethereum Devcon",
-          "link": "https://bogota.ethglobal.com/",
-          "publishedOn": "2022-09-25T15:00:03.000Z",
-          "wordCount": 48,
-          "title": "ETHBogota (Oct 7-9, 2022) - Join us at Ethereum Devcon",
-          "imageUrl": "https://bogota.ethglobal.com/img/bogota-og.jpg?v=2.0.0"
+          "description": "Letter to Ross Ulbricht — Money and State",
+          "link": "https://www.moneyandstate.com/blog/letter-to-ross-ulbricht",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 9387,
+          "title": "Letter to Ross Ulbricht — Money and State",
+          "imageUrl": "http://static1.squarespace.com/static/6251a742ad352744a3b43dbc/t/63305dd6ccac263b458cefc0/1664114138290/Perspective_Ross_Ulbricht_Drawing_Thumbnail-.jpeg?format=1500w"
+        },
+        {
+          "id": "https://agoric.com/about/",
+          "author": null,
+          "description": "Our Story - Agoric",
+          "link": "https://agoric.com/about/",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 2494,
+          "title": "Our Story - Agoric",
+          "imageUrl": "https://agoric.com/wp-content/themes/agoric_2021_theme/assets/og_image.png"
+        },
+        {
+          "id": "https://github.com/LeastAuthority/ethereum-analyses/blob/master/GasEcon.md#case-study-the-crowfunding-contract-example",
+          "author": null,
+          "description": "ethereum-analyses/GasEcon.md at master · LeastAuthority/ethereum-analyses",
+          "link": "https://github.com/LeastAuthority/ethereum-analyses/blob/master/GasEcon.md#case-study-the-crowfunding-contract-example",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 11794,
+          "title": "ethereum-analyses/GasEcon.md at master · LeastAuthority/ethereum-analyses",
+          "imageUrl": "https://opengraph.githubassets.com/dac317ff616e30f36584cf23f664852c2cf3f86513f5a3f7398123bf59b101ab/LeastAuthority/ethereum-analyses"
+        },
+        {
+          "id": "https://nouns.wtf/",
+          "author": null,
+          "description": "Nouns DAO",
+          "link": "https://nouns.wtf/",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 61,
+          "title": "Nouns DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.intothebytecode.xyz/pedro-walletconnect/",
+          "author": null,
+          "description": "Pedro Gomes: WalletConnect v2, account abstraction, and building a communications protocol",
+          "link": "https://www.intothebytecode.xyz/pedro-walletconnect/",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 10951,
+          "title": "Pedro Gomes: WalletConnect v2, account abstraction, and building a communications protocol",
+          "imageUrl": "https://podpage.imgix.net/https%3A%2F%2Fimages.transistor.fm%2Ffile%2Ftransistor%2Fimages%2Fepisode%2F984971%2Ffull_1660249471-artwork.jpg?fill=blur&fit=fill&h=628&w=1200&s=2c14d5abe26755b3e8c7b7d7d7189ba8"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/nyc-open-humanitarian-emergency-centers-serve-illegal-immigrants-bused-border-states",
+          "author": null,
+          "description": "NYC To Open 'Humanitarian Emergency Centers' To Serve Illegal Immigrants Bused From Border States | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/nyc-open-humanitarian-emergency-centers-serve-illegal-immigrants-bused-border-states",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 1378,
+          "title": "NYC To Open 'Humanitarian Emergency Centers' To Serve Illegal Immigrants Bused From Border States | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/2022-2030-transformation-or-stagnation",
+          "author": null,
+          "description": "2022-2030: Transformation Or Stagnation? | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/2022-2030-transformation-or-stagnation",
+          "publishedOn": "2022-09-25T17:00:04.000Z",
+          "wordCount": 2302,
+          "title": "2022-2030: Transformation Or Stagnation? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.marsprotocol.io/blog/introducing-mars-v2",
+          "author": null,
+          "description": "Introducing Mars v2",
+          "link": "https://blog.marsprotocol.io/blog/introducing-mars-v2",
+          "publishedOn": "2022-09-25T17:00:03.000Z",
+          "wordCount": 2372,
+          "title": "Introducing Mars v2",
+          "imageUrl": "https://uploads-ssl.webflow.com/63236e6e462b87596329c577/632f4ad4cbcc8dd31ece226a_marsv2.jpg"
         },
         {
           "id": "https://axie.substack.com/p/axie-esports-grant-3-160000-axs",
@@ -24,76 +94,6 @@
           "wordCount": 2889,
           "title": "Axie Esports Grant 3: 160,000 AXS!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F061cb591-9bdc-4bb6-81d3-2740a2ddee10_1600x900.png"
-        },
-        {
-          "id": "https://ethereum-magicians.org/",
-          "author": null,
-          "description": "Fellowship of Ethereum Magicians",
-          "link": "https://ethereum-magicians.org/",
-          "publishedOn": "2022-09-25T15:00:03.000Z",
-          "wordCount": 472,
-          "title": "Fellowship of Ethereum Magicians",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/commodities/london-banks-prepare-possible-blackouts",
-          "author": null,
-          "description": "London Banks Prepare For Possible Blackouts | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/london-banks-prepare-possible-blackouts",
-          "publishedOn": "2022-09-25T15:00:03.000Z",
-          "wordCount": 867,
-          "title": "London Banks Prepare For Possible Blackouts | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/commodities/europes-energy-crisis-will-not-be-one-winter-story",
-          "author": null,
-          "description": "Europe's Energy Crisis Will Not Be \"A One Winter Story\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/europes-energy-crisis-will-not-be-one-winter-story",
-          "publishedOn": "2022-09-25T15:00:03.000Z",
-          "wordCount": 954,
-          "title": "Europe's Energy Crisis Will Not Be \"A One Winter Story\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/finland-shuts-borders-russia-military-age-men-flee",
-          "author": null,
-          "description": "Finland Shuts Borders With Russia As Military Age Men Flee | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/finland-shuts-borders-russia-military-age-men-flee",
-          "publishedOn": "2022-09-25T14:00:04.000Z",
-          "wordCount": 990,
-          "title": "Finland Shuts Borders With Russia As Military Age Men Flee | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/ruthless-king-charles-permanently-exile-prince-harry",
-          "author": null,
-          "description": "'Ruthless' King Charles To 'Permanently Exile' Prince Harry | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/ruthless-king-charles-permanently-exile-prince-harry",
-          "publishedOn": "2022-09-25T13:00:03.000Z",
-          "wordCount": 2014,
-          "title": "'Ruthless' King Charles To 'Permanently Exile' Prince Harry | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bitcointalk.org/index.php?topic=887636.0",
-          "author": null,
-          "description": "Worlds first crypto-currency with \"Reversible Transactions\" - Reversecoin",
-          "link": "https://bitcointalk.org/index.php?topic=887636.0",
-          "publishedOn": "2022-09-25T13:00:03.000Z",
-          "wordCount": 5849,
-          "title": "Worlds first crypto-currency with \"Reversible Transactions\" - Reversecoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/democracy-dies-eu-von-der-leyen-reveals-its-sins",
-          "author": null,
-          "description": "As Democracy Dies In The EU, Von Der Leyen Reveals Its Sins | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/democracy-dies-eu-von-der-leyen-reveals-its-sins",
-          "publishedOn": "2022-09-25T12:00:03.000Z",
-          "wordCount": 4625,
-          "title": "As Democracy Dies In The EU, Von Der Leyen Reveals Its Sins | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://polynya.mirror.xyz/ARsT1Anpqrj88LRGRE5n5gNpb_CeG9Azy8mvDBv8deE",
@@ -171,19 +171,19 @@
           "description": "You're not good at this. - The Reformed Broker",
           "link": "https://thereformedbroker.com/2022/09/23/youre-not-good-at-this/",
           "publishedOn": "2022-09-24T22:00:04.000Z",
-          "wordCount": 1360,
+          "wordCount": 1367,
           "title": "You're not good at this. - The Reformed Broker",
           "imageUrl": "https://thereformedbroker.com/wp-content/uploads/2020/07/Josh_Banner_Twitter_005.jpg"
         },
         {
-          "id": "https://unchainedpodcast.com/the-chopping-block-why-eth-dumped-so-hard-after-the-merge-ep-400/",
+          "id": "https://www.youtube.com/watch?v=ZHqlMTVrNQo",
           "author": null,
           "description": "The Chopping Block: Why ETH Dumped So Hard After the Merge - Ep. 400",
-          "link": "https://unchainedpodcast.com/the-chopping-block-why-eth-dumped-so-hard-after-the-merge-ep-400/",
+          "link": "https://www.youtube.com/watch?v=ZHqlMTVrNQo",
           "publishedOn": "2022-09-24T17:00:02.000Z",
-          "wordCount": 12098,
+          "wordCount": null,
           "title": "The Chopping Block: Why ETH Dumped So Hard After the Merge - Ep. 400",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/09/UN400-Social.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.forbes.com/sites/caitlinlong/2022/09/23/banks-are-about-to-face-the-same-tsunami-that-hit-telecom-twenty-years-ago/?sh=d62891c7a7a8",
@@ -191,7 +191,7 @@
           "description": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "link": "https://www.forbes.com/sites/caitlinlong/2022/09/23/banks-are-about-to-face-the-same-tsunami-that-hit-telecom-twenty-years-ago/?sh=d62891c7a7a8",
           "publishedOn": "2022-09-24T11:30:06.000Z",
-          "wordCount": 10286,
+          "wordCount": 10350,
           "title": "Banks Are About To Face The Same Tsunami That Hit Telecom Twenty Years Ago",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/632e32df76c1d775ae355aeb/0x0.jpg?format=jpg&width=1200"
         },
