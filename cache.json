@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Fe2VAD2olnI&feature=youtu.be",
+          "author": null,
+          "description": "Reversible transactions, KZG Ceremony and more - The Daily Gwei Refuel #455 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=Fe2VAD2olnI&feature=youtu.be",
+          "publishedOn": "2022-09-26T17:00:02.000Z",
+          "wordCount": null,
+          "title": "Reversible transactions, KZG Ceremony and more - The Daily Gwei Refuel #455 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.polkadot.network/t/calling-polkadot-core-developers/506",
+          "author": null,
+          "description": "Calling Polkadot Core Developers",
+          "link": "https://forum.polkadot.network/t/calling-polkadot-core-developers/506",
+          "publishedOn": "2022-09-26T17:00:02.000Z",
+          "wordCount": 420,
+          "title": "Calling Polkadot Core Developers",
+          "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/polkadot2/original/1X/6ea9950aed34af4aa14a3bbe5ce85549b54278a1.svg"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/sterling-crisis-look-unpalatable-policy-options",
+          "author": null,
+          "description": "Here Are The Seven Policy Options To Address The Sterling Crisis | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/sterling-crisis-look-unpalatable-policy-options",
+          "publishedOn": "2022-09-26T17:00:02.000Z",
+          "wordCount": 2978,
+          "title": "Here Are The Seven Policy Options To Address The Sterling Crisis | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://launch.mirror.xyz/z5epJtQDpnD37YsN2B0MSwl2gXEqFSqfWWq5hKJlxhA",
+          "author": null,
+          "description": "W3P: n00b wallets",
+          "link": "https://launch.mirror.xyz/z5epJtQDpnD37YsN2B0MSwl2gXEqFSqfWWq5hKJlxhA",
+          "publishedOn": "2022-09-26T17:00:01.000Z",
+          "wordCount": 1152,
+          "title": "W3P: n00b wallets",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/HP81xnv5iMRkMS7WJ1f_J.png?h=256&w=256"
+        },
+        {
+          "id": "https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf",
+          "author": null,
+          "description": "[PDF] manifesto/manifesto.pdf at main · polkadot-fellows/manifesto",
+          "link": "https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf",
+          "publishedOn": "2022-09-26T17:00:01.000Z",
+          "wordCount": 355,
+          "title": "[PDF] manifesto/manifesto.pdf at main · polkadot-fellows/manifesto",
+          "imageUrl": "https://opengraph.githubassets.com/17ac0c6ff7a784f6c236ee36e4d58664a64d9819b45efb2db3c56c8f0009fe09/polkadot-fellows/manifesto"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/friday-was-highest-put-option-volume-session-history",
           "author": null,
           "description": "Friday Was The Highest Put Option Volume Session In History | ZeroHedge",
@@ -13,26 +63,6 @@
           "publishedOn": "2022-09-26T16:00:04.000Z",
           "wordCount": 1521,
           "title": "Friday Was The Highest Put Option Volume Session In History | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/tchir-braking-breaking-broken-broke",
-          "author": null,
-          "description": "Tchir: Braking, Breaking, Broken, Broke | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/tchir-braking-breaking-broken-broke",
-          "publishedOn": "2022-09-26T16:00:04.000Z",
-          "wordCount": 4467,
-          "title": "Tchir: Braking, Breaking, Broken, Broke | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lQFKMar4x-w&feature=youtu.be",
-          "author": null,
-          "description": "Toots and the Maytals - Take Me Home Country Roads",
-          "link": "https://www.youtube.com/watch?v=lQFKMar4x-w&feature=youtu.be",
-          "publishedOn": "2022-09-26T16:00:04.000Z",
-          "wordCount": null,
-          "title": "Toots and the Maytals - Take Me Home Country Roads",
           "imageUrl": null
         },
         {
@@ -56,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/key-events-week-pce-durables-and-barrage-fed-speakers",
-          "author": null,
-          "description": "Key Events This Week: PCE, Durables And A Barrage Of Fed Speakers | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/key-events-week-pce-durables-and-barrage-fed-speakers",
-          "publishedOn": "2022-09-26T15:30:04.000Z",
-          "wordCount": 6547,
-          "title": "Key Events This Week: PCE, Durables And A Barrage Of Fed Speakers | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.binance.com/en/support/announcement/4769eab576c4479eaa14adc1eb587226?ref=AZTKZ9XS&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial",
           "author": null,
           "description": "Binance to Implement Terra Classic (LUNC) Burn Mechanism on Trading Fees | Binance Support",
@@ -84,26 +104,6 @@
           "wordCount": 1497,
           "title": "PHILIPPINE WEB3 FESTIVAL",
           "imageUrl": "https://i.ibb.co/5MqSPnv/tumbs-min.png"
-        },
-        {
-          "id": "https://www.ft.com/content/c5dd6c35-d3e2-4602-a8e4-54266990cfd3",
-          "author": null,
-          "description": "Crypto industry is not as ethical as private equity, says buyout billionaire",
-          "link": "https://www.ft.com/content/c5dd6c35-d3e2-4602-a8e4-54266990cfd3",
-          "publishedOn": "2022-09-26T15:00:03.000Z",
-          "wordCount": 2513,
-          "title": "Crypto industry is not as ethical as private equity, says buyout billionaire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.newhere.xyz/",
-          "author": null,
-          "description": "New Here",
-          "link": "https://www.newhere.xyz/",
-          "publishedOn": "2022-09-26T11:00:03.000Z",
-          "wordCount": 4296,
-          "title": "New Here",
-          "imageUrl": "https://www.newhere.xyz/nouns.png"
         },
         {
           "id": "https://doingud.com/manifesto",
@@ -141,7 +141,7 @@
           "description": "GitHub - daoleno/lenskit: lens protocol kit",
           "link": "https://github.com/daoleno/lenskit",
           "publishedOn": "2022-09-26T01:30:06.000Z",
-          "wordCount": 454,
+          "wordCount": 574,
           "title": "GitHub - daoleno/lenskit: lens protocol kit",
           "imageUrl": "https://opengraph.githubassets.com/989a34effa88e4cfe001ce680985e554b0ae5bf3110ee4fb638c3bbc53f01cb8/daoleno/lenskit"
         },
@@ -171,7 +171,7 @@
           "description": "Terrifying Charts…",
           "link": "https://www.getrevue.co/profile/raoulgmi/issues/terrifying-charts-1378373",
           "publishedOn": "2022-09-25T21:30:04.000Z",
-          "wordCount": 1467,
+          "wordCount": 1790,
           "title": "Terrifying Charts…",
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/605/684/original/issue_image_1378373.jpg?1664138470"
         },
@@ -191,7 +191,7 @@
           "description": "Red love, for all",
           "link": "https://www.newstatesman.com/international-politics/ideas-international-politics/2022/09/abolish-family",
           "publishedOn": "2022-09-25T17:30:03.000Z",
-          "wordCount": 3537,
+          "wordCount": 3541,
           "title": "Red love, for all",
           "imageUrl": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/09/The_New_Statesman_FinalIllustration.jpg"
         },
