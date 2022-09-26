@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/1405.7907",
+          "author": null,
+          "description": "Many Worlds, the Born Rule, and Self-Locating Uncertainty",
+          "link": "https://arxiv.org/abs/1405.7907",
+          "publishedOn": "2022-09-26T11:00:03.000Z",
+          "wordCount": 740,
+          "title": "Many Worlds, the Born Rule, and Self-Locating Uncertainty",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/global-water-crisis-could-crush-energy-industry",
           "author": null,
           "description": "The Global Water Crisis Could Crush The Energy Industry | ZeroHedge",
@@ -23,26 +33,6 @@
           "publishedOn": "2022-09-26T09:30:05.000Z",
           "wordCount": 569,
           "title": "Europe Is Facing A Dementia Problem | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/europes-first-cold-snap-begins-next-week-amid-worsening-energy-crisis",
-          "author": null,
-          "description": "Europe's First Cold Snap Begins This Week Amid Worsening Energy Crisis | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/europes-first-cold-snap-begins-next-week-amid-worsening-energy-crisis",
-          "publishedOn": "2022-09-26T08:00:04.000Z",
-          "wordCount": 1030,
-          "title": "Europe's First Cold Snap Begins This Week Amid Worsening Energy Crisis | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/cardano/comments/90z3zw/why_isnt_cardano_written_on_the_ethereum_protocol/",
-          "author": null,
-          "description": "r/cardano - Why isn't Cardano written on the Ethereum protocol?",
-          "link": "https://www.reddit.com/r/cardano/comments/90z3zw/why_isnt_cardano_written_on_the_ethereum_protocol/",
-          "publishedOn": "2022-09-26T07:00:02.000Z",
-          "wordCount": 32442,
-          "title": "r/cardano - Why isn't Cardano written on the Ethereum protocol?",
           "imageUrl": null
         },
         {
@@ -81,9 +71,9 @@
           "description": "GitHub - daoleno/lenskit: lens protocol kit",
           "link": "https://github.com/daoleno/lenskit",
           "publishedOn": "2022-09-26T01:30:06.000Z",
-          "wordCount": 574,
+          "wordCount": 486,
           "title": "GitHub - daoleno/lenskit: lens protocol kit",
-          "imageUrl": "https://opengraph.githubassets.com/19ce062bb666fc4c2886ee49d5a939e612fd4a87e1bf365172924eaeb71e88b5/daoleno/lenskit"
+          "imageUrl": "https://opengraph.githubassets.com/a7c9609ce382e2997f0276e3164c45a6ccd35948fef75b7e4fd94e857bfd7253/daoleno/lenskit"
         },
         {
           "id": "https://blog.chainalysis.com/reports/2022-global-crypto-adoption-index/",
@@ -156,6 +146,16 @@
           "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/3bbd3b2/2147483647/strip/true/crop/6410x3365+0+504/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fef%2Fed%2Fb13f219746bbb5e4f5d73dd63dd1%2Fla-photos-1staff-la-photos-1staff-749689-me-0407-bev-hills-vault-cmh-03.JPG"
         },
         {
+          "id": "https://github.com/bgd-labs/aave-token-v3/blob/certora/certora/report/Formal%20Verification%20Report%20of%20AAVE%20Token%20V3.pdf",
+          "author": null,
+          "description": "[PDF] aave-token-v3/Formal Verification Report of AAVE Token V3.pdf at certora · bgd-labs/aave-token-v3",
+          "link": "https://github.com/bgd-labs/aave-token-v3/blob/certora/certora/report/Formal%20Verification%20Report%20of%20AAVE%20Token%20V3.pdf",
+          "publishedOn": "2022-09-25T17:30:03.000Z",
+          "wordCount": 368,
+          "title": "[PDF] aave-token-v3/Formal Verification Report of AAVE Token V3.pdf at certora · bgd-labs/aave-token-v3",
+          "imageUrl": "https://opengraph.githubassets.com/0eb4e5f877d9393dcbf67cc2f3781076daefb92b378d5fb08fa0dff4400630f5/bgd-labs/aave-token-v3"
+        },
+        {
           "id": "https://blog.marsprotocol.io/blog/introducing-mars-v2",
           "author": null,
           "description": "Introducing Mars v2",
@@ -191,7 +191,7 @@
           "description": "Disney hiring transaction lawyer for 'aggressive' NFT and DeFi plans",
           "link": "https://www.theblock.co/post/172654/disney-hiring-transaction-lawyer-for-aggressive-nft-and-defi-plans-linkedin-post",
           "publishedOn": "2022-09-24T23:00:04.000Z",
-          "wordCount": 60133,
+          "wordCount": 60490,
           "title": "Disney hiring transaction lawyer for 'aggressive' NFT and DeFi plans",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210903_Valuing_NFts.jpg"
         },
