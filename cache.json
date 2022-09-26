@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://doingud.com/manifesto",
+          "author": null,
+          "description": "DoinGud: NFTs empowering meaningful creation",
+          "link": "https://doingud.com/manifesto",
+          "publishedOn": "2022-09-26T04:30:03.000Z",
+          "wordCount": 2178,
+          "title": "DoinGud: NFTs empowering meaningful creation",
+          "imageUrl": "https://image.doingud.com/d67fAP-7IToKyGLLO6UErH8zrvDlg5OvqvJrLbdj3YA/resize:fill:800:0:0/quality:75/aHR0cHM6Ly9pLmliYi5jby9Cd24wU1B2L2RnLW9nLmpwZw"
+        },
+        {
+          "id": "https://wagmi.sh/",
+          "author": null,
+          "description": "wagmi: React Hooks for Ethereum",
+          "link": "https://wagmi.sh/",
+          "publishedOn": "2022-09-26T04:30:03.000Z",
+          "wordCount": 428,
+          "title": "wagmi: React Hooks for Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scholar.google.com/citations?user=PuP2INoAAAAJ&hl=en",
+          "author": null,
+          "description": "Mark S. Miller",
+          "link": "https://scholar.google.com/citations?user=PuP2INoAAAAJ&hl=en",
+          "publishedOn": "2022-09-26T03:00:04.000Z",
+          "wordCount": 3059,
+          "title": "Mark S. Miller",
+          "imageUrl": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=PuP2INoAAAAJ&citpid=2"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/culture-war-erupts-texas-town-over-drag-bingo-event-hosted-christian-church",
+          "author": null,
+          "description": "Culture War Erupts In Texas Town Over Drag Bingo Event Hosted By Christian Church | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/culture-war-erupts-texas-town-over-drag-bingo-event-hosted-christian-church",
+          "publishedOn": "2022-09-26T03:00:04.000Z",
+          "wordCount": 1994,
+          "title": "Culture War Erupts In Texas Town Over Drag Bingo Event Hosted By Christian Church | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/pound-flash-crashes-500-pips-record-low-amid-global-fx-carnage",
+          "author": null,
+          "description": "Pound Flash Crashes 500 pips To Record Low Amid Global FX Carnage As Things Start Breaking  | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/pound-flash-crashes-500-pips-record-low-amid-global-fx-carnage",
+          "publishedOn": "2022-09-26T03:00:03.000Z",
+          "wordCount": 905,
+          "title": "Pound Flash Crashes 500 pips To Record Low Amid Global FX Carnage As Things Start Breaking  | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/daoleno/lenskit",
           "author": null,
           "description": "GitHub - daoleno/lenskit: lens protocol kit",
@@ -13,7 +63,7 @@
           "publishedOn": "2022-09-26T01:30:06.000Z",
           "wordCount": 574,
           "title": "GitHub - daoleno/lenskit: lens protocol kit",
-          "imageUrl": "https://opengraph.githubassets.com/dbc5a598101e38ee67d99f6644f9b0d455ee9c4b885cbc05f433f1112ac90c45/daoleno/lenskit"
+          "imageUrl": "https://opengraph.githubassets.com/0cbf88b6ba2b78dd8bf1511d232a3fe71d18ac0a33377c1967b362a15ec1b44a/daoleno/lenskit"
         },
         {
           "id": "https://blog.chainalysis.com/reports/2022-global-crypto-adoption-index/",
@@ -24,36 +74,6 @@
           "wordCount": 3981,
           "title": "2022 Global Cryptocurrency Adoption Index - Chainalysis",
           "imageUrl": "https://blog.chainalysis.com/wp-content/uploads/2022/09/Geos-Report-Cover_General.png"
-        },
-        {
-          "id": "https://www.reflexivityresearch.com/",
-          "author": null,
-          "description": "Reflexivity Research",
-          "link": "https://www.reflexivityresearch.com/",
-          "publishedOn": "2022-09-26T01:00:02.000Z",
-          "wordCount": 8914,
-          "title": "Reflexivity Research",
-          "imageUrl": "http://static1.squarespace.com/static/632092cf40a645293f022a01/t/632602f7ca5fb034dd002d0e/1663435512010/ReflexivityResearchLogo.jpg?format=1500w"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/few-ten-congressional-districts-may-decide-2022-midterm-elections",
-          "author": null,
-          "description": "As Few As Ten Congressional Districts May Decide The 2022 Midterm Elections | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/few-ten-congressional-districts-may-decide-2022-midterm-elections",
-          "publishedOn": "2022-09-26T01:00:02.000Z",
-          "wordCount": 1166,
-          "title": "As Few As Ten Congressional Districts May Decide The 2022 Midterm Elections | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://amplifi.com/",
-          "author": null,
-          "description": "AmpliFi | Faster, Whole-Home Wi-Fi",
-          "link": "https://amplifi.com/",
-          "publishedOn": "2022-09-26T00:30:02.000Z",
-          "wordCount": 87,
-          "title": "AmpliFi | Faster, Whole-Home Wi-Fi",
-          "imageUrl": "https://amplifi.com/og-image.png"
         },
         {
           "id": "https://ebuchman.github.io/posts/phases-of-cosmos/",
@@ -71,7 +91,7 @@
           "description": "Buckle up, America: The Fed plans to sharply boost unemployment",
           "link": "https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/",
           "publishedOn": "2022-09-26T00:00:06.000Z",
-          "wordCount": 2840,
+          "wordCount": 2837,
           "title": "Buckle up, America: The Fed plans to sharply boost unemployment",
           "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/23/c7df58ff-e983-4497-b2c7-86db5bc370b9/thumbnail/1200x630/208cf7f4b80f1233dfc702f1725b3cf9/powell-gettyimages-1425972958.jpg"
         },
@@ -84,16 +104,6 @@
           "wordCount": 1467,
           "title": "Terrifying Charts…",
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/605/684/original/issue_image_1378373.jpg?1664138470"
-        },
-        {
-          "id": "https://blog.lopp.net/how-to-securely-back-up-data-to-cloud-storage/",
-          "author": null,
-          "description": "How to Securely Back Up Data to Cloud Storage",
-          "link": "https://blog.lopp.net/how-to-securely-back-up-data-to-cloud-storage/",
-          "publishedOn": "2022-09-25T21:00:02.000Z",
-          "wordCount": 2094,
-          "title": "How to Securely Back Up Data to Cloud Storage",
-          "imageUrl": "https://blog.lopp.net/content/images/2020/01/cloud-3461414_960_720.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=ZHqlMTVrNQo",
@@ -136,16 +146,6 @@
           "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/3bbd3b2/2147483647/strip/true/crop/6410x3365+0+504/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fef%2Fed%2Fb13f219746bbb5e4f5d73dd63dd1%2Fla-photos-1staff-la-photos-1staff-749689-me-0407-bev-hills-vault-cmh-03.JPG"
         },
         {
-          "id": "https://github.com/bgd-labs/aave-token-v3/blob/certora/certora/report/Formal%20Verification%20Report%20of%20AAVE%20Token%20V3.pdf",
-          "author": null,
-          "description": "[PDF] aave-token-v3/Formal Verification Report of AAVE Token V3.pdf at certora · bgd-labs/aave-token-v3",
-          "link": "https://github.com/bgd-labs/aave-token-v3/blob/certora/certora/report/Formal%20Verification%20Report%20of%20AAVE%20Token%20V3.pdf",
-          "publishedOn": "2022-09-25T17:30:03.000Z",
-          "wordCount": 368,
-          "title": "[PDF] aave-token-v3/Formal Verification Report of AAVE Token V3.pdf at certora · bgd-labs/aave-token-v3",
-          "imageUrl": "https://opengraph.githubassets.com/0eb4e5f877d9393dcbf67cc2f3781076daefb92b378d5fb08fa0dff4400630f5/bgd-labs/aave-token-v3"
-        },
-        {
           "id": "https://blog.marsprotocol.io/blog/introducing-mars-v2",
           "author": null,
           "description": "Introducing Mars v2",
@@ -161,7 +161,7 @@
           "description": "Axie Esports Grant 3: 160,000 AXS!",
           "link": "https://axie.substack.com/p/axie-esports-grant-3-160000-axs",
           "publishedOn": "2022-09-25T15:00:03.000Z",
-          "wordCount": 2889,
+          "wordCount": 3095,
           "title": "Axie Esports Grant 3: 160,000 AXS!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F061cb591-9bdc-4bb6-81d3-2740a2ddee10_1600x900.png"
         },
@@ -201,7 +201,7 @@
           "description": "Reversible Transactions on Ethereum",
           "link": "https://mirror.xyz/kaili.eth/gB-rx89sNAT3CVuxWo6xVFS5ptNcllW7cVWVCfcFa6k",
           "publishedOn": "2022-09-24T22:00:04.000Z",
-          "wordCount": 2996,
+          "wordCount": 2992,
           "title": "Reversible Transactions on Ethereum",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/5SRuLrksF12un6M9OfxiP.png?height=3026&width=6052&h=3026&w=6052&auto=compress"
         }
