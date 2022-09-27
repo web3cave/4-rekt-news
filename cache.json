@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://zeroknowledge.fm/246-2/",
+          "author": null,
+          "description": "Episode 246: Adversarial Machine Learning Research with Florian Tramèr - ZK Podcast",
+          "link": "https://zeroknowledge.fm/246-2/",
+          "publishedOn": "2022-09-27T18:00:06.000Z",
+          "wordCount": 1667,
+          "title": "Episode 246: Adversarial Machine Learning Research with Florian Tramèr - ZK Podcast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QkZUlqetTRA&feature=youtu.be",
+          "author": null,
+          "description": "The zkEVM is Here 🚀  | zkSync's Steve Newcomb",
+          "link": "https://www.youtube.com/watch?v=QkZUlqetTRA&feature=youtu.be",
+          "publishedOn": "2022-09-27T17:30:05.000Z",
+          "wordCount": null,
+          "title": "The zkEVM is Here 🚀  | zkSync's Steve Newcomb",
+          "imageUrl": null
+        },
+        {
           "id": "https://techcrunch.com/2022/09/27/robinhood-polygon-crypto-web3-noncustodial-wallet/?tpcc=tcplustwitter",
           "author": null,
           "description": "Robinhood debuts new non-custodial crypto wallet with Polygon to 10K beta users",
           "link": "https://techcrunch.com/2022/09/27/robinhood-polygon-crypto-web3-noncustodial-wallet/?tpcc=tcplustwitter",
           "publishedOn": "2022-09-27T16:00:06.000Z",
-          "wordCount": 8186,
+          "wordCount": 7783,
           "title": "Robinhood debuts new non-custodial crypto wallet with Polygon to 10K beta users",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Robinhood-Wallet-Screenshot.png?resize=1200,610"
         },
@@ -21,7 +41,7 @@
           "description": "Powell: Crypto market downturn gives regulators 'more time'",
           "link": "https://www.theblock.co/post/173034/powell-crypto-market-downturn-gives-regulators-more-time?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-27T15:30:06.000Z",
-          "wordCount": 63202,
+          "wordCount": 62408,
           "title": "Powell: Crypto market downturn gives regulators 'more time'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/20211124_Jerome_Powell.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "link": "https://every.to/means-of-creation/the-new-creator-playbook-jumpstarting-communities-through-tokens",
           "publishedOn": "2022-09-27T15:00:02.000Z",
-          "wordCount": 2889,
+          "wordCount": 2880,
           "title": "The New Creator Playbook: Jumpstarting Communities Through Tokens",
           "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2298/creatorplaybook.jpg"
         },
@@ -111,7 +131,7 @@
           "description": "Security suggestions for Devcon in Bogota",
           "link": "https://irregularmail.substack.com/p/security-suggestions-for-devcon-in",
           "publishedOn": "2022-09-27T01:00:03.000Z",
-          "wordCount": 5011,
+          "wordCount": 5015,
           "title": "Security suggestions for Devcon in Bogota",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb889b231-8005-48cb-ad4d-526989a5f6e8_750x394.png"
         },
@@ -121,29 +141,9 @@
           "description": "Artblocks Announces the end of Series projects | NFT CULTURE | Web3 Culture NFTs & Crypto Art | Platforms and Projects",
           "link": "https://www.nftculture.com/nft-news/artblocks-announces-the-end-of-series-projects/",
           "publishedOn": "2022-09-27T01:00:03.000Z",
-          "wordCount": 3835,
+          "wordCount": 3865,
           "title": "Artblocks Announces the end of Series projects | NFT CULTURE | Web3 Culture NFTs & Crypto Art | Platforms and Projects",
           "imageUrl": "https://www.nftculture.com/wp-content/uploads/2022/09/Series-1-8.jpeg"
-        },
-        {
-          "id": "https://mirror.xyz/0x16af2C8f41C9ce2e3c897587f5225d68ca6C4525/_V-Bn8Gi7ykNJIiWDfOXAy_jGujwPm-F5GqneRavGxI",
-          "author": null,
-          "description": "EIR at Paradigm",
-          "link": "https://mirror.xyz/0x16af2C8f41C9ce2e3c897587f5225d68ca6C4525/_V-Bn8Gi7ykNJIiWDfOXAy_jGujwPm-F5GqneRavGxI",
-          "publishedOn": "2022-09-27T01:00:02.000Z",
-          "wordCount": 1679,
-          "title": "EIR at Paradigm",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/ihydFqTegrnzONbG4tPRY.png?height=1200&width=2400&h=1200&w=2400&auto=compress"
-        },
-        {
-          "id": "https://agoric.com/about/",
-          "author": null,
-          "description": "Our Story - Agoric",
-          "link": "https://agoric.com/about/",
-          "publishedOn": "2022-09-26T23:00:02.000Z",
-          "wordCount": 2494,
-          "title": "Our Story - Agoric",
-          "imageUrl": "https://agoric.com/wp-content/themes/agoric_2021_theme/assets/og_image.png"
         },
         {
           "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328",
@@ -151,7 +151,7 @@
           "description": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
           "link": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328",
           "publishedOn": "2022-09-26T19:00:02.000Z",
-          "wordCount": 2844,
+          "wordCount": 2999,
           "title": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
           "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/cosmos1/original/2X/2/2a3beb3e0f97ddad3b51a8d0d4a22abaa95604d8.png"
         },
