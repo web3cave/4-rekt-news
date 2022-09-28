@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.lynalden.com/may-2022-newsletter/",
+          "author": null,
+          "description": "May 2022 Newsletter: Inflation or Recession",
+          "link": "https://www.lynalden.com/may-2022-newsletter/",
+          "publishedOn": "2022-09-28T01:00:03.000Z",
+          "wordCount": 5549,
+          "title": "May 2022 Newsletter: Inflation or Recession",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tomtunguz.com/spot-the-difference/",
+          "author": null,
+          "description": "Spot the Difference by @ttunguz",
+          "link": "https://tomtunguz.com/spot-the-difference/",
+          "publishedOn": "2022-09-28T01:00:03.000Z",
+          "wordCount": 317,
+          "title": "Spot the Difference by @ttunguz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
+          "author": null,
+          "description": "Building Market Microstructure for NFTs",
+          "link": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
+          "publishedOn": "2022-09-28T00:30:03.000Z",
+          "wordCount": 8594,
+          "title": "Building Market Microstructure for NFTs",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8g_kbYnO9wo2Js_MVObBe.png?height=690&width=1380&h=690&w=1380&auto=compress"
+        },
+        {
           "id": "https://gitcoin.co/results",
           "author": null,
           "description": "$69.0m in  Results",
@@ -34,16 +64,6 @@
           "wordCount": 3270,
           "title": "The world’s economy is so bad this week that Bitcoin is outperforming major currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/btc_currencies_01.png?resize=1200,600"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/09/27/s-korean-authorities-look-to-freeze-67m-bitcoin-tied-to-terras-do-kwon/",
-          "author": null,
-          "description": "S. Korean Authorities Look to Freeze $67M Bitcoin Tied to Terra's Do Kwon",
-          "link": "https://www.coindesk.com/policy/2022/09/27/s-korean-authorities-look-to-freeze-67m-bitcoin-tied-to-terras-do-kwon/",
-          "publishedOn": "2022-09-27T19:30:05.000Z",
-          "wordCount": 7262,
-          "title": "S. Korean Authorities Look to Freeze $67M Bitcoin Tied to Terra's Do Kwon",
-          "imageUrl": "https://www.coindesk.com/resizer/Ela12l3O-I5-11LDWHD6KtvvYvs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K6DG54FCSVCATGFKK3N2XCEKLU.jpg"
         },
         {
           "id": "https://mirror.xyz/neelsalami.eth/rvhK5mEcFTOjyu_DFsqS2cYR7U6Fjvbw3nf8tI-pr-Q?ref=twitter",
@@ -86,16 +106,6 @@
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/09/Polygon-Robinhood-Wallet-Beta-Launch-News.png"
         },
         {
-          "id": "https://medium.com/superfluid-blog/bridge-super-tokens-cross-chain-with-li-fi-on-the-superfluid-dashboard-3f35db4fa5f2",
-          "author": null,
-          "description": "Bridge Super Tokens Cross-Chain With LI.FI on the Superfluid Dashboard",
-          "link": "https://medium.com/superfluid-blog/bridge-super-tokens-cross-chain-with-li-fi-on-the-superfluid-dashboard-3f35db4fa5f2",
-          "publishedOn": "2022-09-27T19:00:03.000Z",
-          "wordCount": 1687,
-          "title": "Bridge Super Tokens Cross-Chain With LI.FI on the Superfluid Dashboard",
-          "imageUrl": "https://miro.medium.com/freeze/max/1200/1*lBkHuY5imQQ-Yy0GVWPx9g.gif"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=QkZUlqetTRA&feature=youtu.be",
           "author": null,
           "description": "The zkEVM is Here 🚀  | zkSync's Steve Newcomb",
@@ -131,7 +141,7 @@
           "description": "Powell: Crypto market downturn gives regulators 'more time'",
           "link": "https://www.theblock.co/post/173034/powell-crypto-market-downturn-gives-regulators-more-time?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-27T15:30:06.000Z",
-          "wordCount": 61412,
+          "wordCount": 61736,
           "title": "Powell: Crypto market downturn gives regulators 'more time'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/20211124_Jerome_Powell.jpg"
         },
@@ -146,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/vyperlang/vyper/releases/tag/v0.3.7",
-          "author": null,
-          "description": "Release v0.3.7 · vyperlang/vyper",
-          "link": "https://github.com/vyperlang/vyper/releases/tag/v0.3.7",
-          "publishedOn": "2022-09-27T14:00:06.000Z",
-          "wordCount": 541,
-          "title": "Release v0.3.7 · vyperlang/vyper",
-          "imageUrl": "https://opengraph.githubassets.com/e605b39ba77cd91a87c3b7e330ecb20e980b4e4e8302c5198eb9d8d110190188/vyperlang/vyper/releases/tag/v0.3.7"
-        },
-        {
           "id": "https://www.bis.org/publ/bisbull57.pdf",
           "author": null,
           "description": "[PDF] bisbull57.pdf",
@@ -166,10 +166,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=r_9GrgvNkxY",
+          "id": "https://www.youtube.com/watch?t=4489&v=r_9GrgvNkxY&feature=youtu.be",
           "author": null,
           "description": "Opportunities and challenges of the tokenisation of finance | Banque de France",
-          "link": "https://www.youtube.com/watch?v=r_9GrgvNkxY",
+          "link": "https://www.youtube.com/watch?t=4489&v=r_9GrgvNkxY&feature=youtu.be",
           "publishedOn": "2022-09-27T13:00:02.000Z",
           "wordCount": null,
           "title": "Opportunities and challenges of the tokenisation of finance | Banque de France",
@@ -191,7 +191,7 @@
           "description": "Security suggestions for Devcon in Bogota",
           "link": "https://irregularmail.substack.com/p/security-suggestions-for-devcon-in",
           "publishedOn": "2022-09-27T01:00:03.000Z",
-          "wordCount": 5015,
+          "wordCount": 5011,
           "title": "Security suggestions for Devcon in Bogota",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb889b231-8005-48cb-ad4d-526989a5f6e8_750x394.png"
         },
