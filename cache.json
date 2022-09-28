@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cointelegraph.com/news/report-korean-authorities-orders-freeze-of-67m-of-bitcoin-tied-to-do-kwon",
+          "author": null,
+          "description": "Report: Korean authorities orders freeze of $67M of Bitcoin tied to Do Kwon",
+          "link": "https://cointelegraph.com/news/report-korean-authorities-orders-freeze-of-67m-of-bitcoin-tied-to-do-kwon",
+          "publishedOn": "2022-09-28T18:00:09.000Z",
+          "wordCount": 15131,
+          "title": "Report: Korean authorities orders freeze of $67M of Bitcoin tied to Do Kwon",
+          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvNmFlYTM2N2MtYjdjNS00NmRlLThkZGMtYWMxZTAyZWQzNmViLmpwZw==.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/09/28/the-cftc-served-ooki-dao-papers-by-posting-them-in-an-online-discussion-forum/",
           "author": null,
           "description": "The CFTC Served Ooki DAO Papers By Posting Them in an Online Discussion Forum",
           "link": "https://www.coindesk.com/policy/2022/09/28/the-cftc-served-ooki-dao-papers-by-posting-them-in-an-online-discussion-forum/",
           "publishedOn": "2022-09-28T17:30:04.000Z",
-          "wordCount": 7024,
+          "wordCount": 7572,
           "title": "The CFTC Served Ooki DAO Papers By Posting Them in an Online Discussion Forum",
           "imageUrl": "https://www.coindesk.com/resizer/f9KFoIGtWXHGnNeJM-Fe663nLOQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGVZACC2GBG25OWKZWYTH5UVNM.jpg"
         },
@@ -34,6 +44,26 @@
           "wordCount": 2508,
           "title": "UK pensions hit with £100m margin calls as gilts and sterling slide - Risk.net",
           "imageUrl": "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/import/IMG/277/144277/city-of-london-gherkin-finance-580x358.jpg?itok=Fv1caotv"
+        },
+        {
+          "id": "https://www.mevwatch.info/",
+          "author": null,
+          "description": "MEV Watch",
+          "link": "https://www.mevwatch.info/",
+          "publishedOn": "2022-09-28T15:00:03.000Z",
+          "wordCount": 736,
+          "title": "MEV Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
+          "author": null,
+          "description": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
+          "link": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
+          "publishedOn": "2022-09-28T15:00:03.000Z",
+          "wordCount": 2549,
+          "title": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/gakonst/ethers-rs/issues/1742",
@@ -123,7 +153,7 @@
           "publishedOn": "2022-09-27T23:00:03.000Z",
           "wordCount": 831,
           "title": "GitHub - shazow/whatsabi: Guess an ABI from an Ethereum contract address, even if it's unverified",
-          "imageUrl": "https://opengraph.githubassets.com/87bd84eceef419bf4015e092acae8e091f235f7347f2cba751dd4b0991d19bf6/shazow/whatsabi"
+          "imageUrl": "https://opengraph.githubassets.com/73594da9407895ac1a74ec3236c22fa107460080857a436e890196b52ecb2344/shazow/whatsabi"
         },
         {
           "id": "https://medium.com/flexa/celebrate-the-merge-with-99-95-off-chipotles-new-garlic-guajillo-steak-b8c8bac94263",
@@ -144,26 +174,6 @@
           "wordCount": 1604,
           "title": "JPG is open to all",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/b6ZyrqZSOxCV3bEVR1rI4.jpeg?height=316&width=632&h=316&w=632&auto=compress"
-        },
-        {
-          "id": "https://fortune.com/crypto/2022/09/27/bitcoin-is-outperforming-the-worlds-major-currencies-pound-yuan/?xid=soc_socialflow_twitter_FORTUNE&utm_campaign=fortunemagazine&utm_medium=social&utm_source=twitter.com",
-          "author": null,
-          "description": "The world’s economy is so bad this week that Bitcoin is outperforming major currencies",
-          "link": "https://fortune.com/crypto/2022/09/27/bitcoin-is-outperforming-the-worlds-major-currencies-pound-yuan/?xid=soc_socialflow_twitter_FORTUNE&utm_campaign=fortunemagazine&utm_medium=social&utm_source=twitter.com",
-          "publishedOn": "2022-09-27T21:00:02.000Z",
-          "wordCount": 3275,
-          "title": "The world’s economy is so bad this week that Bitcoin is outperforming major currencies",
-          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/09/btc_currencies_01.png?resize=1200,600"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o_BPMx7ieB8",
-          "author": null,
-          "description": "ATOM 2.0 IS HUGE FOR COSMOS!",
-          "link": "https://www.youtube.com/watch?v=o_BPMx7ieB8",
-          "publishedOn": "2022-09-27T21:00:02.000Z",
-          "wordCount": null,
-          "title": "ATOM 2.0 IS HUGE FOR COSMOS!",
-          "imageUrl": null
         },
         {
           "id": "https://nft.christies.com/?cid=EM_SM_O_TW_Inc_DPT____________",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-09-27T17:30:05.000Z",
           "wordCount": null,
           "title": "The zkEVM is Here 🚀  | zkSync's Steve Newcomb",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?t=4489&v=r_9GrgvNkxY&feature=youtu.be",
-          "author": null,
-          "description": "Opportunities and challenges of the tokenisation of finance | Banque de France",
-          "link": "https://www.youtube.com/watch?t=4489&v=r_9GrgvNkxY&feature=youtu.be",
-          "publishedOn": "2022-09-27T13:00:02.000Z",
-          "wordCount": null,
-          "title": "Opportunities and challenges of the tokenisation of finance | Banque de France",
           "imageUrl": null
         }
       ]
