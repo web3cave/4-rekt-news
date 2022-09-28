@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://cointelegraph.com/news/report-korean-authorities-orders-freeze-of-67m-of-bitcoin-tied-to-do-kwon",
+          "id": "https://parallel.tessera.co/",
           "author": null,
-          "description": "Report: Korean authorities orders freeze of $67M of Bitcoin tied to Do Kwon",
-          "link": "https://cointelegraph.com/news/report-korean-authorities-orders-freeze-of-67m-of-bitcoin-tied-to-do-kwon",
-          "publishedOn": "2022-09-28T20:00:05.000Z",
-          "wordCount": 15135,
-          "title": "Report: Korean authorities orders freeze of $67M of Bitcoin tied to Do Kwon",
-          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDkvNmFlYTM2N2MtYjdjNS00NmRlLThkZGMtYWMxZTAyZWQzNmViLmpwZw==.jpg"
+          "description": "Tessera & Parallel Parasets",
+          "link": "https://parallel.tessera.co/",
+          "publishedOn": "2022-09-28T23:00:03.000Z",
+          "wordCount": 18,
+          "title": "Tessera & Parallel Parasets",
+          "imageUrl": "https://assets-production.fractional.xyz/media/parallel/meta/parallel_fractional_social_optimized.png?width=1400&fit=bounds"
+        },
+        {
+          "id": "https://mirror.xyz/electriccap.eth/OEyQmlEfDyWs3WDnpACrytxTsNhv4W79XM4toUj43lw",
+          "author": null,
+          "description": "Emily Meyers: Joining Electric Capital as General Counsel",
+          "link": "https://mirror.xyz/electriccap.eth/OEyQmlEfDyWs3WDnpACrytxTsNhv4W79XM4toUj43lw",
+          "publishedOn": "2022-09-28T23:00:03.000Z",
+          "wordCount": 1601,
+          "title": "Emily Meyers: Joining Electric Capital as General Counsel",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/WTu4w-4caT4y6YbHSufD1.jpeg?height=1280&width=2560&h=1280&w=2560&auto=compress"
+        },
+        {
+          "id": "https://www.ensgrants.xyz/",
+          "author": null,
+          "description": "ENS Small Grants",
+          "link": "https://www.ensgrants.xyz/",
+          "publishedOn": "2022-09-28T23:00:03.000Z",
+          "wordCount": 24,
+          "title": "ENS Small Grants",
+          "imageUrl": null
         },
         {
           "id": "https://lightning.engineering/posts/2022-9-28-taro-launch/index.html",
@@ -86,22 +106,12 @@
           "imageUrl": "https://www.coindesk.com/resizer/f9KFoIGtWXHGnNeJM-Fe663nLOQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QGVZACC2GBG25OWKZWYTH5UVNM.jpg"
         },
         {
-          "id": "https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide",
-          "author": null,
-          "description": "UK pensions hit with £100m margin calls as gilts and sterling slide - Risk.net",
-          "link": "https://www.risk.net/derivatives/7954682/uk-pensions-hit-with-ps100m-margin-calls-as-gilts-and-sterling-slide",
-          "publishedOn": "2022-09-28T15:30:05.000Z",
-          "wordCount": 2508,
-          "title": "UK pensions hit with £100m margin calls as gilts and sterling slide - Risk.net",
-          "imageUrl": "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/import/IMG/277/144277/city-of-london-gherkin-finance-580x358.jpg?itok=Fv1caotv"
-        },
-        {
           "id": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
           "author": null,
           "description": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "link": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
           "publishedOn": "2022-09-28T15:00:03.000Z",
-          "wordCount": 2444,
+          "wordCount": 2550,
           "title": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "imageUrl": null
         },
@@ -124,6 +134,16 @@
           "wordCount": 872,
           "title": "Support for EIP-4844 Shard Blob Transaction · Issue #1742 · gakonst/ethers-rs",
           "imageUrl": "https://opengraph.githubassets.com/ee38247c8e13df181d39510dfe6bc9d7653c51a75a180da623cc1eea246983ab/gakonst/ethers-rs/issues/1742"
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2022/09/do-expensive-nvidia-graphics-cards-foretell-the-death-of-moores-law/",
+          "author": null,
+          "description": "Is Moore’s law actually dead this time? Nvidia seems to think so",
+          "link": "https://arstechnica.com/gaming/2022/09/do-expensive-nvidia-graphics-cards-foretell-the-death-of-moores-law/",
+          "publishedOn": "2022-09-28T06:00:03.000Z",
+          "wordCount": 2017,
+          "title": "Is Moore’s law actually dead this time? Nvidia seems to think so",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/gtx4090-760x298.jpg"
         },
         {
           "id": "https://github.com/LeXpunK-Army/Crypto-CaseLaw/blob/main/bZx%20DAO%20Case/Ooki_DAO_Certificate_of_Service.pdf",
@@ -154,26 +174,6 @@
           "wordCount": 3882,
           "title": "Using an Ethereum wallet for email - Read more",
           "imageUrl": "https://cdn.sanity.io/images/j846cla7/production/52aff6955c24458528b2450dbd726c6f651057b0-1851x1157.png"
-        },
-        {
-          "id": "https://www.lynalden.com/may-2022-newsletter/",
-          "author": null,
-          "description": "May 2022 Newsletter: Inflation or Recession",
-          "link": "https://www.lynalden.com/may-2022-newsletter/",
-          "publishedOn": "2022-09-28T01:00:03.000Z",
-          "wordCount": 5549,
-          "title": "May 2022 Newsletter: Inflation or Recession",
-          "imageUrl": null
-        },
-        {
-          "id": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
-          "author": null,
-          "description": "Building Market Microstructure for NFTs",
-          "link": "https://meltem.mirror.xyz/Qc2jR5ggGznGrUSg-q5_LY2_70xkhfaJGPOC_qMQrJE",
-          "publishedOn": "2022-09-28T00:30:03.000Z",
-          "wordCount": 8594,
-          "title": "Building Market Microstructure for NFTs",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/8g_kbYnO9wo2Js_MVObBe.png?height=690&width=1380&h=690&w=1380&auto=compress"
         },
         {
           "id": "https://gitcoin.co/results",
