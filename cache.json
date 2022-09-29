@@ -6,14 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://citizenlab.ca/2022/09/statement-on-the-fatal-flaws-found-in-a-defunct-cia-covert-communications-system/",
+          "id": "https://github.com/ethereum/pm/issues/636",
           "author": null,
-          "description": "Statement on the fatal flaws found in a defunct CIA covert communications system - The Citizen Lab",
-          "link": "https://citizenlab.ca/2022/09/statement-on-the-fatal-flaws-found-in-a-defunct-cia-covert-communications-system/",
-          "publishedOn": "2022-09-29T16:00:05.000Z",
-          "wordCount": 1952,
-          "title": "Statement on the fatal flaws found in a defunct CIA covert communications system - The Citizen Lab",
-          "imageUrl": "https://citizenlab.ca/wp-content/webpc-passthru.php?src=https://citizenlab.ca/wp-content/uploads/2022/09/image1.jpg&nocache=1"
+          "description": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/636",
+          "publishedOn": "2022-09-29T17:30:05.000Z",
+          "wordCount": 455,
+          "title": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/f33e3ac64fcf2a26d65fe02964d0a8ec64649c783830a4958285c6d67c457169/ethereum/pm/issues/636"
+        },
+        {
+          "id": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
+          "author": null,
+          "description": "The Inevitability of UNIchain",
+          "link": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
+          "publishedOn": "2022-09-29T17:00:02.000Z",
+          "wordCount": 5737,
+          "title": "The Inevitability of UNIchain",
+          "imageUrl": "https://miro.medium.com/max/1200/1*6OvSXU6QXeQNVl6VfxTurw.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TqwAX_oGUh8",
+          "author": null,
+          "description": "Unfinished Live with Nathan Schneider - Green Pill #49",
+          "link": "https://www.youtube.com/watch?v=TqwAX_oGUh8",
+          "publishedOn": "2022-09-29T17:00:02.000Z",
+          "wordCount": null,
+          "title": "Unfinished Live with Nathan Schneider - Green Pill #49",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mirror.xyz/haunventures.eth/DtYIt_vAijoqRV41SMNAcu6kwCAM8Mc_p8GsjFTfP6o",
+          "author": null,
+          "description": "The Web3 Voter by Chris Lehane and Tomicah Tillemann",
+          "link": "https://mirror.xyz/haunventures.eth/DtYIt_vAijoqRV41SMNAcu6kwCAM8Mc_p8GsjFTfP6o",
+          "publishedOn": "2022-09-29T17:00:02.000Z",
+          "wordCount": 2827,
+          "title": "The Web3 Voter by Chris Lehane and Tomicah Tillemann",
+          "imageUrl": "https://mirror-media.imgix.net/nft/4L67SWJ-mDwOR8cnx1-Jm.png?h=null&w=null&auto=compress"
+        },
+        {
+          "id": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
+          "author": null,
+          "description": "StakeWise V3 Announcement",
+          "link": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
+          "publishedOn": "2022-09-29T17:00:02.000Z",
+          "wordCount": 6128,
+          "title": "StakeWise V3 Announcement",
+          "imageUrl": "https://miro.medium.com/max/1200/1*psFkfRR9Hiqit2RVwAkdDg.jpeg"
         },
         {
           "id": "https://gmx.io/?ref=fiskantes",
@@ -34,16 +74,6 @@
           "wordCount": 7573,
           "title": "How the CIA failed Iranian spies in its secret war with Tehran",
           "imageUrl": "https://www.reuters.com/investigates/special-report/assets/usa-spies-iran/mastheads/usa-spies-iran-share.jpg?v=192516290922"
-        },
-        {
-          "id": "https://www.coindesk.com/learn/how-to-teach-yourself-blockchain-a-guide-for-budding-builders/",
-          "author": null,
-          "description": "How to Teach Yourself Blockchain: A Guide for Budding Builders",
-          "link": "https://www.coindesk.com/learn/how-to-teach-yourself-blockchain-a-guide-for-budding-builders/",
-          "publishedOn": "2022-09-29T13:30:04.000Z",
-          "wordCount": 17307,
-          "title": "How to Teach Yourself Blockchain: A Guide for Budding Builders",
-          "imageUrl": "https://www.coindesk.com/resizer/mxNrHZ04nUj_qH6pGOskhg9cKzw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DEZKQ6SX65E2RE23IORJTZSFVM.jpg"
         },
         {
           "id": "https://www.zerohedge.com/crypto/secs-reckless-crusade-crush-cryptocurrency-market",
@@ -71,7 +101,7 @@
           "description": "delegate.cash",
           "link": "https://0xfoobar.substack.com/p/delegatecash",
           "publishedOn": "2022-09-29T03:00:02.000Z",
-          "wordCount": 4033,
+          "wordCount": 4034,
           "title": "delegate.cash",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420b2dae-96df-457a-8b92-73a3e7903253_1690x992.png"
         },
@@ -101,7 +131,7 @@
           "description": "Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin",
           "link": "https://www.coindesk.com/tech/2022/09/28/native-usdc-on-cosmos-to-fill-vacuum-left-by-terras-ust-stablecoin/",
           "publishedOn": "2022-09-29T00:00:04.000Z",
-          "wordCount": 7383,
+          "wordCount": 7408,
           "title": "Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin",
           "imageUrl": "https://www.coindesk.com/resizer/Tg94XTNWxIp9BOoBOW_PlfqEAKo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O7ZNL6W6PZBJ5EE37LWHMBD55Y.jpg"
         },
@@ -156,26 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.circle.com/en/pressroom/circle-and-robinhood-join-forces-to-bring-usdc-to-customers?utm_campaign=Campaign%20%7C%20Comms%20Announcement&utm_content=222717264&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "author": null,
-          "description": "Circle and Robinhood Join Forces to Bring USDC to Customers",
-          "link": "https://www.circle.com/en/pressroom/circle-and-robinhood-join-forces-to-bring-usdc-to-customers?utm_campaign=Campaign%20%7C%20Comms%20Announcement&utm_content=222717264&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "publishedOn": "2022-09-28T19:00:05.000Z",
-          "wordCount": 1963,
-          "title": "Circle and Robinhood Join Forces to Bring USDC to Customers",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/partners-robinhood.png#keepProtocol"
-        },
-        {
-          "id": "https://www.newhere.xyz/mint",
-          "author": null,
-          "description": "New Here",
-          "link": "https://www.newhere.xyz/mint",
-          "publishedOn": "2022-09-28T17:30:04.000Z",
-          "wordCount": 2188,
-          "title": "New Here",
-          "imageUrl": "https://www.newhere.xyz/backgrounds/og.png"
-        },
-        {
           "id": "https://www.mevwatch.info/",
           "author": null,
           "description": "MEV Watch",
@@ -191,19 +201,9 @@
           "description": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "link": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
           "publishedOn": "2022-09-28T15:00:03.000Z",
-          "wordCount": 2576,
+          "wordCount": 2572,
           "title": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "imageUrl": null
-        },
-        {
-          "id": "https://nft.christies.com/?cid=EM_SM_O_TW_Inc_DPT____________",
-          "author": null,
-          "description": "Christie's 3.0",
-          "link": "https://nft.christies.com/?cid=EM_SM_O_TW_Inc_DPT____________",
-          "publishedOn": "2022-09-27T19:30:05.000Z",
-          "wordCount": 3873,
-          "title": "Christie's 3.0",
-          "imageUrl": "https://assets-global.website-files.com/61f900f9ed3c141eec18edfe/62f0e756150fef7380eeb86e_MicrosoftTeams-image-(1)-br.jpg"
         }
       ]
     }
