@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dreamfusionpaper.github.io/",
+          "author": null,
+          "description": "DreamFusion: Text-to-3D using 2D Diffusion",
+          "link": "https://dreamfusionpaper.github.io/",
+          "publishedOn": "2022-09-29T21:30:05.000Z",
+          "wordCount": 515,
+          "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.justice.gov/usao-co/pr/former-nsa-employee-arrested-espionage-related-charges",
           "author": null,
           "description": "Former NSA Employee Arrested on Espionage-Related Charges",
@@ -26,16 +36,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*gdW1NFV-8hOvBlEncL2jAQ.png"
         },
         {
-          "id": "https://delphidigital.io/research",
-          "author": null,
-          "description": "Delphi Research",
-          "link": "https://delphidigital.io/research",
-          "publishedOn": "2022-09-29T21:00:02.000Z",
-          "wordCount": 3245,
-          "title": "Delphi Research",
-          "imageUrl": "https://uploads-ssl.webflow.com/60f1b19a593e774383e314f8/6176eeb85c8bc58931d0f179_Research.png"
-        },
-        {
           "id": "https://thecoh.build/",
           "author": null,
           "description": "the COH",
@@ -44,6 +44,16 @@
           "wordCount": 7076,
           "title": "the COH",
           "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=b8956393"
+        },
+        {
+          "id": "https://members.delphidigital.io/reports/sei-network-an-l1-for-defi",
+          "author": null,
+          "description": "Delphi Digital",
+          "link": "https://members.delphidigital.io/reports/sei-network-an-l1-for-defi",
+          "publishedOn": "2022-09-29T21:00:01.000Z",
+          "wordCount": 6435,
+          "title": "Delphi Digital",
+          "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/09/Sei-cover.jpeg"
         },
         {
           "id": "https://medium.com/avalancheavax/banff-elastic-subnets-44042f41e34c",
@@ -61,7 +71,7 @@
           "description": "Foundation",
           "link": "https://foundation.app/",
           "publishedOn": "2022-09-29T20:00:05.000Z",
-          "wordCount": 4212,
+          "wordCount": 4179,
           "title": "Foundation",
           "imageUrl": "https://foundation.app/opengraph.jpg"
         },
@@ -74,6 +84,16 @@
           "wordCount": 2244,
           "title": "Introducing Aevo",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/WCE-3Dma91gZQvGeNazQ_.jpeg?height=640&width=1280&h=640&w=1280&auto=compress"
+        },
+        {
+          "id": "https://beta.win.so/",
+          "author": null,
+          "description": "WIN",
+          "link": "https://beta.win.so/",
+          "publishedOn": "2022-09-29T18:30:03.000Z",
+          "wordCount": 9,
+          "title": "WIN",
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
@@ -124,26 +144,6 @@
           "wordCount": 3552,
           "title": "Make-A-Video",
           "imageUrl": "https://makeavideo.studio/assets/A_teddy_bear_painting_a_portrait-sm.gif"
-        },
-        {
-          "id": "https://gmx.io/?ref=fiskantes",
-          "author": null,
-          "description": "GMX",
-          "link": "https://gmx.io/?ref=fiskantes",
-          "publishedOn": "2022-09-29T15:00:02.000Z",
-          "wordCount": 9,
-          "title": "GMX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/secs-reckless-crusade-crush-cryptocurrency-market",
-          "author": null,
-          "description": "The SEC's Reckless Crusade To Crush The Cryptocurrency Market | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/secs-reckless-crusade-crush-cryptocurrency-market",
-          "publishedOn": "2022-09-29T13:00:02.000Z",
-          "wordCount": 2137,
-          "title": "The SEC's Reckless Crusade To Crush The Cryptocurrency Market | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://otonomos.substack.com/p/from-violence-to-volition-bootstrapping",
@@ -201,7 +201,7 @@
           "description": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "link": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
           "publishedOn": "2022-09-28T15:00:03.000Z",
-          "wordCount": 2566,
+          "wordCount": 2565,
           "title": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "imageUrl": null
         }
