@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://beta.win.so/",
+          "author": null,
+          "description": "WIN",
+          "link": "https://beta.win.so/",
+          "publishedOn": "2022-09-29T18:30:03.000Z",
+          "wordCount": 9,
+          "title": "WIN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
+          "author": null,
+          "description": "Raising the stakes: Collect PRIME rewards by staking $PDT",
+          "link": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
+          "publishedOn": "2022-09-29T18:00:04.000Z",
+          "wordCount": 4691,
+          "title": "Raising the stakes: Collect PRIME rewards by staking $PDT",
+          "imageUrl": "https://miro.medium.com/max/1200/1*ouG7Mcdv7BpfZ1X8fQY2Yw.png"
+        },
+        {
           "id": "https://github.com/ethereum/pm/issues/636",
           "author": null,
           "description": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
@@ -66,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.reuters.com/investigates/special-report/usa-spies-iran/",
-          "author": null,
-          "description": "How the CIA failed Iranian spies in its secret war with Tehran",
-          "link": "https://www.reuters.com/investigates/special-report/usa-spies-iran/",
-          "publishedOn": "2022-09-29T15:00:02.000Z",
-          "wordCount": 7573,
-          "title": "How the CIA failed Iranian spies in its secret war with Tehran",
-          "imageUrl": "https://www.reuters.com/investigates/special-report/assets/usa-spies-iran/mastheads/usa-spies-iran-share.jpg?v=192516290922"
-        },
-        {
           "id": "https://www.zerohedge.com/crypto/secs-reckless-crusade-crush-cryptocurrency-market",
           "author": null,
           "description": "The SEC's Reckless Crusade To Crush The Cryptocurrency Market | ZeroHedge",
@@ -101,7 +111,7 @@
           "description": "delegate.cash",
           "link": "https://0xfoobar.substack.com/p/delegatecash",
           "publishedOn": "2022-09-29T03:00:02.000Z",
-          "wordCount": 4034,
+          "wordCount": 4033,
           "title": "delegate.cash",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420b2dae-96df-457a-8b92-73a3e7903253_1690x992.png"
         },
@@ -124,16 +134,6 @@
           "wordCount": 1210,
           "title": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/tech/2022/09/28/native-usdc-on-cosmos-to-fill-vacuum-left-by-terras-ust-stablecoin/",
-          "author": null,
-          "description": "Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin",
-          "link": "https://www.coindesk.com/tech/2022/09/28/native-usdc-on-cosmos-to-fill-vacuum-left-by-terras-ust-stablecoin/",
-          "publishedOn": "2022-09-29T00:00:04.000Z",
-          "wordCount": 7408,
-          "title": "Native USDC on Cosmos to Fill Vacuum Left by Terra’s UST Stablecoin",
-          "imageUrl": "https://www.coindesk.com/resizer/Tg94XTNWxIp9BOoBOW_PlfqEAKo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O7ZNL6W6PZBJ5EE37LWHMBD55Y.jpg"
         },
         {
           "id": "https://parallel.tessera.co/",
@@ -201,7 +201,7 @@
           "description": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "link": "https://www.ft.com/content/756e81d1-b2a6-4580-9054-206386353c4e",
           "publishedOn": "2022-09-28T15:00:03.000Z",
-          "wordCount": 2572,
+          "wordCount": 2567,
           "title": "BoE warns of risk to UK financial stability as it intervenes in gilt market",
           "imageUrl": null
         }
