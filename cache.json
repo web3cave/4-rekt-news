@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/openai-whisper-transcription-testing/",
+          "author": null,
+          "description": "OpenAI Whisper Transcription Testing",
+          "link": "https://blog.lopp.net/openai-whisper-transcription-testing/",
+          "publishedOn": "2022-09-30T23:00:02.000Z",
+          "wordCount": 1653,
+          "title": "OpenAI Whisper Transcription Testing",
+          "imageUrl": "https://blog.lopp.net/content/images/2022/09/transcription_robot.png"
+        },
+        {
+          "id": "https://ournetwork.substack.com/p/ournetwork-issue-140",
+          "author": null,
+          "description": "OurNetwork #140",
+          "link": "https://ournetwork.substack.com/p/ournetwork-issue-140",
+          "publishedOn": "2022-09-30T22:30:03.000Z",
+          "wordCount": 2904,
+          "title": "OurNetwork #140",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8a2cb52-d81d-47e3-aa90-e01e5255526a_420x300.jpeg"
+        },
+        {
           "id": "https://fardrop.xyz/",
           "author": null,
           "description": "Fardrop",
@@ -46,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
-          "author": null,
-          "description": "EIP-4844 Breakout Room #4",
-          "link": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
-          "publishedOn": "2022-09-30T19:15:03.000Z",
-          "wordCount": null,
-          "title": "EIP-4844 Breakout Room #4",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
           "author": null,
           "description": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
@@ -73,7 +83,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/5518ef70aaf82c439f41a97270ad4de99b77524d9c0feaed9faea3dcd3c8f586/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/9ca0676ed2acacb2a443770a479e30e6d5c73952edcb3423ce415fff1e212151/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -174,16 +184,6 @@
           "wordCount": 7076,
           "title": "the COH",
           "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=b8956393"
-        },
-        {
-          "id": "https://a16zcrypto.com/web3-regulation-apps-not-protocols/",
-          "author": null,
-          "description": "Regulate web3 apps, not protocols",
-          "link": "https://a16zcrypto.com/web3-regulation-apps-not-protocols/",
-          "publishedOn": "2022-09-29T18:00:04.000Z",
-          "wordCount": 2145,
-          "title": "Regulate web3 apps, not protocols",
-          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/09/Web1-to-Web3_-Improving-Internet-Functionality-copy-scaled.jpeg"
         },
         {
           "id": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
