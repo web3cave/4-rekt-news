@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ethereum/research/tree/master/py_plonk",
+          "author": null,
+          "description": "research/py_plonk at master · ethereum/research",
+          "link": "https://github.com/ethereum/research/tree/master/py_plonk",
+          "publishedOn": "2022-09-30T18:00:04.000Z",
+          "wordCount": 836,
+          "title": "research/py_plonk at master · ethereum/research",
+          "imageUrl": "https://opengraph.githubassets.com/d9874f40bb1f120f952e2495952f47511499344d22746740bf3b2aaf17d77f40/ethereum/research"
+        },
+        {
+          "id": "https://zkrepl.dev/",
+          "author": null,
+          "description": "zkREPL",
+          "link": "https://zkrepl.dev/",
+          "publishedOn": "2022-09-30T18:00:04.000Z",
+          "wordCount": 3,
+          "title": "zkREPL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nypost.com/2022/09/29/sexologist-tamica-wilder-opens-up-about-living-with-boyfriend-husband-and-kids/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+          "author": null,
+          "description": "Sexologist Tamica Wilder opens up about living with boyfriend, husband and kids",
+          "link": "https://nypost.com/2022/09/29/sexologist-tamica-wilder-opens-up-about-living-with-boyfriend-husband-and-kids/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+          "publishedOn": "2022-09-30T18:00:04.000Z",
+          "wordCount": 7399,
+          "title": "Sexologist Tamica Wilder opens up about living with boyfriend, husband and kids",
+          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/09/sexologist-boyfriend-husband-comp.jpg?quality=75&strip=all&w=1024"
+        },
+        {
           "id": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "author": null,
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 62193,
+          "wordCount": 62219,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
-        },
-        {
-          "id": "https://hypemoon.com/2022/9/seedphrase-hints-at-next-nft-narrative-sells-cryptopunk-for-4-million",
-          "author": null,
-          "description": "‘Seedphrase’ Hints At “Next Big Narrative” After Selling Rare CryptoPunk for $4.5M USD",
-          "link": "https://hypemoon.com/2022/9/seedphrase-hints-at-next-nft-narrative-sells-cryptopunk-for-4-million",
-          "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 1724,
-          "title": "‘Seedphrase’ Hints At “Next Big Narrative” After Selling Rare CryptoPunk for $4.5M USD",
-          "imageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F17%2Ffiles%2F2022%2F09%2Fseedphrase-hints-next-narrative-sells-cryptopunk-for-4-million-TW.jpg?w=960&cbr=1&q=90&fit=max"
         },
         {
           "id": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
@@ -31,9 +51,9 @@
           "description": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
           "link": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 4028,
+          "wordCount": 645,
           "title": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/09/UN402-SOCIAL.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
@@ -41,7 +61,7 @@
           "description": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "link": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 61856,
+          "wordCount": 61882,
           "title": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/uniswap-labs.png"
         },
@@ -63,16 +83,6 @@
           "publishedOn": "2022-09-30T17:01:01.000Z",
           "wordCount": null,
           "title": "Derek Edws - Time-based Royalties, FlamingoDAO, Art Blocks Curation Board Explained - ZenChats #EP43",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
-          "author": null,
-          "description": "Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do",
-          "link": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
-          "publishedOn": "2022-09-30T15:30:06.000Z",
-          "wordCount": null,
-          "title": "Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do",
           "imageUrl": null
         },
         {
@@ -111,7 +121,7 @@
           "description": "Judge denies another SEC attempt to shield documents in Ripple case",
           "link": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 62441,
+          "wordCount": 62483,
           "title": "Judge denies another SEC attempt to shield documents in Ripple case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "Foundation",
           "link": "https://foundation.app/",
           "publishedOn": "2022-09-29T20:00:05.000Z",
-          "wordCount": 3938,
+          "wordCount": 3958,
           "title": "Foundation",
           "imageUrl": "https://foundation.app/opengraph.jpg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 2145,
           "title": "Regulate web3 apps, not protocols",
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/09/Web1-to-Web3_-Improving-Internet-Functionality-copy-scaled.jpeg"
-        },
-        {
-          "id": "https://nouns.wtf/",
-          "author": null,
-          "description": "Nouns DAO",
-          "link": "https://nouns.wtf/",
-          "publishedOn": "2022-09-29T17:30:05.000Z",
-          "wordCount": 61,
-          "title": "Nouns DAO",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
@@ -201,7 +201,7 @@
           "description": "StakeWise V3 Announcement",
           "link": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
           "publishedOn": "2022-09-29T17:00:02.000Z",
-          "wordCount": 6128,
+          "wordCount": 6449,
           "title": "StakeWise V3 Announcement",
           "imageUrl": "https://miro.medium.com/max/1200/1*psFkfRR9Hiqit2RVwAkdDg.jpeg"
         }
