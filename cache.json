@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
+          "author": null,
+          "description": "EIP-4844 Breakout Room #4",
+          "link": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
+          "publishedOn": "2022-09-30T19:15:03.000Z",
+          "wordCount": null,
+          "title": "EIP-4844 Breakout Room #4",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ethereum/research/tree/master/py_plonk",
           "author": null,
           "description": "research/py_plonk at master · ethereum/research",
@@ -13,7 +23,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/d9874f40bb1f120f952e2495952f47511499344d22746740bf3b2aaf17d77f40/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/4bde3deae89b52efb1e3edf657c4225b3975871a21e3264768b5da93ce4df033/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -26,14 +36,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://nypost.com/2022/09/29/sexologist-tamica-wilder-opens-up-about-living-with-boyfriend-husband-and-kids/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+          "id": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
           "author": null,
-          "description": "Sexologist Tamica Wilder opens up about living with boyfriend, husband and kids",
-          "link": "https://nypost.com/2022/09/29/sexologist-tamica-wilder-opens-up-about-living-with-boyfriend-husband-and-kids/?utm_medium=SocialFlow&utm_campaign=SocialFlow&utm_source=NYPTwitter",
+          "description": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
+          "link": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
           "publishedOn": "2022-09-30T18:00:04.000Z",
-          "wordCount": 7399,
-          "title": "Sexologist Tamica Wilder opens up about living with boyfriend, husband and kids",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/09/sexologist-boyfriend-husband-comp.jpg?quality=75&strip=all&w=1024"
+          "wordCount": 689,
+          "title": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
+          "imageUrl": "https://blog.blowfish.xyz/content/images/2022/09/blowfish-image.png"
         },
         {
           "id": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
@@ -41,7 +51,7 @@
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 62219,
+          "wordCount": 62227,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
         },
@@ -51,9 +61,9 @@
           "description": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
           "link": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 645,
+          "wordCount": 4028,
           "title": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
-          "imageUrl": null
+          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/09/UN402-SOCIAL.jpg"
         },
         {
           "id": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
@@ -61,7 +71,7 @@
           "description": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "link": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 61882,
+          "wordCount": 62211,
           "title": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/uniswap-labs.png"
         },
@@ -121,7 +131,7 @@
           "description": "Judge denies another SEC attempt to shield documents in Ripple case",
           "link": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 62483,
+          "wordCount": 62507,
           "title": "Judge denies another SEC attempt to shield documents in Ripple case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic.jpg"
         },
@@ -166,16 +176,6 @@
           "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=b8956393"
         },
         {
-          "id": "https://foundation.app/",
-          "author": null,
-          "description": "Foundation",
-          "link": "https://foundation.app/",
-          "publishedOn": "2022-09-29T20:00:05.000Z",
-          "wordCount": 3958,
-          "title": "Foundation",
-          "imageUrl": "https://foundation.app/opengraph.jpg"
-        },
-        {
           "id": "https://a16zcrypto.com/web3-regulation-apps-not-protocols/",
           "author": null,
           "description": "Regulate web3 apps, not protocols",
@@ -201,7 +201,7 @@
           "description": "StakeWise V3 Announcement",
           "link": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
           "publishedOn": "2022-09-29T17:00:02.000Z",
-          "wordCount": 6449,
+          "wordCount": 6131,
           "title": "StakeWise V3 Announcement",
           "imageUrl": "https://miro.medium.com/max/1200/1*psFkfRR9Hiqit2RVwAkdDg.jpeg"
         }
