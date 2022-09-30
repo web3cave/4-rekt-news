@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fardrop.xyz/",
+          "author": null,
+          "description": "Fardrop",
+          "link": "https://fardrop.xyz/",
+          "publishedOn": "2022-09-30T22:00:05.000Z",
+          "wordCount": 8,
+          "title": "Fardrop",
+          "imageUrl": "https://fardrop.xyz/sharing.jpg"
+        },
+        {
+          "id": "https://blog.blockswap.network/stakehouse-mainnet-ebf63ab12a2d?gi=f05dbb6230f",
+          "author": null,
+          "description": "Stakehouse Mainnet",
+          "link": "https://blog.blockswap.network/stakehouse-mainnet-ebf63ab12a2d?gi=f05dbb6230f",
+          "publishedOn": "2022-09-30T22:00:05.000Z",
+          "wordCount": 2468,
+          "title": "Stakehouse Mainnet",
+          "imageUrl": "https://miro.medium.com/max/1200/0*o6ys90SJAYxfRaks"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UirCb2TDUFo&feature=youtu.be",
+          "author": null,
+          "description": "StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=UirCb2TDUFo&feature=youtu.be",
+          "publishedOn": "2022-09-30T21:30:04.000Z",
+          "wordCount": null,
+          "title": "StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.meltemdemirors.com/_files/ugd/0fdae8_0cf99adbe0eb401bbe3a4a06d449745b.pdf",
           "author": null,
           "description": "[PDF] 0fdae8_0cf99adbe0eb401bbe3a4a06d449745b.pdf",
@@ -26,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
+          "author": null,
+          "description": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
+          "link": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
+          "publishedOn": "2022-09-30T18:00:04.000Z",
+          "wordCount": 689,
+          "title": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
+          "imageUrl": "https://blog.blowfish.xyz/content/images/2022/09/blowfish-image.png"
+        },
+        {
           "id": "https://github.com/ethereum/research/tree/master/py_plonk",
           "author": null,
           "description": "research/py_plonk at master · ethereum/research",
@@ -33,7 +73,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/4200d428de5be131f04c2c7e4b0c810d7f029e06c8b9ffcf65e495ecc786f291/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/5518ef70aaf82c439f41a97270ad4de99b77524d9c0feaed9faea3dcd3c8f586/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -46,22 +86,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
-          "author": null,
-          "description": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
-          "link": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
-          "publishedOn": "2022-09-30T18:00:04.000Z",
-          "wordCount": 689,
-          "title": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
-          "imageUrl": "https://blog.blowfish.xyz/content/images/2022/09/blowfish-image.png"
-        },
-        {
           "id": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "author": null,
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 62333,
+          "wordCount": 62336,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
         },
@@ -81,7 +111,7 @@
           "description": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "link": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 62317,
+          "wordCount": 62320,
           "title": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/uniswap-labs.png"
         },
@@ -106,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
-          "author": null,
-          "description": "Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do",
-          "link": "https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html",
-          "publishedOn": "2022-09-30T15:30:06.000Z",
-          "wordCount": null,
-          "title": "Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/mir-protocol/plonky2/pull/736",
           "author": null,
           "description": "Improve twiddle access for FFT by 0x0ece · Pull Request #736 · mir-protocol/plonky2",
@@ -136,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki",
-          "author": null,
-          "description": "bips/bip-0351.mediawiki at master · bitcoin/bips",
-          "link": "https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki",
-          "publishedOn": "2022-09-30T03:00:02.000Z",
-          "wordCount": 2549,
-          "title": "bips/bip-0351.mediawiki at master · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/4b39a0c3004fb413447d49687da3030354ecaa13d51ef87f7d7a66f8a772f9ca/bitcoin/bips"
-        },
-        {
           "id": "https://dreamfusion3d.github.io/",
           "author": null,
           "description": "DreamFusion: Text-to-3D using 2D Diffusion",
@@ -154,16 +164,6 @@
           "wordCount": 466,
           "title": "DreamFusion: Text-to-3D using 2D Diffusion",
           "imageUrl": "https://dreamfusion3d.github.io/assets/images/dreamfusion_samples.png"
-        },
-        {
-          "id": "https://nftnow.com/the-gateway-2022/",
-          "author": null,
-          "description": "The Gateway 2022",
-          "link": "https://nftnow.com/the-gateway-2022/",
-          "publishedOn": "2022-09-29T21:30:05.000Z",
-          "wordCount": 639,
-          "title": "The Gateway 2022",
-          "imageUrl": "https://nftnow.com/wp-content/uploads/2022/09/thegateway-og-image.jpg"
         },
         {
           "id": "https://thecoh.build/",
@@ -201,7 +201,7 @@
           "description": "StakeWise V3 Announcement",
           "link": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
           "publishedOn": "2022-09-29T17:00:02.000Z",
-          "wordCount": 6128,
+          "wordCount": 6131,
           "title": "StakeWise V3 Announcement",
           "imageUrl": "https://miro.medium.com/max/1200/1*psFkfRR9Hiqit2RVwAkdDg.jpeg"
         }

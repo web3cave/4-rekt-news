@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T21:23:39.550Z</id>
+    <id>urn:2022-09-30T22:27:30.512Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T21:23:39.550Z</updated>
+    <updated>2022-09-30T22:27:30.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fardrop]]></title>
+        <id>https://fardrop.xyz/</id>
+        <link href="https://fardrop.xyz/"/>
+        <updated>2022-09-30T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Fardrop]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stakehouse Mainnet]]></title>
+        <id>https://blog.blockswap.network/stakehouse-mainnet-ebf63ab12a2d?gi=f05dbb6230f</id>
+        <link href="https://blog.blockswap.network/stakehouse-mainnet-ebf63ab12a2d?gi=f05dbb6230f"/>
+        <updated>2022-09-30T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Stakehouse Mainnet]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates]]></title>
+        <id>https://www.youtube.com/watch?v=UirCb2TDUFo&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=UirCb2TDUFo&amp;feature=youtu.be"/>
+        <updated>2022-09-30T21:30:04.000Z</updated>
+        <summary type="html"><![CDATA[StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PDF] 0fdae8_0cf99adbe0eb401bbe3a4a06d449745b.pdf]]></title>
         <id>https://www.meltemdemirors.com/_files/ugd/0fdae8_0cf99adbe0eb401bbe3a4a06d449745b.pdf</id>
@@ -26,6 +56,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Blowfish, the Security Service Your Web3 Wallet Needs]]></title>
+        <id>https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/</id>
+        <link href="https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/"/>
+        <updated>2022-09-30T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Blowfish, the Security Service Your Web3 Wallet Needs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[research/py_plonk at master · ethereum/research]]></title>
         <id>https://github.com/ethereum/research/tree/master/py_plonk</id>
         <link href="https://github.com/ethereum/research/tree/master/py_plonk"/>
@@ -41,16 +81,6 @@
         <link href="https://zkrepl.dev/"/>
         <updated>2022-09-30T18:00:04.000Z</updated>
         <summary type="html"><![CDATA[zkREPL]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Blowfish, the Security Service Your Web3 Wallet Needs]]></title>
-        <id>https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/</id>
-        <link href="https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/"/>
-        <updated>2022-09-30T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Blowfish, the Security Service Your Web3 Wallet Needs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -106,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do]]></title>
-        <id>https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html</id>
-        <link href="https://www.nytimes.com/2022/09/30/opinion/ezra-klein-podcast-vitalik-buterin.html"/>
-        <updated>2022-09-30T15:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Opinion | Ethereum’s Founder on What Crypto Can — and Can’t — Do]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improve twiddle access for FFT by 0x0ece · Pull Request #736 · mir-protocol/plonky2]]></title>
         <id>https://github.com/mir-protocol/plonky2/pull/736</id>
         <link href="https://github.com/mir-protocol/plonky2/pull/736"/>
@@ -136,31 +156,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bips/bip-0351.mediawiki at master · bitcoin/bips]]></title>
-        <id>https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki</id>
-        <link href="https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki"/>
-        <updated>2022-09-30T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[bips/bip-0351.mediawiki at master · bitcoin/bips]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DreamFusion: Text-to-3D using 2D Diffusion]]></title>
         <id>https://dreamfusion3d.github.io/</id>
         <link href="https://dreamfusion3d.github.io/"/>
         <updated>2022-09-29T21:30:05.000Z</updated>
         <summary type="html"><![CDATA[DreamFusion: Text-to-3D using 2D Diffusion]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gateway 2022]]></title>
-        <id>https://nftnow.com/the-gateway-2022/</id>
-        <link href="https://nftnow.com/the-gateway-2022/"/>
-        <updated>2022-09-29T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[The Gateway 2022]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
