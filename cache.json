@@ -6,24 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://thedefiant.io/fragment-mega-mutants",
+          "author": null,
+          "description": "Mysterious Collector Leverages Mutant Ape NFTs to Buy a Third in $1.3M Deal - The Defiant",
+          "link": "https://thedefiant.io/fragment-mega-mutants",
+          "publishedOn": "2022-09-30T15:00:07.000Z",
+          "wordCount": 2953,
+          "title": "Mysterious Collector Leverages Mutant Ape NFTs to Buy a Third in $1.3M Deal - The Defiant",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/09/29115049/MutantLoanSale1000kEth.jpg"
+        },
+        {
           "id": "https://medium.com/nethermind-eth/a-path-to-permissionless-liquid-staking-9934557f6d20?source=social.tw&_branch_match_id=1104088859131333628&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1S9wL8jyTTTz9yxJAgCk16nrIwAAAA%3D%3D",
           "author": null,
           "description": "A Path To Permissionless Liquid Staking",
           "link": "https://medium.com/nethermind-eth/a-path-to-permissionless-liquid-staking-9934557f6d20?source=social.tw&_branch_match_id=1104088859131333628&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1S9wL8jyTTTz9yxJAgCk16nrIwAAAA%3D%3D",
           "publishedOn": "2022-09-30T14:30:02.000Z",
-          "wordCount": 9934,
+          "wordCount": 9557,
           "title": "A Path To Permissionless Liquid Staking",
           "imageUrl": "https://miro.medium.com/max/1200/1*gdW1NFV-8hOvBlEncL2jAQ.png"
-        },
-        {
-          "id": "https://github.com/lucidLuckylee/zerosync",
-          "author": null,
-          "description": "GitHub - lucidLuckylee/zerosync: Sync a Bitcoin full node using a STARK proof",
-          "link": "https://github.com/lucidLuckylee/zerosync",
-          "publishedOn": "2022-09-30T09:30:04.000Z",
-          "wordCount": 718,
-          "title": "GitHub - lucidLuckylee/zerosync: Sync a Bitcoin full node using a STARK proof",
-          "imageUrl": "https://opengraph.githubassets.com/2733e5dc9c8c5ac177daed0754126f77c0423c8f4a7f5d799535a5dbcb48d65f/lucidLuckylee/zerosync"
         },
         {
           "id": "https://github.com/mir-protocol/plonky2/pull/736",
@@ -46,12 +46,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki",
+          "author": null,
+          "description": "bips/bip-0351.mediawiki at master · bitcoin/bips",
+          "link": "https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki",
+          "publishedOn": "2022-09-30T03:00:02.000Z",
+          "wordCount": 2549,
+          "title": "bips/bip-0351.mediawiki at master · bitcoin/bips",
+          "imageUrl": "https://opengraph.githubassets.com/4b39a0c3004fb413447d49687da3030354ecaa13d51ef87f7d7a66f8a772f9ca/bitcoin/bips"
+        },
+        {
           "id": "https://thedefiant.io/",
           "author": null,
           "description": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
           "link": "https://thedefiant.io/",
           "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 3589,
+          "wordCount": 3625,
           "title": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/06/24193519/logothedefiant.png"
         },
@@ -61,19 +71,9 @@
           "description": "Judge denies another SEC attempt to shield documents in Ripple case",
           "link": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 61829,
+          "wordCount": 61834,
           "title": "Judge denies another SEC attempt to shield documents in Ripple case",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic.jpg"
-        },
-        {
-          "id": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
-          "author": null,
-          "description": "Raising the stakes: Collect PRIME rewards by staking $PDT",
-          "link": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
-          "publishedOn": "2022-09-29T23:30:05.000Z",
-          "wordCount": 5041,
-          "title": "Raising the stakes: Collect PRIME rewards by staking $PDT",
-          "imageUrl": "https://miro.medium.com/max/1200/1*ouG7Mcdv7BpfZ1X8fQY2Yw.png"
         },
         {
           "id": "https://dreamfusionpaper.github.io/",
@@ -111,7 +111,7 @@
           "description": "Rollup Day",
           "link": "https://www.eventbrite.com/e/rollup-day-tickets-424113834897",
           "publishedOn": "2022-09-29T21:00:02.000Z",
-          "wordCount": 2993,
+          "wordCount": 2994,
           "title": "Rollup Day",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F362038639%2F1132395223913%2F1%2Foriginal.20220927-130621?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=9a5699c778ec88a6913d6792b306cb19"
         },
@@ -161,7 +161,7 @@
           "description": "The Inevitability of UNIchain",
           "link": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
           "publishedOn": "2022-09-29T17:00:02.000Z",
-          "wordCount": 5737,
+          "wordCount": 6122,
           "title": "The Inevitability of UNIchain",
           "imageUrl": "https://miro.medium.com/max/1200/1*6OvSXU6QXeQNVl6VfxTurw.png"
         },
