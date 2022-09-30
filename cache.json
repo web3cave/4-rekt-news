@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/fauci-net-worth-soared-66-during-pandemic",
+          "author": null,
+          "description": "Fauci Net Worth Soared 66% During Pandemic | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/fauci-net-worth-soared-66-during-pandemic",
+          "publishedOn": "2022-09-30T05:00:03.000Z",
+          "wordCount": 1246,
+          "title": "Fauci Net Worth Soared 66% During Pandemic | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ethereum/pm/issues/636",
           "author": null,
           "description": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
@@ -21,19 +31,9 @@
           "description": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
           "link": "https://thedefiant.io/",
           "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 3525,
+          "wordCount": 3476,
           "title": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/06/24193519/logothedefiant.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Judge denies another SEC attempt to shield documents in Ripple case",
-          "link": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-09-30T01:00:02.000Z",
-          "wordCount": 61867,
-          "title": "Judge denies another SEC attempt to shield documents in Ripple case",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic.jpg"
         },
         {
           "id": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
@@ -91,7 +91,7 @@
           "description": "Rollup Day",
           "link": "https://www.eventbrite.com/e/rollup-day-tickets-424113834897",
           "publishedOn": "2022-09-29T21:00:02.000Z",
-          "wordCount": 2994,
+          "wordCount": 2993,
           "title": "Rollup Day",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F362038639%2F1132395223913%2F1%2Foriginal.20220927-130621?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=9a5699c778ec88a6913d6792b306cb19"
         },
@@ -121,7 +121,7 @@
           "description": "Foundation",
           "link": "https://foundation.app/",
           "publishedOn": "2022-09-29T20:00:05.000Z",
-          "wordCount": 4044,
+          "wordCount": 4297,
           "title": "Foundation",
           "imageUrl": "https://foundation.app/opengraph.jpg"
         },
@@ -176,6 +176,16 @@
           "imageUrl": "https://makeavideo.studio/assets/A_teddy_bear_painting_a_portrait-sm.gif"
         },
         {
+          "id": "https://www.reuters.com/investigates/special-report/usa-spies-iran/",
+          "author": null,
+          "description": "How the CIA failed Iranian spies in its secret war with Tehran",
+          "link": "https://www.reuters.com/investigates/special-report/usa-spies-iran/",
+          "publishedOn": "2022-09-29T15:00:02.000Z",
+          "wordCount": 7573,
+          "title": "How the CIA failed Iranian spies in its secret war with Tehran",
+          "imageUrl": "https://www.reuters.com/investigates/special-report/assets/usa-spies-iran/mastheads/usa-spies-iran-share.jpg?v=192516290922"
+        },
+        {
           "id": "https://www.sec.gov/news/press-release/2022-175",
           "author": null,
           "description": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
@@ -186,22 +196,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://rekt.news/ripmevbot/",
-          "author": null,
-          "description": "Rekt - RIP MEV BOT",
-          "link": "https://rekt.news/ripmevbot/",
-          "publishedOn": "2022-09-28T23:00:03.000Z",
-          "wordCount": 1556,
-          "title": "Rekt - RIP MEV BOT",
-          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/09/ripmev-header.png"
-        },
-        {
           "id": "https://www.mevwatch.info/",
           "author": null,
           "description": "MEV Watch",
           "link": "https://www.mevwatch.info/",
           "publishedOn": "2022-09-28T15:00:03.000Z",
-          "wordCount": 736,
+          "wordCount": 751,
           "title": "MEV Watch",
           "imageUrl": null
         }
