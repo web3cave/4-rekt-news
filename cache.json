@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ethereum/pm/issues/636",
+          "author": null,
+          "description": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/636",
+          "publishedOn": "2022-09-30T01:30:04.000Z",
+          "wordCount": 455,
+          "title": "KZG-Ceremony Call #9 · Issue #636 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/f33e3ac64fcf2a26d65fe02964d0a8ec64649c783830a4958285c6d67c457169/ethereum/pm/issues/636"
+        },
+        {
+          "id": "https://thedefiant.io/",
+          "author": null,
+          "description": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
+          "link": "https://thedefiant.io/",
+          "publishedOn": "2022-09-30T01:00:02.000Z",
+          "wordCount": 3525,
+          "title": "DeFi News | Your trusted guide to DeFi, Ethereum & Web 3.0 - The Defiant",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/06/24193519/logothedefiant.png"
+        },
+        {
+          "id": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Judge denies another SEC attempt to shield documents in Ripple case",
+          "link": "https://www.theblock.co/post/173901/judge-denies-another-sec-attempt-to-shield-documents-in-ripple-case?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-09-30T01:00:02.000Z",
+          "wordCount": 61867,
+          "title": "Judge denies another SEC attempt to shield documents in Ripple case",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic.jpg"
+        },
+        {
           "id": "https://medium.com/paragonsdao/raising-the-stakes-collect-prime-rewards-by-staking-pdt-7a6b02392b72",
           "author": null,
           "description": "Raising the stakes: Collect PRIME rewards by staking $PDT",
@@ -36,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://nftnow.com/the-gateway-2022/",
-          "author": null,
-          "description": "The Gateway 2022",
-          "link": "https://nftnow.com/the-gateway-2022/",
-          "publishedOn": "2022-09-29T21:30:05.000Z",
-          "wordCount": 639,
-          "title": "The Gateway 2022",
-          "imageUrl": "https://nftnow.com/wp-content/uploads/2022/09/thegateway-og-image.jpg"
-        },
-        {
           "id": "https://www.justice.gov/usao-co/pr/former-nsa-employee-arrested-espionage-related-charges",
           "author": null,
           "description": "Former NSA Employee Arrested on Espionage-Related Charges",
@@ -71,9 +91,9 @@
           "description": "Rollup Day",
           "link": "https://www.eventbrite.com/e/rollup-day-tickets-424113834897",
           "publishedOn": "2022-09-29T21:00:02.000Z",
-          "wordCount": 2993,
+          "wordCount": 2994,
           "title": "Rollup Day",
-          "imageUrl": "https://cdn.evbuc.com/images/362038639/1132395223913/1/logo.20220927-130621"
+          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F362038639%2F1132395223913%2F1%2Foriginal.20220927-130621?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=9a5699c778ec88a6913d6792b306cb19"
         },
         {
           "id": "https://thecoh.build/",
@@ -101,19 +121,19 @@
           "description": "Foundation",
           "link": "https://foundation.app/",
           "publishedOn": "2022-09-29T20:00:05.000Z",
-          "wordCount": 4061,
+          "wordCount": 4044,
           "title": "Foundation",
           "imageUrl": "https://foundation.app/opengraph.jpg"
         },
         {
-          "id": "https://mirror.xyz/aevo.eth/XtueK0oiRozH7mNVwBdpHLNlSf9vXEV6Nsa6ivWAYfo",
+          "id": "https://a16zcrypto.com/web3-regulation-apps-not-protocols/",
           "author": null,
-          "description": "Introducing Aevo",
-          "link": "https://mirror.xyz/aevo.eth/XtueK0oiRozH7mNVwBdpHLNlSf9vXEV6Nsa6ivWAYfo",
-          "publishedOn": "2022-09-29T19:30:05.000Z",
-          "wordCount": 2244,
-          "title": "Introducing Aevo",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/WCE-3Dma91gZQvGeNazQ_.jpeg?height=640&width=1280&h=640&w=1280&auto=compress"
+          "description": "Regulate web3 apps, not protocols",
+          "link": "https://a16zcrypto.com/web3-regulation-apps-not-protocols/",
+          "publishedOn": "2022-09-29T18:00:04.000Z",
+          "wordCount": 2145,
+          "title": "Regulate web3 apps, not protocols",
+          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/09/Web1-to-Web3_-Improving-Internet-Functionality-copy-scaled.jpeg"
         },
         {
           "id": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
@@ -154,26 +174,6 @@
           "wordCount": 3552,
           "title": "Make-A-Video",
           "imageUrl": "https://makeavideo.studio/assets/A_teddy_bear_painting_a_portrait-sm.gif"
-        },
-        {
-          "id": "https://otonomos.substack.com/p/from-violence-to-volition-bootstrapping",
-          "author": null,
-          "description": "From Violence to Volition: Bootstrapping New Nations on Blockchain",
-          "link": "https://otonomos.substack.com/p/from-violence-to-volition-bootstrapping",
-          "publishedOn": "2022-09-29T04:30:02.000Z",
-          "wordCount": 8225,
-          "title": "From Violence to Volition: Bootstrapping New Nations on Blockchain",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c21f47-eb34-4a54-8d90-4b56156d81c8_1174x908.png"
-        },
-        {
-          "id": "https://0xfoobar.substack.com/p/delegatecash",
-          "author": null,
-          "description": "delegate.cash",
-          "link": "https://0xfoobar.substack.com/p/delegatecash",
-          "publishedOn": "2022-09-29T03:00:02.000Z",
-          "wordCount": 4049,
-          "title": "delegate.cash",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420b2dae-96df-457a-8b92-73a3e7903253_1690x992.png"
         },
         {
           "id": "https://www.sec.gov/news/press-release/2022-175",
