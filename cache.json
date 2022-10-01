@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
+          "author": null,
+          "description": "Semantic reconstruction of continuous language from non-invasive brain recordings",
+          "link": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
+          "publishedOn": "2022-10-01T01:00:02.000Z",
+          "wordCount": 1105,
+          "title": "Semantic reconstruction of continuous language from non-invasive brain recordings",
+          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
+        },
+        {
+          "id": "https://open.spotify.com/episode/5Hgz2kdMyNy0oIN6y2j5UP?si=jqTyADp6RTWduHIyau0aLw",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/5Hgz2kdMyNy0oIN6y2j5UP?si=jqTyADp6RTWduHIyau0aLw",
+          "publishedOn": "2022-10-01T01:00:02.000Z",
+          "wordCount": 384,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8abe39a59bf032c7f1351a1955"
+        },
+        {
           "id": "https://blog.lopp.net/openai-whisper-transcription-testing/",
           "author": null,
           "description": "OpenAI Whisper Transcription Testing",
           "link": "https://blog.lopp.net/openai-whisper-transcription-testing/",
           "publishedOn": "2022-09-30T23:00:02.000Z",
-          "wordCount": 1653,
+          "wordCount": 1711,
           "title": "OpenAI Whisper Transcription Testing",
           "imageUrl": "https://blog.lopp.net/content/images/2022/09/transcription_robot.png"
         },
@@ -66,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
+          "author": null,
+          "description": "EIP-4844 Breakout Room #4",
+          "link": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
+          "publishedOn": "2022-09-30T19:15:03.000Z",
+          "wordCount": null,
+          "title": "EIP-4844 Breakout Room #4",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.blowfish.xyz/blowfish-raises-11-8m-round-led-by-paradigm/",
           "author": null,
           "description": "Introducing Blowfish, the Security Service Your Web3 Wallet Needs",
@@ -83,7 +113,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/9ca0676ed2acacb2a443770a479e30e6d5c73952edcb3423ce415fff1e212151/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/0d7af5c0e8aafea7ac181948f4ed22600af9c40392b3451533238a89e25b4f5c/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -101,19 +131,9 @@
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 62336,
+          "wordCount": 62855,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
-        },
-        {
-          "id": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
-          "author": null,
-          "description": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
-          "link": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
-          "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 4028,
-          "title": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/09/UN402-SOCIAL.jpg"
         },
         {
           "id": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
@@ -121,7 +141,7 @@
           "description": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "link": "https://www.theblock.co/post/173963/uniswap-seeks-more-than-100-million-in-funding-at-1-billion-valuation-tech-crunch?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-09-30T17:01:01.000Z",
-          "wordCount": 62320,
+          "wordCount": 62839,
           "title": "Uniswap seeks more than $100 million in funding at $1 billion valuation: Tech Crunch",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/uniswap-labs.png"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://opengraph.githubassets.com/5278ed5be621223262b556eda78e200796e1426b74b72587eaf332f7b0b37082/mir-protocol/plonky2/pull/736"
         },
         {
-          "id": "https://www.zerohedge.com/political/fauci-net-worth-soared-66-during-pandemic",
-          "author": null,
-          "description": "Fauci Net Worth Soared 66% During Pandemic | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/fauci-net-worth-soared-66-during-pandemic",
-          "publishedOn": "2022-09-30T05:00:03.000Z",
-          "wordCount": 1246,
-          "title": "Fauci Net Worth Soared 66% During Pandemic | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://dreamfusion3d.github.io/",
           "author": null,
           "description": "DreamFusion: Text-to-3D using 2D Diffusion",
@@ -194,16 +204,6 @@
           "wordCount": 6122,
           "title": "The Inevitability of UNIchain",
           "imageUrl": "https://miro.medium.com/max/1200/1*6OvSXU6QXeQNVl6VfxTurw.png"
-        },
-        {
-          "id": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
-          "author": null,
-          "description": "StakeWise V3 Announcement",
-          "link": "https://stakewise.medium.com/stakewise-v3-announcement-9e4fe73abdf2",
-          "publishedOn": "2022-09-29T17:00:02.000Z",
-          "wordCount": 6131,
-          "title": "StakeWise V3 Announcement",
-          "imageUrl": "https://miro.medium.com/max/1200/1*psFkfRR9Hiqit2RVwAkdDg.jpeg"
         }
       ]
     }
