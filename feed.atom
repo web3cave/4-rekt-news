@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-01T02:48:46.738Z</id>
+    <id>urn:2022-10-01T04:55:32.238Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-01T02:48:46.738Z</updated>
+    <updated>2022-10-01T04:55:32.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://ournetwork.substack.com/p/ournetwork-issue-140"/>
         <updated>2022-09-30T22:30:03.000Z</updated>
         <summary type="html"><![CDATA[OurNetwork #140]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dollar Can Be a Protocol for the Future of Money]]></title>
+        <id>https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/</id>
+        <link href="https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/"/>
+        <updated>2022-09-30T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[The Dollar Can Be a Protocol for the Future of Money]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://github.com/mir-protocol/plonky2/pull/736"/>
         <updated>2022-09-30T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Improve twiddle access for FFT by 0x0ece · Pull Request #736 · mir-protocol/plonky2]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamFusion: Text-to-3D using 2D Diffusion]]></title>
-        <id>https://dreamfusion3d.github.io/</id>
-        <link href="https://dreamfusion3d.github.io/"/>
-        <updated>2022-09-29T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[DreamFusion: Text-to-3D using 2D Diffusion]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
