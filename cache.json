@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
+          "id": "https://eips.ethereum.org/EIPS/eip-4337",
           "author": null,
-          "description": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
-          "link": "https://unchainedpodcast.com/why-the-ooki-dao-case-could-hurt-participation-in-daos-ep-402/",
-          "publishedOn": "2022-10-01T14:00:04.000Z",
-          "wordCount": 579,
-          "title": "Why the Ooki DAO Case Could Hurt Participation in DAOs - Ep. 402",
+          "description": "EIP-4337: Account Abstraction via Entry Point Contract specification",
+          "link": "https://eips.ethereum.org/EIPS/eip-4337",
+          "publishedOn": "2022-10-01T15:00:03.000Z",
+          "wordCount": 4159,
+          "title": "EIP-4337: Account Abstraction via Entry Point Contract specification",
           "imageUrl": null
+        },
+        {
+          "id": "https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808",
+          "author": null,
+          "description": "How much can we constrain builders without bringing back heavy burdens to proposers?",
+          "link": "https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808",
+          "publishedOn": "2022-10-01T15:00:03.000Z",
+          "wordCount": 1561,
+          "title": "How much can we constrain builders without bringing back heavy burdens to proposers?",
+          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
+        },
+        {
+          "id": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-supports-ethereum-blockchain-1016912",
+          "author": null,
+          "description": "Deutsche Telekom supports Ethereum Blockchain",
+          "link": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-supports-ethereum-blockchain-1016912",
+          "publishedOn": "2022-10-01T15:00:03.000Z",
+          "wordCount": 1399,
+          "title": "Deutsche Telekom supports Ethereum Blockchain",
+          "imageUrl": "https://www.telekom.com/resource/image/1016908/landscape_ratio2x1/3000/1500/16e2129296d72339922b81a6230cd056/Wf/bi-220929-blockchain-euthereum-en.jpg"
         },
         {
           "id": "https://www.nber.org/papers/w26598",
@@ -24,16 +44,6 @@
           "wordCount": 1236,
           "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
           "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
-        },
-        {
-          "id": "https://github.com/mds1/solidity-generators",
-          "author": null,
-          "description": "GitHub - mds1/solidity-generators: Solidity library offering linspace, arange, and logspace methods to generate...",
-          "link": "https://github.com/mds1/solidity-generators",
-          "publishedOn": "2022-10-01T08:00:04.000Z",
-          "wordCount": 1146,
-          "title": "GitHub - mds1/solidity-generators: Solidity library offering linspace, arange, and logspace methods to generate...",
-          "imageUrl": "https://opengraph.githubassets.com/f005979932d2ba4eafe2d9c2f28af481a1b0b38b2aad67b2b22199c63eb60f4c/mds1/solidity-generators"
         },
         {
           "id": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
@@ -101,7 +111,7 @@
           "description": "The Dollar Can Be a Protocol for the Future of Money",
           "link": "https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/",
           "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 8706,
+          "wordCount": 8708,
           "title": "The Dollar Can Be a Protocol for the Future of Money",
           "imageUrl": "https://www.coindesk.com/resizer/6xOaRMVbDbE1YgQL49Pc6knZfEY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73VR2WFBINFLHPGVVWBY54UZFQ.jpg"
         },
@@ -124,16 +134,6 @@
           "wordCount": 2573,
           "title": "Stakehouse Mainnet",
           "imageUrl": "https://miro.medium.com/max/1200/0*o6ys90SJAYxfRaks"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UirCb2TDUFo&feature=youtu.be",
-          "author": null,
-          "description": "StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=UirCb2TDUFo&feature=youtu.be",
-          "publishedOn": "2022-09-30T21:30:04.000Z",
-          "wordCount": null,
-          "title": "StakeWise v3 announced, MetaMask portfolio & more - The Daily Gwei Refuel #458 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://www.meltemdemirors.com/_files/ugd/0fdae8_0cf99adbe0eb401bbe3a4a06d449745b.pdf",
@@ -173,7 +173,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/a3a2148d2dfdc998575259f50fdf89f886b062b45dfd985d8d5bcfc7712b4d80/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/e416f408603c2cb7368dd0786806b3a21da4ea69ceccb9b7c1989e15cbcafa35/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -191,7 +191,7 @@
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 62925,
+          "wordCount": 63797,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
         },
