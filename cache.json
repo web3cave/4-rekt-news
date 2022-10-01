@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
+          "author": null,
+          "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
+          "link": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
+          "publishedOn": "2022-10-01T22:00:05.000Z",
+          "wordCount": 10080,
+          "title": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/07/cp-1024x587.png"
+        },
+        {
+          "id": "https://github.com/gakonst/pyrevm/",
+          "author": null,
+          "description": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
+          "link": "https://github.com/gakonst/pyrevm/",
+          "publishedOn": "2022-10-01T21:30:04.000Z",
+          "wordCount": 630,
+          "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
+          "imageUrl": "https://opengraph.githubassets.com/8c6db610e33f9c5893e4f40e824b65a44926c208e68d2d772f6c9766d3f75c4c/gakonst/pyrevm"
+        },
+        {
+          "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
+          "author": null,
+          "description": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
+          "link": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
+          "publishedOn": "2022-10-01T21:30:04.000Z",
+          "wordCount": 3607,
+          "title": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
+          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/cosmos1/original/2X/2/2a3beb3e0f97ddad3b51a8d0d4a22abaa95604d8.png"
+        },
+        {
           "id": "https://lenstube.xyz/watch/0x0ace-0x18",
           "author": null,
           "description": "Lenstube",
@@ -14,26 +44,6 @@
           "wordCount": 11,
           "title": "Lenstube",
           "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
-        },
-        {
-          "id": "https://realtps.net/",
-          "author": null,
-          "description": "Real TPS",
-          "link": "https://realtps.net/",
-          "publishedOn": "2022-10-01T21:00:02.000Z",
-          "wordCount": 84,
-          "title": "Real TPS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/california-gasoline-now-more-double-price-texas",
-          "author": null,
-          "description": "California Gasoline Is Now More Than Double The Price In Texas | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/california-gasoline-now-more-double-price-texas",
-          "publishedOn": "2022-10-01T21:00:02.000Z",
-          "wordCount": 920,
-          "title": "California Gasoline Is Now More Than Double The Price In Texas | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en",
@@ -56,14 +66,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*6OvSXU6QXeQNVl6VfxTurw.png"
         },
         {
-          "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
+          "id": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
           "author": null,
-          "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
-          "link": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
-          "publishedOn": "2022-10-01T18:30:03.000Z",
-          "wordCount": 10080,
-          "title": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
-          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/07/cp-1024x587.png"
+          "description": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
+          "link": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
+          "publishedOn": "2022-10-01T19:00:02.000Z",
+          "wordCount": 3160,
+          "title": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
+          "imageUrl": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-12/GettyImages-1230158918.jpg?h=c6980913&itok=10_F4iYE"
         },
         {
           "id": "https://radleybalko.substack.com/p/coming-soon",
@@ -71,19 +81,9 @@
           "description": "Welcome to The Watch",
           "link": "https://radleybalko.substack.com/p/coming-soon",
           "publishedOn": "2022-10-01T18:30:03.000Z",
-          "wordCount": 3009,
+          "wordCount": 3007,
           "title": "Welcome to The Watch",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fradleybalko.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D95df9a33a667e54c18d3295dd2567af3%26version%3D7"
-        },
-        {
-          "id": "https://research.lido.fi/t/lido-on-ethereum-call-for-relay-providers/2844",
-          "author": null,
-          "description": "Lido on Ethereum: Call for Relay Providers",
-          "link": "https://research.lido.fi/t/lido-on-ethereum-call-for-relay-providers/2844",
-          "publishedOn": "2022-10-01T18:00:04.000Z",
-          "wordCount": 1884,
-          "title": "Lido on Ethereum: Call for Relay Providers",
-          "imageUrl": "https://aws1.discourse-cdn.com/business20/uploads/lido/original/1X/8d3e77d0e4936c97f2b6189ab18370bd88fbe91e.png"
         },
         {
           "id": "https://www.theblock.co/post/174181/crypto-checking-account-provider-juno-raises-18-million-and-launches-token",
@@ -183,7 +183,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/44c820cb7d2f8971b2d2e11ab4edcdad3ef4441776082dc5e918bd1971587baf/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/19d2a5a8233bc9a82bb85e38ca5b9667fd4ab9b355e41ed3d787206c4b9f25ce/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
