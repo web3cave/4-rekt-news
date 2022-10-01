@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptostats.community/blog/subgraph-editor-launch",
+          "author": null,
+          "description": "Introducing CryptoStats' Subgraph Editor - CryptoStats",
+          "link": "https://cryptostats.community/blog/subgraph-editor-launch",
+          "publishedOn": "2022-10-01T16:30:03.000Z",
+          "wordCount": 1227,
+          "title": "Introducing CryptoStats' Subgraph Editor - CryptoStats",
+          "imageUrl": "https://blog-assets.cryptofees.info/subgraph-editor-launch/cover.png"
+        },
+        {
+          "id": "https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid",
+          "author": null,
+          "description": "Stop Drinking the Elite’s Kool-Aid",
+          "link": "https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid",
+          "publishedOn": "2022-10-01T16:00:04.000Z",
+          "wordCount": 3467,
+          "title": "Stop Drinking the Elite’s Kool-Aid",
+          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTkyNzAwMDQ5NTIyNjk3NDE2/bukele_title.png"
+        },
+        {
           "id": "https://eips.ethereum.org/EIPS/eip-4337",
           "author": null,
           "description": "EIP-4337: Account Abstraction via Entry Point Contract specification",
@@ -24,26 +44,6 @@
           "wordCount": 1561,
           "title": "How much can we constrain builders without bringing back heavy burdens to proposers?",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
-        },
-        {
-          "id": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-supports-ethereum-blockchain-1016912",
-          "author": null,
-          "description": "Deutsche Telekom supports Ethereum Blockchain",
-          "link": "https://www.telekom.com/en/media/media-information/archive/deutsche-telekom-supports-ethereum-blockchain-1016912",
-          "publishedOn": "2022-10-01T15:00:03.000Z",
-          "wordCount": 1399,
-          "title": "Deutsche Telekom supports Ethereum Blockchain",
-          "imageUrl": "https://www.telekom.com/resource/image/1016908/landscape_ratio2x1/3000/1500/16e2129296d72339922b81a6230cd056/Wf/bi-220929-blockchain-euthereum-en.jpg"
-        },
-        {
-          "id": "https://www.nber.org/papers/w26598",
-          "author": null,
-          "description": "The Private and External Costs of Germany's Nuclear Phase-Out",
-          "link": "https://www.nber.org/papers/w26598",
-          "publishedOn": "2022-10-01T13:30:05.000Z",
-          "wordCount": 1236,
-          "title": "The Private and External Costs of Germany's Nuclear Phase-Out",
-          "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
         },
         {
           "id": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
@@ -101,7 +101,7 @@
           "description": "OurNetwork #140",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-140",
           "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 2904,
+          "wordCount": 2903,
           "title": "OurNetwork #140",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8a2cb52-d81d-47e3-aa90-e01e5255526a_420x300.jpeg"
         },
@@ -111,7 +111,7 @@
           "description": "The Dollar Can Be a Protocol for the Future of Money",
           "link": "https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/",
           "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 8708,
+          "wordCount": 8656,
           "title": "The Dollar Can Be a Protocol for the Future of Money",
           "imageUrl": "https://www.coindesk.com/resizer/6xOaRMVbDbE1YgQL49Pc6knZfEY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73VR2WFBINFLHPGVVWBY54UZFQ.jpg"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/e416f408603c2cb7368dd0786806b3a21da4ea69ceccb9b7c1989e15cbcafa35/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/1faec514b2599f3acb9732889dec76b09ed07f3c0d073d9d896f694cdac3d703/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
@@ -191,7 +191,7 @@
           "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
           "publishedOn": "2022-09-30T17:30:06.000Z",
-          "wordCount": 63797,
+          "wordCount": 63809,
           "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
         },
