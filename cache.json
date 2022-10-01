@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-7sWLIybWnQ",
+          "author": null,
+          "description": "Sohn 2022 | John Collison in conversation with Stanley Druckenmiller",
+          "link": "https://www.youtube.com/watch?v=-7sWLIybWnQ",
+          "publishedOn": "2022-10-01T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Sohn 2022 | John Collison in conversation with Stanley Druckenmiller",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1cz1oUYqoMg&feature=youtu.be",
+          "author": null,
+          "description": "Around the Block Ep 36: Who are the Plaintiffs Challenging the Tornado Cash Sanctions?",
+          "link": "https://www.youtube.com/watch?v=1cz1oUYqoMg&feature=youtu.be",
+          "publishedOn": "2022-10-01T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Around the Block Ep 36: Who are the Plaintiffs Challenging the Tornado Cash Sanctions?",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
           "author": null,
           "description": "The OP_Return Wars of 2014 - Dapps Vs Bitcoin Transactions | BitMEX Blog",
@@ -23,7 +43,7 @@
           "publishedOn": "2022-10-01T21:30:04.000Z",
           "wordCount": 630,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
-          "imageUrl": "https://opengraph.githubassets.com/8c6db610e33f9c5893e4f40e824b65a44926c208e68d2d772f6c9766d3f75c4c/gakonst/pyrevm"
+          "imageUrl": "https://opengraph.githubassets.com/8775b56c3170ce4e5a2d3ffcf8c19385b10bd9a1b74aeb4d032ab3ce43efe21f/gakonst/pyrevm"
         },
         {
           "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
@@ -71,7 +91,7 @@
           "description": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "link": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
           "publishedOn": "2022-10-01T19:00:02.000Z",
-          "wordCount": 3160,
+          "wordCount": 3156,
           "title": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "imageUrl": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-12/GettyImages-1230158918.jpg?h=c6980913&itok=10_F4iYE"
         },
@@ -81,7 +101,7 @@
           "description": "Welcome to The Watch",
           "link": "https://radleybalko.substack.com/p/coming-soon",
           "publishedOn": "2022-10-01T18:30:03.000Z",
-          "wordCount": 3007,
+          "wordCount": 3009,
           "title": "Welcome to The Watch",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fradleybalko.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D95df9a33a667e54c18d3295dd2567af3%26version%3D7"
         },
@@ -126,26 +146,6 @@
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
         },
         {
-          "id": "https://open.spotify.com/episode/5Hgz2kdMyNy0oIN6y2j5UP?si=jqTyADp6RTWduHIyau0aLw",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/5Hgz2kdMyNy0oIN6y2j5UP?si=jqTyADp6RTWduHIyau0aLw",
-          "publishedOn": "2022-10-01T01:00:02.000Z",
-          "wordCount": 384,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8abe39a59bf032c7f1351a1955"
-        },
-        {
-          "id": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20221003closed.htm",
-          "author": null,
-          "description": "October 3, 2022 -- October 03, 2022 -- Closed Board Meeting",
-          "link": "https://www.federalreserve.gov/aboutthefed/boardmeetings/20221003closed.htm",
-          "publishedOn": "2022-10-01T01:00:02.000Z",
-          "wordCount": 1365,
-          "title": "October 3, 2022 -- October 03, 2022 -- Closed Board Meeting",
-          "imageUrl": "/images/Social_Default_Image.jpg"
-        },
-        {
           "id": "https://blog.lopp.net/openai-whisper-transcription-testing/",
           "author": null,
           "description": "OpenAI Whisper Transcription Testing",
@@ -171,7 +171,7 @@
           "description": "The Dollar Can Be a Protocol for the Future of Money",
           "link": "https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/",
           "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 8665,
+          "wordCount": 8654,
           "title": "The Dollar Can Be a Protocol for the Future of Money",
           "imageUrl": "https://www.coindesk.com/resizer/6xOaRMVbDbE1YgQL49Pc6knZfEY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73VR2WFBINFLHPGVVWBY54UZFQ.jpg"
         },
@@ -183,7 +183,7 @@
           "publishedOn": "2022-09-30T18:00:04.000Z",
           "wordCount": 836,
           "title": "research/py_plonk at master · ethereum/research",
-          "imageUrl": "https://opengraph.githubassets.com/19d2a5a8233bc9a82bb85e38ca5b9667fd4ab9b355e41ed3d787206c4b9f25ce/ethereum/research"
+          "imageUrl": "https://opengraph.githubassets.com/12e05ecaf90d181cf064c4f43d66a3736389fae09b7f4f9a3d67ec93752e528e/ethereum/research"
         },
         {
           "id": "https://zkrepl.dev/",
