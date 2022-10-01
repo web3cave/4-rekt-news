@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x0ace-0x18",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x0ace-0x18",
+          "publishedOn": "2022-10-01T21:00:02.000Z",
+          "wordCount": 11,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://realtps.net/",
+          "author": null,
+          "description": "Real TPS",
+          "link": "https://realtps.net/",
+          "publishedOn": "2022-10-01T21:00:02.000Z",
+          "wordCount": 84,
+          "title": "Real TPS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/california-gasoline-now-more-double-price-texas",
+          "author": null,
+          "description": "California Gasoline Is Now More Than Double The Price In Texas | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/california-gasoline-now-more-double-price-texas",
+          "publishedOn": "2022-10-01T21:00:02.000Z",
+          "wordCount": 920,
+          "title": "California Gasoline Is Now More Than Double The Price In Texas | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en",
           "author": null,
           "description": "Coinbase Wallet extension",
@@ -96,16 +126,6 @@
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
         },
         {
-          "id": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
-          "author": null,
-          "description": "Semantic reconstruction of continuous language from non-invasive brain recordings",
-          "link": "https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1",
-          "publishedOn": "2022-10-01T01:00:02.000Z",
-          "wordCount": 1105,
-          "title": "Semantic reconstruction of continuous language from non-invasive brain recordings",
-          "imageUrl": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png"
-        },
-        {
           "id": "https://open.spotify.com/episode/5Hgz2kdMyNy0oIN6y2j5UP?si=jqTyADp6RTWduHIyau0aLw",
           "author": null,
           "description": "Spotify",
@@ -146,34 +166,14 @@
           "imageUrl": "https://cdn.theatlantic.com/thumbor/g-fktqH0VnHn3jIN9B3Q2kRBQ3M=/0x105:2000x1147/1200x625/media/img/mt/2022/09/0922_Musk/original.jpg"
         },
         {
-          "id": "https://ournetwork.substack.com/p/ournetwork-issue-140",
-          "author": null,
-          "description": "OurNetwork #140",
-          "link": "https://ournetwork.substack.com/p/ournetwork-issue-140",
-          "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 2903,
-          "title": "OurNetwork #140",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8a2cb52-d81d-47e3-aa90-e01e5255526a_420x300.jpeg"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/",
           "author": null,
           "description": "The Dollar Can Be a Protocol for the Future of Money",
           "link": "https://www.coindesk.com/layer2/2022/09/30/the-dollar-can-be-a-protocol-for-the-future-of-money/",
           "publishedOn": "2022-09-30T22:30:03.000Z",
-          "wordCount": 8672,
+          "wordCount": 8665,
           "title": "The Dollar Can Be a Protocol for the Future of Money",
           "imageUrl": "https://www.coindesk.com/resizer/6xOaRMVbDbE1YgQL49Pc6knZfEY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73VR2WFBINFLHPGVVWBY54UZFQ.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
-          "author": null,
-          "description": "EIP-4844 Breakout Room #4",
-          "link": "https://www.youtube.com/watch?v=Oc_e7YJQl-I&feature=youtu.be",
-          "publishedOn": "2022-09-30T19:15:03.000Z",
-          "wordCount": null,
-          "title": "EIP-4844 Breakout Room #4",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/ethereum/research/tree/master/py_plonk",
