@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ft.com/content/6104a699-fa7f-4a81-9c35-a9a2f8ff92d2",
+          "author": null,
+          "description": "Credit Suisse and the CDS Streisand effect",
+          "link": "https://www.ft.com/content/6104a699-fa7f-4a81-9c35-a9a2f8ff92d2",
+          "publishedOn": "2022-10-02T16:30:04.000Z",
+          "wordCount": 2751,
+          "title": "Credit Suisse and the CDS Streisand effect",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.10000yearclock.net/learnmore.html",
+          "author": null,
+          "description": "10,000 Year Clock",
+          "link": "http://www.10000yearclock.net/learnmore.html",
+          "publishedOn": "2022-10-02T16:00:05.000Z",
+          "wordCount": 777,
+          "title": "10,000 Year Clock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
+          "author": null,
+          "description": "Phishing-resistant MFA | Zero Trust | Cloudflare",
+          "link": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
+          "publishedOn": "2022-10-02T16:00:05.000Z",
+          "wordCount": 5784,
+          "title": "Phishing-resistant MFA | Zero Trust | Cloudflare",
+          "imageUrl": "https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png"
+        },
+        {
+          "id": "https://sanctorumblog.wordpress.com/",
+          "author": null,
+          "description": "Acta Sanctorum",
+          "link": "https://sanctorumblog.wordpress.com/",
+          "publishedOn": "2022-10-02T15:30:03.000Z",
+          "wordCount": 14644,
+          "title": "Acta Sanctorum",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://markets.businessinsider.com/news/currencies/china-bank-dollar-yuan-currency-markets-economy-beijing-fed-hike-2022-9",
           "author": null,
           "description": "China tells state banks to prepare for a massive dollar dump and yuan buying spree as Beijing's prior interventions...",
@@ -33,6 +73,16 @@
           "publishedOn": "2022-10-02T15:00:03.000Z",
           "wordCount": 902,
           "title": "VPN Usage Surges Amid Protests, Conflict, & War In 2022 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yfAQRPsajJE",
+          "author": null,
+          "description": "UPSAHL - Monica Lewinsky (Official Video)",
+          "link": "https://www.youtube.com/watch?v=yfAQRPsajJE",
+          "publishedOn": "2022-10-02T15:00:03.000Z",
+          "wordCount": null,
+          "title": "UPSAHL - Monica Lewinsky (Official Video)",
           "imageUrl": null
         },
         {
@@ -66,14 +116,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
+          "id": "https://defillama.com/dexs/ronin",
           "author": null,
-          "description": "Phishing-resistant MFA | Zero Trust | Cloudflare",
-          "link": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
-          "publishedOn": "2022-10-02T13:00:02.000Z",
-          "wordCount": 5784,
-          "title": "Phishing-resistant MFA | Zero Trust | Cloudflare",
-          "imageUrl": "https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png"
+          "description": "DefiLlama",
+          "link": "https://defillama.com/dexs/ronin",
+          "publishedOn": "2022-10-02T13:30:05.000Z",
+          "wordCount": 1534,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://www.lynalden.com/bond-investing/",
@@ -111,19 +161,9 @@
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11558,
+          "wordCount": 11550,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/09/30/podcasts/transcript-ezra-klein-interviews-vitalik-buterin.html",
-          "author": null,
-          "description": "Transcript: Ezra Klein Interviews Vitalik Buterin",
-          "link": "https://www.nytimes.com/2022/09/30/podcasts/transcript-ezra-klein-interviews-vitalik-buterin.html",
-          "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": null,
-          "title": "Transcript: Ezra Klein Interviews Vitalik Buterin",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/gakonst/pyrevm/",
@@ -136,26 +176,6 @@
           "imageUrl": "https://opengraph.githubassets.com/c4775db3a4896a8b2414b501df465e5c6968e4aefe48c9266f0aaae307657da6/gakonst/pyrevm"
         },
         {
-          "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
-          "author": null,
-          "description": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
-          "link": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
-          "publishedOn": "2022-10-01T21:30:04.000Z",
-          "wordCount": 3617,
-          "title": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
-          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/cosmos1/original/2X/2/2a3beb3e0f97ddad3b51a8d0d4a22abaa95604d8.png"
-        },
-        {
-          "id": "https://lenstube.xyz/watch/0x0ace-0x18",
-          "author": null,
-          "description": "Lenstube",
-          "link": "https://lenstube.xyz/watch/0x0ace-0x18",
-          "publishedOn": "2022-10-01T21:00:02.000Z",
-          "wordCount": 11,
-          "title": "Lenstube",
-          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
-        },
-        {
           "id": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en",
           "author": null,
           "description": "Coinbase Wallet extension",
@@ -164,26 +184,6 @@
           "wordCount": 1558,
           "title": "Coinbase Wallet extension",
           "imageUrl": "https://lh3.googleusercontent.com/HE43gZIKp76W3bCaCbPwiTf8uB__YpY8byc4dkb300gNQGDcAraTM4l1uiwfsjhre9rtsHGiok8d3TY11dirxvLq=w128-h128-e365-rj-sc0x00ffffff"
-        },
-        {
-          "id": "https://radleybalko.substack.com/p/coming-soon",
-          "author": null,
-          "description": "Welcome to The Watch",
-          "link": "https://radleybalko.substack.com/p/coming-soon",
-          "publishedOn": "2022-10-01T18:30:03.000Z",
-          "wordCount": 3009,
-          "title": "Welcome to The Watch",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fradleybalko.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D95df9a33a667e54c18d3295dd2567af3%26version%3D7"
-        },
-        {
-          "id": "https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid",
-          "author": null,
-          "description": "Stop Drinking the Elite’s Kool-Aid",
-          "link": "https://bitcoinmagazine.com/print/stop-drinking-the-elites-kool-aid",
-          "publishedOn": "2022-10-01T16:00:04.000Z",
-          "wordCount": 3467,
-          "title": "Stop Drinking the Elite’s Kool-Aid",
-          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTkyNzAwMDQ5NTIyNjk3NDE2/bukele_title.png"
         },
         {
           "id": "https://eips.ethereum.org/EIPS/eip-4337",
