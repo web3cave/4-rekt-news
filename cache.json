@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zillow.com/homedetails/12201-Crewe-St-North-Hollywood-CA-91605/20003587_zpid/",
+          "author": null,
+          "description": "12201 Crewe St, North Hollywood, CA 91605 | MLS #22-204901 | Zillow",
+          "link": "https://www.zillow.com/homedetails/12201-Crewe-St-North-Hollywood-CA-91605/20003587_zpid/",
+          "publishedOn": "2022-10-02T22:00:04.000Z",
+          "wordCount": 174,
+          "title": "12201 Crewe St, North Hollywood, CA 91605 | MLS #22-204901 | Zillow",
+          "imageUrl": null
+        },
+        {
           "id": "https://people.eecs.berkeley.edu/~ksk/files/MEV_Redistribution.pdf",
           "author": null,
           "description": "[PDF] MEV_Redistribution.pdf",
@@ -76,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/markets/opec-cut-oil-output-much-15-million-bd-wendesday-reverse-price-drop",
+          "author": null,
+          "description": "OPEC+ To Cut Oil Output By As Much As 1.5 Million B/D On Wendesday To Reverse Price Drop | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/opec-cut-oil-output-much-15-million-bd-wendesday-reverse-price-drop",
+          "publishedOn": "2022-10-02T21:00:02.000Z",
+          "wordCount": 1335,
+          "title": "OPEC+ To Cut Oil Output By As Much As 1.5 Million B/D On Wendesday To Reverse Price Drop | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.profgalloway.com/id/",
           "author": null,
           "description": "ID | No Mercy / No Malice",
@@ -103,16 +123,6 @@
           "publishedOn": "2022-10-02T19:00:02.000Z",
           "wordCount": 1613,
           "title": "Credit Suisse CEO Touts 'Strong Liquidity Position'...Again; Market Says 'Nein' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/oath-keepers-seditious-conspiracy-trial-could-hinge-centuries-old-militia-laws",
-          "author": null,
-          "description": "'Oath Keepers' Seditious-Conspiracy Trial Could Hinge On Centuries-Old Militia Laws: The Insurrection Act | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/oath-keepers-seditious-conspiracy-trial-could-hinge-centuries-old-militia-laws",
-          "publishedOn": "2022-10-02T19:00:02.000Z",
-          "wordCount": 1574,
-          "title": "'Oath Keepers' Seditious-Conspiracy Trial Could Hinge On Centuries-Old Militia Laws: The Insurrection Act | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -146,22 +156,12 @@
           "imageUrl": "https://cdn.theatlantic.com/thumbor/g-fktqH0VnHn3jIN9B3Q2kRBQ3M=/0x105:2000x1147/1200x625/media/img/mt/2022/09/0922_Musk/original.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=1cz1oUYqoMg&feature=youtu.be",
-          "author": null,
-          "description": "Around the Block Ep 36: Who are the Plaintiffs Challenging the Tornado Cash Sanctions?",
-          "link": "https://www.youtube.com/watch?v=1cz1oUYqoMg&feature=youtu.be",
-          "publishedOn": "2022-10-02T07:30:04.000Z",
-          "wordCount": null,
-          "title": "Around the Block Ep 36: Who are the Plaintiffs Challenging the Tornado Cash Sanctions?",
-          "imageUrl": null
-        },
-        {
           "id": "https://soonaorlater.medium.com/inflationary-vs-deflationary-shocks-5f64bd4e94bb",
           "author": null,
           "description": "Inflationary vs. Deflationary Shocks",
           "link": "https://soonaorlater.medium.com/inflationary-vs-deflationary-shocks-5f64bd4e94bb",
           "publishedOn": "2022-10-02T05:00:04.000Z",
-          "wordCount": 2608,
+          "wordCount": 2648,
           "title": "Inflationary vs. Deflationary Shocks",
           "imageUrl": "https://miro.medium.com/max/1200/1*DRxX8WExn53XPzAtARkIfA.png"
         },
@@ -171,7 +171,7 @@
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11569,
+          "wordCount": 11566,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
         },
@@ -181,9 +181,9 @@
           "description": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
           "link": "https://github.com/gakonst/pyrevm/",
           "publishedOn": "2022-10-01T21:30:04.000Z",
-          "wordCount": 702,
+          "wordCount": 717,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
-          "imageUrl": "https://opengraph.githubassets.com/c4775db3a4896a8b2414b501df465e5c6968e4aefe48c9266f0aaae307657da6/gakonst/pyrevm"
+          "imageUrl": "https://opengraph.githubassets.com/67a400ec6f86178f370e7af6a843909f2db53ed88d80507e55a4ac5bb82f5549/gakonst/pyrevm"
         },
         {
           "id": "https://eips.ethereum.org/EIPS/eip-4337",
