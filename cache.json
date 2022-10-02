@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZDe_4hRMAiU",
+          "author": null,
+          "description": "Philosophy for children by Matthew Lipman",
+          "link": "https://www.youtube.com/watch?v=ZDe_4hRMAiU",
+          "publishedOn": "2022-10-02T07:00:03.000Z",
+          "wordCount": null,
+          "title": "Philosophy for children by Matthew Lipman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://remm.hhs.gov/zones_nucleardetonation.htm",
+          "author": null,
+          "description": "Damage Zones after a Nuclear Detonation: Idealized Map - Radiation Emergency Medical Management",
+          "link": "https://remm.hhs.gov/zones_nucleardetonation.htm",
+          "publishedOn": "2022-10-02T07:00:03.000Z",
+          "wordCount": 1409,
+          "title": "Damage Zones after a Nuclear Detonation: Idealized Map - Radiation Emergency Medical Management",
+          "imageUrl": null
+        },
+        {
           "id": "https://soonaorlater.medium.com/inflationary-vs-deflationary-shocks-5f64bd4e94bb",
           "author": null,
           "description": "Inflationary vs. Deflationary Shocks",
@@ -36,32 +56,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/firearm-background-checks-now-report-home-addresses-gun-owners",
-          "author": null,
-          "description": "Firearm Background-Checks Now Report Home Addresses Of Gun Owners | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/firearm-background-checks-now-report-home-addresses-gun-owners",
-          "publishedOn": "2022-10-02T05:00:04.000Z",
-          "wordCount": 1411,
-          "title": "Firearm Background-Checks Now Report Home Addresses Of Gun Owners | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.dagnedover.com/collections/the-dakota-backpack",
-          "author": null,
-          "description": "DAGNE DOVER - Dakota Neoprene Backpack",
-          "link": "https://www.dagnedover.com/collections/the-dakota-backpack",
-          "publishedOn": "2022-10-02T03:30:03.000Z",
-          "wordCount": 32532,
-          "title": "DAGNE DOVER - Dakota Neoprene Backpack",
-          "imageUrl": "//cdn.shopify.com/s/files/1/0260/1439/products/365-Dakota-Onyx-S-0694_medium.jpg?v=1630556433"
-        },
-        {
           "id": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "author": null,
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11538,
+          "wordCount": 11552,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
         },
@@ -83,7 +83,7 @@
           "publishedOn": "2022-10-01T21:30:04.000Z",
           "wordCount": 717,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
-          "imageUrl": "https://opengraph.githubassets.com/d31877e58b91dc6d569a84c8b597af8cee9ac005aba4614f498c3c69e3d4f670/gakonst/pyrevm"
+          "imageUrl": "https://opengraph.githubassets.com/058512cadccc3b1700efd69e42ad36c102588dd77a097d5abbecca6568a849bf/gakonst/pyrevm"
         },
         {
           "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
@@ -91,7 +91,7 @@
           "description": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
           "link": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
           "publishedOn": "2022-10-01T21:30:04.000Z",
-          "wordCount": 3609,
+          "wordCount": 3611,
           "title": "[PROPOSAL ##][DRAFT] A new vision for Cosmos Hub",
           "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/cosmos1/original/2X/2/2a3beb3e0f97ddad3b51a8d0d4a22abaa95604d8.png"
         },
@@ -141,7 +141,7 @@
           "description": "Welcome to The Watch",
           "link": "https://radleybalko.substack.com/p/coming-soon",
           "publishedOn": "2022-10-01T18:30:03.000Z",
-          "wordCount": 3009,
+          "wordCount": 3007,
           "title": "Welcome to The Watch",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1008,h_528,c_fill,f_jpg,q_auto:best,fl_progressive:steep/https%3A%2F%2Fradleybalko.substack.com%2Ftwitter%2Fsubscribe-card.svg%3Fv%3D95df9a33a667e54c18d3295dd2567af3%26version%3D7"
         },
