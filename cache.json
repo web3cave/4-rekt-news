@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.zerohedge.com/geopolitical/global-overview-human-migration",
+          "id": "https://www.theatlantic.com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/",
           "author": null,
-          "description": "A Global Overview of Human Migration | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/global-overview-human-migration",
-          "publishedOn": "2022-10-02T12:00:06.000Z",
-          "wordCount": 715,
-          "title": "A Global Overview of Human Migration | ZeroHedge",
+          "description": "Elon Musk’s Texts Shatter the Myth of the Tech Genius",
+          "link": "https://www.theatlantic.com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/",
+          "publishedOn": "2022-10-02T13:30:05.000Z",
+          "wordCount": 3412,
+          "title": "Elon Musk’s Texts Shatter the Myth of the Tech Genius",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/g-fktqH0VnHn3jIN9B3Q2kRBQ3M=/0x105:2000x1147/1200x625/media/img/mt/2022/09/0922_Musk/original.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/gold-geopolitics",
+          "author": null,
+          "description": "Gold & Geopolitics | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/gold-geopolitics",
+          "publishedOn": "2022-10-02T13:30:05.000Z",
+          "wordCount": 1192,
+          "title": "Gold & Geopolitics | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
+          "author": null,
+          "description": "Phishing-resistant MFA | Zero Trust | Cloudflare",
+          "link": "https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/",
+          "publishedOn": "2022-10-02T13:00:02.000Z",
+          "wordCount": 5784,
+          "title": "Phishing-resistant MFA | Zero Trust | Cloudflare",
+          "imageUrl": "https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png"
         },
         {
           "id": "https://www.rand.org/about/history/baran.html",
@@ -81,7 +101,7 @@
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11559,
+          "wordCount": 11561,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
         },
@@ -91,7 +111,7 @@
           "description": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
           "link": "https://github.com/gakonst/pyrevm/",
           "publishedOn": "2022-10-01T21:30:04.000Z",
-          "wordCount": 717,
+          "wordCount": 702,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
           "imageUrl": "https://opengraph.githubassets.com/c4775db3a4896a8b2414b501df465e5c6968e4aefe48c9266f0aaae307657da6/gakonst/pyrevm"
         },
@@ -126,22 +146,12 @@
           "imageUrl": "https://lh3.googleusercontent.com/HE43gZIKp76W3bCaCbPwiTf8uB__YpY8byc4dkb300gNQGDcAraTM4l1uiwfsjhre9rtsHGiok8d3TY11dirxvLq=w128-h128-e365-rj-sc0x00ffffff"
         },
         {
-          "id": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
-          "author": null,
-          "description": "The Inevitability of UNIchain",
-          "link": "https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4",
-          "publishedOn": "2022-10-01T19:00:02.000Z",
-          "wordCount": 6103,
-          "title": "The Inevitability of UNIchain",
-          "imageUrl": "https://miro.medium.com/max/1200/1*6OvSXU6QXeQNVl6VfxTurw.png"
-        },
-        {
           "id": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
           "author": null,
           "description": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "link": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
           "publishedOn": "2022-10-01T19:00:02.000Z",
-          "wordCount": 3113,
+          "wordCount": 3170,
           "title": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "imageUrl": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-12/GettyImages-1230158918.jpg?h=c6980913&itok=10_F4iYE"
         },
@@ -161,7 +171,7 @@
           "description": "Crypto checking account provider Juno raises $18 million and launches token",
           "link": "https://www.theblock.co/post/174181/crypto-checking-account-provider-juno-raises-18-million-and-launches-token",
           "publishedOn": "2022-10-01T17:00:03.000Z",
-          "wordCount": 62509,
+          "wordCount": 62044,
           "title": "Crypto checking account provider Juno raises $18 million and launches token",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220603_Funding-Roundup.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 1869,
           "title": "How much can we constrain builders without bringing back heavy burdens to proposers?",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
-        },
-        {
-          "id": "https://www.theatlantic.com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/",
-          "author": null,
-          "description": "Elon Musk’s Texts Shatter the Myth of the Tech Genius",
-          "link": "https://www.theatlantic.com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/",
-          "publishedOn": "2022-09-30T23:00:02.000Z",
-          "wordCount": 3412,
-          "title": "Elon Musk’s Texts Shatter the Myth of the Tech Genius",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/g-fktqH0VnHn3jIN9B3Q2kRBQ3M=/0x105:2000x1147/1200x625/media/img/mt/2022/09/0922_Musk/original.jpg"
         }
       ]
     }
