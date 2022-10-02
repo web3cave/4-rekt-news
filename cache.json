@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/opec-to-weigh-production-cut-to-bolster-oil-prices-11664734482?mod=hp_lead_pos1",
+          "author": null,
+          "description": "OPEC+ to Weigh Production Cut to Bolster Oil Prices",
+          "link": "https://www.wsj.com/articles/opec-to-weigh-production-cut-to-bolster-oil-prices-11664734482?mod=hp_lead_pos1",
+          "publishedOn": "2022-10-02T20:00:04.000Z",
+          "wordCount": 6644,
+          "title": "OPEC+ to Weigh Production Cut to Bolster Oil Prices",
+          "imageUrl": "https://images.wsj.net/im-635504/social"
+        },
+        {
+          "id": "https://www.profgalloway.com/id/",
+          "author": null,
+          "description": "ID | No Mercy / No Malice",
+          "link": "https://www.profgalloway.com/id/",
+          "publishedOn": "2022-10-02T19:30:04.000Z",
+          "wordCount": 4884,
+          "title": "ID | No Mercy / No Malice",
+          "imageUrl": "https://www.profgalloway.com/wp-content/uploads/2022/09/illustration-gif-520x293.gif"
+        },
+        {
+          "id": "https://github.com/m1guelpf/yt-whisper",
+          "author": null,
+          "description": "GitHub - m1guelpf/yt-whisper: Using OpenAI's Whisper to automatically generate YouTube subtitles",
+          "link": "https://github.com/m1guelpf/yt-whisper",
+          "publishedOn": "2022-10-02T19:30:04.000Z",
+          "wordCount": 706,
+          "title": "GitHub - m1guelpf/yt-whisper: Using OpenAI's Whisper to automatically generate YouTube subtitles",
+          "imageUrl": "https://opengraph.githubassets.com/b25b29c8d0ac7523fed3d696da887a3fe1f2e5cb12fa3799c661643190abf7b1/m1guelpf/yt-whisper"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8S3Yt-NxY0E",
           "author": null,
           "description": "Best 60s Dancer Boy Ever - The Nitty Gritty",
@@ -16,22 +46,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://capsules.untitledfrontier.studio/",
-          "author": null,
-          "description": "Capsules of All Our Lives",
-          "link": "https://capsules.untitledfrontier.studio/",
-          "publishedOn": "2022-10-02T19:00:02.000Z",
-          "wordCount": 44,
-          "title": "Capsules of All Our Lives",
-          "imageUrl": "https://gleaming-druid-d2fa91.netlify.app/static/media/splash.79dafca4.png"
-        },
-        {
           "id": "https://www.zerohedge.com/markets/credit-suisse-ceo-touts-strong-liquidity-positionagain-market-says-nein",
           "author": null,
           "description": "Credit Suisse CEO Touts 'Strong Liquidity Position'...Again; Market Says 'Nein' | ZeroHedge",
           "link": "https://www.zerohedge.com/markets/credit-suisse-ceo-touts-strong-liquidity-positionagain-market-says-nein",
           "publishedOn": "2022-10-02T19:00:02.000Z",
-          "wordCount": 1610,
+          "wordCount": 1613,
           "title": "Credit Suisse CEO Touts 'Strong Liquidity Position'...Again; Market Says 'Nein' | ZeroHedge",
           "imageUrl": null
         },
@@ -96,26 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=eikduh2-2Cc&feature=youtu.be",
-          "author": null,
-          "description": "The fragile power of Iranian Women: Tipping point for a new humanity",
-          "link": "https://www.youtube.com/watch?v=eikduh2-2Cc&feature=youtu.be",
-          "publishedOn": "2022-10-02T17:00:02.000Z",
-          "wordCount": null,
-          "title": "The fragile power of Iranian Women: Tipping point for a new humanity",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.10000yearclock.net/learnmore.html",
-          "author": null,
-          "description": "10,000 Year Clock",
-          "link": "http://www.10000yearclock.net/learnmore.html",
-          "publishedOn": "2022-10-02T16:00:05.000Z",
-          "wordCount": 777,
-          "title": "10,000 Year Clock",
-          "imageUrl": null
-        },
-        {
           "id": "https://markets.businessinsider.com/news/currencies/china-bank-dollar-yuan-currency-markets-economy-beijing-fed-hike-2022-9",
           "author": null,
           "description": "China tells state banks to prepare for a massive dollar dump and yuan buying spree as Beijing's prior interventions...",
@@ -171,7 +171,7 @@
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11567,
+          "wordCount": 11571,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
         },
