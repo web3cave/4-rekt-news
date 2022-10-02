@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/gakonst/pyrevm/blob/master/pytest/test.py",
+          "id": "https://soonaorlater.medium.com/inflationary-vs-deflationary-shocks-5f64bd4e94bb",
           "author": null,
-          "description": "pyrevm/test.py at master · gakonst/pyrevm",
-          "link": "https://github.com/gakonst/pyrevm/blob/master/pytest/test.py",
-          "publishedOn": "2022-10-02T04:30:03.000Z",
-          "wordCount": 489,
-          "title": "pyrevm/test.py at master · gakonst/pyrevm",
-          "imageUrl": "https://opengraph.githubassets.com/5cc131b261bfb2dbc40cffd8cc856f36df04d172f9eee0e47b23d34e729fb6cc/gakonst/pyrevm"
+          "description": "Inflationary vs. Deflationary Shocks",
+          "link": "https://soonaorlater.medium.com/inflationary-vs-deflationary-shocks-5f64bd4e94bb",
+          "publishedOn": "2022-10-02T05:00:04.000Z",
+          "wordCount": 2648,
+          "title": "Inflationary vs. Deflationary Shocks",
+          "imageUrl": "https://miro.medium.com/max/1200/1*DRxX8WExn53XPzAtARkIfA.png"
+        },
+        {
+          "id": "https://showtime.xyz/",
+          "author": null,
+          "description": "Showtime",
+          "link": "https://showtime.xyz/",
+          "publishedOn": "2022-10-02T05:00:04.000Z",
+          "wordCount": 322,
+          "title": "Showtime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/global-overview-human-migration",
+          "author": null,
+          "description": "A Global Overview of Human Migration | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/global-overview-human-migration",
+          "publishedOn": "2022-10-02T05:00:04.000Z",
+          "wordCount": 715,
+          "title": "A Global Overview of Human Migration | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/firearm-background-checks-now-report-home-addresses-gun-owners",
+          "author": null,
+          "description": "Firearm Background-Checks Now Report Home Addresses Of Gun Owners | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/firearm-background-checks-now-report-home-addresses-gun-owners",
+          "publishedOn": "2022-10-02T05:00:04.000Z",
+          "wordCount": 1411,
+          "title": "Firearm Background-Checks Now Report Home Addresses Of Gun Owners | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://www.dagnedover.com/collections/the-dakota-backpack",
@@ -31,39 +61,9 @@
           "description": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "link": "https://variety.com/2022/music/news/rap-lyrics-cant-be-used-evidence-newsom-california-new-bill-1235389803/",
           "publishedOn": "2022-10-02T02:00:03.000Z",
-          "wordCount": 11538,
+          "wordCount": 11534,
           "title": "California Restricts Use of Rap Lyrics in Criminal Trials After Gov. Newsom Signs Bill",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/09/Collage-Maker-30-Sep-2022-03.34-PM.jpg?w=1000"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JS5z_dxWeQg",
-          "author": null,
-          "description": "HANG CHALLENGE Dublin Ireland Edition! 100 seconds for 100 euro",
-          "link": "https://www.youtube.com/watch?v=JS5z_dxWeQg",
-          "publishedOn": "2022-10-02T01:00:03.000Z",
-          "wordCount": null,
-          "title": "HANG CHALLENGE Dublin Ireland Edition! 100 seconds for 100 euro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bluealloy/revm/tree/main/crates/revmjs",
-          "author": null,
-          "description": "revm/crates/revmjs at main · bluealloy/revm",
-          "link": "https://github.com/bluealloy/revm/tree/main/crates/revmjs",
-          "publishedOn": "2022-10-02T00:00:05.000Z",
-          "wordCount": 425,
-          "title": "revm/crates/revmjs at main · bluealloy/revm",
-          "imageUrl": "https://opengraph.githubassets.com/bb60181ce595d86048a36e0b6793aa30d9f8bfae99c4e6d7b2b7999ee8783376/bluealloy/revm"
-        },
-        {
-          "id": "https://github.com/bluealloy/revm/blob/main/crates/revmjs/index.html#L81-L94",
-          "author": null,
-          "description": "revm/index.html at main · bluealloy/revm",
-          "link": "https://github.com/bluealloy/revm/blob/main/crates/revmjs/index.html#L81-L94",
-          "publishedOn": "2022-10-02T00:00:05.000Z",
-          "wordCount": 864,
-          "title": "revm/index.html at main · bluealloy/revm",
-          "imageUrl": "https://opengraph.githubassets.com/bb60181ce595d86048a36e0b6793aa30d9f8bfae99c4e6d7b2b7999ee8783376/bluealloy/revm"
         },
         {
           "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
@@ -83,7 +83,7 @@
           "publishedOn": "2022-10-01T21:30:04.000Z",
           "wordCount": 717,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
-          "imageUrl": "https://opengraph.githubassets.com/5cc131b261bfb2dbc40cffd8cc856f36df04d172f9eee0e47b23d34e729fb6cc/gakonst/pyrevm"
+          "imageUrl": "https://opengraph.githubassets.com/de2971da815f08498c6cd6366b955e2264bc960faf94b599dd9b3a6997be0e60/gakonst/pyrevm"
         },
         {
           "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328/11",
@@ -131,7 +131,7 @@
           "description": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "link": "https://justthenews.com/government/federal-agencies/biden-administration-rewarded-private-entities-got-2020-election",
           "publishedOn": "2022-10-01T19:00:02.000Z",
-          "wordCount": 3168,
+          "wordCount": 3113,
           "title": "Outsourced censorship: Feds used private entity to target millions of social posts in 2020",
           "imageUrl": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-12/GettyImages-1230158918.jpg?h=c6980913&itok=10_F4iYE"
         },
@@ -181,7 +181,7 @@
           "description": "How much can we constrain builders without bringing back heavy burdens to proposers?",
           "link": "https://ethresear.ch/t/how-much-can-we-constrain-builders-without-bringing-back-heavy-burdens-to-proposers/13808",
           "publishedOn": "2022-10-01T15:00:03.000Z",
-          "wordCount": 1713,
+          "wordCount": 1787,
           "title": "How much can we constrain builders without bringing back heavy burdens to proposers?",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/1/17c9ae8c2f65fde9dbf814376563b338b1d0aff7.png"
         },
