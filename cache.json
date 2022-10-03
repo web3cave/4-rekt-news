@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qDMeDg431j8",
+          "author": null,
+          "description": "What if Credit Suisse was a Crypto bank?",
+          "link": "https://www.youtube.com/watch?v=qDMeDg431j8",
+          "publishedOn": "2022-10-03T23:30:04.000Z",
+          "wordCount": null,
+          "title": "What if Credit Suisse was a Crypto bank?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://shapeshift.com/",
+          "author": null,
+          "description": "ShapeShift",
+          "link": "https://shapeshift.com/",
+          "publishedOn": "2022-10-03T22:30:04.000Z",
+          "wordCount": 571,
+          "title": "ShapeShift",
+          "imageUrl": "https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/5d127964111260e675c25267_Shareimage.png"
+        },
+        {
           "id": "https://github.com/paritytech/polkadot/pull/5205",
           "author": null,
           "description": "Governance v2 (Kusama only) by gavofyork · Pull Request #5205 · paritytech/polkadot",
           "link": "https://github.com/paritytech/polkadot/pull/5205",
           "publishedOn": "2022-10-03T21:30:04.000Z",
-          "wordCount": 1771,
+          "wordCount": 1768,
           "title": "Governance v2 (Kusama only) by gavofyork · Pull Request #5205 · paritytech/polkadot",
           "imageUrl": "https://opengraph.githubassets.com/514b8b30bab3747ce7ede28c836914e07f9bc713fcedf1b3ecdb90752611be04/paritytech/polkadot/pull/5205"
         },
@@ -41,7 +61,7 @@
           "description": "U.N. Calls On Fed, Other Central Banks to Halt Interest-Rate Increases",
           "link": "https://www.wsj.com/articles/u-n-calls-on-fed-other-central-banks-to-halt-interest-rate-increases-11664809202",
           "publishedOn": "2022-10-03T19:00:02.000Z",
-          "wordCount": 6046,
+          "wordCount": 6044,
           "title": "U.N. Calls On Fed, Other Central Banks to Halt Interest-Rate Increases",
           "imageUrl": "https://images.wsj.net/im-635720/social"
         },
@@ -111,7 +131,7 @@
           "description": "Conservative Party chairman sparks anger by telling people ‘earn more money’ if they are struggling with bills",
           "link": "https://www.lbc.co.uk/news/conservative-party-chairman-anger-earn-more-money/",
           "publishedOn": "2022-10-03T09:00:03.000Z",
-          "wordCount": 4552,
+          "wordCount": 4563,
           "title": "Conservative Party chairman sparks anger by telling people ‘earn more money’ if they are struggling with bills",
           "imageUrl": "https://images.lbc.co.uk/images/331141?width=1200&crop=16_9&signature=Ri7XDS3TpS8xXGBRdXMTUoXPoP0="
         },
@@ -124,26 +144,6 @@
           "wordCount": 5504,
           "title": "Three Things #37: October 2, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87a1627d-38b6-4433-a346-b0ccb7ae089a_3069x2483.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/victor-davis-hanson-thinnest-veneer-civilization-remains",
-          "author": null,
-          "description": "Victor Davis Hanson: The Thinnest Veneer Of Civilization Remains | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/victor-davis-hanson-thinnest-veneer-civilization-remains",
-          "publishedOn": "2022-10-03T05:30:05.000Z",
-          "wordCount": 1742,
-          "title": "Victor Davis Hanson: The Thinnest Veneer Of Civilization Remains | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://polynya.mirror.xyz/zYV0g6II0iREbcaph8362sRBC2_a2hm6NlKj1-yuh6Q",
-          "author": null,
-          "description": "Why rollups can offer higher throughput than L1 execution",
-          "link": "https://polynya.mirror.xyz/zYV0g6II0iREbcaph8362sRBC2_a2hm6NlKj1-yuh6Q",
-          "publishedOn": "2022-10-03T05:00:02.000Z",
-          "wordCount": 2850,
-          "title": "Why rollups can offer higher throughput than L1 execution",
-          "imageUrl": ""
         },
         {
           "id": "https://forum.cosmos.network/t/proposal-draft-a-new-vision-for-cosmos-hub/7328",
@@ -181,7 +181,7 @@
           "description": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "link": "https://www.ft.com/content/5f7c9eab-ca5f-4425-91be-5781313c9723",
           "publishedOn": "2022-10-02T21:00:02.000Z",
-          "wordCount": 2216,
+          "wordCount": 2220,
           "title": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "imageUrl": null
         },
