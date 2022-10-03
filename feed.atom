@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T11:22:33.717Z</id>
+    <id>urn:2022-10-03T12:54:17.950Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-03T11:22:33.717Z</updated>
+    <updated>2022-10-03T12:54:17.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Contact Forms from Spam with Proof of Work]]></title>
+        <id>https://blog.lopp.net/protect-contact-forms-from-spam-with-proof-of-work/</id>
+        <link href="https://blog.lopp.net/protect-contact-forms-from-spam-with-proof-of-work/"/>
+        <updated>2022-10-03T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[How to Protect Contact Forms from Spam with Proof of Work]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Timestamp Dependence - Ethereum Smart Contract Best Practices]]></title>
         <id>https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/</id>
@@ -121,16 +131,6 @@
         <link href="https://norswap.com/bedrock-vs-nitro/"/>
         <updated>2022-10-03T01:30:03.000Z</updated>
         <summary type="html"><![CDATA[norswap · Optimism Bedrock vs Arbitrum Nitro]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive]]></title>
-        <id>https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected</id>
-        <link href="https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected"/>
-        <updated>2022-10-03T00:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
