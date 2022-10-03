@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://capsules.untitledfrontier.studio/",
+          "author": null,
+          "description": "Capsules of All Our Lives",
+          "link": "https://capsules.untitledfrontier.studio/",
+          "publishedOn": "2022-10-03T13:30:04.000Z",
+          "wordCount": 44,
+          "title": "Capsules of All Our Lives",
+          "imageUrl": "https://gleaming-druid-d2fa91.netlify.app/static/media/splash.79dafca4.png"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2022-183",
+          "author": null,
+          "description": "SEC.gov | SEC Charges Kim Kardashian for Unlawfully Touting Crypto Security",
+          "link": "https://www.sec.gov/news/press-release/2022-183",
+          "publishedOn": "2022-10-03T13:00:02.000Z",
+          "wordCount": 1066,
+          "title": "SEC.gov | SEC Charges Kim Kardashian for Unlawfully Touting Crypto Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/gas-hungry-germany-approves-arms-deal-saudi-arabia",
+          "author": null,
+          "description": "Gas-Hungry Germany Approves Arms Deal With Saudi Arabia | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/gas-hungry-germany-approves-arms-deal-saudi-arabia",
+          "publishedOn": "2022-10-03T13:00:02.000Z",
+          "wordCount": 809,
+          "title": "Gas-Hungry Germany Approves Arms Deal With Saudi Arabia | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/weve-crossed-rubicon-bear-traps-warns-risk-crash-rising",
+          "author": null,
+          "description": "We've \"Crossed The Rubicon\": Bear Traps Warns \"Risk Of A Crash Is Rising\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/weve-crossed-rubicon-bear-traps-warns-risk-crash-rising",
+          "publishedOn": "2022-10-03T13:00:02.000Z",
+          "wordCount": 2085,
+          "title": "We've \"Crossed The Rubicon\": Bear Traps Warns \"Risk Of A Crash Is Rising\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/u-turn-uk-truss-ditches-tax-cuts-top-earners-restore-credibility",
+          "author": null,
+          "description": "UK's Truss Pushed Into \"Humiliating\" U-Turn, Scraps Tax Cuts For Top Earners To \"Restore Credibility\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/u-turn-uk-truss-ditches-tax-cuts-top-earners-restore-credibility",
+          "publishedOn": "2022-10-03T13:00:02.000Z",
+          "wordCount": 2608,
+          "title": "UK's Truss Pushed Into \"Humiliating\" U-Turn, Scraps Tax Cuts For Top Earners To \"Restore Credibility\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.lopp.net/protect-contact-forms-from-spam-with-proof-of-work/",
           "author": null,
           "description": "How to Protect Contact Forms from Spam with Proof of Work",
@@ -14,26 +64,6 @@
           "wordCount": 1709,
           "title": "How to Protect Contact Forms from Spam with Proof of Work",
           "imageUrl": "https://blog.lopp.net/content/images/2021/07/kill_captcha.jpg"
-        },
-        {
-          "id": "https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/",
-          "author": null,
-          "description": "Timestamp Dependence - Ethereum Smart Contract Best Practices",
-          "link": "https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/",
-          "publishedOn": "2022-10-03T11:00:02.000Z",
-          "wordCount": 614,
-          "title": "Timestamp Dependence - Ethereum Smart Contract Best Practices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.lopp.net/",
-          "author": null,
-          "description": "Cypherpunk Cogitations",
-          "link": "https://blog.lopp.net/",
-          "publishedOn": "2022-10-03T11:00:02.000Z",
-          "wordCount": 540,
-          "title": "Cypherpunk Cogitations",
-          "imageUrl": "https://blog.lopp.net/content/images/2021/04/cypherpunk-1.jpeg"
         },
         {
           "id": "https://www.zerohedge.com/covid-19/sweden-stops-recommending-covid-19-vaccines-children",
@@ -46,14 +76,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/revolution-air-brits-burn-power-bills-amid-historic-energy-crisis",
+          "id": "https://schellingpoint.gitcoin.co/",
           "author": null,
-          "description": "Revolution In Air As Brits Burn Power Bills Amid Historic Energy Crisis  | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/revolution-air-brits-burn-power-bills-amid-historic-energy-crisis",
-          "publishedOn": "2022-10-03T11:00:02.000Z",
-          "wordCount": 1182,
-          "title": "Revolution In Air As Brits Burn Power Bills Amid Historic Energy Crisis  | ZeroHedge",
-          "imageUrl": null
+          "description": "SCHELLING POINT BOGOTA",
+          "link": "https://schellingpoint.gitcoin.co/",
+          "publishedOn": "2022-10-03T09:00:03.000Z",
+          "wordCount": 586,
+          "title": "SCHELLING POINT BOGOTA",
+          "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-card.jpg"
         },
         {
           "id": "https://www.lbc.co.uk/news/conservative-party-chairman-anger-earn-more-money/",
@@ -66,32 +96,12 @@
           "imageUrl": "https://images.lbc.co.uk/images/331141?width=1200&crop=16_9&signature=Ri7XDS3TpS8xXGBRdXMTUoXPoP0="
         },
         {
-          "id": "https://schellingpoint.gitcoin.co/",
-          "author": null,
-          "description": "SCHELLING POINT BOGOTA",
-          "link": "https://schellingpoint.gitcoin.co/",
-          "publishedOn": "2022-10-03T09:00:03.000Z",
-          "wordCount": 586,
-          "title": "SCHELLING POINT BOGOTA",
-          "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-card.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/hungary-now-only-eu-state-still-receiving-russian-gas",
-          "author": null,
-          "description": "Hungary Is Now The Only EU State Still Receiving Russian Gas | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/hungary-now-only-eu-state-still-receiving-russian-gas",
-          "publishedOn": "2022-10-03T08:30:02.000Z",
-          "wordCount": 826,
-          "title": "Hungary Is Now The Only EU State Still Receiving Russian Gas | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://rettig.substack.com/p/three-things-37-october-2-2022?utm_source=twitter&sd=pf",
           "author": null,
           "description": "Three Things #37: October 2, 2022",
           "link": "https://rettig.substack.com/p/three-things-37-october-2-2022?utm_source=twitter&sd=pf",
           "publishedOn": "2022-10-03T07:00:03.000Z",
-          "wordCount": 5446,
+          "wordCount": 5457,
           "title": "Three Things #37: October 2, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87a1627d-38b6-4433-a346-b0ccb7ae089a_3069x2483.jpeg"
         },
@@ -151,7 +161,7 @@
           "description": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "link": "https://www.ft.com/content/5f7c9eab-ca5f-4425-91be-5781313c9723",
           "publishedOn": "2022-10-02T21:00:02.000Z",
-          "wordCount": 2216,
+          "wordCount": 2219,
           "title": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "imageUrl": null
         },
@@ -184,16 +194,6 @@
           "wordCount": 90,
           "title": "Underdog Fantasy: Daily and Season-Long Fantasy Contests",
           "imageUrl": null
-        },
-        {
-          "id": "https://markets.businessinsider.com/news/currencies/china-bank-dollar-yuan-currency-markets-economy-beijing-fed-hike-2022-9",
-          "author": null,
-          "description": "China tells state banks to prepare for a massive dollar dump and yuan buying spree as Beijing's prior interventions...",
-          "link": "https://markets.businessinsider.com/news/currencies/china-bank-dollar-yuan-currency-markets-economy-beijing-fed-hike-2022-9",
-          "publishedOn": "2022-10-02T15:00:03.000Z",
-          "wordCount": 3075,
-          "title": "China tells state banks to prepare for a massive dollar dump and yuan buying spree as Beijing's prior interventions...",
-          "imageUrl": "https://i.insider.com/633595a225c9a90018a60a7c?width=1200&format=jpeg"
         },
         {
           "id": "https://eips.ethereum.org/EIPS/eip-4337",
