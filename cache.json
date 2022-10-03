@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://plan99.net/~mike/satoshi-emails/thread1.html",
+          "id": "https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/",
           "author": null,
-          "description": "Gmail - Questions about BitCoin",
-          "link": "https://plan99.net/~mike/satoshi-emails/thread1.html",
-          "publishedOn": "2022-10-03T09:00:04.000Z",
-          "wordCount": 3794,
-          "title": "Gmail - Questions about BitCoin",
+          "description": "Timestamp Dependence - Ethereum Smart Contract Best Practices",
+          "link": "https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/timestamp-dependence/",
+          "publishedOn": "2022-10-03T11:00:02.000Z",
+          "wordCount": 614,
+          "title": "Timestamp Dependence - Ethereum Smart Contract Best Practices",
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/shorts/Mt187r0Ec9A",
+          "id": "https://blog.lopp.net/",
           "author": null,
-          "description": "Adorable Baby Kookaburra Demonstrates its Signature Laugh || ViralHog",
-          "link": "https://www.youtube.com/shorts/Mt187r0Ec9A",
-          "publishedOn": "2022-10-03T09:00:04.000Z",
-          "wordCount": 1682,
-          "title": "Adorable Baby Kookaburra Demonstrates its Signature Laugh || ViralHog",
-          "imageUrl": "https://i.ytimg.com/vi/Mt187r0Ec9A/hq2.jpg"
+          "description": "Cypherpunk Cogitations",
+          "link": "https://blog.lopp.net/",
+          "publishedOn": "2022-10-03T11:00:02.000Z",
+          "wordCount": 540,
+          "title": "Cypherpunk Cogitations",
+          "imageUrl": "https://blog.lopp.net/content/images/2021/04/cypherpunk-1.jpeg"
+        },
+        {
+          "id": "https://www.zerohedge.com/covid-19/sweden-stops-recommending-covid-19-vaccines-children",
+          "author": null,
+          "description": "Sweden Stops Recommending COVID-19 Vaccines For Children | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/sweden-stops-recommending-covid-19-vaccines-children",
+          "publishedOn": "2022-10-03T11:00:02.000Z",
+          "wordCount": 1061,
+          "title": "Sweden Stops Recommending COVID-19 Vaccines For Children | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/revolution-air-brits-burn-power-bills-amid-historic-energy-crisis",
+          "author": null,
+          "description": "Revolution In Air As Brits Burn Power Bills Amid Historic Energy Crisis  | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/revolution-air-brits-burn-power-bills-amid-historic-energy-crisis",
+          "publishedOn": "2022-10-03T11:00:02.000Z",
+          "wordCount": 1182,
+          "title": "Revolution In Air As Brits Burn Power Bills Amid Historic Energy Crisis  | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://www.lbc.co.uk/news/conservative-party-chairman-anger-earn-more-money/",
@@ -31,7 +51,7 @@
           "description": "Conservative Party chairman sparks anger by telling people ‘earn more money’ if they are struggling with bills",
           "link": "https://www.lbc.co.uk/news/conservative-party-chairman-anger-earn-more-money/",
           "publishedOn": "2022-10-03T09:00:03.000Z",
-          "wordCount": 4531,
+          "wordCount": 4548,
           "title": "Conservative Party chairman sparks anger by telling people ‘earn more money’ if they are struggling with bills",
           "imageUrl": "https://images.lbc.co.uk/images/331141?width=1200&crop=16_9&signature=Ri7XDS3TpS8xXGBRdXMTUoXPoP0="
         },
@@ -46,34 +66,14 @@
           "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-card.jpg"
         },
         {
-          "id": "https://github.com/gakonst/pyrevm/pull/2#issuecomment-1264889103",
+          "id": "https://www.zerohedge.com/geopolitical/hungary-now-only-eu-state-still-receiving-russian-gas",
           "author": null,
-          "description": "Add `snailtracer` benchmark by ziyadedher · Pull Request #2 · gakonst/pyrevm",
-          "link": "https://github.com/gakonst/pyrevm/pull/2#issuecomment-1264889103",
-          "publishedOn": "2022-10-03T08:00:04.000Z",
-          "wordCount": 1083,
-          "title": "Add `snailtracer` benchmark by ziyadedher · Pull Request #2 · gakonst/pyrevm",
-          "imageUrl": "https://opengraph.githubassets.com/e8da806aa69dcfefbe61f01da53089513c9ad665a5afc7f537c826d8f9c402ab/gakonst/pyrevm/pull/2"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-who-profits-pipeline-terror",
-          "author": null,
-          "description": "Escobar: Who Profits From Pipeline Terror? | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-who-profits-pipeline-terror",
-          "publishedOn": "2022-10-03T07:30:03.000Z",
-          "wordCount": 3912,
-          "title": "Escobar: Who Profits From Pipeline Terror? | ZeroHedge",
+          "description": "Hungary Is Now The Only EU State Still Receiving Russian Gas | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/hungary-now-only-eu-state-still-receiving-russian-gas",
+          "publishedOn": "2022-10-03T08:30:02.000Z",
+          "wordCount": 826,
+          "title": "Hungary Is Now The Only EU State Still Receiving Russian Gas | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/NoahZinsmeister/ProveIt",
-          "author": null,
-          "description": "GitHub - NoahZinsmeister/ProveIt: Implements proof of historical data possession on the Ethereum blockchain",
-          "link": "https://github.com/NoahZinsmeister/ProveIt",
-          "publishedOn": "2022-10-03T07:00:03.000Z",
-          "wordCount": 1291,
-          "title": "GitHub - NoahZinsmeister/ProveIt: Implements proof of historical data possession on the Ethereum blockchain",
-          "imageUrl": "https://opengraph.githubassets.com/3a21f75b4d75a5dfac4b63b050b52304a93fd87728dbabb8e4b5993559121d99/NoahZinsmeister/ProveIt"
         },
         {
           "id": "https://rettig.substack.com/p/three-things-37-october-2-2022?utm_source=twitter&sd=pf",
@@ -84,16 +84,6 @@
           "wordCount": 5446,
           "title": "Three Things #37: October 2, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87a1627d-38b6-4433-a346-b0ccb7ae089a_3069x2483.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/were-scraping-barrel-desperate-police-departments-luring-new-cops-huge-signing-bonuses",
-          "author": null,
-          "description": "\"We're Scraping The Barrel\": Desperate Police Departments Luring New Cops With Huge Signing Bonuses | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/were-scraping-barrel-desperate-police-departments-luring-new-cops-huge-signing-bonuses",
-          "publishedOn": "2022-10-03T07:00:03.000Z",
-          "wordCount": 1448,
-          "title": "\"We're Scraping The Barrel\": Desperate Police Departments Luring New Cops With Huge Signing Bonuses | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/political/victor-davis-hanson-thinnest-veneer-civilization-remains",
@@ -136,6 +126,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
+          "author": null,
+          "description": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
+          "link": "https://www.theblock.co/post/174016/arrested-tornado-cash-developer-alexey-pertsev-appeal-rejected",
+          "publishedOn": "2022-10-03T00:00:04.000Z",
+          "wordCount": 61022,
+          "title": "Arrested Tornado Cash developer to stay in jail after appeal rejected: Exclusive",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220812_Tornado-Cash-1.jpg"
+        },
+        {
           "id": "https://www.zillow.com/homedetails/12201-Crewe-St-North-Hollywood-CA-91605/20003587_zpid/",
           "author": null,
           "description": "12201 Crewe St, North Hollywood, CA 91605 | MLS #22-204901 | Zillow",
@@ -151,7 +151,7 @@
           "description": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "link": "https://www.ft.com/content/5f7c9eab-ca5f-4425-91be-5781313c9723",
           "publishedOn": "2022-10-02T21:00:02.000Z",
-          "wordCount": 2218,
+          "wordCount": 2216,
           "title": "Celsius Network founder withdrew $10mn ahead of bankruptcy",
           "imageUrl": null
         },
