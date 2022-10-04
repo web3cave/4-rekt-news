@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nouns.wtf/",
+          "author": null,
+          "description": "Nouns DAO",
+          "link": "https://nouns.wtf/",
+          "publishedOn": "2022-10-04T11:30:05.000Z",
+          "wordCount": 61,
+          "title": "Nouns DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://exponential.fi/blog/take-the-mystery-out-of-defi-with-exponential",
+          "author": null,
+          "description": "Take the mystery out of DeFi with Exponential",
+          "link": "https://exponential.fi/blog/take-the-mystery-out-of-defi-with-exponential",
+          "publishedOn": "2022-10-04T11:30:05.000Z",
+          "wordCount": 1764,
+          "title": "Take the mystery out of DeFi with Exponential",
+          "imageUrl": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc7d271ff-41f0-4212-9551-e7b4d95fc73f%2Flaunch-blog-cover.jpg?table=block&id=ab5c682b-c36b-404c-872e-dd987b2df03f&cache=v2"
+        },
+        {
           "id": "https://interiorai.com/",
           "author": null,
           "description": "Interior AI - Get interior design ideas for your home from AI",
@@ -14,16 +34,6 @@
           "wordCount": 3757,
           "title": "Interior AI - Get interior design ideas for your home from AI",
           "imageUrl": "https://interiorai.com/assets/styles/tropical.png?1664576457"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/10/03/us-risk-watchdog-poised-to-ask-congress-to-name-crypto-spot-market-regulator/",
-          "author": null,
-          "description": "US Risk Watchdog Asks Congress to Name Crypto Spot Market Regulator",
-          "link": "https://www.coindesk.com/policy/2022/10/03/us-risk-watchdog-poised-to-ask-congress-to-name-crypto-spot-market-regulator/",
-          "publishedOn": "2022-10-04T04:00:04.000Z",
-          "wordCount": 8374,
-          "title": "US Risk Watchdog Asks Congress to Name Crypto Spot Market Regulator",
-          "imageUrl": "https://www.coindesk.com/resizer/j9YGsHkLpneqNajWFDB4YM2ws9Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FI7CRQZLKZFQXADMXUWSSA6WMA.jpg"
         },
         {
           "id": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8aebac82933ff1a7c8eede18cab11e1115e2062b",
@@ -51,7 +61,7 @@
           "description": "Sound.xyz",
           "link": "https://www.sound.xyz/",
           "publishedOn": "2022-10-04T03:00:03.000Z",
-          "wordCount": 1040,
+          "wordCount": 1038,
           "title": "Sound.xyz",
           "imageUrl": "http://d2i9ybouka0ieh.cloudfront.net/website-content/twitter/og.jpeg"
         },
@@ -81,7 +91,7 @@
           "description": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
           "link": "https://github.com/projectopensea/seadrop",
           "publishedOn": "2022-10-04T01:00:02.000Z",
-          "wordCount": 1060,
+          "wordCount": 1257,
           "title": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
           "imageUrl": "https://repository-images.githubusercontent.com/518662622/48e4555f-f8dd-4da7-b19e-ecf2a826c706"
         },
@@ -104,16 +114,6 @@
           "wordCount": 586,
           "title": "GitHub - jito-labs/searcher-examples: Searcher Examples",
           "imageUrl": "https://opengraph.githubassets.com/9c4f3dda3588d44f78e8f9b3ea4cf6dbadb4a261ca0e6438491786e1dec8a0b7/jito-labs/searcher-examples"
-        },
-        {
-          "id": "https://koodoslabs.xyz/",
-          "author": null,
-          "description": "koodos labs",
-          "link": "https://koodoslabs.xyz/",
-          "publishedOn": "2022-10-04T01:00:02.000Z",
-          "wordCount": 1834,
-          "title": "koodos labs",
-          "imageUrl": "https://framerusercontent.com/modules/rkaGi5XgtNn8ATuVcF7n/g1AsXaUzFP0BynrAM7Ok/assets/vB3jUqZipkLGd5MyS1btr232k.webp"
         },
         {
           "id": "https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf",
@@ -141,7 +141,7 @@
           "description": "U.N. Calls On Fed, Other Central Banks to Halt Interest-Rate Increases",
           "link": "https://www.wsj.com/articles/u-n-calls-on-fed-other-central-banks-to-halt-interest-rate-increases-11664809202",
           "publishedOn": "2022-10-03T19:00:02.000Z",
-          "wordCount": 6053,
+          "wordCount": 6058,
           "title": "U.N. Calls On Fed, Other Central Banks to Halt Interest-Rate Increases",
           "imageUrl": "https://images.wsj.net/im-635720/social"
         },
@@ -156,14 +156,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://open.spotify.com/episode/2Iw2lR5bMRUImRPLGAlNUY?si=XvQWaeJLTRCUUblRZ5l8MQ",
+          "id": "https://open.spotify.com/episode/3R6yk5q8Zo07I0b9OeUNMl?si=Xd9LsEyeSiyZ2JGhkE_Xwg",
           "author": null,
           "description": "Spotify",
-          "link": "https://open.spotify.com/episode/2Iw2lR5bMRUImRPLGAlNUY?si=XvQWaeJLTRCUUblRZ5l8MQ",
+          "link": "https://open.spotify.com/episode/3R6yk5q8Zo07I0b9OeUNMl?si=Xd9LsEyeSiyZ2JGhkE_Xwg",
           "publishedOn": "2022-10-03T19:00:02.000Z",
-          "wordCount": 290,
+          "wordCount": 607,
           "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8abcba9a83330c1040b8c6fcab"
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aa8d4d546a57dbd376774076a"
         },
         {
           "id": "https://golden.com/blog/golden-raises-40m-series-b/",
@@ -201,7 +201,7 @@
           "description": "norswap · Optimism Bedrock vs Arbitrum Nitro",
           "link": "https://norswap.com/bedrock-vs-nitro/",
           "publishedOn": "2022-10-03T01:30:03.000Z",
-          "wordCount": 3124,
+          "wordCount": 3137,
           "title": "norswap · Optimism Bedrock vs Arbitrum Nitro",
           "imageUrl": null
         }
