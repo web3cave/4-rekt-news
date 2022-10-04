@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://interiorai.com/",
+          "author": null,
+          "description": "Interior AI - Get interior design ideas for your home from AI",
+          "link": "https://interiorai.com/",
+          "publishedOn": "2022-10-04T23:30:06.000Z",
+          "wordCount": 3815,
+          "title": "Interior AI - Get interior design ideas for your home from AI",
+          "imageUrl": "https://interiorai.com/assets/styles/tropical.png?1664576457"
+        },
+        {
+          "id": "https://github.com/projectopensea/seadrop",
+          "author": null,
+          "description": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
+          "link": "https://github.com/projectopensea/seadrop",
+          "publishedOn": "2022-10-04T23:30:06.000Z",
+          "wordCount": 1060,
+          "title": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
+          "imageUrl": "https://repository-images.githubusercontent.com/518662622/48e4555f-f8dd-4da7-b19e-ecf2a826c706"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ehQp2hi_NmQ&feature=youtu.be",
+          "author": null,
+          "description": "CTS: WE DO A LITTLE DRAFTING W/ DEEZE",
+          "link": "https://www.youtube.com/watch?v=ehQp2hi_NmQ&feature=youtu.be",
+          "publishedOn": "2022-10-04T23:00:02.000Z",
+          "wordCount": null,
+          "title": "CTS: WE DO A LITTLE DRAFTING W/ DEEZE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ethereum-optimism/cannon",
+          "author": null,
+          "description": "GitHub - ethereum-optimism/cannon: On chain interactive fault prover for Ethereum",
+          "link": "https://github.com/ethereum-optimism/cannon",
+          "publishedOn": "2022-10-04T23:00:02.000Z",
+          "wordCount": 1163,
+          "title": "GitHub - ethereum-optimism/cannon: On chain interactive fault prover for Ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/78a0cf315c4df5d0facd7af15fd8f71a6586c28d4c54c036f9dbb473d6d23857/ethereum-optimism/cannon"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OXK5XKSxD1E&feature=youtu.be",
           "author": null,
           "description": "COIN Trailer (Available October 7th)",
@@ -14,16 +54,6 @@
           "wordCount": null,
           "title": "COIN Trailer (Available October 7th)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/174583/judge-allows-cftc-to-serve-ooki-dao-members-through-help-chat-box?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Judge allows CFTC to serve Ooki DAO members through help chat box",
-          "link": "https://www.theblock.co/post/174583/judge-allows-cftc-to-serve-ooki-dao-members-through-help-chat-box?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-10-04T19:00:02.000Z",
-          "wordCount": 60885,
-          "title": "Judge allows CFTC to serve Ooki DAO members through help chat box",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220914_Legal_Generic3.jpg"
         },
         {
           "id": "https://capital.xyz/",
@@ -51,7 +81,7 @@
           "description": "Application-Specific Blockchains: The Past, Present, and Future",
           "link": "https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832",
           "publishedOn": "2022-10-04T17:30:04.000Z",
-          "wordCount": 5005,
+          "wordCount": 5002,
           "title": "Application-Specific Blockchains: The Past, Present, and Future",
           "imageUrl": "https://miro.medium.com/max/1200/0*uAXz_csV5BSN7OGa"
         },
@@ -91,7 +121,7 @@
           "description": "Horizon raises $40M to make web3 easy, fun, and powerful for users and builders",
           "link": "https://medium.com/horizongames/horizon-raises-40m-to-make-web3-easy-fun-and-powerful-for-users-and-builders-6af0b6f512d9",
           "publishedOn": "2022-10-04T15:00:04.000Z",
-          "wordCount": 3024,
+          "wordCount": 3027,
           "title": "Horizon raises $40M to make web3 easy, fun, and powerful for users and builders",
           "imageUrl": "https://miro.medium.com/max/1200/1*iERdkwQm5htW6ImJ4rxBeQ.jpeg"
         },
@@ -136,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.sound.xyz/",
-          "author": null,
-          "description": "Sound.xyz",
-          "link": "https://www.sound.xyz/",
-          "publishedOn": "2022-10-04T03:00:03.000Z",
-          "wordCount": 1039,
-          "title": "Sound.xyz",
-          "imageUrl": "http://d2i9ybouka0ieh.cloudfront.net/website-content/twitter/og.jpeg"
-        },
-        {
           "id": "https://www.youtube.com/channel/UCI1aHK6OmFPQX3KDYD2NJzg",
           "author": null,
           "description": "CryptoKaleo - YouTube",
@@ -164,26 +184,6 @@
           "wordCount": 7959,
           "title": "[PDF] FSOC_20221003_Readout.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2022/10/03/business/cryptocurrency-regulation-stablecoin.html",
-          "author": null,
-          "description": "Crypto Needs More Rules and Better Enforcement, Regulators Warn",
-          "link": "https://www.nytimes.com/2022/10/03/business/cryptocurrency-regulation-stablecoin.html",
-          "publishedOn": "2022-10-04T01:00:02.000Z",
-          "wordCount": null,
-          "title": "Crypto Needs More Rules and Better Enforcement, Regulators Warn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/projectopensea/seadrop",
-          "author": null,
-          "description": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
-          "link": "https://github.com/projectopensea/seadrop",
-          "publishedOn": "2022-10-04T01:00:02.000Z",
-          "wordCount": 1257,
-          "title": "GitHub - ProjectOpenSea/seadrop: Smart contracts for primary drops on EVM chains",
-          "imageUrl": "https://repository-images.githubusercontent.com/518662622/48e4555f-f8dd-4da7-b19e-ecf2a826c706"
         },
         {
           "id": "https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf",
