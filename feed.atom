@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T21:23:45.535Z</id>
+    <id>urn:2022-10-05T22:28:47.112Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T21:23:45.535Z</updated>
+    <updated>2022-10-05T22:28:47.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CTS: WE DO A LITTLE DRAFTING W/ DEEZE]]></title>
+        <id>https://www.youtube.com/watch?v=ehQp2hi_NmQ&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=ehQp2hi_NmQ&amp;feature=youtu.be"/>
+        <updated>2022-10-05T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[CTS: WE DO A LITTLE DRAFTING W/ DEEZE]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plan B Forum - Lugano's Plan ₿]]></title>
         <id>https://planb.lugano.ch/planb-forum/</id>
@@ -31,6 +41,16 @@
         <link href="https://www.youtube.com/watch?v=1FDU0QaXuWM"/>
         <updated>2022-10-05T19:30:04.000Z</updated>
         <summary type="html"><![CDATA[Is This the End of Ethereum?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Battle for the Soul of the Web]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/</id>
+        <link href="https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/"/>
+        <updated>2022-10-05T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The Battle for the Soul of the Web]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -156,26 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public Nouns]]></title>
-        <id>https://publicnouns.wtf/</id>
-        <link href="https://publicnouns.wtf/"/>
-        <updated>2022-10-05T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Public Nouns]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greatest Investor You Never Heard Of w/ Eric Balchunas]]></title>
-        <id>https://www.youtube.com/watch?v=fJC1H_EaWgs&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=fJC1H_EaWgs&amp;feature=youtu.be"/>
-        <updated>2022-10-05T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The Greatest Investor You Never Heard Of w/ Eric Balchunas]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DefiLlama]]></title>
         <id>https://defillama.com/raises</id>
         <link href="https://defillama.com/raises"/>
@@ -186,11 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COIN Trailer (Available October 7th)]]></title>
-        <id>https://www.youtube.com/watch?v=OXK5XKSxD1E&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=OXK5XKSxD1E&amp;feature=youtu.be"/>
-        <updated>2022-10-04T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[COIN Trailer (Available October 7th)]]></summary>
+        <title type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></title>
+        <id>https://hackmd.io/@terencechain/ByH4cbMfi</id>
+        <link href="https://hackmd.io/@terencechain/ByH4cbMfi"/>
+        <updated>2022-10-04T21:30:06.000Z</updated>
+        <summary type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
