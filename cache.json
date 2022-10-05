@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://imagen.research.google/video/",
+          "author": null,
+          "description": "Imagen Video",
+          "link": "https://imagen.research.google/video/",
+          "publishedOn": "2022-10-05T20:00:04.000Z",
+          "wordCount": 2237,
+          "title": "Imagen Video",
+          "imageUrl": "https://imagen.research.google/video/leaves.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1FDU0QaXuWM",
           "author": null,
           "description": "Is This the End of Ethereum?",
@@ -26,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/be-afraid-be-actually-afraid-reporters-panic-thought-twitter-restoring-free-speech",
-          "author": null,
-          "description": "\"Be Afraid, Be Actually Afraid\": Reporters Panic At The Thought Of Twitter Restoring Free Speech Protections | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/be-afraid-be-actually-afraid-reporters-panic-thought-twitter-restoring-free-speech",
-          "publishedOn": "2022-10-05T19:00:03.000Z",
-          "wordCount": 1854,
-          "title": "\"Be Afraid, Be Actually Afraid\": Reporters Panic At The Thought Of Twitter Restoring Free Speech Protections | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor&utm_medium=bitly&utm_source=Twitter+Organic",
           "author": null,
           "description": "Discovering novel algorithms with AlphaTensor",
@@ -51,7 +51,7 @@
           "description": "Discovering faster matrix multiplication algorithms with reinforcement learning - Nature",
           "link": "https://www.nature.com/articles/s41586-022-05172-4",
           "publishedOn": "2022-10-05T17:30:05.000Z",
-          "wordCount": 12276,
+          "wordCount": 12278,
           "title": "Discovering faster matrix multiplication algorithms with reinforcement learning - Nature",
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05172-4/MediaObjects/41586_2022_5172_Fig1_HTML.png"
         },
@@ -81,7 +81,7 @@
           "description": "South Korean Prosecutors Freeze $39.6M in Crypto Owned by Terraform’s Do Kwon: Report",
           "link": "https://www.coindesk.com/business/2022/10/05/south-korean-prosecutors-freeze-396m-in-crypto-owned-by-terraforms-do-kwon-report/",
           "publishedOn": "2022-10-05T13:30:04.000Z",
-          "wordCount": 7023,
+          "wordCount": 7151,
           "title": "South Korean Prosecutors Freeze $39.6M in Crypto Owned by Terraform’s Do Kwon: Report",
           "imageUrl": "https://www.coindesk.com/resizer/43tQzvCmAw5BCvt5NPLm35bhcSw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BKV3FWLL4VBU3CHXDD47FP6TQQ.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "Andrew Yang, an Ex-US Presidential Candidate, Joins Web3 Platform Pool Data as Adviser",
           "link": "https://www.coindesk.com/web3/2022/10/05/andrew-yang-an-ex-us-presidential-candidate-joins-web3-platform-pool-data-as-adviser/",
           "publishedOn": "2022-10-05T11:30:03.000Z",
-          "wordCount": 6732,
+          "wordCount": 6845,
           "title": "Andrew Yang, an Ex-US Presidential Candidate, Joins Web3 Platform Pool Data as Adviser",
           "imageUrl": "https://www.coindesk.com/resizer/ekfBnEQrRJ4ulwx_CqvqfCkKOj4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YNDRX2IRQBAX5GMTTA4CDEYX3M.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Application-Specific Blockchains: The Past, Present, and Future",
           "link": "https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832",
           "publishedOn": "2022-10-04T17:30:04.000Z",
-          "wordCount": 5002,
+          "wordCount": 5394,
           "title": "Application-Specific Blockchains: The Past, Present, and Future",
           "imageUrl": "https://miro.medium.com/max/1200/0*uAXz_csV5BSN7OGa"
         }
