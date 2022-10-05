@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://home.treasury.gov/system/files/261/FSOC-Digital-Assets-Report-2022.pdf",
-          "author": null,
-          "description": "[PDF] FSOC-Digital-Assets-Report-2022.pdf",
-          "link": "https://home.treasury.gov/system/files/261/FSOC-Digital-Assets-Report-2022.pdf",
-          "publishedOn": "2022-10-05T11:00:03.000Z",
-          "wordCount": 69457,
-          "title": "[PDF] FSOC-Digital-Assets-Report-2022.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.ethereum.org/2022/10/04/devcon-manual",
           "author": null,
           "description": "The Devcon VI Manual | Ethereum Foundation Blog",
           "link": "https://blog.ethereum.org/2022/10/04/devcon-manual",
           "publishedOn": "2022-10-05T09:00:03.000Z",
-          "wordCount": 6466,
+          "wordCount": 6467,
           "title": "The Devcon VI Manual | Ethereum Foundation Blog",
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_85cf7b2dc452633cb387c2c35b94420b.jpg"
         },
@@ -81,9 +71,19 @@
           "description": "Kim Kardashian’s promoted token EMAX spikes 126% following charge",
           "link": "https://www.theblock.co/post/174849/price-of-crypto-token-promoted-by-kim-kardashian-spiked-126-after-sec-charge-unveiled?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-05T06:00:06.000Z",
-          "wordCount": 63071,
+          "wordCount": 64889,
           "title": "Kim Kardashian’s promoted token EMAX spikes 126% following charge",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211029_SEC_General2.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/c/TheDailyGwei",
+          "author": null,
+          "description": "The Daily Gwei - YouTube",
+          "link": "https://www.youtube.com/c/TheDailyGwei",
+          "publishedOn": "2022-10-05T05:30:05.000Z",
+          "wordCount": 3378,
+          "title": "The Daily Gwei - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu95oIPlq-iceyWRDe4z4uj7HX4FjTU8eYw_F1tc=s900-c-k-c0x00ffffff-no-rj"
         },
         {
           "id": "https://publicnouns.wtf/",
@@ -106,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://defillama.com/dexs/terra",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/dexs/terra",
+          "publishedOn": "2022-10-04T23:00:02.000Z",
+          "wordCount": 1546,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ehQp2hi_NmQ&feature=youtu.be",
           "author": null,
           "description": "CTS: WE DO A LITTLE DRAFTING W/ DEEZE",
@@ -116,14 +126,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://defillama.com/dexs/terra",
+          "id": "https://hackmd.io/@terencechain/ByH4cbMfi",
           "author": null,
-          "description": "DefiLlama",
-          "link": "https://defillama.com/dexs/terra",
-          "publishedOn": "2022-10-04T23:00:02.000Z",
-          "wordCount": 1546,
-          "title": "DefiLlama",
-          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+          "description": "EI4844 CL client implementer's notes - HackMD",
+          "link": "https://hackmd.io/@terencechain/ByH4cbMfi",
+          "publishedOn": "2022-10-04T21:30:06.000Z",
+          "wordCount": 1709,
+          "title": "EI4844 CL client implementer's notes - HackMD",
+          "imageUrl": "https://lh6.googleusercontent.com/-95cTc9cQBEI/AAAAAAAAAAI/AAAAAAAAAAc/9gVOr-J4-2w/photo.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=OXK5XKSxD1E&feature=youtu.be",
@@ -171,7 +181,7 @@
           "description": "Kim Kardashian’s $1 Million Fine Could Impact Uniswap, SushiSwap And Other Decentralized Exchanges",
           "link": "https://www.forbes.com/sites/michaeldelcastillo/2022/10/04/kim-kardashians-1-million-fine-could-impact-uniswap-sushiswap-and-other-decentralized-exchanges/",
           "publishedOn": "2022-10-04T17:00:02.000Z",
-          "wordCount": 9973,
+          "wordCount": 9952,
           "title": "Kim Kardashian’s $1 Million Fine Could Impact Uniswap, SushiSwap And Other Decentralized Exchanges",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/633b21ffd70893ff1078b209/0x0.jpg?format=jpg&width=1200"
         },
@@ -194,16 +204,6 @@
           "wordCount": 3024,
           "title": "Horizon raises $40M to make web3 easy, fun, and powerful for users and builders",
           "imageUrl": "https://miro.medium.com/max/1200/1*iERdkwQm5htW6ImJ4rxBeQ.jpeg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OhpEt6u8QAg&feature=youtu.be",
-          "author": null,
-          "description": "The Current State of the NFT Market with Garyvee",
-          "link": "https://www.youtube.com/watch?v=OhpEt6u8QAg&feature=youtu.be",
-          "publishedOn": "2022-10-04T13:30:06.000Z",
-          "wordCount": null,
-          "title": "The Current State of the NFT Market with Garyvee",
-          "imageUrl": null
         }
       ]
     }
