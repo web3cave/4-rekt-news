@@ -6,34 +6,74 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/c/TheDailyGwei",
+          "author": null,
+          "description": "The Daily Gwei - YouTube",
+          "link": "https://www.youtube.com/c/TheDailyGwei",
+          "publishedOn": "2022-10-05T05:30:05.000Z",
+          "wordCount": 3382,
+          "title": "The Daily Gwei - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu95oIPlq-iceyWRDe4z4uj7HX4FjTU8eYw_F1tc=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/10/03/a16z-leads-40m-funding-for-web3-data-protocol-golden/",
+          "author": null,
+          "description": "A16z Leads $40M Funding for Web3 Data Protocol Golden",
+          "link": "https://www.coindesk.com/business/2022/10/03/a16z-leads-40m-funding-for-web3-data-protocol-golden/",
+          "publishedOn": "2022-10-05T05:30:05.000Z",
+          "wordCount": 6970,
+          "title": "A16z Leads $40M Funding for Web3 Data Protocol Golden",
+          "imageUrl": "https://www.coindesk.com/resizer/6xQ-7ztx2QPR17xdFKk7JuV5-jE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JFWIFT3OQBBB7GXXUVT3DYIAFY.jpg"
+        },
+        {
+          "id": "https://publicnouns.wtf/",
+          "author": null,
+          "description": "Public Nouns",
+          "link": "https://publicnouns.wtf/",
+          "publishedOn": "2022-10-05T05:00:02.000Z",
+          "wordCount": 61,
+          "title": "Public Nouns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fJC1H_EaWgs&feature=youtu.be",
+          "author": null,
+          "description": "The Greatest Investor You Never Heard Of w/ Eric Balchunas",
+          "link": "https://www.youtube.com/watch?v=fJC1H_EaWgs&feature=youtu.be",
+          "publishedOn": "2022-10-05T05:00:02.000Z",
+          "wordCount": null,
+          "title": "The Greatest Investor You Never Heard Of w/ Eric Balchunas",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/restoring-free-speech-our-universities",
+          "author": null,
+          "description": "Restoring Free Speech At Our Universities | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/restoring-free-speech-our-universities",
+          "publishedOn": "2022-10-05T05:00:02.000Z",
+          "wordCount": 3001,
+          "title": "Restoring Free Speech At Our Universities | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.thetimes.co.uk/article/putin-orders-nuclear-military-train-to-ukraine-front-line-tswzv2v50?utm_medium=Social&utm_source=Twitter#Echobox=1664813242-1",
           "author": null,
           "description": "Putin orders nuclear military train to Ukraine front line",
           "link": "https://www.thetimes.co.uk/article/putin-orders-nuclear-military-train-to-ukraine-front-line-tswzv2v50?utm_medium=Social&utm_source=Twitter#Echobox=1664813242-1",
           "publishedOn": "2022-10-05T04:01:12.000Z",
-          "wordCount": 14829,
+          "wordCount": 13425,
           "title": "Putin orders nuclear military train to Ukraine front line",
           "imageUrl": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcd1bce7a-432d-11ed-8885-043c27446b97.jpg?crop=4810%2C2706%2C123%2C462&resize=1200"
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/japan-us-conduct-war-drill-fight-jets-after-north-korea-missile-launch",
+          "id": "https://defillama.com/dexs/terra",
           "author": null,
-          "description": "South Korea & US Fire 4 Surface-To-Surface Missiles In Rare Response To North's Launch | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/japan-us-conduct-war-drill-fight-jets-after-north-korea-missile-launch",
-          "publishedOn": "2022-10-05T04:01:12.000Z",
-          "wordCount": 1365,
-          "title": "South Korea & US Fire 4 Surface-To-Surface Missiles In Rare Response To North's Launch | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/roubini-stagflationary-debt-crisis-here",
-          "author": null,
-          "description": "Roubini: The Stagflationary Debt Crisis Is Here | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/roubini-stagflationary-debt-crisis-here",
-          "publishedOn": "2022-10-05T04:01:12.000Z",
-          "wordCount": 2327,
-          "title": "Roubini: The Stagflationary Debt Crisis Is Here | ZeroHedge",
-          "imageUrl": null
+          "description": "DefiLlama",
+          "link": "https://defillama.com/dexs/terra",
+          "publishedOn": "2022-10-04T23:00:02.000Z",
+          "wordCount": 1544,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://www.youtube.com/watch?v=ehQp2hi_NmQ&feature=youtu.be",
@@ -56,26 +96,6 @@
           "imageUrl": "https://opengraph.githubassets.com/d601ee3243216cac470e7f3ed9c9a3849e856b7ca10836da32f1bdc589502a01/ethereum-optimism/cannon"
         },
         {
-          "id": "https://defillama.com/dexs/terra",
-          "author": null,
-          "description": "DefiLlama",
-          "link": "https://defillama.com/dexs/terra",
-          "publishedOn": "2022-10-04T23:00:02.000Z",
-          "wordCount": 1544,
-          "title": "DefiLlama",
-          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
-        },
-        {
-          "id": "https://hackmd.io/@terencechain/ByH4cbMfi",
-          "author": null,
-          "description": "EI4844 CL client implementer's notes - HackMD",
-          "link": "https://hackmd.io/@terencechain/ByH4cbMfi",
-          "publishedOn": "2022-10-04T21:30:06.000Z",
-          "wordCount": 1709,
-          "title": "EI4844 CL client implementer's notes - HackMD",
-          "imageUrl": "https://lh6.googleusercontent.com/-95cTc9cQBEI/AAAAAAAAAAI/AAAAAAAAAAc/9gVOr-J4-2w/photo.jpg"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=OXK5XKSxD1E&feature=youtu.be",
           "author": null,
           "description": "COIN Trailer (Available October 7th)",
@@ -91,7 +111,7 @@
           "description": "Bitwise Web3 ETF (BWEB)",
           "link": "https://bwebetf.com/",
           "publishedOn": "2022-10-04T18:30:02.000Z",
-          "wordCount": 2755,
+          "wordCount": 2799,
           "title": "Bitwise Web3 ETF (BWEB)",
           "imageUrl": "https://www.datocms-assets.com/78010/1664157463-bweb.png?auto=format&fit=max&w=1200"
         },
@@ -131,7 +151,7 @@
           "description": "Kim Kardashian’s $1 Million Fine Could Impact Uniswap, SushiSwap And Other Decentralized Exchanges",
           "link": "https://www.forbes.com/sites/michaeldelcastillo/2022/10/04/kim-kardashians-1-million-fine-could-impact-uniswap-sushiswap-and-other-decentralized-exchanges/",
           "publishedOn": "2022-10-04T17:00:02.000Z",
-          "wordCount": 10464,
+          "wordCount": 9952,
           "title": "Kim Kardashian’s $1 Million Fine Could Impact Uniswap, SushiSwap And Other Decentralized Exchanges",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/633b21ffd70893ff1078b209/0x0.jpg?format=jpg&width=1200"
         },
@@ -144,16 +164,6 @@
           "wordCount": 3556,
           "title": "The SEC’s Kardashian fine was a dumb publicity stunt",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1235250957.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://thedefiant.io/euler-usdt-collateral",
-          "author": null,
-          "description": "DeFi Lender Euler Finance Accepts USDT as Collateral - The Defiant",
-          "link": "https://thedefiant.io/euler-usdt-collateral",
-          "publishedOn": "2022-10-04T16:00:04.000Z",
-          "wordCount": 1522,
-          "title": "DeFi Lender Euler Finance Accepts USDT as Collateral - The Defiant",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/03235608/EulerTether.jpg"
         },
         {
           "id": "https://home.treasury.gov/system/files/261/FSOC-Digital-Assets-Report-2022.pdf",
@@ -184,16 +194,6 @@
           "wordCount": null,
           "title": "The Current State of the NFT Market with Garyvee",
           "imageUrl": null
-        },
-        {
-          "id": "https://radicle.xyz/",
-          "author": null,
-          "description": "Radicle",
-          "link": "https://radicle.xyz/",
-          "publishedOn": "2022-10-04T13:00:03.000Z",
-          "wordCount": 489,
-          "title": "Radicle",
-          "imageUrl": "https://radicle.xyz/assets/app.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=TVhjXVeEamo&feature=youtu.be",
