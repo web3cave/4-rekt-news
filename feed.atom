@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T07:36:11.036Z</id>
+    <id>urn:2022-10-05T08:32:42.456Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T07:36:11.036Z</updated>
+    <updated>2022-10-05T08:32:42.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DefiLlama]]></title>
-        <id>https://defillama.com/dexs/terra</id>
-        <link href="https://defillama.com/dexs/terra"/>
-        <updated>2022-10-04T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTS: WE DO A LITTLE DRAFTING W/ DEEZE]]></title>
         <id>https://www.youtube.com/watch?v=ehQp2hi_NmQ&amp;feature=youtu.be</id>
         <link href="https://www.youtube.com/watch?v=ehQp2hi_NmQ&amp;feature=youtu.be"/>
@@ -96,11 +86,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub - ethereum-optimism/cannon: On chain interactive fault prover for Ethereum]]></title>
-        <id>https://github.com/ethereum-optimism/cannon</id>
-        <link href="https://github.com/ethereum-optimism/cannon"/>
+        <title type="html"><![CDATA[DefiLlama]]></title>
+        <id>https://defillama.com/dexs/terra</id>
+        <link href="https://defillama.com/dexs/terra"/>
         <updated>2022-10-04T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - ethereum-optimism/cannon: On chain interactive fault prover for Ethereum]]></summary>
+        <summary type="html"><![CDATA[DefiLlama]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></title>
+        <id>https://hackmd.io/@terencechain/ByH4cbMfi</id>
+        <link href="https://hackmd.io/@terencechain/ByH4cbMfi"/>
+        <updated>2022-10-04T21:30:06.000Z</updated>
+        <summary type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
