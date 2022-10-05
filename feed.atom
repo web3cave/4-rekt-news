@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T10:31:21.918Z</id>
+    <id>urn:2022-10-05T11:22:59.148Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T10:31:21.918Z</updated>
+    <updated>2022-10-05T11:22:59.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] FSOC-Digital-Assets-Report-2022.pdf]]></title>
+        <id>https://home.treasury.gov/system/files/261/FSOC-Digital-Assets-Report-2022.pdf</id>
+        <link href="https://home.treasury.gov/system/files/261/FSOC-Digital-Assets-Report-2022.pdf"/>
+        <updated>2022-10-05T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] FSOC-Digital-Assets-Report-2022.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Devcon VI Manual | Ethereum Foundation Blog]]></title>
         <id>https://blog.ethereum.org/2022/10/04/devcon-manual</id>
@@ -111,16 +121,6 @@
         <link href="https://defillama.com/dexs/terra"/>
         <updated>2022-10-04T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></title>
-        <id>https://hackmd.io/@terencechain/ByH4cbMfi</id>
-        <link href="https://hackmd.io/@terencechain/ByH4cbMfi"/>
-        <updated>2022-10-04T21:30:06.000Z</updated>
-        <summary type="html"><![CDATA[EI4844 CL client implementer's notes - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
