@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T05:40:55.869Z</id>
+    <id>urn:2022-10-06T06:35:54.312Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T05:40:55.869Z</updated>
+    <updated>2022-10-06T06:35:54.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.youtube.com/watch?v=0M7VK0GvutQ"/>
         <updated>2022-10-06T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Chopping Block LIVE! (Oct 5)]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.]]></title>
+        <id>https://github.com/ethereum/kzg-ceremony</id>
+        <link href="https://github.com/ethereum/kzg-ceremony"/>
+        <updated>2022-10-06T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Discovering novel algorithms with AlphaTensor]]></title>
+        <id>https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor&amp;utm_medium=bitly&amp;utm_source=Twitter+Organic</id>
+        <link href="https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor&amp;utm_medium=bitly&amp;utm_source=Twitter+Organic"/>
+        <updated>2022-10-05T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Discovering novel algorithms with AlphaTensor]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Discovering faster matrix multiplication algorithms with reinforcement learning - Nature]]></title>
         <id>https://www.nature.com/articles/s41586-022-05172-4</id>
         <link href="https://www.nature.com/articles/s41586-022-05172-4"/>
@@ -176,31 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance Will List GMX (GMX) in the Innovation Zone | Binance Support]]></title>
-        <id>https://www.binance.com/en/support/announcement/766022428cf94796914209b44261d3a8</id>
-        <link href="https://www.binance.com/en/support/announcement/766022428cf94796914209b44261d3a8"/>
-        <updated>2022-10-05T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Binance Will List GMX (GMX) in the Innovation Zone | Binance Support]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DefiLlama]]></title>
         <id>https://defillama.com/raises</id>
         <link href="https://defillama.com/raises"/>
         <updated>2022-10-04T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application-Specific Blockchains: The Past, Present, and Future]]></title>
-        <id>https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832</id>
-        <link href="https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832"/>
-        <updated>2022-10-04T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Application-Specific Blockchains: The Past, Present, and Future]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
