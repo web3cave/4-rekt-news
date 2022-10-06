@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lemonade.org/",
+          "author": null,
+          "description": "The Lemonade Crypto Climate Coalition",
+          "link": "https://lemonade.org/",
+          "publishedOn": "2022-10-06T14:30:03.000Z",
+          "wordCount": 77,
+          "title": "The Lemonade Crypto Climate Coalition",
+          "imageUrl": "https://www.lemonade.org/img/og.jpg"
+        },
+        {
           "id": "https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832",
           "author": null,
           "description": "Application-Specific Blockchains: The Past, Present, and Future",
@@ -31,7 +41,7 @@
           "description": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "link": "https://www.coindesk.com/business/2022/10/06/celsius-top-3-execs-cashed-out-56m-in-crypto-before-bankruptcy/",
           "publishedOn": "2022-10-06T09:30:06.000Z",
-          "wordCount": 7691,
+          "wordCount": 7711,
           "title": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "imageUrl": "https://www.coindesk.com/resizer/QZfpGSn2QkVBRqL6azyRLzGEJcg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E5J66ZP3K5BPVHUIFHI3IMXVBA.jpg"
         },
@@ -53,7 +63,7 @@
           "publishedOn": "2022-10-06T07:30:06.000Z",
           "wordCount": 628,
           "title": "GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/",
-          "imageUrl": "https://opengraph.githubassets.com/f53c3fe0d431d8d4f3755a43e661c9d2d84ff6a2324e7414e602333a6533d71c/samczsun/ethereum-transaction-viewer-frontend"
+          "imageUrl": "https://opengraph.githubassets.com/2a850580e817ed1746dac75716a72086a2bb19625b027bcca41cc5aa3429728b/samczsun/ethereum-transaction-viewer-frontend"
         },
         {
           "id": "https://www.youtube.com/watch?start=1094&end=1146&v=Z9VCdiSPJEQ&feature=youtu.be",
@@ -136,24 +146,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/poland-talks-us-about-hosting-nuclear-weapons",
+          "id": "https://imagen.research.google/video/",
           "author": null,
-          "description": "Poland In Talks With US About Hosting Nuclear Weapons | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/poland-talks-us-about-hosting-nuclear-weapons",
-          "publishedOn": "2022-10-05T23:00:04.000Z",
-          "wordCount": 1417,
-          "title": "Poland In Talks With US About Hosting Nuclear Weapons | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://planb.lugano.ch/planb-forum/",
-          "author": null,
-          "description": "Plan B Forum - Lugano's Plan ₿",
-          "link": "https://planb.lugano.ch/planb-forum/",
-          "publishedOn": "2022-10-05T20:30:02.000Z",
-          "wordCount": 5099,
-          "title": "Plan B Forum - Lugano's Plan ₿",
-          "imageUrl": "https://planb.lugano.ch/wp-content/uploads/2022/06/pbf.png"
+          "description": "Imagen Video",
+          "link": "https://imagen.research.google/video/",
+          "publishedOn": "2022-10-05T20:00:04.000Z",
+          "wordCount": 2237,
+          "title": "Imagen Video",
+          "imageUrl": "https://imagen.research.google/video/leaves.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=1FDU0QaXuWM",
@@ -186,14 +186,14 @@
           "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-022-05172-4/MediaObjects/41586_2022_5172_Fig1_HTML.png"
         },
         {
-          "id": "https://www.prnewswire.com/news-releases/cboe-joins-pyth-network-to-bring-market-data-to-blockchain-301641203.html",
+          "id": "https://www.dappland.com/",
           "author": null,
-          "description": "Cboe Joins Pyth Network to Bring Market Data to Blockchain",
-          "link": "https://www.prnewswire.com/news-releases/cboe-joins-pyth-network-to-bring-market-data-to-blockchain-301641203.html",
-          "publishedOn": "2022-10-05T17:00:02.000Z",
-          "wordCount": 3055,
-          "title": "Cboe Joins Pyth Network to Bring Market Data to Blockchain",
-          "imageUrl": "https://mma.prnewswire.com/media/622233/Cboe_Logo.jpg?p=facebook"
+          "description": "Dappland | The best dapps on StarkNet",
+          "link": "https://www.dappland.com/",
+          "publishedOn": "2022-10-05T17:30:05.000Z",
+          "wordCount": 1022,
+          "title": "Dappland | The best dapps on StarkNet",
+          "imageUrl": null
         },
         {
           "id": "https://blog.ethereum.org/2022/10/04/devcon-manual",
