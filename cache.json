@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://noir-lang.github.io/book/index.html",
+          "author": null,
+          "description": "The Noir Programming Language - The Noir Programming Language",
+          "link": "https://noir-lang.github.io/book/index.html",
+          "publishedOn": "2022-10-06T21:00:03.000Z",
+          "wordCount": 505,
+          "title": "The Noir Programming Language - The Noir Programming Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/fp-crypto/weiroll-py",
+          "author": null,
+          "description": "GitHub - fp-crypto/weiroll-py",
+          "link": "https://github.com/fp-crypto/weiroll-py",
+          "publishedOn": "2022-10-06T21:00:03.000Z",
+          "wordCount": 1185,
+          "title": "GitHub - fp-crypto/weiroll-py",
+          "imageUrl": "https://opengraph.githubassets.com/6e0dede5b6d88ce5d55799573505b42d4bbbe6802911222bb723d73f00964350/fp-crypto/weiroll-py"
+        },
+        {
+          "id": "https://fortune.com/crypto/2022/10/06/publishers-need-paywalls-but-theyre-closing-off-the-internet-crypto-can-fix-that/",
+          "author": null,
+          "description": "Paywalls are closing off the internet. Crypto can fix that",
+          "link": "https://fortune.com/crypto/2022/10/06/publishers-need-paywalls-but-theyre-closing-off-the-internet-crypto-can-fix-that/",
+          "publishedOn": "2022-10-06T21:00:03.000Z",
+          "wordCount": 5327,
+          "title": "Paywalls are closing off the internet. Crypto can fix that",
+          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/10/Crypto-Paywall-Internet.jpg?resize=1200,600"
+        },
+        {
           "id": "https://ethresear.ch/t/arithmetic-hash-based-alternatives-to-kzg-for-proto-danksharding-eip-4844/13863",
           "author": null,
           "description": "Arithmetic hash based alternatives to KZG for proto-danksharding (EIP-4844)",
@@ -41,7 +71,7 @@
           "description": "NFL superstars back Coolkicks founder's $6 million raise for collectible trading platform",
           "link": "https://www.theblock.co/post/175248/nfl-superstars-back-coolkicks-founders-6-million-raise-for-collectible-trading-platform?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-06T18:30:03.000Z",
-          "wordCount": 60991,
+          "wordCount": 60964,
           "title": "NFL superstars back Coolkicks founder's $6 million raise for collectible trading platform",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/MynaSwap.jpeg"
         },
@@ -51,7 +81,7 @@
           "description": "Fact Check-Fabricated Jim Cramer tweet about likelihood of Russia using nuclear weapons",
           "link": "https://www.reuters.com/article/factcheck-cramer-russia/fact-check-fabricated-jim-cramer-tweet-about-likelihood-of-russia-using-nuclear-weapons-idUSL1N316282",
           "publishedOn": "2022-10-06T18:00:05.000Z",
-          "wordCount": 4335,
+          "wordCount": 4337,
           "title": "Fact Check-Fabricated Jim Cramer tweet about likelihood of Russia using nuclear weapons",
           "imageUrl": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         },
@@ -61,7 +91,7 @@
           "description": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
           "publishedOn": "2022-10-06T18:00:05.000Z",
-          "wordCount": 7253,
+          "wordCount": 7243,
           "title": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
         },
@@ -74,16 +104,6 @@
           "wordCount": 8850,
           "title": "Ethereum's New ‘Staking’ Model Does Not Make ETH A Security. - Paradigm",
           "imageUrl": "https://paradigm.xyz/meta.png"
-        },
-        {
-          "id": "https://www.barstoolsports.com/blog/3437020/the-protestor-that-bobby-wagner-tackled-to-hell-during-monday-night-football-has-filed-a-police-report-for-brutal-assault",
-          "author": null,
-          "description": "The Protestor That Bobby Wagner Tackled To Hell During Monday Night Football Has Filed A Police Report For \"Brutal...",
-          "link": "https://www.barstoolsports.com/blog/3437020/the-protestor-that-bobby-wagner-tackled-to-hell-during-monday-night-football-has-filed-a-police-report-for-brutal-assault",
-          "publishedOn": "2022-10-06T17:30:05.000Z",
-          "wordCount": 2873,
-          "title": "The Protestor That Bobby Wagner Tackled To Hell During Monday Night Football Has Filed A Police Report For \"Brutal...",
-          "imageUrl": "https://chumley.barstoolsports.com/union/2022/10/05/bdc1a747625e.jpeg?crop=4%3A3%2Csmart"
         },
         {
           "id": "https://www.dol.gov/ui/data.pdf",
@@ -101,7 +121,7 @@
           "description": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "link": "https://www.coindesk.com/business/2022/10/06/celsius-top-3-execs-cashed-out-56m-in-crypto-before-bankruptcy/",
           "publishedOn": "2022-10-06T09:30:06.000Z",
-          "wordCount": 7926,
+          "wordCount": 7931,
           "title": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "imageUrl": "https://www.coindesk.com/resizer/QZfpGSn2QkVBRqL6azyRLzGEJcg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E5J66ZP3K5BPVHUIFHI3IMXVBA.jpg"
         },
@@ -123,7 +143,7 @@
           "publishedOn": "2022-10-06T07:30:06.000Z",
           "wordCount": 628,
           "title": "GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/",
-          "imageUrl": "https://opengraph.githubassets.com/b0730011428640c58566a9c2ba4506b030a6f6c1b509fd70fab5845e193c6418/samczsun/ethereum-transaction-viewer-frontend"
+          "imageUrl": "https://opengraph.githubassets.com/c5335bad978594034a84a49efe27769db8a0d7ae12c0bcefc924574c402a3c26/samczsun/ethereum-transaction-viewer-frontend"
         },
         {
           "id": "https://www.youtube.com/watch?start=1094&end=1146&v=Z9VCdiSPJEQ&feature=youtu.be",
@@ -133,26 +153,6 @@
           "publishedOn": "2022-10-06T05:00:03.000Z",
           "wordCount": null,
           "title": "PANEL Censorship Resistance: Bridging the Gap - SBC 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lEm0Yk4casg",
-          "author": null,
-          "description": "ARBO : : Basic Combat Training  [ Cinematic Trailer ]",
-          "link": "https://www.youtube.com/watch?v=lEm0Yk4casg",
-          "publishedOn": "2022-10-06T03:00:02.000Z",
-          "wordCount": null,
-          "title": "ARBO : : Basic Combat Training  [ Cinematic Trailer ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0M7VK0GvutQ",
-          "author": null,
-          "description": "The Chopping Block LIVE! (Oct 5)",
-          "link": "https://www.youtube.com/watch?v=0M7VK0GvutQ",
-          "publishedOn": "2022-10-06T01:00:03.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block LIVE! (Oct 5)",
           "imageUrl": null
         },
         {
@@ -173,7 +173,7 @@
           "publishedOn": "2022-10-05T23:00:04.000Z",
           "wordCount": 3290,
           "title": "GitHub - laurenceday/Dreambooth-Ion-Cannon: Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with...",
-          "imageUrl": "https://opengraph.githubassets.com/1f4bd5d696474ceced3d33a27d6d1620b3976d64fa6a34bfc2903b841185dc75/laurenceday/Dreambooth-Ion-Cannon"
+          "imageUrl": "https://opengraph.githubassets.com/d2bac76b03aed3b13b75a176f05e7ac129af33f3d3fa17d44e2f5fdfbb563c23/laurenceday/Dreambooth-Ion-Cannon"
         },
         {
           "id": "https://www.youtube.com/watch?v=1FDU0QaXuWM",
