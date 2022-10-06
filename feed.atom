@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-06T07:29:51.083Z</id>
+    <id>urn:2022-10-06T08:34:02.426Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-06T07:29:51.083Z</updated>
+    <updated>2022-10-06T08:34:02.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Transaction Viewer]]></title>
+        <id>https://tx.eth.samczsun.com/</id>
+        <link href="https://tx.eth.samczsun.com/"/>
+        <updated>2022-10-06T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Transaction Viewer]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/]]></title>
+        <id>https://github.com/samczsun/ethereum-transaction-viewer-frontend</id>
+        <link href="https://github.com/samczsun/ethereum-transaction-viewer-frontend"/>
+        <updated>2022-10-06T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PANEL Censorship Resistance: Bridging the Gap - SBC 2022]]></title>
         <id>https://www.youtube.com/watch?start=1094&amp;end=1146&amp;v=Z9VCdiSPJEQ&amp;feature=youtu.be</id>
@@ -41,16 +61,6 @@
         <link href="https://www.youtube.com/watch?v=0M7VK0GvutQ"/>
         <updated>2022-10-06T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Chopping Block LIVE! (Oct 5)]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.]]></title>
-        <id>https://github.com/ethereum/kzg-ceremony</id>
-        <link href="https://github.com/ethereum/kzg-ceremony"/>
-        <updated>2022-10-06T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://www.youtube.com/watch?v=ctQEsHzKRJ4&amp;t=3s"/>
         <updated>2022-10-05T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Why is Crypto Full of Scams??]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering novel algorithms with AlphaTensor]]></title>
-        <id>https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor&amp;utm_medium=bitly&amp;utm_source=Twitter+Organic</id>
-        <link href="https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor?utm_campaign=AlphaTensor&amp;utm_medium=bitly&amp;utm_source=Twitter+Organic"/>
-        <updated>2022-10-05T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Discovering novel algorithms with AlphaTensor]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
