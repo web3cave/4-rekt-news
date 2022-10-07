@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T06:39:04.325Z</id>
+    <id>urn:2022-10-07T07:32:37.959Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T06:39:04.325Z</updated>
+    <updated>2022-10-07T07:32:37.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Release Banff - Elastic Subnets · ava-labs/avalanchego]]></title>
+        <id>https://github.com/ava-labs/avalanchego/releases/tag/v1.9.0</id>
+        <link href="https://github.com/ava-labs/avalanchego/releases/tag/v1.9.0"/>
+        <updated>2022-10-06T22:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Release Banff - Elastic Subnets · ava-labs/avalanchego]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Toward an open research and development process for MEV-Boost]]></title>
         <id>https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464</id>
         <link href="https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464"/>
@@ -81,6 +91,16 @@
         <link href="https://github.com/fp-crypto/weiroll-py"/>
         <updated>2022-10-06T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[GitHub - fp-crypto/weiroll-py]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Fuel Grants Program]]></title>
+        <id>https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/</id>
+        <link href="https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/"/>
+        <updated>2022-10-06T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the Fuel Grants Program]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,26 +171,6 @@
         <link href="https://www.coindesk.com/business/2022/10/06/celsius-top-3-execs-cashed-out-56m-in-crypto-before-bankruptcy/"/>
         <updated>2022-10-06T09:30:06.000Z</updated>
         <summary type="html"><![CDATA[Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Transaction Viewer]]></title>
-        <id>https://tx.eth.samczsun.com/</id>
-        <link href="https://tx.eth.samczsun.com/"/>
-        <updated>2022-10-06T07:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Transaction Viewer]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/]]></title>
-        <id>https://github.com/samczsun/ethereum-transaction-viewer-frontend</id>
-        <link href="https://github.com/samczsun/ethereum-transaction-viewer-frontend"/>
-        <updated>2022-10-06T07:30:06.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
