@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T18:35:16.079Z</id>
+    <id>urn:2022-10-07T19:24:34.488Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T18:35:16.079Z</updated>
+    <updated>2022-10-07T19:24:34.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs]]></title>
+        <id>https://github.com/gakonst/ethers-rs/pull/1768</id>
+        <link href="https://github.com/gakonst/ethers-rs/pull/1768"/>
+        <updated>2022-10-07T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E04: Everything you need to know about Sui with Mysten Lab founders Evan Cheng & Sam Blackshear]]></title>
         <id>https://www.youtube.com/watch?v=5wrGne20yIo&amp;feature=youtu.be</id>
@@ -161,16 +171,6 @@
         <link href="https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464"/>
         <updated>2022-10-06T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Toward an open research and development process for MEV-Boost]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Noir Programming Language - The Noir Programming Language]]></title>
-        <id>https://noir-lang.github.io/book/index.html</id>
-        <link href="https://noir-lang.github.io/book/index.html"/>
-        <updated>2022-10-06T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Noir Programming Language - The Noir Programming Language]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
