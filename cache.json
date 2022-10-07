@@ -6,14 +6,14 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/Bitcoin/comments/6d2tp1/i_am_the_bearwhale_uasf_now/",
+          "id": "https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L237-L290",
           "author": null,
-          "description": "r/Bitcoin - I am the BearWhale: UASF Now!",
-          "link": "https://www.reddit.com/r/Bitcoin/comments/6d2tp1/i_am_the_bearwhale_uasf_now/",
-          "publishedOn": "2022-10-07T02:00:05.000Z",
-          "wordCount": 39248,
-          "title": "r/Bitcoin - I am the BearWhale: UASF Now!",
-          "imageUrl": "https://external-preview.redd.it/apn0jimBDcu7v5NrQv4_AjqWqHWQMnATxOAbLbDgyQw.jpg?auto=webp&s=fe7abb3ae0c8be0d3d9905987e5f8442ae661e3c"
+          "description": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
+          "link": "https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L237-L290",
+          "publishedOn": "2022-10-07T03:00:02.000Z",
+          "wordCount": 2568,
+          "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
+          "imageUrl": "https://opengraph.githubassets.com/c3e9a1d97164568307f5046f2cf29925d05de510999ad3dcb26ef90a1024a8bb/cosmos/iavl"
         },
         {
           "id": "https://github.com/ava-labs/avalanchego/releases/tag/v1.9.0",
@@ -41,7 +41,7 @@
           "description": "Paywalls are closing off the internet. Crypto can fix that",
           "link": "https://fortune.com/crypto/2022/10/06/publishers-need-paywalls-but-theyre-closing-off-the-internet-crypto-can-fix-that/",
           "publishedOn": "2022-10-06T21:00:03.000Z",
-          "wordCount": 5347,
+          "wordCount": 5340,
           "title": "Paywalls are closing off the internet. Crypto can fix that",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/10/Crypto-Paywall-Internet.jpg?resize=1200,600"
         },
@@ -63,7 +63,17 @@
           "publishedOn": "2022-10-06T21:00:03.000Z",
           "wordCount": 1117,
           "title": "GitHub - fp-crypto/weiroll-py",
-          "imageUrl": "https://opengraph.githubassets.com/001810f6829069c37b616a70a4c15055113737fa06efa071e556a5cfe01762fa/fp-crypto/weiroll-py"
+          "imageUrl": "https://opengraph.githubassets.com/81b8d914cdd33172ceae12463976c84b436931a9ad35405cdaa5c287cc3dad3d/fp-crypto/weiroll-py"
+        },
+        {
+          "id": "https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/",
+          "author": null,
+          "description": "Introducing the Fuel Grants Program",
+          "link": "https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/",
+          "publishedOn": "2022-10-06T21:00:03.000Z",
+          "wordCount": 1267,
+          "title": "Introducing the Fuel Grants Program",
+          "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/10/FuelGrants.png"
         },
         {
           "id": "https://manifold.xyz/creators/gallery/",
@@ -76,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ethresear.ch/t/arithmetic-hash-based-alternatives-to-kzg-for-proto-danksharding-eip-4844/13863",
-          "author": null,
-          "description": "Arithmetic hash based alternatives to KZG for proto-danksharding (EIP-4844)",
-          "link": "https://ethresear.ch/t/arithmetic-hash-based-alternatives-to-kzg-for-proto-danksharding-eip-4844/13863",
-          "publishedOn": "2022-10-06T19:30:05.000Z",
-          "wordCount": 2819,
-          "title": "Arithmetic hash based alternatives to KZG for proto-danksharding (EIP-4844)",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/d/df1dc5c5a30e8c95d95d76ba0dda9cacdafd02ec.png"
-        },
-        {
           "id": "https://www.enclave.market/",
           "author": null,
           "description": "Enclave Markets",
@@ -93,6 +93,16 @@
           "publishedOn": "2022-10-06T19:30:05.000Z",
           "wordCount": 1129,
           "title": "Enclave Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/ukraine-central-banker-hit-ebezzlement-charges-after-resigning-health-reasons",
+          "author": null,
+          "description": "Ukraine Central Banker Hit With Embezzlement Charges After Resigning For \"Health Reasons\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/ukraine-central-banker-hit-ebezzlement-charges-after-resigning-health-reasons",
+          "publishedOn": "2022-10-06T19:00:02.000Z",
+          "wordCount": 852,
+          "title": "Ukraine Central Banker Hit With Embezzlement Charges After Resigning For \"Health Reasons\" | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -111,7 +121,7 @@
           "description": "Fact Check-Fabricated Jim Cramer tweet about likelihood of Russia using nuclear weapons",
           "link": "https://www.reuters.com/article/factcheck-cramer-russia/fact-check-fabricated-jim-cramer-tweet-about-likelihood-of-russia-using-nuclear-weapons-idUSL1N316282",
           "publishedOn": "2022-10-06T18:00:05.000Z",
-          "wordCount": 4335,
+          "wordCount": 4337,
           "title": "Fact Check-Fabricated Jim Cramer tweet about likelihood of Russia using nuclear weapons",
           "imageUrl": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         },
@@ -121,7 +131,7 @@
           "description": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
           "publishedOn": "2022-10-06T18:00:05.000Z",
-          "wordCount": 7219,
+          "wordCount": 7188,
           "title": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
         },
@@ -136,22 +146,12 @@
           "imageUrl": "https://paradigm.xyz/meta.png"
         },
         {
-          "id": "https://www.dol.gov/ui/data.pdf",
-          "author": null,
-          "description": "[PDF] data.pdf",
-          "link": "https://www.dol.gov/ui/data.pdf",
-          "publishedOn": "2022-10-06T13:30:06.000Z",
-          "wordCount": 24929,
-          "title": "[PDF] data.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/10/06/celsius-top-3-execs-cashed-out-56m-in-crypto-before-bankruptcy/",
           "author": null,
           "description": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "link": "https://www.coindesk.com/business/2022/10/06/celsius-top-3-execs-cashed-out-56m-in-crypto-before-bankruptcy/",
           "publishedOn": "2022-10-06T09:30:06.000Z",
-          "wordCount": 7888,
+          "wordCount": 7853,
           "title": "Celsius’ Top 3 Execs Cashed Out $56M in Crypto Before Bankruptcy",
           "imageUrl": "https://www.coindesk.com/resizer/QZfpGSn2QkVBRqL6azyRLzGEJcg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E5J66ZP3K5BPVHUIFHI3IMXVBA.jpg"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2022-10-06T07:30:06.000Z",
           "wordCount": 628,
           "title": "GitHub - samczsun/ethereum-transaction-viewer-frontend: Frontend for https://tx.eth.samczsun.com/",
-          "imageUrl": "https://opengraph.githubassets.com/8978cdc8db1e09ec60aab6ee9e73c41574283c383adeabfe9302cacad3d46d19/samczsun/ethereum-transaction-viewer-frontend"
+          "imageUrl": "https://opengraph.githubassets.com/be015f8528988fe82c1eb9df3ced33992d1f4ca9e38a36e1a7de16d13f4c761e/samczsun/ethereum-transaction-viewer-frontend"
         },
         {
           "id": "https://github.com/laurenceday/Dreambooth-Ion-Cannon",
