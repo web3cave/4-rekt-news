@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://hackmd.io/@lido/BJKmFkM-i",
+          "author": null,
+          "description": "LDO+stETH Dual Governance v3 - HackMD",
+          "link": "https://hackmd.io/@lido/BJKmFkM-i",
+          "publishedOn": "2022-10-07T23:30:04.000Z",
+          "wordCount": 3832,
+          "title": "LDO+stETH Dual Governance v3 - HackMD",
+          "imageUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSI5NiIgd2lkdGg9Ijk2IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA5NiA5NiI+PGc+PHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiBmaWxsPSIjZjdjNzYwIiAvPjx0ZXh0IGZvbnQtc2l6ZT0iNjRweCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPjx0c3BhbiB4PSI0OCIgeT0iNzIiIHN0cm9rZS13aWR0aD0iLjI2NDU4cHgiIGZpbGw9IiNmZmZmZmYiPkw8L3RzcGFuPjwvdGV4dD48L2c+PC9zdmc+"
+        },
+        {
+          "id": "https://www.cnn.com/2022/10/07/opinions/kim-kardashian-sec-fine-crypto-parker/index.html",
+          "author": null,
+          "description": "Opinion: Kim Kardashian did the crypto industry a favor | CNN",
+          "link": "https://www.cnn.com/2022/10/07/opinions/kim-kardashian-sec-fine-crypto-parker/index.html",
+          "publishedOn": "2022-10-07T23:00:02.000Z",
+          "wordCount": 19160,
+          "title": "Opinion: Kim Kardashian did the crypto industry a favor | CNN",
+          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/221007084212-kim-kardashian-0924.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "id": "https://medium.com/graviton-xyz/nft-embed-new-features-alert-643bec22ec0b",
+          "author": null,
+          "description": "🚨NFT Embed: New Features Alert!🚨",
+          "link": "https://medium.com/graviton-xyz/nft-embed-new-features-alert-643bec22ec0b",
+          "publishedOn": "2022-10-07T23:00:02.000Z",
+          "wordCount": 1646,
+          "title": "🚨NFT Embed: New Features Alert!🚨",
+          "imageUrl": "https://miro.medium.com/max/1200/1*wOyqE53UZy0ZHfnMNgR7oA.png"
+        },
+        {
           "id": "https://medium.com/@4RCapital/web3-x-artificial-intelligence-c1331392e21a",
           "author": null,
           "description": "Web3 x Artificial Intelligence",
@@ -61,7 +91,7 @@
           "description": "Crypto dev creates way to access prohibited apps like Tornado Cash",
           "link": "https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-07T16:00:06.000Z",
-          "wordCount": 62295,
+          "wordCount": 61794,
           "title": "Crypto dev creates way to access prohibited apps like Tornado Cash",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220822_TornadoCash_Generic3.jpg"
         },
@@ -101,7 +131,7 @@
           "description": "Celsius provides users' names and trading history in legal filing",
           "link": "https://www.theblock.co/post/175445/celsius-provides-users-names-and-trading-history-in-legal-filing/",
           "publishedOn": "2022-10-07T11:30:06.000Z",
-          "wordCount": 62623,
+          "wordCount": 62122,
           "title": "Celsius provides users' names and trading history in legal filing",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_Celsius_Generic2.jpg"
         },
@@ -114,16 +144,6 @@
           "wordCount": 1749,
           "title": "Protocol Fee Switch Education & Research",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/HZFzujk4IKp6Fqdq2mop9.jpg?h=400&w=400"
-        },
-        {
-          "id": "https://cryptohayes.medium.com/contagion-cf3638417fe9",
-          "author": null,
-          "description": "Contagion",
-          "link": "https://cryptohayes.medium.com/contagion-cf3638417fe9",
-          "publishedOn": "2022-10-07T08:00:04.000Z",
-          "wordCount": 11271,
-          "title": "Contagion",
-          "imageUrl": "https://miro.medium.com/max/400/0*hL5k-mr0MJFh1bJ4"
         },
         {
           "id": "https://github.com/bnb-chain/bsc/releases/tag/v1.1.15",
@@ -146,22 +166,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/bnb-chain/bsc/blob/335492482d669efa28b6e1793ba16f100f8c3d54/core/vm/contracts_lightclient.go#L106",
-          "author": null,
-          "description": "bsc/contracts_lightclient.go at 335492482d669efa28b6e1793ba16f100f8c3d54 · bnb-chain/bsc",
-          "link": "https://github.com/bnb-chain/bsc/blob/335492482d669efa28b6e1793ba16f100f8c3d54/core/vm/contracts_lightclient.go#L106",
-          "publishedOn": "2022-10-07T05:30:04.000Z",
-          "wordCount": 858,
-          "title": "bsc/contracts_lightclient.go at 335492482d669efa28b6e1793ba16f100f8c3d54 · bnb-chain/bsc",
-          "imageUrl": "https://opengraph.githubassets.com/fb97151daea20df82a205dc4721228d3ba869a67ba9be73511e6b2c5de0535ba/bnb-chain/bsc"
-        },
-        {
           "id": "https://vimeo.com/46550686",
           "author": null,
           "description": "MTV's The Substitute Round 1",
           "link": "https://vimeo.com/46550686",
           "publishedOn": "2022-10-07T05:00:03.000Z",
-          "wordCount": 3806,
+          "wordCount": 3800,
           "title": "MTV's The Substitute Round 1",
           "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F330520583-d5081009592b299f31709b6ad174a7d14841ea9b48b6b44812052daa946f3dfd-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1484,
           "title": "Toward an open research and development process for MEV-Boost",
           "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
-        },
-        {
-          "id": "https://manifold.xyz/creators/gallery/",
-          "author": null,
-          "description": "Gallery | Manifold",
-          "link": "https://manifold.xyz/creators/gallery/",
-          "publishedOn": "2022-10-06T20:00:05.000Z",
-          "wordCount": 409,
-          "title": "Gallery | Manifold",
-          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/10/ethereums-new-staking-model-does-not-make-eth-a-security",
