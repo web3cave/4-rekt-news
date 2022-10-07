@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fortune.com/crypto/2022/10/07/meet-fatmanterra-the-twitter-user-helping-bring-terras-do-kwon-to-justice/",
+          "author": null,
+          "description": "Who is FatManTerra?",
+          "link": "https://fortune.com/crypto/2022/10/07/meet-fatmanterra-the-twitter-user-helping-bring-terras-do-kwon-to-justice/",
+          "publishedOn": "2022-10-07T17:00:09.000Z",
+          "wordCount": 4799,
+          "title": "Who is FatManTerra?",
+          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/10/Crypto-Do-Kwon.v2.jpg?resize=1200,600"
+        },
+        {
           "id": "https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Crypto dev creates way to access prohibited apps like Tornado Cash",
@@ -41,7 +51,7 @@
           "description": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "link": "https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526",
           "publishedOn": "2022-10-07T12:00:04.000Z",
-          "wordCount": 6022,
+          "wordCount": 5743,
           "title": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4746483fb800d262eb1dadcf37704c75.png"
         },
@@ -56,12 +66,22 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220613_Celsius_Generic2.jpg"
         },
         {
+          "id": "https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc",
+          "author": null,
+          "description": "Protocol Fee Switch Education & Research",
+          "link": "https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc",
+          "publishedOn": "2022-10-07T09:00:03.000Z",
+          "wordCount": 1749,
+          "title": "Protocol Fee Switch Education & Research",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/HZFzujk4IKp6Fqdq2mop9.jpg?h=400&w=400"
+        },
+        {
           "id": "https://cryptohayes.medium.com/contagion-cf3638417fe9",
           "author": null,
           "description": "Contagion",
           "link": "https://cryptohayes.medium.com/contagion-cf3638417fe9",
           "publishedOn": "2022-10-07T08:00:04.000Z",
-          "wordCount": 10810,
+          "wordCount": 11271,
           "title": "Contagion",
           "imageUrl": "https://miro.medium.com/max/400/0*hL5k-mr0MJFh1bJ4"
         },
@@ -71,7 +91,7 @@
           "description": "Release v1.1.15 · bnb-chain/bsc",
           "link": "https://github.com/bnb-chain/bsc/releases/tag/v1.1.15",
           "publishedOn": "2022-10-07T07:00:03.000Z",
-          "wordCount": 527,
+          "wordCount": 529,
           "title": "Release v1.1.15 · bnb-chain/bsc",
           "imageUrl": "https://opengraph.githubassets.com/517d5ffc180792127a653051963620dbd8428e13d51241f6b4862fbf412b4300/bnb-chain/bsc/releases/tag/v1.1.15"
         },
@@ -81,7 +101,7 @@
           "description": "r/bnbchainofficial - Temporary Pause of BSC",
           "link": "https://www.reddit.com/r/bnbchainofficial/comments/xxjkpy/temporary_pause_of_bsc/",
           "publishedOn": "2022-10-07T06:00:05.000Z",
-          "wordCount": 47005,
+          "wordCount": 33441,
           "title": "r/bnbchainofficial - Temporary Pause of BSC",
           "imageUrl": null
         },
@@ -93,7 +113,7 @@
           "publishedOn": "2022-10-07T05:30:04.000Z",
           "wordCount": 858,
           "title": "bsc/contracts_lightclient.go at 335492482d669efa28b6e1793ba16f100f8c3d54 · bnb-chain/bsc",
-          "imageUrl": "https://opengraph.githubassets.com/4cdcb0395c843d58475768daa2dfc798c25eace8893bf29f2e0d023202d1e7dc/bnb-chain/bsc"
+          "imageUrl": "https://opengraph.githubassets.com/2b3a4e1192b4054cb4c078c3c4a2f2ac2e1d2787b218307c707471b3188d1239/bnb-chain/bsc"
         },
         {
           "id": "https://vimeo.com/46550686",
@@ -114,16 +134,6 @@
           "wordCount": 2568,
           "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
           "imageUrl": "https://opengraph.githubassets.com/4e17c55c2cc800d27fe54b160fdec8f6519b8278fbeed7bbf69d412a1826adb3/cosmos/iavl"
-        },
-        {
-          "id": "https://github.com/ava-labs/avalanchego/releases/tag/v1.9.0",
-          "author": null,
-          "description": "Release Banff - Elastic Subnets · ava-labs/avalanchego",
-          "link": "https://github.com/ava-labs/avalanchego/releases/tag/v1.9.0",
-          "publishedOn": "2022-10-06T22:30:03.000Z",
-          "wordCount": 467,
-          "title": "Release Banff - Elastic Subnets · ava-labs/avalanchego",
-          "imageUrl": "https://opengraph.githubassets.com/cbd3e2f50dc5531a217770f6267eade2dfe97a43b06252f3a7a88ef321ad99ef/ava-labs/avalanchego/releases/tag/v1.9.0"
         },
         {
           "id": "https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464",
@@ -151,19 +161,9 @@
           "description": "GitHub - fp-crypto/weiroll-py",
           "link": "https://github.com/fp-crypto/weiroll-py",
           "publishedOn": "2022-10-06T21:00:03.000Z",
-          "wordCount": 1185,
+          "wordCount": 1158,
           "title": "GitHub - fp-crypto/weiroll-py",
-          "imageUrl": "https://opengraph.githubassets.com/eb729506d61e1d56ac22852425f09a7ff148ffc4df0928f9b00bd688951a3434/fp-crypto/weiroll-py"
-        },
-        {
-          "id": "https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/",
-          "author": null,
-          "description": "Introducing the Fuel Grants Program",
-          "link": "https://fuel-labs.ghost.io/introducing-the-fuel-grants-program/",
-          "publishedOn": "2022-10-06T21:00:03.000Z",
-          "wordCount": 1267,
-          "title": "Introducing the Fuel Grants Program",
-          "imageUrl": "https://fuel-labs.ghost.io/content/images/2022/10/FuelGrants.png"
+          "imageUrl": "https://opengraph.githubassets.com/6bd7f88cd3ff7d0a1084fbd0df4b5850b3ebf2802c68dae926a90aa2036f077c/fp-crypto/weiroll-py"
         },
         {
           "id": "https://manifold.xyz/creators/gallery/",
@@ -191,7 +191,7 @@
           "description": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
           "publishedOn": "2022-10-06T18:00:05.000Z",
-          "wordCount": 7214,
+          "wordCount": 7260,
           "title": "Stablecoin Issuer MakerDAO Allocates $500M for Treasuries, Corporate Bond Investment",
           "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
         },
