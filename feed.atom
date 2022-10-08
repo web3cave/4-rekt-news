@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T23:30:45.080Z</id>
+    <id>urn:2022-10-08T02:05:28.758Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T23:30:45.080Z</updated>
+    <updated>2022-10-08T02:05:28.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Climate Friendly Devcon VI from disCarbon x Toucan]]></title>
+        <id>https://devcon.discarbon.earth/</id>
+        <link href="https://devcon.discarbon.earth/"/>
+        <updated>2022-10-08T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Climate Friendly Devcon VI from disCarbon x Toucan]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Story Behind the Alternative Genesis Block of Bitcoin]]></title>
+        <id>https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/</id>
+        <link href="https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/"/>
+        <updated>2022-10-08T01:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The Story Behind the Alternative Genesis Block of Bitcoin]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC.gov | SEC Reopens Comment Periods for Several Rulemaking Releases Due to Technological Error in Receiving Certain...]]></title>
+        <id>https://www.sec.gov/news/press-release/2022-186</id>
+        <link href="https://www.sec.gov/news/press-release/2022-186"/>
+        <updated>2022-10-07T23:30:04.000Z</updated>
+        <summary type="html"><![CDATA[SEC.gov | SEC Reopens Comment Periods for Several Rulemaking Releases Due to Technological Error in Receiving Certain...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LDO+stETH Dual Governance v3 - HackMD]]></title>
         <id>https://hackmd.io/@lido/BJKmFkM-i</id>
@@ -76,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Artist Spent Two Years Covering His Mansion in Doodles]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/artist-mansion-covered-in-doodles-180980892/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/artist-mansion-covered-in-doodles-180980892/"/>
-        <updated>2022-10-07T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[This Artist Spent Two Years Covering His Mansion in Doodles]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto dev creates way to access prohibited apps like Tornado Cash]]></title>
         <id>https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&amp;utm_medium=social</id>
         <link href="https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&amp;utm_medium=social"/>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Celsius provides users' names and trading history in legal filing]]></title>
-        <id>https://www.theblock.co/post/175445/celsius-provides-users-names-and-trading-history-in-legal-filing/</id>
-        <link href="https://www.theblock.co/post/175445/celsius-provides-users-names-and-trading-history-in-legal-filing/"/>
-        <updated>2022-10-07T11:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Celsius provides users' names and trading history in legal filing]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Protocol Fee Switch Education & Research]]></title>
         <id>https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc</id>
         <link href="https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc"/>
@@ -156,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[r/bnbchainofficial - Temporary Pause of BSC]]></title>
-        <id>https://www.reddit.com/r/bnbchainofficial/comments/xxjkpy/temporary_pause_of_bsc/</id>
-        <link href="https://www.reddit.com/r/bnbchainofficial/comments/xxjkpy/temporary_pause_of_bsc/"/>
-        <updated>2022-10-07T06:00:05.000Z</updated>
-        <summary type="html"><![CDATA[r/bnbchainofficial - Temporary Pause of BSC]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MTV's The Substitute Round 1]]></title>
         <id>https://vimeo.com/46550686</id>
         <link href="https://vimeo.com/46550686"/>
@@ -177,8 +177,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl]]></title>
-        <id>https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L237-L290</id>
-        <link href="https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L237-L290"/>
+        <id>https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L278</id>
+        <link href="https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L278"/>
         <updated>2022-10-07T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl]]></summary>
         <author>
