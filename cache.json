@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://charts.volmex.finance/",
+          "author": null,
+          "description": "Volmex",
+          "link": "http://charts.volmex.finance/",
+          "publishedOn": "2022-10-08T05:00:02.000Z",
+          "wordCount": 9,
+          "title": "Volmex",
+          "imageUrl": null
+        },
+        {
           "id": "https://entrepreneurshandbook.co/contagion-cf3638417fe9?gi=7c97448715f5",
           "author": null,
           "description": "Contagion",
@@ -101,7 +111,7 @@
           "description": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
           "link": "https://github.com/gakonst/ethers-rs/pull/1768",
           "publishedOn": "2022-10-07T19:00:03.000Z",
-          "wordCount": 655,
+          "wordCount": 652,
           "title": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
           "imageUrl": "https://opengraph.githubassets.com/7a5e94fd3146d9825320468ecbbb90b917eac7a1ea0d79d9f2a845cc4ec4992e/gakonst/ethers-rs/pull/1768"
         },
@@ -151,19 +161,9 @@
           "description": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "link": "https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526",
           "publishedOn": "2022-10-07T12:00:04.000Z",
-          "wordCount": 6014,
+          "wordCount": 5735,
           "title": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4746483fb800d262eb1dadcf37704c75.png"
-        },
-        {
-          "id": "https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc",
-          "author": null,
-          "description": "Protocol Fee Switch Education & Research",
-          "link": "https://uniswapfoundation.mirror.xyz/5kHlT0lMVDi88ZcDOvYVcTt0RuRAk1_eZg4V7GPK_hc",
-          "publishedOn": "2022-10-07T09:00:03.000Z",
-          "wordCount": 1749,
-          "title": "Protocol Fee Switch Education & Research",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/HZFzujk4IKp6Fqdq2mop9.jpg?h=400&w=400"
         },
         {
           "id": "https://github.com/bnb-chain/bsc/releases/tag/v1.1.15",
@@ -183,7 +183,7 @@
           "publishedOn": "2022-10-07T03:00:02.000Z",
           "wordCount": 2568,
           "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
-          "imageUrl": "https://opengraph.githubassets.com/d0339f73e666caf8cf1676b40ff7fc641cfbb8f6603a84d9b70742edb69b8408/cosmos/iavl"
+          "imageUrl": "https://opengraph.githubassets.com/6f2ee4d18fd20d8befa7d752aff3b56e6f1aa035f1a1de11d5b25749626833f4/cosmos/iavl"
         },
         {
           "id": "https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464",
