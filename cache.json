@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.prnewswire.com/news-releases/ftx-and-visa-expand-global-partnership-301643433.html?linkId=184662756",
+          "author": null,
+          "description": "FTX and Visa Expand Global Partnership",
+          "link": "https://www.prnewswire.com/news-releases/ftx-and-visa-expand-global-partnership-301643433.html?linkId=184662756",
+          "publishedOn": "2022-10-08T09:30:06.000Z",
+          "wordCount": 2140,
+          "title": "FTX and Visa Expand Global Partnership",
+          "imageUrl": "https://mma.prnewswire.com/media/1507122/FTX_Logo.jpg?p=facebook"
+        },
+        {
           "id": "https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/",
           "author": null,
           "description": "The Story Behind the Alternative Genesis Block of Bitcoin",
@@ -121,7 +131,7 @@
           "description": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
           "link": "https://github.com/gakonst/ethers-rs/pull/1768",
           "publishedOn": "2022-10-07T19:00:03.000Z",
-          "wordCount": 652,
+          "wordCount": 655,
           "title": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
           "imageUrl": "https://opengraph.githubassets.com/7a5e94fd3146d9825320468ecbbb90b917eac7a1ea0d79d9f2a845cc4ec4992e/gakonst/ethers-rs/pull/1768"
         },
@@ -146,16 +156,6 @@
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/10/Crypto-Do-Kwon.v2.jpg?resize=1200,600"
         },
         {
-          "id": "https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Crypto dev creates way to access prohibited apps like Tornado Cash",
-          "link": "https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-10-07T16:00:06.000Z",
-          "wordCount": 62641,
-          "title": "Crypto dev creates way to access prohibited apps like Tornado Cash",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220822_TornadoCash_Generic3.jpg"
-        },
-        {
           "id": "https://www.cnbc.com/2022/10/07/visa-partners-with-ftx-in-a-bet-that-shoppers-still-want-to-spend-cryptocurrencies-in-a-bear-market.html",
           "author": null,
           "description": "Visa partners with FTX in a bet that shoppers still want to spend cryptocurrencies in a bear market",
@@ -171,7 +171,7 @@
           "description": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "link": "https://gizmodo.com/celsius-execs-cashed-out-bitcoin-price-crypto-ponzi-1849623526",
           "publishedOn": "2022-10-07T12:00:04.000Z",
-          "wordCount": 5735,
+          "wordCount": 6014,
           "title": "Celsius Execs Cashed Out $56 Million Before Halting Withdrawals",
           "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4746483fb800d262eb1dadcf37704c75.png"
         },
@@ -193,7 +193,7 @@
           "publishedOn": "2022-10-07T03:00:02.000Z",
           "wordCount": 2568,
           "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
-          "imageUrl": "https://opengraph.githubassets.com/6f2ee4d18fd20d8befa7d752aff3b56e6f1aa035f1a1de11d5b25749626833f4/cosmos/iavl"
+          "imageUrl": "https://opengraph.githubassets.com/c7bd778c443f527945b157d895fb1595e4ec26ac37e1da373112ac2304b3bcc3/cosmos/iavl"
         },
         {
           "id": "https://collective.flashbots.net/t/toward-an-open-research-and-development-process-for-mev-boost/464",
