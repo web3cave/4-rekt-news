@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QkZUlqetTRA&feature=youtu.be",
+          "author": null,
+          "description": "The zkEVM is Here | zkSync's Steve Newcomb",
+          "link": "https://www.youtube.com/watch?v=QkZUlqetTRA&feature=youtu.be",
+          "publishedOn": "2022-10-08T16:30:02.000Z",
+          "wordCount": null,
+          "title": "The zkEVM is Here | zkSync's Steve Newcomb",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.guruwalk.com/es/walks/20411-free-walking-tour-por-bogota",
           "author": null,
           "description": "Free Walking Tour por Bogotá - GuruWalk",
           "link": "https://www.guruwalk.com/es/walks/20411-free-walking-tour-por-bogota",
-          "publishedOn": "2022-10-08T15:00:03.000Z",
+          "publishedOn": "2022-10-08T16:00:04.000Z",
           "wordCount": 1635,
           "title": "Free Walking Tour por Bogotá - GuruWalk",
           "imageUrl": "https://media.guruwalk.com/hqy1hi9rb9mhiiehgh7hmlkpwtd1"
+        },
+        {
+          "id": "https://forum.yam.finance/t/the-great-yamdemption/1758",
+          "author": null,
+          "description": "The Great Yamdemption",
+          "link": "https://forum.yam.finance/t/the-great-yamdemption/1758",
+          "publishedOn": "2022-10-08T15:30:05.000Z",
+          "wordCount": 1996,
+          "title": "The Great Yamdemption",
+          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/yam1/original/1X/9bd597764804191aa5df99b8f2bb764502003675.png"
+        },
+        {
+          "id": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
+          "author": null,
+          "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
+          "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
+          "publishedOn": "2022-10-08T13:00:02.000Z",
+          "wordCount": 7359,
+          "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
+          "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         },
         {
           "id": "https://forumserver.twoplustwo.com/29/news-views-gossip/garrett-adelstein-report-likely-cheating-hustler-casino-live-1813491/#post57848911",
@@ -51,7 +81,7 @@
           "description": "New PayPal Policy Lets Company Pull $2,500 From Users’ Accounts If They Promote ‘Misinformation’ | The Daily Wire",
           "link": "https://www.dailywire.com/news/new-paypal-policy-lets-company-pull-2500-from-users-accounts-if-they-promote-misinformation",
           "publishedOn": "2022-10-08T07:00:02.000Z",
-          "wordCount": 1943,
+          "wordCount": 1993,
           "title": "New PayPal Policy Lets Company Pull $2,500 From Users’ Accounts If They Promote ‘Misinformation’ | The Daily Wire",
           "imageUrl": "https://dw-wp-production.imgix.net/2022/10/GettyImages-1242001791-scaled.jpg?w=1200&h=800&ixlib=react-9.3.0"
         },
@@ -71,7 +101,7 @@
           "description": "Contagion",
           "link": "https://entrepreneurshandbook.co/contagion-cf3638417fe9?gi=7c97448715f5",
           "publishedOn": "2022-10-08T04:00:04.000Z",
-          "wordCount": 11218,
+          "wordCount": 11142,
           "title": "Contagion",
           "imageUrl": "https://miro.medium.com/max/400/0*hL5k-mr0MJFh1bJ4"
         },
@@ -106,6 +136,16 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/WhHpUT9bx4AgmUfVZAKEO.jpeg?height=500&width=1000&h=500&w=1000&auto=compress"
         },
         {
+          "id": "https://github.com/bitcoin/bips/pull/1378",
+          "author": null,
+          "description": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
+          "link": "https://github.com/bitcoin/bips/pull/1378",
+          "publishedOn": "2022-10-08T03:00:01.000Z",
+          "wordCount": 1670,
+          "title": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
+          "imageUrl": "https://opengraph.githubassets.com/99ee5709ea3714bbdafbdceaa4b4adad561782c0714d0485aa27110aa4be375a/bitcoin/bips/pull/1378"
+        },
+        {
           "id": "https://www.sec.gov/news/press-release/2022-186",
           "author": null,
           "description": "SEC.gov | SEC Reopens Comment Periods for Several Rulemaking Releases Due to Technological Error in Receiving Certain...",
@@ -113,6 +153,16 @@
           "publishedOn": "2022-10-07T23:30:04.000Z",
           "wordCount": 1144,
           "title": "SEC.gov | SEC Reopens Comment Periods for Several Rulemaking Releases Due to Technological Error in Receiving Certain...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/shocking-consumer-credit-numbers-everyone-maxed-out-their-credit-card-economy-slid",
+          "author": null,
+          "description": "Shocking Consumer Credit Numbers: Everyone Maxed Out Their Credit Card As Economy Slid Into Recession | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/shocking-consumer-credit-numbers-everyone-maxed-out-their-credit-card-economy-slid",
+          "publishedOn": "2022-10-07T23:30:04.000Z",
+          "wordCount": 1083,
+          "title": "Shocking Consumer Credit Numbers: Everyone Maxed Out Their Credit Card As Economy Slid Into Recession | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -134,56 +184,6 @@
           "wordCount": 1646,
           "title": "🚨NFT Embed: New Features Alert!🚨",
           "imageUrl": "https://miro.medium.com/max/1200/1*wOyqE53UZy0ZHfnMNgR7oA.png"
-        },
-        {
-          "id": "https://medium.com/@4RCapital/web3-x-artificial-intelligence-c1331392e21a",
-          "author": null,
-          "description": "Web3 x Artificial Intelligence",
-          "link": "https://medium.com/@4RCapital/web3-x-artificial-intelligence-c1331392e21a",
-          "publishedOn": "2022-10-07T21:48:56.000Z",
-          "wordCount": 2881,
-          "title": "Web3 x Artificial Intelligence",
-          "imageUrl": "https://miro.medium.com/max/600/0*4Bk4e0iPhCxfQIjT"
-        },
-        {
-          "id": "https://github.com/gakonst/ethers-rs/pull/1768",
-          "author": null,
-          "description": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
-          "link": "https://github.com/gakonst/ethers-rs/pull/1768",
-          "publishedOn": "2022-10-07T19:00:03.000Z",
-          "wordCount": 655,
-          "title": "chore: replace rinkeby with goerli by mattsse · Pull Request #1768 · gakonst/ethers-rs",
-          "imageUrl": "https://opengraph.githubassets.com/7a5e94fd3146d9825320468ecbbb90b917eac7a1ea0d79d9f2a845cc4ec4992e/gakonst/ethers-rs/pull/1768"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5wrGne20yIo&feature=youtu.be",
-          "author": null,
-          "description": "E04: Everything you need to know about Sui with Mysten Lab founders Evan Cheng & Sam Blackshear",
-          "link": "https://www.youtube.com/watch?v=5wrGne20yIo&feature=youtu.be",
-          "publishedOn": "2022-10-07T18:00:04.000Z",
-          "wordCount": null,
-          "title": "E04: Everything you need to know about Sui with Mysten Lab founders Evan Cheng & Sam Blackshear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cnbc.com/2022/10/07/visa-partners-with-ftx-in-a-bet-that-shoppers-still-want-to-spend-cryptocurrencies-in-a-bear-market.html",
-          "author": null,
-          "description": "Visa partners with FTX in a bet that shoppers still want to spend cryptocurrencies in a bear market",
-          "link": "https://www.cnbc.com/2022/10/07/visa-partners-with-ftx-in-a-bet-that-shoppers-still-want-to-spend-cryptocurrencies-in-a-bear-market.html",
-          "publishedOn": "2022-10-07T13:00:04.000Z",
-          "wordCount": 15254,
-          "title": "Visa partners with FTX in a bet that shoppers still want to spend cryptocurrencies in a bear market",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107016589-1645082797452-gettyimages-1365234911-amazon_visa-2.jpeg?v=1665140429&w=1920&h=1080"
-        },
-        {
-          "id": "https://github.com/bnb-chain/bsc/releases/tag/v1.1.15",
-          "author": null,
-          "description": "Release v1.1.15 · bnb-chain/bsc",
-          "link": "https://github.com/bnb-chain/bsc/releases/tag/v1.1.15",
-          "publishedOn": "2022-10-07T07:00:03.000Z",
-          "wordCount": 529,
-          "title": "Release v1.1.15 · bnb-chain/bsc",
-          "imageUrl": "https://opengraph.githubassets.com/517d5ffc180792127a653051963620dbd8428e13d51241f6b4862fbf412b4300/bnb-chain/bsc/releases/tag/v1.1.15"
         },
         {
           "id": "https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L278",
