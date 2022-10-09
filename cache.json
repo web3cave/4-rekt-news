@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.farcaster.network/",
+          "author": null,
+          "description": "Farcaster Network",
+          "link": "https://www.farcaster.network/",
+          "publishedOn": "2022-10-09T19:30:04.000Z",
+          "wordCount": 144,
+          "title": "Farcaster Network",
+          "imageUrl": "https://farcaster.network/sharing.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/day-reckoning-finally-here-peter-schiff-warns-inflation-will-its-here-stay",
+          "author": null,
+          "description": "\"Day Of Reckoning Is Finally Here\" - Peter Schiff Warns Inflation Will & It's Here To Stay | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/day-reckoning-finally-here-peter-schiff-warns-inflation-will-its-here-stay",
+          "publishedOn": "2022-10-09T19:30:04.000Z",
+          "wordCount": 1406,
+          "title": "\"Day Of Reckoning Is Finally Here\" - Peter Schiff Warns Inflation Will & It's Here To Stay | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.yam.finance/t/the-great-yamdemption/1758",
+          "author": null,
+          "description": "The Great Yamdemption",
+          "link": "https://forum.yam.finance/t/the-great-yamdemption/1758",
+          "publishedOn": "2022-10-09T19:30:04.000Z",
+          "wordCount": 2110,
+          "title": "The Great Yamdemption",
+          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/yam1/original/1X/9bd597764804191aa5df99b8f2bb764502003675.png"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "author": null,
           "description": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "link": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "publishedOn": "2022-10-09T19:00:02.000Z",
-          "wordCount": 7296,
+          "wordCount": 7248,
           "title": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/A27AEyXK-c_ZQNSzzw1JBBBfkws=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LOJLTBPKARCFVDEWHFEFCN3HWQ.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "link": "https://www.eff.org/deeplinks/2016/02/kafkaesque-battle-soulseek-and-paypal-and-why-free-speech-defenders-should-be",
           "publishedOn": "2022-10-09T18:00:05.000Z",
-          "wordCount": 2670,
+          "wordCount": 2676,
           "title": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "imageUrl": "https://www.eff.org/files/eff-og.png"
         },
@@ -41,7 +71,7 @@
           "description": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "link": "https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo",
           "publishedOn": "2022-10-09T17:30:04.000Z",
-          "wordCount": 9478,
+          "wordCount": 9476,
           "title": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/7PY0f2c60iyg4vy9-rQgj_uJr_g=/0x0:1080x1080/1200x628/filters:focal(279x526:280x527)/cdn.vox-cdn.com/uploads/chorus_asset/file/24088857/299150825_10114625396804361_144927942652991577_n.jpg"
         },
@@ -106,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.mesonstars.com/",
-          "author": null,
-          "description": "Meson Stars – ONLINE NEWS ABOUT SPACE EXPLORATION",
-          "link": "https://www.mesonstars.com/",
-          "publishedOn": "2022-10-09T16:00:05.000Z",
-          "wordCount": 1081,
-          "title": "Meson Stars – ONLINE NEWS ABOUT SPACE EXPLORATION",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.lopp.net/bitcoin-block-time-variance/",
           "author": null,
           "description": "Bitcoin Block Time Variance: Theory vs Reality",
@@ -156,26 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.ft.com/content/50e8691a-7ce4-413f-b1ea-22d37885b28b",
-          "author": null,
-          "description": "Munich Re cuts coverage for oil and gas projects",
-          "link": "https://www.ft.com/content/50e8691a-7ce4-413f-b1ea-22d37885b28b",
-          "publishedOn": "2022-10-09T05:00:02.000Z",
-          "wordCount": 2011,
-          "title": "Munich Re cuts coverage for oil and gas projects",
-          "imageUrl": null
-        },
-        {
-          "id": "https://norswap.com/bedrock-vs-nitro/",
-          "author": null,
-          "description": "norswap · Optimism Bedrock vs Arbitrum Nitro",
-          "link": "https://norswap.com/bedrock-vs-nitro/",
-          "publishedOn": "2022-10-09T01:30:04.000Z",
-          "wordCount": 3137,
-          "title": "norswap · Optimism Bedrock vs Arbitrum Nitro",
-          "imageUrl": null
-        },
-        {
           "id": "https://thalalabs.medium.com/meet-thala-labs-a1591eb124da",
           "author": null,
           "description": "Meet Thala Labs",
@@ -201,7 +201,7 @@
           "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
           "publishedOn": "2022-10-08T13:00:02.000Z",
-          "wordCount": 7424,
+          "wordCount": 7386,
           "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         }
