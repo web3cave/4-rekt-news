@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6Waurx8e-1o&feature=youtu.be",
+          "author": null,
+          "description": "Leonard Susskind: My friend Richard Feynman",
+          "link": "https://www.youtube.com/watch?v=6Waurx8e-1o&feature=youtu.be",
+          "publishedOn": "2022-10-09T06:00:04.000Z",
+          "wordCount": null,
+          "title": "Leonard Susskind: My friend Richard Feynman",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
           "author": null,
           "description": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "link": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
           "publishedOn": "2022-10-09T05:30:04.000Z",
-          "wordCount": null,
+          "wordCount": 356876,
           "title": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "imageUrl": null
         },
@@ -33,16 +43,6 @@
           "publishedOn": "2022-10-09T05:00:02.000Z",
           "wordCount": 1190,
           "title": "Where To Find Water On Mars | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/poll-growing-number-americans-want-diplomacy-adversaries",
-          "author": null,
-          "description": "Growing Number Of Americans Want Diplomacy With Adversaries; New Poll Finds | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/poll-growing-number-americans-want-diplomacy-adversaries",
-          "publishedOn": "2022-10-09T05:00:02.000Z",
-          "wordCount": 837,
-          "title": "Growing Number Of Americans Want Diplomacy With Adversaries; New Poll Finds | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -141,7 +141,7 @@
           "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
           "publishedOn": "2022-10-08T13:00:02.000Z",
-          "wordCount": 7362,
+          "wordCount": 7366,
           "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         },
@@ -191,9 +191,9 @@
           "description": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
           "link": "https://github.com/bitcoin/bips/pull/1378",
           "publishedOn": "2022-10-08T03:00:01.000Z",
-          "wordCount": 1670,
+          "wordCount": 1853,
           "title": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/99ee5709ea3714bbdafbdceaa4b4adad561782c0714d0485aa27110aa4be375a/bitcoin/bips/pull/1378"
+          "imageUrl": "https://opengraph.githubassets.com/7f846947b3cb244b402117eb9779c5a74a58e26df4bf12ab00b2ff7457ed6154/bitcoin/bips/pull/1378"
         },
         {
           "id": "https://github.com/cosmos/iavl/blob/de0740903a67b624d887f9055d4c60175dcfa758/proof_range.go#L278",
@@ -203,7 +203,7 @@
           "publishedOn": "2022-10-07T03:00:02.000Z",
           "wordCount": 2568,
           "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
-          "imageUrl": "https://opengraph.githubassets.com/a8600f77e386b2d7ed14c116bce2aa0cef30e3efe207af3c991123dc892f0e07/cosmos/iavl"
+          "imageUrl": "https://opengraph.githubassets.com/ae48e8eb72daf2a5f8681551b1b42cae7fe95a43ccf14f0b61e4865283c5202b/cosmos/iavl"
         }
       ]
     }
