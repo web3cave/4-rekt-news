@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.mesonstars.com/",
+          "author": null,
+          "description": "Meson Stars – ONLINE NEWS ABOUT SPACE EXPLORATION",
+          "link": "https://www.mesonstars.com/",
+          "publishedOn": "2022-10-09T16:00:05.000Z",
+          "wordCount": 1081,
+          "title": "Meson Stars – ONLINE NEWS ABOUT SPACE EXPLORATION",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.lopp.net/bitcoin-block-time-variance/",
+          "author": null,
+          "description": "Bitcoin Block Time Variance: Theory vs Reality",
+          "link": "https://blog.lopp.net/bitcoin-block-time-variance/",
+          "publishedOn": "2022-10-09T16:00:05.000Z",
+          "wordCount": 1821,
+          "title": "Bitcoin Block Time Variance: Theory vs Reality",
+          "imageUrl": "https://blog.lopp.net/content/images/2021/02/all-positive-delta-block-distribution-missing-1.png"
+        },
+        {
+          "id": "https://worthdoingbadly.com/coretrust/",
+          "author": null,
+          "description": "Get root on macOS 12.3.1: proof-of-concepts for Linus Henze’s CoreTrust and DriverKit bugs (CVE-2022-26766,...",
+          "link": "https://worthdoingbadly.com/coretrust/",
+          "publishedOn": "2022-10-09T15:30:04.000Z",
+          "wordCount": 2660,
+          "title": "Get root on macOS 12.3.1: proof-of-concepts for Linus Henze’s CoreTrust and DriverKit bugs (CVE-2022-26766,...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.binance.com/en/blog/from-cz/cz-on-centralization-vs-decentralization-2022-4766586322749082372",
           "author": null,
           "description": "CZ on Centralization Vs. Decentralization (2022) | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/cz-on-centralization-vs-decentralization-2022-4766586322749082372",
           "publishedOn": "2022-10-09T15:00:03.000Z",
-          "wordCount": 6484,
+          "wordCount": 6516,
           "title": "CZ on Centralization Vs. Decentralization (2022) | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221009/fb50e43c-27e5-41ed-a521-6d3a24fc7d83.png"
         },
@@ -46,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-nord-stream-2-offers-germany-date-destiny",
-          "author": null,
-          "description": "Escobar: Nord Stream 2 Offers Germany A Date With Destiny | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-nord-stream-2-offers-germany-date-destiny",
-          "publishedOn": "2022-10-09T13:00:03.000Z",
-          "wordCount": 2477,
-          "title": "Escobar: Nord Stream 2 Offers Germany A Date With Destiny | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/political/paypal-reverses-course-says-company-will-not-seize-money-people-promoting-misinformation",
           "author": null,
           "description": "PayPal Reverses Course, Says Company Will Not Seize Money From People For Promoting 'Misinformation' | ZeroHedge",
@@ -71,7 +91,7 @@
           "description": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "link": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
           "publishedOn": "2022-10-09T05:30:04.000Z",
-          "wordCount": null,
+          "wordCount": 356876,
           "title": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "[Request for feedback] Proposed Future for the Grant Programs and GR16 as we Transition to the Protocol",
           "link": "https://gov.gitcoin.co/t/request-for-feedback-proposed-future-for-the-grant-programs-and-gr16-as-we-transition-to-the-protocol/11624",
           "publishedOn": "2022-10-08T23:00:02.000Z",
-          "wordCount": 3480,
+          "wordCount": 3903,
           "title": "[Request for feedback] Proposed Future for the Grant Programs and GR16 as we Transition to the Protocol",
           "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/gitcoin1/original/1X/d6503c3e8f849859f29987d8816cd515c34b04f0.png"
         },
@@ -141,7 +161,7 @@
           "description": "Introducing UniStark: Uniswap, only Warp’ed to StarkNet",
           "link": "https://medium.com/nethermind-eth/introducing-unistark-uniswap-only-warped-to-starknet-6b62d3a96690",
           "publishedOn": "2022-10-08T19:00:02.000Z",
-          "wordCount": 3661,
+          "wordCount": 3967,
           "title": "Introducing UniStark: Uniswap, only Warp’ed to StarkNet",
           "imageUrl": "https://miro.medium.com/max/1200/1*LLqDcrtTBYq0hTN_XFcQjw.png"
         },
@@ -151,19 +171,9 @@
           "description": "Florida Surgeon General Recommends Against mRNA COVID-19 Vaccines For Males Aged 18–39 | ZeroHedge",
           "link": "https://www.zerohedge.com/covid-19/florida-surgeon-general-recommends-against-mrna-covid-19-vaccines-males-aged-18-39",
           "publishedOn": "2022-10-08T19:00:02.000Z",
-          "wordCount": 2780,
+          "wordCount": 2802,
           "title": "Florida Surgeon General Recommends Against mRNA COVID-19 Vaccines For Males Aged 18–39 | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/175758/opensea-cfo-leaves-less-than-one-year-after-joining",
-          "author": null,
-          "description": "OpenSea CFO leaves less than one year after joining",
-          "link": "https://www.theblock.co/post/175758/opensea-cfo-leaves-less-than-one-year-after-joining",
-          "publishedOn": "2022-10-08T17:30:04.000Z",
-          "wordCount": 64018,
-          "title": "OpenSea CFO leaves less than one year after joining",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210915_OpenSea.jpg"
         },
         {
           "id": "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf",
@@ -181,7 +191,7 @@
           "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
           "publishedOn": "2022-10-08T13:00:02.000Z",
-          "wordCount": 7420,
+          "wordCount": 7423,
           "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         },
@@ -191,19 +201,9 @@
           "description": "New PayPal Policy Lets Company Pull $2,500 From Users’ Accounts If They Promote ‘Misinformation’ | The Daily Wire",
           "link": "https://www.dailywire.com/news/new-paypal-policy-lets-company-pull-2500-from-users-accounts-if-they-promote-misinformation",
           "publishedOn": "2022-10-08T07:00:02.000Z",
-          "wordCount": 2042,
+          "wordCount": 2040,
           "title": "New PayPal Policy Lets Company Pull $2,500 From Users’ Accounts If They Promote ‘Misinformation’ | The Daily Wire",
           "imageUrl": "https://dw-wp-production.imgix.net/2022/10/GettyImages-1242001791-scaled.jpg?w=1200&h=800&ixlib=react-9.3.0"
-        },
-        {
-          "id": "https://github.com/bitcoin/bips/pull/1378",
-          "author": null,
-          "description": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
-          "link": "https://github.com/bitcoin/bips/pull/1378",
-          "publishedOn": "2022-10-08T03:00:01.000Z",
-          "wordCount": 2098,
-          "title": "Add BIP324: v2 P2P Transport Protocol by dhruv · Pull Request #1378 · bitcoin/bips",
-          "imageUrl": "https://opengraph.githubassets.com/854d195b11b6c53f07ccd18191f3969b71f9b666e99d119fdba885bacfeacfd6/bitcoin/bips/pull/1378"
         }
       ]
     }
