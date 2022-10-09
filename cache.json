@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BRKGn9YWTWU&feature=youtu.be",
+          "author": null,
+          "description": "John F. Kennedy's thoughts on Automation (News Conference 63, October 31, 1963)",
+          "link": "https://www.youtube.com/watch?v=BRKGn9YWTWU&feature=youtu.be",
+          "publishedOn": "2022-10-09T09:00:04.000Z",
+          "wordCount": null,
+          "title": "John F. Kennedy's thoughts on Automation (News Conference 63, October 31, 1963)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6Waurx8e-1o&feature=youtu.be",
           "author": null,
           "description": "Leonard Susskind: My friend Richard Feynman",
@@ -31,7 +41,7 @@
           "description": "Munich Re cuts coverage for oil and gas projects",
           "link": "https://www.ft.com/content/50e8691a-7ce4-413f-b1ea-22d37885b28b",
           "publishedOn": "2022-10-09T05:00:02.000Z",
-          "wordCount": 2006,
+          "wordCount": 2005,
           "title": "Munich Re cuts coverage for oil and gas projects",
           "imageUrl": null
         },
@@ -43,16 +53,6 @@
           "publishedOn": "2022-10-09T05:00:02.000Z",
           "wordCount": 1190,
           "title": "Where To Find Water On Mars | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/poll-growing-number-americans-want-diplomacy-adversaries",
-          "author": null,
-          "description": "Growing Number Of Americans Want Diplomacy With Adversaries; New Poll Finds | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/poll-growing-number-americans-want-diplomacy-adversaries",
-          "publishedOn": "2022-10-09T05:00:02.000Z",
-          "wordCount": 837,
-          "title": "Growing Number Of Americans Want Diplomacy With Adversaries; New Poll Finds | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -181,7 +181,7 @@
           "description": "Contagion",
           "link": "https://entrepreneurshandbook.co/contagion-cf3638417fe9?gi=7c97448715f5",
           "publishedOn": "2022-10-08T04:00:04.000Z",
-          "wordCount": 11138,
+          "wordCount": 11148,
           "title": "Contagion",
           "imageUrl": "https://miro.medium.com/max/400/0*hL5k-mr0MJFh1bJ4"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2022-10-07T03:00:02.000Z",
           "wordCount": 2568,
           "title": "iavl/proof_range.go at de0740903a67b624d887f9055d4c60175dcfa758 · cosmos/iavl",
-          "imageUrl": "https://opengraph.githubassets.com/ae48e8eb72daf2a5f8681551b1b42cae7fe95a43ccf14f0b61e4865283c5202b/cosmos/iavl"
+          "imageUrl": "https://opengraph.githubassets.com/070cb223c7ff52261714aa6160c07be9a72f1540f61a898e5e27e9739c118a77/cosmos/iavl"
         }
       ]
     }
