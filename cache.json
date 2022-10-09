@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ZK-Garage/plonk",
+          "author": null,
+          "description": "GitHub - ZK-Garage/plonk: A pure Rust PLONK implementation using arkworks as a backend.",
+          "link": "https://github.com/ZK-Garage/plonk",
+          "publishedOn": "2022-10-09T23:00:02.000Z",
+          "wordCount": 2048,
+          "title": "GitHub - ZK-Garage/plonk: A pure Rust PLONK implementation using arkworks as a backend.",
+          "imageUrl": "https://opengraph.githubassets.com/8d8777fac3f0d816318519dbac6386eb554fa2a30be8e27a3f453878db2fed56/ZK-Garage/plonk"
+        },
+        {
+          "id": "https://github.com/noir-lang/marlin_arkworks_backend/",
+          "author": null,
+          "description": "GitHub - noir-lang/marlin_arkworks_backend",
+          "link": "https://github.com/noir-lang/marlin_arkworks_backend/",
+          "publishedOn": "2022-10-09T23:00:02.000Z",
+          "wordCount": 482,
+          "title": "GitHub - noir-lang/marlin_arkworks_backend",
+          "imageUrl": "https://opengraph.githubassets.com/2633d3a0ad112a0a3ca05e71a282176fe70ab4aaf2a9e3b6a3608f6e53fc8834/noir-lang/marlin_arkworks_backend"
+        },
+        {
+          "id": "https://github.com/noir-lang/arkworks_backend/",
+          "author": null,
+          "description": "GitHub - noir-lang/arkworks_backend",
+          "link": "https://github.com/noir-lang/arkworks_backend/",
+          "publishedOn": "2022-10-09T23:00:02.000Z",
+          "wordCount": 527,
+          "title": "GitHub - noir-lang/arkworks_backend",
+          "imageUrl": "https://opengraph.githubassets.com/fcab798da3ccda44ea797b100d8ae71e189a9dbc7c2afbae126d1915053c8ec2/noir-lang/arkworks_backend"
+        },
+        {
+          "id": "https://takenstheorem.medium.com/welcome-to-the-mesh-b19d2f8653a2",
+          "author": null,
+          "description": "The Mesh",
+          "link": "https://takenstheorem.medium.com/welcome-to-the-mesh-b19d2f8653a2",
+          "publishedOn": "2022-10-09T23:00:02.000Z",
+          "wordCount": 8713,
+          "title": "The Mesh",
+          "imageUrl": "https://miro.medium.com/max/1200/1*Nk28dH0Ut3n5bvnd1mZSNQ.png"
+        },
+        {
+          "id": "https://learnjsthehardway.com/blog/18-stripe-is-paypal-circa-2010/",
+          "author": null,
+          "description": "Stripe is Paypal circa 2010",
+          "link": "https://learnjsthehardway.com/blog/18-stripe-is-paypal-circa-2010/",
+          "publishedOn": "2022-10-09T23:00:02.000Z",
+          "wordCount": 4127,
+          "title": "Stripe is Paypal circa 2010",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0wAALQdaxzA",
           "author": null,
           "description": "The Chopping Block: Was This Gary Gensler's Most Liked Tweet?  Ep. 405",
@@ -14,6 +64,16 @@
           "wordCount": null,
           "title": "The Chopping Block: Was This Gary Gensler's Most Liked Tweet?  Ep. 405",
           "imageUrl": null
+        },
+        {
+          "id": "https://asiatimes.com/2022/10/global-margin-call-hits-european-debt-markets/",
+          "author": null,
+          "description": "Global margin call hits European debt markets",
+          "link": "https://asiatimes.com/2022/10/global-margin-call-hits-european-debt-markets/",
+          "publishedOn": "2022-10-09T22:00:06.000Z",
+          "wordCount": 3083,
+          "title": "Global margin call hits European debt markets",
+          "imageUrl": "https://i0.wp.com/asiatimes.com/wp-content/uploads/2022/10/euro-banknotes.jpeg?fit=1200%2C572&ssl=1"
         },
         {
           "id": "https://www.zerohedge.com/political/inflation-high-inflation-hyperinflation",
@@ -26,72 +86,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://pompcryptojobs.com/",
-          "author": null,
-          "description": "PompCryptoJobs",
-          "link": "https://pompcryptojobs.com/",
-          "publishedOn": "2022-10-09T21:00:03.000Z",
-          "wordCount": 4701,
-          "title": "PompCryptoJobs",
-          "imageUrl": "https://pompcryptojobs.com/templates/BootstrapDND/assets/images/Crypto%20Jobs%20-%20MAIN%20LOGO.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/hong-kong-giving-out-500000-free-airline-tickets-re-start-tourism-industry-post-covid",
-          "author": null,
-          "description": "Hong Kong Giving Out 500,000 Free Airline Tickets To Re-Start Tourism Industry Post-COVID | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/hong-kong-giving-out-500000-free-airline-tickets-re-start-tourism-industry-post-covid",
-          "publishedOn": "2022-10-09T21:00:03.000Z",
-          "wordCount": 884,
-          "title": "Hong Kong Giving Out 500,000 Free Airline Tickets To Re-Start Tourism Industry Post-COVID | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/goldman-trading-desk-retail-has-finally-blinked-capitulation-near",
-          "author": null,
-          "description": "Goldman Trading Desk: \"Retail Has Finally Blinked. Capitulation Is Near\"  | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/goldman-trading-desk-retail-has-finally-blinked-capitulation-near",
-          "publishedOn": "2022-10-09T21:00:03.000Z",
-          "wordCount": 383,
-          "title": "Goldman Trading Desk: \"Retail Has Finally Blinked. Capitulation Is Near\"  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://a16zcrypto.com/virtual-society-the-metaverse-blockchains/",
-          "author": null,
-          "description": "Virtual Society, Blockchains, and The Metaverse",
-          "link": "https://a16zcrypto.com/virtual-society-the-metaverse-blockchains/",
-          "publishedOn": "2022-10-09T21:00:03.000Z",
-          "wordCount": 3284,
-          "title": "Virtual Society, Blockchains, and The Metaverse",
-          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/10/habitat.png"
-        },
-        {
-          "id": "https://www.farcaster.network/",
-          "author": null,
-          "description": "Farcaster Network",
-          "link": "https://www.farcaster.network/",
-          "publishedOn": "2022-10-09T19:30:04.000Z",
-          "wordCount": 144,
-          "title": "Farcaster Network",
-          "imageUrl": "https://farcaster.network/sharing.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/day-reckoning-finally-here-peter-schiff-warns-inflation-will-its-here-stay",
-          "author": null,
-          "description": "\"Day Of Reckoning Is Finally Here\" - Peter Schiff Warns Inflation Will & It's Here To Stay | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/day-reckoning-finally-here-peter-schiff-warns-inflation-will-its-here-stay",
-          "publishedOn": "2022-10-09T19:30:04.000Z",
-          "wordCount": 1409,
-          "title": "\"Day Of Reckoning Is Finally Here\" - Peter Schiff Warns Inflation Will & It's Here To Stay | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "author": null,
           "description": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "link": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "publishedOn": "2022-10-09T19:00:02.000Z",
-          "wordCount": 7245,
+          "wordCount": 7249,
           "title": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/A27AEyXK-c_ZQNSzzw1JBBBfkws=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LOJLTBPKARCFVDEWHFEFCN3HWQ.jpg"
         },
@@ -101,7 +101,7 @@
           "description": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "link": "https://www.eff.org/deeplinks/2016/02/kafkaesque-battle-soulseek-and-paypal-and-why-free-speech-defenders-should-be",
           "publishedOn": "2022-10-09T18:00:05.000Z",
-          "wordCount": 2679,
+          "wordCount": 2674,
           "title": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "imageUrl": "https://www.eff.org/files/eff-og.png"
         },
@@ -111,7 +111,7 @@
           "description": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "link": "https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo",
           "publishedOn": "2022-10-09T17:30:04.000Z",
-          "wordCount": 9480,
+          "wordCount": 9476,
           "title": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/7PY0f2c60iyg4vy9-rQgj_uJr_g=/0x0:1080x1080/1200x628/filters:focal(279x526:280x527)/cdn.vox-cdn.com/uploads/chorus_asset/file/24088857/299150825_10114625396804361_144927942652991577_n.jpg"
         },
@@ -156,6 +156,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://schellingpoint.gitcoin.co/",
+          "author": null,
+          "description": "SCHELLING POINT BOGOTA",
+          "link": "https://schellingpoint.gitcoin.co/",
+          "publishedOn": "2022-10-09T15:30:04.000Z",
+          "wordCount": 812,
+          "title": "SCHELLING POINT BOGOTA",
+          "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-card.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/political/paypal-reverses-course-says-company-will-not-seize-money-people-promoting-misinformation",
           "author": null,
           "description": "PayPal Reverses Course, Says Company Will Not Seize Money From People For Promoting 'Misinformation' | ZeroHedge",
@@ -176,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://thalalabs.medium.com/meet-thala-labs-a1591eb124da",
-          "author": null,
-          "description": "Meet Thala Labs",
-          "link": "https://thalalabs.medium.com/meet-thala-labs-a1591eb124da",
-          "publishedOn": "2022-10-08T23:30:04.000Z",
-          "wordCount": 3264,
-          "title": "Meet Thala Labs",
-          "imageUrl": "https://miro.medium.com/max/1200/1*I5YNUUKrfNmO4E3nzYRwJQ@2x.jpeg"
-        },
-        {
           "id": "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf",
           "author": null,
           "description": "[PDF] acceptableuse-full-110322.pdf",
@@ -201,7 +201,7 @@
           "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
           "publishedOn": "2022-10-08T13:00:02.000Z",
-          "wordCount": 7380,
+          "wordCount": 7377,
           "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
           "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         }
