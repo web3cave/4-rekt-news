@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://fedguy.com/solvency-constraints/",
+          "author": null,
+          "description": "Solvency Constraints - Fed Guy",
+          "link": "https://fedguy.com/solvency-constraints/",
+          "publishedOn": "2022-10-10T17:30:05.000Z",
+          "wordCount": 2199,
+          "title": "Solvency Constraints - Fed Guy",
+          "imageUrl": "https://fedguy.com/wp-content/uploads/2022/10/image-3.png"
+        },
+        {
+          "id": "https://www.paradigm.xyz/2022/10/ethereums-new-staking-model-does-not-make-eth-a-security",
+          "author": null,
+          "description": "Ethereum's New ‘Staking’ Model Does Not Make ETH A Security. - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/10/ethereums-new-staking-model-does-not-make-eth-a-security",
+          "publishedOn": "2022-10-10T17:00:04.000Z",
+          "wordCount": 8850,
+          "title": "Ethereum's New ‘Staking’ Model Does Not Make ETH A Security. - Paradigm",
+          "imageUrl": "https://paradigm.xyz/meta.png"
+        },
+        {
+          "id": "https://blog.matter-labs.io/zksync-l3-pathfinder-to-hit-testnet-in-q1-2023-367a425592db?gi=67631aeff9ec",
+          "author": null,
+          "description": "zkSync L3 ‘Pathfinder’ to Hit Testnet in Q1 2023",
+          "link": "https://blog.matter-labs.io/zksync-l3-pathfinder-to-hit-testnet-in-q1-2023-367a425592db?gi=67631aeff9ec",
+          "publishedOn": "2022-10-10T17:00:03.000Z",
+          "wordCount": 2872,
+          "title": "zkSync L3 ‘Pathfinder’ to Hit Testnet in Q1 2023",
+          "imageUrl": "https://miro.medium.com/max/1200/0*bctVXs_Cxz7tmuBM"
+        },
+        {
           "id": "https://ark-invest.com/articles/market-commentary/open-letter-to-the-fed/?utm_content=224025663&utm_medium=social&utm_source=twitter&hss_channel=tw-2398137084",
           "author": null,
           "description": "ARK Extends An Open Letter To The Fed",
@@ -21,7 +51,7 @@
           "description": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "link": "https://www.theblock.co/post/175823/zksync-says-layer-3-testnet-pathfinder-will-launch-in-q1-2023?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-10T15:00:02.000Z",
-          "wordCount": 64250,
+          "wordCount": 64459,
           "title": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync.jpg"
         },
@@ -66,22 +96,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.newsweek.com/bitcoin-millionaire-zaryn-dentzel-beaten-fortune-stolen-masked-robbery-cryptocurrency-1645550",
-          "author": null,
-          "description": "Bitcoin Millionaire Says He Was Beaten, Had Fortune Stolen in Robbery",
-          "link": "https://www.newsweek.com/bitcoin-millionaire-zaryn-dentzel-beaten-fortune-stolen-masked-robbery-cryptocurrency-1645550",
-          "publishedOn": "2022-10-10T08:30:03.000Z",
-          "wordCount": 3469,
-          "title": "Bitcoin Millionaire Says He Was Beaten, Had Fortune Stolen in Robbery",
-          "imageUrl": "https://d.newsweek.com/en/full/1925580/hacker-laptop.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
           "author": null,
           "description": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
           "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
           "publishedOn": "2022-10-10T08:00:03.000Z",
-          "wordCount": 7175,
+          "wordCount": 7220,
           "title": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
           "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
         },
@@ -121,7 +141,7 @@
           "description": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "link": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
           "publishedOn": "2022-10-10T00:30:03.000Z",
-          "wordCount": 12052,
+          "wordCount": 12064,
           "title": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1346449767.jpg?w=1024"
         },
@@ -131,19 +151,9 @@
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 346,
+          "wordCount": 352,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
-        },
-        {
-          "id": "https://www.mevwatch.info/",
-          "author": null,
-          "description": "MEV Watch",
-          "link": "https://www.mevwatch.info/",
-          "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 751,
-          "title": "MEV Watch",
-          "imageUrl": null
         },
         {
           "id": "https://takenstheorem.medium.com/welcome-to-the-mesh-b19d2f8653a2",
@@ -184,16 +194,6 @@
           "wordCount": 3284,
           "title": "Virtual Society, Blockchains, and The Metaverse",
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/10/habitat.png"
-        },
-        {
-          "id": "https://www.eff.org/deeplinks/2016/02/kafkaesque-battle-soulseek-and-paypal-and-why-free-speech-defenders-should-be",
-          "author": null,
-          "description": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
-          "link": "https://www.eff.org/deeplinks/2016/02/kafkaesque-battle-soulseek-and-paypal-and-why-free-speech-defenders-should-be",
-          "publishedOn": "2022-10-09T18:00:05.000Z",
-          "wordCount": 2674,
-          "title": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
-          "imageUrl": "https://www.eff.org/files/eff-og.png"
         },
         {
           "id": "https://worthdoingbadly.com/coretrust/",
