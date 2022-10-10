@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
-          "author": null,
-          "description": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
-          "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
-          "publishedOn": "2022-10-10T22:00:07.000Z",
-          "wordCount": 7208,
-          "title": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
-          "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
-        },
-        {
           "id": "https://hackmd.io/@vbuterin/zk_slides_20221010",
           "author": null,
           "description": "HackMD - Collaborative Markdown Knowledge Base",
@@ -51,7 +41,7 @@
           "description": "Investing in Web3: Culture and Entertainment",
           "link": "https://www.coindesk.com/layer2/2022/10/10/investing-in-web3-culture-and-entertainment/",
           "publishedOn": "2022-10-10T19:30:05.000Z",
-          "wordCount": 13091,
+          "wordCount": 13079,
           "title": "Investing in Web3: Culture and Entertainment",
           "imageUrl": "https://www.coindesk.com/resizer/6cafbBk6KWzwHDngQibw5iVSq3A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F7QBFLZGEZBYPGJ6VGWF7EGWJQ.jpg"
         },
@@ -94,6 +84,16 @@
           "wordCount": 8445,
           "title": "Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/10/Cover_slAMM.png"
+        },
+        {
+          "id": "https://fedguy.com/solvency-constraints/",
+          "author": null,
+          "description": "Solvency Constraints - Fed Guy",
+          "link": "https://fedguy.com/solvency-constraints/",
+          "publishedOn": "2022-10-10T17:30:05.000Z",
+          "wordCount": 2486,
+          "title": "Solvency Constraints - Fed Guy",
+          "imageUrl": "https://fedguy.com/wp-content/uploads/2022/10/image-3.png"
         },
         {
           "id": "https://www.paradigm.xyz/2022/10/ethereums-new-staking-model-does-not-make-eth-a-security",
@@ -141,7 +141,7 @@
           "description": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "link": "https://www.theblock.co/post/175823/zksync-says-layer-3-testnet-pathfinder-will-launch-in-q1-2023?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-10T15:00:02.000Z",
-          "wordCount": 64623,
+          "wordCount": 64620,
           "title": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "link": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
           "publishedOn": "2022-10-10T00:30:03.000Z",
-          "wordCount": 12260,
+          "wordCount": 12064,
           "title": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1346449767.jpg?w=1024"
         },
@@ -201,7 +201,7 @@
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 354,
+          "wordCount": 346,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
         }

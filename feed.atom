@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T22:28:15.647Z</id>
+    <id>urn:2022-10-10T23:32:29.004Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T22:28:15.647Z</updated>
+    <updated>2022-10-10T23:32:29.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds]]></title>
-        <id>https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/</id>
-        <link href="https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/"/>
-        <updated>2022-10-10T22:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[HackMD - Collaborative Markdown Knowledge Base]]></title>
         <id>https://hackmd.io/@vbuterin/zk_slides_20221010</id>
@@ -91,6 +81,16 @@
         <link href="https://members.delphidigital.io/reports/slamm-unified-model-cross-chain-liquidity/"/>
         <updated>2022-10-10T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Delphi Digital]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solvency Constraints - Fed Guy]]></title>
+        <id>https://fedguy.com/solvency-constraints/</id>
+        <link href="https://fedguy.com/solvency-constraints/"/>
+        <updated>2022-10-10T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Solvency Constraints - Fed Guy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
