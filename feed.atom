@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T17:41:38.334Z</id>
+    <id>urn:2022-10-10T18:37:05.239Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T17:41:38.334Z</updated>
+    <updated>2022-10-10T18:37:05.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[supermodular.xyz]]></title>
+        <id>https://supermodular.xyz/</id>
+        <link href="https://supermodular.xyz/"/>
+        <updated>2022-10-10T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[supermodular.xyz]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solvency Constraints - Fed Guy]]></title>
         <id>https://fedguy.com/solvency-constraints/</id>
@@ -191,16 +201,6 @@
         <link href="https://a16zcrypto.com/virtual-society-the-metaverse-blockchains/"/>
         <updated>2022-10-09T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Virtual Society, Blockchains, and The Metaverse]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get root on macOS 12.3.1: proof-of-concepts for Linus Henze’s CoreTrust and DriverKit bugs (CVE-2022-26766,...]]></title>
-        <id>https://worthdoingbadly.com/coretrust/</id>
-        <link href="https://worthdoingbadly.com/coretrust/"/>
-        <updated>2022-10-09T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Get root on macOS 12.3.1: proof-of-concepts for Linus Henze’s CoreTrust and DriverKit bugs (CVE-2022-26766,...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
