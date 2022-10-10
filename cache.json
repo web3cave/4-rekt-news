@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.newsweek.com/bitcoin-millionaire-zaryn-dentzel-beaten-fortune-stolen-masked-robbery-cryptocurrency-1645550",
+          "author": null,
+          "description": "Bitcoin Millionaire Says He Was Beaten, Had Fortune Stolen in Robbery",
+          "link": "https://www.newsweek.com/bitcoin-millionaire-zaryn-dentzel-beaten-fortune-stolen-masked-robbery-cryptocurrency-1645550",
+          "publishedOn": "2022-10-10T08:30:03.000Z",
+          "wordCount": 3469,
+          "title": "Bitcoin Millionaire Says He Was Beaten, Had Fortune Stolen in Robbery",
+          "imageUrl": "https://d.newsweek.com/en/full/1925580/hacker-laptop.jpg"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
+          "author": null,
+          "description": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
+          "link": "https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/",
+          "publishedOn": "2022-10-10T08:00:03.000Z",
+          "wordCount": 7331,
+          "title": "Stablecoin Issuer MakerDAO to Invest $500M in US Treasurys, Corporate Bonds",
+          "imageUrl": "https://www.coindesk.com/resizer/dU2KhWYkaSRihviDcsWzK7i62QQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVTOTXXQXJCPHHDOUHEDUUKHN4.jpg"
+        },
+        {
           "id": "https://github.com/whitenois3/nplate",
           "author": null,
           "description": "GitHub - whitenois3/nplate: A template for noir.",
@@ -13,17 +33,7 @@
           "publishedOn": "2022-10-10T07:30:05.000Z",
           "wordCount": 689,
           "title": "GitHub - whitenois3/nplate: A template for noir.",
-          "imageUrl": "https://opengraph.githubassets.com/690f0b022c3c8ee086f6710b304f5a7b53381f82bbdd6f0767d28b76b06b00ed/whitenois3/nplate"
-        },
-        {
-          "id": "https://tx.eth.samczsun.com/",
-          "author": null,
-          "description": "Ethereum Transaction Viewer",
-          "link": "https://tx.eth.samczsun.com/",
-          "publishedOn": "2022-10-10T07:00:03.000Z",
-          "wordCount": 32,
-          "title": "Ethereum Transaction Viewer",
-          "imageUrl": "https://tx.eth.samczsun.com/favicon.png"
+          "imageUrl": "https://opengraph.githubassets.com/07eff34135695fbfcbc4503b947f8405ef63e1815709518dd592beeb47d55051/whitenois3/nplate"
         },
         {
           "id": "https://github.com/lightningnetwork/lnd/pull/7004",
@@ -31,7 +41,7 @@
           "description": "build: update to version of btcd with wire parsing bug fix by Roasbeef · Pull Request #7004 · lightningnetwork/lnd",
           "link": "https://github.com/lightningnetwork/lnd/pull/7004",
           "publishedOn": "2022-10-10T02:00:04.000Z",
-          "wordCount": 1286,
+          "wordCount": 1287,
           "title": "build: update to version of btcd with wire parsing bug fix by Roasbeef · Pull Request #7004 · lightningnetwork/lnd",
           "imageUrl": "https://opengraph.githubassets.com/c5552e24150de1293d56dc2223d1402efa256c55e419d67fff9a2e17398c7b3a/lightningnetwork/lnd/pull/7004"
         },
@@ -51,7 +61,7 @@
           "description": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "link": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
           "publishedOn": "2022-10-10T00:30:03.000Z",
-          "wordCount": 12062,
+          "wordCount": 12258,
           "title": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1346449767.jpg?w=1024"
         },
@@ -131,7 +141,7 @@
           "description": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "link": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "publishedOn": "2022-10-09T19:00:02.000Z",
-          "wordCount": 7288,
+          "wordCount": 7269,
           "title": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/A27AEyXK-c_ZQNSzzw1JBBBfkws=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LOJLTBPKARCFVDEWHFEFCN3HWQ.jpg"
         },
@@ -151,7 +161,7 @@
           "description": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "link": "https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo",
           "publishedOn": "2022-10-09T17:30:04.000Z",
-          "wordCount": 9476,
+          "wordCount": 9480,
           "title": "Meta’s VR social network Horizon is too buggy and employees are barely using it",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/7PY0f2c60iyg4vy9-rQgj_uJr_g=/0x0:1080x1080/1200x628/filters:focal(279x526:280x527)/cdn.vox-cdn.com/uploads/chorus_asset/file/24088857/299150825_10114625396804361_144927942652991577_n.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1821,
           "title": "Bitcoin Block Time Variance: Theory vs Reality",
           "imageUrl": "https://blog.lopp.net/content/images/2021/02/all-positive-delta-block-distribution-missing-1.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/paypal-reverses-course-says-company-will-not-seize-money-people-promoting-misinformation",
-          "author": null,
-          "description": "PayPal Reverses Course, Says Company Will Not Seize Money From People For Promoting 'Misinformation' | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/paypal-reverses-course-says-company-will-not-seize-money-people-promoting-misinformation",
-          "publishedOn": "2022-10-09T09:30:04.000Z",
-          "wordCount": 1064,
-          "title": "PayPal Reverses Course, Says Company Will Not Seize Money From People For Promoting 'Misinformation' | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf",
