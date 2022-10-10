@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://howmanyofme.com/",
+          "author": null,
+          "description": "How Many of Me",
+          "link": "http://howmanyofme.com/",
+          "publishedOn": "2022-10-10T04:30:03.000Z",
+          "wordCount": 483,
+          "title": "How Many of Me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://uploads-ssl.webflow.com/5ad71ffeb79acc67c8bcdaba/5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf",
+          "author": null,
+          "description": "[PDF] 5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf",
+          "link": "https://uploads-ssl.webflow.com/5ad71ffeb79acc67c8bcdaba/5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf",
+          "publishedOn": "2022-10-10T03:00:03.000Z",
+          "wordCount": 3204,
+          "title": "[PDF] 5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/lightningnetwork/lnd/pull/7004",
           "author": null,
           "description": "build: update to version of btcd with wire parsing bug fix by Roasbeef · Pull Request #7004 · lightningnetwork/lnd",
           "link": "https://github.com/lightningnetwork/lnd/pull/7004",
           "publishedOn": "2022-10-10T02:00:04.000Z",
-          "wordCount": 1258,
+          "wordCount": 1284,
           "title": "build: update to version of btcd with wire parsing bug fix by Roasbeef · Pull Request #7004 · lightningnetwork/lnd",
-          "imageUrl": "https://opengraph.githubassets.com/049ee1e4b84c43daccd209ba0fa58fa26fc709d4f7a680dd71026c98c8b4b41a/lightningnetwork/lnd/pull/7004"
+          "imageUrl": "https://opengraph.githubassets.com/c5552e24150de1293d56dc2223d1402efa256c55e419d67fff9a2e17398c7b3a/lightningnetwork/lnd/pull/7004"
         },
         {
           "id": "https://github.com/btcsuite/btcd/pull/1896/files",
@@ -41,7 +61,7 @@
           "description": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "link": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
           "publishedOn": "2022-10-10T00:30:03.000Z",
-          "wordCount": 12078,
+          "wordCount": 12247,
           "title": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
           "imageUrl": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1346449767.jpg?w=1024"
         },
@@ -51,7 +71,7 @@
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 336,
+          "wordCount": 352,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
         },
@@ -111,7 +131,7 @@
           "description": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "link": "https://www.coindesk.com/policy/2022/10/06/eus-russian-crypto-ban-confirmed-as-bloc-tightens-sanctions/",
           "publishedOn": "2022-10-09T19:00:02.000Z",
-          "wordCount": 7244,
+          "wordCount": 7284,
           "title": "EU’s Russian Crypto Ban Confirmed as Bloc Tightens Sanctions",
           "imageUrl": "https://www.coindesk.com/resizer/A27AEyXK-c_ZQNSzzw1JBBBfkws=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LOJLTBPKARCFVDEWHFEFCN3HWQ.jpg"
         },
@@ -121,7 +141,7 @@
           "description": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "link": "https://www.eff.org/deeplinks/2016/02/kafkaesque-battle-soulseek-and-paypal-and-why-free-speech-defenders-should-be",
           "publishedOn": "2022-10-09T18:00:05.000Z",
-          "wordCount": 2678,
+          "wordCount": 2667,
           "title": "The Kafkaesque Battle of Soulseek and PayPal, and Why Free Speech Defenders Should be Worried About Payment Networks",
           "imageUrl": "https://www.eff.org/files/eff-og.png"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
-          "author": null,
-          "description": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
-          "link": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
-          "publishedOn": "2022-10-09T05:30:04.000Z",
-          "wordCount": 356876,
-          "title": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.paypalobjects.com/marketing/ua/pdf/US/en/acceptableuse-full-110322.pdf",
           "author": null,
           "description": "[PDF] acceptableuse-full-110322.pdf",
@@ -194,16 +204,6 @@
           "wordCount": 561,
           "title": "[PDF] acceptableuse-full-110322.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
-          "author": null,
-          "description": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
-          "link": "https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/",
-          "publishedOn": "2022-10-08T13:00:02.000Z",
-          "wordCount": 7375,
-          "title": "It's Lonely in the Metaverse: Decentraland’s 38 Daily Active Users in a $1.3B Ecosystem",
-          "imageUrl": "https://www.coindesk.com/resizer/Z20bel4SEYDrOu5idMZZoU6BeaY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AWIEDZUWIRC4RM2AULBPEK5A2I.jpg"
         }
       ]
     }
