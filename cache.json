@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.push.org/",
+          "author": null,
+          "description": "Push App (Previously EPNS)",
+          "link": "https://app.push.org/",
+          "publishedOn": "2022-10-11T01:30:05.000Z",
+          "wordCount": 17,
+          "title": "Push App (Previously EPNS)",
+          "imageUrl": "https://app.push.org/previews/homepage.jpg"
+        },
+        {
+          "id": "https://medium.com/barnbridge/my-thoughts-on-barnbridge-v2-the-mechanism-is-already-working-98992d184b2e",
+          "author": null,
+          "description": "My Thoughts on BarnBridge V2 — The Mechanism is Already Working…?",
+          "link": "https://medium.com/barnbridge/my-thoughts-on-barnbridge-v2-the-mechanism-is-already-working-98992d184b2e",
+          "publishedOn": "2022-10-11T00:30:03.000Z",
+          "wordCount": 4691,
+          "title": "My Thoughts on BarnBridge V2 — The Mechanism is Already Working…?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*JO8MmULgHJyLQjqs3LrGeQ.jpeg"
+        },
+        {
           "id": "https://hackmd.io/@vbuterin/zk_slides_20221010",
           "author": null,
           "description": "HackMD - Collaborative Markdown Knowledge Base",
@@ -21,7 +41,7 @@
           "description": "Polygon zkEVM Public Testnet: The Next Chapter for Ethereum — Polygon | Blog",
           "link": "https://blog.polygon.technology/polygon-zkevm-public-testnet-the-next-chapter-for-ethereum/",
           "publishedOn": "2022-10-10T21:00:03.000Z",
-          "wordCount": 2692,
+          "wordCount": 2551,
           "title": "Polygon zkEVM Public Testnet: The Next Chapter for Ethereum — Polygon | Blog",
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/10/polygon-zkevm-testnet-launch.png"
         },
@@ -41,7 +61,7 @@
           "description": "Investing in Web3: Culture and Entertainment",
           "link": "https://www.coindesk.com/layer2/2022/10/10/investing-in-web3-culture-and-entertainment/",
           "publishedOn": "2022-10-10T19:30:05.000Z",
-          "wordCount": 13079,
+          "wordCount": 12974,
           "title": "Investing in Web3: Culture and Entertainment",
           "imageUrl": "https://www.coindesk.com/resizer/6cafbBk6KWzwHDngQibw5iVSq3A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F7QBFLZGEZBYPGJ6VGWF7EGWJQ.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "link": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
           "publishedOn": "2022-10-10T19:00:03.000Z",
-          "wordCount": 356876,
+          "wordCount": null,
           "title": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
           "imageUrl": null
         },
@@ -81,19 +101,9 @@
           "description": "Delphi Digital",
           "link": "https://members.delphidigital.io/reports/slamm-unified-model-cross-chain-liquidity/",
           "publishedOn": "2022-10-10T17:30:05.000Z",
-          "wordCount": 8445,
+          "wordCount": 8442,
           "title": "Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2022/10/Cover_slAMM.png"
-        },
-        {
-          "id": "https://fedguy.com/solvency-constraints/",
-          "author": null,
-          "description": "Solvency Constraints - Fed Guy",
-          "link": "https://fedguy.com/solvency-constraints/",
-          "publishedOn": "2022-10-10T17:30:05.000Z",
-          "wordCount": 2486,
-          "title": "Solvency Constraints - Fed Guy",
-          "imageUrl": "https://fedguy.com/wp-content/uploads/2022/10/image-3.png"
         },
         {
           "id": "https://www.paradigm.xyz/2022/10/ethereums-new-staking-model-does-not-make-eth-a-security",
@@ -131,9 +141,9 @@
           "description": "Welcome Charles d’Haussy as CEO of dYdX Foundation",
           "link": "https://dydx.foundation/blog/welcome-charles-dhaussy-as-ceo-of-dydx-foundation",
           "publishedOn": "2022-10-10T15:00:02.000Z",
-          "wordCount": 3419,
+          "wordCount": 3434,
           "title": "Welcome Charles d’Haussy as CEO of dYdX Foundation",
-          "imageUrl": "https://images.ctfassets.net/m77mmhj6eccv/1om63uVBMA3TPW72MLIGL8/e40c166c34229a3996e52e878d60fd1b/Charles_joins_dYdX_Foundation_as_CEO_Oct_10_2022__1_.jpg"
+          "imageUrl": "https://images.ctfassets.net/m77mmhj6eccv/1om63uVBMA3TPW72MLIGL8/a9ad4256b4171acdbabbb82fa70a1b6b/Screenshot_2022-10-11_at_10.16.33_AM.png"
         },
         {
           "id": "https://www.theblock.co/post/175823/zksync-says-layer-3-testnet-pathfinder-will-launch-in-q1-2023?utm_source=twitter&utm_medium=social",
@@ -141,7 +151,7 @@
           "description": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "link": "https://www.theblock.co/post/175823/zksync-says-layer-3-testnet-pathfinder-will-launch-in-q1-2023?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-10T15:00:02.000Z",
-          "wordCount": 64620,
+          "wordCount": 65151,
           "title": "Makers of zkSync to launch Layer 3 testnet ‘Pathfinder’ in Q1 2023",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync.jpg"
         },
@@ -161,9 +171,9 @@
           "description": "🎨 Collection.xyz | #1 Liquidity Incentive Protocol for NFTs",
           "link": "https://collection.xyz/",
           "publishedOn": "2022-10-10T11:30:04.000Z",
-          "wordCount": 500,
+          "wordCount": 501,
           "title": "🎨 Collection.xyz | #1 Liquidity Incentive Protocol for NFTs",
-          "imageUrl": "https://collectionswap-j2rdlpof2-gomu.vercel.app/link-preview.jpg"
+          "imageUrl": "https://collectionswap-ecdjmv1ph-gomu.vercel.app/link-preview.jpg"
         },
         {
           "id": "https://www.sss.gov/register/who-needs-to-register/",
@@ -186,22 +196,12 @@
           "imageUrl": "https://opengraph.githubassets.com/b1e9ba7794d710a336ea653acb6336465a58c173370c5d67b2b93ff21d5d28a4/lightningnetwork/lnd/pull/7004"
         },
         {
-          "id": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
-          "author": null,
-          "description": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
-          "link": "https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/",
-          "publishedOn": "2022-10-10T00:30:03.000Z",
-          "wordCount": 12064,
-          "title": "William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)",
-          "imageUrl": "https://variety.com/wp-content/uploads/2022/10/GettyImages-1346449767.jpg?w=1024"
-        },
-        {
           "id": "https://celsiusnetworth.com/",
           "author": null,
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 346,
+          "wordCount": 350,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
         }

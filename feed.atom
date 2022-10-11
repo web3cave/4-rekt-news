@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-10T23:32:29.004Z</id>
+    <id>urn:2022-10-11T02:26:22.222Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-10T23:32:29.004Z</updated>
+    <updated>2022-10-11T02:26:22.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Push App (Previously EPNS)]]></title>
+        <id>https://app.push.org/</id>
+        <link href="https://app.push.org/"/>
+        <updated>2022-10-11T01:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Push App (Previously EPNS)]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Thoughts on BarnBridge V2 — The Mechanism is Already Working…?]]></title>
+        <id>https://medium.com/barnbridge/my-thoughts-on-barnbridge-v2-the-mechanism-is-already-working-98992d184b2e</id>
+        <link href="https://medium.com/barnbridge/my-thoughts-on-barnbridge-v2-the-mechanism-is-already-working-98992d184b2e"/>
+        <updated>2022-10-11T00:30:03.000Z</updated>
+        <summary type="html"><![CDATA[My Thoughts on BarnBridge V2 — The Mechanism is Already Working…?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackMD - Collaborative Markdown Knowledge Base]]></title>
         <id>https://hackmd.io/@vbuterin/zk_slides_20221010</id>
@@ -81,16 +101,6 @@
         <link href="https://members.delphidigital.io/reports/slamm-unified-model-cross-chain-liquidity/"/>
         <updated>2022-10-10T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Delphi Digital]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solvency Constraints - Fed Guy]]></title>
-        <id>https://fedguy.com/solvency-constraints/</id>
-        <link href="https://fedguy.com/solvency-constraints/"/>
-        <updated>2022-10-10T17:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Solvency Constraints - Fed Guy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://github.com/lightningnetwork/lnd/pull/7004"/>
         <updated>2022-10-10T02:00:04.000Z</updated>
         <summary type="html"><![CDATA[build: update to version of btcd with wire parsing bug fix by Roasbeef · Pull Request #7004 · lightningnetwork/lnd]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)]]></title>
-        <id>https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/</id>
-        <link href="https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/"/>
-        <updated>2022-10-10T00:30:03.000Z</updated>
-        <summary type="html"><![CDATA[William Shatner: My Trip to Space Filled Me With ‘Overwhelming Sadness’ (EXCLUSIVE)]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
