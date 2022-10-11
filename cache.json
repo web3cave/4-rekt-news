@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rekt.news/sushiswap-grey-area/",
+          "author": null,
+          "description": "Rekt - Sushiswap's Grey area",
+          "link": "https://rekt.news/sushiswap-grey-area/",
+          "publishedOn": "2022-10-11T19:00:03.000Z",
+          "wordCount": 1698,
+          "title": "Rekt - Sushiswap's Grey area",
+          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/10/horsesushi-header.png"
+        },
+        {
           "id": "https://www.theblock.co/post/176301/bayc-creator-yuga-labs-faces-sec-probe-bloomberg",
           "author": null,
           "description": "BAYC creator Yuga Labs faces SEC probe: Bloomberg",
@@ -41,7 +51,7 @@
           "description": "Bitcoin > gilts",
           "link": "https://www.ft.com/content/b3a83be1-a79f-4887-a622-cb1c7717e93f",
           "publishedOn": "2022-10-11T17:30:05.000Z",
-          "wordCount": 1548,
+          "wordCount": 1543,
           "title": "Bitcoin > gilts",
           "imageUrl": null
         },
@@ -54,6 +64,16 @@
           "wordCount": 64617,
           "title": "U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220329_Crypto_Liquidity_And_Sanctions.jpg"
+        },
+        {
+          "id": "https://podcast.ai/",
+          "author": null,
+          "description": "podcast.ai",
+          "link": "https://podcast.ai/",
+          "publishedOn": "2022-10-11T17:00:02.000Z",
+          "wordCount": 122,
+          "title": "podcast.ai",
+          "imageUrl": null
         },
         {
           "id": "https://www.cnbc.com/2022/10/11/google-selects-coinbase-to-take-cloud-payments-with-cryptocurrencies.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1665489097",
@@ -71,29 +91,9 @@
           "description": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
           "link": "https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=e2tw",
           "publishedOn": "2022-10-11T14:00:05.000Z",
-          "wordCount": 6526,
+          "wordCount": 6581,
           "title": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
           "imageUrl": "https://images.wsj.net/im-640899/social"
-        },
-        {
-          "id": "https://blockworks.co/portugal-moves-closer-to-taxing-individuals-on-short-term-crypto-gains/",
-          "author": null,
-          "description": "Portugal Moves Closer to Taxing Individuals on Short-term Crypto Gains",
-          "link": "https://blockworks.co/portugal-moves-closer-to-taxing-individuals-on-short-term-crypto-gains/",
-          "publishedOn": "2022-10-11T11:30:06.000Z",
-          "wordCount": 4200,
-          "title": "Portugal Moves Closer to Taxing Individuals on Short-term Crypto Gains",
-          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/09/portugal.jpg"
-        },
-        {
-          "id": "https://www.verifythis.com/article/news/verify/national-verify/paypal-wont-fine-people-for-spreading-misinformation/536-dcbb5921-b2ce-47e7-8e7a-c6c9ef7b747c",
-          "author": null,
-          "description": "No, PayPal won’t fine people for spreading misinformation",
-          "link": "https://www.verifythis.com/article/news/verify/national-verify/paypal-wont-fine-people-for-spreading-misinformation/536-dcbb5921-b2ce-47e7-8e7a-c6c9ef7b747c",
-          "publishedOn": "2022-10-11T11:30:06.000Z",
-          "wordCount": 5913,
-          "title": "No, PayPal won’t fine people for spreading misinformation",
-          "imageUrl": "https://media.tegna-media.com/assets/VERIFY/images/bc7870b8-9523-4afc-a0d5-e624327906f7/bc7870b8-9523-4afc-a0d5-e624327906f7_1140x641.jpg"
         },
         {
           "id": "https://www.dgo.gov.pt/politicaorcamental/OrcamentodeEstado/2023/Proposta%20do%20Or%C3%A7amento/Documentos%20do%20OE/OE2023_Relatorio.pdf",
@@ -161,7 +161,7 @@
           "description": "Crypto and Payments Firm MobileCoin Launches New Stablecoin – ‘Electronic Dollars’",
           "link": "https://www.coindesk.com/tech/2022/10/10/crypto-and-payments-firm-mobilecoin-launches-new-stablecoin-electronic-dollars/",
           "publishedOn": "2022-10-10T20:00:07.000Z",
-          "wordCount": 7615,
+          "wordCount": 7633,
           "title": "Crypto and Payments Firm MobileCoin Launches New Stablecoin – ‘Electronic Dollars’",
           "imageUrl": "https://www.coindesk.com/resizer/4LKBJagQnnhqxSzDwunSQbkCHn8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7VU72TJDHBCINA4DZXQGW5WCP4.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 340,
+          "wordCount": 356,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
         }
