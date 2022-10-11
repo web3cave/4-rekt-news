@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T19:26:05.525Z</id>
+    <id>urn:2022-10-11T20:30:35.002Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T19:26:05.525Z</updated>
+    <updated>2022-10-11T20:30:35.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zaki Manian and Jack Zampolin on Why ATOM Is 'Dogecoin for Academics' - Ep. 406]]></title>
+        <id>https://www.youtube.com/watch?v=jYxWLPWK9e0</id>
+        <link href="https://www.youtube.com/watch?v=jYxWLPWK9e0"/>
+        <updated>2022-10-11T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Zaki Manian and Jack Zampolin on Why ATOM Is 'Dogecoin for Academics' - Ep. 406]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase: A Boring Story]]></title>
+        <id>https://protos.com/coinbase-a-boring-story/</id>
+        <link href="https://protos.com/coinbase-a-boring-story/"/>
+        <updated>2022-10-11T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase: A Boring Story]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rekt - Sushiswap's Grey area]]></title>
         <id>https://rekt.news/sushiswap-grey-area/</id>
         <link href="https://rekt.news/sushiswap-grey-area/"/>
         <updated>2022-10-11T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Rekt - Sushiswap's Grey area]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACX Airdrop — What You Need to Know (It’s Not Too Late to Qualify!)]]></title>
+        <id>https://medium.com/across-protocol/acx-airdrop-what-you-need-to-know-its-not-too-late-to-qualify-111276d2acf7</id>
+        <link href="https://medium.com/across-protocol/acx-airdrop-what-you-need-to-know-its-not-too-late-to-qualify-111276d2acf7"/>
+        <updated>2022-10-11T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[ACX Airdrop — What You Need to Know (It’s Not Too Late to Qualify!)]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -46,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin > gilts]]></title>
-        <id>https://www.ft.com/content/b3a83be1-a79f-4887-a622-cb1c7717e93f</id>
-        <link href="https://www.ft.com/content/b3a83be1-a79f-4887-a622-cb1c7717e93f"/>
-        <updated>2022-10-11T17:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin > gilts]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations]]></title>
         <id>https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm</id>
         <link href="https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm"/>
@@ -71,16 +91,6 @@
         <link href="https://podcast.ai/"/>
         <updated>2022-10-11T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[podcast.ai]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google selects Coinbase to take cloud payments with cryptocurrencies and will use its custody tool]]></title>
-        <id>https://www.cnbc.com/2022/10/11/google-selects-coinbase-to-take-cloud-payments-with-cryptocurrencies.html?utm_term=Autofeed&amp;utm_medium=Social&amp;utm_content=Main&amp;utm_source=Twitter#Echobox=1665489097</id>
-        <link href="https://www.cnbc.com/2022/10/11/google-selects-coinbase-to-take-cloud-payments-with-cryptocurrencies.html?utm_term=Autofeed&amp;utm_medium=Social&amp;utm_content=Main&amp;utm_source=Twitter#Echobox=1665489097"/>
-        <updated>2022-10-11T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Google selects Coinbase to take cloud payments with cryptocurrencies and will use its custody tool]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://blog.polygon.technology/polygon-zkevm-public-testnet-the-next-chapter-for-ethereum/"/>
         <updated>2022-10-10T21:00:03.000Z</updated>
         <summary type="html"><![CDATA[Polygon zkEVM Public Testnet: The Next Chapter for Ethereum — Polygon | Blog]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto and Payments Firm MobileCoin Launches New Stablecoin – ‘Electronic Dollars’]]></title>
-        <id>https://www.coindesk.com/tech/2022/10/10/crypto-and-payments-firm-mobilecoin-launches-new-stablecoin-electronic-dollars/</id>
-        <link href="https://www.coindesk.com/tech/2022/10/10/crypto-and-payments-firm-mobilecoin-launches-new-stablecoin-electronic-dollars/"/>
-        <updated>2022-10-10T20:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Crypto and Payments Firm MobileCoin Launches New Stablecoin – ‘Electronic Dollars’]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
