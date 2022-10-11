@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.axios.com/2022/10/11/tiktok-chases-amazon-fulfillment-centers",
+          "author": null,
+          "description": "Scoop: TikTok chases Amazon with plans for U.S. fulfillment centers",
+          "link": "https://www.axios.com/2022/10/11/tiktok-chases-amazon-fulfillment-centers",
+          "publishedOn": "2022-10-11T22:00:05.000Z",
+          "wordCount": 2425,
+          "title": "Scoop: TikTok chases Amazon with plans for U.S. fulfillment centers",
+          "imageUrl": "https://images.axios.com/Hd8w4pNTrhGLNfyUY4TG56dyqrA=/0x0:1920x1080/1366x768/2022/10/11/1665448730090.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jYxWLPWK9e0",
           "author": null,
           "description": "Zaki Manian and Jack Zampolin on Why ATOM Is 'Dogecoin for Academics' - Ep. 406",
@@ -24,16 +34,6 @@
           "wordCount": 2626,
           "title": "Coinbase: A Boring Story",
           "imageUrl": "https://protos.com/wp-content/uploads/2022/10/Protos-Artwork-CoinAFoundersStory1-SIMG.jpg"
-        },
-        {
-          "id": "https://www.axios.com/2022/10/11/tiktok-chases-amazon-fulfillment-centers",
-          "author": null,
-          "description": "Scoop: TikTok chases Amazon with plans for U.S. fulfillment centers",
-          "link": "https://www.axios.com/2022/10/11/tiktok-chases-amazon-fulfillment-centers",
-          "publishedOn": "2022-10-11T19:30:05.000Z",
-          "wordCount": 2425,
-          "title": "Scoop: TikTok chases Amazon with plans for U.S. fulfillment centers",
-          "imageUrl": "https://images.axios.com/Hd8w4pNTrhGLNfyUY4TG56dyqrA=/0x0:1920x1080/1366x768/2022/10/11/1665448730090.jpg"
         },
         {
           "id": "https://rekt.news/sushiswap-grey-area/",
@@ -61,7 +61,7 @@
           "description": "BAYC creator Yuga Labs faces SEC probe: Bloomberg",
           "link": "https://www.theblock.co/post/176301/bayc-creator-yuga-labs-faces-sec-probe-bloomberg",
           "publishedOn": "2022-10-11T18:00:06.000Z",
-          "wordCount": 65772,
+          "wordCount": 65883,
           "title": "BAYC creator Yuga Labs faces SEC probe: Bloomberg",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220412_BAYC_Generic1.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "Elon Musk Spoke to Putin Before Tweeting Ukraine Peace Plan: Report",
           "link": "https://www.vice.com/en/article/ake44z/elon-musk-vladimir-putin-ukraine",
           "publishedOn": "2022-10-11T17:30:05.000Z",
-          "wordCount": 4547,
+          "wordCount": 5280,
           "title": "Elon Musk Spoke to Putin Before Tweeting Ukraine Peace Plan: Report",
           "imageUrl": "https://video-images.vice.com/articles/63457db57eaa8500942e8a8c/lede/1665502047572-elon-musk-vladimir-putin.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
         },
@@ -101,7 +101,7 @@
           "description": "U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations",
           "link": "https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm",
           "publishedOn": "2022-10-11T17:00:02.000Z",
-          "wordCount": 65788,
+          "wordCount": 65899,
           "title": "U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220329_Crypto_Liquidity_And_Sanctions.jpg"
         },
@@ -111,9 +111,19 @@
           "description": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
           "link": "https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=e2tw",
           "publishedOn": "2022-10-11T14:00:05.000Z",
-          "wordCount": 6551,
+          "wordCount": 6549,
           "title": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
           "imageUrl": "https://images.wsj.net/im-640899/social"
+        },
+        {
+          "id": "https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum",
+          "author": null,
+          "description": "EXCLUSIVE: EDF manages over 150 Ethereum nodes",
+          "link": "https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum",
+          "publishedOn": "2022-10-11T13:00:03.000Z",
+          "wordCount": 2085,
+          "title": "EXCLUSIVE: EDF manages over 150 Ethereum nodes",
+          "imageUrl": "https://uploads-ssl.webflow.com/62cd27f449275afe5af58419/63452f9831052ac6ea683dbe_2161047511-huge.jpg"
         },
         {
           "id": "https://www.dgo.gov.pt/politicaorcamental/OrcamentodeEstado/2023/Proposta%20do%20Or%C3%A7amento/Documentos%20do%20OE/OE2023_Relatorio.pdf",
@@ -131,7 +141,7 @@
           "description": ".earth",
           "link": "https://www.atlasmaps.xyz/",
           "publishedOn": "2022-10-11T03:00:02.000Z",
-          "wordCount": 11330,
+          "wordCount": 11349,
           "title": ".earth",
           "imageUrl": null
         },
@@ -154,16 +164,6 @@
           "wordCount": 4691,
           "title": "My Thoughts on BarnBridge V2 — The Mechanism is Already Working…?",
           "imageUrl": "https://miro.medium.com/max/1200/1*JO8MmULgHJyLQjqs3LrGeQ.jpeg"
-        },
-        {
-          "id": "https://hackmd.io/@vbuterin/zk_slides_20221010",
-          "author": null,
-          "description": "HackMD - Collaborative Markdown Knowledge Base",
-          "link": "https://hackmd.io/@vbuterin/zk_slides_20221010",
-          "publishedOn": "2022-10-10T22:00:06.000Z",
-          "wordCount": 401,
-          "title": "HackMD - Collaborative Markdown Knowledge Base",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
         },
         {
           "id": "https://blog.polygon.technology/polygon-zkevm-public-testnet-the-next-chapter-for-ethereum/",
@@ -191,7 +191,7 @@
           "description": "zkSync L3 ‘Pathfinder’ to Hit Testnet in Q1 2023",
           "link": "https://blog.matter-labs.io/zksync-l3-pathfinder-to-hit-testnet-in-q1-2023-367a425592db?gi=67631aeff9ec",
           "publishedOn": "2022-10-10T17:00:03.000Z",
-          "wordCount": 2837,
+          "wordCount": 2822,
           "title": "zkSync L3 ‘Pathfinder’ to Hit Testnet in Q1 2023",
           "imageUrl": "https://miro.medium.com/max/1200/0*bctVXs_Cxz7tmuBM"
         },
