@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=e2tw",
+          "author": null,
+          "description": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
+          "link": "https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=e2tw",
+          "publishedOn": "2022-10-11T14:00:05.000Z",
+          "wordCount": 6523,
+          "title": "America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now",
+          "imageUrl": "https://images.wsj.net/im-640899/social"
+        },
+        {
           "id": "https://blockworks.co/portugal-moves-closer-to-taxing-individuals-on-short-term-crypto-gains/",
           "author": null,
           "description": "Portugal Moves Closer to Taxing Individuals on Short-term Crypto Gains",
           "link": "https://blockworks.co/portugal-moves-closer-to-taxing-individuals-on-short-term-crypto-gains/",
           "publishedOn": "2022-10-11T11:30:06.000Z",
-          "wordCount": 4199,
+          "wordCount": 4209,
           "title": "Portugal Moves Closer to Taxing Individuals on Short-term Crypto Gains",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/09/portugal.jpg"
         },
@@ -26,14 +36,14 @@
           "imageUrl": "https://media.tegna-media.com/assets/VERIFY/images/bc7870b8-9523-4afc-a0d5-e624327906f7/bc7870b8-9523-4afc-a0d5-e624327906f7_1140x641.jpg"
         },
         {
-          "id": "https://v2.zksync.io/",
+          "id": "https://bgr.com/business/paypal-stock-takes-a-beating-after-weekend-reports-of-policy-change/",
           "author": null,
-          "description": "zkSync V2, now live on testnet!",
-          "link": "https://v2.zksync.io/",
-          "publishedOn": "2022-10-11T05:30:05.000Z",
-          "wordCount": 38,
-          "title": "zkSync V2, now live on testnet!",
-          "imageUrl": "/social.jpg"
+          "description": "PayPal stock takes a beating after weekend reports of policy change",
+          "link": "https://bgr.com/business/paypal-stock-takes-a-beating-after-weekend-reports-of-policy-change/",
+          "publishedOn": "2022-10-11T11:00:03.000Z",
+          "wordCount": 4384,
+          "title": "PayPal stock takes a beating after weekend reports of policy change",
+          "imageUrl": "https://bgr.com/wp-content/uploads/2022/10/rsz_gettyimages-1368269938.jpg?quality=82&strip=all"
         },
         {
           "id": "https://www.dgo.gov.pt/politicaorcamental/OrcamentodeEstado/2023/Proposta%20do%20Or%C3%A7amento/Documentos%20do%20OE/OE2023_Relatorio.pdf",
@@ -51,9 +61,29 @@
           "description": "MetaPartyHub",
           "link": "https://www.eventbrite.co/e/metapartyhub-tickets-421834948687?aff=escb&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare",
           "publishedOn": "2022-10-11T05:00:02.000Z",
-          "wordCount": 2864,
+          "wordCount": 2863,
           "title": "MetaPartyHub",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F370568389%2F1062745656043%2F1%2Foriginal.20221010-172222?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C52%2C1950%2C975&s=f1d51f66dc493ed52d979417794f4327"
+        },
+        {
+          "id": "https://www.atlasmaps.xyz/",
+          "author": null,
+          "description": ".earth",
+          "link": "https://www.atlasmaps.xyz/",
+          "publishedOn": "2022-10-11T03:00:02.000Z",
+          "wordCount": 11450,
+          "title": ".earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://app.push.org/",
+          "author": null,
+          "description": "Push App (Previously EPNS)",
+          "link": "https://app.push.org/",
+          "publishedOn": "2022-10-11T01:30:05.000Z",
+          "wordCount": 17,
+          "title": "Push App (Previously EPNS)",
+          "imageUrl": "https://app.push.org/previews/homepage.jpg"
         },
         {
           "id": "https://medium.com/barnbridge/my-thoughts-on-barnbridge-v2-the-mechanism-is-already-working-98992d184b2e",
@@ -86,16 +116,6 @@
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/10/polygon-zkevm-testnet-launch.png"
         },
         {
-          "id": "https://open.spotify.com/show/1gpYcYc0BrcdvaKi9VMVwc",
-          "author": null,
-          "description": "Off The Chain: Blockchain // Web3 // NFTs",
-          "link": "https://open.spotify.com/show/1gpYcYc0BrcdvaKi9VMVwc",
-          "publishedOn": "2022-10-10T21:00:03.000Z",
-          "wordCount": 1835,
-          "title": "Off The Chain: Blockchain // Web3 // NFTs",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8ad8f1c5a11cbd939430ee802f"
-        },
-        {
           "id": "https://www.coindesk.com/tech/2022/10/10/crypto-and-payments-firm-mobilecoin-launches-new-stablecoin-electronic-dollars/",
           "author": null,
           "description": "Crypto and Payments Firm MobileCoin Launches New Stablecoin – ‘Electronic Dollars’",
@@ -106,16 +126,6 @@
           "imageUrl": "https://www.coindesk.com/resizer/4LKBJagQnnhqxSzDwunSQbkCHn8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7VU72TJDHBCINA4DZXQGW5WCP4.jpg"
         },
         {
-          "id": "https://www.coindesk.com/layer2/2022/10/10/investing-in-web3-culture-and-entertainment/",
-          "author": null,
-          "description": "Investing in Web3: Culture and Entertainment",
-          "link": "https://www.coindesk.com/layer2/2022/10/10/investing-in-web3-culture-and-entertainment/",
-          "publishedOn": "2022-10-10T19:30:05.000Z",
-          "wordCount": 12833,
-          "title": "Investing in Web3: Culture and Entertainment",
-          "imageUrl": "https://www.coindesk.com/resizer/6cafbBk6KWzwHDngQibw5iVSq3A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F7QBFLZGEZBYPGJ6VGWF7EGWJQ.jpg"
-        },
-        {
           "id": "https://www.elliptic.co/hubfs/State%20of%20cross-chain%20crime/Elliptic_Cross-Chain_Crime_Report.pdf",
           "author": null,
           "description": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
@@ -123,16 +133,6 @@
           "publishedOn": "2022-10-10T19:00:03.000Z",
           "wordCount": 356923,
           "title": "[PDF] Elliptic_Cross-Chain_Crime_Report.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cegoeNDGHkQ&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum core updates, Taiko announced and more - The Daily Gwei Refuel #464 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=cegoeNDGHkQ&feature=youtu.be",
-          "publishedOn": "2022-10-10T19:00:03.000Z",
-          "wordCount": null,
-          "title": "Ethereum core updates, Taiko announced and more - The Daily Gwei Refuel #464 - Ethereum Updates",
           "imageUrl": null
         },
         {
@@ -186,14 +186,14 @@
           "imageUrl": "https://ark-invest.com/wp-content/uploads/2022/10/ARK-Invest_Blog_Social_Fed-Letter.jpg"
         },
         {
-          "id": "https://dydx.foundation/blog/welcome-charles-dhaussy-as-ceo-of-dydx-foundation",
+          "id": "https://www.youtube.com/watch?v=pO5OO5vOlys&feature=youtu.be",
           "author": null,
-          "description": "Welcome Charles d’Haussy as CEO of dYdX Foundation",
-          "link": "https://dydx.foundation/blog/welcome-charles-dhaussy-as-ceo-of-dydx-foundation",
+          "description": "139 - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian",
+          "link": "https://www.youtube.com/watch?v=pO5OO5vOlys&feature=youtu.be",
           "publishedOn": "2022-10-10T15:00:02.000Z",
-          "wordCount": 3434,
-          "title": "Welcome Charles d’Haussy as CEO of dYdX Foundation",
-          "imageUrl": "https://images.ctfassets.net/m77mmhj6eccv/1om63uVBMA3TPW72MLIGL8/a9ad4256b4171acdbabbb82fa70a1b6b/Screenshot_2022-10-11_at_10.16.33_AM.png"
+          "wordCount": null,
+          "title": "139 - The Cosmos Thesis with Sunny Aggarwal & Zaki Manian",
+          "imageUrl": null
         },
         {
           "id": "https://celsiusnetworth.com/",
@@ -201,7 +201,7 @@
           "description": "CelsiusNetworth - Checker",
           "link": "https://celsiusnetworth.com/",
           "publishedOn": "2022-10-10T00:00:04.000Z",
-          "wordCount": 340,
+          "wordCount": 342,
           "title": "CelsiusNetworth - Checker",
           "imageUrl": "favicon.png"
         }
