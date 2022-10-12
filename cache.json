@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dL83mFaek1E&feature=youtu.be",
+          "author": null,
+          "description": "Coin Artist on Accidentally Flipping Her Bored Apes, Crypto Puzzles, and Friendship | Full Episode",
+          "link": "https://www.youtube.com/watch?v=dL83mFaek1E&feature=youtu.be",
+          "publishedOn": "2022-10-12T19:30:06.000Z",
+          "wordCount": null,
+          "title": "Coin Artist on Accidentally Flipping Her Bored Apes, Crypto Puzzles, and Friendship | Full Episode",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/layer2/2022/10/12/vote-for-2022s-most-influential-in-crypto/?utm_medium=social&utm_source=onecryptofeed&utm_campaign=headlines",
           "author": null,
           "description": "Vote for 2022's Most Influential in Crypto",
@@ -46,16 +56,6 @@
           "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/OYGUUDJSU5HN5FJ37BIDGMFT24.png"
         },
         {
-          "id": "https://lu.ma/Web3AppSummitDevcon",
-          "author": null,
-          "description": "The Web3 App Summit @ Devcon 2022",
-          "link": "https://lu.ma/Web3AppSummitDevcon",
-          "publishedOn": "2022-10-12T15:30:05.000Z",
-          "wordCount": 1445,
-          "title": "The Web3 App Summit @ Devcon 2022",
-          "imageUrl": "https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/1q/b7e90a6a-0503-433e-a2db-19e3ce42e874"
-        },
-        {
           "id": "https://offchain.medium.com/the-merge-2-0-offchain-labs-acquires-prysmatic-labs-the-leading-ethereum-consensus-client-team-9eab169c5fb6",
           "author": null,
           "description": "The Merge 2.0: Offchain Labs acquires Prysmatic Labs, the leading Ethereum Consensus Client team",
@@ -71,7 +71,7 @@
           "description": "Arbitrum Builder Offchain Labs Acquires Prysmatic Labs, a Core Team Behind Ethereum’s Merge",
           "link": "https://www.coindesk.com/business/2022/10/12/arbitrum-builder-offchain-labs-acquires-prysmatic-labs-a-core-team-behind-ethereums-merge/",
           "publishedOn": "2022-10-12T15:00:04.000Z",
-          "wordCount": 7175,
+          "wordCount": 7068,
           "title": "Arbitrum Builder Offchain Labs Acquires Prysmatic Labs, a Core Team Behind Ethereum’s Merge",
           "imageUrl": "https://www.coindesk.com/resizer/BKcobzh3nGt-5DMGSQ6fcTzcjZU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YSG6ICK67VFRLAVRMUV4HR7BX4.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "Bitcoin > gilts",
           "link": "https://www.ft.com/content/b3a83be1-a79f-4887-a622-cb1c7717e93f",
           "publishedOn": "2022-10-12T03:30:06.000Z",
-          "wordCount": 1551,
+          "wordCount": 1560,
           "title": "Bitcoin > gilts",
           "imageUrl": null
         },
@@ -151,7 +151,7 @@
           "description": "Mona",
           "link": "https://monaverse.com/",
           "publishedOn": "2022-10-12T03:30:06.000Z",
-          "wordCount": 21234,
+          "wordCount": 21489,
           "title": "Mona",
           "imageUrl": null
         },
