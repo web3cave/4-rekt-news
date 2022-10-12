@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://home.treasury.gov/system/files/126/20221011_bittrex.pdf",
+          "id": "https://lu.ma/Web3AppSummitDevcon",
           "author": null,
-          "description": "[PDF] 20221011_bittrex.pdf",
-          "link": "https://home.treasury.gov/system/files/126/20221011_bittrex.pdf",
-          "publishedOn": "2022-10-12T14:00:05.000Z",
-          "wordCount": 4783,
-          "title": "[PDF] 20221011_bittrex.pdf",
-          "imageUrl": null
+          "description": "The Web3 App Summit @ Devcon 2022",
+          "link": "https://lu.ma/Web3AppSummitDevcon",
+          "publishedOn": "2022-10-12T15:30:05.000Z",
+          "wordCount": 1431,
+          "title": "The Web3 App Summit @ Devcon 2022",
+          "imageUrl": "https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/1q/b7e90a6a-0503-433e-a2db-19e3ce42e874"
+        },
+        {
+          "id": "https://offchain.medium.com/the-merge-2-0-offchain-labs-acquires-prysmatic-labs-the-leading-ethereum-consensus-client-team-9eab169c5fb6",
+          "author": null,
+          "description": "The Merge 2.0: Offchain Labs acquires Prysmatic Labs, the leading Ethereum Consensus Client team",
+          "link": "https://offchain.medium.com/the-merge-2-0-offchain-labs-acquires-prysmatic-labs-the-leading-ethereum-consensus-client-team-9eab169c5fb6",
+          "publishedOn": "2022-10-12T15:00:04.000Z",
+          "wordCount": 2103,
+          "title": "The Merge 2.0: Offchain Labs acquires Prysmatic Labs, the leading Ethereum Consensus Client team",
+          "imageUrl": "https://miro.medium.com/max/621/0*qYLTg_A2OjZaAQ6I"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/10/12/arbitrum-builder-offchain-labs-acquires-prysmatic-labs-a-core-team-behind-ethereums-merge/",
+          "author": null,
+          "description": "Arbitrum Builder Offchain Labs Acquires Prysmatic Labs, a Core Team Behind Ethereum’s Merge",
+          "link": "https://www.coindesk.com/business/2022/10/12/arbitrum-builder-offchain-labs-acquires-prysmatic-labs-a-core-team-behind-ethereums-merge/",
+          "publishedOn": "2022-10-12T15:00:04.000Z",
+          "wordCount": 7079,
+          "title": "Arbitrum Builder Offchain Labs Acquires Prysmatic Labs, a Core Team Behind Ethereum’s Merge",
+          "imageUrl": "https://www.coindesk.com/resizer/BKcobzh3nGt-5DMGSQ6fcTzcjZU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YSG6ICK67VFRLAVRMUV4HR7BX4.jpg"
         },
         {
           "id": "https://www.businessinsider.com/twitter-ghostwriter-silicon-valley-vc-venture-founder-san-francisco-2022-10",
@@ -24,6 +44,16 @@
           "wordCount": 6016,
           "title": "I made $200,000 last year ghostwriting tweets for superstar VCs. It takes me 5 hours a week. Here's how I found my...",
           "imageUrl": "https://i.insider.com/6345c2d5d2050f0011d3d6da?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://home.treasury.gov/system/files/126/20221011_bittrex.pdf",
+          "author": null,
+          "description": "[PDF] 20221011_bittrex.pdf",
+          "link": "https://home.treasury.gov/system/files/126/20221011_bittrex.pdf",
+          "publishedOn": "2022-10-12T14:00:05.000Z",
+          "wordCount": 4783,
+          "title": "[PDF] 20221011_bittrex.pdf",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=iNEYsF4arVE&feature=youtu.be",
@@ -71,7 +101,7 @@
           "description": "Bitcoin > gilts",
           "link": "https://www.ft.com/content/b3a83be1-a79f-4887-a622-cb1c7717e93f",
           "publishedOn": "2022-10-12T03:30:06.000Z",
-          "wordCount": 1563,
+          "wordCount": 1568,
           "title": "Bitcoin > gilts",
           "imageUrl": null
         },
@@ -81,7 +111,7 @@
           "description": "Mona",
           "link": "https://monaverse.com/",
           "publishedOn": "2022-10-12T03:30:06.000Z",
-          "wordCount": 21242,
+          "wordCount": 21455,
           "title": "Mona",
           "imageUrl": null
         },
@@ -116,16 +146,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*SrC1kw_VVx4Fqbit-ShxiQ.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/nobody-has-traded-10y-japanese-govt-bonds-3-days",
-          "author": null,
-          "description": "Nobody Has Traded 10Y Japanese Govt Bonds For 3 Days! | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/nobody-has-traded-10y-japanese-govt-bonds-3-days",
-          "publishedOn": "2022-10-12T01:00:03.000Z",
-          "wordCount": 656,
-          "title": "Nobody Has Traded 10Y Japanese Govt Bonds For 3 Days! | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://bitcoinrollups.org/",
           "author": null,
           "description": "validity rollups on bitcoin",
@@ -141,7 +161,7 @@
           "description": "ACX Airdrop — What You Need to Know (It’s Not Too Late to Qualify!)",
           "link": "https://medium.com/across-protocol/acx-airdrop-what-you-need-to-know-its-not-too-late-to-qualify-111276d2acf7",
           "publishedOn": "2022-10-11T19:00:03.000Z",
-          "wordCount": 1670,
+          "wordCount": 1982,
           "title": "ACX Airdrop — What You Need to Know (It’s Not Too Late to Qualify!)",
           "imageUrl": "https://miro.medium.com/max/1200/0*tFlbJTjQDq5ylk11"
         },
@@ -151,7 +171,7 @@
           "description": "BAYC creator Yuga Labs faces SEC probe: Bloomberg",
           "link": "https://www.theblock.co/post/176301/bayc-creator-yuga-labs-faces-sec-probe-bloomberg",
           "publishedOn": "2022-10-11T18:00:06.000Z",
-          "wordCount": 65443,
+          "wordCount": 66081,
           "title": "BAYC creator Yuga Labs faces SEC probe: Bloomberg",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220412_BAYC_Generic1.jpg"
         },
@@ -184,26 +204,6 @@
           "wordCount": 122,
           "title": "podcast.ai",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm",
-          "author": null,
-          "description": "U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations",
-          "link": "https://www.theblock.co/post/176182/u-s-treasury-fines-bittrex-29-million-for-sanctions-violations-in-its-largest-action-against-a-crypto-firm",
-          "publishedOn": "2022-10-11T17:00:02.000Z",
-          "wordCount": 65644,
-          "title": "U.S. Treasury fines crypto exchange Bittrex $29 million over years-long sanctions violations",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220329_Crypto_Liquidity_And_Sanctions.jpg"
-        },
-        {
-          "id": "https://cyberbrokers.substack.com/p/cyberbrokers-building-a-universe?sd=pf",
-          "author": null,
-          "description": "CyberBrokers: Building A Universe & Beyond",
-          "link": "https://cyberbrokers.substack.com/p/cyberbrokers-building-a-universe?sd=pf",
-          "publishedOn": "2022-10-11T17:00:02.000Z",
-          "wordCount": 5320,
-          "title": "CyberBrokers: Building A Universe & Beyond",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1b6c4af-f389-4d4c-bbb5-4b6ed8e3a357_3456x2000.png"
         }
       ]
     }
