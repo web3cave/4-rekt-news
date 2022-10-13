@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T04:50:09.320Z</id>
+    <id>urn:2022-10-13T06:02:58.257Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T04:50:09.320Z</updated>
+    <updated>2022-10-13T06:02:58.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ENS]]></title>
+        <id>https://alpha.ens.domains/</id>
+        <link href="https://alpha.ens.domains/"/>
+        <updated>2022-10-13T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[ENS]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FASB Settles on Fair-Value Accounting for Measuring Crypto Assets]]></title>
         <id>https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205</id>
@@ -51,6 +61,16 @@
         <link href="https://rimowa.rtfkt.com/"/>
         <updated>2022-10-13T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[RTFKT x RIMOWA]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTBoxes]]></title>
+        <id>https://www.nftboxes.io/</id>
+        <link href="https://www.nftboxes.io/"/>
+        <updated>2022-10-13T01:00:02.000Z</updated>
+        <summary type="html"><![CDATA[NFTBoxes]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,26 +201,6 @@
         <link href="https://www.businessoffashion.com/articles/entrepreneurship/benoit-pagotto-launch-bof-500-class-of-2022-fashion-industry-entrepreneur/"/>
         <updated>2022-10-12T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Benoit Pagotto: The Nike-Backed Gamer Building the Supreme of the Metaverse]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legal Counsel]]></title>
-        <id>https://boards.greenhouse.io/flashbots/jobs/4083290005</id>
-        <link href="https://boards.greenhouse.io/flashbots/jobs/4083290005"/>
-        <updated>2022-10-12T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Legal Counsel]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCLUSIVE: EDF manages over 150 Ethereum nodes]]></title>
-        <id>https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum</id>
-        <link href="https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum"/>
-        <updated>2022-10-11T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EXCLUSIVE: EDF manages over 150 Ethereum nodes]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

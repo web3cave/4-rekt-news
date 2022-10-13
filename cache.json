@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://alpha.ens.domains/",
+          "author": null,
+          "description": "ENS",
+          "link": "https://alpha.ens.domains/",
+          "publishedOn": "2022-10-13T04:00:06.000Z",
+          "wordCount": 502,
+          "title": "ENS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205",
           "author": null,
           "description": "FASB Settles on Fair-Value Accounting for Measuring Crypto Assets",
           "link": "https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205",
           "publishedOn": "2022-10-13T03:00:03.000Z",
-          "wordCount": 11078,
+          "wordCount": 11075,
           "title": "FASB Settles on Fair-Value Accounting for Measuring Crypto Assets",
           "imageUrl": "https://images.wsj.net/im-643032/social"
         },
@@ -21,7 +31,7 @@
           "description": "Laura Shin’s ‘The Cryptopians’ In The Works As Drama Series From ‘Dangerous Liaisons’ Producer Playground",
           "link": "https://deadline.com/2022/10/laura-shins-the-cryptopians-drama-series-playground-1235142674/",
           "publishedOn": "2022-10-13T01:00:02.000Z",
-          "wordCount": 5825,
+          "wordCount": 5988,
           "title": "Laura Shin’s ‘The Cryptopians’ In The Works As Drama Series From ‘Dangerous Liaisons’ Producer Playground",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/10/1200x600wz.png?w=1024"
         },
@@ -41,7 +51,7 @@
           "description": "GitHub - 1inch/profanity2: Vanity address generator for Ethereum",
           "link": "https://github.com/1inch/profanity2",
           "publishedOn": "2022-10-13T01:00:02.000Z",
-          "wordCount": 1472,
+          "wordCount": 1310,
           "title": "GitHub - 1inch/profanity2: Vanity address generator for Ethereum",
           "imageUrl": "https://opengraph.githubassets.com/de755275db9657e51454920c2e09085fb7cd28957b3692b67253b65034d6df60/1inch/profanity2"
         },
@@ -54,6 +64,16 @@
           "wordCount": 5,
           "title": "RTFKT x RIMOWA",
           "imageUrl": "https://rimowa.rtfkt.com/assets/images/share.jpg"
+        },
+        {
+          "id": "https://www.nftboxes.io/",
+          "author": null,
+          "description": "NFTBoxes",
+          "link": "https://www.nftboxes.io/",
+          "publishedOn": "2022-10-13T01:00:02.000Z",
+          "wordCount": 480,
+          "title": "NFTBoxes",
+          "imageUrl": "https://www.nftboxes.io/images/banner.png"
         },
         {
           "id": "https://loopcrypto.medium.com/loops-beta-is-open-the-most-adaptable-payment-system-is-here-d4990c051cea",
@@ -184,26 +204,6 @@
           "wordCount": 8945,
           "title": "Benoit Pagotto: The Nike-Backed Gamer Building the Supreme of the Metaverse",
           "imageUrl": "https://img.businessoffashion.com/resizer/1HqP_J4PagOrX9Q1Afq95Kp3AJ8=/1200x630/filters:format(jpg):quality(70):focal(378x419:388x429)/cloudfront-eu-central-1.images.arcpublishing.com/businessoffashion/N7QRYJMGL5DBHMICGOHJAJA6TY.jpg"
-        },
-        {
-          "id": "https://boards.greenhouse.io/flashbots/jobs/4083290005",
-          "author": null,
-          "description": "Legal Counsel",
-          "link": "https://boards.greenhouse.io/flashbots/jobs/4083290005",
-          "publishedOn": "2022-10-12T07:00:02.000Z",
-          "wordCount": 969,
-          "title": "Legal Counsel",
-          "imageUrl": "https://s5-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/389/100/original/Robot_Emoji_OG.png?1657818356"
-        },
-        {
-          "id": "https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum",
-          "author": null,
-          "description": "EXCLUSIVE: EDF manages over 150 Ethereum nodes",
-          "link": "https://en.thebigwhale.io/article/exclusif-edf-gere-plus-de-150-noeuds-ethereum",
-          "publishedOn": "2022-10-11T13:00:03.000Z",
-          "wordCount": 2110,
-          "title": "EXCLUSIVE: EDF manages over 150 Ethereum nodes",
-          "imageUrl": "https://uploads-ssl.webflow.com/62cd27f449275afe5af58419/63452f9831052ac6ea683dbe_2161047511-huge.jpg"
         }
       ]
     }
