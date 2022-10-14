@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://collective.flashbots.net/",
+          "author": null,
+          "description": "The Flashbots Collective",
+          "link": "https://collective.flashbots.net/",
+          "publishedOn": "2022-10-14T19:30:05.000Z",
+          "wordCount": 177,
+          "title": "The Flashbots Collective",
+          "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
+        },
+        {
+          "id": "https://giga.global/giga-finances-school-connectivity-in-rwanda/",
+          "author": null,
+          "description": "Giga finances school connectivity in Rwanda through Ethereum Staking   – Giga",
+          "link": "https://giga.global/giga-finances-school-connectivity-in-rwanda/",
+          "publishedOn": "2022-10-14T19:30:04.000Z",
+          "wordCount": 1827,
+          "title": "Giga finances school connectivity in Rwanda through Ethereum Staking   – Giga",
+          "imageUrl": "https://gigaconnect.org/wp-content/uploads/2020/10/Giga_Giga_logo-1.png"
+        },
+        {
           "id": "https://collective.flashbots.net/t/flashbots-at-devcon-bogota-october-2022/431",
           "author": null,
           "description": "Flashbots at DevCon Bogotá, October 2022",
@@ -26,14 +46,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*9I9I09lQn9su3Af-pUHRIQ.png"
         },
         {
-          "id": "https://www.leoweekly.com/2022/10/feds-ex-louisville-police-officer-used-law-enforcement-tech-to-help-hack-sexually-explicit-photos-from-women/",
+          "id": "https://2022.ipfs.camp/#IPFS-201-App-Design-Patterns-and-Developer-Tools",
           "author": null,
-          "description": "Feds: Ex Louisville Police Officer Used Law Enforcement Tech To Help Hack Sexually Explicit Photos From Women - LEO...",
-          "link": "https://www.leoweekly.com/2022/10/feds-ex-louisville-police-officer-used-law-enforcement-tech-to-help-hack-sexually-explicit-photos-from-women/",
+          "description": "IPFS Camp 2022",
+          "link": "https://2022.ipfs.camp/#IPFS-201-App-Design-Patterns-and-Developer-Tools",
           "publishedOn": "2022-10-14T18:00:06.000Z",
-          "wordCount": 1964,
-          "title": "Feds: Ex Louisville Police Officer Used Law Enforcement Tech To Help Hack Sexually Explicit Photos From Women - LEO...",
-          "imageUrl": "https://www.leoweekly.com/wp-content/uploads/2022/10/LMPDslidesHeader-1024x683-2-3-2.jpg"
+          "wordCount": 5652,
+          "title": "IPFS Camp 2022",
+          "imageUrl": "/ipfs-camp-og.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=vclFzawqp04&feature=youtu.be",
@@ -51,7 +71,7 @@
           "description": "Tomato soup thrown over Vincent Van Gogh's famous Sunflowers painting",
           "link": "https://metro.co.uk/2022/10/14/tomato-soup-thrown-over-iconic-van-gogh-painting-by-activists-17564773/?ito=socialmetrouktwitter",
           "publishedOn": "2022-10-14T16:30:03.000Z",
-          "wordCount": 4938,
+          "wordCount": 4935,
           "title": "Tomato soup thrown over Vincent Van Gogh's famous Sunflowers painting",
           "imageUrl": "https://metro.co.uk/wp-content/uploads/2022/10/SEC_129421495-3083_1665764251.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
         },
@@ -61,7 +81,7 @@
           "description": "Binance launches $500 million fund to provide loans to Bitcoin miners",
           "link": "https://www.theblock.co/post/177170/binance-launches-500-million-fund-to-provide-loans-to-bitcoin-miners?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-14T15:00:03.000Z",
-          "wordCount": 65502,
+          "wordCount": 65825,
           "title": "Binance launches $500 million fund to provide loans to Bitcoin miners",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210216_Mining_Bitcoin_2_Generic.jpg"
         },
@@ -91,19 +111,9 @@
           "description": "Why the SEC Is Probing Yuga Labs and Coin Center Is Suing Treasury - Ep. 407",
           "link": "https://unchainedpodcast.com/why-the-sec-is-probing-yuga-labs-and-coin-center-is-suing-treasury-ep-407/",
           "publishedOn": "2022-10-14T15:00:02.000Z",
-          "wordCount": 2413,
+          "wordCount": 428,
           "title": "Why the SEC Is Probing Yuga Labs and Coin Center Is Suing Treasury - Ep. 407",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2022/10/UN407-SOCIAL.jpg"
-        },
-        {
-          "id": "https://consensys.net/blog/research-development/consensys-rd-launches-an-updated-and-expanded-zk-evm-version/",
-          "author": null,
-          "description": "ConsenSys R&D Launches an Updated and Expanded zk-EVM Version | ConsenSys",
-          "link": "https://consensys.net/blog/research-development/consensys-rd-launches-an-updated-and-expanded-zk-evm-version/",
-          "publishedOn": "2022-10-14T12:00:07.000Z",
-          "wordCount": 4331,
-          "title": "ConsenSys R&D Launches an Updated and Expanded zk-EVM Version | ConsenSys",
-          "imageUrl": "https://cdn.consensys.net/uploads/2022/10/13191626/zk-EVM.png"
+          "imageUrl": null
         },
         {
           "id": "https://defillama.com/hacks",
@@ -121,7 +131,7 @@
           "description": "Crypto Trading Firm NYDIG Lays Off About 33% of Staff",
           "link": "https://www.coindesk.com/business/2022/10/14/crypto-trading-firm-nydig-lays-off-about-33-of-staff/",
           "publishedOn": "2022-10-14T03:30:05.000Z",
-          "wordCount": 7208,
+          "wordCount": 7233,
           "title": "Crypto Trading Firm NYDIG Lays Off About 33% of Staff",
           "imageUrl": "https://www.coindesk.com/resizer/ziZOzvZOVUhDcR5ZXV1OgyFdWHs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R2WKOXEJUVCBXHFS5QTESFYX6M.jpg"
         },
@@ -133,17 +143,7 @@
           "publishedOn": "2022-10-14T03:30:05.000Z",
           "wordCount": 811,
           "title": "GitHub - shresthagrawal/kevlar: Light client-based RPC Proxy for PoS Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/31e7359d398a51773507c609fd0f5adcf3f08654b24387724e989f8938631d60/shresthagrawal/kevlar"
-        },
-        {
-          "id": "https://bunni.pro/",
-          "author": null,
-          "description": "Bunni - Incentivize liquidity on Uniswap v3",
-          "link": "https://bunni.pro/",
-          "publishedOn": "2022-10-14T03:00:02.000Z",
-          "wordCount": 9,
-          "title": "Bunni - Incentivize liquidity on Uniswap v3",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/b8f0a8640d9109ad92c44c3e30b74fc146a8ec133eb45d925a8bfc5c1dedbb33/shresthagrawal/kevlar"
         },
         {
           "id": "https://www.youtube.com/watch?t=265&v=Exh-hQOV8kE&feature=youtu.be",
