@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-14T21:25:11.252Z</id>
+    <id>urn:2022-10-14T22:26:51.191Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-14T21:25:11.252Z</updated>
+    <updated>2022-10-14T22:26:51.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://collective.flashbots.net/t/flashbots-at-devcon-bogota-october-2022/431"/>
         <updated>2022-10-14T18:30:03.000Z</updated>
         <summary type="html"><![CDATA[Flashbots at DevCon Bogotá, October 2022]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPFS Camp 2022]]></title>
+        <id>https://2022.ipfs.camp/#IPFS-201-App-Design-Patterns-and-Developer-Tools</id>
+        <link href="https://2022.ipfs.camp/#IPFS-201-App-Design-Patterns-and-Developer-Tools"/>
+        <updated>2022-10-14T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[IPFS Camp 2022]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://www.gmicrypto.media/"/>
         <updated>2022-10-13T19:30:05.000Z</updated>
         <summary type="html"><![CDATA[GMI Crypto Media]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBC Security Advisory Dragonberry]]></title>
-        <id>https://forum.cosmos.network/t/ibc-security-advisory-dragonberry/7702</id>
-        <link href="https://forum.cosmos.network/t/ibc-security-advisory-dragonberry/7702"/>
-        <updated>2022-10-13T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[IBC Security Advisory Dragonberry]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
