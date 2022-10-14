@@ -6,34 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vclFzawqp04&feature=youtu.be",
+          "author": null,
+          "description": "Ethereum staking, Uniswap raises $165mil and more - The Daily Gwei Refuel #468 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=vclFzawqp04&feature=youtu.be",
+          "publishedOn": "2022-10-14T17:30:05.000Z",
+          "wordCount": null,
+          "title": "Ethereum staking, Uniswap raises $165mil and more - The Daily Gwei Refuel #468 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://metro.co.uk/2022/10/14/tomato-soup-thrown-over-iconic-van-gogh-painting-by-activists-17564773/?ito=socialmetrouktwitter",
           "author": null,
           "description": "Tomato soup thrown over Vincent Van Gogh's famous Sunflowers painting",
           "link": "https://metro.co.uk/2022/10/14/tomato-soup-thrown-over-iconic-van-gogh-painting-by-activists-17564773/?ito=socialmetrouktwitter",
           "publishedOn": "2022-10-14T16:30:03.000Z",
-          "wordCount": 5125,
+          "wordCount": 4937,
           "title": "Tomato soup thrown over Vincent Van Gogh's famous Sunflowers painting",
           "imageUrl": "https://metro.co.uk/wp-content/uploads/2022/10/SEC_129421495-3083_1665764251.jpg?quality=90&strip=all&w=1200&h=630&crop=1"
-        },
-        {
-          "id": "https://collective.flashbots.net/t/flashbots-at-devcon-bogota-october-2022/431",
-          "author": null,
-          "description": "Flashbots at DevCon Bogotá, October 2022",
-          "link": "https://collective.flashbots.net/t/flashbots-at-devcon-bogota-october-2022/431",
-          "publishedOn": "2022-10-14T16:30:03.000Z",
-          "wordCount": 649,
-          "title": "Flashbots at DevCon Bogotá, October 2022",
-          "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/35051a597200159e0d7b89d966c7eae0d156e81e.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205",
-          "author": null,
-          "description": "FASB Settles on Fair-Value Accounting for Measuring Crypto Assets",
-          "link": "https://www.wsj.com/articles/fasb-settles-on-fair-value-accounting-for-measuring-crypto-assets-11665614205",
-          "publishedOn": "2022-10-14T15:30:07.000Z",
-          "wordCount": 11088,
-          "title": "FASB Settles on Fair-Value Accounting for Measuring Crypto Assets",
-          "imageUrl": "https://images.wsj.net/im-643032/social"
         },
         {
           "id": "https://www.avalanchecreates.com/",
@@ -61,7 +51,7 @@
           "description": "Binance launches $500 million fund to provide loans to Bitcoin miners",
           "link": "https://www.theblock.co/post/177170/binance-launches-500-million-fund-to-provide-loans-to-bitcoin-miners?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-14T15:00:03.000Z",
-          "wordCount": 65611,
+          "wordCount": 66050,
           "title": "Binance launches $500 million fund to provide loans to Bitcoin miners",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/02/20210216_Mining_Bitcoin_2_Generic.jpg"
         },
@@ -91,7 +81,7 @@
           "description": "Why the SEC Is Probing Yuga Labs and Coin Center Is Suing Treasury - Ep. 407",
           "link": "https://unchainedpodcast.com/why-the-sec-is-probing-yuga-labs-and-coin-center-is-suing-treasury-ep-407/",
           "publishedOn": "2022-10-14T15:00:02.000Z",
-          "wordCount": 407,
+          "wordCount": 386,
           "title": "Why the SEC Is Probing Yuga Labs and Coin Center Is Suing Treasury - Ep. 407",
           "imageUrl": null
         },
@@ -106,12 +96,22 @@
           "imageUrl": "https://cdn.consensys.net/uploads/2022/10/13191626/zk-EVM.png"
         },
         {
+          "id": "https://defillama.com/hacks",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/hacks",
+          "publishedOn": "2022-10-14T10:30:09.000Z",
+          "wordCount": 963,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/10/14/crypto-trading-firm-nydig-lays-off-about-33-of-staff/",
           "author": null,
           "description": "Crypto Trading Firm NYDIG Lays Off About 33% of Staff",
           "link": "https://www.coindesk.com/business/2022/10/14/crypto-trading-firm-nydig-lays-off-about-33-of-staff/",
           "publishedOn": "2022-10-14T03:30:05.000Z",
-          "wordCount": 7745,
+          "wordCount": 7860,
           "title": "Crypto Trading Firm NYDIG Lays Off About 33% of Staff",
           "imageUrl": "https://www.coindesk.com/resizer/ziZOzvZOVUhDcR5ZXV1OgyFdWHs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R2WKOXEJUVCBXHFS5QTESFYX6M.jpg"
         },
@@ -121,9 +121,9 @@
           "description": "GitHub - shresthagrawal/kevlar: Light client-based RPC Proxy for PoS Ethereum",
           "link": "https://github.com/shresthagrawal/kevlar",
           "publishedOn": "2022-10-14T03:30:05.000Z",
-          "wordCount": 767,
+          "wordCount": 811,
           "title": "GitHub - shresthagrawal/kevlar: Light client-based RPC Proxy for PoS Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/f2634b0583c9f7c67707a692353d25ff6d8e663fbd48319d2ad22847c2e9b6c5/shresthagrawal/kevlar"
+          "imageUrl": "https://opengraph.githubassets.com/c477758bc6954748e3cab714139a67a97e96e09a3f0547a4c2edcb55f0b77f94/shresthagrawal/kevlar"
         },
         {
           "id": "https://bunni.pro/",
