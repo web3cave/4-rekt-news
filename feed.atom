@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T10:27:41.776Z</id>
+    <id>urn:2022-10-15T11:21:09.334Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-15T10:27:41.776Z</updated>
+    <updated>2022-10-15T11:21:09.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rekt - Home]]></title>
+        <id>https://rekt.news/</id>
+        <link href="https://rekt.news/"/>
+        <updated>2022-10-14T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Rekt - Home]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Contract Parser for Blockchain-ETL]]></title>
         <id>https://abi-parser-nvk.vercel.app/</id>
         <link href="https://abi-parser-nvk.vercel.app/"/>
@@ -191,16 +201,6 @@
         <link href="https://unchainedpodcast.com/why-the-sec-is-probing-yuga-labs-and-coin-center-is-suing-treasury-ep-407/"/>
         <updated>2022-10-14T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Why the SEC Is Probing Yuga Labs and Coin Center Is Suing Treasury - Ep. 407]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwitLonger — When you talk too much for Twitter]]></title>
-        <id>http://www.twitlonger.com/show/n_1ss5do4</id>
-        <link href="http://www.twitlonger.com/show/n_1ss5do4"/>
-        <updated>2022-10-13T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[TwitLonger — When you talk too much for Twitter]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
