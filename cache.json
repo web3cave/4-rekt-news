@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.aboutnothing.xyz/",
+          "author": null,
+          "description": "New York Cares - Stand With Students",
+          "link": "https://www.aboutnothing.xyz/",
+          "publishedOn": "2022-10-16T13:30:05.000Z",
+          "wordCount": 498,
+          "title": "New York Cares - Stand With Students",
+          "imageUrl": "https://assets.website-files.com/633e42b98fda42e2db0b74ce/6347fc6b45f0ae795fe89fcf_og-image.jpg"
+        },
+        {
+          "id": "https://www.theblock.co/post/174673/we-end-up-winning-more-anchorage-boss-monica-sees-bank-charter-as-key-to-weathering-crypto-winter?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "‘We end up winning more’: Anchorage boss Mónica sees bank charter as key to weathering crypto winter",
+          "link": "https://www.theblock.co/post/174673/we-end-up-winning-more-anchorage-boss-monica-sees-bank-charter-as-key-to-weathering-crypto-winter?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-10-16T13:00:02.000Z",
+          "wordCount": 64021,
+          "title": "‘We end up winning more’: Anchorage boss Mónica sees bank charter as key to weathering crypto winter",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221005_DiogoMonica.jpg"
+        },
+        {
+          "id": "https://www.truthcoin.info/blog/pow-cheapest/",
+          "author": null,
+          "description": "Nothing is Cheaper than Proof of Work | Truthcoin.Info",
+          "link": "https://www.truthcoin.info/blog/pow-cheapest/",
+          "publishedOn": "2022-10-16T13:00:02.000Z",
+          "wordCount": 6922,
+          "title": "Nothing is Cheaper than Proof of Work | Truthcoin.Info",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/state-department-report-reveals-human-rights-abuses-ukraine",
+          "author": null,
+          "description": "State Department Report Reveals Human Rights Abuses in Ukraine | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/state-department-report-reveals-human-rights-abuses-ukraine",
+          "publishedOn": "2022-10-16T13:00:02.000Z",
+          "wordCount": 2154,
+          "title": "State Department Report Reveals Human Rights Abuses in Ukraine | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://gist.github.com/paulrberg/ba04d0e7a0136f7d42c830d930d3282d",
           "author": null,
           "description": "GitHub badge for Foundry",
@@ -14,16 +54,6 @@
           "wordCount": 168,
           "title": "GitHub badge for Foundry",
           "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://www.sciencedirect.com/science/article/pii/S0022395615000655",
-          "author": null,
-          "description": "Collective unconscious: How gut microbes shape human behavior",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0022395615000655",
-          "publishedOn": "2022-10-16T09:30:05.000Z",
-          "wordCount": 1405,
-          "title": "Collective unconscious: How gut microbes shape human behavior",
-          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022395615X00045-cov150h.gif"
         },
         {
           "id": "https://www.biorxiv.org/content/10.1101/2022.10.13.512134v1",
@@ -41,39 +71,9 @@
           "description": "The dark side of the crypto community",
           "link": "https://daphachar.substack.com/p/the-dark-side-of-the-crypto-community",
           "publishedOn": "2022-10-16T09:00:02.000Z",
-          "wordCount": 3801,
+          "wordCount": 3795,
           "title": "The dark side of the crypto community",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VBkYcTq-qDY&feature=youtu.be",
-          "author": null,
-          "description": "Fireside Chat: Raagulan Pathy & Alex Svanevik - TOKEN2049 Singapore 2022",
-          "link": "https://www.youtube.com/watch?v=VBkYcTq-qDY&feature=youtu.be",
-          "publishedOn": "2022-10-16T07:30:04.000Z",
-          "wordCount": null,
-          "title": "Fireside Chat: Raagulan Pathy & Alex Svanevik - TOKEN2049 Singapore 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nobelprize.org/prizes/medicine/2005/press-release/",
-          "author": null,
-          "description": "The Nobel Prize in Physiology or Medicine 2005",
-          "link": "https://www.nobelprize.org/prizes/medicine/2005/press-release/",
-          "publishedOn": "2022-10-16T07:00:02.000Z",
-          "wordCount": 2757,
-          "title": "The Nobel Prize in Physiology or Medicine 2005",
-          "imageUrl": "https://www.nobelprize.org/images/marshall-13710-landscape-medium.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/",
-          "author": null,
-          "description": "Did lead poisoning cause downfall of Roman Empire? The jury is still out",
-          "link": "https://arstechnica.com/science/2021/07/did-lead-poisoning-cause-downfall-of-roman-empire-the-jury-is-still-out/",
-          "publishedOn": "2022-10-16T07:00:02.000Z",
-          "wordCount": 2354,
-          "title": "Did lead poisoning cause downfall of Roman Empire? The jury is still out",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/lead1-760x380.jpg"
         },
         {
           "id": "https://www.zerohedge.com/markets/kfc-ranks-fastest-drive-thru-wait-time",
@@ -151,7 +151,7 @@
           "description": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "link": "https://www.theblock.co/post/177435/coinbase-ceo-plans-to-sell-part-of-his-stake-to-fund-science-research",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63092,
+          "wordCount": 63197,
           "title": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_Coinbase.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Mango Markets exploiter comes clean, claims all actions were legal",
           "link": "https://www.theblock.co/post/177424/mango-markets-exploiter-comes-clean-claims-all-actions-were-legal?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63714,
+          "wordCount": 63509,
           "title": "Mango Markets exploiter comes clean, claims all actions were legal",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1.jpg"
         },
