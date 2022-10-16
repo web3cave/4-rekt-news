@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gist.github.com/paulrberg/ba04d0e7a0136f7d42c830d930d3282d",
+          "author": null,
+          "description": "GitHub badge for Foundry",
+          "link": "https://gist.github.com/paulrberg/ba04d0e7a0136f7d42c830d930d3282d",
+          "publishedOn": "2022-10-16T11:30:04.000Z",
+          "wordCount": 168,
+          "title": "GitHub badge for Foundry",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
           "id": "https://www.sciencedirect.com/science/article/pii/S0022395615000655",
           "author": null,
           "description": "Collective unconscious: How gut microbes shape human behavior",
@@ -31,7 +41,7 @@
           "description": "The dark side of the crypto community",
           "link": "https://daphachar.substack.com/p/the-dark-side-of-the-crypto-community",
           "publishedOn": "2022-10-16T09:00:02.000Z",
-          "wordCount": 3795,
+          "wordCount": 3801,
           "title": "The dark side of the crypto community",
           "imageUrl": null
         },
@@ -73,16 +83,6 @@
           "publishedOn": "2022-10-16T05:00:02.000Z",
           "wordCount": 635,
           "title": "KFC Ranks Fastest In Drive-Thru Wait Time | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sec.gov/news/press-release/2022-175",
-          "author": null,
-          "description": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
-          "link": "https://www.sec.gov/news/press-release/2022-175",
-          "publishedOn": "2022-10-16T00:00:04.000Z",
-          "wordCount": 1210,
-          "title": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
           "imageUrl": null
         },
         {
@@ -151,7 +151,7 @@
           "description": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "link": "https://www.theblock.co/post/177435/coinbase-ceo-plans-to-sell-part-of-his-stake-to-fund-science-research",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63197,
+          "wordCount": 63092,
           "title": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_Coinbase.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Mango Markets exploiter comes clean, claims all actions were legal",
           "link": "https://www.theblock.co/post/177424/mango-markets-exploiter-comes-clean-claims-all-actions-were-legal?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63509,
+          "wordCount": 63714,
           "title": "Mango Markets exploiter comes clean, claims all actions were legal",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis",
           "link": "https://github.com/ethereum/execution-apis/issues/307",
           "publishedOn": "2022-10-15T13:00:02.000Z",
-          "wordCount": 2011,
+          "wordCount": 2039,
           "title": "[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis",
           "imageUrl": "https://opengraph.githubassets.com/bde6c9a07bf183d9f83cbe5100f1df2e8badb6a874a4fd5cf098edcf6ab109c8/ethereum/execution-apis/issues/307"
         },
