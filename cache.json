@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sciencedirect.com/science/article/pii/S0022395615000655",
+          "author": null,
+          "description": "Collective unconscious: How gut microbes shape human behavior",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0022395615000655",
+          "publishedOn": "2022-10-16T09:30:05.000Z",
+          "wordCount": 1405,
+          "title": "Collective unconscious: How gut microbes shape human behavior",
+          "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0022395615X00045-cov150h.gif"
+        },
+        {
           "id": "https://www.biorxiv.org/content/10.1101/2022.10.13.512134v1",
           "author": null,
           "description": "Role of spike in the pathogenic and antigenic behavior of SARS-CoV-2 BA.1 Omicron",
@@ -76,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.sec.gov/news/press-release/2022-175",
-          "author": null,
-          "description": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
-          "link": "https://www.sec.gov/news/press-release/2022-175",
-          "publishedOn": "2022-10-16T00:00:04.000Z",
-          "wordCount": 1210,
-          "title": "SEC.gov | SEC Charges The Hydrogen Technology Corp. and its Former CEO for Market Manipulation of Crypto Asset...",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.chainalysis.com/reports/eastern-europe-cryptocurrency-geography-report-2022-preview/",
           "author": null,
           "description": "Eastern Europe's Crypto Market Active, With Spikes in Last Year Driven by Russia-Ukraine War - Chainalysis",
@@ -151,7 +151,7 @@
           "description": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "link": "https://www.theblock.co/post/177435/coinbase-ceo-plans-to-sell-part-of-his-stake-to-fund-science-research",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63104,
+          "wordCount": 63164,
           "title": "Coinbase CEO Armstrong plans to sell part of his stake to fund science research",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_Coinbase.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Mango Markets exploiter comes clean, claims all actions were legal",
           "link": "https://www.theblock.co/post/177424/mango-markets-exploiter-comes-clean-claims-all-actions-were-legal?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-15T19:00:02.000Z",
-          "wordCount": 63416,
+          "wordCount": 63476,
           "title": "Mango Markets exploiter comes clean, claims all actions were legal",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1.jpg"
         },
