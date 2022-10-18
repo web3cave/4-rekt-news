@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://avc.com/2022/10/nft-screens/",
+          "author": null,
+          "description": "NFT Screens - AVC",
+          "link": "https://avc.com/2022/10/nft-screens/",
+          "publishedOn": "2022-10-18T07:30:06.000Z",
+          "wordCount": 682,
+          "title": "NFT Screens - AVC",
+          "imageUrl": "https://avc.com/content/uploads/2022/10/PXL_20220216_233556320-2048x1536.jpg"
+        },
+        {
           "id": "https://blog.matter-labs.io/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f?gi=b8105b5827f5",
           "author": null,
           "description": "Milestone 3 ✅: zkSync End-to-End Prover Is Now Live on Testnet",
@@ -14,6 +24,16 @@
           "wordCount": 2270,
           "title": "Milestone 3 ✅: zkSync End-to-End Prover Is Now Live on Testnet",
           "imageUrl": "https://miro.medium.com/max/1200/1*F45mgi9q_3ZCZT-y7u086w.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?t=747&v=FqalnLJTdCc&feature=youtu.be",
+          "author": null,
+          "description": "Flashbots introduces SUAVE, Shandong testnet & more - The Daily Gwei Refuel #469 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?t=747&v=FqalnLJTdCc&feature=youtu.be",
+          "publishedOn": "2022-10-18T04:30:03.000Z",
+          "wordCount": null,
+          "title": "Flashbots introduces SUAVE, Shandong testnet & more - The Daily Gwei Refuel #469 - Ethereum Updates",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/177817/aptoss-layer-1-mainnet-launching-soon-date-not-finalized?utm_source=twitter&utm_medium=social",
@@ -31,7 +51,7 @@
           "description": "Boston University researchers claim to have developed new, more lethal COVID strain in lab",
           "link": "https://nypost.com/2022/10/17/boston-university-researchers-claim-to-have-developed-new-more-lethal-covid-strain-in-lab/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-10-18T03:00:02.000Z",
-          "wordCount": 13097,
+          "wordCount": 12579,
           "title": "Boston University researchers claim to have developed new, more lethal COVID strain in lab",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/10/Boston-Universitys-National-Emerging-Infectious-Diseases-Laboratories.jpeg?quality=75&strip=all&w=1024"
         },
@@ -91,7 +111,7 @@
           "description": "Paradigm Policy",
           "link": "https://policy.paradigm.xyz/",
           "publishedOn": "2022-10-18T01:00:03.000Z",
-          "wordCount": 165,
+          "wordCount": 162,
           "title": "Paradigm Policy",
           "imageUrl": "https://policy.paradigm.xyz/assets/meta.png"
         },
@@ -111,7 +131,7 @@
           "description": "Aptos Autumn is Here",
           "link": "https://aptoslabs.medium.com/aptos-autumn-is-here-92a8d904eb49",
           "publishedOn": "2022-10-17T23:00:02.000Z",
-          "wordCount": 2530,
+          "wordCount": 2547,
           "title": "Aptos Autumn is Here",
           "imageUrl": "https://miro.medium.com/max/1200/1*D1ttAV90FpysOeZB4E4ppg.png"
         },
@@ -131,29 +151,9 @@
           "description": "miner: compute tx fees for blocks by MariusVanDerWijden · Pull Request #25998 · ethereum/go-ethereum",
           "link": "https://github.com/ethereum/go-ethereum/pull/25998",
           "publishedOn": "2022-10-17T21:30:05.000Z",
-          "wordCount": 920,
+          "wordCount": 1009,
           "title": "miner: compute tx fees for blocks by MariusVanDerWijden · Pull Request #25998 · ethereum/go-ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/cda576516158ce82f939bcf0d66ab738abd61b9d8a5de81fc39bd8efdf00757b/ethereum/go-ethereum/pull/25998"
-        },
-        {
-          "id": "https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606",
-          "author": null,
-          "description": "Russell Napier: The world will experience a capex boom",
-          "link": "https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606",
-          "publishedOn": "2022-10-17T19:00:02.000Z",
-          "wordCount": 10378,
-          "title": "Russell Napier: The world will experience a capex boom",
-          "imageUrl": "https://img.themarket.ch/2022/10/12/2e582822-a96c-4a39-ab13-db9ab93472ec.jpeg?width=1200&height=900&fit=bound&quality=75&auto=webp&crop=3101,2326,x0,y775&wmark=themarket"
-        },
-        {
-          "id": "https://www.barrons.com/articles/ftx-us-sam-bankman-fried-probe-securities-regulator-51666020282?mod=bol-social-tw",
-          "author": null,
-          "description": "FTX US, Sam Bankman-Fried Are Subject of Probe by Securities Regulator",
-          "link": "https://www.barrons.com/articles/ftx-us-sam-bankman-fried-probe-securities-regulator-51666020282?mod=bol-social-tw",
-          "publishedOn": "2022-10-17T17:15:03.000Z",
-          "wordCount": 5458,
-          "title": "FTX US, Sam Bankman-Fried Are Subject of Probe by Securities Regulator",
-          "imageUrl": "https://images.barrons.com/im-645459/social"
+          "imageUrl": "https://opengraph.githubassets.com/ff1a77e3bb9042546ad21d3e0393e0e8591c5419c5488fb620e0c90f9d01fc60/ethereum/go-ethereum/pull/25998"
         },
         {
           "id": "https://open.spotify.com/episode/1UMzQJFRM0lDAl0Hnyz3Le?si=IHGb3D5ZQ-ed40HCA1MRSQ",
@@ -171,7 +171,7 @@
           "description": "Bitcoin Fails to Produce 1 Block for Over an Hour",
           "link": "https://www.coindesk.com/business/2022/10/17/bitcoin-fails-to-produce-1-block-for-over-an-hour/",
           "publishedOn": "2022-10-17T15:00:03.000Z",
-          "wordCount": 6852,
+          "wordCount": 6856,
           "title": "Bitcoin Fails to Produce 1 Block for Over an Hour",
           "imageUrl": "https://www.coindesk.com/resizer/KJYTXR4CCPnyOwUXhqa0PnhgrjA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DD6MIOZG7BAQND4ACGPFCGVDNE.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Our Response to the Latest Reuters Story | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/our-response-to-the-latest-reuters-story-3429055481452985078",
           "publishedOn": "2022-10-17T13:00:02.000Z",
-          "wordCount": 8565,
+          "wordCount": 8579,
           "title": "Our Response to the Latest Reuters Story | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221017/a408da1d-003d-4470-afc8-13e83ffa991e.png"
         },
