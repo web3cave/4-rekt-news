@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T11:22:51.315Z</id>
+    <id>urn:2022-10-18T12:57:19.369Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T11:22:51.315Z</updated>
+    <updated>2022-10-18T12:57:19.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] apt_report.pdf]]></title>
+        <id>https://static.upbit.com/reports/apt_report.pdf</id>
+        <link href="https://static.upbit.com/reports/apt_report.pdf"/>
+        <updated>2022-10-18T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] apt_report.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite App]]></title>
         <id>https://www.ethcmd.com/</id>
@@ -166,6 +176,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Better Mental Model for Rollups, Plasma, and Validating Bridges]]></title>
+        <id>https://www.youtube.com/watch?v=Z1dDVW7QTTM</id>
+        <link href="https://www.youtube.com/watch?v=Z1dDVW7QTTM"/>
+        <updated>2022-10-17T17:15:03.000Z</updated>
+        <summary type="html"><![CDATA[A Better Mental Model for Rollups, Plasma, and Validating Bridges]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spotify]]></title>
         <id>https://open.spotify.com/episode/1UMzQJFRM0lDAl0Hnyz3Le?si=IHGb3D5ZQ-ed40HCA1MRSQ</id>
         <link href="https://open.spotify.com/episode/1UMzQJFRM0lDAl0Hnyz3Le?si=IHGb3D5ZQ-ed40HCA1MRSQ"/>
@@ -181,26 +201,6 @@
         <link href="https://www.coindesk.com/business/2022/10/17/bitcoin-fails-to-produce-1-block-for-over-an-hour/"/>
         <updated>2022-10-17T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin Fails to Produce 1 Block for Over an Hour]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkREPL]]></title>
-        <id>https://zkrepl.dev/</id>
-        <link href="https://zkrepl.dev/"/>
-        <updated>2022-10-17T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[zkREPL]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Response to the Latest Reuters Story | Binance Blog]]></title>
-        <id>https://www.binance.com/en/blog/from-cz/our-response-to-the-latest-reuters-story-3429055481452985078</id>
-        <link href="https://www.binance.com/en/blog/from-cz/our-response-to-the-latest-reuters-story-3429055481452985078"/>
-        <updated>2022-10-17T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Our Response to the Latest Reuters Story | Binance Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
