@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dev.optimism.io/opcraft-autonomous-world/",
+          "author": null,
+          "description": "Announcing OPCraft: an Autonomous World built on the OP Stack",
+          "link": "https://dev.optimism.io/opcraft-autonomous-world/",
+          "publishedOn": "2022-10-18T23:30:06.000Z",
+          "wordCount": 1403,
+          "title": "Announcing OPCraft: an Autonomous World built on the OP Stack",
+          "imageUrl": "https://dev.optimism.io/content/images/2022/10/opc-featured.png"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/what-you-missed-at-devcon",
+          "author": null,
+          "description": "What You Missed At Devcon 🇨🇴",
+          "link": "https://newsletter.banklesshq.com/p/what-you-missed-at-devcon",
+          "publishedOn": "2022-10-18T23:30:06.000Z",
+          "wordCount": 7749,
+          "title": "What You Missed At Devcon 🇨🇴",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ea44943-90e0-4f92-b595-238741a9b767_1920x1080.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zADuI0a1c9A&feature=youtu.be",
+          "author": null,
+          "description": "ELI5: Scaling Ethereum",
+          "link": "https://www.youtube.com/watch?v=zADuI0a1c9A&feature=youtu.be",
+          "publishedOn": "2022-10-18T23:00:02.000Z",
+          "wordCount": null,
+          "title": "ELI5: Scaling Ethereum",
+          "imageUrl": null
+        },
+        {
           "id": "https://gov.gitcoin.co/t/knowledge-transfer-getting-1000x-more-sybil-resistance-out-of-poap/11677",
           "author": null,
           "description": "Knowledge Transfer: Getting 1000x more sybil resistance out of POAP",
@@ -31,7 +61,7 @@
           "description": "EU Commission warns crypto mining may be halted in energy emergency",
           "link": "https://www.theblock.co/post/177966/eu-commission-warns-crypto-mining-may-be-halted-in-energy-emergency?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-18T22:00:04.000Z",
-          "wordCount": 62695,
+          "wordCount": 62944,
           "title": "EU Commission warns crypto mining may be halted in energy emergency",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220928_EU_Generic.jpg"
         },
@@ -41,7 +71,7 @@
           "description": "Andy Likes the Bugs | We Do A Little Clips",
           "link": "https://www.youtube.com/shorts/vIlG0ITApNI",
           "publishedOn": "2022-10-18T22:00:04.000Z",
-          "wordCount": 1714,
+          "wordCount": 1700,
           "title": "Andy Likes the Bugs | We Do A Little Clips",
           "imageUrl": "https://i.ytimg.com/vi/vIlG0ITApNI/hq2.jpg"
         },
@@ -111,7 +141,7 @@
           "description": "Do Kwon says charges 'politically motivated,' refuses to reveal location",
           "link": "https://www.theblock.co/post/177636/do-kwon-says-charges-politically-motivated-refuses-to-reveal-location?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-18T13:00:02.000Z",
-          "wordCount": 63967,
+          "wordCount": 64216,
           "title": "Do Kwon says charges 'politically motivated,' refuses to reveal location",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220421_Do-Kwon.jpg"
         },
@@ -151,29 +181,9 @@
           "description": "Milestone 3 ✅: zkSync End-to-End Prover Is Now Live on Testnet",
           "link": "https://blog.matter-labs.io/milestone-3-zksync-end-to-end-prover-is-now-live-on-testnet-9ee4fdc1874f?gi=b8105b5827f5",
           "publishedOn": "2022-10-18T05:00:03.000Z",
-          "wordCount": 2254,
+          "wordCount": 2289,
           "title": "Milestone 3 ✅: zkSync End-to-End Prover Is Now Live on Testnet",
           "imageUrl": "https://miro.medium.com/max/1200/1*F45mgi9q_3ZCZT-y7u086w.png"
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/what-you-missed-at-devcon",
-          "author": null,
-          "description": "What You Missed At Devcon 🇨🇴",
-          "link": "https://newsletter.banklesshq.com/p/what-you-missed-at-devcon",
-          "publishedOn": "2022-10-18T01:00:03.000Z",
-          "wordCount": 7749,
-          "title": "What You Missed At Devcon 🇨🇴",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ea44943-90e0-4f92-b595-238741a9b767_1920x1080.jpeg"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
-          "author": null,
-          "description": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third",
-          "publishedOn": "2022-10-18T00:00:05.000Z",
-          "wordCount": 1385,
-          "title": "Ethereum Protocol Fellowship: The Third Cohort | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_eee89d27faf03f0be7d1724c13c5d7dc.jpg"
         },
         {
           "id": "https://aptoslabs.medium.com/aptos-autumn-is-here-92a8d904eb49",
@@ -194,16 +204,6 @@
           "wordCount": 1737,
           "title": "Stability AI Announces $101 Million in Funding for Open-Source Artificial Intelligence",
           "imageUrl": "https://mma.prnewswire.com/media/1921903/Stability_AI_Product_DreamStudio.jpg?p=facebook"
-        },
-        {
-          "id": "https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606",
-          "author": null,
-          "description": "Russell Napier: The world will experience a capex boom",
-          "link": "https://themarket.ch/interview/russell-napier-the-world-will-experience-a-capex-boom-ld.7606",
-          "publishedOn": "2022-10-17T19:00:02.000Z",
-          "wordCount": 10378,
-          "title": "Russell Napier: The world will experience a capex boom",
-          "imageUrl": "https://img.themarket.ch/2022/10/12/2e582822-a96c-4a39-ab13-db9ab93472ec.jpeg?width=1200&height=900&fit=bound&quality=75&auto=webp&crop=3101,2326,x0,y775&wmark=themarket"
         }
       ]
     }
