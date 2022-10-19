@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-19T06:19:32.438Z</id>
+    <id>urn:2022-10-19T07:47:59.977Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-19T06:19:32.438Z</updated>
+    <updated>2022-10-19T07:47:59.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://ethereum.org/en/"/>
         <updated>2022-10-19T03:30:05.000Z</updated>
         <summary type="html"><![CDATA[Home | ethereum.org]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[validity rollups on bitcoin]]></title>
+        <id>https://bitcoinrollups.org/</id>
+        <link href="https://bitcoinrollups.org/"/>
+        <updated>2022-10-19T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[validity rollups on bitcoin]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -193,16 +203,6 @@ By Katie Haun and James Rathmell]]></summary>
         <link href="https://news.sky.com/story/majority-of-tory-party-members-want-truss-to-resign-now-and-want-boris-johnson-to-replace-her-12723609"/>
         <updated>2022-10-18T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[Majority of Tory party members want Truss to resign now - and want Boris Johnson to replace her]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite App]]></title>
-        <id>https://www.ethcmd.com/</id>
-        <link href="https://www.ethcmd.com/"/>
-        <updated>2022-10-18T09:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Vite App]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
