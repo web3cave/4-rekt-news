@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://sf.ethglobal.com/",
+          "id": "https://blog.spindl.xyz/p/why-spindle",
           "author": null,
-          "description": "ETHSanFrancisco (Nov 4-6, 2022) - ETHGlobal's biggest in-person hackathon",
-          "link": "https://sf.ethglobal.com/",
-          "publishedOn": "2022-10-19T18:30:03.000Z",
-          "wordCount": 564,
-          "title": "ETHSanFrancisco (Nov 4-6, 2022) - ETHGlobal's biggest in-person hackathon",
-          "imageUrl": "https://sf.ethglobal.com/img/sf-og.jpg?v=3.0.0"
+          "description": "Why Spindl(e)?",
+          "link": "https://blog.spindl.xyz/p/why-spindle",
+          "publishedOn": "2022-10-19T19:00:02.000Z",
+          "wordCount": 3317,
+          "title": "Why Spindl(e)?",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e9cc647-6f27-4a48-a5f8-a17b77274f5b_3989x2510.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7OnxjlA-RKA&feature=youtu.be",
+          "author": null,
+          "description": "The Original Sin",
+          "link": "https://www.youtube.com/watch?v=7OnxjlA-RKA&feature=youtu.be",
+          "publishedOn": "2022-10-19T19:00:02.000Z",
+          "wordCount": null,
+          "title": "The Original Sin",
+          "imageUrl": null
         },
         {
           "id": "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0",
@@ -34,16 +44,6 @@
           "wordCount": 2406,
           "title": "Tornado Cash Is Not Free Speech. It’s a Golem",
           "imageUrl": "https://www.lawfareblog.com/sites/default/files/Yellen.jpg"
-        },
-        {
-          "id": "https://github.com/latticexyz/opcraft",
-          "author": null,
-          "description": "GitHub - latticexyz/opcraft",
-          "link": "https://github.com/latticexyz/opcraft",
-          "publishedOn": "2022-10-19T16:30:02.000Z",
-          "wordCount": 805,
-          "title": "GitHub - latticexyz/opcraft",
-          "imageUrl": "https://opengraph.githubassets.com/0819a789f97fc9291aa4fa141ce64a1999549a79f07afd51189d1b7537cadba0/latticexyz/opcraft"
         },
         {
           "id": "https://bitbanter.com/post/1017/",
@@ -101,7 +101,7 @@
           "description": "IRS Expands Key US Tax Language to Include NFTs",
           "link": "https://www.coindesk.com/business/2022/10/18/irs-expands-key-us-tax-language-to-include-nfts/",
           "publishedOn": "2022-10-19T03:00:04.000Z",
-          "wordCount": 6958,
+          "wordCount": 6976,
           "title": "IRS Expands Key US Tax Language to Include NFTs",
           "imageUrl": "https://www.coindesk.com/resizer/czsf2H17j4mbhu4nJZToRIGVppQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3ZFVDOQ7OZA3FJSV5ZTL7FSHAY.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "EU Commission warns crypto mining may be halted in energy emergency",
           "link": "https://www.theblock.co/post/177966/eu-commission-warns-crypto-mining-may-be-halted-in-energy-emergency?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-18T22:00:04.000Z",
-          "wordCount": 64480,
+          "wordCount": 64430,
           "title": "EU Commission warns crypto mining may be halted in energy emergency",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220928_EU_Generic.jpg"
         },
@@ -151,7 +151,7 @@
           "description": "Andy Likes the Bugs | We Do A Little Clips",
           "link": "https://www.youtube.com/shorts/vIlG0ITApNI",
           "publishedOn": "2022-10-18T22:00:04.000Z",
-          "wordCount": 1678,
+          "wordCount": 1686,
           "title": "Andy Likes the Bugs | We Do A Little Clips",
           "imageUrl": "https://i.ytimg.com/vi/vIlG0ITApNI/hq2.jpg"
         },
@@ -166,14 +166,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://atproto.com/",
+          "id": "https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol",
           "author": null,
           "description": "The AT Protocol",
-          "link": "https://atproto.com/",
+          "link": "https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol",
           "publishedOn": "2022-10-18T21:00:02.000Z",
-          "wordCount": 95,
+          "wordCount": 1277,
           "title": "The AT Protocol",
-          "imageUrl": "https://atproto.com/img/default-social-card.jpg"
+          "imageUrl": "https://blueskyweb.xyz/images/blogposts/the-at-protocol.png"
         },
         {
           "id": "https://ethresear.ch/t/arithmetic-hash-based-alternatives-to-kzg-for-proto-danksharding-eip-4844/13863#if-we-do-kzg-now-can-we-upgrade-to-something-trusted-setup-free-later-14",
