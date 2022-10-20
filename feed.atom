@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T10:31:03.764Z</id>
+    <id>urn:2022-10-20T11:24:26.480Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-20T10:31:03.764Z</updated>
+    <updated>2022-10-20T11:24:26.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync V2, now live on testnet!]]></title>
+        <id>https://v2.zksync.io/</id>
+        <link href="https://v2.zksync.io/"/>
+        <updated>2022-10-20T11:00:03.000Z</updated>
+        <summary type="html"><![CDATA[zkSync V2, now live on testnet!]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fastest NFT Marketplace for Pro Traders]]></title>
         <id>https://blur.io/</id>
@@ -81,16 +91,6 @@
         <link href="https://www.reuters.com/markets/us/former-celsius-exec-joins-jpmorgan-director-crypto-regulatory-policy-2022-10-19/"/>
         <updated>2022-10-19T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Former Celsius exec joins JPMorgan as director of crypto regulatory policy]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nounlets]]></title>
-        <id>https://nounlets.wtf/</id>
-        <link href="https://nounlets.wtf/"/>
-        <updated>2022-10-19T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Nounlets]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
