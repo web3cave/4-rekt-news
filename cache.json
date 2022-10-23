@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
+          "author": null,
+          "description": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
+          "link": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
+          "publishedOn": "2022-10-23T04:30:04.000Z",
+          "wordCount": null,
+          "title": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://multisig.lol/",
+          "author": null,
+          "description": "multisig.lol",
+          "link": "https://multisig.lol/",
+          "publishedOn": "2022-10-23T03:00:03.000Z",
+          "wordCount": 60,
+          "title": "multisig.lol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats",
+          "author": null,
+          "description": "The Better Alternative to Lifetime GATs",
+          "link": "https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats",
+          "publishedOn": "2022-10-23T03:00:02.000Z",
+          "wordCount": 4760,
+          "title": "The Better Alternative to Lifetime GATs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Block is on a Bitcoin mining and wallet hiring spree",
+          "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-10-23T03:00:02.000Z",
+          "wordCount": 62358,
+          "title": "Block is on a Bitcoin mining and wallet hiring spree",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
+          "author": null,
+          "description": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
+          "publishedOn": "2022-10-23T03:00:02.000Z",
+          "wordCount": 1043,
+          "title": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/",
           "author": null,
           "description": "Baby Steps",
@@ -13,36 +63,6 @@
           "publishedOn": "2022-10-23T02:00:06.000Z",
           "wordCount": 2861,
           "title": "Baby Steps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iHW1ho8L7V8&feature=youtu.be",
-          "author": null,
-          "description": "The Dial Up Noise",
-          "link": "https://www.youtube.com/watch?v=iHW1ho8L7V8&feature=youtu.be",
-          "publishedOn": "2022-10-23T01:30:04.000Z",
-          "wordCount": null,
-          "title": "The Dial Up Noise",
-          "imageUrl": null
-        },
-        {
-          "id": "http://irep.ntu.ac.uk/id/eprint/30230/1/7987_Sutton.pdf",
-          "author": null,
-          "description": "[PDF] 7987_Sutton.pdf",
-          "link": "http://irep.ntu.ac.uk/id/eprint/30230/1/7987_Sutton.pdf",
-          "publishedOn": "2022-10-22T23:00:02.000Z",
-          "wordCount": 1420,
-          "title": "[PDF] 7987_Sutton.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/lawmakers-seek-pass-50bn-new-ukraine-aid-next-congress",
-          "author": null,
-          "description": "Lawmakers Seek To Pass $50BN In New Ukraine Aid Before Next Congress | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/lawmakers-seek-pass-50bn-new-ukraine-aid-next-congress",
-          "publishedOn": "2022-10-22T23:00:02.000Z",
-          "wordCount": 925,
-          "title": "Lawmakers Seek To Pass $50BN In New Ukraine Aid Before Next Congress | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -56,10 +76,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://provenant.art/",
+          "id": "http://provenant.art/",
           "author": null,
           "description": "provenant.art",
-          "link": "https://provenant.art/",
+          "link": "http://provenant.art/",
           "publishedOn": "2022-10-22T21:00:03.000Z",
           "wordCount": 1545,
           "title": "provenant.art",
@@ -156,16 +176,6 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/8kYsSXck8Pbk-6tJImJHN.png?height=487&width=974&h=487&w=974&auto=compress"
         },
         {
-          "id": "https://www.parity.io/blog/parity-leadership-update/",
-          "author": null,
-          "description": "Parity Leadership Update",
-          "link": "https://www.parity.io/blog/parity-leadership-update/",
-          "publishedOn": "2022-10-21T23:00:02.000Z",
-          "wordCount": 1116,
-          "title": "Parity Leadership Update",
-          "imageUrl": "https://www.parity.io/images/blog-post.png"
-        },
-        {
           "id": "https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs",
           "author": null,
           "description": "Structuring Blockspace Derivatives",
@@ -184,16 +194,6 @@
           "wordCount": 1987,
           "title": "Rekt - SBF - The Regulator",
           "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2022/10/sbfreg-header.png"
-        },
-        {
-          "id": "https://mirror.xyz/ratedw3b.eth/6Vk0yXM496lKtfuwER6GQmJZ6P1VzEIfSUghr8FKOwk",
-          "author": null,
-          "description": "Goodbye v0, hello v1 💫",
-          "link": "https://mirror.xyz/ratedw3b.eth/6Vk0yXM496lKtfuwER6GQmJZ6P1VzEIfSUghr8FKOwk",
-          "publishedOn": "2022-10-21T13:00:03.000Z",
-          "wordCount": 2487,
-          "title": "Goodbye v0, hello v1 💫",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/5qDzjWEh3djRRQ-uM4Vjg.png?height=1016&width=2032&h=1016&w=2032&auto=compress"
         },
         {
           "id": "https://www.moneyandstate.com/blog/response-to-sbf",
