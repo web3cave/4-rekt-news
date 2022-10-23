@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-23T09:27:50.131Z</id>
+    <id>urn:2022-10-23T10:28:09.259Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-23T09:27:50.131Z</updated>
+    <updated>2022-10-23T10:28:09.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Baby Steps]]></title>
+        <id>https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/</id>
+        <link href="https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"/>
+        <updated>2022-10-23T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Baby Steps]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Web3 Needs Urbit]]></title>
         <id>https://medium.com/chorus-one/why-web3-needs-urbit-dfcaaf75e0a8</id>
@@ -21,6 +31,16 @@
         <link href="https://www.youtube.com/watch?v=wOdfNwD9cEA"/>
         <updated>2022-10-23T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[Rowan Atkinson demonstrating how funny "Bob" can be]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blackadder - Rowan Atkinson's pronunciation of "Bob"]]></title>
+        <id>https://www.youtube.com/watch?v=G1QywDPkDjg</id>
+        <link href="https://www.youtube.com/watch?v=G1QywDPkDjg"/>
+        <updated>2022-10-23T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Blackadder - Rowan Atkinson's pronunciation of "Bob"]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,26 +191,6 @@
         <link href="https://www.youtube.com/watch?v=TFaG3EpFM8A&amp;feature=youtu.be"/>
         <updated>2022-10-22T13:30:05.000Z</updated>
         <summary type="html"><![CDATA[Former Chinese leader Hu unexpectedly leaves Congress closing ceremony | AFP]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A New Social Network with Web3]]></title>
-        <id>https://mirror.xyz/4rc.eth/2wnexqj6T6HTXUwvRnlGPqFaEMcUcO8N-YbJqUr-l9I</id>
-        <link href="https://mirror.xyz/4rc.eth/2wnexqj6T6HTXUwvRnlGPqFaEMcUcO8N-YbJqUr-l9I"/>
-        <updated>2022-10-22T03:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Building A New Social Network with Web3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekt - SBF - The Regulator]]></title>
-        <id>https://rekt.news/sbf-regulator/</id>
-        <link href="https://rekt.news/sbf-regulator/"/>
-        <updated>2022-10-21T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Rekt - SBF - The Regulator]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
