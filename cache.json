@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://medium.com/chorus-one/why-web3-needs-urbit-dfcaaf75e0a8",
+          "author": null,
+          "description": "Why Web3 Needs Urbit",
+          "link": "https://medium.com/chorus-one/why-web3-needs-urbit-dfcaaf75e0a8",
+          "publishedOn": "2022-10-23T09:00:02.000Z",
+          "wordCount": 9152,
+          "title": "Why Web3 Needs Urbit",
+          "imageUrl": "https://miro.medium.com/max/1200/1*k-BV7fprPa_sUfLhQ3COog.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wOdfNwD9cEA",
+          "author": null,
+          "description": "Rowan Atkinson demonstrating how funny \"Bob\" can be",
+          "link": "https://www.youtube.com/watch?v=wOdfNwD9cEA",
+          "publishedOn": "2022-10-23T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Rowan Atkinson demonstrating how funny \"Bob\" can be",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Block is on a Bitcoin mining and wallet hiring spree",
           "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-23T07:30:04.000Z",
-          "wordCount": 62666,
+          "wordCount": 63176,
           "title": "Block is on a Bitcoin mining and wallet hiring spree",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
         },
@@ -31,7 +51,7 @@
           "description": "foundry/mod.rs at master · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/mod.rs#L154-L177",
           "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 2631,
+          "wordCount": 2612,
           "title": "foundry/mod.rs at master · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
         },
@@ -51,7 +71,7 @@
           "description": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/inspector/cheatcodes/env.rs#L52-L71",
           "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 1542,
+          "wordCount": 1543,
           "title": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
           "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
         },
@@ -66,16 +86,6 @@
           "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
         },
         {
-          "id": "https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats",
-          "author": null,
-          "description": "The Better Alternative to Lifetime GATs",
-          "link": "https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats",
-          "publishedOn": "2022-10-23T03:00:02.000Z",
-          "wordCount": 4760,
-          "title": "The Better Alternative to Lifetime GATs",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
           "author": null,
           "description": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
@@ -83,16 +93,6 @@
           "publishedOn": "2022-10-23T03:00:02.000Z",
           "wordCount": 1043,
           "title": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/",
-          "author": null,
-          "description": "Baby Steps",
-          "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/",
-          "publishedOn": "2022-10-23T02:00:06.000Z",
-          "wordCount": 2861,
-          "title": "Baby Steps",
           "imageUrl": null
         },
         {
@@ -121,7 +121,7 @@
           "description": "HOW PROTOCOL DAOs SHOULD WORK FROM A CRYPTOLAW(-ISH) PERSPECTIVE",
           "link": "https://lexnode.substack.com/p/how-protocol-daos-should-work-from?utm_source=twitter&utm_campaign=auto_share",
           "publishedOn": "2022-10-22T19:00:02.000Z",
-          "wordCount": 3931,
+          "wordCount": 4173,
           "title": "HOW PROTOCOL DAOs SHOULD WORK FROM A CRYPTOLAW(-ISH) PERSPECTIVE",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89b3f1c8-6f14-463d-bebb-3d32b5bb385f_503x468.png"
         },
