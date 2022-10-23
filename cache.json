@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.ca/general/2022/08/04/zkevm.html",
+          "author": null,
+          "description": "The different types of ZK-EVMs",
+          "link": "https://vitalik.ca/general/2022/08/04/zkevm.html",
+          "publishedOn": "2022-10-23T23:00:02.000Z",
+          "wordCount": 2426,
+          "title": "The different types of ZK-EVMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zips.z.cash/protocol/protocol.pdf",
+          "author": null,
+          "description": "[PDF] protocol.pdf",
+          "link": "https://zips.z.cash/protocol/protocol.pdf",
+          "publishedOn": "2022-10-23T23:00:02.000Z",
+          "wordCount": 63570,
+          "title": "[PDF] protocol.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/how-bernanke-broke-world",
+          "author": null,
+          "description": "How Bernanke Broke The World | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/how-bernanke-broke-world",
+          "publishedOn": "2022-10-23T23:00:02.000Z",
+          "wordCount": 2966,
+          "title": "How Bernanke Broke The World | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/trump-vows-take-back-our-magnificent-white-house-2024",
+          "author": null,
+          "description": "Trump Vows To 'Take Back Our Magnificent White House' In 2024 | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/trump-vows-take-back-our-magnificent-white-house-2024",
+          "publishedOn": "2022-10-23T23:00:02.000Z",
+          "wordCount": 517,
+          "title": "Trump Vows To 'Take Back Our Magnificent White House' In 2024 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12738?campaign=wolearlyview",
           "author": null,
           "description": "Money Can't Buy You Love: Partisan Responses to Vote‐Buying Offers - Greene - American Journal of Political Science -...",
@@ -46,26 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/watch-elite-us-airborne-division-practicing-war-near-ukraine-border",
-          "author": null,
-          "description": "Watch: Elite US Airborne Division \"Practicing For War\" Near Ukraine Border | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/watch-elite-us-airborne-division-practicing-war-near-ukraine-border",
-          "publishedOn": "2022-10-23T21:00:03.000Z",
-          "wordCount": 1288,
-          "title": "Watch: Elite US Airborne Division \"Practicing For War\" Near Ukraine Border | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/california-wildfires-cancel-out-two-decades-emissions-reductions",
-          "author": null,
-          "description": "California Wildfires Cancel-Out Two Decades Of Emissions Reductions | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/california-wildfires-cancel-out-two-decades-emissions-reductions",
-          "publishedOn": "2022-10-23T21:00:03.000Z",
-          "wordCount": 1807,
-          "title": "California Wildfires Cancel-Out Two Decades Of Emissions Reductions | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://conversationswithtyler.com/episodes/sam-bankman-fried/",
           "author": null,
           "description": "Sam Bankman-Fried on Arbitrage and Altruism (Ep. 145)",
@@ -74,16 +94,6 @@
           "wordCount": 10259,
           "title": "Sam Bankman-Fried on Arbitrage and Altruism (Ep. 145)",
           "imageUrl": "https://conversationswithtyler.com/wp-content/uploads/2022/02/CWT-149-SBF-hero-v1.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/china-congress-ends-xi-stacks-inner-circle-loyalists-unprecedented-3rd-term-equity",
-          "author": null,
-          "description": "China Congress Ends As \"Dictator For LIfe\" Xi Stacks Inner Circle With Loyalists; Equity Market Implications | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/china-congress-ends-xi-stacks-inner-circle-loyalists-unprecedented-3rd-term-equity",
-          "publishedOn": "2022-10-23T19:30:05.000Z",
-          "wordCount": 6215,
-          "title": "China Congress Ends As \"Dictator For LIfe\" Xi Stacks Inner Circle With Loyalists; Equity Market Implications | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/rotki/rotki/pull/4986",
@@ -114,16 +124,6 @@
           "wordCount": null,
           "title": "The Chopping Block: 'Code Is Law' Is 'Obviously Not How Anything Works Ever' - Ep. 411",
           "imageUrl": null
-        },
-        {
-          "id": "https://thewire.in/media/the-wire-retracts-meta-stories",
-          "author": null,
-          "description": "The Wire Retracts Its Meta Stories",
-          "link": "https://thewire.in/media/the-wire-retracts-meta-stories",
-          "publishedOn": "2022-10-23T17:30:05.000Z",
-          "wordCount": 929,
-          "title": "The Wire Retracts Its Meta Stories",
-          "imageUrl": "https://cdn.thewire.in/wp-content/uploads/2022/10/17091458/Untitled-design-2-2-800x400.jpg"
         },
         {
           "id": "https://blog.lopp.net/empty-bitcoin-blocks-full-mempool/",
@@ -181,7 +181,7 @@
           "description": "Block is on a Bitcoin mining and wallet hiring spree",
           "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-23T07:30:04.000Z",
-          "wordCount": 63265,
+          "wordCount": 63247,
           "title": "Block is on a Bitcoin mining and wallet hiring spree",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
         },
