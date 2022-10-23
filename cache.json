@@ -6,24 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
+          "id": "http://canto.io/",
           "author": null,
-          "description": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
-          "link": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
-          "publishedOn": "2022-10-23T04:30:04.000Z",
+          "description": "Canto",
+          "link": "http://canto.io/",
+          "publishedOn": "2022-10-23T05:30:04.000Z",
           "wordCount": null,
-          "title": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
+          "title": "Canto",
           "imageUrl": null
         },
         {
-          "id": "https://multisig.lol/",
+          "id": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/mod.rs#L154-L177",
           "author": null,
-          "description": "multisig.lol",
-          "link": "https://multisig.lol/",
-          "publishedOn": "2022-10-23T03:00:03.000Z",
-          "wordCount": 60,
-          "title": "multisig.lol",
-          "imageUrl": null
+          "description": "foundry/mod.rs at master · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/mod.rs#L154-L177",
+          "publishedOn": "2022-10-23T05:00:02.000Z",
+          "wordCount": 2630,
+          "title": "foundry/mod.rs at master · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/aa06656380f424be46bded501d2acfa2a497b169229cb9361dfc8a48af34c443/foundry-rs/foundry"
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/env.rs#L179",
+          "author": null,
+          "description": "foundry/env.rs at master · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/env.rs#L179",
+          "publishedOn": "2022-10-23T05:00:02.000Z",
+          "wordCount": 1546,
+          "title": "foundry/env.rs at master · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/aa06656380f424be46bded501d2acfa2a497b169229cb9361dfc8a48af34c443/foundry-rs/foundry"
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/inspector/cheatcodes/env.rs#L52-L71",
+          "author": null,
+          "description": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/inspector/cheatcodes/env.rs#L52-L71",
+          "publishedOn": "2022-10-23T05:00:02.000Z",
+          "wordCount": 1543,
+          "title": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/aa06656380f424be46bded501d2acfa2a497b169229cb9361dfc8a48af34c443/foundry-rs/foundry"
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/abi/mod.rs#L15",
+          "author": null,
+          "description": "foundry/mod.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
+          "link": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/abi/mod.rs#L15",
+          "publishedOn": "2022-10-23T05:00:02.000Z",
+          "wordCount": 3561,
+          "title": "foundry/mod.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
+          "imageUrl": "https://opengraph.githubassets.com/aa06656380f424be46bded501d2acfa2a497b169229cb9361dfc8a48af34c443/foundry-rs/foundry"
         },
         {
           "id": "https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats",
@@ -33,26 +63,6 @@
           "publishedOn": "2022-10-23T03:00:02.000Z",
           "wordCount": 4760,
           "title": "The Better Alternative to Lifetime GATs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Block is on a Bitcoin mining and wallet hiring spree",
-          "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-10-23T03:00:02.000Z",
-          "wordCount": 62358,
-          "title": "Block is on a Bitcoin mining and wallet hiring spree",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
-          "author": null,
-          "description": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
-          "publishedOn": "2022-10-23T03:00:02.000Z",
-          "wordCount": 1043,
-          "title": "China's CPC Congress Passes Resolution To Boost Armed Forces, Speed Up 'Taiwan Reunification' | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -76,24 +86,14 @@
           "imageUrl": null
         },
         {
-          "id": "http://provenant.art/",
+          "id": "https://provenant.art/",
           "author": null,
           "description": "provenant.art",
-          "link": "http://provenant.art/",
+          "link": "https://provenant.art/",
           "publishedOn": "2022-10-22T21:00:03.000Z",
           "wordCount": 1545,
           "title": "provenant.art",
           "imageUrl": null
-        },
-        {
-          "id": "https://rkg.blog/play.php",
-          "author": null,
-          "description": "Play for the Front of the Jersey | RKG",
-          "link": "https://rkg.blog/play.php",
-          "publishedOn": "2022-10-22T20:30:04.000Z",
-          "wordCount": 997,
-          "title": "Play for the Front of the Jersey | RKG",
-          "imageUrl": "http://rkg.blog/images/RKG-website-cover.jpg"
         },
         {
           "id": "https://lexnode.substack.com/p/how-protocol-daos-should-work-from?utm_source=twitter&utm_campaign=auto_share",
