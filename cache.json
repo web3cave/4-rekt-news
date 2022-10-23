@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/",
+          "id": "https://ftx.us/derivs/",
           "author": null,
-          "description": "Baby Steps",
-          "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/",
-          "publishedOn": "2022-10-23T10:00:05.000Z",
-          "wordCount": 2861,
-          "title": "Baby Steps",
+          "description": "FTX US Derivatives",
+          "link": "https://ftx.us/derivs/",
+          "publishedOn": "2022-10-23T11:00:02.000Z",
+          "wordCount": 763,
+          "title": "FTX US Derivatives",
           "imageUrl": null
+        },
+        {
+          "id": "https://mirror.xyz/kirstenbevin.eth/OqsO0Ha42dQiFkO77plTweWSLHISjixqsshcqRTKoAk",
+          "author": null,
+          "description": "The labyrinth",
+          "link": "https://mirror.xyz/kirstenbevin.eth/OqsO0Ha42dQiFkO77plTweWSLHISjixqsshcqRTKoAk",
+          "publishedOn": "2022-10-23T11:00:02.000Z",
+          "wordCount": 2678,
+          "title": "The labyrinth",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/B2MUiT6If2rdbPRFTjBsa.png?height=964&width=1928&h=964&w=1928&auto=compress"
+        },
+        {
+          "id": "https://github.com/protolambda/eth2-das",
+          "author": null,
+          "description": "GitHub - protolambda/eth2-das: DEPRECATED - Eth2 data availability sampling - Testground plan",
+          "link": "https://github.com/protolambda/eth2-das",
+          "publishedOn": "2022-10-23T10:30:05.000Z",
+          "wordCount": 829,
+          "title": "GitHub - protolambda/eth2-das: DEPRECATED - Eth2 data availability sampling - Testground plan",
+          "imageUrl": "https://opengraph.githubassets.com/fd1ae8009b0553471ffd09796f1590247b15a672c78481e4f9d269c714ea5e07/protolambda/eth2-das"
         },
         {
           "id": "https://medium.com/chorus-one/why-web3-needs-urbit-dfcaaf75e0a8",
@@ -46,64 +66,44 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/Sol-DAO/solbase/blob/main/src/utils/Permit.sol",
+          "author": null,
+          "description": "solbase/Permit.sol at main · Sol-DAO/solbase",
+          "link": "https://github.com/Sol-DAO/solbase/blob/main/src/utils/Permit.sol",
+          "publishedOn": "2022-10-23T09:00:02.000Z",
+          "wordCount": 719,
+          "title": "solbase/Permit.sol at main · Sol-DAO/solbase",
+          "imageUrl": "https://opengraph.githubassets.com/ee7b68438b540cd51b6f9d3afa4ce75b775aeb80498426e45c2008c668656a2d/Sol-DAO/solbase"
+        },
+        {
           "id": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Block is on a Bitcoin mining and wallet hiring spree",
           "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-23T07:30:04.000Z",
-          "wordCount": 63252,
+          "wordCount": 63155,
           "title": "Block is on a Bitcoin mining and wallet hiring spree",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
         },
         {
-          "id": "http://canto.io/",
+          "id": "https://www.zerohedge.com/technology/visualizing-20-years-top-trending-google-searches",
           "author": null,
-          "description": "Canto",
-          "link": "http://canto.io/",
-          "publishedOn": "2022-10-23T05:30:04.000Z",
-          "wordCount": null,
-          "title": "Canto",
+          "description": "Visualizing 20 Years Of Top Trending Google Searches | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/visualizing-20-years-top-trending-google-searches",
+          "publishedOn": "2022-10-23T05:00:02.000Z",
+          "wordCount": 1546,
+          "title": "Visualizing 20 Years Of Top Trending Google Searches | ZeroHedge",
           "imageUrl": null
         },
         {
-          "id": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/mod.rs#L154-L177",
+          "id": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
           "author": null,
-          "description": "foundry/mod.rs at master · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/mod.rs#L154-L177",
-          "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 2631,
-          "title": "foundry/mod.rs at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/env.rs#L179",
-          "author": null,
-          "description": "foundry/env.rs at master · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/blob/master/evm/src/executor/inspector/cheatcodes/env.rs#L179",
-          "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 1546,
-          "title": "foundry/env.rs at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/inspector/cheatcodes/env.rs#L52-L71",
-          "author": null,
-          "description": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/inspector/cheatcodes/env.rs#L52-L71",
-          "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 1542,
-          "title": "foundry/env.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/abi/mod.rs#L15",
-          "author": null,
-          "description": "foundry/mod.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
-          "link": "https://github.com/foundry-rs/foundry/blob/267fcd523c0c8bb0613a818c87b41cc62c61dd22/evm/src/executor/abi/mod.rs#L15",
-          "publishedOn": "2022-10-23T05:00:02.000Z",
-          "wordCount": 3561,
-          "title": "foundry/mod.rs at 267fcd523c0c8bb0613a818c87b41cc62c61dd22 · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/c65484b2b38624fca349e9a54797b52c5a4870f92a19f62b39f33bc97f7acb3a/foundry-rs/foundry"
+          "description": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
+          "link": "https://www.youtube.com/watch?v=XJYmyYzuTa8&feature=youtu.be",
+          "publishedOn": "2022-10-23T04:30:04.000Z",
+          "wordCount": null,
+          "title": "The Same Thing We Do Every Night... - A Pinky and The Brain Compilation",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/chinas-cpc-congress-passes-resolution-boost-armed-forces-speed-taiwan-reunification",
@@ -134,6 +134,16 @@
           "wordCount": 1545,
           "title": "provenant.art",
           "imageUrl": null
+        },
+        {
+          "id": "https://rkg.blog/play.php",
+          "author": null,
+          "description": "Play for the Front of the Jersey | RKG",
+          "link": "https://rkg.blog/play.php",
+          "publishedOn": "2022-10-22T20:30:04.000Z",
+          "wordCount": 997,
+          "title": "Play for the Front of the Jersey | RKG",
+          "imageUrl": "http://rkg.blog/images/RKG-website-cover.jpg"
         },
         {
           "id": "https://lexnode.substack.com/p/how-protocol-daos-should-work-from?utm_source=twitter&utm_campaign=auto_share",
@@ -184,16 +194,6 @@
           "wordCount": 2701,
           "title": "Web3 Developer Report (Q3 2022)",
           "imageUrl": "https://assets.website-files.com/6086f3afee58e6a9bb6c8053/63473e5f31587d06c9081cbb_dev-report.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TFaG3EpFM8A&feature=youtu.be",
-          "author": null,
-          "description": "Former Chinese leader Hu unexpectedly leaves Congress closing ceremony | AFP",
-          "link": "https://www.youtube.com/watch?v=TFaG3EpFM8A&feature=youtu.be",
-          "publishedOn": "2022-10-22T13:30:05.000Z",
-          "wordCount": null,
-          "title": "Former Chinese leader Hu unexpectedly leaves Congress closing ceremony | AFP",
-          "imageUrl": null
         },
         {
           "id": "https://www.moneyandstate.com/blog/response-to-sbf",
