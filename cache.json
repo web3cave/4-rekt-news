@@ -6,6 +6,86 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.simondlr.com/posts/hrog-3-the-process-amp-learnings-of-writing-my-debut-novel",
+          "author": null,
+          "description": "HROG #3: The Process & Learnings of Writing My Debut Novel. — simondlr.com",
+          "link": "https://blog.simondlr.com/posts/hrog-3-the-process-amp-learnings-of-writing-my-debut-novel",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 15279,
+          "title": "HROG #3: The Process & Learnings of Writing My Debut Novel. — simondlr.com",
+          "imageUrl": "http://static1.squarespace.com/static/5e1421011232b71c373a8668/5e3fa37d4b6b8940ee976e5e/5fcdea16920f47545bb6f60c/1607337245456/Screenshot+2020-09-10+at+12.08.39.png?format=1500w"
+        },
+        {
+          "id": "https://blog.simondlr.com/posts/hope-runners-of-gridlock",
+          "author": null,
+          "description": "Hope Runners of Gridlock — simondlr.com",
+          "link": "https://blog.simondlr.com/posts/hope-runners-of-gridlock",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 8937,
+          "title": "Hope Runners of Gridlock — simondlr.com",
+          "imageUrl": "http://static1.squarespace.com/static/5e1421011232b71c373a8668/5e3fa37d4b6b8940ee976e5e/5f4a556def0ed71a095219fe/1636578113045/final.jpg?format=1500w"
+        },
+        {
+          "id": "https://taibbi.substack.com/p/who-blew-up-the-nord-stream-pipelines?r=5mz1&utm_campaign=post&utm_medium=web",
+          "author": null,
+          "description": "Who Blew Up the Nord Stream Pipelines? \"Russia, Russia, Russia!\"",
+          "link": "https://taibbi.substack.com/p/who-blew-up-the-nord-stream-pipelines?r=5mz1&utm_campaign=post&utm_medium=web",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 1588,
+          "title": "Who Blew Up the Nord Stream Pipelines? \"Russia, Russia, Russia!\"",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/NSZyKYitC3M"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/frankly-terrifying-energy-crisis-could-drag-26m-brits-fuel-poverty",
+          "author": null,
+          "description": "\"Frankly Terrifying\": Energy Crisis Could Drag 26M Brits Into Fuel Poverty | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/frankly-terrifying-energy-crisis-could-drag-26m-brits-fuel-poverty",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 1332,
+          "title": "\"Frankly Terrifying\": Energy Crisis Could Drag 26M Brits Into Fuel Poverty | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/elon-musk-predicts-us-recession-until-spring-2024",
+          "author": null,
+          "description": "Elon Musk Predicts U.S. In Recession Until \"Spring Of 2024\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/elon-musk-predicts-us-recession-until-spring-2024",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 906,
+          "title": "Elon Musk Predicts U.S. In Recession Until \"Spring Of 2024\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/iran-conducting-massive-military-drills-azerbaijan-border",
+          "author": null,
+          "description": "Iran Is Conducting \"Massive\" Military Drills On The Azerbaijan Border | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/iran-conducting-massive-military-drills-azerbaijan-border",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 2522,
+          "title": "Iran Is Conducting \"Massive\" Military Drills On The Azerbaijan Border | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/economics/global-inflation-outlook",
+          "author": null,
+          "description": "The Global Inflation Outlook | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/global-inflation-outlook",
+          "publishedOn": "2022-10-23T15:00:03.000Z",
+          "wordCount": 758,
+          "title": "The Global Inflation Outlook | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://slowroads.io/",
+          "author": null,
+          "description": "s l o w  r o a d s",
+          "link": "https://slowroads.io/",
+          "publishedOn": "2022-10-23T15:00:02.000Z",
+          "wordCount": 68,
+          "title": "s l o w  r o a d s",
+          "imageUrl": "./img.jpg"
+        },
+        {
           "id": "https://www.oxygen.org/",
           "author": null,
           "description": "Oxygen",
@@ -26,16 +106,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://ftx.us/derivs/",
-          "author": null,
-          "description": "FTX US Derivatives",
-          "link": "https://ftx.us/derivs/",
-          "publishedOn": "2022-10-23T11:00:02.000Z",
-          "wordCount": 763,
-          "title": "FTX US Derivatives",
-          "imageUrl": null
-        },
-        {
           "id": "https://mirror.xyz/kirstenbevin.eth/OqsO0Ha42dQiFkO77plTweWSLHISjixqsshcqRTKoAk",
           "author": null,
           "description": "The labyrinth",
@@ -44,56 +114,6 @@
           "wordCount": 2678,
           "title": "The labyrinth",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/B2MUiT6If2rdbPRFTjBsa.png?height=964&width=1928&h=964&w=1928&auto=compress"
-        },
-        {
-          "id": "https://github.com/protolambda/eth2-das",
-          "author": null,
-          "description": "GitHub - protolambda/eth2-das: DEPRECATED - Eth2 data availability sampling - Testground plan",
-          "link": "https://github.com/protolambda/eth2-das",
-          "publishedOn": "2022-10-23T10:30:05.000Z",
-          "wordCount": 829,
-          "title": "GitHub - protolambda/eth2-das: DEPRECATED - Eth2 data availability sampling - Testground plan",
-          "imageUrl": "https://opengraph.githubassets.com/fd1ae8009b0553471ffd09796f1590247b15a672c78481e4f9d269c714ea5e07/protolambda/eth2-das"
-        },
-        {
-          "id": "https://notes.ethereum.org/@vbuterin/r1v8VCULP",
-          "author": null,
-          "description": "Data availability sampling in practice - HackMD",
-          "link": "https://notes.ethereum.org/@vbuterin/r1v8VCULP",
-          "publishedOn": "2022-10-23T10:30:05.000Z",
-          "wordCount": 1195,
-          "title": "Data availability sampling in practice - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
-        },
-        {
-          "id": "https://github.com/protolambda/discv5-catdog",
-          "author": null,
-          "description": "GitHub - protolambda/discv5-catdog: Discv5 version bridge hack",
-          "link": "https://github.com/protolambda/discv5-catdog",
-          "publishedOn": "2022-10-23T10:30:05.000Z",
-          "wordCount": 883,
-          "title": "GitHub - protolambda/discv5-catdog: Discv5 version bridge hack",
-          "imageUrl": "https://opengraph.githubassets.com/d4d7b468bc150dc803ab0196dc6f263bfb8e6c0338583b96d35e53391cf343de/protolambda/discv5-catdog"
-        },
-        {
-          "id": "https://github.com/ethereum/consensus-specs/pull/2172",
-          "author": null,
-          "description": "DAS network/validator extension by protolambda · Pull Request #2172 · ethereum/consensus-specs",
-          "link": "https://github.com/ethereum/consensus-specs/pull/2172",
-          "publishedOn": "2022-10-23T10:30:05.000Z",
-          "wordCount": 4042,
-          "title": "DAS network/validator extension by protolambda · Pull Request #2172 · ethereum/consensus-specs",
-          "imageUrl": "https://opengraph.githubassets.com/44d1851d42c0a11e360aa039b15c87c7872de1ecf81b50d35d695b7f3f1b1269/ethereum/consensus-specs/pull/2172"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/459#issuecomment-1029529089",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting 131 Agenda · Issue #459 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/459#issuecomment-1029529089",
-          "publishedOn": "2022-10-23T10:30:04.000Z",
-          "wordCount": 3337,
-          "title": "Ethereum Core Devs Meeting 131 Agenda · Issue #459 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/5f43c686323b260d74356464388c87c67db67041fa1b3b4adc06e295824762ca/ethereum/pm/issues/459"
         },
         {
           "id": "https://medium.com/chorus-one/why-web3-needs-urbit-dfcaaf75e0a8",
@@ -111,7 +131,7 @@
           "description": "Block is on a Bitcoin mining and wallet hiring spree",
           "link": "https://www.theblock.co/post/179211/block-is-on-a-bitcoin-mining-and-wallet-hiring-spree?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-23T07:30:04.000Z",
-          "wordCount": 63221,
+          "wordCount": 62936,
           "title": "Block is on a Bitcoin mining and wallet hiring spree",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/07/20210723_jack_Dorsey.jpg"
         },
@@ -164,26 +184,6 @@
           "wordCount": 4173,
           "title": "HOW PROTOCOL DAOs SHOULD WORK FROM A CRYPTOLAW(-ISH) PERSPECTIVE",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89b3f1c8-6f14-463d-bebb-3d32b5bb385f_503x468.png"
-        },
-        {
-          "id": "https://blog.lopp.net/could-spv-support-a-billion-bitcoin-users-sizing-up-a-scaling-claim/",
-          "author": null,
-          "description": "Could SPV Support a Billion Bitcoin Users? Sizing up a Scaling Claim",
-          "link": "https://blog.lopp.net/could-spv-support-a-billion-bitcoin-users-sizing-up-a-scaling-claim/",
-          "publishedOn": "2022-10-22T17:00:03.000Z",
-          "wordCount": 4431,
-          "title": "Could SPV Support a Billion Bitcoin Users? Sizing up a Scaling Claim",
-          "imageUrl": "https://blog.lopp.net/content/images/2020/04/SPV-vs-Full-Chain-Struggle-5-710x458.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qMK3MrNxX6w",
-          "author": null,
-          "description": "#002 Yannick Verdyck",
-          "link": "https://www.youtube.com/watch?v=qMK3MrNxX6w",
-          "publishedOn": "2022-10-22T17:00:03.000Z",
-          "wordCount": null,
-          "title": "#002 Yannick Verdyck",
-          "imageUrl": null
         },
         {
           "id": "https://unchainedpodcast.com/the-chopping-block-code-is-law-is-obviously-not-how-anything-works-ever-ep-411/",
