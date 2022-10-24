@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/who-controls-bitcoin-core-/",
+          "author": null,
+          "description": "Who Controls Bitcoin Core?",
+          "link": "https://blog.lopp.net/who-controls-bitcoin-core-/",
+          "publishedOn": "2022-10-24T09:30:04.000Z",
+          "wordCount": 3887,
+          "title": "Who Controls Bitcoin Core?",
+          "imageUrl": "https://blog.lopp.net/content/images/downloaded_images/Who-Controls-Bitcoin-Core-/1-sAd4NmyP7LIdipEoRlw5pg.png"
+        },
+        {
+          "id": "https://www.land.com/United-States/all-land/over-4480-acres/type-4095/",
+          "author": null,
+          "description": "Land for Sale, Farms for Sale in United States over 4480 Acres  - Land.com",
+          "link": "https://www.land.com/United-States/all-land/over-4480-acres/type-4095/",
+          "publishedOn": "2022-10-24T09:00:04.000Z",
+          "wordCount": 8511,
+          "title": "Land for Sale, Farms for Sale in United States over 4480 Acres  - Land.com",
+          "imageUrl": null
+        },
+        {
           "id": "https://rettig.substack.com/p/three-things-40-october-23-2022?utm_source=twitter&sd=pf",
           "author": null,
           "description": "Three Things #40: October 23, 2022",
@@ -46,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/political/germany-could-witness-cash-renaissance-its-economy-continues-deteriorate",
+          "author": null,
+          "description": "Germany Could Witness A Cash Renaissance As Its Economy Continues To Deteriorate | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/germany-could-witness-cash-renaissance-its-economy-continues-deteriorate",
+          "publishedOn": "2022-10-24T07:00:02.000Z",
+          "wordCount": 1717,
+          "title": "Germany Could Witness A Cash Renaissance As Its Economy Continues To Deteriorate | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coingecko.com/en/coins/freeway",
           "author": null,
           "description": "Freeway Price in USD: FWT Live Price Chart & News | CoinGecko",
@@ -54,36 +84,6 @@
           "wordCount": 2712,
           "title": "Freeway Price in USD: FWT Live Price Chart & News | CoinGecko",
           "imageUrl": "https://assets.coingecko.com/coins/images/13012/large/S5h7MHR.png?1652862323"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RbvpMsdaQqw",
-          "author": null,
-          "description": "Bitcoin 2021: The History Of Money | Nick Szabo",
-          "link": "https://www.youtube.com/watch?v=RbvpMsdaQqw",
-          "publishedOn": "2022-10-24T05:00:02.000Z",
-          "wordCount": null,
-          "title": "Bitcoin 2021: The History Of Money | Nick Szabo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/when-can-you-expect-el-nino-and-la-nina",
-          "author": null,
-          "description": "When Can You Expect El Niño And La Niña? | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/when-can-you-expect-el-nino-and-la-nina",
-          "publishedOn": "2022-10-24T05:00:02.000Z",
-          "wordCount": 695,
-          "title": "When Can You Expect El Niño And La Niña? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/road-mediocrity",
-          "author": null,
-          "description": "The Road To Mediocrity | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/road-mediocrity",
-          "publishedOn": "2022-10-24T04:00:05.000Z",
-          "wordCount": 1404,
-          "title": "The Road To Mediocrity | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "http://www.international-economy.com/TIE_Su22_Disparte.pdf",
@@ -101,7 +101,7 @@
           "description": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "link": "https://github.com/ethereumpow/go-ethereum",
           "publishedOn": "2022-10-24T01:00:03.000Z",
-          "wordCount": 3056,
+          "wordCount": 3671,
           "title": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "imageUrl": "https://opengraph.githubassets.com/f6eeec06df9a0935eb35be23dc2e3fd1c844962e486f0360c3996609af50bbdc/ethereumpow/go-ethereum"
         },
