@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bitcoinpoliticians.org/",
+          "author": null,
+          "description": "Bitcoin Holding Politicians",
+          "link": "https://bitcoinpoliticians.org/",
+          "publishedOn": "2022-10-24T11:00:06.000Z",
+          "wordCount": 4282,
+          "title": "Bitcoin Holding Politicians",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stablecoins.wtf/",
+          "author": null,
+          "description": "stablecoins.wtf – Crypto Stablecoin Dashboard & Resources",
+          "link": "https://stablecoins.wtf/",
+          "publishedOn": "2022-10-24T11:00:06.000Z",
+          "wordCount": 2559,
+          "title": "stablecoins.wtf – Crypto Stablecoin Dashboard & Resources",
+          "imageUrl": "https://stablecoins.wtf/og/cover.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/new-data-shows-immigrants-are-driving-down-wages-german-workers",
+          "author": null,
+          "description": "New Data Shows Immigrants Are Driving Down Wages For German Workers | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/new-data-shows-immigrants-are-driving-down-wages-german-workers",
+          "publishedOn": "2022-10-24T11:00:06.000Z",
+          "wordCount": 926,
+          "title": "New Data Shows Immigrants Are Driving Down Wages For German Workers | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/why-european-central-banks-will-suffer-steep-losses",
+          "author": null,
+          "description": "Why European Central Banks Will Suffer Steep Losses | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/why-european-central-banks-will-suffer-steep-losses",
+          "publishedOn": "2022-10-24T11:00:06.000Z",
+          "wordCount": 7478,
+          "title": "Why European Central Banks Will Suffer Steep Losses | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.lopp.net/who-controls-bitcoin-core-/",
           "author": null,
           "description": "Who Controls Bitcoin Core?",
@@ -46,46 +86,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8f99182-7c8d-4872-a4e2-1836a6e2dec8_512x512.jpeg"
         },
         {
-          "id": "https://ifstudies.org/blog/marriages-between-democrats-and-republicans-are-extremely-rare",
-          "author": null,
-          "description": "Marriages Between Democrats and Republicans Are Extremely Rare",
-          "link": "https://ifstudies.org/blog/marriages-between-democrats-and-republicans-are-extremely-rare",
-          "publishedOn": "2022-10-24T07:00:02.000Z",
-          "wordCount": 1462,
-          "title": "Marriages Between Democrats and Republicans Are Extremely Rare",
-          "imageUrl": "https://ifstudies.org/ifs-admin/resources/blog/wedding-1-w1700.jpeg"
-        },
-        {
-          "id": "https://github.com/showtime-xyz/showtime-frontend",
-          "author": null,
-          "description": "GitHub - showtime-xyz/showtime-frontend: Showtime is a web3 social network ✨",
-          "link": "https://github.com/showtime-xyz/showtime-frontend",
-          "publishedOn": "2022-10-24T07:00:02.000Z",
-          "wordCount": 630,
-          "title": "GitHub - showtime-xyz/showtime-frontend: Showtime is a web3 social network ✨",
-          "imageUrl": "https://opengraph.githubassets.com/1b87a3b703d19f462d66641caec78be64d3548cb14eddd175a6336e22716b93d/showtime-xyz/showtime-frontend"
-        },
-        {
-          "id": "https://showtime.xyz/",
-          "author": null,
-          "description": "Showtime",
-          "link": "https://showtime.xyz/",
-          "publishedOn": "2022-10-24T07:00:02.000Z",
-          "wordCount": 295,
-          "title": "Showtime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/germany-could-witness-cash-renaissance-its-economy-continues-deteriorate",
-          "author": null,
-          "description": "Germany Could Witness A Cash Renaissance As Its Economy Continues To Deteriorate | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/germany-could-witness-cash-renaissance-its-economy-continues-deteriorate",
-          "publishedOn": "2022-10-24T07:00:02.000Z",
-          "wordCount": 1717,
-          "title": "Germany Could Witness A Cash Renaissance As Its Economy Continues To Deteriorate | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "http://www.international-economy.com/TIE_Su22_Disparte.pdf",
           "author": null,
           "description": "[PDF] TIE_Su22_Disparte.pdf",
@@ -101,7 +101,7 @@
           "description": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "link": "https://github.com/ethereumpow/go-ethereum",
           "publishedOn": "2022-10-24T01:00:03.000Z",
-          "wordCount": 3056,
+          "wordCount": 3671,
           "title": "GitHub - ethereumpow/go-ethereum: Go implementation of the Ethereum protocol POW Fork",
           "imageUrl": "https://opengraph.githubassets.com/f6eeec06df9a0935eb35be23dc2e3fd1c844962e486f0360c3996609af50bbdc/ethereumpow/go-ethereum"
         },
