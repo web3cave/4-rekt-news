@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://developer.apple.com/app-store/review/guidelines/#business",
+          "author": null,
+          "description": "App Store Review Guidelines - Apple Developer",
+          "link": "https://developer.apple.com/app-store/review/guidelines/#business",
+          "publishedOn": "2022-10-25T10:00:05.000Z",
+          "wordCount": 14542,
+          "title": "App Store Review Guidelines - Apple Developer",
+          "imageUrl": "https://developer.apple.com/news/images/og/asc-og.png"
+        },
+        {
           "id": "https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f",
           "author": null,
           "description": "The Crypto Winter of 2022",
@@ -14,16 +24,6 @@
           "wordCount": 10652,
           "title": "The Crypto Winter of 2022",
           "imageUrl": "https://miro.medium.com/max/801/1*lLgfmc5FgC1Y9gbneH7XTg.png"
-        },
-        {
-          "id": "https://www.coindesk.com/web3/2022/10/19/reddit-users-open-25-million-crypto-wallets-after-launch-of-nft-marketplace/",
-          "author": null,
-          "description": "Reddit Users Open 2.5 Million Crypto Wallets After Launch of NFT Marketplace",
-          "link": "https://www.coindesk.com/web3/2022/10/19/reddit-users-open-25-million-crypto-wallets-after-launch-of-nft-marketplace/",
-          "publishedOn": "2022-10-25T08:00:05.000Z",
-          "wordCount": 5900,
-          "title": "Reddit Users Open 2.5 Million Crypto Wallets After Launch of NFT Marketplace",
-          "imageUrl": "https://www.coindesk.com/resizer/ZNqCB0on1RY58FDBC9BZdD2kG34=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XGYSXEZWGVCALMO43G3M2GVTFM.jpg"
         },
         {
           "id": "https://lexnode.substack.com/p/how-protocol-daos-should-work-from?utm_source=twitter&utm_campaign=auto_share",
@@ -151,7 +151,7 @@
           "description": "RFC: ship block chain 1-74000 with release tarballs?",
           "link": "https://bitcointalk.org/index.php?topic=1931.msg24438#msg24438",
           "publishedOn": "2022-10-24T19:00:02.000Z",
-          "wordCount": 8602,
+          "wordCount": 8581,
           "title": "RFC: ship block chain 1-74000 with release tarballs?",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "CFTC and SEC chairs may disagree over whether ether is a security",
           "link": "https://www.theblock.co/post/179423/cftc-and-sec-chairs-may-disagree-over-whether-ether-is-a-security",
           "publishedOn": "2022-10-24T17:30:06.000Z",
-          "wordCount": 65547,
+          "wordCount": 65512,
           "title": "CFTC and SEC chairs may disagree over whether ether is a security",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221003_RostinBenham.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Avatar Market Simplified | RedditFloor.com",
           "link": "https://www.redditfloor.com/",
           "publishedOn": "2022-10-24T09:00:03.000Z",
-          "wordCount": 5794,
+          "wordCount": 5757,
           "title": "Avatar Market Simplified | RedditFloor.com",
           "imageUrl": "https://redditfloor.com/api/og"
         }
