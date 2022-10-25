@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/10/23/technology/voter-targeting-trump-score.html",
+          "author": null,
+          "description": "Why Am I Seeing That Political Ad? Check Your ‘Trump Resistance’ Score.",
+          "link": "https://www.nytimes.com/2022/10/23/technology/voter-targeting-trump-score.html",
+          "publishedOn": "2022-10-25T19:30:05.000Z",
+          "wordCount": null,
+          "title": "Why Am I Seeing That Political Ad? Check Your ‘Trump Resistance’ Score.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jacobin.com/2022/10/crypto-leftist-case-scam-ethereum-vitalik-buterin-book-review",
+          "author": null,
+          "description": "There Is No Leftist Case for Crypto",
+          "link": "https://jacobin.com/2022/10/crypto-leftist-case-scam-ethereum-vitalik-buterin-book-review",
+          "publishedOn": "2022-10-25T19:00:03.000Z",
+          "wordCount": 3521,
+          "title": "There Is No Leftist Case for Crypto",
+          "imageUrl": "https://images.jacobinmag.com/wp-content/uploads/2022/10/21180908/GettyImages-1243061629-1.jpg"
+        },
+        {
           "id": "https://wrongalot.substack.com/p/marketing-in-the-bera-and-beyond",
           "author": null,
           "description": "Marketing In The Bera And Beyond",
@@ -51,7 +71,7 @@
           "description": "BitMex CEO Alexander Höptner steps down with immediate effect",
           "link": "https://www.theblock.co/post/179580/bitmex-ceo-alexander-hoptner-steps-down-with-immediate-effect",
           "publishedOn": "2022-10-25T17:00:03.000Z",
-          "wordCount": 63881,
+          "wordCount": 63884,
           "title": "BitMex CEO Alexander Höptner steps down with immediate effect",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/10/20211221_bitmex_Generic.jpg"
         },
@@ -71,9 +91,9 @@
           "description": "Shutterstock will start selling AI-generated stock imagery with help from OpenAI",
           "link": "https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement",
           "publishedOn": "2022-10-25T17:00:03.000Z",
-          "wordCount": 8385,
+          "wordCount": 8231,
           "title": "Shutterstock will start selling AI-generated stock imagery with help from OpenAI",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Uz7Y8NTSCDo4iGk72bmJqrWZofg=/0x0:1250x1120/1200x628/filters:focal(625x560:626x561)/cdn.vox-cdn.com/uploads/chorus_asset/file/24138512/synthetic_art_cover_2.jpg"
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/5SpTNEEIwABWaj-0Z3hQzVPlBLs=/0x0:1200x630/1200x628/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/24138479/sstklogo_og.jpg"
         },
         {
           "id": "https://bitbanter.com/post/1016/",
@@ -104,16 +124,6 @@
           "wordCount": 24083,
           "title": "validity rollups on bitcoin",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bumble-tech/private-detector",
-          "author": null,
-          "description": "GitHub - bumble-tech/private-detector: Bumble's Private Detector - a pretrained model for detecting lewd images",
-          "link": "https://github.com/bumble-tech/private-detector",
-          "publishedOn": "2022-10-25T14:00:06.000Z",
-          "wordCount": 1173,
-          "title": "GitHub - bumble-tech/private-detector: Bumble's Private Detector - a pretrained model for detecting lewd images",
-          "imageUrl": "https://opengraph.githubassets.com/33b6272b3214a4a3e0220cf59b8c1b36c06d1c3a854593af455dadc564345436/bumble-tech/private-detector"
         },
         {
           "id": "https://www.youtube.com/watch?v=kibXhFxiCqY&feature=youtu.be",
@@ -194,16 +204,6 @@
           "wordCount": 1001,
           "title": "App Store Review Guideline updates now available - Latest News - Apple Developer",
           "imageUrl": "https://developer.apple.com/news/images/og/asc-og.png"
-        },
-        {
-          "id": "https://bitcointalk.org/index.php?topic=1931.msg24438#msg24438",
-          "author": null,
-          "description": "RFC: ship block chain 1-74000 with release tarballs?",
-          "link": "https://bitcointalk.org/index.php?topic=1931.msg24438#msg24438",
-          "publishedOn": "2022-10-24T19:00:02.000Z",
-          "wordCount": 8556,
-          "title": "RFC: ship block chain 1-74000 with release tarballs?",
-          "imageUrl": null
         }
       ]
     }
