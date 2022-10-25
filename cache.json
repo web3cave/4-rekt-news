@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/2210.10101",
+          "author": null,
+          "description": "Optimisation & Generalisation in Networks of Neurons",
+          "link": "https://arxiv.org/abs/2210.10101",
+          "publishedOn": "2022-10-25T02:30:03.000Z",
+          "wordCount": 672,
+          "title": "Optimisation & Generalisation in Networks of Neurons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
+          "author": null,
+          "description": "SBF vs. Voorhees",
+          "link": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
+          "publishedOn": "2022-10-25T01:00:05.000Z",
+          "wordCount": null,
+          "title": "SBF vs. Voorhees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34",
+          "author": null,
+          "description": "A political backlash against monetary policy is looming",
+          "link": "https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34",
+          "publishedOn": "2022-10-25T00:00:05.000Z",
+          "wordCount": 1536,
+          "title": "A political backlash against monetary policy is looming",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/web3/2022/10/19/reddit-users-open-25-million-crypto-wallets-after-launch-of-nft-marketplace/",
           "author": null,
           "description": "Reddit Users Open 2.5 Million Crypto Wallets After Launch of NFT Marketplace",
           "link": "https://www.coindesk.com/web3/2022/10/19/reddit-users-open-25-million-crypto-wallets-after-launch-of-nft-marketplace/",
           "publishedOn": "2022-10-24T23:30:06.000Z",
-          "wordCount": 5896,
+          "wordCount": 5914,
           "title": "Reddit Users Open 2.5 Million Crypto Wallets After Launch of NFT Marketplace",
           "imageUrl": "https://www.coindesk.com/resizer/ZNqCB0on1RY58FDBC9BZdD2kG34=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XGYSXEZWGVCALMO43G3M2GVTFM.jpg"
         },
@@ -23,26 +53,6 @@
           "publishedOn": "2022-10-24T23:00:02.000Z",
           "wordCount": 2221,
           "title": "Crown Prince Mocks Biden As Mentally Challenged Amid Crashing US-Saudi Relations | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/us-gasoline-prices-go-haywire-stockpiles-crater-here-comes-chinese-gasoline-rescue",
-          "author": null,
-          "description": "US Gasoline Prices Go Haywire As Stockpiles Crater... But Here Comes China To The Rescue | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/us-gasoline-prices-go-haywire-stockpiles-crater-here-comes-chinese-gasoline-rescue",
-          "publishedOn": "2022-10-24T23:00:02.000Z",
-          "wordCount": 1058,
-          "title": "US Gasoline Prices Go Haywire As Stockpiles Crater... But Here Comes China To The Rescue | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/amazon-shares-dump-after-reported-hiring-freeze-aws-division",
-          "author": null,
-          "description": "Amazon Shares Dump After Reported Hiring Freeze In AWS Division | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/amazon-shares-dump-after-reported-hiring-freeze-aws-division",
-          "publishedOn": "2022-10-24T23:00:02.000Z",
-          "wordCount": 680,
-          "title": "Amazon Shares Dump After Reported Hiring Freeze In AWS Division | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -74,16 +84,6 @@
           "wordCount": 5765,
           "title": "Russia-related Designations; Issuance of Russia-related General License and Frequently Asked Questions;...",
           "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
-        },
-        {
-          "id": "https://levvvel.com/games-with-kernel-level-anti-cheat-software/",
-          "author": null,
-          "description": "Every game with kernel–level anti–cheat software (2022)",
-          "link": "https://levvvel.com/games-with-kernel-level-anti-cheat-software/",
-          "publishedOn": "2022-10-24T23:00:02.000Z",
-          "wordCount": 5085,
-          "title": "Every game with kernel–level anti–cheat software (2022)",
-          "imageUrl": "https://levvvel.com/wp-content/uploads/kernel-level-anti-cheat-eye.jpg"
         },
         {
           "id": "https://github.com/prysmaticlabs/prysm/issues/11571",
@@ -121,7 +121,7 @@
           "description": "RFC: ship block chain 1-74000 with release tarballs?",
           "link": "https://bitcointalk.org/index.php?topic=1931.msg24438#msg24438",
           "publishedOn": "2022-10-24T19:00:02.000Z",
-          "wordCount": 8621,
+          "wordCount": 8598,
           "title": "RFC: ship block chain 1-74000 with release tarballs?",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "CFTC and SEC chairs may disagree over whether ether is a security",
           "link": "https://www.theblock.co/post/179423/cftc-and-sec-chairs-may-disagree-over-whether-ether-is-a-security",
           "publishedOn": "2022-10-24T17:30:06.000Z",
-          "wordCount": 63362,
+          "wordCount": 65459,
           "title": "CFTC and SEC chairs may disagree over whether ether is a security",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221003_RostinBenham.jpg"
         },
@@ -156,14 +156,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://thehill.com/policy/finance/487692-fed-cuts-interest-rates-to-0-percent-announces-700b-in-bond-purchases/",
+          "id": "https://www.youtube.com/watch?v=Y9Sxftbh_A4&feature=youtu.be",
           "author": null,
-          "description": "Fed cuts interest rates to zero percent amid coronavirus fallout",
-          "link": "https://thehill.com/policy/finance/487692-fed-cuts-interest-rates-to-0-percent-announces-700b-in-bond-purchases/",
-          "publishedOn": "2022-10-24T13:30:04.000Z",
-          "wordCount": 4349,
-          "title": "Fed cuts interest rates to zero percent amid coronavirus fallout",
-          "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2020/03/coronavirus_newyork_031320getty_models_2.jpg?w=1280"
+          "description": "ATOM ONE vs. ATOM 2.0 Discussion | Cosmos ATOM with Jae Kwon, Zaki Manian & Osmosis' Sunny Aggarwal",
+          "link": "https://www.youtube.com/watch?v=Y9Sxftbh_A4&feature=youtu.be",
+          "publishedOn": "2022-10-24T11:30:04.000Z",
+          "wordCount": null,
+          "title": "ATOM ONE vs. ATOM 2.0 Discussion | Cosmos ATOM with Jae Kwon, Zaki Manian & Osmosis' Sunny Aggarwal",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/markets/bitcoins-rapidly-changing-correlation-regime-suggests-investors-are-starting-view-it-safe",
@@ -176,14 +176,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.lopp.net/who-controls-bitcoin-core-/",
+          "id": "https://wrongalot.substack.com/p/marketing-in-the-bera-and-beyond",
           "author": null,
-          "description": "Who Controls Bitcoin Core?",
-          "link": "https://blog.lopp.net/who-controls-bitcoin-core-/",
-          "publishedOn": "2022-10-24T09:30:04.000Z",
-          "wordCount": 3887,
-          "title": "Who Controls Bitcoin Core?",
-          "imageUrl": "https://blog.lopp.net/content/images/downloaded_images/Who-Controls-Bitcoin-Core-/1-sAd4NmyP7LIdipEoRlw5pg.png"
+          "description": "Marketing In The Bera And Beyond",
+          "link": "https://wrongalot.substack.com/p/marketing-in-the-bera-and-beyond",
+          "publishedOn": "2022-10-24T10:00:04.000Z",
+          "wordCount": 4689,
+          "title": "Marketing In The Bera And Beyond",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39dced35-c55e-47aa-9595-88223a75b9a4_1600x801.jpeg"
         },
         {
           "id": "https://www.redditfloor.com/",
@@ -191,7 +191,7 @@
           "description": "Avatar Market Simplified | RedditFloor.com",
           "link": "https://www.redditfloor.com/",
           "publishedOn": "2022-10-24T09:00:03.000Z",
-          "wordCount": 5429,
+          "wordCount": 5792,
           "title": "Avatar Market Simplified | RedditFloor.com",
           "imageUrl": "https://redditfloor.com/api/og"
         },
@@ -201,7 +201,7 @@
           "description": "Three Things #40: October 23, 2022",
           "link": "https://rettig.substack.com/p/three-things-40-october-23-2022?utm_source=twitter&sd=pf",
           "publishedOn": "2022-10-24T08:00:04.000Z",
-          "wordCount": 4369,
+          "wordCount": 4368,
           "title": "Three Things #40: October 23, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8f99182-7c8d-4872-a4e2-1836a6e2dec8_512x512.jpeg"
         }
