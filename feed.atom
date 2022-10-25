@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T11:24:08.137Z</id>
+    <id>urn:2022-10-25T12:58:23.587Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-25T11:24:08.137Z</updated>
+    <updated>2022-10-25T12:58:23.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Governance Portal]]></title>
+        <id>https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown</id>
+        <link href="https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown"/>
+        <updated>2022-10-25T12:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Governance Portal]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[App Store Review Guidelines - Apple Developer]]></title>
         <id>https://developer.apple.com/app-store/review/guidelines/#business</id>
@@ -66,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A political backlash against monetary policy is looming]]></title>
-        <id>https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34</id>
-        <link href="https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34"/>
-        <updated>2022-10-25T00:00:05.000Z</updated>
-        <summary type="html"><![CDATA[A political backlash against monetary policy is looming]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gearbox]]></title>
         <id>https://gearbox.finance/</id>
         <link href="https://gearbox.finance/"/>
@@ -116,11 +116,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NEAR Foundation to fund USN Protection Programme]]></title>
+        <id>https://near.org/blog/near-launches-usn-protection-programme-aurora/</id>
+        <link href="https://near.org/blog/near-launches-usn-protection-programme-aurora/"/>
+        <updated>2022-10-24T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[NEAR Foundation to fund USN Protection Programme]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russia-related Designations; Issuance of Russia-related General License and Frequently Asked Questions;...]]></title>
         <id>https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220915</id>
         <link href="https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220915"/>
         <updated>2022-10-24T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[Russia-related Designations; Issuance of Russia-related General License and Frequently Asked Questions;...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tracking]: Light client server support · Issue #11571 · prysmaticlabs/prysm]]></title>
+        <id>https://github.com/prysmaticlabs/prysm/issues/11571</id>
+        <link href="https://github.com/prysmaticlabs/prysm/issues/11571"/>
+        <updated>2022-10-24T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[[Tracking]: Light client server support · Issue #11571 · prysmaticlabs/prysm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -156,31 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Governance Portal]]></title>
-        <id>https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown</id>
-        <link href="https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown"/>
-        <updated>2022-10-24T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Governance Portal]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CFTC and SEC chairs may disagree over whether ether is a security]]></title>
         <id>https://www.theblock.co/post/179423/cftc-and-sec-chairs-may-disagree-over-whether-ether-is-a-security</id>
         <link href="https://www.theblock.co/post/179423/cftc-and-sec-chairs-may-disagree-over-whether-ether-is-a-security"/>
         <updated>2022-10-24T17:30:06.000Z</updated>
         <summary type="html"><![CDATA[CFTC and SEC chairs may disagree over whether ether is a security]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Futures Stabilize After Rollercoaster Session As Yuan, Chinese Stocks Crater | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/us-futures-stabilize-after-rollercoaster-session-yuan-chinese-stocks-crater</id>
-        <link href="https://www.zerohedge.com/markets/us-futures-stabilize-after-rollercoaster-session-yuan-chinese-stocks-crater"/>
-        <updated>2022-10-24T14:00:05.000Z</updated>
-        <summary type="html"><![CDATA[US Futures Stabilize After Rollercoaster Session As Yuan, Chinese Stocks Crater | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

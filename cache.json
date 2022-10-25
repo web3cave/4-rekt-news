@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown",
+          "author": null,
+          "description": "Governance Portal",
+          "link": "https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown",
+          "publishedOn": "2022-10-25T12:30:03.000Z",
+          "wordCount": 3516,
+          "title": "Governance Portal",
+          "imageUrl": null
+        },
+        {
           "id": "https://developer.apple.com/app-store/review/guidelines/#business",
           "author": null,
           "description": "App Store Review Guidelines - Apple Developer",
@@ -66,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34",
-          "author": null,
-          "description": "A political backlash against monetary policy is looming",
-          "link": "https://www.ft.com/content/6f70bbcd-72b7-4518-be6b-401adba7cc34",
-          "publishedOn": "2022-10-25T00:00:05.000Z",
-          "wordCount": 1593,
-          "title": "A political backlash against monetary policy is looming",
-          "imageUrl": null
-        },
-        {
           "id": "https://gearbox.finance/",
           "author": null,
           "description": "Gearbox",
@@ -116,6 +116,16 @@
           "imageUrl": "https://opengraph.githubassets.com/049bab9db7d042ce6771992d3d246d9077cf42eb28231d694ade85335ad83c5d/celestiaorg/rollmint"
         },
         {
+          "id": "https://near.org/blog/near-launches-usn-protection-programme-aurora/",
+          "author": null,
+          "description": "NEAR Foundation to fund USN Protection Programme",
+          "link": "https://near.org/blog/near-launches-usn-protection-programme-aurora/",
+          "publishedOn": "2022-10-24T23:00:02.000Z",
+          "wordCount": 1094,
+          "title": "NEAR Foundation to fund USN Protection Programme",
+          "imageUrl": "https://near.org/wp-content/uploads/2022/10/near-gen1-blog.png"
+        },
+        {
           "id": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220915",
           "author": null,
           "description": "Russia-related Designations; Issuance of Russia-related General License and Frequently Asked Questions;...",
@@ -124,6 +134,16 @@
           "wordCount": 5765,
           "title": "Russia-related Designations; Issuance of Russia-related General License and Frequently Asked Questions;...",
           "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+        },
+        {
+          "id": "https://github.com/prysmaticlabs/prysm/issues/11571",
+          "author": null,
+          "description": "[Tracking]: Light client server support · Issue #11571 · prysmaticlabs/prysm",
+          "link": "https://github.com/prysmaticlabs/prysm/issues/11571",
+          "publishedOn": "2022-10-24T23:00:02.000Z",
+          "wordCount": 519,
+          "title": "[Tracking]: Light client server support · Issue #11571 · prysmaticlabs/prysm",
+          "imageUrl": "https://opengraph.githubassets.com/1934d60b5067caaf86987cbee7e7bd5c0ac9030750f0e09b0b3c529eba748b8c/prysmaticlabs/prysm/issues/11571"
         },
         {
           "id": "https://blog.curio.gg/phase-1/",
@@ -151,18 +171,8 @@
           "description": "RFC: ship block chain 1-74000 with release tarballs?",
           "link": "https://bitcointalk.org/index.php?topic=1931.msg24438#msg24438",
           "publishedOn": "2022-10-24T19:00:02.000Z",
-          "wordCount": 8600,
+          "wordCount": 8624,
           "title": "RFC: ship block chain 1-74000 with release tarballs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown",
-          "author": null,
-          "description": "Governance Portal",
-          "link": "https://vote.makerdao.com/polling/QmTmS5Nf#vote-breakdown",
-          "publishedOn": "2022-10-24T18:00:04.000Z",
-          "wordCount": 3516,
-          "title": "Governance Portal",
           "imageUrl": null
         },
         {
@@ -171,19 +181,9 @@
           "description": "CFTC and SEC chairs may disagree over whether ether is a security",
           "link": "https://www.theblock.co/post/179423/cftc-and-sec-chairs-may-disagree-over-whether-ether-is-a-security",
           "publishedOn": "2022-10-24T17:30:06.000Z",
-          "wordCount": 66087,
+          "wordCount": 64777,
           "title": "CFTC and SEC chairs may disagree over whether ether is a security",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221003_RostinBenham.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/us-futures-stabilize-after-rollercoaster-session-yuan-chinese-stocks-crater",
-          "author": null,
-          "description": "US Futures Stabilize After Rollercoaster Session As Yuan, Chinese Stocks Crater | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/us-futures-stabilize-after-rollercoaster-session-yuan-chinese-stocks-crater",
-          "publishedOn": "2022-10-24T14:00:05.000Z",
-          "wordCount": 10965,
-          "title": "US Futures Stabilize After Rollercoaster Session As Yuan, Chinese Stocks Crater | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://wrongalot.substack.com/p/marketing-in-the-bera-and-beyond",
@@ -201,7 +201,7 @@
           "description": "Avatar Market Simplified | RedditFloor.com",
           "link": "https://www.redditfloor.com/",
           "publishedOn": "2022-10-24T09:00:03.000Z",
-          "wordCount": 5774,
+          "wordCount": 5802,
           "title": "Avatar Market Simplified | RedditFloor.com",
           "imageUrl": "https://redditfloor.com/api/og"
         }
