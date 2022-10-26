@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-26T02:14:40.681Z</id>
+    <id>urn:2022-10-26T04:13:30.382Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-26T02:14:40.681Z</updated>
+    <updated>2022-10-26T04:13:30.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What to know about Zero Knowledge]]></title>
+        <id>https://archive.devcon.org/archive/watch/6/what-to-know-about-zero-knowledge/</id>
+        <link href="https://archive.devcon.org/archive/watch/6/what-to-know-about-zero-knowledge/"/>
+        <updated>2022-10-26T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[What to know about Zero Knowledge]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Transactions in EVM-Compatible Blockchains Powered by Opensource]]></title>
         <id>https://www.youtube.com/watch?v=rD3Vr8pThcc</id>
@@ -181,16 +191,6 @@
         <link href="https://andrecronje.medium.com/the-crypto-winter-of-2022-3d26c283042f"/>
         <updated>2022-10-25T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[The Crypto Winter of 2022]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Foundation to fund USN Protection Programme]]></title>
-        <id>https://near.org/blog/near-launches-usn-protection-programme-aurora/</id>
-        <link href="https://near.org/blog/near-launches-usn-protection-programme-aurora/"/>
-        <updated>2022-10-24T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[NEAR Foundation to fund USN Protection Programme]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
