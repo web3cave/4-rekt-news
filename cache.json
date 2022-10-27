@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/layer2/2022/10/27/halloween-costumes-for-broke-crypto-traders/",
+          "author": null,
+          "description": "Halloween Costumes for Broke Crypto Traders",
+          "link": "https://www.coindesk.com/layer2/2022/10/27/halloween-costumes-for-broke-crypto-traders/",
+          "publishedOn": "2022-10-27T21:00:03.000Z",
+          "wordCount": 7110,
+          "title": "Halloween Costumes for Broke Crypto Traders",
+          "imageUrl": "https://www.coindesk.com/resizer/AIwq1eM6fuXCnIclEJcxbIPsDHo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OCPBCEROHBGVROJYHTJDFYPBPE.jpg"
+        },
+        {
+          "id": "https://medium.com/@Jito-Foundation/jito-solana-is-now-open-source-e1028c53fae1",
+          "author": null,
+          "description": "Jito-Solana Is Now Open Source",
+          "link": "https://medium.com/@Jito-Foundation/jito-solana-is-now-open-source-e1028c53fae1",
+          "publishedOn": "2022-10-27T21:00:03.000Z",
+          "wordCount": 2991,
+          "title": "Jito-Solana Is Now Open Source",
+          "imageUrl": "https://miro.medium.com/max/601/1*dJQl9OzqYSbpquT8OpQSog.png"
+        },
+        {
+          "id": "https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710/23",
+          "author": null,
+          "description": "EIP-4758: Deactivate selfdestruct",
+          "link": "https://ethereum-magicians.org/t/eip-4758-deactivate-selfdestruct/8710/23",
+          "publishedOn": "2022-10-27T21:00:02.000Z",
+          "wordCount": 1923,
+          "title": "EIP-4758: Deactivate selfdestruct",
+          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2022/10/27/crypto-predictions-site-polymarket-foresees-republicans-winning-both-senate-and-house/",
           "author": null,
           "description": "Crypto Predictions Site Polymarket Foresees Republicans Winning Both Senate and House",
           "link": "https://www.coindesk.com/policy/2022/10/27/crypto-predictions-site-polymarket-foresees-republicans-winning-both-senate-and-house/",
           "publishedOn": "2022-10-27T20:00:07.000Z",
-          "wordCount": 6869,
+          "wordCount": 6938,
           "title": "Crypto Predictions Site Polymarket Foresees Republicans Winning Both Senate and House",
           "imageUrl": "https://www.coindesk.com/resizer/_hAnDj2mZR6xT3DPJSYDqrmf0Bg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NGW2SZ2ABRAZXA66QMHC2RKHBU.jpg"
         },
@@ -21,19 +51,19 @@
           "description": "Japanese Media Giant GREE to Build Web3 Games and Run Nodes on Avalanche",
           "link": "https://medium.com/avalancheavax/japanese-media-giant-gree-to-build-web3-games-and-run-nodes-on-avalanche-7a5cee4ce10b",
           "publishedOn": "2022-10-27T19:30:05.000Z",
-          "wordCount": 2458,
+          "wordCount": 2385,
           "title": "Japanese Media Giant GREE to Build Web3 Games and Run Nodes on Avalanche",
           "imageUrl": "https://miro.medium.com/max/1200/1*9FtppRs6Y9UXbx8Oxo3-SA.png"
         },
         {
-          "id": "https://uniswap.org/blog/uniswap-v3-oracles",
+          "id": "https://angeris.github.io/papers/pro-rata-games.pdf",
           "author": null,
-          "description": "Uniswap v3 TWAP Oracles in Proof of Stake",
-          "link": "https://uniswap.org/blog/uniswap-v3-oracles",
+          "description": "[PDF] pro-rata-games.pdf",
+          "link": "https://angeris.github.io/papers/pro-rata-games.pdf",
           "publishedOn": "2022-10-27T19:30:05.000Z",
-          "wordCount": 9249,
-          "title": "Uniswap v3 TWAP Oracles in Proof of Stake",
-          "imageUrl": "https://uniswap.org/images/posts/uniswap-v3-oracles/banner.jpg"
+          "wordCount": 17128,
+          "title": "[PDF] pro-rata-games.pdf",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/180458/google-cloud-announces-blockchain-node-service-starting-with-ethereum?utm_source=twitter&utm_medium=social",
@@ -41,9 +71,19 @@
           "description": "Google Cloud announces blockchain node service starting with Ethereum",
           "link": "https://www.theblock.co/post/180458/google-cloud-announces-blockchain-node-service-starting-with-ethereum?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-27T19:00:02.000Z",
-          "wordCount": 62694,
+          "wordCount": 62904,
           "title": "Google Cloud announces blockchain node service starting with Ethereum",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_Generic_ETH2.jpg"
+        },
+        {
+          "id": "https://metamask.io/news/latest/building-an-extensible-world-with-meta-mask-grants-dao/",
+          "author": null,
+          "description": "Building an extensible world with MetaMask Grants DAO",
+          "link": "https://metamask.io/news/latest/building-an-extensible-world-with-meta-mask-grants-dao/",
+          "publishedOn": "2022-10-27T19:00:02.000Z",
+          "wordCount": 2935,
+          "title": "Building an extensible world with MetaMask Grants DAO",
+          "imageUrl": "https://images.ctfassets.net/9sy2a0egs6zh/6zKflIRBiP1zKQCGecVCfB/5b22e5e1d7e68620510d990b71cdb862/MMG_Press_Release_Option_3.png"
         },
         {
           "id": "https://lightyears.fellowship.xyz/",
@@ -66,26 +106,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*EdWCrQWJ2HjZ6ASBQ80Irw.jpeg"
         },
         {
-          "id": "https://nypost.com/2022/10/26/facebook-parent-meta-platforms-q3-profit-cut-in-half/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
-          "author": null,
-          "description": "Meta’s profits plunge more than 50% as ad revenue dwindles",
-          "link": "https://nypost.com/2022/10/26/facebook-parent-meta-platforms-q3-profit-cut-in-half/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
-          "publishedOn": "2022-10-27T16:30:03.000Z",
-          "wordCount": 9795,
-          "title": "Meta’s profits plunge more than 50% as ad revenue dwindles",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/10/Mark-Zuckerberg-earnings.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://bank.dev/rico",
-          "author": null,
-          "description": "Rico Reflex Bond System",
-          "link": "https://bank.dev/rico",
-          "publishedOn": "2022-10-27T16:30:03.000Z",
-          "wordCount": 2058,
-          "title": "Rico Reflex Bond System",
-          "imageUrl": null
-        },
-        {
           "id": "https://cloud.google.com/blog/products/infrastructure-modernization/introducing-blockchain-node-engine",
           "author": null,
           "description": "Introducing Blockchain Node Engine | Google Cloud Blog",
@@ -104,6 +124,16 @@
           "wordCount": 1189,
           "title": "LooksRare Offers Zero Royalty Trading, Shares Protocol Fees With Creators Instead | LooksRare Docs",
           "imageUrl": "https://docs.looksrare.org/assets/images/blog-f8d8e672b8fb891bc3f9912646159320.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=57ab-ZQaVzE&feature=youtu.be",
+          "author": null,
+          "description": "Why Metaverse Is The Biggest Opportunity For Content Creators - ZenChats w/ SuperMassive",
+          "link": "https://www.youtube.com/watch?v=57ab-ZQaVzE&feature=youtu.be",
+          "publishedOn": "2022-10-27T07:00:03.000Z",
+          "wordCount": null,
+          "title": "Why Metaverse Is The Biggest Opportunity For Content Creators - ZenChats w/ SuperMassive",
+          "imageUrl": null
         },
         {
           "id": "https://gritdaily.com/pr-crisis-paypal/",
@@ -126,24 +156,14 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/eEUZNshzdLerUdTFJxcF3.jpeg?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://decrypt.co/112929/equifax-oasis-labs-web3-kyc-defi-nfts?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+          "id": "https://github.com/ethereum/pm/issues/624",
           "author": null,
-          "description": "Equifax Wants to Help KYC DeFi and NFT Users—And Keep Their Data Private - Decrypt",
-          "link": "https://decrypt.co/112929/equifax-oasis-labs-web3-kyc-defi-nfts?utm_source=twitter&utm_medium=social&utm_campaign=auto",
-          "publishedOn": "2022-10-27T03:00:02.000Z",
-          "wordCount": 5752,
-          "title": "Equifax Wants to Help KYC DeFi and NFT Users—And Keep Their Data Private - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/equifax-building-5-1-gID_4.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/180126/metas-metaverse-losses-top-9-4-billion-for-the-year?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Meta’s metaverse losses top $9.4 billion for the year",
-          "link": "https://www.theblock.co/post/180126/metas-metaverse-losses-top-9-4-billion-for-the-year?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-10-27T01:00:04.000Z",
-          "wordCount": 64041,
-          "title": "Meta’s metaverse losses top $9.4 billion for the year",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/Screen-Shot-2022-10-26-at-4.02.06-PM.png"
+          "description": "Ethereum Core Devs Meeting 148 Agenda · Issue #624 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/624",
+          "publishedOn": "2022-10-27T01:30:04.000Z",
+          "wordCount": 2355,
+          "title": "Ethereum Core Devs Meeting 148 Agenda · Issue #624 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/d8b8773adb42fe12a04fad541d9401afa92cb6cc259bd0bdb258b5d535507fe5/ethereum/pm/issues/624"
         },
         {
           "id": "https://arcx.substack.com/p/the-next-phase-of-arcx",
@@ -151,7 +171,7 @@
           "description": "The Next Phase of ARCx",
           "link": "https://arcx.substack.com/p/the-next-phase-of-arcx",
           "publishedOn": "2022-10-27T01:00:04.000Z",
-          "wordCount": 2142,
+          "wordCount": 2141,
           "title": "The Next Phase of ARCx",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3a55febb-9e0f-42e2-9a64-dae5e0f24f4f_1280x720.png"
         },
@@ -164,16 +184,6 @@
           "wordCount": 4583,
           "title": "Crypto Privacy Is Humanitarian",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85baceee-2fc1-4100-aaef-6b71ee25a385_2667x1500.jpeg"
-        },
-        {
-          "id": "https://www.coindesk.com/web3/2022/10/26/norway-steps-into-metaverse-with-decentraland-tax-office/",
-          "author": null,
-          "description": "Norway Steps Into the Metaverse With Decentraland Tax Office",
-          "link": "https://www.coindesk.com/web3/2022/10/26/norway-steps-into-metaverse-with-decentraland-tax-office/",
-          "publishedOn": "2022-10-27T01:00:04.000Z",
-          "wordCount": 6045,
-          "title": "Norway Steps Into the Metaverse With Decentraland Tax Office",
-          "imageUrl": "https://www.coindesk.com/resizer/dkweEbzvgbblqf6c8Uj46GPLaPo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KF6H4F3QEVAIRE5KUIU3YZKC7A.jpg"
         },
         {
           "id": "https://www.nftboxes.io/",
@@ -191,19 +201,9 @@
           "description": "The end of the system of the world",
           "link": "https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world",
           "publishedOn": "2022-10-26T18:00:04.000Z",
-          "wordCount": 9402,
+          "wordCount": 9396,
           "title": "The end of the system of the world",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec8ce96-8814-4d0e-81f2-f9b334a89b67_1024x678.jpeg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z-O45lIoi04",
-          "author": null,
-          "description": "Eric Wall and Udi Wertheimer on Why Bitcoin Maximalism Is 'Like a Shitcoin Community' - Ep. 412",
-          "link": "https://www.youtube.com/watch?v=z-O45lIoi04",
-          "publishedOn": "2022-10-25T20:00:05.000Z",
-          "wordCount": null,
-          "title": "Eric Wall and Udi Wertheimer on Why Bitcoin Maximalism Is 'Like a Shitcoin Community' - Ep. 412",
-          "imageUrl": null
         }
       ]
     }
