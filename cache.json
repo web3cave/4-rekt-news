@@ -6,26 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.nytimes.com/interactive/2022/10/24/magazine/bono-interview.html",
-          "author": null,
-          "description": "Bono Is Still Trying to Figure Out U2 and Himself",
-          "link": "https://www.nytimes.com/interactive/2022/10/24/magazine/bono-interview.html",
-          "publishedOn": "2022-10-27T12:30:05.000Z",
-          "wordCount": 7378,
-          "title": "Bono Is Still Trying to Figure Out U2 and Himself",
-          "imageUrl": "https://static01.nyt.com/images/2022/10/30/magazine/30mag-talk/30mag-talk-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://ethereum-magicians.org/t/testnet-workgroup-paths-out-of-the-goerli-supply-mess/11453",
-          "author": null,
-          "description": "Testnet workgroup: Paths out of the Goerli supply mess",
-          "link": "https://ethereum-magicians.org/t/testnet-workgroup-paths-out-of-the-goerli-supply-mess/11453",
-          "publishedOn": "2022-10-27T12:30:04.000Z",
-          "wordCount": 1411,
-          "title": "Testnet workgroup: Paths out of the Goerli supply mess",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
-        },
-        {
           "id": "https://panteracapital.com/blockchain-letter/blockchains-2003-moment/",
           "author": null,
           "description": "Blockchain's 2003 Moment | Pantera",
@@ -81,7 +61,7 @@
           "description": "Equifax Wants to Help KYC DeFi and NFT Users—And Keep Their Data Private - Decrypt",
           "link": "https://decrypt.co/112929/equifax-oasis-labs-web3-kyc-defi-nfts?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2022-10-27T03:00:02.000Z",
-          "wordCount": 5446,
+          "wordCount": 5447,
           "title": "Equifax Wants to Help KYC DeFi and NFT Users—And Keep Their Data Private - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/equifax-building-5-1-gID_4.jpg"
         },
@@ -91,7 +71,7 @@
           "description": "[PDF] A_World_Divided.pdf",
           "link": "https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2022/10/A_World_Divided.pdf",
           "publishedOn": "2022-10-27T02:00:05.000Z",
-          "wordCount": 205540,
+          "wordCount": null,
           "title": "[PDF] A_World_Divided.pdf",
           "imageUrl": null
         },
@@ -101,9 +81,29 @@
           "description": "Singapore Central Bank Proposes Stablecoin Rules to Reign in Crypto Sector",
           "link": "https://www.coindesk.com/policy/2022/10/26/singapore-central-bank-proposes-stablecoin-rules-to-reign-in-crypto-sector/",
           "publishedOn": "2022-10-27T01:30:04.000Z",
-          "wordCount": 6823,
+          "wordCount": 6906,
           "title": "Singapore Central Bank Proposes Stablecoin Rules to Reign in Crypto Sector",
           "imageUrl": "https://www.coindesk.com/resizer/JN6Sa23X5D_u5he9wdZss2sa2IE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VEBQRCGVBRHQRBIZQL3WV5D4SE.jpg"
+        },
+        {
+          "id": "https://github.com/ethereum/pm/issues/624",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting 148 Agenda · Issue #624 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/624",
+          "publishedOn": "2022-10-27T01:30:04.000Z",
+          "wordCount": 2340,
+          "title": "Ethereum Core Devs Meeting 148 Agenda · Issue #624 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/d8b8773adb42fe12a04fad541d9401afa92cb6cc259bd0bdb258b5d535507fe5/ethereum/pm/issues/624"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oQfEW8LdE88&feature=youtu.be",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting #148 [2022-10-27]",
+          "link": "https://www.youtube.com/watch?v=oQfEW8LdE88&feature=youtu.be",
+          "publishedOn": "2022-10-27T01:30:04.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #148 [2022-10-27]",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/180126/metas-metaverse-losses-top-9-4-billion-for-the-year?utm_source=twitter&utm_medium=social",
@@ -111,7 +111,7 @@
           "description": "Meta’s metaverse losses top $9.4 billion for the year",
           "link": "https://www.theblock.co/post/180126/metas-metaverse-losses-top-9-4-billion-for-the-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-27T01:00:04.000Z",
-          "wordCount": 63804,
+          "wordCount": 63790,
           "title": "Meta’s metaverse losses top $9.4 billion for the year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/Screen-Shot-2022-10-26-at-4.02.06-PM.png"
         },
@@ -131,7 +131,7 @@
           "description": "Norway Steps Into the Metaverse With Decentraland Tax Office",
           "link": "https://www.coindesk.com/web3/2022/10/26/norway-steps-into-metaverse-with-decentraland-tax-office/",
           "publishedOn": "2022-10-27T01:00:04.000Z",
-          "wordCount": 5968,
+          "wordCount": 6048,
           "title": "Norway Steps Into the Metaverse With Decentraland Tax Office",
           "imageUrl": "https://www.coindesk.com/resizer/dkweEbzvgbblqf6c8Uj46GPLaPo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KF6H4F3QEVAIRE5KUIU3YZKC7A.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "‘Basically a Savior’: Why Crypto Is So Popular in Turkey",
           "link": "https://www.coindesk.com/layer2/2022/10/25/turkey-cryptocurrency-explained/",
           "publishedOn": "2022-10-26T20:00:04.000Z",
-          "wordCount": 9415,
+          "wordCount": 9497,
           "title": "‘Basically a Savior’: Why Crypto Is So Popular in Turkey",
           "imageUrl": "https://www.coindesk.com/resizer/YHdqZM7yeyNNhgQXNo9DdG96rWM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KM7TUKXBOBASJJ3APIT4MKSE6Q.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "The end of the system of the world",
           "link": "https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world",
           "publishedOn": "2022-10-26T18:00:04.000Z",
-          "wordCount": 9401,
+          "wordCount": 9395,
           "title": "The end of the system of the world",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec8ce96-8814-4d0e-81f2-f9b334a89b67_1024x678.jpeg"
         },
