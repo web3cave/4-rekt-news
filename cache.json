@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BbstuukubFM",
+          "author": null,
+          "description": "Building Geth with Péter Szilágyi | Devcon 2022 #4",
+          "link": "https://www.youtube.com/watch?v=BbstuukubFM",
+          "publishedOn": "2022-10-28T09:30:05.000Z",
+          "wordCount": null,
+          "title": "Building Geth with Péter Szilágyi | Devcon 2022 #4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=z-O45lIoi04",
+          "author": null,
+          "description": "Eric Wall and Udi Wertheimer on Why Bitcoin Maximalism Is 'Like a Shitcoin Community' - Ep. 412",
+          "link": "https://www.youtube.com/watch?v=z-O45lIoi04",
+          "publishedOn": "2022-10-28T09:30:05.000Z",
+          "wordCount": null,
+          "title": "Eric Wall and Udi Wertheimer on Why Bitcoin Maximalism Is 'Like a Shitcoin Community' - Ep. 412",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/180752/binance-confirmed-as-investor-in-twitter-takeover-as-musk-reportedly-plans-to-take-reins-as-ceo?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Binance confirmed as investor in Twitter takeover, as Musk reportedly plans to take reins as CEO",
           "link": "https://www.theblock.co/post/180752/binance-confirmed-as-investor-in-twitter-takeover-as-musk-reportedly-plans-to-take-reins-as-ceo?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-28T08:00:05.000Z",
-          "wordCount": 64138,
+          "wordCount": 65051,
           "title": "Binance confirmed as investor in Twitter takeover, as Musk reportedly plans to take reins as CEO",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210513_Elon-Musk.jpg"
         },
@@ -41,7 +61,7 @@
           "description": "Teleport Creators Raise $9M to Build Decentralized Uber Rival on Solana - Decrypt",
           "link": "https://decrypt.co/112957/teleport-creators-raise-9m-build-decentralized-uber-rival-solana?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2022-10-28T03:30:04.000Z",
-          "wordCount": 6175,
+          "wordCount": 6289,
           "title": "Teleport Creators Raise $9M to Build Decentralized Uber Rival on Solana - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/teleport-solana-ridesharing-gID_6.png"
         },
@@ -121,19 +141,9 @@
           "description": "Google Cloud announces blockchain node service starting with Ethereum",
           "link": "https://www.theblock.co/post/180458/google-cloud-announces-blockchain-node-service-starting-with-ethereum?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-27T19:00:02.000Z",
-          "wordCount": 64227,
+          "wordCount": 65140,
           "title": "Google Cloud announces blockchain node service starting with Ethereum",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_Generic_ETH2.jpg"
-        },
-        {
-          "id": "https://metamask.io/news/latest/building-an-extensible-world-with-meta-mask-grants-dao/",
-          "author": null,
-          "description": "Building an extensible world with MetaMask Grants DAO",
-          "link": "https://metamask.io/news/latest/building-an-extensible-world-with-meta-mask-grants-dao/",
-          "publishedOn": "2022-10-27T19:00:02.000Z",
-          "wordCount": 2935,
-          "title": "Building an extensible world with MetaMask Grants DAO",
-          "imageUrl": "https://images.ctfassets.net/9sy2a0egs6zh/6zKflIRBiP1zKQCGecVCfB/5b22e5e1d7e68620510d990b71cdb862/MMG_Press_Release_Option_3.png"
         },
         {
           "id": "https://lightyears.fellowship.xyz/",
@@ -144,16 +154,6 @@
           "wordCount": 30,
           "title": "Light Years by Dmitri Cherniak",
           "imageUrl": "https://lightyears.fellowship.xyz/Dmitri-Cherniak-Light-Years-20-2022-meta.jpg"
-        },
-        {
-          "id": "https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba",
-          "author": null,
-          "description": "Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX",
-          "link": "https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba",
-          "publishedOn": "2022-10-27T17:30:04.000Z",
-          "wordCount": 1774,
-          "title": "Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX",
-          "imageUrl": "https://miro.medium.com/max/1200/1*EdWCrQWJ2HjZ6ASBQ80Irw.jpeg"
         },
         {
           "id": "https://docs.looksrare.org/blog/looksrare-offers-zero-royalty-trading-shares-protocol-fees-with-creators-instead",
