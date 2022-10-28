@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.eth.limo/general/2022/10/28/revenue_evil.html",
+          "author": null,
+          "description": "The Revenue-Evil Curve: a different way to think about prioritizing public goods funding",
+          "link": "https://vitalik.eth.limo/general/2022/10/28/revenue_evil.html",
+          "publishedOn": "2022-10-28T07:00:02.000Z",
+          "wordCount": 2937,
+          "title": "The Revenue-Evil Curve: a different way to think about prioritizing public goods funding",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
           "author": null,
           "description": "SBF vs. Voorhees",
@@ -81,7 +91,7 @@
           "description": "Jito-Solana Is Now Open Source",
           "link": "https://medium.com/@Jito-Foundation/jito-solana-is-now-open-source-e1028c53fae1",
           "publishedOn": "2022-10-27T21:00:03.000Z",
-          "wordCount": 2991,
+          "wordCount": 2699,
           "title": "Jito-Solana Is Now Open Source",
           "imageUrl": "https://miro.medium.com/max/601/1*dJQl9OzqYSbpquT8OpQSog.png"
         },
@@ -121,7 +131,7 @@
           "description": "Google Cloud announces blockchain node service starting with Ethereum",
           "link": "https://www.theblock.co/post/180458/google-cloud-announces-blockchain-node-service-starting-with-ethereum?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-27T19:00:02.000Z",
-          "wordCount": 63787,
+          "wordCount": 64113,
           "title": "Google Cloud announces blockchain node service starting with Ethereum",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_Generic_ETH2.jpg"
         },
@@ -144,16 +154,6 @@
           "wordCount": 30,
           "title": "Light Years by Dmitri Cherniak",
           "imageUrl": "https://lightyears.fellowship.xyz/Dmitri-Cherniak-Light-Years-20-2022-meta.jpg"
-        },
-        {
-          "id": "https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba",
-          "author": null,
-          "description": "Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX",
-          "link": "https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba",
-          "publishedOn": "2022-10-27T17:30:04.000Z",
-          "wordCount": 1774,
-          "title": "Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX",
-          "imageUrl": "https://miro.medium.com/max/1200/1*EdWCrQWJ2HjZ6ASBQ80Irw.jpeg"
         },
         {
           "id": "https://cloud.google.com/blog/products/infrastructure-modernization/introducing-blockchain-node-engine",
@@ -201,7 +201,7 @@
           "description": "The end of the system of the world",
           "link": "https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world",
           "publishedOn": "2022-10-26T18:00:04.000Z",
-          "wordCount": 9395,
+          "wordCount": 9401,
           "title": "The end of the system of the world",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec8ce96-8814-4d0e-81f2-f9b334a89b67_1024x678.jpeg"
         }

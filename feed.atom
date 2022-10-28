@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-28T06:30:37.117Z</id>
+    <id>urn:2022-10-28T07:20:42.704Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-28T06:30:37.117Z</updated>
+    <updated>2022-10-28T07:20:42.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Revenue-Evil Curve: a different way to think about prioritizing public goods funding]]></title>
+        <id>https://vitalik.eth.limo/general/2022/10/28/revenue_evil.html</id>
+        <link href="https://vitalik.eth.limo/general/2022/10/28/revenue_evil.html"/>
+        <updated>2022-10-28T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The Revenue-Evil Curve: a different way to think about prioritizing public goods funding]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF vs. Voorhees]]></title>
         <id>https://www.youtube.com/watch?v=Ytaa_5liwMA</id>
@@ -141,16 +151,6 @@
         <link href="https://lightyears.fellowship.xyz/"/>
         <updated>2022-10-27T17:30:04.000Z</updated>
         <summary type="html"><![CDATA[Light Years by Dmitri Cherniak]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX]]></title>
-        <id>https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba</id>
-        <link href="https://medium.com/walletconnect/introducing-walletconnect-auth-one-click-wallet-login-to-simplify-web3-ux-9cc11fd18aba"/>
-        <updated>2022-10-27T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Introducing WalletConnect Auth: One-Click Wallet Login to Simplify Web3 UX]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
