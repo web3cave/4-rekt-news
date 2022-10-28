@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
+          "author": null,
+          "description": "SBF vs. Voorhees",
+          "link": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
+          "publishedOn": "2022-10-28T05:00:02.000Z",
+          "wordCount": null,
+          "title": "SBF vs. Voorhees",
+          "imageUrl": null
+        },
+        {
           "id": "https://decrypt.co/112957/teleport-creators-raise-9m-build-decentralized-uber-rival-solana?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "author": null,
           "description": "Teleport Creators Raise $9M to Build Decentralized Uber Rival on Solana - Decrypt",
@@ -14,16 +24,6 @@
           "wordCount": 6175,
           "title": "Teleport Creators Raise $9M to Build Decentralized Uber Rival on Solana - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/teleport-solana-ridesharing-gID_6.png"
-        },
-        {
-          "id": "https://cryptoforinnovation.org/1-in-7-voters-own-crypto-with-support-across-party-lines/",
-          "author": null,
-          "description": "1 in 7 voters own crypto with support across party lines",
-          "link": "https://cryptoforinnovation.org/1-in-7-voters-own-crypto-with-support-across-party-lines/",
-          "publishedOn": "2022-10-28T03:30:04.000Z",
-          "wordCount": 4067,
-          "title": "1 in 7 voters own crypto with support across party lines",
-          "imageUrl": "https://cryptoforinnovation.org/wp-content/uploads/2022/10/shutterstock_1743370412.jpg"
         },
         {
           "id": "https://www.nytimes.com/2022/10/27/technology/elon-musk-twitter-deal-complete.html",
@@ -121,7 +121,7 @@
           "description": "Google Cloud announces blockchain node service starting with Ethereum",
           "link": "https://www.theblock.co/post/180458/google-cloud-announces-blockchain-node-service-starting-with-ethereum?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-10-27T19:00:02.000Z",
-          "wordCount": 64012,
+          "wordCount": 63787,
           "title": "Google Cloud announces blockchain node service starting with Ethereum",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220907_Generic_ETH2.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "The end of the system of the world",
           "link": "https://noahpinion.substack.com/p/the-end-of-the-system-of-the-world",
           "publishedOn": "2022-10-26T18:00:04.000Z",
-          "wordCount": 9390,
+          "wordCount": 9401,
           "title": "The end of the system of the world",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ec8ce96-8814-4d0e-81f2-f9b334a89b67_1024x678.jpeg"
         }
