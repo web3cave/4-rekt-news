@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/medical/scariest-halloween-my-life-120-dead-south-korea-after-crowd-crushing-incident",
+          "author": null,
+          "description": "\"Scariest Halloween Of My Life\": 120 Dead In South Korea After Crowd Crushing Incident | ZeroHedge",
+          "link": "https://www.zerohedge.com/medical/scariest-halloween-my-life-120-dead-south-korea-after-crowd-crushing-incident",
+          "publishedOn": "2022-10-29T21:00:04.000Z",
+          "wordCount": 974,
+          "title": "\"Scariest Halloween Of My Life\": 120 Dead In South Korea After Crowd Crushing Incident | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81",
           "author": null,
           "description": "Web3 is Self-Certifying",
@@ -14,6 +24,16 @@
           "wordCount": 3275,
           "title": "Web3 is Self-Certifying",
           "imageUrl": "https://miro.medium.com/max/1200/1*QMFdNkIijhRqU0S7-eNr4w.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/commodities/record-high-75-us-winter-wheat-suffers-drought",
+          "author": null,
+          "description": "Record High: 75% Of US Winter Wheat Suffers From Drought  | ZeroHedge",
+          "link": "https://www.zerohedge.com/commodities/record-high-75-us-winter-wheat-suffers-drought",
+          "publishedOn": "2022-10-29T19:30:05.000Z",
+          "wordCount": 945,
+          "title": "Record High: 75% Of US Winter Wheat Suffers From Drought  | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://ap.fusionist.io/",
@@ -26,34 +46,14 @@
           "imageUrl": "https://main.d3b5kwzgt97jnt.amplifyapp.com/images/meta_img.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=fW8amMCVAJQ&feature=youtu.be",
+          "id": "https://www.zerohedge.com/political/florida-officials-looking-allegations-widespread-ballot-harvesting-operation-black",
           "author": null,
-          "description": "First Follower: Leadership Lessons from Dancing Guy",
-          "link": "https://www.youtube.com/watch?v=fW8amMCVAJQ&feature=youtu.be",
+          "description": "Florida Officials Looking Into Allegations Of Widespread Ballot Harvesting Operation In Black Neighborhoods | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/florida-officials-looking-allegations-widespread-ballot-harvesting-operation-black",
           "publishedOn": "2022-10-29T19:00:04.000Z",
-          "wordCount": null,
-          "title": "First Follower: Leadership Lessons from Dancing Guy",
+          "wordCount": 1046,
+          "title": "Florida Officials Looking Into Allegations Of Widespread Ballot Harvesting Operation In Black Neighborhoods | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://scarce.city/auctions/non-est-secundum-optimum",
-          "author": null,
-          "description": "NON EST SECUNDUM OPTIMUM | Scarce City",
-          "link": "https://scarce.city/auctions/non-est-secundum-optimum",
-          "publishedOn": "2022-10-29T19:00:04.000Z",
-          "wordCount": 2356,
-          "title": "NON EST SECUNDUM OPTIMUM | Scarce City",
-          "imageUrl": "https://cdn.sanity.io/images/w4avejpr/production/5510cfc6b417f25f6ca0c0645d0a581911603282-3024x4032.jpg?h=400&q=50&auto=format"
-        },
-        {
-          "id": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
-          "author": null,
-          "description": "Liz Truss's personal phone hacked by Putin's spies",
-          "link": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
-          "publishedOn": "2022-10-29T19:00:04.000Z",
-          "wordCount": 16768,
-          "title": "Liz Truss's personal phone hacked by Putin's spies",
-          "imageUrl": "https://i.dailymail.co.uk/1s/2022/10/29/17/63979095-0-image-a-11_1667061439957.jpg"
         },
         {
           "id": "https://www.propublica.org/article/senate-report-covid-19-origin-wuhan-lab",
@@ -61,7 +61,7 @@
           "description": "COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab",
           "link": "https://www.propublica.org/article/senate-report-covid-19-origin-wuhan-lab",
           "publishedOn": "2022-10-29T17:30:06.000Z",
-          "wordCount": 11488,
+          "wordCount": 11485,
           "title": "COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab",
           "imageUrl": "https://img.assets-d.propublica.org/v5/images/20221027-trackers-lead.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=0b364f8070129378505ecd28687ba7ac"
         },
@@ -71,9 +71,9 @@
           "description": "It's time for crypto to go mobile. | Solana Mobile",
           "link": "https://solanamobile.com/",
           "publishedOn": "2022-10-29T17:30:06.000Z",
-          "wordCount": 1983,
+          "wordCount": null,
           "title": "It's time for crypto to go mobile. | Solana Mobile",
-          "imageUrl": "https://solanamobile.com/solanamobile_socialshare.png"
+          "imageUrl": null
         },
         {
           "id": "https://sagapass.solanamobile.com/",
@@ -81,9 +81,9 @@
           "description": "Saga Pass - your exclusive ticket to Saga",
           "link": "https://sagapass.solanamobile.com/",
           "publishedOn": "2022-10-29T17:30:06.000Z",
-          "wordCount": 160,
+          "wordCount": null,
           "title": "Saga Pass - your exclusive ticket to Saga",
-          "imageUrl": "https://sagapass.solanamobile.com/pass-hero.png"
+          "imageUrl": null
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/10/28/revenue_evil.html",
@@ -131,19 +131,19 @@
           "description": "Elon takes over Twitter",
           "link": "https://www.platformer.news/p/elon-takes-over-twitter",
           "publishedOn": "2022-10-29T01:30:05.000Z",
-          "wordCount": 1859,
+          "wordCount": 1864,
           "title": "Elon takes over Twitter",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc7cf80-0d68-498c-91df-3e92427748d1_512x512.png"
         },
         {
-          "id": "https://tonyarcieri.com/",
+          "id": "https://rotki.com/jobs/backend",
           "author": null,
-          "description": "Tony Arcieri on Svbtle",
-          "link": "https://tonyarcieri.com/",
-          "publishedOn": "2022-10-28T23:00:03.000Z",
-          "wordCount": 1953,
-          "title": "Tony Arcieri on Svbtle",
-          "imageUrl": "https://svbtleusercontent.com/66Fp1vdGEw4FQBT79n8rbt04010xsuap_large.png"
+          "description": "python backend developer | rotki",
+          "link": "https://rotki.com/jobs/backend",
+          "publishedOn": "2022-10-29T01:00:02.000Z",
+          "wordCount": 5021,
+          "title": "python backend developer | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
         },
         {
           "id": "https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk",
