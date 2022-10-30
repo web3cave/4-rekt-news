@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GUhDXUA4mfQ&t=2087s",
+          "author": null,
+          "description": "Around the Block Ep 33: Brian Armstrong & Vitalik Buterin Discuss Decentralization, Privacy and more",
+          "link": "https://www.youtube.com/watch?v=GUhDXUA4mfQ&t=2087s",
+          "publishedOn": "2022-10-30T05:00:04.000Z",
+          "wordCount": null,
+          "title": "Around the Block Ep 33: Brian Armstrong & Vitalik Buterin Discuss Decentralization, Privacy and more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://peepoodo.bobbypills.com/",
+          "author": null,
+          "description": "Peepoodo & The Super Fuck Friends",
+          "link": "https://peepoodo.bobbypills.com/",
+          "publishedOn": "2022-10-30T05:00:04.000Z",
+          "wordCount": 684,
+          "title": "Peepoodo & The Super Fuck Friends",
+          "imageUrl": "https://peepoodo.bobbypills.com/images/icon.jpg"
+        },
+        {
+          "id": "https://www.ens.vision/",
+          "author": null,
+          "description": "ENS.Vision - Discover and trade ENS names across marketplaces.",
+          "link": "https://www.ens.vision/",
+          "publishedOn": "2022-10-30T05:00:04.000Z",
+          "wordCount": 302,
+          "title": "ENS.Vision - Discover and trade ENS names across marketplaces.",
+          "imageUrl": "https://ens.vision/images/ogimage_new.jpg"
+        },
+        {
+          "id": "https://open.spotify.com/episode/2kaBXroyi86vaL1I2luPKC?si=Gz9CGLowShyxy0Nbg7rb0A",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/2kaBXroyi86vaL1I2luPKC?si=Gz9CGLowShyxy0Nbg7rb0A",
+          "publishedOn": "2022-10-30T05:00:04.000Z",
+          "wordCount": 385,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a5c0fc7885bccc364cfc85652"
+        },
+        {
           "id": "https://www.zerohedge.com/political/world-series-errors-watch-singer-flubs-anthem-lyrics",
           "author": null,
           "description": "World Series Errors: Watch As Eric Burton Flubs Anthem Lyrics | ZeroHedge",
@@ -36,16 +76,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=mH0oCDa74tE",
-          "author": null,
-          "description": "Group theory, abstraction, and the 196,883-dimensional monster",
-          "link": "https://www.youtube.com/watch?v=mH0oCDa74tE",
-          "publishedOn": "2022-10-30T01:00:03.000Z",
-          "wordCount": null,
-          "title": "Group theory, abstraction, and the 196,883-dimensional monster",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=TUPqRBDKZjU&feature=youtu.be",
           "author": null,
           "description": "New Crypto Regulations That MAKE or BREAK The Next Bull Market",
@@ -66,42 +96,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/chief-twit-musk-reportedly-orders-job-cuts-across-twitter",
-          "author": null,
-          "description": "\"Chief Twit\" Musk Reportedly Orders Job Cuts Across Twitter | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/chief-twit-musk-reportedly-orders-job-cuts-across-twitter",
-          "publishedOn": "2022-10-30T01:00:03.000Z",
-          "wordCount": 636,
-          "title": "\"Chief Twit\" Musk Reportedly Orders Job Cuts Across Twitter | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/percentage-americans-who-say-local-crime-hits-50-year-high",
-          "author": null,
-          "description": "Percentage Of Americans Who Say Local Crime Is Up Hits 50-Year-High | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/percentage-americans-who-say-local-crime-hits-50-year-high",
-          "publishedOn": "2022-10-30T01:00:03.000Z",
-          "wordCount": 2232,
-          "title": "Percentage Of Americans Who Say Local Crime Is Up Hits 50-Year-High | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/goldmans-biggest-bear-flips-only-question-you-need-ask-weekend",
-          "author": null,
-          "description": "Goldman's Biggest Bear Flips: \"That Is The Only Question You Need To Ask This Weekend\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/goldmans-biggest-bear-flips-only-question-you-need-ask-weekend",
-          "publishedOn": "2022-10-30T01:00:03.000Z",
-          "wordCount": 336,
-          "title": "Goldman's Biggest Bear Flips: \"That Is The Only Question You Need To Ask This Weekend\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
           "author": null,
           "description": "Liz Truss's personal phone hacked by Putin's spies",
           "link": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
           "publishedOn": "2022-10-29T21:30:04.000Z",
-          "wordCount": 18949,
+          "wordCount": 18995,
           "title": "Liz Truss's personal phone hacked by Putin's spies",
           "imageUrl": "https://i.dailymail.co.uk/1s/2022/10/29/17/63979095-0-image-a-11_1667061439957.jpg"
         },
@@ -111,7 +111,7 @@
           "description": "Web3 is Self-Certifying",
           "link": "https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81",
           "publishedOn": "2022-10-29T19:30:05.000Z",
-          "wordCount": 3226,
+          "wordCount": 3275,
           "title": "Web3 is Self-Certifying",
           "imageUrl": "https://miro.medium.com/max/1200/1*QMFdNkIijhRqU0S7-eNr4w.png"
         },
@@ -131,7 +131,7 @@
           "description": "COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab",
           "link": "https://www.propublica.org/article/senate-report-covid-19-origin-wuhan-lab",
           "publishedOn": "2022-10-29T17:30:06.000Z",
-          "wordCount": 11483,
+          "wordCount": 11485,
           "title": "COVID-19 Origins: Investigating a “Complex and Grave Situation” Inside a Wuhan Lab",
           "imageUrl": "https://img.assets-d.propublica.org/v5/images/20221027-trackers-lead.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=0b364f8070129378505ecd28687ba7ac"
         },
@@ -181,7 +181,7 @@
           "description": "Big Tech’s Accountability Problem",
           "link": "https://geoffgolberg.medium.com/big-techs-accountability-problem-2bc4fab00fc3",
           "publishedOn": "2022-10-28T20:00:06.000Z",
-          "wordCount": 4287,
+          "wordCount": 4263,
           "title": "Big Tech’s Accountability Problem",
           "imageUrl": "https://miro.medium.com/max/1200/1*4Amu0fUtonVGCsibVsurDw.png"
         },
