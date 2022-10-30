@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.mevwatch.info/",
+          "author": null,
+          "description": "MEV Watch",
+          "link": "https://www.mevwatch.info/",
+          "publishedOn": "2022-10-30T20:30:02.000Z",
+          "wordCount": 817,
+          "title": "MEV Watch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.getrevue.co/profile/raoulgmi/issues/this-is-how-the-world-works-1422397",
           "author": null,
           "description": "This is How the World Works",
@@ -54,16 +64,6 @@
           "wordCount": 852,
           "title": "Biden Claims There Are '54 States' In Latest Gaffe | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/181220/mark-zuckerberg-cast-as-web3-supervillain-in-forthcoming-game?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Mark Zuckerberg cast as web3 supervillain in forthcoming game",
-          "link": "https://www.theblock.co/post/181220/mark-zuckerberg-cast-as-web3-supervillain-in-forthcoming-game?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-10-30T19:00:03.000Z",
-          "wordCount": 63563,
-          "title": "Mark Zuckerberg cast as web3 supervillain in forthcoming game",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/MPH-Logo.png"
         },
         {
           "id": "https://www.theblock.co/post/180780/sam-bankman-fried-set-to-make-up-to-100-million-from-musk-twitter-purchase",
@@ -191,7 +191,7 @@
           "description": "Liz Truss's personal phone hacked by Putin's spies",
           "link": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
           "publishedOn": "2022-10-29T21:30:04.000Z",
-          "wordCount": 19854,
+          "wordCount": 19907,
           "title": "Liz Truss's personal phone hacked by Putin's spies",
           "imageUrl": "https://i.dailymail.co.uk/1s/2022/10/29/17/63979095-0-image-a-11_1667061439957.jpg"
         },
