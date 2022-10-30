@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tS-2a36pKJY",
+          "author": null,
+          "description": "This Attack On Titan VR Game BLEW MY MIND",
+          "link": "https://www.youtube.com/watch?v=tS-2a36pKJY",
+          "publishedOn": "2022-10-30T09:00:03.000Z",
+          "wordCount": null,
+          "title": "This Attack On Titan VR Game BLEW MY MIND",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.rottentomatoes.com/m/descent",
+          "author": null,
+          "description": "The Descent",
+          "link": "https://www.rottentomatoes.com/m/descent",
+          "publishedOn": "2022-10-30T09:00:03.000Z",
+          "wordCount": 4886,
+          "title": "The Descent",
+          "imageUrl": "https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg"
+        },
+        {
           "id": "https://asofterworld.com/index.php?id=227",
           "author": null,
           "description": "A Softer World was ever Friday",
@@ -46,16 +66,6 @@
           "imageUrl": "https://ens.vision/images/ogimage_new.jpg"
         },
         {
-          "id": "https://open.spotify.com/episode/2kaBXroyi86vaL1I2luPKC?si=Gz9CGLowShyxy0Nbg7rb0A",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/2kaBXroyi86vaL1I2luPKC?si=Gz9CGLowShyxy0Nbg7rb0A",
-          "publishedOn": "2022-10-30T05:00:04.000Z",
-          "wordCount": 385,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a5c0fc7885bccc364cfc85652"
-        },
-        {
           "id": "https://www.zerohedge.com/political/radical-gender-ideology-invades-small-town-schools",
           "author": null,
           "description": "Radical Gender Ideology Invades Small-Town Schools | ZeroHedge",
@@ -66,6 +76,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/economics/yuan-depreciation-wont-help-china-exports",
+          "author": null,
+          "description": "Yuan Depreciation Won’t Help China Exports | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/yuan-depreciation-wont-help-china-exports",
+          "publishedOn": "2022-10-30T05:00:04.000Z",
+          "wordCount": 1291,
+          "title": "Yuan Depreciation Won’t Help China Exports | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/political/world-series-errors-watch-singer-flubs-anthem-lyrics",
           "author": null,
           "description": "World Series Errors: Watch As Eric Burton Flubs Anthem Lyrics | ZeroHedge",
@@ -73,26 +93,6 @@
           "publishedOn": "2022-10-30T03:00:02.000Z",
           "wordCount": 976,
           "title": "World Series Errors: Watch As Eric Burton Flubs Anthem Lyrics | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/gitmos-oldest-detainee-freed-after-20-years-no-charges",
-          "author": null,
-          "description": "Gitmo's Oldest Detainee Freed After 20 Years With No Charges | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/gitmos-oldest-detainee-freed-after-20-years-no-charges",
-          "publishedOn": "2022-10-30T02:00:04.000Z",
-          "wordCount": 1213,
-          "title": "Gitmo's Oldest Detainee Freed After 20 Years With No Charges | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/us-lng-cannot-replace-russian-natural-gas-europe-has-lost",
-          "author": null,
-          "description": "U.S. LNG Cannot Replace The Russian Natural Gas That Europe Has Lost | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/us-lng-cannot-replace-russian-natural-gas-europe-has-lost",
-          "publishedOn": "2022-10-30T01:30:03.000Z",
-          "wordCount": 1065,
-          "title": "U.S. LNG Cannot Replace The Russian Natural Gas That Europe Has Lost | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -111,7 +111,7 @@
           "description": "Liz Truss's personal phone hacked by Putin's spies",
           "link": "https://www.dailymail.co.uk/news/article-11368619/Liz-Trusss-personal-phone-hacked-Putins-spies-secret-details-negotiations.html",
           "publishedOn": "2022-10-29T21:30:04.000Z",
-          "wordCount": 19146,
+          "wordCount": 19101,
           "title": "Liz Truss's personal phone hacked by Putin's spies",
           "imageUrl": "https://i.dailymail.co.uk/1s/2022/10/29/17/63979095-0-image-a-11_1667061439957.jpg"
         },
