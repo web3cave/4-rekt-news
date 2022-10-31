@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications-ebook/dp/B0922WP4VQ?tag=ttrvin-20",
+          "id": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
           "author": null,
-          "description": "The Gray Lady Winked: How the New York Times's Misreporting, Distortions and Fabrications Radically Alter History -...",
-          "link": "https://www.amazon.com/Gray-Lady-Winked-Misreporting-Fabrications-ebook/dp/B0922WP4VQ?tag=ttrvin-20",
-          "publishedOn": "2022-10-31T15:00:03.000Z",
+          "description": "SBF vs. Erik Voorhees: How Do We Regulate Crypto?",
+          "link": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
+          "publishedOn": "2022-10-31T15:30:04.000Z",
           "wordCount": null,
-          "title": "The Gray Lady Winked: How the New York Times's Misreporting, Distortions and Fabrications Radically Alter History -...",
+          "title": "SBF vs. Erik Voorhees: How Do We Regulate Crypto?",
           "imageUrl": null
+        },
+        {
+          "id": "https://game.gearbox.fi/",
+          "author": null,
+          "description": "Leverage Ninja Game - Gearbox V2",
+          "link": "https://game.gearbox.fi/",
+          "publishedOn": "2022-10-31T15:00:03.000Z",
+          "wordCount": 33,
+          "title": "Leverage Ninja Game - Gearbox V2",
+          "imageUrl": "https://game.gearbox.fi/data/meta.png"
         },
         {
           "id": "https://www.zerohedge.com/personal-finance/entry-level-house-has-become-myth-few-can-afford-them",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-10-31T15:00:03.000Z",
           "wordCount": 1730,
           "title": "The Entry-Level House Has Become A Myth; Few Can Afford Them | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/peter-schiff-fed-got-everybody-drunk-cheap-money-party-over",
-          "author": null,
-          "description": "Peter Schiff: The Fed Got Everybody Drunk On Cheap Money But The Party Is Over | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/peter-schiff-fed-got-everybody-drunk-cheap-money-party-over",
-          "publishedOn": "2022-10-31T15:00:03.000Z",
-          "wordCount": 1308,
-          "title": "Peter Schiff: The Fed Got Everybody Drunk On Cheap Money But The Party Is Over | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -83,7 +83,7 @@
           "publishedOn": "2022-10-31T13:30:05.000Z",
           "wordCount": 4611,
           "title": "art-gobblers/ArtGobblers.sol at 126ba8f6172cffdd15a3df55d3c5515b6d30c563 · artgobblers/art-gobblers",
-          "imageUrl": "https://opengraph.githubassets.com/073d0b6513a78219fafddd88f111e095c867f4b58d8a701c9cf3613519f716c1/artgobblers/art-gobblers"
+          "imageUrl": "https://opengraph.githubassets.com/94e25b5dedfb51cdcdf0225ea44eea69ca39a9f69d40ec89a6a62fff4b6b4083/artgobblers/art-gobblers"
         },
         {
           "id": "https://relayooor.wtf/",
@@ -151,7 +151,7 @@
           "description": "GitHub - OpenRarity/open-rarity: Reference implementation of the OpenRarity protocol with Python.",
           "link": "https://github.com/OpenRarity/open-rarity",
           "publishedOn": "2022-10-30T23:00:03.000Z",
-          "wordCount": 986,
+          "wordCount": 1091,
           "title": "GitHub - OpenRarity/open-rarity: Reference implementation of the OpenRarity protocol with Python.",
           "imageUrl": "https://repository-images.githubusercontent.com/498895739/2dfd399a-9964-42ae-9e0a-943704fc81d6"
         },
@@ -166,12 +166,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://fred.stlouisfed.org/graph/?g=Vm3g&utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=1aef0ab3-c4ba-48d6-bd69-9ec299286096",
+          "author": null,
+          "description": "Personal Saving Rate | FRED | St. Louis Fed",
+          "link": "https://fred.stlouisfed.org/graph/?g=Vm3g&utm_source=twitter&utm_medium=SM&utm_content=stlouisfed&utm_campaign=1aef0ab3-c4ba-48d6-bd69-9ec299286096",
+          "publishedOn": "2022-10-30T22:00:03.000Z",
+          "wordCount": 936,
+          "title": "Personal Saving Rate | FRED | St. Louis Fed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/180780/sam-bankman-fried-set-to-make-up-to-100-million-from-musk-twitter-purchase",
           "author": null,
           "description": "Sam Bankman-Fried set to cash in up to $100 million from Musk's Twitter purchase",
           "link": "https://www.theblock.co/post/180780/sam-bankman-fried-set-to-make-up-to-100-million-from-musk-twitter-purchase",
           "publishedOn": "2022-10-30T17:30:04.000Z",
-          "wordCount": 65243,
+          "wordCount": 63480,
           "title": "Sam Bankman-Fried set to cash in up to $100 million from Musk's Twitter purchase",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221020_SamBankmanFried.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 9928,
           "title": "The Buildooooooor - Marc Zeller of AAVE",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d37e21-2143-426c-8908-bcda95490215_1280x720.png"
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/crypto-privacy-is-humanitarian",
-          "author": null,
-          "description": "Crypto Privacy Is Humanitarian",
-          "link": "https://newsletter.banklesshq.com/p/crypto-privacy-is-humanitarian",
-          "publishedOn": "2022-10-30T14:00:05.000Z",
-          "wordCount": 4580,
-          "title": "Crypto Privacy Is Humanitarian",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85baceee-2fc1-4100-aaef-6b71ee25a385_2667x1500.jpeg"
         },
         {
           "id": "https://www.fifaworldcupaileague.com/",
