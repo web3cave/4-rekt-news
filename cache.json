@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.gearbox.fi/?referral=1013",
+          "author": null,
+          "description": "Gearbox Protocol",
+          "link": "https://app.gearbox.fi/?referral=1013",
+          "publishedOn": "2022-10-31T17:00:02.000Z",
+          "wordCount": 61,
+          "title": "Gearbox Protocol",
+          "imageUrl": "https://static.gearbox.fi/meta/og.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ytaa_5liwMA",
           "author": null,
           "description": "SBF vs. Erik Voorhees: How Do We Regulate Crypto?",
@@ -54,16 +64,6 @@
           "wordCount": 2984,
           "title": "Quadratic - The Digital Engineering Factory",
           "imageUrl": "https://global-uploads.webflow.com/63123c679ccca6cad1257198/6323202a6ade600d3198ce67_Quadratic-homepage-thumbnail.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/commodities/wheat-prices-jump-after-russia-exits-grain-deal-un-races-save-agreement",
-          "author": null,
-          "description": "Wheat Prices Jump After Russia Exits Grain Deal; UN Races To Save Agreement | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/wheat-prices-jump-after-russia-exits-grain-deal-un-races-save-agreement",
-          "publishedOn": "2022-10-31T14:30:03.000Z",
-          "wordCount": 1164,
-          "title": "Wheat Prices Jump After Russia Exits Grain Deal; UN Races To Save Agreement | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://arxiv.org/pdf/2201.07220.pdf",
@@ -146,12 +146,22 @@
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/633/862/original/issue_image_1422397.jpg?1667153741"
         },
         {
+          "id": "https://cesc.io/",
+          "author": null,
+          "description": "Center for Responsible, Decentralized Intelligence at Berkeley",
+          "link": "https://cesc.io/",
+          "publishedOn": "2022-10-30T23:30:04.000Z",
+          "wordCount": 2500,
+          "title": "Center for Responsible, Decentralized Intelligence at Berkeley",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/OpenRarity/open-rarity",
           "author": null,
           "description": "GitHub - OpenRarity/open-rarity: Reference implementation of the OpenRarity protocol with Python.",
           "link": "https://github.com/OpenRarity/open-rarity",
           "publishedOn": "2022-10-30T23:00:03.000Z",
-          "wordCount": 1091,
+          "wordCount": 986,
           "title": "GitHub - OpenRarity/open-rarity: Reference implementation of the OpenRarity protocol with Python.",
           "imageUrl": "https://repository-images.githubusercontent.com/498895739/2dfd399a-9964-42ae-9e0a-943704fc81d6"
         },
@@ -181,7 +191,7 @@
           "description": "Sam Bankman-Fried set to cash in up to $100 million from Musk's Twitter purchase",
           "link": "https://www.theblock.co/post/180780/sam-bankman-fried-set-to-make-up-to-100-million-from-musk-twitter-purchase",
           "publishedOn": "2022-10-30T17:30:04.000Z",
-          "wordCount": 63480,
+          "wordCount": 63592,
           "title": "Sam Bankman-Fried set to cash in up to $100 million from Musk's Twitter purchase",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221020_SamBankmanFried.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 9928,
           "title": "The Buildooooooor - Marc Zeller of AAVE",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d37e21-2143-426c-8908-bcda95490215_1280x720.png"
-        },
-        {
-          "id": "https://www.fifaworldcupaileague.com/",
-          "author": null,
-          "description": "AI League: FIFA World Cup Qatar 2022™ Edition",
-          "link": "https://www.fifaworldcupaileague.com/",
-          "publishedOn": "2022-10-30T05:00:04.000Z",
-          "wordCount": 1230,
-          "title": "AI League: FIFA World Cup Qatar 2022™ Edition",
-          "imageUrl": "https://global-uploads.webflow.com/63573f635c6b1530b2102578/635b54994412e3df55c0d894_Website%20preview%20share%20800x418.jpg"
         }
       ]
     }
