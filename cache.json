@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://twitodon.com/",
+          "author": null,
+          "description": "Twitodon - Find your Twitter friends on Mastodon",
+          "link": "https://twitodon.com/",
+          "publishedOn": "2022-10-31T21:00:03.000Z",
+          "wordCount": 805,
+          "title": "Twitodon - Find your Twitter friends on Mastodon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ethereum/execution-apis/issues/307",
+          "author": null,
+          "description": "[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis",
+          "link": "https://github.com/ethereum/execution-apis/issues/307",
+          "publishedOn": "2022-10-31T20:30:03.000Z",
+          "wordCount": 2420,
+          "title": "[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis",
+          "imageUrl": "https://opengraph.githubassets.com/39e624e9c02faaef6e29ef144663ceff3a657ec6fb2453ca54ae87d8826e5e35/ethereum/execution-apis/issues/307"
+        },
+        {
           "id": "https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright",
           "author": null,
           "description": "Hodlonaut Defeats Craig Wright In Norwegian Court Case For Defamation",
@@ -24,26 +44,6 @@
           "wordCount": 1991,
           "title": "Community Memo: Values and Focus",
           "imageUrl": "https://gov.near.org/uploads/default/original/1X/ac4dfa285dc4377bc9f6de882875ed1724620241.png"
-        },
-        {
-          "id": "https://github.com/Philogy/gobbler-thrones",
-          "author": null,
-          "description": "GitHub - Philogy/gobbler-thrones",
-          "link": "https://github.com/Philogy/gobbler-thrones",
-          "publishedOn": "2022-10-31T20:00:04.000Z",
-          "wordCount": 962,
-          "title": "GitHub - Philogy/gobbler-thrones",
-          "imageUrl": "https://opengraph.githubassets.com/30083548388b7bb439d14c619237bd74074921fb3181cf7ff4d62b761c4ff6e1/Philogy/gobbler-thrones"
-        },
-        {
-          "id": "https://github.com/ankitchiplunkar/Gobbler-Vault",
-          "author": null,
-          "description": "GitHub - ankitchiplunkar/Gobbler-Vault",
-          "link": "https://github.com/ankitchiplunkar/Gobbler-Vault",
-          "publishedOn": "2022-10-31T20:00:04.000Z",
-          "wordCount": 1151,
-          "title": "GitHub - ankitchiplunkar/Gobbler-Vault",
-          "imageUrl": "https://opengraph.githubassets.com/b674c8d9281f6d1566dd8f597a2e311a10280e53db015e916e0d5567a2ca1312/ankitchiplunkar/Gobbler-Vault"
         },
         {
           "id": "https://mailing-list-archive.cryptoanarchy.wiki/archive/1996/09/ca5e8a7522105ab64490d8a5ae3e533aad0c9db70d2848c27ecaeabd22657258/",
@@ -143,7 +143,7 @@
           "publishedOn": "2022-10-31T13:30:05.000Z",
           "wordCount": 4611,
           "title": "art-gobblers/ArtGobblers.sol at 126ba8f6172cffdd15a3df55d3c5515b6d30c563 · artgobblers/art-gobblers",
-          "imageUrl": "https://opengraph.githubassets.com/94e25b5dedfb51cdcdf0225ea44eea69ca39a9f69d40ec89a6a62fff4b6b4083/artgobblers/art-gobblers"
+          "imageUrl": "https://opengraph.githubassets.com/7bc1c492d6cd6faa605c36e7ee99e1b6ccb3951db4d173237ffa51b64c279179/artgobblers/art-gobblers"
         },
         {
           "id": "https://www.info.gov.hk/gia/general/202210/31/P2022103000454.htm?fontSize=1",
@@ -191,7 +191,7 @@
           "description": "This is How the World Works",
           "link": "https://www.getrevue.co/profile/raoulgmi/issues/this-is-how-the-world-works-1422397",
           "publishedOn": "2022-10-31T01:00:02.000Z",
-          "wordCount": 2201,
+          "wordCount": 2171,
           "title": "This is How the World Works",
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/633/862/original/issue_image_1422397.jpg?1667153741"
         },
@@ -201,7 +201,7 @@
           "description": "The Buildooooooor - Marc Zeller of AAVE",
           "link": "https://alphapls.substack.com/p/the-buildooooooor-marc-zeller-of",
           "publishedOn": "2022-10-30T17:00:02.000Z",
-          "wordCount": 10134,
+          "wordCount": 9928,
           "title": "The Buildooooooor - Marc Zeller of AAVE",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d37e21-2143-426c-8908-bcda95490215_1280x720.png"
         }

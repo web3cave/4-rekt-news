@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-31T20:26:14.360Z</id>
+    <id>urn:2022-10-31T21:21:50.838Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-31T20:26:14.360Z</updated>
+    <updated>2022-10-31T21:21:50.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Twitodon - Find your Twitter friends on Mastodon]]></title>
+        <id>https://twitodon.com/</id>
+        <link href="https://twitodon.com/"/>
+        <updated>2022-10-31T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Twitodon - Find your Twitter friends on Mastodon]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis]]></title>
+        <id>https://github.com/ethereum/execution-apis/issues/307</id>
+        <link href="https://github.com/ethereum/execution-apis/issues/307"/>
+        <updated>2022-10-31T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[[RFC] Engine API: Add block value in response to engine_getPayload · Issue #307 · ethereum/execution-apis]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hodlonaut Defeats Craig Wright In Norwegian Court Case For Defamation]]></title>
         <id>https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright</id>
@@ -21,26 +41,6 @@
         <link href="https://gov.near.org/t/community-memo-values-and-focus/30774"/>
         <updated>2022-10-31T20:00:04.000Z</updated>
         <summary type="html"><![CDATA[Community Memo: Values and Focus]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - Philogy/gobbler-thrones]]></title>
-        <id>https://github.com/Philogy/gobbler-thrones</id>
-        <link href="https://github.com/Philogy/gobbler-thrones"/>
-        <updated>2022-10-31T20:00:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - Philogy/gobbler-thrones]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - ankitchiplunkar/Gobbler-Vault]]></title>
-        <id>https://github.com/ankitchiplunkar/Gobbler-Vault</id>
-        <link href="https://github.com/ankitchiplunkar/Gobbler-Vault"/>
-        <updated>2022-10-31T20:00:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - ankitchiplunkar/Gobbler-Vault]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
