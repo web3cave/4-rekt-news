@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-01T02:32:54.286Z</id>
+    <id>urn:2022-11-01T04:40:33.907Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-01T02:32:54.286Z</updated>
+    <updated>2022-11-01T04:40:33.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></title>
+        <id>https://ftx.us/</id>
+        <link href="https://ftx.us/"/>
+        <updated>2022-11-01T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s Declare a Pandemic Amnesty]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2022/10/covid-response-forgiveness/671879/</id>
@@ -176,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[art-gobblers/ArtGobblers.sol at 126ba8f6172cffdd15a3df55d3c5515b6d30c563 · artgobblers/art-gobblers]]></title>
-        <id>https://github.com/artgobblers/art-gobblers/blob/126ba8f6172cffdd15a3df55d3c5515b6d30c563/src/ArtGobblers.sol#L747-L773</id>
-        <link href="https://github.com/artgobblers/art-gobblers/blob/126ba8f6172cffdd15a3df55d3c5515b6d30c563/src/ArtGobblers.sol#L747-L773"/>
-        <updated>2022-10-31T13:30:05.000Z</updated>
-        <summary type="html"><![CDATA[art-gobblers/ArtGobblers.sol at 126ba8f6172cffdd15a3df55d3c5515b6d30c563 · artgobblers/art-gobblers]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Government issues Policy Statement on development of Virtual Assets in Hong Kong]]></title>
         <id>https://www.info.gov.hk/gia/general/202210/31/P2022103000454.htm?fontSize=1</id>
         <link href="https://www.info.gov.hk/gia/general/202210/31/P2022103000454.htm?fontSize=1"/>
@@ -197,8 +197,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[PDF] bitcoin.pdf]]></title>
-        <id>https://spiral.xyz/bitcoin.pdf</id>
-        <link href="https://spiral.xyz/bitcoin.pdf"/>
+        <id>https://bitcoin.org/bitcoin.pdf</id>
+        <link href="https://bitcoin.org/bitcoin.pdf"/>
         <updated>2022-10-31T04:00:04.000Z</updated>
         <summary type="html"><![CDATA[[PDF] bitcoin.pdf]]></summary>
         <author>
