@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.rewind.ai/",
+          "author": null,
+          "description": "Rewind",
+          "link": "https://www.rewind.ai/",
+          "publishedOn": "2022-11-01T17:30:06.000Z",
+          "wordCount": 549,
+          "title": "Rewind",
+          "imageUrl": "https://storage.googleapis.com/rewindai/assets/rewind-thumb.jpg"
+        },
+        {
+          "id": "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/",
+          "author": null,
+          "description": "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
+          "link": "https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/",
+          "publishedOn": "2022-11-01T17:30:05.000Z",
+          "wordCount": 1019,
+          "title": "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.benzinga.com/content/29482439/boris-johnson-former-prime-minister-of-the-united-kingdom-to-attend-international-symposium-on-block",
           "author": null,
           "description": "Boris Johnson, former Prime Minister of the United Kingdom, to attend International Symposium on Blockchain...",
@@ -26,16 +46,6 @@
           "imageUrl": "https://ml.globenewswire.com/Resource/Download/eed22808-d372-44ab-b39a-ee0407d5e0fe?size=1"
         },
         {
-          "id": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
-          "author": null,
-          "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
-          "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
-          "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 63086,
-          "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
-        },
-        {
           "id": "https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta",
           "author": null,
           "description": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
@@ -44,6 +54,16 @@
           "wordCount": 1051,
           "title": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
           "imageUrl": "https://opengraph.githubassets.com/439c12730f35f01e412cdbbc288b88071b094e3a495205ce101e275647d3d0b6/lightningnetwork/lnd/releases/tag/v0.15.4-beta"
+        },
+        {
+          "id": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
+          "author": null,
+          "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
+          "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
+          "publishedOn": "2022-11-01T15:00:02.000Z",
+          "wordCount": 63453,
+          "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
         },
         {
           "id": "https://www.axios.com/2022/10/31/vine-tiktok-twitter-musk-team-reboot",
@@ -86,16 +106,6 @@
           "imageUrl": "https://cdn01.dailycaller.com/wp-content/uploads/2022/10/2022-10-13T205644Z_976397446_RC2F0X9KCPNN_RTRMADP_3_USA-MEXICO-scaled-e1667247935245.jpg"
         },
         {
-          "id": "https://showerthoughts.substack.com/p/on-crypto-populism?sd=pf",
-          "author": null,
-          "description": "On Crypto Populism",
-          "link": "https://showerthoughts.substack.com/p/on-crypto-populism?sd=pf",
-          "publishedOn": "2022-11-01T05:00:03.000Z",
-          "wordCount": 3990,
-          "title": "On Crypto Populism",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=kp-1NLQ1rzs&feature=youtu.be",
           "author": null,
           "description": "Can Altcoins Pump Again This Week? Bitcoin Breakout and What to Watch  | CryptoHub Ep. 5",
@@ -126,22 +136,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://forum.devcon.org/c/devcon-7-location-suggestions/14",
-          "author": null,
-          "description": "Devcon 7 Location Suggestions",
-          "link": "https://forum.devcon.org/c/devcon-7-location-suggestions/14",
-          "publishedOn": "2022-11-01T01:30:04.000Z",
-          "wordCount": 274,
-          "title": "Devcon 7 Location Suggestions",
-          "imageUrl": "https://forum.devcon.org/uploads/default/original/1X/6372b17f45f9d3bd68507b59d41dcea012100ef9.jpeg"
-        },
-        {
           "id": "https://www.wsj.com/articles/rocky-treasury-market-trading-rattles-wall-street-11667086782",
           "author": null,
           "description": "Rocky Treasury-Market Trading Rattles Wall Street",
           "link": "https://www.wsj.com/articles/rocky-treasury-market-trading-rattles-wall-street-11667086782",
           "publishedOn": "2022-11-01T01:00:04.000Z",
-          "wordCount": 6223,
+          "wordCount": 6206,
           "title": "Rocky Treasury-Market Trading Rattles Wall Street",
           "imageUrl": "https://images.wsj.net/im-654448/social"
         },
@@ -161,7 +161,7 @@
           "description": "Interview of Punk4156 by Punk6529",
           "link": "https://medium.com/@6000.regular/interview-of-punk4156-by-punk6529-257f8468688e",
           "publishedOn": "2022-10-31T23:00:03.000Z",
-          "wordCount": 8778,
+          "wordCount": 8824,
           "title": "Interview of Punk4156 by Punk6529",
           "imageUrl": null
         },
