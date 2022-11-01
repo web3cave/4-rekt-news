@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://nikolai.fyi/",
+          "author": null,
+          "description": "Nikolai Mushegian's Website",
+          "link": "https://nikolai.fyi/",
+          "publishedOn": "2022-11-01T09:15:26.000Z",
+          "wordCount": 771,
+          "title": "Nikolai Mushegian's Website",
+          "imageUrl": null
+        },
+        {
           "id": "https://dailycaller.com/2022/10/31/laura-dehmlow-fbi-censorship/",
           "author": null,
           "description": "FBI Agent Who Pushed To Censor Hunter Biden Story Is Shaping Biden Admin’s Response To ‘Misinformation’",
@@ -51,7 +61,7 @@
           "description": "Rocky Treasury-Market Trading Rattles Wall Street",
           "link": "https://www.wsj.com/articles/rocky-treasury-market-trading-rattles-wall-street-11667086782",
           "publishedOn": "2022-11-01T01:00:04.000Z",
-          "wordCount": 6209,
+          "wordCount": 6218,
           "title": "Rocky Treasury-Market Trading Rattles Wall Street",
           "imageUrl": "https://images.wsj.net/im-654448/social"
         },
@@ -71,7 +81,7 @@
           "description": "Interview of Punk4156 by Punk6529",
           "link": "https://medium.com/@6000.regular/interview-of-punk4156-by-punk6529-257f8468688e",
           "publishedOn": "2022-10-31T23:00:03.000Z",
-          "wordCount": 8824,
+          "wordCount": 8827,
           "title": "Interview of Punk4156 by Punk6529",
           "imageUrl": null
         },
@@ -101,7 +111,7 @@
           "description": "Community Memo: Values and Focus",
           "link": "https://gov.near.org/t/community-memo-values-and-focus/30774",
           "publishedOn": "2022-10-31T20:00:04.000Z",
-          "wordCount": 2818,
+          "wordCount": 2823,
           "title": "Community Memo: Values and Focus",
           "imageUrl": "https://gov.near.org/uploads/default/original/1X/ac4dfa285dc4377bc9f6de882875ed1724620241.png"
         },
@@ -193,16 +203,6 @@
           "publishedOn": "2022-10-31T14:30:02.000Z",
           "wordCount": 75164,
           "title": "[PDF] 2201.07220.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bitcoin.org/bitcoin.pdf",
-          "author": null,
-          "description": "[PDF] bitcoin.pdf",
-          "link": "https://bitcoin.org/bitcoin.pdf",
-          "publishedOn": "2022-10-31T04:00:04.000Z",
-          "wordCount": 3816,
-          "title": "[PDF] bitcoin.pdf",
           "imageUrl": null
         }
       ]
