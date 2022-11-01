@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=17QJb7xU2tI",
+          "author": null,
+          "description": "Ultravolatile",
+          "link": "https://www.youtube.com/watch?v=17QJb7xU2tI",
+          "publishedOn": "2022-11-01T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Ultravolatile",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QvrZqwZ3Ocg",
           "author": null,
           "description": "Are NFT Royalties the Way? How to Build a Sustainable Creator Economy - Ep. 414",
@@ -61,9 +71,9 @@
           "description": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
           "link": "https://github.com/romanz/electrs/issues/783",
           "publishedOn": "2022-11-01T19:00:03.000Z",
-          "wordCount": 1990,
+          "wordCount": 2079,
           "title": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
-          "imageUrl": "https://opengraph.githubassets.com/be184b8bdc2c6f616604d39ea074ebc96324580c167c3a0447c6326cdfed7868/romanz/electrs/issues/783"
+          "imageUrl": "https://opengraph.githubassets.com/0aba4bda85d41a13c0e6a43d97df91deaccec2bb118cdaaa93876330a34d0d6f/romanz/electrs/issues/783"
         },
         {
           "id": "https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80",
@@ -94,16 +104,6 @@
           "wordCount": 3713,
           "title": "Oracle extractable value (OEV)",
           "imageUrl": "https://miro.medium.com/max/640/1*5LhUzvyLYAf5-Tso3d759g.png"
-        },
-        {
-          "id": "https://www.eventbrite.com/e/celo-connect-salon-sf-blockchain-week-tickets-439658599707?aff=odcleoeventsincollection",
-          "author": null,
-          "description": "Celo Connect Salon @ SF Blockchain Week",
-          "link": "https://www.eventbrite.com/e/celo-connect-salon-sf-blockchain-week-tickets-439658599707?aff=odcleoeventsincollection",
-          "publishedOn": "2022-11-01T18:00:05.000Z",
-          "wordCount": 3548,
-          "title": "Celo Connect Salon @ SF Blockchain Week",
-          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F372578999%2F918413312763%2F1%2Foriginal.20221013-034831?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4500%2C2250&s=a3676f5e509f5a849527753dee58099e"
         },
         {
           "id": "https://www.rewind.ai/",
@@ -161,15 +161,15 @@
           "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
           "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 64253,
+          "wordCount": 64203,
           "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
         },
         {
-          "id": "https://ftx.us/",
+          "id": "https://ftx.us/?fromIntl=true",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/",
+          "link": "https://ftx.us/?fromIntl=true",
           "publishedOn": "2022-11-01T03:00:02.000Z",
           "wordCount": 593,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -181,7 +181,7 @@
           "description": "Rocky Treasury-Market Trading Rattles Wall Street",
           "link": "https://www.wsj.com/articles/rocky-treasury-market-trading-rattles-wall-street-11667086782",
           "publishedOn": "2022-11-01T01:00:04.000Z",
-          "wordCount": 6236,
+          "wordCount": 6235,
           "title": "Rocky Treasury-Market Trading Rattles Wall Street",
           "imageUrl": "https://images.wsj.net/im-654448/social"
         },
