@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QvrZqwZ3Ocg",
+          "author": null,
+          "description": "Are NFT Royalties the Way? How to Build a Sustainable Creator Economy - Ep. 414",
+          "link": "https://www.youtube.com/watch?v=QvrZqwZ3Ocg",
+          "publishedOn": "2022-11-01T19:30:04.000Z",
+          "wordCount": null,
+          "title": "Are NFT Royalties the Way? How to Build a Sustainable Creator Economy - Ep. 414",
+          "imageUrl": null
+        },
+        {
           "id": "https://variant.fund/articles/building-a-better-nft-debt-market/",
           "author": null,
           "description": "Why we're backing NiftyApes",
@@ -36,12 +46,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://nouns.build/",
+          "author": null,
+          "description": "Nouns your ideas",
+          "link": "https://nouns.build/",
+          "publishedOn": "2022-11-01T19:00:03.000Z",
+          "wordCount": 381,
+          "title": "Nouns your ideas",
+          "imageUrl": "https://nouns.build/social-preview.jpg}"
+        },
+        {
           "id": "https://github.com/romanz/electrs/issues/783",
           "author": null,
           "description": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
           "link": "https://github.com/romanz/electrs/issues/783",
           "publishedOn": "2022-11-01T19:00:03.000Z",
-          "wordCount": 1977,
+          "wordCount": 1990,
           "title": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
           "imageUrl": "https://opengraph.githubassets.com/be184b8bdc2c6f616604d39ea074ebc96324580c167c3a0447c6326cdfed7868/romanz/electrs/issues/783"
         },
@@ -81,7 +101,7 @@
           "description": "Celo Connect Salon @ SF Blockchain Week",
           "link": "https://www.eventbrite.com/e/celo-connect-salon-sf-blockchain-week-tickets-439658599707?aff=odcleoeventsincollection",
           "publishedOn": "2022-11-01T18:00:05.000Z",
-          "wordCount": 3547,
+          "wordCount": 3548,
           "title": "Celo Connect Salon @ SF Blockchain Week",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F372578999%2F918413312763%2F1%2Foriginal.20221013-034831?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4500%2C2250&s=a3676f5e509f5a849527753dee58099e"
         },
@@ -131,7 +151,7 @@
           "description": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
           "link": "https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta",
           "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 1051,
+          "wordCount": 1052,
           "title": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
           "imageUrl": "https://opengraph.githubassets.com/439c12730f35f01e412cdbbc288b88071b094e3a495205ce101e275647d3d0b6/lightningnetwork/lnd/releases/tag/v0.15.4-beta"
         },
@@ -141,7 +161,7 @@
           "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
           "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 64400,
+          "wordCount": 64253,
           "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
         },
@@ -161,7 +181,7 @@
           "description": "Rocky Treasury-Market Trading Rattles Wall Street",
           "link": "https://www.wsj.com/articles/rocky-treasury-market-trading-rattles-wall-street-11667086782",
           "publishedOn": "2022-11-01T01:00:04.000Z",
-          "wordCount": 6220,
+          "wordCount": 6236,
           "title": "Rocky Treasury-Market Trading Rattles Wall Street",
           "imageUrl": "https://images.wsj.net/im-654448/social"
         },
@@ -176,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright",
-          "author": null,
-          "description": "Hodlonaut Defeats Craig Wright In Norwegian Court Case For Defamation",
-          "link": "https://bitcoinmagazine.com/legal/hodlonaut-wins-defamation-case-against-craig-wright",
-          "publishedOn": "2022-10-31T20:00:04.000Z",
-          "wordCount": 2782,
-          "title": "Hodlonaut Defeats Craig Wright In Norwegian Court Case For Defamation",
-          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTkzMTY1MTY2ODMyMDAyNzE5/hodlonaut-v-wright-day5_301_19_42_15still001.png"
-        },
-        {
           "id": "https://mirror.xyz/haunventures.eth/_wWK2w_xwsG5-rHv5HN3TJezJJRGCv7te6VLZBzX7mw",
           "author": null,
           "description": "New Rules for a New Thing: A Petition for CFTC Rulemaking on DAO Participant Liability",
@@ -194,16 +204,6 @@
           "wordCount": 2282,
           "title": "New Rules for a New Thing: A Petition for CFTC Rulemaking on DAO Participant Liability",
           "imageUrl": "https://mirror-media.imgix.net/nft/1prburPTUt2M1M1FBGac0.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://arxiv.org/pdf/2201.07220.pdf",
-          "author": null,
-          "description": "[PDF] 2201.07220.pdf",
-          "link": "https://arxiv.org/pdf/2201.07220.pdf",
-          "publishedOn": "2022-10-31T14:30:02.000Z",
-          "wordCount": 75164,
-          "title": "[PDF] 2201.07220.pdf",
-          "imageUrl": null
         }
       ]
     }
