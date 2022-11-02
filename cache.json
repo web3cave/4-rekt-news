@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
-          "author": null,
-          "description": "What Information Wants with Rhys Lindmark | GreenPill #58",
-          "link": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
-          "publishedOn": "2022-11-02T08:30:02.000Z",
-          "wordCount": null,
-          "title": "What Information Wants with Rhys Lindmark | GreenPill #58",
-          "imageUrl": null
-        },
-        {
           "id": "https://newsletter.banklesshq.com/p/5-must-have-crypto-analytics-tools",
           "author": null,
           "description": "5 Must-Have Crypto Analytics Tools",
@@ -41,7 +31,7 @@
           "description": "MyCrypto’s Security Guide For Dummies And Smart People Too",
           "link": "https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e",
           "publishedOn": "2022-11-02T05:00:03.000Z",
-          "wordCount": 9297,
+          "wordCount": 9334,
           "title": "MyCrypto’s Security Guide For Dummies And Smart People Too",
           "imageUrl": "https://miro.medium.com/max/640/1*4rLnrJums--98eQS8kE9Ew.jpeg"
         },
@@ -54,6 +44,16 @@
           "wordCount": 5154,
           "title": "The Ten Commandments of crypto security",
           "imageUrl": "https://miro.medium.com/freeze/max/600/1*2EO2pFcHfQSK3pU3ak9QIg.gif"
+        },
+        {
+          "id": "https://blog.chain.link/low-latency-oracle-solution/",
+          "author": null,
+          "description": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
+          "link": "https://blog.chain.link/low-latency-oracle-solution/",
+          "publishedOn": "2022-11-02T01:00:03.000Z",
+          "wordCount": 3522,
+          "title": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
+          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/11/low-latency-oracle-solution-banner.png"
         },
         {
           "id": "https://blog.chain.link/chainlink-staking-crowdsourced-audit/",
@@ -201,7 +201,7 @@
           "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
           "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 65055,
+          "wordCount": 64908,
           "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
         }
