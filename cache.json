@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/technology/jack-dorsey-retains-stake-twitter-saving-elon-musk-1-billion",
+          "author": null,
+          "description": "Jack Dorsey Retains Stake In Twitter, Saving Elon Musk $1 Billion | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/jack-dorsey-retains-stake-twitter-saving-elon-musk-1-billion",
+          "publishedOn": "2022-11-02T03:00:02.000Z",
+          "wordCount": 893,
+          "title": "Jack Dorsey Retains Stake In Twitter, Saving Elon Musk $1 Billion | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
           "author": null,
           "description": "What Information Wants with Rhys Lindmark | GreenPill #58",
@@ -81,7 +91,7 @@
           "description": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
           "link": "https://github.com/romanz/electrs/issues/783",
           "publishedOn": "2022-11-01T19:00:03.000Z",
-          "wordCount": 2079,
+          "wordCount": 2095,
           "title": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
           "imageUrl": "https://opengraph.githubassets.com/0aba4bda85d41a13c0e6a43d97df91deaccec2bb118cdaaa93876330a34d0d6f/romanz/electrs/issues/783"
         },
@@ -111,7 +121,7 @@
           "description": "Oracle extractable value (OEV)",
           "link": "https://medium.com/api3/oracle-extractable-value-oev-13c1b6d53c5b",
           "publishedOn": "2022-11-01T19:00:03.000Z",
-          "wordCount": 3716,
+          "wordCount": 3713,
           "title": "Oracle extractable value (OEV)",
           "imageUrl": "https://miro.medium.com/max/640/1*5LhUzvyLYAf5-Tso3d759g.png"
         },
@@ -191,19 +201,9 @@
           "description": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "link": "https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties",
           "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 64720,
+          "wordCount": 65079,
           "title": "Stepn founders' bright idea for its new NFT marketplace: compulsory royalties",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220601_STEPN.jpg"
-        },
-        {
-          "id": "https://ftx.us/?fromIntl=true",
-          "author": null,
-          "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/?fromIntl=true",
-          "publishedOn": "2022-11-01T03:00:02.000Z",
-          "wordCount": 593,
-          "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
         }
       ]
     }
