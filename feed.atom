@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T10:26:46.967Z</id>
+    <id>urn:2022-11-02T11:21:19.635Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T10:26:46.967Z</updated>
+    <updated>2022-11-02T11:21:19.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://xamanap.medium.com/the-ten-commandments-of-crypto-security-3cd616185d40"/>
         <updated>2022-11-02T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Ten Commandments of crypto security]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink]]></title>
+        <id>https://blog.chain.link/low-latency-oracle-solution/</id>
+        <link href="https://blog.chain.link/low-latency-oracle-solution/"/>
+        <updated>2022-11-02T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta"/>
         <updated>2022-11-01T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Release lnd v0.15.4-beta · lightningnetwork/lnd]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stepn founders' bright idea for its new NFT marketplace: compulsory royalties]]></title>
-        <id>https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties</id>
-        <link href="https://www.theblock.co/post/180785/stepn-founders-bright-idea-for-its-new-nft-marketplace-compulsory-royalties"/>
-        <updated>2022-11-01T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Stepn founders' bright idea for its new NFT marketplace: compulsory royalties]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
