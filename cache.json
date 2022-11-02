@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
+          "author": null,
+          "description": "What Information Wants with Rhys Lindmark | GreenPill #58",
+          "link": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
+          "publishedOn": "2022-11-02T14:00:05.000Z",
+          "wordCount": null,
+          "title": "What Information Wants with Rhys Lindmark | GreenPill #58",
+          "imageUrl": null
+        },
+        {
           "id": "https://archinect.com/news/article/150328692/moma-to-host-refik-anadol-s-first-solo-us-museum-exhibition",
           "author": null,
           "description": "MoMA to host Refik Anadol’s first solo US museum exhibition",
           "link": "https://archinect.com/news/article/150328692/moma-to-host-refik-anadol-s-first-solo-us-museum-exhibition",
           "publishedOn": "2022-11-02T13:00:03.000Z",
-          "wordCount": 5638,
+          "wordCount": 5642,
           "title": "MoMA to host Refik Anadol’s first solo US museum exhibition",
           "imageUrl": "https://archinect.imgix.net/uploads/98/98e3d1197135d6588106190211a313f8.jpeg?fit=crop&auto=compress%2Cformat&w=1200"
         },
@@ -41,7 +51,7 @@
           "description": "5 Must-Have Crypto Analytics Tools",
           "link": "https://newsletter.banklesshq.com/p/5-must-have-crypto-analytics-tools",
           "publishedOn": "2022-11-02T07:30:04.000Z",
-          "wordCount": 6143,
+          "wordCount": 6349,
           "title": "5 Must-Have Crypto Analytics Tools",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0662d10-74ce-4b33-a583-129f1b27343e_1798x1011.jpeg"
         },
@@ -81,7 +91,7 @@
           "description": "MEV-boost and layer-1’s censorship resistance",
           "link": "https://stonecoldpat.substack.com/p/mev-boost",
           "publishedOn": "2022-11-01T23:30:05.000Z",
-          "wordCount": 6273,
+          "wordCount": 6479,
           "title": "MEV-boost and layer-1’s censorship resistance",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb401659b-848c-4b0d-86c8-3241651d289f_1600x973.png"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1019,
           "title": "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.globenewswire.com/news-release/2022/11/01/2545507/0/en/Grayscale-Investments-and-The-Harris-Poll-Survey-Reveals-that-Democrats-and-Republicans-Agree-Cryptocurrency-is-the-Future-of-Finance.html",
-          "author": null,
-          "description": "Grayscale Investments® and The Harris Poll Survey Reveals that Democrats and Republicans Agree Cryptocurrency is the...",
-          "link": "https://www.globenewswire.com/news-release/2022/11/01/2545507/0/en/Grayscale-Investments-and-The-Harris-Poll-Survey-Reveals-that-Democrats-and-Republicans-Agree-Cryptocurrency-is-the-Future-of-Finance.html",
-          "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 1319,
-          "title": "Grayscale Investments® and The Harris Poll Survey Reveals that Democrats and Republicans Agree Cryptocurrency is the...",
-          "imageUrl": "https://ml.globenewswire.com/Resource/Download/eed22808-d372-44ab-b39a-ee0407d5e0fe?size=1"
         },
         {
           "id": "https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta",
