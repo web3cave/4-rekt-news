@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T16:36:58.208Z</id>
+    <id>urn:2022-11-02T17:35:24.519Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T16:36:58.208Z</updated>
+    <updated>2022-11-02T17:35:24.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></title>
-        <id>https://github.com/romanz/electrs/issues/783</id>
-        <link href="https://github.com/romanz/electrs/issues/783"/>
-        <updated>2022-11-02T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></summary>
+        <title type="html"><![CDATA[Speed Run Ethereum]]></title>
+        <id>https://speedrunethereum.com/</id>
+        <link href="https://speedrunethereum.com/"/>
+        <updated>2022-11-02T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Nic Carter fueled demand for tungsten on crypto Twitter]]></title>
+        <id>https://protos.com/how-nic-carter-fueled-demand-for-tungsten-on-crypto-twitter/</id>
+        <link href="https://protos.com/how-nic-carter-fueled-demand-for-tungsten-on-crypto-twitter/"/>
+        <updated>2022-11-02T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[How Nic Carter fueled demand for tungsten on crypto Twitter]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves]]></title>
+        <id>https://www.coindesk.com/layer2/2022/11/02/stop-using-the-word-platform-and-other-defi-language-pet-peeves/</id>
+        <link href="https://www.coindesk.com/layer2/2022/11/02/stop-using-the-word-platform-and-other-defi-language-pet-peeves/"/>
+        <updated>2022-11-02T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -21,6 +41,16 @@
         <link href="https://panteracapital.com/blockchain-letter/blockchains-2003-moment/"/>
         <updated>2022-11-02T15:30:05.000Z</updated>
         <summary type="html"><![CDATA[Blockchain's 2003 Moment | Pantera]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairmint - Share your company's success with your community | Product Hunt]]></title>
+        <id>https://www.producthunt.com/posts/fairmint</id>
+        <link href="https://www.producthunt.com/posts/fairmint"/>
+        <updated>2022-11-02T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Fairmint - Share your company's success with your community | Product Hunt]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,36 +191,6 @@
         <link href="https://zachxbt.mirror.xyz/30AYxD0ecbQlEU2JoabySmIvSAaHWbPe5U4o4VNigL0"/>
         <updated>2022-11-01T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Gone phishing for $5m]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOME | A2 Accelerate Art]]></title>
-        <id>https://www.accelerateart.org/</id>
-        <link href="https://www.accelerateart.org/"/>
-        <updated>2022-11-01T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[HOME | A2 Accelerate Art]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewind]]></title>
-        <id>https://www.rewind.ai/</id>
-        <link href="https://www.rewind.ai/"/>
-        <updated>2022-11-01T17:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Rewind]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog]]></title>
-        <id>https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/</id>
-        <link href="https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"/>
-        <updated>2022-11-01T17:30:05.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
