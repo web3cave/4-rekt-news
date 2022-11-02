@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://earni.fi/?utm_source=bankless&utm_medium=podcast&utm_campaign=nov-22-blitz",
+          "author": null,
+          "description": "Earnifi | Find Crypto Airdrops",
+          "link": "https://earni.fi/?utm_source=bankless&utm_medium=podcast&utm_campaign=nov-22-blitz",
+          "publishedOn": "2022-11-02T12:30:02.000Z",
+          "wordCount": 426,
+          "title": "Earnifi | Find Crypto Airdrops",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jY_Tye7oIWc",
           "author": null,
           "description": "What Information Wants with Rhys Lindmark | GreenPill #58",
@@ -16,12 +26,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live",
+          "author": null,
+          "description": "First Industry Pilot for Digital Asset and Decentralised Finance Goes Live",
+          "link": "https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live",
+          "publishedOn": "2022-11-02T07:30:04.000Z",
+          "wordCount": 1859,
+          "title": "First Industry Pilot for Digital Asset and Decentralised Finance Goes Live",
+          "imageUrl": "https://www.mas.gov.sg/-/media/MAS-Media-Library/Configuration/CMS/Social-Default-Image/MAS-logo-Corporate-branding_square_01.jpg"
+        },
+        {
           "id": "https://newsletter.banklesshq.com/p/5-must-have-crypto-analytics-tools",
           "author": null,
           "description": "5 Must-Have Crypto Analytics Tools",
           "link": "https://newsletter.banklesshq.com/p/5-must-have-crypto-analytics-tools",
           "publishedOn": "2022-11-02T07:30:04.000Z",
-          "wordCount": 6351,
+          "wordCount": 6145,
           "title": "5 Must-Have Crypto Analytics Tools",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0662d10-74ce-4b33-a583-129f1b27343e_1798x1011.jpeg"
         },
@@ -41,7 +61,7 @@
           "description": "MyCrypto’s Security Guide For Dummies And Smart People Too",
           "link": "https://medium.com/mycrypto/mycryptos-security-guide-for-dummies-and-smart-people-too-ab178299c82e",
           "publishedOn": "2022-11-02T05:00:03.000Z",
-          "wordCount": 9334,
+          "wordCount": 9297,
           "title": "MyCrypto’s Security Guide For Dummies And Smart People Too",
           "imageUrl": "https://miro.medium.com/max/640/1*4rLnrJums--98eQS8kE9Ew.jpeg"
         },
@@ -56,14 +76,14 @@
           "imageUrl": "https://miro.medium.com/freeze/max/600/1*2EO2pFcHfQSK3pU3ak9QIg.gif"
         },
         {
-          "id": "https://blog.chain.link/low-latency-oracle-solution/",
+          "id": "https://stonecoldpat.substack.com/p/mev-boost",
           "author": null,
-          "description": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
-          "link": "https://blog.chain.link/low-latency-oracle-solution/",
-          "publishedOn": "2022-11-02T01:00:03.000Z",
-          "wordCount": 3522,
-          "title": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
-          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/11/low-latency-oracle-solution-banner.png"
+          "description": "MEV-boost and layer-1’s censorship resistance",
+          "link": "https://stonecoldpat.substack.com/p/mev-boost",
+          "publishedOn": "2022-11-01T23:30:05.000Z",
+          "wordCount": 6273,
+          "title": "MEV-boost and layer-1’s censorship resistance",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb401659b-848c-4b0d-86c8-3241651d289f_1600x973.png"
         },
         {
           "id": "https://blog.chain.link/chainlink-staking-crowdsourced-audit/",
@@ -126,16 +146,6 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/ubPolkuDnFNP11z3CeMqp.png?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://github.com/romanz/electrs/issues/783",
-          "author": null,
-          "description": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
-          "link": "https://github.com/romanz/electrs/issues/783",
-          "publishedOn": "2022-11-01T19:00:03.000Z",
-          "wordCount": 2108,
-          "title": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
-          "imageUrl": "https://opengraph.githubassets.com/0aba4bda85d41a13c0e6a43d97df91deaccec2bb118cdaaa93876330a34d0d6f/romanz/electrs/issues/783"
-        },
-        {
           "id": "https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80",
           "author": null,
           "description": "How to protect your crypto assets",
@@ -174,16 +184,6 @@
           "wordCount": 1019,
           "title": "CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.benzinga.com/content/29482439/boris-johnson-former-prime-minister-of-the-united-kingdom-to-attend-international-symposium-on-block",
-          "author": null,
-          "description": "Boris Johnson, former Prime Minister of the United Kingdom, to attend International Symposium on Blockchain...",
-          "link": "https://www.benzinga.com/content/29482439/boris-johnson-former-prime-minister-of-the-united-kingdom-to-attend-international-symposium-on-block",
-          "publishedOn": "2022-11-01T16:30:03.000Z",
-          "wordCount": 1307,
-          "title": "Boris Johnson, former Prime Minister of the United Kingdom, to attend International Symposium on Blockchain...",
-          "imageUrl": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
         },
         {
           "id": "https://www.globenewswire.com/news-release/2022/11/01/2545507/0/en/Grayscale-Investments-and-The-Harris-Poll-Survey-Reveals-that-Democrats-and-Republicans-Agree-Cryptocurrency-is-the-Future-of-Finance.html",

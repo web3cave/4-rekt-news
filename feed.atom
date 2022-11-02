@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T11:21:19.635Z</id>
+    <id>urn:2022-11-02T12:53:13.914Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T11:21:19.635Z</updated>
+    <updated>2022-11-02T12:53:13.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Earnifi | Find Crypto Airdrops]]></title>
+        <id>https://earni.fi/?utm_source=bankless&amp;utm_medium=podcast&amp;utm_campaign=nov-22-blitz</id>
+        <link href="https://earni.fi/?utm_source=bankless&amp;utm_medium=podcast&amp;utm_campaign=nov-22-blitz"/>
+        <updated>2022-11-02T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Earnifi | Find Crypto Airdrops]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Information Wants with Rhys Lindmark | GreenPill #58]]></title>
         <id>https://www.youtube.com/watch?v=jY_Tye7oIWc</id>
         <link href="https://www.youtube.com/watch?v=jY_Tye7oIWc"/>
         <updated>2022-11-02T09:30:03.000Z</updated>
         <summary type="html"><![CDATA[What Information Wants with Rhys Lindmark | GreenPill #58]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Industry Pilot for Digital Asset and Decentralised Finance Goes Live]]></title>
+        <id>https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live</id>
+        <link href="https://www.mas.gov.sg/news/media-releases/2022/first-industry-pilot-for-digital-asset-and-decentralised-finance-goes-live"/>
+        <updated>2022-11-02T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[First Industry Pilot for Digital Asset and Decentralised Finance Goes Live]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -56,11 +76,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink]]></title>
-        <id>https://blog.chain.link/low-latency-oracle-solution/</id>
-        <link href="https://blog.chain.link/low-latency-oracle-solution/"/>
-        <updated>2022-11-02T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink]]></summary>
+        <title type="html"><![CDATA[MEV-boost and layer-1’s censorship resistance]]></title>
+        <id>https://stonecoldpat.substack.com/p/mev-boost</id>
+        <link href="https://stonecoldpat.substack.com/p/mev-boost"/>
+        <updated>2022-11-01T23:30:05.000Z</updated>
+        <summary type="html"><![CDATA[MEV-boost and layer-1’s censorship resistance]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -126,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></title>
-        <id>https://github.com/romanz/electrs/issues/783</id>
-        <link href="https://github.com/romanz/electrs/issues/783"/>
-        <updated>2022-11-01T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to protect your crypto assets]]></title>
         <id>https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80</id>
         <link href="https://mirror.xyz/crisgarner.eth/gJjASuCkbXJ1w574ePvJ3kNyWBZQfUyelMvsp4ujZ80"/>
@@ -171,16 +181,6 @@
         <link href="https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/"/>
         <updated>2022-11-01T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[CVE-2022-3786 and CVE-2022-3602: X.509 Email Address Buffer Overflows - OpenSSL Blog]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boris Johnson, former Prime Minister of the United Kingdom, to attend International Symposium on Blockchain...]]></title>
-        <id>https://www.benzinga.com/content/29482439/boris-johnson-former-prime-minister-of-the-united-kingdom-to-attend-international-symposium-on-block</id>
-        <link href="https://www.benzinga.com/content/29482439/boris-johnson-former-prime-minister-of-the-united-kingdom-to-attend-international-symposium-on-block"/>
-        <updated>2022-11-01T16:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Boris Johnson, former Prime Minister of the United Kingdom, to attend International Symposium on Blockchain...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
