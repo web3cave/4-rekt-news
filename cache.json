@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.rewind.ai/",
+          "author": null,
+          "description": "Rewind",
+          "link": "https://www.rewind.ai/",
+          "publishedOn": "2022-11-02T18:00:06.000Z",
+          "wordCount": 549,
+          "title": "Rewind",
+          "imageUrl": "https://storage.googleapis.com/rewindai/assets/rewind-thumb.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yIxWvO3cgNg&feature=youtu.be",
+          "author": null,
+          "description": "LIVE: Bitboy on Bankless",
+          "link": "https://www.youtube.com/watch?v=yIxWvO3cgNg&feature=youtu.be",
+          "publishedOn": "2022-11-02T18:00:06.000Z",
+          "wordCount": null,
+          "title": "LIVE: Bitboy on Bankless",
+          "imageUrl": null
+        },
+        {
           "id": "https://speedrunethereum.com/",
           "author": null,
           "description": "Speed Run Ethereum",
@@ -21,7 +41,7 @@
           "description": "How Nic Carter fueled demand for tungsten on crypto Twitter",
           "link": "https://protos.com/how-nic-carter-fueled-demand-for-tungsten-on-crypto-twitter/",
           "publishedOn": "2022-11-02T17:30:04.000Z",
-          "wordCount": 2425,
+          "wordCount": 2426,
           "title": "How Nic Carter fueled demand for tungsten on crypto Twitter",
           "imageUrl": "https://protos.com/wp-content/uploads/2022/11/Protos-Artwork-CarterTungsten-SIMG.jpg"
         },
@@ -31,9 +51,19 @@
           "description": "Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves",
           "link": "https://www.coindesk.com/layer2/2022/11/02/stop-using-the-word-platform-and-other-defi-language-pet-peeves/",
           "publishedOn": "2022-11-02T17:00:03.000Z",
-          "wordCount": 7133,
+          "wordCount": 7126,
           "title": "Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves",
           "imageUrl": "https://www.coindesk.com/resizer/t5gI1qoazfXMV2w_xhqUWFqkuTw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O232AGAVWNGTBINDAQDBCC5WEI.jpg"
+        },
+        {
+          "id": "https://www.theblock.co/post/182058/centrifuge-raises-strategic-round?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "DeFi protocol Centrifuge raises $4 million in strategic round: Exclusive",
+          "link": "https://www.theblock.co/post/182058/centrifuge-raises-strategic-round?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-02T17:00:03.000Z",
+          "wordCount": 64266,
+          "title": "DeFi protocol Centrifuge raises $4 million in strategic round: Exclusive",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Centrifuge-image.jpeg"
         },
         {
           "id": "https://panteracapital.com/blockchain-letter/blockchains-2003-moment/",
@@ -51,7 +81,7 @@
           "description": "Fairmint - Share your company's success with your community | Product Hunt",
           "link": "https://www.producthunt.com/posts/fairmint",
           "publishedOn": "2022-11-02T15:30:05.000Z",
-          "wordCount": 986,
+          "wordCount": 1072,
           "title": "Fairmint - Share your company's success with your community | Product Hunt",
           "imageUrl": "https://ph-files.imgix.net/978f084e-97a6-46f5-980a-9776de89aff1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -101,7 +131,7 @@
           "description": "5 Must-Have Crypto Analytics Tools",
           "link": "https://newsletter.banklesshq.com/p/5-must-have-crypto-analytics-tools",
           "publishedOn": "2022-11-02T07:30:04.000Z",
-          "wordCount": 6348,
+          "wordCount": 6142,
           "title": "5 Must-Have Crypto Analytics Tools",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0662d10-74ce-4b33-a583-129f1b27343e_1798x1011.jpeg"
         },
@@ -116,32 +146,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/technology/jack-dorsey-retains-stake-twitter-saving-elon-musk-1-billion",
-          "author": null,
-          "description": "Jack Dorsey Retains Stake In Twitter, Saving Elon Musk $1 Billion | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/jack-dorsey-retains-stake-twitter-saving-elon-musk-1-billion",
-          "publishedOn": "2022-11-02T03:00:02.000Z",
-          "wordCount": 893,
-          "title": "Jack Dorsey Retains Stake In Twitter, Saving Elon Musk $1 Billion | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.chain.link/low-latency-oracle-solution/",
-          "author": null,
-          "description": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
-          "link": "https://blog.chain.link/low-latency-oracle-solution/",
-          "publishedOn": "2022-11-02T01:00:03.000Z",
-          "wordCount": 3522,
-          "title": "A Low-Latency Oracle Solution for the DeFi Derivatives Market | Chainlink",
-          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/11/low-latency-oracle-solution-banner.png"
-        },
-        {
           "id": "https://stonecoldpat.substack.com/p/mev-boost",
           "author": null,
           "description": "MEV-boost and layer-1’s censorship resistance",
           "link": "https://stonecoldpat.substack.com/p/mev-boost",
           "publishedOn": "2022-11-01T23:30:05.000Z",
-          "wordCount": 6479,
+          "wordCount": 6273,
           "title": "MEV-boost and layer-1’s censorship resistance",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb401659b-848c-4b0d-86c8-3241651d289f_1600x973.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 3258,
           "title": "Gone phishing for $5m",
           "imageUrl": "https://mirror-media.imgix.net/nft/ubPolkuDnFNP11z3CeMqp.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta",
-          "author": null,
-          "description": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
-          "link": "https://github.com/lightningnetwork/lnd/releases/tag/v0.15.4-beta",
-          "publishedOn": "2022-11-01T15:00:02.000Z",
-          "wordCount": 1052,
-          "title": "Release lnd v0.15.4-beta · lightningnetwork/lnd",
-          "imageUrl": "https://opengraph.githubassets.com/439c12730f35f01e412cdbbc288b88071b094e3a495205ce101e275647d3d0b6/lightningnetwork/lnd/releases/tag/v0.15.4-beta"
         }
       ]
     }
