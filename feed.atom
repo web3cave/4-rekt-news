@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-02T15:26:04.993Z</id>
+    <id>urn:2022-11-02T16:36:58.208Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-02T15:26:04.993Z</updated>
+    <updated>2022-11-02T16:36:58.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></title>
+        <id>https://github.com/romanz/electrs/issues/783</id>
+        <link href="https://github.com/romanz/electrs/issues/783"/>
+        <updated>2022-11-02T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Bug: "oversized vector allocation" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain's 2003 Moment | Pantera]]></title>
+        <id>https://panteracapital.com/blockchain-letter/blockchains-2003-moment/</id>
+        <link href="https://panteracapital.com/blockchain-letter/blockchains-2003-moment/"/>
+        <updated>2022-11-02T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain's 2003 Moment | Pantera]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Big Tech’s Accountability Problem]]></title>
         <id>https://geoffgolberg.medium.com/big-techs-accountability-problem-2bc4fab00fc3</id>
@@ -21,16 +41,6 @@
         <link href="https://archinect.com/news/article/150328692/moma-to-host-refik-anadol-s-first-solo-us-museum-exhibition"/>
         <updated>2022-11-02T13:00:03.000Z</updated>
         <summary type="html"><![CDATA[MoMA to host Refik Anadol’s first solo US museum exhibition]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norwegian Man Now Identifies as a Disabled Woman, Uses Wheelchair "Almost All The Time" - Reduxx]]></title>
-        <id>https://reduxx.info/norwegian-man-now-identifies-as-a-disabled-woman-uses-wheelchair-almost-full-time/</id>
-        <link href="https://reduxx.info/norwegian-man-now-identifies-as-a-disabled-woman-uses-wheelchair-almost-full-time/"/>
-        <updated>2022-11-02T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Norwegian Man Now Identifies as a Disabled Woman, Uses Wheelchair "Almost All The Time" - Reduxx]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -101,16 +111,6 @@
         <link href="https://stonecoldpat.substack.com/p/mev-boost"/>
         <updated>2022-11-01T23:30:05.000Z</updated>
         <summary type="html"><![CDATA[MEV-boost and layer-1’s censorship resistance]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing a Crowdsourced Audit of Chainlink Staking v0.1]]></title>
-        <id>https://blog.chain.link/chainlink-staking-crowdsourced-audit/</id>
-        <link href="https://blog.chain.link/chainlink-staking-crowdsourced-audit/"/>
-        <updated>2022-11-01T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Announcing a Crowdsourced Audit of Chainlink Staking v0.1]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

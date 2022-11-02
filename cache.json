@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/romanz/electrs/issues/783",
+          "author": null,
+          "description": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
+          "link": "https://github.com/romanz/electrs/issues/783",
+          "publishedOn": "2022-11-02T16:00:04.000Z",
+          "wordCount": 2126,
+          "title": "Bug: \"oversized vector allocation\" due to large transaction (lots of witness inputs) · Issue #783 · romanz/electrs",
+          "imageUrl": "https://opengraph.githubassets.com/0aba4bda85d41a13c0e6a43d97df91deaccec2bb118cdaaa93876330a34d0d6f/romanz/electrs/issues/783"
+        },
+        {
+          "id": "https://panteracapital.com/blockchain-letter/blockchains-2003-moment/",
+          "author": null,
+          "description": "Blockchain's 2003 Moment | Pantera",
+          "link": "https://panteracapital.com/blockchain-letter/blockchains-2003-moment/",
+          "publishedOn": "2022-11-02T15:30:05.000Z",
+          "wordCount": 5459,
+          "title": "Blockchain's 2003 Moment | Pantera",
+          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
+        },
+        {
           "id": "https://geoffgolberg.medium.com/big-techs-accountability-problem-2bc4fab00fc3",
           "author": null,
           "description": "Big Tech’s Accountability Problem",
@@ -21,19 +41,9 @@
           "description": "MoMA to host Refik Anadol’s first solo US museum exhibition",
           "link": "https://archinect.com/news/article/150328692/moma-to-host-refik-anadol-s-first-solo-us-museum-exhibition",
           "publishedOn": "2022-11-02T13:00:03.000Z",
-          "wordCount": 5651,
+          "wordCount": 5640,
           "title": "MoMA to host Refik Anadol’s first solo US museum exhibition",
           "imageUrl": "https://archinect.imgix.net/uploads/98/98e3d1197135d6588106190211a313f8.jpeg?fit=crop&auto=compress%2Cformat&w=1200"
-        },
-        {
-          "id": "https://reduxx.info/norwegian-man-now-identifies-as-a-disabled-woman-uses-wheelchair-almost-full-time/",
-          "author": null,
-          "description": "Norwegian Man Now Identifies as a Disabled Woman, Uses Wheelchair \"Almost All The Time\" - Reduxx",
-          "link": "https://reduxx.info/norwegian-man-now-identifies-as-a-disabled-woman-uses-wheelchair-almost-full-time/",
-          "publishedOn": "2022-11-02T13:00:03.000Z",
-          "wordCount": 11455,
-          "title": "Norwegian Man Now Identifies as a Disabled Woman, Uses Wheelchair \"Almost All The Time\" - Reduxx",
-          "imageUrl": "https://reduxx.info/wp-content/uploads/2022/11/Untitled-design-89.png"
         },
         {
           "id": "https://decrypt.co/113245/secs-hester-peirce-its-just-not-a-good-way-of-regulating",
@@ -41,7 +51,7 @@
           "description": "SEC’s Hester Peirce Says Agency's Current Approach Is \"Just Not a Good Way of Regulating\" - Decrypt",
           "link": "https://decrypt.co/113245/secs-hester-peirce-its-just-not-a-good-way-of-regulating",
           "publishedOn": "2022-11-02T13:00:02.000Z",
-          "wordCount": 6637,
+          "wordCount": 6527,
           "title": "SEC’s Hester Peirce Says Agency's Current Approach Is \"Just Not a Good Way of Regulating\" - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Hester-Peirce-gID_4.jpg"
         },
@@ -104,16 +114,6 @@
           "wordCount": 6273,
           "title": "MEV-boost and layer-1’s censorship resistance",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb401659b-848c-4b0d-86c8-3241651d289f_1600x973.png"
-        },
-        {
-          "id": "https://blog.chain.link/chainlink-staking-crowdsourced-audit/",
-          "author": null,
-          "description": "Announcing a Crowdsourced Audit of Chainlink Staking v0.1",
-          "link": "https://blog.chain.link/chainlink-staking-crowdsourced-audit/",
-          "publishedOn": "2022-11-01T21:30:05.000Z",
-          "wordCount": 2878,
-          "title": "Announcing a Crowdsourced Audit of Chainlink Staking v0.1",
-          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/10/Announcing-a-Crowdsourced-Audit-of-Chainlink-Staking-v0.1-Via-Code4rena-Banner.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=17QJb7xU2tI",
