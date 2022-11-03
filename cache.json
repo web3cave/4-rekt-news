@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "http://twitter.ngo/",
+          "id": "https://curve.fi/",
           "author": null,
-          "description": "*.twitter.ngo",
-          "link": "http://twitter.ngo/",
-          "publishedOn": "2022-11-03T09:00:03.000Z",
-          "wordCount": 24,
-          "title": "*.twitter.ngo",
+          "description": "Curve.fi",
+          "link": "https://curve.fi/",
+          "publishedOn": "2022-11-03T13:00:02.000Z",
+          "wordCount": 28,
+          "title": "Curve.fi",
           "imageUrl": null
+        },
+        {
+          "id": "https://docs.lens.xyz/docs/authentication-quickstart",
+          "author": null,
+          "description": "Authentication Quickstart",
+          "link": "https://docs.lens.xyz/docs/authentication-quickstart",
+          "publishedOn": "2022-11-03T13:00:02.000Z",
+          "wordCount": 1392,
+          "title": "Authentication Quickstart",
+          "imageUrl": "https://i.ibb.co/mGtcy3j/twitter-OG.png"
         },
         {
           "id": "https://villians-digidaigaku.com/",
@@ -31,19 +41,9 @@
           "description": "Reflecting on my crypto and web3 journey, but time for a little break….",
           "link": "https://www.linkedin.com/pulse/reflecting-my-crypto-web3-journey-time-little-break-chatterjee/?published=t",
           "publishedOn": "2022-11-03T03:30:04.000Z",
-          "wordCount": 1326,
+          "wordCount": 1282,
           "title": "Reflecting on my crypto and web3 journey, but time for a little break….",
           "imageUrl": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        },
-        {
-          "id": "https://sorare.com/?irclickid=28h3271ObxyNTDlxIdRcB1NuUkDXp6xwVzIXQY0&utm_medium=impact&utm_campaign=2967187&referrer=impact&irgwc=1",
-          "author": null,
-          "description": "Sorare",
-          "link": "https://sorare.com/?irclickid=28h3271ObxyNTDlxIdRcB1NuUkDXp6xwVzIXQY0&utm_medium=impact&utm_campaign=2967187&referrer=impact&irgwc=1",
-          "publishedOn": "2022-11-03T03:00:02.000Z",
-          "wordCount": 143,
-          "title": "Sorare",
-          "imageUrl": "https://frontend-assets.sorare.com/meta/social-picture-2022.png"
         },
         {
           "id": "https://about.fb.com/news/2022/05/introducing-digital-collectibles-to-showcase-nfts-instagram/",
@@ -91,7 +91,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-02T23:00:02.000Z",
-          "wordCount": 6701,
+          "wordCount": 6579,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -101,7 +101,7 @@
           "description": "Coinbase executive departs as exchange restructures product team",
           "link": "https://www.theblock.co/post/182404/coinbase-cpo-departs-as-exchange-restructures-product-team",
           "publishedOn": "2022-11-02T23:00:02.000Z",
-          "wordCount": 61289,
+          "wordCount": 60635,
           "title": "Coinbase executive departs as exchange restructures product team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220808_Coinbase-Green.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves",
           "link": "https://www.coindesk.com/layer2/2022/11/02/stop-using-the-word-platform-and-other-defi-language-pet-peeves/",
           "publishedOn": "2022-11-02T17:00:03.000Z",
-          "wordCount": 7163,
+          "wordCount": 7033,
           "title": "Stop Using the Word 'Platform', and Other DeFi Language Pet Peeves",
           "imageUrl": "https://www.coindesk.com/resizer/t5gI1qoazfXMV2w_xhqUWFqkuTw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O232AGAVWNGTBINDAQDBCC5WEI.jpg"
         },
