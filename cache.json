@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=pYF50yDAtfM",
-          "author": null,
-          "description": "The Chopping Block Live!",
-          "link": "https://www.youtube.com/watch?v=pYF50yDAtfM",
-          "publishedOn": "2022-11-03T18:30:03.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block Live!",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/182517/revolut-chat-nft-profile-pics-storonsky?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Revolut chat function will integrate NFT profile pics, CEO Storonsky says",
@@ -41,7 +31,7 @@
           "description": "Forbes Iconoclast Summit 2022: Ray Dalio, Carl Icahn And More Investing Titans Break Down Today’s Economy",
           "link": "https://www.forbes.com/sites/hanktucker/2022/11/03/forbes-iconoclast-summit-2022-ray-dalio-carl-icahn-and-more-investing-titans-break-down-todays-economy/",
           "publishedOn": "2022-11-03T17:30:04.000Z",
-          "wordCount": 10975,
+          "wordCount": 11277,
           "title": "Forbes Iconoclast Summit 2022: Ray Dalio, Carl Icahn And More Investing Titans Break Down Today’s Economy",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6362f675eb291dd45827c5a8/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -96,6 +86,16 @@
           "imageUrl": "https://eth.build/title.jpg"
         },
         {
+          "id": "https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html",
+          "author": null,
+          "description": "Announcing Rust 1.65.0 | Rust Blog",
+          "link": "https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html",
+          "publishedOn": "2022-11-03T16:00:04.000Z",
+          "wordCount": 1151,
+          "title": "Announcing Rust 1.65.0 | Rust Blog",
+          "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+        },
+        {
           "id": "https://classic.curve.fi/",
           "author": null,
           "description": "Curve.fi",
@@ -103,6 +103,16 @@
           "publishedOn": "2022-11-03T13:00:02.000Z",
           "wordCount": 15,
           "title": "Curve.fi",
+          "imageUrl": null
+        },
+        {
+          "id": "http://twitter.ngo/",
+          "author": null,
+          "description": "*.twitter.ngo",
+          "link": "http://twitter.ngo/",
+          "publishedOn": "2022-11-03T09:00:03.000Z",
+          "wordCount": 24,
+          "title": "*.twitter.ngo",
           "imageUrl": null
         },
         {
@@ -174,16 +184,6 @@
           "wordCount": 61763,
           "title": "Coinbase executive departs as exchange restructures product team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220808_Coinbase-Green.jpg"
-        },
-        {
-          "id": "https://gist.github.com/409H/375436a0c07dc0a882a3e14267074286",
-          "author": null,
-          "description": "kai_stealer_tokens.txt",
-          "link": "https://gist.github.com/409H/375436a0c07dc0a882a3e14267074286",
-          "publishedOn": "2022-11-02T23:00:02.000Z",
-          "wordCount": 461,
-          "title": "kai_stealer_tokens.txt",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=yIxWvO3cgNg",
