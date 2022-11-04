@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T06:31:20.612Z</id>
+    <id>urn:2022-11-04T07:20:42.997Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T06:31:20.612Z</updated>
+    <updated>2022-11-04T07:20:42.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -146,21 +146,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ETH.Build - Educational Sandbox For Web3]]></title>
-        <id>https://eth.build/</id>
-        <link href="https://eth.build/"/>
-        <updated>2022-11-03T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[ETH.Build - Educational Sandbox For Web3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meebits by Yuga Labs - The Official Home of MB1]]></title>
         <id>https://turnon.meebits.app/</id>
         <link href="https://turnon.meebits.app/"/>
         <updated>2022-11-03T16:30:02.000Z</updated>
         <summary type="html"><![CDATA[Meebits by Yuga Labs - The Official Home of MB1]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Rust 1.65.0 | Rust Blog]]></title>
+        <id>https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html</id>
+        <link href="https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html"/>
+        <updated>2022-11-03T16:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Announcing Rust 1.65.0 | Rust Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
