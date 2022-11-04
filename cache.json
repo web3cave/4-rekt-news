@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://solana.com/news/asics-solana-shoe",
+          "author": null,
+          "description": "ASICS shows future of commerce with new shoes for Solana ecosystem",
+          "link": "https://solana.com/news/asics-solana-shoe",
+          "publishedOn": "2022-11-04T13:00:03.000Z",
+          "wordCount": 12831,
+          "title": "ASICS shows future of commerce with new shoes for Solana ecosystem",
+          "imageUrl": "https://solana.ghost.io/content/images/2022/11/ASICS_UIcollection_KeyGraphic_1920x1080.png"
+        },
+        {
           "id": "https://www.zellic.io/blog/ante-x-zellic",
           "author": null,
           "description": "Ante x Zellic: Audit incentive alignment",
@@ -31,7 +41,7 @@
           "description": "Michael Saylor: There is no second best! - Blockchaincenter",
           "link": "https://www.blockchaincenter.net/en/there-is-no-second-best/",
           "publishedOn": "2022-11-04T05:00:03.000Z",
-          "wordCount": 1339,
+          "wordCount": 1608,
           "title": "Michael Saylor: There is no second best! - Blockchaincenter",
           "imageUrl": "https://www.blockchaincenter.net/wp-content/uploads/tinsb.png"
         },
@@ -41,7 +51,7 @@
           "description": "Starbucks plans to tap young, wealthy customers to weather recession",
           "link": "https://www.reuters.com/business/retail-consumer/starbucks-beats-quarterly-sales-estimate-pricey-drinks-robust-demand-2022-11-03/",
           "publishedOn": "2022-11-04T03:00:02.000Z",
-          "wordCount": 5607,
+          "wordCount": 5588,
           "title": "Starbucks plans to tap young, wealthy customers to weather recession",
           "imageUrl": "https://www.reuters.com/resizer/T5YzNpxmKuAccXnMcz7-41EniC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2PWVFHVH5FJSFGJH5RBQA4LYF4.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Circle Begins Putting Reserves Into New BlackRock Fund",
           "link": "https://www.coindesk.com/business/2022/11/03/circle-begins-putting-reserves-into-new-blackrock-fund/",
           "publishedOn": "2022-11-04T01:30:07.000Z",
-          "wordCount": 6317,
+          "wordCount": 6478,
           "title": "Circle Begins Putting Reserves Into New BlackRock Fund",
           "imageUrl": "https://www.coindesk.com/resizer/4216niA0tQzwitI7C2l2oA1Xcm0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PFBKERQN3JHBJKTU5ZEFFPHU4E.png"
         },
@@ -116,22 +126,12 @@
           "imageUrl": "https://blog.xmtp.com/content/images/2022/11/BLOG-LensAnnounce.png"
         },
         {
-          "id": "https://www.fidelity.com/crypto/trading?ccmedia=Twitter&ccchannel=social_organic&cccampaign=crypto&ccdate=202211&cccreative=crypto_ea&ccformat=image&Utm_Campaign=sf261523252&utm_campaign=sf261523252&sf261523252=1",
-          "author": null,
-          "description": "Fidelity Crypto℠ | Get on the early access list for investing & trading Bitcoin and Ethereum",
-          "link": "https://www.fidelity.com/crypto/trading?ccmedia=Twitter&ccchannel=social_organic&cccampaign=crypto&ccdate=202211&cccreative=crypto_ea&ccformat=image&Utm_Campaign=sf261523252&utm_campaign=sf261523252&sf261523252=1",
-          "publishedOn": "2022-11-03T17:30:04.000Z",
-          "wordCount": 2883,
-          "title": "Fidelity Crypto℠ | Get on the early access list for investing & trading Bitcoin and Ethereum",
-          "imageUrl": null
-        },
-        {
           "id": "https://medium.com/walletconnect/walletconnect-raises-12-5-million-to-build-out-a-decentralized-communications-network-9f1851709954",
           "author": null,
           "description": "WalletConnect Raises $12.5",
           "link": "https://medium.com/walletconnect/walletconnect-raises-12-5-million-to-build-out-a-decentralized-communications-network-9f1851709954",
           "publishedOn": "2022-11-03T17:00:02.000Z",
-          "wordCount": 3324,
+          "wordCount": 2917,
           "title": "WalletConnect Raises $12.5",
           "imageUrl": "https://miro.medium.com/max/1200/1*R4-as1PuAngsTUsyI3EBCg.png"
         },
@@ -154,6 +154,16 @@
           "wordCount": null,
           "title": "EIP4844 is coming, Instagram integrates with Polygon - The Daily Gwei Refuel #481 - Ethereum Updates",
           "imageUrl": null
+        },
+        {
+          "id": "https://roninblockchain.substack.com/p/share-game-studios-to-work-with-us",
+          "author": null,
+          "description": "Sky Mavis is Building the Next Generation of Games with Studio Partners - Join Us.",
+          "link": "https://roninblockchain.substack.com/p/share-game-studios-to-work-with-us",
+          "publishedOn": "2022-11-03T17:00:02.000Z",
+          "wordCount": 3542,
+          "title": "Sky Mavis is Building the Next Generation of Games with Studio Partners - Join Us.",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F051f3b4a-a7ab-4210-b9fa-554c21f6059b_3543x2362.jpeg"
         },
         {
           "id": "https://turnon.meebits.app/",
@@ -191,19 +201,9 @@
           "description": "Introducing Digital Collectibles to Showcase NFTs on Instagram | Meta",
           "link": "https://about.fb.com/news/2022/05/introducing-digital-collectibles-to-showcase-nfts-instagram/",
           "publishedOn": "2022-11-03T01:00:03.000Z",
-          "wordCount": 5979,
+          "wordCount": 5791,
           "title": "Introducing Digital Collectibles to Showcase NFTs on Instagram | Meta",
           "imageUrl": "https://about.fb.com/wp-content/uploads/2022/05/Introducing-Digital-Collectibles-to-Showcase-NFTs-on-Instagram_Header-1.jpg?w=1200"
-        },
-        {
-          "id": "https://demo.succinct.xyz/",
-          "author": null,
-          "description": "Succinct Demo",
-          "link": "https://demo.succinct.xyz/",
-          "publishedOn": "2022-11-03T01:00:03.000Z",
-          "wordCount": 140,
-          "title": "Succinct Demo",
-          "imageUrl": null
         }
       ]
     }
