@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-04T07:20:42.997Z</id>
+    <id>urn:2022-11-04T08:32:25.029Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-04T07:20:42.997Z</updated>
+    <updated>2022-11-04T08:32:25.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ante x Zellic: Audit incentive alignment]]></title>
+        <id>https://www.zellic.io/blog/ante-x-zellic</id>
+        <link href="https://www.zellic.io/blog/ante-x-zellic"/>
+        <updated>2022-11-04T07:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Ante x Zellic: Audit incentive alignment]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PDF] Q32022-Shareholder-Letter.pdf]]></title>
         <id>https://s27.q4cdn.com/397450999/files/doc_financials/2022/q3/Q32022-Shareholder-Letter.pdf</id>
@@ -171,16 +181,6 @@
         <link href="https://classic.curve.fi/"/>
         <updated>2022-11-03T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[Curve.fi]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*.twitter.ngo]]></title>
-        <id>http://twitter.ngo/</id>
-        <link href="http://twitter.ngo/"/>
-        <updated>2022-11-03T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[*.twitter.ngo]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
