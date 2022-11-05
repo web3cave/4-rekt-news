@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571",
+          "id": "https://www.valtz.io/",
           "author": null,
-          "description": "Proposed milestones for rollups taking off training wheels",
-          "link": "https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571",
-          "publishedOn": "2022-11-05T08:00:04.000Z",
-          "wordCount": 1537,
-          "title": "Proposed milestones for rollups taking off training wheels",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/32b968b9a84576383732c858c6d93d4b5b73c3f3_2_1024x535.png"
+          "description": "Valtz",
+          "link": "https://www.valtz.io/",
+          "publishedOn": "2022-11-05T12:00:06.000Z",
+          "wordCount": 532,
+          "title": "Valtz",
+          "imageUrl": "https://valtz.io/valtz-map-of-avalanche-primary-network.png"
+        },
+        {
+          "id": "https://tryprojectmushroom.com/",
+          "author": null,
+          "description": "Waitlist",
+          "link": "https://tryprojectmushroom.com/",
+          "publishedOn": "2022-11-05T11:30:05.000Z",
+          "wordCount": 475,
+          "title": "Waitlist",
+          "imageUrl": "https://api.typedream.com/v0/document/public/ffd19e6e-3cf5-49a2-985c-8086255e3a33/2H5jxP9G5nuzRRBCowFTRVQmBqw_image_png_10-34-58-587.png?bucket=document"
         },
         {
           "id": "https://www.youtube.com/watch?v=Dta2irR6T-o",
@@ -41,19 +51,9 @@
           "description": "Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com",
           "link": "https://newsfet.com/starlink-adds-a-monthly-soft-cap-of-1-tb-for-home-users/",
           "publishedOn": "2022-11-05T05:00:03.000Z",
-          "wordCount": 3295,
+          "wordCount": 3325,
           "title": "Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/BC43D76C-E7F1-4CF7-99A4-94DB730B0F60-e1653400675961.jpeg?resize=1200,785"
-        },
-        {
-          "id": "https://claim.lens.xyz/",
-          "author": null,
-          "description": "Lens Protocol - Claiming App",
-          "link": "https://claim.lens.xyz/",
-          "publishedOn": "2022-11-04T23:00:03.000Z",
-          "wordCount": 13,
-          "title": "Lens Protocol - Claiming App",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/web3foundation/less-trust-more-truth-polkadots-native-token-dot-has-morphed-and-is-not-a-security-b2a8847a70cc",
@@ -64,6 +64,16 @@
           "wordCount": 3738,
           "title": "Less Trust, More Truth: Polkadot’s Native Token (DOT) Has Morphed and Is Not a Security.",
           "imageUrl": "https://miro.medium.com/max/1200/1*fbIDVNEdqWW-0RuWKksBSA.png"
+        },
+        {
+          "id": "https://claim.lens.xyz/",
+          "author": null,
+          "description": "Lens Protocol - Claiming App",
+          "link": "https://claim.lens.xyz/",
+          "publishedOn": "2022-11-04T23:00:03.000Z",
+          "wordCount": 13,
+          "title": "Lens Protocol - Claiming App",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=fp4U8aShHbM&feature=youtu.be",
@@ -101,7 +111,7 @@
           "description": "DeFi advocates push back against FTX-backed crypto bill",
           "link": "https://www.theblock.co/post/182827/defi-advocates-push-back-against-ftx-backed-crypto-bill?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-04T21:30:06.000Z",
-          "wordCount": 63682,
+          "wordCount": 63300,
           "title": "DeFi advocates push back against FTX-backed crypto bill",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-1200x675.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "Fed’s Collins Signals Support for Slowing Pace of Interest Rate Increases",
           "link": "https://www.wsj.com/articles/feds-collins-signals-support-for-slowing-pace-of-interest-rate-increase-11667570790",
           "publishedOn": "2022-11-04T19:00:02.000Z",
-          "wordCount": 6900,
+          "wordCount": 6834,
           "title": "Fed’s Collins Signals Support for Slowing Pace of Interest Rate Increases",
           "imageUrl": "https://images.wsj.net/im-656900/social"
         },
@@ -151,9 +161,9 @@
           "description": "GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.",
           "link": "https://github.com/ethereum-optimism/optimism",
           "publishedOn": "2022-11-04T19:00:02.000Z",
-          "wordCount": 1990,
+          "wordCount": 2474,
           "title": "GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.",
-          "imageUrl": "https://opengraph.githubassets.com/c7e6f4d7fbb63ed95ffba1c8a7ed378ae781f4d3da574cbd6bd52d94a6eaff8b/ethereum-optimism/optimism"
+          "imageUrl": "https://opengraph.githubassets.com/957f764fd14ddfca48e7a4c361d96d8b1e6affa35a06280fdc498378b60a87c2/ethereum-optimism/optimism"
         },
         {
           "id": "https://governance.aave.com/t/enable-usdt-as-collateral-on-aave-v3-on-avalanche/10569",
@@ -194,16 +204,6 @@
           "wordCount": 214,
           "title": "ASICS x Solana - Coming Soon - The UI Collection",
           "imageUrl": "https://ui.asics.com/ui_collection_preview.webp"
-        },
-        {
-          "id": "https://solana.com/news/asics-solana-shoe",
-          "author": null,
-          "description": "ASICS shows future of commerce with new shoes for Solana ecosystem",
-          "link": "https://solana.com/news/asics-solana-shoe",
-          "publishedOn": "2022-11-04T13:00:03.000Z",
-          "wordCount": 12829,
-          "title": "ASICS shows future of commerce with new shoes for Solana ecosystem",
-          "imageUrl": "https://solana.ghost.io/content/images/2022/11/ASICS_UIcollection_KeyGraphic_1920x1080.png"
         }
       ]
     }
