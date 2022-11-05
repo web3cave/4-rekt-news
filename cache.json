@@ -6,12 +6,62 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rotki.com/products/",
+          "author": null,
+          "description": "premium subscription | rotki",
+          "link": "https://rotki.com/products/",
+          "publishedOn": "2022-11-05T16:00:05.000Z",
+          "wordCount": 4942,
+          "title": "premium subscription | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
+          "id": "https://www.discove.xyz/",
+          "author": null,
+          "description": "Discove",
+          "link": "https://www.discove.xyz/",
+          "publishedOn": "2022-11-05T16:00:05.000Z",
+          "wordCount": 2451,
+          "title": "Discove",
+          "imageUrl": "https://www.discove.xyz/discove-meta.png"
+        },
+        {
+          "id": "https://stevepulec.com/posts/small/",
+          "author": null,
+          "description": "Small teams",
+          "link": "https://stevepulec.com/posts/small/",
+          "publishedOn": "2022-11-05T16:00:04.000Z",
+          "wordCount": 815,
+          "title": "Small teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptohayes.medium.com/pure-evil-c0c2148f81ab",
+          "author": null,
+          "description": "Pure Evil",
+          "link": "https://cryptohayes.medium.com/pure-evil-c0c2148f81ab",
+          "publishedOn": "2022-11-05T16:00:04.000Z",
+          "wordCount": 11308,
+          "title": "Pure Evil",
+          "imageUrl": "https://miro.medium.com/max/400/0*oXrFhCRee91IoDs8"
+        },
+        {
+          "id": "https://takenstheorem.medium.com/gaussian-timepieces-9dc08cc8b344",
+          "author": null,
+          "description": "Gaussian Timepieces",
+          "link": "https://takenstheorem.medium.com/gaussian-timepieces-9dc08cc8b344",
+          "publishedOn": "2022-11-05T15:30:07.000Z",
+          "wordCount": 9606,
+          "title": "Gaussian Timepieces",
+          "imageUrl": "https://miro.medium.com/max/1200/1*9zNl9FS33763o12K381WEw.png"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/11/05/communications-startup-dialect-issues-tech-specs-for-smarter-messaging-in-crypto/",
           "author": null,
           "description": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "link": "https://www.coindesk.com/business/2022/11/05/communications-startup-dialect-issues-tech-specs-for-smarter-messaging-in-crypto/",
           "publishedOn": "2022-11-05T15:00:03.000Z",
-          "wordCount": 5797,
+          "wordCount": 5794,
           "title": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/0atI7qlO5uuRjDPRuIqssrcMdRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X7U7DXZDHBAFTM63GP4DIUKRMU.jpg"
         },
@@ -56,22 +106,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://gov.gitcoin.co/t/a-quadratic-funding-powered-social-network/9462",
-          "author": null,
-          "description": "A Quadratic Funding Powered Social Network",
-          "link": "https://gov.gitcoin.co/t/a-quadratic-funding-powered-social-network/9462",
-          "publishedOn": "2022-11-05T06:00:05.000Z",
-          "wordCount": 2313,
-          "title": "A Quadratic Funding Powered Social Network",
-          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/gitcoin1/optimized/2X/e/e5204e59f0f8f95ffb5706d40cb850eb6bdee0b4_2_1024x645.png"
-        },
-        {
           "id": "https://newsfet.com/starlink-adds-a-monthly-soft-cap-of-1-tb-for-home-users/",
           "author": null,
           "description": "Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com",
           "link": "https://newsfet.com/starlink-adds-a-monthly-soft-cap-of-1-tb-for-home-users/",
           "publishedOn": "2022-11-05T05:00:03.000Z",
-          "wordCount": 3298,
+          "wordCount": 3322,
           "title": "Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/BC43D76C-E7F1-4CF7-99A4-94DB730B0F60-e1653400675961.jpeg?resize=1200,785"
         },
@@ -126,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/182827/defi-advocates-push-back-against-ftx-backed-crypto-bill?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "DeFi advocates push back against FTX-backed crypto bill",
-          "link": "https://www.theblock.co/post/182827/defi-advocates-push-back-against-ftx-backed-crypto-bill?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-11-04T21:30:06.000Z",
-          "wordCount": 63638,
-          "title": "DeFi advocates push back against FTX-backed crypto bill",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/20210120_Capitol_Generic-1200x675.jpg"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=h6PnXvIjh5U",
           "author": null,
           "description": "Bitcoin Miners Going Bankrupt? Here's How Crypto Winter Is Impacting the Industry - Ep. 415",
@@ -161,29 +191,9 @@
           "description": "Fed’s Collins Signals Support for Slowing Pace of Interest Rate Increases",
           "link": "https://www.wsj.com/articles/feds-collins-signals-support-for-slowing-pace-of-interest-rate-increase-11667570790",
           "publishedOn": "2022-11-04T19:00:02.000Z",
-          "wordCount": 6895,
+          "wordCount": 6881,
           "title": "Fed’s Collins Signals Support for Slowing Pace of Interest Rate Increases",
           "imageUrl": "https://images.wsj.net/im-656900/social"
-        },
-        {
-          "id": "https://www.recvc.com/the-age-of-abstraction/",
-          "author": null,
-          "description": "The Age of Abstraction - Reciprocal Ventures",
-          "link": "https://www.recvc.com/the-age-of-abstraction/",
-          "publishedOn": "2022-11-04T19:00:02.000Z",
-          "wordCount": 8958,
-          "title": "The Age of Abstraction - Reciprocal Ventures",
-          "imageUrl": "https://www.recvc.com/wp-content/uploads/2022/11/guernica.jpeg"
-        },
-        {
-          "id": "https://github.com/ethereum-optimism/optimism",
-          "author": null,
-          "description": "GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.",
-          "link": "https://github.com/ethereum-optimism/optimism",
-          "publishedOn": "2022-11-04T19:00:02.000Z",
-          "wordCount": 1990,
-          "title": "GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.",
-          "imageUrl": "https://opengraph.githubassets.com/6e5474e2b2eb97cb78c7d645ca0d31ac39f8e23f8d9fa62b9118144c49228a69/ethereum-optimism/optimism"
         },
         {
           "id": "https://blog.lopp.net/death-of-decentralized-email/",
@@ -194,16 +204,6 @@
           "wordCount": 4166,
           "title": "The Death of Decentralized Email",
           "imageUrl": "https://blog.lopp.net/content/images/2022/11/SMTP-RIP-1.png"
-        },
-        {
-          "id": "https://thecoh.build/",
-          "author": null,
-          "description": "the COH",
-          "link": "https://thecoh.build/",
-          "publishedOn": "2022-11-04T15:30:04.000Z",
-          "wordCount": 6731,
-          "title": "the COH",
-          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=f77cf35b"
         }
       ]
     }
