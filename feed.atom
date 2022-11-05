@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T08:26:59.834Z</id>
+    <id>urn:2022-11-05T09:21:28.224Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-05T08:26:59.834Z</updated>
+    <updated>2022-11-05T09:21:28.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://newsfet.com/starlink-adds-a-monthly-soft-cap-of-1-tb-for-home-users/"/>
         <updated>2022-11-05T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valtz]]></title>
-        <id>https://www.valtz.io/</id>
-        <link href="https://www.valtz.io/"/>
-        <updated>2022-11-05T02:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Valtz]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,6 +141,16 @@
         <link href="https://www.recvc.com/the-age-of-abstraction/"/>
         <updated>2022-11-04T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[The Age of Abstraction - Reciprocal Ventures]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.]]></title>
+        <id>https://github.com/ethereum-optimism/optimism</id>
+        <link href="https://github.com/ethereum-optimism/optimism"/>
+        <updated>2022-11-04T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
