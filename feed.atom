@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T03:49:53.686Z</id>
+    <id>urn:2022-11-05T04:31:59.892Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-05T03:49:53.686Z</updated>
+    <updated>2022-11-05T04:31:59.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.valtz.io/"/>
         <updated>2022-11-05T02:30:04.000Z</updated>
         <summary type="html"><![CDATA[Valtz]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save gas fees on Ethereum: GasHawk.io]]></title>
+        <id>https://gashawk.io/</id>
+        <link href="https://gashawk.io/"/>
+        <updated>2022-11-05T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Save gas fees on Ethereum: GasHawk.io]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://s27.q4cdn.com/397450999/files/doc_financials/2022/q3/Q32022-Shareholder-Letter.pdf"/>
         <updated>2022-11-04T06:00:06.000Z</updated>
         <summary type="html"><![CDATA[[PDF] Q32022-Shareholder-Letter.pdf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Saylor: There is no second best! - Blockchaincenter]]></title>
-        <id>https://www.blockchaincenter.net/en/there-is-no-second-best/</id>
-        <link href="https://www.blockchaincenter.net/en/there-is-no-second-best/"/>
-        <updated>2022-11-04T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Michael Saylor: There is no second best! - Blockchaincenter]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
