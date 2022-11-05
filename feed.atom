@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-05T12:38:39.124Z</id>
+    <id>urn:2022-11-05T13:31:18.695Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-05T12:38:39.124Z</updated>
+    <updated>2022-11-05T13:31:18.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://newsfet.com/starlink-adds-a-monthly-soft-cap-of-1-tb-for-home-users/"/>
         <updated>2022-11-05T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[Starlink adds a monthly soft cap of 1 TB for home users. - Newsfet.com]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save gas fees on Ethereum: GasHawk.io]]></title>
+        <id>https://gashawk.io/</id>
+        <link href="https://gashawk.io/"/>
+        <updated>2022-11-05T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Save gas fees on Ethereum: GasHawk.io]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://github.com/ethereum-optimism/optimism"/>
         <updated>2022-11-04T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - ethereum-optimism/optimism: Optimism is Ethereum, scaled.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enable USDT as collateral on Aave v3 on Avalanche]]></title>
-        <id>https://governance.aave.com/t/enable-usdt-as-collateral-on-aave-v3-on-avalanche/10569</id>
-        <link href="https://governance.aave.com/t/enable-usdt-as-collateral-on-aave-v3-on-avalanche/10569"/>
-        <updated>2022-11-04T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enable USDT as collateral on Aave v3 on Avalanche]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
