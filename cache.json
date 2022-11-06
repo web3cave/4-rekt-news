@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cron.com/",
+          "author": null,
+          "description": "Cron | Early access",
+          "link": "https://cron.com/",
+          "publishedOn": "2022-11-06T09:00:02.000Z",
+          "wordCount": 1558,
+          "title": "Cron | Early access",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/DFU5FBpC-AY",
           "author": null,
           "description": "A Message For Cobie:",
           "link": "https://www.youtube.com/shorts/DFU5FBpC-AY",
           "publishedOn": "2022-11-06T07:00:03.000Z",
-          "wordCount": 1902,
+          "wordCount": 1924,
           "title": "A Message For Cobie:",
           "imageUrl": "https://i.ytimg.com/vi/DFU5FBpC-AY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEQwDw==&rs=AOn4CLCzO41xjWEi_-raaafSaY5_pQ98Dw"
         },
@@ -23,7 +33,7 @@
           "publishedOn": "2022-11-06T05:00:02.000Z",
           "wordCount": 1424,
           "title": "GitHub - ProjectOpenSea/operator-filter-registry",
-          "imageUrl": "https://opengraph.githubassets.com/c9ebed23e0ab743937e88c0fe5dc9e378a456b35bafa69bb6a0ff146160c8a1c/ProjectOpenSea/operator-filter-registry"
+          "imageUrl": "https://opengraph.githubassets.com/034898ff4c4a533329faaa7def502cd8c9c8747600e1e6351335a7ff521afbeb/ProjectOpenSea/operator-filter-registry"
         },
         {
           "id": "https://github.com/clockwork-xyz/examples/tree/main/serum_crank",
@@ -71,7 +81,7 @@
           "description": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "link": "https://www.theblock.co/post/183473/solana-labs-ceo-we-want-to-synchronize-the-world-at-the-speed-of-light?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T23:00:02.000Z",
-          "wordCount": 61232,
+          "wordCount": 61578,
           "title": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_183735-1200x675.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "Pre-production Solana phone to ship to developers in December",
           "link": "https://www.theblock.co/post/183429/pre-production-solana-phone-to-ship-to-developers-in-december?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T20:00:06.000Z",
-          "wordCount": 60821,
+          "wordCount": 61167,
           "title": "Pre-production Solana phone to ship to developers in December",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/saga2-1200x675.png"
         },
@@ -131,7 +141,7 @@
           "description": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "link": "https://www.theblock.co/post/183452/ftx-ventures-amy-wu-vc-deals-during-bull-market-lacked-proper-due-diligence?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T18:00:05.000Z",
-          "wordCount": 61186,
+          "wordCount": 61532,
           "title": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_151228-1200x675.png"
         },
@@ -144,16 +154,6 @@
           "wordCount": 31030,
           "title": "In bankrupt Lebanon, locals mine bitcoin and buy groceries with tether, as $1 is now worth 15 cents",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107141590-1666865650362-GettyImages-1237536043.jpg?v=1667662049&w=1920&h=1080"
-        },
-        {
-          "id": "https://stevepulec.com/posts/small/",
-          "author": null,
-          "description": "Small teams",
-          "link": "https://stevepulec.com/posts/small/",
-          "publishedOn": "2022-11-05T16:00:04.000Z",
-          "wordCount": 815,
-          "title": "Small teams",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=lSZMfhO4ovY",
@@ -171,7 +171,7 @@
           "description": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "link": "https://www.coindesk.com/business/2022/11/05/communications-startup-dialect-issues-tech-specs-for-smarter-messaging-in-crypto/",
           "publishedOn": "2022-11-05T15:00:03.000Z",
-          "wordCount": 5785,
+          "wordCount": 5789,
           "title": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/0atI7qlO5uuRjDPRuIqssrcMdRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X7U7DXZDHBAFTM63GP4DIUKRMU.jpg"
         },
