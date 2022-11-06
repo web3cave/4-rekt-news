@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/DFU5FBpC-AY",
+          "author": null,
+          "description": "A Message For Cobie:",
+          "link": "https://www.youtube.com/shorts/DFU5FBpC-AY",
+          "publishedOn": "2022-11-06T07:00:03.000Z",
+          "wordCount": 1941,
+          "title": "A Message For Cobie:",
+          "imageUrl": "https://i.ytimg.com/vi/DFU5FBpC-AY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEQwDw==&rs=AOn4CLCzO41xjWEi_-raaafSaY5_pQ98Dw"
+        },
+        {
+          "id": "https://github.com/ProjectOpenSea/operator-filter-registry",
+          "author": null,
+          "description": "GitHub - ProjectOpenSea/operator-filter-registry",
+          "link": "https://github.com/ProjectOpenSea/operator-filter-registry",
+          "publishedOn": "2022-11-06T05:00:02.000Z",
+          "wordCount": 1353,
+          "title": "GitHub - ProjectOpenSea/operator-filter-registry",
+          "imageUrl": "https://opengraph.githubassets.com/517c63e28a9fe0ec30949568639816c704061184477790fbedef571bcde99743/ProjectOpenSea/operator-filter-registry"
+        },
+        {
           "id": "https://github.com/clockwork-xyz/examples/tree/main/serum_crank",
           "author": null,
           "description": "examples/serum_crank at main · clockwork-xyz/examples",
@@ -16,16 +36,6 @@
           "imageUrl": "https://opengraph.githubassets.com/140d51aaf6da18057aff19aa565f372f43c2952f43889809a8f30c00e822419f/clockwork-xyz/examples"
         },
         {
-          "id": "https://github.com/ProjectOpenSea/operator-filter-registry",
-          "author": null,
-          "description": "GitHub - ProjectOpenSea/operator-filter-registry",
-          "link": "https://github.com/ProjectOpenSea/operator-filter-registry",
-          "publishedOn": "2022-11-06T05:00:02.000Z",
-          "wordCount": 1424,
-          "title": "GitHub - ProjectOpenSea/operator-filter-registry",
-          "imageUrl": "https://opengraph.githubassets.com/8cb76c7c997dcdd86d6bcebf59f28dee5f703c40bc9dd383ae16dcf70125a55e/ProjectOpenSea/operator-filter-registry"
-        },
-        {
           "id": "https://beta.pixelmind.ai/",
           "author": null,
           "description": "Pixelmind - AI-powered art & minting to NFTs",
@@ -34,16 +44,6 @@
           "wordCount": 69,
           "title": "Pixelmind - AI-powered art & minting to NFTs",
           "imageUrl": "https://beta.pixelmind.ai/static/Pixelmind_Meta.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/military/china-shows-stealth-fighter-jet-first-public-ground-display",
-          "author": null,
-          "description": "China Shows Off Stealth Fighter Jet In First Public Ground Display | ZeroHedge",
-          "link": "https://www.zerohedge.com/military/china-shows-stealth-fighter-jet-first-public-ground-display",
-          "publishedOn": "2022-11-06T05:00:02.000Z",
-          "wordCount": 998,
-          "title": "China Shows Off Stealth Fighter Jet In First Public Ground Display | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/technology/celestial-zoo-mapping-objects-our-universe",
@@ -171,7 +171,7 @@
           "description": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "link": "https://www.coindesk.com/business/2022/11/05/communications-startup-dialect-issues-tech-specs-for-smarter-messaging-in-crypto/",
           "publishedOn": "2022-11-05T15:00:03.000Z",
-          "wordCount": 5789,
+          "wordCount": 5785,
           "title": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/0atI7qlO5uuRjDPRuIqssrcMdRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X7U7DXZDHBAFTM63GP4DIUKRMU.jpg"
         },
