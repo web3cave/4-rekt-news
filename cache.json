@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.gmoney.market/",
+          "author": null,
+          "description": "gmoney market",
+          "link": "https://www.gmoney.market/",
+          "publishedOn": "2022-11-06T13:00:04.000Z",
+          "wordCount": 282,
+          "title": "gmoney market",
+          "imageUrl": "https://i.ibb.co/jHPW9sv/DwS6Rpkg.png"
+        },
+        {
+          "id": "https://www.9dcc.market/",
+          "author": null,
+          "description": "9dcc market",
+          "link": "https://www.9dcc.market/",
+          "publishedOn": "2022-11-06T13:00:04.000Z",
+          "wordCount": 148,
+          "title": "9dcc market",
+          "imageUrl": "https://i.ibb.co/g9xsFNF/9dcc-banner.jpg"
+        },
+        {
           "id": "https://linked.md/",
           "author": null,
           "description": "Linked Markdown",
@@ -36,16 +56,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85baceee-2fc1-4100-aaef-6b71ee25a385_2667x1500.jpeg"
         },
         {
-          "id": "https://www.youtube.com/shorts/DFU5FBpC-AY",
-          "author": null,
-          "description": "A Message For Cobie:",
-          "link": "https://www.youtube.com/shorts/DFU5FBpC-AY",
-          "publishedOn": "2022-11-06T07:00:03.000Z",
-          "wordCount": 1880,
-          "title": "A Message For Cobie:",
-          "imageUrl": "https://i.ytimg.com/vi/DFU5FBpC-AY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEQwDw==&rs=AOn4CLCzO41xjWEi_-raaafSaY5_pQ98Dw"
-        },
-        {
           "id": "https://github.com/ProjectOpenSea/operator-filter-registry",
           "author": null,
           "description": "GitHub - ProjectOpenSea/operator-filter-registry",
@@ -53,7 +63,7 @@
           "publishedOn": "2022-11-06T05:00:02.000Z",
           "wordCount": 1424,
           "title": "GitHub - ProjectOpenSea/operator-filter-registry",
-          "imageUrl": "https://opengraph.githubassets.com/a61422eb592beba8105838cb3fad41b183558063ff5a7b696f5b0c6191679ed5/ProjectOpenSea/operator-filter-registry"
+          "imageUrl": "https://opengraph.githubassets.com/9c29438c04841a70065b64bcc01f9c08c5505905a52ca5367c1950d68ad41a29/ProjectOpenSea/operator-filter-registry"
         },
         {
           "id": "https://www.youtube.com/watch?v=dZgKYR9p06I",
@@ -81,7 +91,7 @@
           "description": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "link": "https://www.theblock.co/post/183473/solana-labs-ceo-we-want-to-synchronize-the-world-at-the-speed-of-light?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T23:00:02.000Z",
-          "wordCount": 61620,
+          "wordCount": 61694,
           "title": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_183735-1200x675.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 5481,
           "title": "How The Soviets \"Fixed\" Inflation, But Wrecked The Economy | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://whatthediff.ai/",
-          "author": null,
-          "description": "What-the-Diff – AI-powered code review assistant",
-          "link": "https://whatthediff.ai/",
-          "publishedOn": "2022-11-05T23:00:02.000Z",
-          "wordCount": 731,
-          "title": "What-the-Diff – AI-powered code review assistant",
-          "imageUrl": "https://whatthediff.ai/images/card.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=oNRSeEATOFw",
@@ -121,7 +121,7 @@
           "description": "✂️ ridiculous question",
           "link": "https://www.youtube.com/clip/UgkxjqnsAIV2rCDuFtO8U3Zig2NZCP6zB3hJ",
           "publishedOn": "2022-11-05T21:00:02.000Z",
-          "wordCount": 4068,
+          "wordCount": 4043,
           "title": "✂️ ridiculous question",
           "imageUrl": "https://i.ytimg.com/vi/i4mCREzVah8/maxresdefault.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "Pre-production Solana phone to ship to developers in December",
           "link": "https://www.theblock.co/post/183429/pre-production-solana-phone-to-ship-to-developers-in-december?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T20:00:06.000Z",
-          "wordCount": 61209,
+          "wordCount": 61283,
           "title": "Pre-production Solana phone to ship to developers in December",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/saga2-1200x675.png"
         },
@@ -161,7 +161,7 @@
           "description": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "link": "https://www.theblock.co/post/183452/ftx-ventures-amy-wu-vc-deals-during-bull-market-lacked-proper-due-diligence?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T18:00:05.000Z",
-          "wordCount": 61574,
+          "wordCount": 61648,
           "title": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_151228-1200x675.png"
         },
@@ -171,7 +171,7 @@
           "description": "In bankrupt Lebanon, locals mine bitcoin and buy groceries with tether, as $1 is now worth 15 cents",
           "link": "https://www.cnbc.com/2022/11/05/-in-bankrupt-lebanon-locals-mine-bitcoin-and-buy-groceries-with-tether.html",
           "publishedOn": "2022-11-05T17:00:04.000Z",
-          "wordCount": 31029,
+          "wordCount": 31030,
           "title": "In bankrupt Lebanon, locals mine bitcoin and buy groceries with tether, as $1 is now worth 15 cents",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107141590-1666865650362-GettyImages-1237536043.jpg?v=1667662049&w=1920&h=1080"
         },
