@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://cron.com/",
+          "id": "https://github.com/Lamarkaz/psol",
           "author": null,
-          "description": "Cron | Early access",
-          "link": "https://cron.com/",
-          "publishedOn": "2022-11-06T09:00:02.000Z",
-          "wordCount": 1558,
-          "title": "Cron | Early access",
-          "imageUrl": null
+          "description": "GitHub - Lamarkaz/psol: Solidity Preprocessor",
+          "link": "https://github.com/Lamarkaz/psol",
+          "publishedOn": "2022-11-06T11:00:02.000Z",
+          "wordCount": 799,
+          "title": "GitHub - Lamarkaz/psol: Solidity Preprocessor",
+          "imageUrl": "https://opengraph.githubassets.com/7f30e4192a51a458f9ee31c69b8fc754753af297867a6052aa68d40ee4ac9207/Lamarkaz/psol"
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/crypto-privacy-is-humanitarian",
+          "author": null,
+          "description": "Crypto Privacy Is Humanitarian",
+          "link": "https://newsletter.banklesshq.com/p/crypto-privacy-is-humanitarian",
+          "publishedOn": "2022-11-06T10:30:03.000Z",
+          "wordCount": 4580,
+          "title": "Crypto Privacy Is Humanitarian",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85baceee-2fc1-4100-aaef-6b71ee25a385_2667x1500.jpeg"
         },
         {
           "id": "https://www.youtube.com/shorts/DFU5FBpC-AY",
@@ -21,7 +31,7 @@
           "description": "A Message For Cobie:",
           "link": "https://www.youtube.com/shorts/DFU5FBpC-AY",
           "publishedOn": "2022-11-06T07:00:03.000Z",
-          "wordCount": 1940,
+          "wordCount": 1932,
           "title": "A Message For Cobie:",
           "imageUrl": "https://i.ytimg.com/vi/DFU5FBpC-AY/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEQwDw==&rs=AOn4CLCzO41xjWEi_-raaafSaY5_pQ98Dw"
         },
@@ -33,36 +43,16 @@
           "publishedOn": "2022-11-06T05:00:02.000Z",
           "wordCount": 1424,
           "title": "GitHub - ProjectOpenSea/operator-filter-registry",
-          "imageUrl": "https://opengraph.githubassets.com/034898ff4c4a533329faaa7def502cd8c9c8747600e1e6351335a7ff521afbeb/ProjectOpenSea/operator-filter-registry"
+          "imageUrl": "https://opengraph.githubassets.com/a61422eb592beba8105838cb3fad41b183558063ff5a7b696f5b0c6191679ed5/ProjectOpenSea/operator-filter-registry"
         },
         {
-          "id": "https://github.com/clockwork-xyz/examples/tree/main/serum_crank",
+          "id": "https://www.youtube.com/watch?v=dZgKYR9p06I",
           "author": null,
-          "description": "examples/serum_crank at main · clockwork-xyz/examples",
-          "link": "https://github.com/clockwork-xyz/examples/tree/main/serum_crank",
-          "publishedOn": "2022-11-06T05:00:02.000Z",
-          "wordCount": 584,
-          "title": "examples/serum_crank at main · clockwork-xyz/examples",
-          "imageUrl": "https://opengraph.githubassets.com/140d51aaf6da18057aff19aa565f372f43c2952f43889809a8f30c00e822419f/clockwork-xyz/examples"
-        },
-        {
-          "id": "https://beta.pixelmind.ai/",
-          "author": null,
-          "description": "Pixelmind - AI-powered art & minting to NFTs",
-          "link": "https://beta.pixelmind.ai/",
-          "publishedOn": "2022-11-06T05:00:02.000Z",
-          "wordCount": 69,
-          "title": "Pixelmind - AI-powered art & minting to NFTs",
-          "imageUrl": "https://beta.pixelmind.ai/static/Pixelmind_Meta.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/technology/celestial-zoo-mapping-objects-our-universe",
-          "author": null,
-          "description": "The Celestial Zoo: Mapping The Objects In Our Universe | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/celestial-zoo-mapping-objects-our-universe",
-          "publishedOn": "2022-11-06T03:30:04.000Z",
-          "wordCount": 1127,
-          "title": "The Celestial Zoo: Mapping The Objects In Our Universe | ZeroHedge",
+          "description": "How to Grow a Small Trading Account with CBS",
+          "link": "https://www.youtube.com/watch?v=dZgKYR9p06I",
+          "publishedOn": "2022-11-06T01:00:03.000Z",
+          "wordCount": null,
+          "title": "How to Grow a Small Trading Account with CBS",
           "imageUrl": null
         },
         {
@@ -71,7 +61,7 @@
           "description": "Geology. A brief history of Mars – Meson Stars",
           "link": "https://www.mesonstars.com/space/geology-a-brief-history-of-mars/",
           "publishedOn": "2022-11-06T00:00:05.000Z",
-          "wordCount": 1383,
+          "wordCount": 1377,
           "title": "Geology. A brief history of Mars – Meson Stars",
           "imageUrl": null
         },
@@ -96,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://whatthediff.ai/",
+          "author": null,
+          "description": "What-the-Diff – AI-powered code review assistant",
+          "link": "https://whatthediff.ai/",
+          "publishedOn": "2022-11-05T23:00:02.000Z",
+          "wordCount": 731,
+          "title": "What-the-Diff – AI-powered code review assistant",
+          "imageUrl": "https://whatthediff.ai/images/card.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oNRSeEATOFw",
           "author": null,
           "description": "Breakpoint 2022: Hold Me Closer, Firedancer: Kevin Bowers on Jump's New Validator Client",
@@ -104,6 +104,16 @@
           "wordCount": null,
           "title": "Breakpoint 2022: Hold Me Closer, Firedancer: Kevin Bowers on Jump's New Validator Client",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/clip/UgkxjqnsAIV2rCDuFtO8U3Zig2NZCP6zB3hJ",
+          "author": null,
+          "description": "✂️ ridiculous question",
+          "link": "https://www.youtube.com/clip/UgkxjqnsAIV2rCDuFtO8U3Zig2NZCP6zB3hJ",
+          "publishedOn": "2022-11-05T21:00:02.000Z",
+          "wordCount": 4105,
+          "title": "✂️ ridiculous question",
+          "imageUrl": "https://i.ytimg.com/vi/i4mCREzVah8/maxresdefault.jpg"
         },
         {
           "id": "https://www.theblock.co/post/183429/pre-production-solana-phone-to-ship-to-developers-in-december?utm_source=twitter&utm_medium=social",
@@ -171,7 +181,7 @@
           "description": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "link": "https://www.coindesk.com/business/2022/11/05/communications-startup-dialect-issues-tech-specs-for-smarter-messaging-in-crypto/",
           "publishedOn": "2022-11-05T15:00:03.000Z",
-          "wordCount": 5785,
+          "wordCount": 5789,
           "title": "Communications Startup Dialect Issues Tech Specs for ‘Smarter Messaging’ in Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/0atI7qlO5uuRjDPRuIqssrcMdRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/X7U7DXZDHBAFTM63GP4DIUKRMU.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1990,
           "title": "Episode 252: From Wireless to Blockchains with Pramod Viswanath - ZK Podcast",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/web3foundation/less-trust-more-truth-polkadots-native-token-dot-has-morphed-and-is-not-a-security-b2a8847a70cc",
-          "author": null,
-          "description": "Less Trust, More Truth: Polkadot’s Native Token (DOT) Has Morphed and Is Not a Security.",
-          "link": "https://medium.com/web3foundation/less-trust-more-truth-polkadots-native-token-dot-has-morphed-and-is-not-a-security-b2a8847a70cc",
-          "publishedOn": "2022-11-04T23:00:03.000Z",
-          "wordCount": 3818,
-          "title": "Less Trust, More Truth: Polkadot’s Native Token (DOT) Has Morphed and Is Not a Security.",
-          "imageUrl": "https://miro.medium.com/max/1200/1*fbIDVNEdqWW-0RuWKksBSA.png"
         },
         {
           "id": "https://blog.lopp.net/death-of-decentralized-email/",
