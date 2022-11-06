@@ -6,44 +6,74 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://isethereumasecurity.com/",
+          "author": null,
+          "description": "Is Ethereum a Security? | Is Ethereum a Security?",
+          "link": "https://isethereumasecurity.com/",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 2010,
+          "title": "Is Ethereum a Security? | Is Ethereum a Security?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nltimes.nl/2022/11/06/man-wrongly-imprisoned-dutch-government-25-years",
+          "author": null,
+          "description": "Man wrongly imprisoned by Dutch government for 2.5 years",
+          "link": "https://nltimes.nl/2022/11/06/man-wrongly-imprisoned-dutch-government-25-years",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 843,
+          "title": "Man wrongly imprisoned by Dutch government for 2.5 years",
+          "imageUrl": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2019/01/depositphotos_147828445_l-2015.jpg?h=2e5cdddf"
+        },
+        {
+          "id": "https://github.com/charliermarsh/ruff/",
+          "author": null,
+          "description": "GitHub - charliermarsh/ruff: An extremely fast Python linter, written in Rust.",
+          "link": "https://github.com/charliermarsh/ruff/",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 4594,
+          "title": "GitHub - charliermarsh/ruff: An extremely fast Python linter, written in Rust.",
+          "imageUrl": "https://opengraph.githubassets.com/eea1b4932031f5cb98c404d29a3673aedf49ba8c35cf38b2a78d494d0cc994dd/charliermarsh/ruff"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/low-prices-and-tanker-traffic-leave-2-billion-lng-floating-europe",
+          "author": null,
+          "description": "Low Prices And Tanker Traffic Leave $2 Billion Of LNG Floating Off Europe | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/low-prices-and-tanker-traffic-leave-2-billion-lng-floating-europe",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 886,
+          "title": "Low Prices And Tanker Traffic Leave $2 Billion Of LNG Floating Off Europe | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/iran-admits-supplying-russia-drones-1st-time",
+          "author": null,
+          "description": "Iran Admits Supplying Russia With Drones For 1st Time | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/iran-admits-supplying-russia-drones-1st-time",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 791,
+          "title": "Iran Admits Supplying Russia With Drones For 1st Time | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/escobar-no-pain-no-grain-putins-black-sea-comeback",
+          "author": null,
+          "description": "Escobar: No Pain, No Grain... Putin's Black Sea Comeback | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/escobar-no-pain-no-grain-putins-black-sea-comeback",
+          "publishedOn": "2022-11-06T15:00:02.000Z",
+          "wordCount": 3046,
+          "title": "Escobar: No Pain, No Grain... Putin's Black Sea Comeback | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.audible.com/pd/Give-and-Take-Audiobook/B07F7DDQ4G?asin=B07F7DDQ4G&source_code=ASSORAP0511160006&share_location=player_overflow",
           "author": null,
           "description": "Give and Take",
           "link": "https://www.audible.com/pd/Give-and-Take-Audiobook/B07F7DDQ4G?asin=B07F7DDQ4G&source_code=ASSORAP0511160006&share_location=player_overflow",
           "publishedOn": "2022-11-06T14:00:04.000Z",
-          "wordCount": 12630,
+          "wordCount": 9907,
           "title": "Give and Take",
           "imageUrl": "https://m.media-amazon.com/images/I/510y8+hv-UL._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C510y8+hv-UL.jpg%7C0,0,1200,630+82,82,465,465_PJAdblSocialShare-Gradientoverlay-largeasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,600,270_OU01_ZBLISTENING%20ON,617,216,52,500,AudibleSansMd,30,255,255,255.jpg"
-        },
-        {
-          "id": "https://www.gmoney.market/",
-          "author": null,
-          "description": "gmoney market",
-          "link": "https://www.gmoney.market/",
-          "publishedOn": "2022-11-06T13:00:04.000Z",
-          "wordCount": 282,
-          "title": "gmoney market",
-          "imageUrl": "https://i.ibb.co/jHPW9sv/DwS6Rpkg.png"
-        },
-        {
-          "id": "https://www.9dcc.market/",
-          "author": null,
-          "description": "9dcc market",
-          "link": "https://www.9dcc.market/",
-          "publishedOn": "2022-11-06T13:00:04.000Z",
-          "wordCount": 148,
-          "title": "9dcc market",
-          "imageUrl": "https://i.ibb.co/g9xsFNF/9dcc-banner.jpg"
-        },
-        {
-          "id": "https://linked.md/",
-          "author": null,
-          "description": "Linked Markdown",
-          "link": "https://linked.md/",
-          "publishedOn": "2022-11-06T12:30:03.000Z",
-          "wordCount": 5,
-          "title": "Linked Markdown",
-          "imageUrl": null
         },
         {
           "id": "https://blog.lopp.net/firearms-for-home-defense/",
@@ -76,16 +106,6 @@
           "imageUrl": "https://opengraph.githubassets.com/9c29438c04841a70065b64bcc01f9c08c5505905a52ca5367c1950d68ad41a29/ProjectOpenSea/operator-filter-registry"
         },
         {
-          "id": "https://www.youtube.com/watch?v=dZgKYR9p06I",
-          "author": null,
-          "description": "How to Grow a Small Trading Account with CBS",
-          "link": "https://www.youtube.com/watch?v=dZgKYR9p06I",
-          "publishedOn": "2022-11-06T01:00:03.000Z",
-          "wordCount": null,
-          "title": "How to Grow a Small Trading Account with CBS",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.mesonstars.com/space/geology-a-brief-history-of-mars/",
           "author": null,
           "description": "Geology. A brief history of Mars – Meson Stars",
@@ -101,19 +121,9 @@
           "description": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "link": "https://www.theblock.co/post/183473/solana-labs-ceo-we-want-to-synchronize-the-world-at-the-speed-of-light?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T23:00:02.000Z",
-          "wordCount": 61694,
+          "wordCount": 62065,
           "title": "Solana Labs CEO: 'We want to synchronize the world at the speed of light'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_183735-1200x675.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/how-soviets-fixed-inflation-wrecked-economy",
-          "author": null,
-          "description": "How The Soviets \"Fixed\" Inflation, But Wrecked The Economy | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/how-soviets-fixed-inflation-wrecked-economy",
-          "publishedOn": "2022-11-05T23:00:02.000Z",
-          "wordCount": 5481,
-          "title": "How The Soviets \"Fixed\" Inflation, But Wrecked The Economy | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=oNRSeEATOFw",
@@ -131,7 +141,7 @@
           "description": "Pre-production Solana phone to ship to developers in December",
           "link": "https://www.theblock.co/post/183429/pre-production-solana-phone-to-ship-to-developers-in-december?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T20:00:06.000Z",
-          "wordCount": 61283,
+          "wordCount": 61654,
           "title": "Pre-production Solana phone to ship to developers in December",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/saga2-1200x675.png"
         },
@@ -161,19 +171,9 @@
           "description": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "link": "https://www.theblock.co/post/183452/ftx-ventures-amy-wu-vc-deals-during-bull-market-lacked-proper-due-diligence?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-05T18:00:05.000Z",
-          "wordCount": 61648,
+          "wordCount": 62019,
           "title": "FTX Ventures' Amy Wu: VC deals during bull market lacked proper due diligence",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_151228-1200x675.png"
-        },
-        {
-          "id": "https://www.cnbc.com/2022/11/05/-in-bankrupt-lebanon-locals-mine-bitcoin-and-buy-groceries-with-tether.html",
-          "author": null,
-          "description": "In bankrupt Lebanon, locals mine bitcoin and buy groceries with tether, as $1 is now worth 15 cents",
-          "link": "https://www.cnbc.com/2022/11/05/-in-bankrupt-lebanon-locals-mine-bitcoin-and-buy-groceries-with-tether.html",
-          "publishedOn": "2022-11-05T17:00:04.000Z",
-          "wordCount": 31030,
-          "title": "In bankrupt Lebanon, locals mine bitcoin and buy groceries with tether, as $1 is now worth 15 cents",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107141590-1666865650362-GettyImages-1237536043.jpg?v=1667662049&w=1920&h=1080"
         },
         {
           "id": "https://www.youtube.com/watch?v=lSZMfhO4ovY",
