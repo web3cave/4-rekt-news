@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.philmohun.com/why-i-joined-purple/",
+          "author": null,
+          "description": "Why I joined Purple",
+          "link": "https://www.philmohun.com/why-i-joined-purple/",
+          "publishedOn": "2022-11-06T20:00:04.000Z",
+          "wordCount": 1408,
+          "title": "Why I joined Purple",
+          "imageUrl": "https://www.philmohun.com/content/images/2022/11/purp-banner-6.png"
+        },
+        {
           "id": "https://www.zerohedge.com/markets/republicans-will-sweep-both-house-and-senate-stifel-potomac-perspective",
           "author": null,
           "description": "Republicans Will Sweep Both House And Senate: Stifel | ZeroHedge",
@@ -31,7 +41,7 @@
           "description": "'Sem intenção': EUA negam que jato quis desenhar pênis no céu de base russa",
           "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/11/06/eua-negam-desenho-de-penis-no-ceu-perto-de-base-russa.htm",
           "publishedOn": "2022-11-06T19:00:02.000Z",
-          "wordCount": 11363,
+          "wordCount": 11360,
           "title": "'Sem intenção': EUA negam que jato quis desenhar pênis no céu de base russa",
           "imageUrl": "https://conteudo.imguol.com.br/c/noticias/4b/2022/11/06/aviao-da-forca-aerea-dos-estados-unidos-faz-desenho-falico-no-ceu-1667750893471_v2_615x300.png"
         },
@@ -86,26 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=g5a7tdX1As4",
-          "author": null,
-          "description": "Tilman @ Djoon for The Five Beats 30.09.22",
-          "link": "https://www.youtube.com/watch?v=g5a7tdX1As4",
-          "publishedOn": "2022-11-06T19:00:02.000Z",
-          "wordCount": null,
-          "title": "Tilman @ Djoon for The Five Beats 30.09.22",
-          "imageUrl": null
-        },
-        {
-          "id": "https://home.treasury.gov/news/press-releases/jy1063",
-          "author": null,
-          "description": "Treasury Announces Marketable Borrowing Estimates",
-          "link": "https://home.treasury.gov/news/press-releases/jy1063",
-          "publishedOn": "2022-11-06T17:00:02.000Z",
-          "wordCount": 1922,
-          "title": "Treasury Announces Marketable Borrowing Estimates",
-          "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
-        },
-        {
           "id": "https://www.robinsloan.com/lab/specifying-spring-83/#summer",
           "author": null,
           "description": "Specifying Spring '83",
@@ -121,7 +111,7 @@
           "description": "Google Cloud to Validate Transactions on Axie Infinity’s Ronin Network - Decrypt",
           "link": "https://decrypt.co/109335/google-cloud-validate-transactions-axie-infinity-ronin-network",
           "publishedOn": "2022-11-06T16:00:05.000Z",
-          "wordCount": 6216,
+          "wordCount": 6176,
           "title": "Google Cloud to Validate Transactions on Axie Infinity’s Ronin Network - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/axie-infinity-starter-monsters-gID_4.png"
         },
@@ -131,7 +121,7 @@
           "description": "SEC issues subpoena to influencers promoting HEX, PulseChain and PulseX",
           "link": "https://cointelegraph.com/news/sec-issues-subpoena-to-influencers-promoting-hex-pulsechain-and-pulsex",
           "publishedOn": "2022-11-06T15:00:02.000Z",
-          "wordCount": 15386,
+          "wordCount": 15381,
           "title": "SEC issues subpoena to influencers promoting HEX, PulseChain and PulseX",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvNTQwMDZjYjktNmE4ZC00YjMwLWJkY2YtY2M3ZWJmOGQzOWYyLmpwZw==.jpg"
         },
@@ -144,6 +134,16 @@
           "wordCount": 842,
           "title": "Man wrongly imprisoned by Dutch government for 2.5 years",
           "imageUrl": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2019/01/depositphotos_147828445_l-2015.jpg?h=2e5cdddf"
+        },
+        {
+          "id": "https://www.washingtonpost.com/world/national-security/nsa-tracking-phone-locations-on-planetary-scale/2013/12/05/dfe21740-5db2-11e3-bc56-c6ca94801fac_story.html",
+          "author": null,
+          "description": "NSA tracking phone locations on ‘planetary scale’",
+          "link": "https://www.washingtonpost.com/world/national-security/nsa-tracking-phone-locations-on-planetary-scale/2013/12/05/dfe21740-5db2-11e3-bc56-c6ca94801fac_story.html",
+          "publishedOn": "2022-11-06T13:00:04.000Z",
+          "wordCount": 3105,
+          "title": "NSA tracking phone locations on ‘planetary scale’",
+          "imageUrl": "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         },
         {
           "id": "https://blog.lopp.net/firearms-for-home-defense/",
@@ -196,10 +196,10 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221105_183735-1200x675.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=oNRSeEATOFw",
+          "id": "https://www.youtube.com/watch?v=oNRSeEATOFw&feature=youtu.be",
           "author": null,
           "description": "Breakpoint 2022: Hold Me Closer, Firedancer: Kevin Bowers on Jump's New Validator Client",
-          "link": "https://www.youtube.com/watch?v=oNRSeEATOFw",
+          "link": "https://www.youtube.com/watch?v=oNRSeEATOFw&feature=youtu.be",
           "publishedOn": "2022-11-05T21:00:02.000Z",
           "wordCount": null,
           "title": "Breakpoint 2022: Hold Me Closer, Firedancer: Kevin Bowers on Jump's New Validator Client",
