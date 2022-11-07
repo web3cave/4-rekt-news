@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://decrypt.co/113629/animoca-brands-ceo-there-is-no-metaverse-without-web3",
+          "author": null,
+          "description": "Animoca Brands CEO: 'There Is No Metaverse Without Web3' - Decrypt",
+          "link": "https://decrypt.co/113629/animoca-brands-ceo-there-is-no-metaverse-without-web3",
+          "publishedOn": "2022-11-07T12:30:02.000Z",
+          "wordCount": 5707,
+          "title": "Animoca Brands CEO: 'There Is No Metaverse Without Web3' - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/robby-yung-animoca-brands-gID_1.jpeg"
+        },
+        {
           "id": "https://www.zerohedge.com/military/give-kremlin-warning-us-nuclear-apocalypse-submarine-enters-mediterranean-sea",
           "author": null,
           "description": "\"Give Kremlin A Warning\": US 'Nuclear Apocalypse' Submarine Enters Mediterranean Sea | ZeroHedge",
@@ -16,12 +26,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/geopolitical/great-reset-perfect-storm",
+          "author": null,
+          "description": "The Great Reset: A Perfect Storm | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/great-reset-perfect-storm",
+          "publishedOn": "2022-11-07T09:00:03.000Z",
+          "wordCount": 3046,
+          "title": "The Great Reset: A Perfect Storm | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://docs.google.com/spreadsheets/d/1lBNOmTZnKTkiPCROX9NfGqqd8S-1XNChb3Dh_l_KSW0/htmlview?usp=sharing&sle=true&pru=AAABhHUqQtQ*37JwIlFFSlU4xXqYTneUZg",
           "author": null,
           "description": "Alameda and FTX addresses - Google Drive",
           "link": "https://docs.google.com/spreadsheets/d/1lBNOmTZnKTkiPCROX9NfGqqd8S-1XNChb3Dh_l_KSW0/htmlview?usp=sharing&sle=true&pru=AAABhHUqQtQ*37JwIlFFSlU4xXqYTneUZg",
           "publishedOn": "2022-11-07T08:30:02.000Z",
-          "wordCount": 431,
+          "wordCount": 432,
           "title": "Alameda and FTX addresses - Google Drive",
           "imageUrl": null
         },
@@ -61,9 +81,9 @@
           "description": "GitHub - Arachnid/flashbots-ens-rescue: Rescues ENS names from compromised accounts using flashbots",
           "link": "https://github.com/Arachnid/flashbots-ens-rescue",
           "publishedOn": "2022-11-07T05:00:03.000Z",
-          "wordCount": 637,
+          "wordCount": 677,
           "title": "GitHub - Arachnid/flashbots-ens-rescue: Rescues ENS names from compromised accounts using flashbots",
-          "imageUrl": "https://opengraph.githubassets.com/5484a58e965415495f9e7f6900fc0b328e46140d6b4f8d0220a57306b8ebadc4/Arachnid/flashbots-ens-rescue"
+          "imageUrl": "https://opengraph.githubassets.com/0ab4cf723e07bcbf04a480b453ffb27ea1b4074155256c55a6372548b76cc7c1/Arachnid/flashbots-ens-rescue"
         },
         {
           "id": "https://www.adafruit.com/product/5426",
@@ -71,7 +91,7 @@
           "description": "Adafruit QT Py ESP32-S3 WiFi Dev Board with STEMMA QT",
           "link": "https://www.adafruit.com/product/5426",
           "publishedOn": "2022-11-07T05:00:03.000Z",
-          "wordCount": 3548,
+          "wordCount": 3543,
           "title": "Adafruit QT Py ESP32-S3 WiFi Dev Board with STEMMA QT",
           "imageUrl": "https://www.adafruit.com/images/480x360/5426-00.jpg"
         },
@@ -83,26 +103,6 @@
           "publishedOn": "2022-11-07T05:00:03.000Z",
           "wordCount": 2670,
           "title": "The Unforgivable Request For Shamnesty | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/its-not-looking-good-martin-armstrong-warns-there-may-not-be-2024-election",
-          "author": null,
-          "description": "\"It's Not Looking Good\" - Martin Armstrong Warns There May Not Be A 2024 Election | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/its-not-looking-good-martin-armstrong-warns-there-may-not-be-2024-election",
-          "publishedOn": "2022-11-07T05:00:03.000Z",
-          "wordCount": 1355,
-          "title": "\"It's Not Looking Good\" - Martin Armstrong Warns There May Not Be A 2024 Election | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.alameda-research.com/our-team",
-          "author": null,
-          "description": "Our Team — Alameda Research",
-          "link": "https://www.alameda-research.com/our-team",
-          "publishedOn": "2022-11-07T05:00:03.000Z",
-          "wordCount": 8309,
-          "title": "Our Team — Alameda Research",
           "imageUrl": null
         },
         {
@@ -161,7 +161,7 @@
           "description": "WSJ News Exclusive | Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week",
           "link": "https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794",
           "publishedOn": "2022-11-06T22:00:03.000Z",
-          "wordCount": 6782,
+          "wordCount": 7048,
           "title": "WSJ News Exclusive | Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week",
           "imageUrl": "https://images.wsj.net/im-659802/social"
         },
@@ -181,7 +181,7 @@
           "description": "SEC issues subpoena to influencers promoting HEX, PulseChain and PulseX",
           "link": "https://cointelegraph.com/news/sec-issues-subpoena-to-influencers-promoting-hex-pulsechain-and-pulsex",
           "publishedOn": "2022-11-06T15:00:02.000Z",
-          "wordCount": 15551,
+          "wordCount": 15549,
           "title": "SEC issues subpoena to influencers promoting HEX, PulseChain and PulseX",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvNTQwMDZjYjktNmE4ZC00YjMwLWJkY2YtY2M3ZWJmOGQzOWYyLmpwZw==.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Man wrongly imprisoned by Dutch government for 2.5 years",
           "link": "https://nltimes.nl/2022/11/06/man-wrongly-imprisoned-dutch-government-25-years",
           "publishedOn": "2022-11-06T15:00:02.000Z",
-          "wordCount": 859,
+          "wordCount": 852,
           "title": "Man wrongly imprisoned by Dutch government for 2.5 years",
           "imageUrl": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2019/01/depositphotos_147828445_l-2015.jpg?h=2e5cdddf"
         },
