@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://a16z.com/disclosures/",
+          "author": null,
+          "description": "Disclosures | Andreessen Horowitz",
+          "link": "https://a16z.com/disclosures/",
+          "publishedOn": "2022-11-08T03:30:03.000Z",
+          "wordCount": 1293,
+          "title": "Disclosures | Andreessen Horowitz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.vice.com/en/article/dy7kbq/palmer-luckey-made-a-vr-headset-that-kills-the-user-if-they-die-in-the-game",
+          "author": null,
+          "description": "Palmer Luckey Made a VR Headset That Kills the User If They Die in the Game",
+          "link": "https://www.vice.com/en/article/dy7kbq/palmer-luckey-made-a-vr-headset-that-kills-the-user-if-they-die-in-the-game",
+          "publishedOn": "2022-11-08T03:30:03.000Z",
+          "wordCount": 4802,
+          "title": "Palmer Luckey Made a VR Headset That Kills the User If They Die in the Game",
+          "imageUrl": "https://video-images.vice.com/articles/636927e1e600c60094d9094b/lede/1667836121839-saoday.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45MzY3eGg7MHh3LDAuMDYzM3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+        },
+        {
+          "id": "https://www.salt.org/events/2022/asia/tickets?utm_content=227003295&utm_medium=social&utm_source=twitter&hss_channel=tw-63614947",
+          "author": null,
+          "description": "SALT — SALT iConnections Asia 2023 - Tickets",
+          "link": "https://www.salt.org/events/2022/asia/tickets?utm_content=227003295&utm_medium=social&utm_source=twitter&hss_channel=tw-63614947",
+          "publishedOn": "2022-11-08T03:00:03.000Z",
+          "wordCount": 751,
+          "title": "SALT — SALT iConnections Asia 2023 - Tickets",
+          "imageUrl": "http://static1.squarespace.com/static/5bc7bb22aadd341784639f4c/t/5ed803a415d2d22fc7e22742/1591215016967/Logo+-+Square.jpg?format=1500w"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/north-korea-record-number-missile-tests-were-practice-attack-us-south",
+          "author": null,
+          "description": "North Korea: Record Number Of Missile Tests Was 'Practice' To Attack US, South | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/north-korea-record-number-missile-tests-were-practice-attack-us-south",
+          "publishedOn": "2022-11-08T03:00:02.000Z",
+          "wordCount": 1147,
+          "title": "North Korea: Record Number Of Missile Tests Was 'Practice' To Attack US, South | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/a16z/helios",
           "author": null,
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
@@ -13,7 +53,7 @@
           "publishedOn": "2022-11-08T01:00:03.000Z",
           "wordCount": 1378,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/88d9c996b7959bd4d8c438f0ab958fe79c97862d2e79d15d3a9149e0c8067011/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/77ad9bed5bf4fd312511360db22ab64a2824625e10a3370a8459d1bd36dd999c/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
@@ -31,7 +71,7 @@
           "description": "Astrologer: Total blood moon lunar eclipse to bring shocking global event",
           "link": "https://nypost.com/2022/11/07/total-blood-moon-lunar-eclipse-will-bring-shocking-events-worldwide/",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 25456,
+          "wordCount": 25424,
           "title": "Astrologer: Total blood moon lunar eclipse to bring shocking global event",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/blood-m00n-zodiac.jpg?quality=75&strip=all&w=1024"
         },
@@ -44,16 +84,6 @@
           "wordCount": 3362,
           "title": "DefiLlama",
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
-        },
-        {
-          "id": "https://github.com/farcasterxyz/protocol",
-          "author": null,
-          "description": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
-          "link": "https://github.com/farcasterxyz/protocol",
-          "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 6999,
-          "title": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
-          "imageUrl": "https://opengraph.githubassets.com/29139c8f6dad6f48c8c9374db33befe222a5da9c6ccd5916f034bacd1bfdfdf9/farcasterxyz/protocol"
         },
         {
           "id": "https://jpg.mirror.xyz/IaycQUQ_eBKVGUBk1lzkVZ9VfJyA3vPdIerrQuhUE90",
@@ -126,16 +156,6 @@
           "imageUrl": "https://www.thetwentyminutevc.com/wp-content/uploads/2022/11/4306E9DA-4837-4C99-B09E-6C5B12463F4E.jpg"
         },
         {
-          "id": "https://www.farcaster.xyz/",
-          "author": null,
-          "description": "Farcaster",
-          "link": "https://www.farcaster.xyz/",
-          "publishedOn": "2022-11-07T19:00:03.000Z",
-          "wordCount": 122,
-          "title": "Farcaster",
-          "imageUrl": "https://www.farcaster.xyz/img/opengraph.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=OB186_2pOns&feature=youtu.be",
           "author": null,
           "description": "STABLE | Global influence war - silent lobbying  feat. Curve, Balancer, Mento & BlueJay",
@@ -161,7 +181,7 @@
           "description": "FTX weekly stablecoin outflows surge as Binance piles on the pressure",
           "link": "https://www.theblock.co/post/183639/ftx-weekly-stablecoin-outflows-surge-as-binance-piles-on-the-pressure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-07T15:00:03.000Z",
-          "wordCount": 64044,
+          "wordCount": 63888,
           "title": "FTX weekly stablecoin outflows surge as Binance piles on the pressure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -171,29 +191,9 @@
           "description": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "link": "https://www.coindesk.com/markets/2022/11/07/open-interest-in-ftt-futures-doubles-to-203-million-as-binance-decides-to-sell-ftxs-native-token/",
           "publishedOn": "2022-11-07T14:00:04.000Z",
-          "wordCount": 6686,
+          "wordCount": 6638,
           "title": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "imageUrl": "https://www.coindesk.com/resizer/gXVuGqp2yA1qejPb6bkkn48iRNE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MAKIKFJJYRD7PAOLTKJKEAAIE4.png"
-        },
-        {
-          "id": "https://decrypt.co/113629/animoca-brands-ceo-there-is-no-metaverse-without-web3",
-          "author": null,
-          "description": "Animoca Brands CEO: 'There Is No Metaverse Without Web3' - Decrypt",
-          "link": "https://decrypt.co/113629/animoca-brands-ceo-there-is-no-metaverse-without-web3",
-          "publishedOn": "2022-11-07T12:30:02.000Z",
-          "wordCount": 5832,
-          "title": "Animoca Brands CEO: 'There Is No Metaverse Without Web3' - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/robby-yung-animoca-brands-gID_1.jpeg"
-        },
-        {
-          "id": "https://github.com/Arachnid/flashbots-ens-rescue",
-          "author": null,
-          "description": "GitHub - Arachnid/flashbots-ens-rescue: Rescues ENS names from compromised accounts using flashbots",
-          "link": "https://github.com/Arachnid/flashbots-ens-rescue",
-          "publishedOn": "2022-11-07T05:00:03.000Z",
-          "wordCount": 688,
-          "title": "GitHub - Arachnid/flashbots-ens-rescue: Rescues ENS names from compromised accounts using flashbots",
-          "imageUrl": "https://opengraph.githubassets.com/1fa655a2a88078331ba42c109511fafbb55618cffaae5a85b05fe1182d0d89b3/Arachnid/flashbots-ens-rescue"
         },
         {
           "id": "https://niccarter.info/proof-of-reserves/",
