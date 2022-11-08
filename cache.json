@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://home.treasury.gov/news/press-releases/jy1087",
+          "author": null,
+          "description": "Treasury Designates DPRK Weapons Representatives",
+          "link": "https://home.treasury.gov/news/press-releases/jy1087",
+          "publishedOn": "2022-11-08T22:00:06.000Z",
+          "wordCount": 3003,
+          "title": "Treasury Designates DPRK Weapons Representatives",
+          "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NIcNgzCXU6A&ab_channel=UnchainedPodcast",
           "author": null,
           "description": "The Chopping Block LIVE",
@@ -21,7 +31,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-08T21:00:03.000Z",
-          "wordCount": 7446,
+          "wordCount": 7496,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "Binance steps in to buy FTX.com after token collapse",
           "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 62727,
+          "wordCount": 63888,
           "title": "Binance steps in to buy FTX.com after token collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
         },
@@ -91,7 +101,7 @@
           "description": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "link": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
           "publishedOn": "2022-11-08T15:30:05.000Z",
-          "wordCount": 60480,
+          "wordCount": 63605,
           "title": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -111,19 +121,9 @@
           "description": "Digital euro may have transaction limits and store-of-value caps",
           "link": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T09:00:02.000Z",
-          "wordCount": 60558,
+          "wordCount": 63683,
           "title": "Digital euro may have transaction limits and store-of-value caps",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/01/ECB-900x675.jpg"
-        },
-        {
-          "id": "https://sdk-waitlist.webflow.io/",
-          "author": null,
-          "description": "SDK Waitlist",
-          "link": "https://sdk-waitlist.webflow.io/",
-          "publishedOn": "2022-11-08T09:00:02.000Z",
-          "wordCount": 44,
-          "title": "SDK Waitlist",
-          "imageUrl": null
         },
         {
           "id": "https://blog.bitmex.com/coming-soon-ftt-listings/",
@@ -141,7 +141,7 @@
           "description": "[DISCUSSION] Update on BIP-4 (Swap BIT for FTT)",
           "link": "https://discourse.bitdao.io/t/discussion-update-on-bip-4-swap-bit-for-ftt/4265",
           "publishedOn": "2022-11-08T07:00:03.000Z",
-          "wordCount": 377,
+          "wordCount": 391,
           "title": "[DISCUSSION] Update on BIP-4 (Swap BIT for FTT)",
           "imageUrl": "https://discourse.bitdao.io/uploads/default/original/1X/af9f95be29259c131c5d95483153aa5e526bad7f.png"
         },
@@ -181,9 +181,9 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 1369,
+          "wordCount": 1451,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/e55f2e309a9e01aabef7e9b7f827bd441b28bdbfe1dbf096fdd663b81e648932/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/3eea8309a8aabe8fc0ed811187dc94372c4cba159df1e2aeb5bf47a41d83048c/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
