@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.bitmex.com/bmex-trading-is-coming/",
+          "author": null,
+          "description": "BMEX Trading is Coming. Are You Ready?",
+          "link": "https://blog.bitmex.com/bmex-trading-is-coming/",
+          "publishedOn": "2022-11-08T05:30:05.000Z",
+          "wordCount": 5930,
+          "title": "BMEX Trading is Coming. Are You Ready?",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/11/Banner-Blog-1-1200x675-v2-EN-1-1.png"
+        },
+        {
           "id": "https://a16z.com/disclosures/",
           "author": null,
           "description": "Disclosures | Andreessen Horowitz",
@@ -43,7 +53,7 @@
           "publishedOn": "2022-11-08T01:00:03.000Z",
           "wordCount": 1378,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/d47550d2f7b8959703a9eddb5b4eb69a3572ee17d51771851f68aaba790f99d7/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/8780efaa8bf5865a2a083fbeaa34290c058090fbfdfffc77e85d05f47c0a4017/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
@@ -71,9 +81,19 @@
           "description": "DefiLlama",
           "link": "https://defillama.com/bridges",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 3819,
+          "wordCount": 3811,
           "title": "DefiLlama",
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
+          "id": "https://github.com/farcasterxyz/protocol",
+          "author": null,
+          "description": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
+          "link": "https://github.com/farcasterxyz/protocol",
+          "publishedOn": "2022-11-08T01:00:03.000Z",
+          "wordCount": 6999,
+          "title": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
+          "imageUrl": "https://opengraph.githubassets.com/6f8fa97c3390674ee276511eef17424635346ec131d5e9cd67aca1b0325f6c50/farcasterxyz/protocol"
         },
         {
           "id": "https://jpg.mirror.xyz/IaycQUQ_eBKVGUBk1lzkVZ9VfJyA3vPdIerrQuhUE90",
@@ -136,16 +156,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27119b49-52a0-4a48-87f4-2b9ef08ee797_919x603.png"
         },
         {
-          "id": "https://www.thetwentyminutevc.com/brian-armstrong/",
-          "author": null,
-          "description": "20VC: Coinbase's Brian Armstrong on Real vs Fake Emergencies, Coinbase's Failed NFT Launch, The Politicisation of...",
-          "link": "https://www.thetwentyminutevc.com/brian-armstrong/",
-          "publishedOn": "2022-11-07T19:00:03.000Z",
-          "wordCount": 1132,
-          "title": "20VC: Coinbase's Brian Armstrong on Real vs Fake Emergencies, Coinbase's Failed NFT Launch, The Politicisation of...",
-          "imageUrl": "https://www.thetwentyminutevc.com/wp-content/uploads/2022/11/4306E9DA-4837-4C99-B09E-6C5B12463F4E.jpg"
-        },
-        {
           "id": "https://www.farcaster.xyz/",
           "author": null,
           "description": "Farcaster",
@@ -181,7 +191,7 @@
           "description": "FTX weekly stablecoin outflows surge as Binance piles on the pressure",
           "link": "https://www.theblock.co/post/183639/ftx-weekly-stablecoin-outflows-surge-as-binance-piles-on-the-pressure?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-07T15:00:03.000Z",
-          "wordCount": 63880,
+          "wordCount": 64286,
           "title": "FTX weekly stablecoin outflows surge as Binance piles on the pressure",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -191,19 +201,9 @@
           "description": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "link": "https://www.coindesk.com/markets/2022/11/07/open-interest-in-ftt-futures-doubles-to-203-million-as-binance-decides-to-sell-ftxs-native-token/",
           "publishedOn": "2022-11-07T14:00:04.000Z",
-          "wordCount": 6653,
+          "wordCount": 6665,
           "title": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "imageUrl": "https://www.coindesk.com/resizer/gXVuGqp2yA1qejPb6bkkn48iRNE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MAKIKFJJYRD7PAOLTKJKEAAIE4.png"
-        },
-        {
-          "id": "https://niccarter.info/proof-of-reserves/",
-          "author": null,
-          "description": "Proof of Reserves - Nic Carter",
-          "link": "https://niccarter.info/proof-of-reserves/",
-          "publishedOn": "2022-11-07T02:00:04.000Z",
-          "wordCount": 2364,
-          "title": "Proof of Reserves - Nic Carter",
-          "imageUrl": null
         }
       ]
     }
