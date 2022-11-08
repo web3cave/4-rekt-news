@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.bitmex.com/coming-soon-ftt-listings/",
+          "author": null,
+          "description": "Coming Soon: Bitcoin- and Tether-Margined FTT Listings | BitMEX Blog",
+          "link": "https://blog.bitmex.com/coming-soon-ftt-listings/",
+          "publishedOn": "2022-11-08T07:30:06.000Z",
+          "wordCount": 5874,
+          "title": "Coming Soon: Bitcoin- and Tether-Margined FTT Listings | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/11/1666058530770.jpeg"
+        },
+        {
           "id": "https://discourse.bitdao.io/t/discussion-update-on-bip-4-swap-bit-for-ftt/4265",
           "author": null,
           "description": "[DISCUSSION] Update on BIP-4 (Swap BIT for FTT)",
@@ -63,7 +73,7 @@
           "publishedOn": "2022-11-08T01:00:03.000Z",
           "wordCount": 1378,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/9bbe6551cc819e787b8b80ea398628572aaa9f9267561f08fba75e9f3b706b06/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/aa0cbf50b4a5399b4926eff5ce4c3bb2b4ca5cd16a0bf27541574f3ef5bcfe76/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
@@ -81,7 +91,7 @@
           "description": "Astrologer: Total blood moon lunar eclipse to bring shocking global event",
           "link": "https://nypost.com/2022/11/07/total-blood-moon-lunar-eclipse-will-bring-shocking-events-worldwide/",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 24603,
+          "wordCount": 24888,
           "title": "Astrologer: Total blood moon lunar eclipse to bring shocking global event",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/blood-m00n-zodiac.jpg?quality=75&strip=all&w=1024"
         },
@@ -91,19 +101,9 @@
           "description": "DefiLlama",
           "link": "https://defillama.com/bridges",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 3811,
+          "wordCount": 3761,
           "title": "DefiLlama",
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
-        },
-        {
-          "id": "https://github.com/farcasterxyz/protocol",
-          "author": null,
-          "description": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
-          "link": "https://github.com/farcasterxyz/protocol",
-          "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 6999,
-          "title": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
-          "imageUrl": "https://opengraph.githubassets.com/6f8fa97c3390674ee276511eef17424635346ec131d5e9cd67aca1b0325f6c50/farcasterxyz/protocol"
         },
         {
           "id": "https://jpg.mirror.xyz/IaycQUQ_eBKVGUBk1lzkVZ9VfJyA3vPdIerrQuhUE90",
@@ -161,7 +161,7 @@
           "description": "Debunking Securities Law Myths About Tokens",
           "link": "https://lexnode.substack.com/p/debunking-securities-law-myths-about",
           "publishedOn": "2022-11-07T20:30:04.000Z",
-          "wordCount": 8679,
+          "wordCount": 8473,
           "title": "Debunking Securities Law Myths About Tokens",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27119b49-52a0-4a48-87f4-2b9ef08ee797_919x603.png"
         },
@@ -201,7 +201,7 @@
           "description": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "link": "https://www.coindesk.com/markets/2022/11/07/open-interest-in-ftt-futures-doubles-to-203-million-as-binance-decides-to-sell-ftxs-native-token/",
           "publishedOn": "2022-11-07T14:00:04.000Z",
-          "wordCount": 6633,
+          "wordCount": 6650,
           "title": "Open Interest in FTT Futures Doubles as Binance Moves to Liquidate FTX Token Holdings",
           "imageUrl": "https://www.coindesk.com/resizer/gXVuGqp2yA1qejPb6bkkn48iRNE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MAKIKFJJYRD7PAOLTKJKEAAIE4.png"
         }

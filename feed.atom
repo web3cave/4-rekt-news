@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T07:20:44.034Z</id>
+    <id>urn:2022-11-08T08:32:03.790Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T07:20:44.034Z</updated>
+    <updated>2022-11-08T08:32:03.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon: Bitcoin- and Tether-Margined FTT Listings | BitMEX Blog]]></title>
+        <id>https://blog.bitmex.com/coming-soon-ftt-listings/</id>
+        <link href="https://blog.bitmex.com/coming-soon-ftt-listings/"/>
+        <updated>2022-11-08T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Coming Soon: Bitcoin- and Tether-Margined FTT Listings | BitMEX Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DISCUSSION] Update on BIP-4 (Swap BIT for FTT)]]></title>
         <id>https://discourse.bitdao.io/t/discussion-update-on-bip-4-swap-bit-for-ftt/4265</id>
@@ -91,16 +101,6 @@
         <link href="https://defillama.com/bridges"/>
         <updated>2022-11-08T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol]]></title>
-        <id>https://github.com/farcasterxyz/protocol</id>
-        <link href="https://github.com/farcasterxyz/protocol"/>
-        <updated>2022-11-08T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
