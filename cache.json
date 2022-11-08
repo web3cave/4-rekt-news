@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/business/2022/11/08/wintermute-backed-dex-bebop-launches-on-polygon/",
+          "author": null,
+          "description": "Wintermute-Backed DEX Bebop Launches on Polygon",
+          "link": "https://www.coindesk.com/business/2022/11/08/wintermute-backed-dex-bebop-launches-on-polygon/",
+          "publishedOn": "2022-11-08T19:30:05.000Z",
+          "wordCount": 6613,
+          "title": "Wintermute-Backed DEX Bebop Launches on Polygon",
+          "imageUrl": "https://www.coindesk.com/resizer/y4ycdKTcQRKyxLn-FOi6sYBMrnM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B2SSXL3VFZGQJJBDGL3NQELU5I.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "author": null,
           "description": "Binance steps in to buy FTX.com after token collapse",
           "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 61267,
+          "wordCount": 60281,
           "title": "Binance steps in to buy FTX.com after token collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
         },
@@ -36,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://sepana.io/",
-          "author": null,
-          "description": "Sepana | Home",
-          "link": "https://sepana.io/",
-          "publishedOn": "2022-11-08T17:00:03.000Z",
-          "wordCount": 1463,
-          "title": "Sepana | Home",
-          "imageUrl": null
-        },
-        {
           "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -61,7 +61,7 @@
           "description": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "link": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
           "publishedOn": "2022-11-08T15:30:05.000Z",
-          "wordCount": 61116,
+          "wordCount": 60482,
           "title": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -81,7 +81,7 @@
           "description": "Digital euro may have transaction limits and store-of-value caps",
           "link": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T09:00:02.000Z",
-          "wordCount": 61546,
+          "wordCount": 60560,
           "title": "Digital euro may have transaction limits and store-of-value caps",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/01/ECB-900x675.jpg"
         },
@@ -151,9 +151,9 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 1380,
+          "wordCount": 1384,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/2fac2fd7d138bcd17fdda3d8f235b12b197f2a1abe0666613507201cb9481386/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/7e532c3ef5dd84e5dac4d3dbcacd83ba77b734a0b7e682b550e13e2a9433e91f/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
