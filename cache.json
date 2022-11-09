@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DelF6zEHXpE",
+          "author": null,
+          "description": "Funds Are Safu",
+          "link": "https://www.youtube.com/watch?v=DelF6zEHXpE",
+          "publishedOn": "2022-11-08T23:30:06.000Z",
+          "wordCount": null,
+          "title": "Funds Are Safu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LDtZyMcaaNY",
           "author": null,
           "description": "BINANCE ACQUIRES FTX  CZ vs. SBF",
@@ -26,6 +36,16 @@
           "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
         },
         {
+          "id": "https://ultrasound.money/",
+          "author": null,
+          "description": "Ultra Sound Money",
+          "link": "https://ultrasound.money/",
+          "publishedOn": "2022-11-08T21:30:06.000Z",
+          "wordCount": 462,
+          "title": "Ultra Sound Money",
+          "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NIcNgzCXU6A&ab_channel=UnchainedPodcast",
           "author": null,
           "description": "The Chopping Block LIVE",
@@ -41,7 +61,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-08T21:00:03.000Z",
-          "wordCount": 7524,
+          "wordCount": 7473,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -61,7 +81,7 @@
           "description": "Binance steps in to buy FTX.com after token collapse",
           "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 64147,
+          "wordCount": 64023,
           "title": "Binance steps in to buy FTX.com after token collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
         },
@@ -86,16 +106,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://gordongoner.substack.com/p/on-marketplaces-and-creator-royalties?sd=pf",
-          "author": null,
-          "description": "On Marketplaces and Creator Royalties",
-          "link": "https://gordongoner.substack.com/p/on-marketplaces-and-creator-royalties?sd=pf",
-          "publishedOn": "2022-11-08T17:00:03.000Z",
-          "wordCount": 3418,
-          "title": "On Marketplaces and Creator Royalties",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f0b29f4-ddaa-4109-abc2-71e468120c19_400x400.jpeg"
-        },
-        {
           "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
@@ -111,19 +121,9 @@
           "description": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "link": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
           "publishedOn": "2022-11-08T15:30:05.000Z",
-          "wordCount": 63844,
+          "wordCount": 63720,
           "title": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
-        },
-        {
-          "id": "https://community.starknet.io/t/starknet-decentralized-protocol-introduction/2671",
-          "author": null,
-          "description": "StarkNet Decentralized Protocol - Introduction",
-          "link": "https://community.starknet.io/t/starknet-decentralized-protocol-introduction/2671",
-          "publishedOn": "2022-11-08T11:00:02.000Z",
-          "wordCount": 3344,
-          "title": "StarkNet Decentralized Protocol - Introduction",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard20/uploads/starknet1/original/1X/15e3f8d18f1f451320eb065afb5be40376d0cdcb.png"
         },
         {
           "id": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps?utm_source=twitter&utm_medium=social",
@@ -131,7 +131,7 @@
           "description": "Digital euro may have transaction limits and store-of-value caps",
           "link": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T09:00:02.000Z",
-          "wordCount": 63922,
+          "wordCount": 63341,
           "title": "Digital euro may have transaction limits and store-of-value caps",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/01/ECB-900x675.jpg"
         },
@@ -181,9 +181,9 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-08T01:00:03.000Z",
-          "wordCount": 1451,
+          "wordCount": 1445,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/2f6b5580c9ee92114920b6052b040c57067ff8a1c70a7ce3b33182379a2834dd/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/5d801dec79a547c5e5e4ae390d46a0e351dfdc07696f5a32ccda4cbeb0368887/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
@@ -201,9 +201,9 @@
           "description": "Can TCRs Make a Comeback? A Case for Crowdsourced Information in…",
           "link": "https://jpg.mirror.xyz/IaycQUQ_eBKVGUBk1lzkVZ9VfJyA3vPdIerrQuhUE90",
           "publishedOn": "2022-11-08T01:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 3388,
           "title": "Can TCRs Make a Comeback? A Case for Crowdsourced Information in…",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/OpyCGIQlr88VfXU4-QYHN.png?height=823&width=1645&h=823&w=1645&auto=compress"
         }
       ]
     }
