@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.enclave.market/",
+          "author": null,
+          "description": "Enclave Markets",
+          "link": "https://www.enclave.market/",
+          "publishedOn": "2022-11-09T16:30:08.000Z",
+          "wordCount": 1129,
+          "title": "Enclave Markets",
+          "imageUrl": null
+        },
+        {
           "id": "https://bitcoin.org/bitcoin.pdf",
           "author": null,
           "description": "[PDF] bitcoin.pdf",
@@ -13,6 +23,16 @@
           "publishedOn": "2022-11-09T15:00:03.000Z",
           "wordCount": 3816,
           "title": "[PDF] bitcoin.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DV-AOYynFTE&feature=youtu.be",
+          "author": null,
+          "description": "FTX blows up, OFAC updates and more - The Daily Gwei Refuel #484 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=DV-AOYynFTE&feature=youtu.be",
+          "publishedOn": "2022-11-09T15:00:03.000Z",
+          "wordCount": null,
+          "title": "FTX blows up, OFAC updates and more - The Daily Gwei Refuel #484 - Ethereum Updates",
           "imageUrl": null
         },
         {
@@ -41,7 +61,7 @@
           "description": "Huobi与波场DAO永久1：1刚性承兑FTX波场系代币TRX, BTT, JST, SUN, HT的决定-火币全球站-火币网官网",
           "link": "https://www.huobi.com/support/zh-cn/detail/34922291561464",
           "publishedOn": "2022-11-09T07:00:02.000Z",
-          "wordCount": 342,
+          "wordCount": 552,
           "title": "Huobi与波场DAO永久1：1刚性承兑FTX波场系代币TRX, BTT, JST, SUN, HT的决定-火币全球站-火币网官网",
           "imageUrl": null
         },
@@ -54,16 +74,6 @@
           "wordCount": 14667,
           "title": "Sam Bankman-Fried Has a Savior Complex—And Maybe You Should Too",
           "imageUrl": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/09/SFB-Hero.gif"
-        },
-        {
-          "id": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
-          "author": null,
-          "description": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
-          "link": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
-          "publishedOn": "2022-11-09T03:00:03.000Z",
-          "wordCount": 10684,
-          "title": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/62bb1fbd923d71e398123430/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
         {
           "id": "https://www.youtube.com/watch?v=DelF6zEHXpE",
@@ -91,9 +101,19 @@
           "description": "New Treasury sanctions link Tornado Cash to North Korea's nuclear weapons program",
           "link": "https://www.theblock.co/post/184320/new-treasury-sanctions-link-tornado-cash-to-north-koreas-nuclear-weapons-program?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T23:00:03.000Z",
-          "wordCount": 63967,
+          "wordCount": 63722,
           "title": "New Treasury sanctions link Tornado Cash to North Korea's nuclear weapons program",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/north-korea-2662076_1920-900x675.jpg"
+        },
+        {
+          "id": "https://ensmerchshop.xyz/",
+          "author": null,
+          "description": "ENS Merch",
+          "link": "https://ensmerchshop.xyz/",
+          "publishedOn": "2022-11-08T23:00:03.000Z",
+          "wordCount": 604,
+          "title": "ENS Merch",
+          "imageUrl": "https://ensmerchshop.xyz/wp-content/uploads/2022/10/ens-merch-og-image.png"
         },
         {
           "id": "https://home.treasury.gov/news/press-releases/jy1087",
@@ -101,7 +121,7 @@
           "description": "Treasury Designates DPRK Weapons Representatives",
           "link": "https://home.treasury.gov/news/press-releases/jy1087",
           "publishedOn": "2022-11-08T22:00:06.000Z",
-          "wordCount": 3003,
+          "wordCount": 3001,
           "title": "Treasury Designates DPRK Weapons Representatives",
           "imageUrl": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg"
         },
@@ -131,7 +151,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-08T21:00:03.000Z",
-          "wordCount": 6802,
+          "wordCount": 7301,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -146,24 +166,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
+          "id": "https://www.theblock.co/post/184354/ftx-implosion-has-u-s-regulators-on-watch?utm_source=twitter&utm_medium=social",
           "author": null,
-          "description": "Binance steps in to buy FTX.com after token collapse",
-          "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
-          "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 64097,
-          "title": "Binance steps in to buy FTX.com after token collapse",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
-        },
-        {
-          "id": "https://binance.us/",
-          "author": null,
-          "description": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
-          "link": "https://binance.us/",
-          "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 1039,
-          "title": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
-          "imageUrl": "https://public.bnbstatic.us/static/images/binance_previewImage.png"
+          "description": "FTX implosion has U.S. regulators on watch",
+          "link": "https://www.theblock.co/post/184354/ftx-implosion-has-u-s-regulators-on-watch?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-08T21:00:03.000Z",
+          "wordCount": 64389,
+          "title": "FTX implosion has U.S. regulators on watch",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Capitol-Congress-Regulation-1200x675.jpg"
         },
         {
           "id": "https://niccarter.info/proof-of-reserves/",
@@ -176,20 +186,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://gordongoner.substack.com/p/on-marketplaces-and-creator-royalties?sd=pf",
-          "author": null,
-          "description": "On Marketplaces and Creator Royalties",
-          "link": "https://gordongoner.substack.com/p/on-marketplaces-and-creator-royalties?sd=pf",
-          "publishedOn": "2022-11-08T17:00:03.000Z",
-          "wordCount": 3417,
-          "title": "On Marketplaces and Creator Royalties",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f0b29f4-ddaa-4109-abc2-71e468120c19_400x400.jpeg"
-        },
-        {
-          "id": "https://ftx.us/?fromIntl=true",
+          "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/?fromIntl=true",
+          "link": "https://ftx.us/",
           "publishedOn": "2022-11-08T17:00:02.000Z",
           "wordCount": 593,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
