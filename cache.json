@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bitcoin.org/bitcoin.pdf",
+          "author": null,
+          "description": "[PDF] bitcoin.pdf",
+          "link": "https://bitcoin.org/bitcoin.pdf",
+          "publishedOn": "2022-11-09T15:00:03.000Z",
+          "wordCount": 3816,
+          "title": "[PDF] bitcoin.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=social.tw",
+          "author": null,
+          "description": "Learn from my mistakes",
+          "link": "https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=social.tw",
+          "publishedOn": "2022-11-09T15:00:02.000Z",
+          "wordCount": 2297,
+          "title": "Learn from my mistakes",
+          "imageUrl": "https://miro.medium.com/max/800/1*qNPUagVc-yH7KdqzAbvbXw.jpeg"
+        },
+        {
           "id": "https://www.straitstimes.com/business/companies-markets/temasek-engaging-with-ftx-as-binance-bailout-plan-fuels-uncertainty-in-crypto-market",
           "author": null,
           "description": "Temasek engaging with FTX as Binance bailout plan fuels uncertainty in crypto market",
@@ -21,7 +41,7 @@
           "description": "Huobi与波场DAO永久1：1刚性承兑FTX波场系代币TRX, BTT, JST, SUN, HT的决定-火币全球站-火币网官网",
           "link": "https://www.huobi.com/support/zh-cn/detail/34922291561464",
           "publishedOn": "2022-11-09T07:00:02.000Z",
-          "wordCount": 550,
+          "wordCount": 342,
           "title": "Huobi与波场DAO永久1：1刚性承兑FTX波场系代币TRX, BTT, JST, SUN, HT的决定-火币全球站-火币网官网",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/06/28/bankman-fried-some-crypto-exchanges-already-secretly-insolvent/",
           "publishedOn": "2022-11-09T03:00:03.000Z",
-          "wordCount": 10385,
+          "wordCount": 10684,
           "title": "Bankman-Fried Warns: Some Crypto Exchanges Already “Secretly Insolvent”",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/62bb1fbd923d71e398123430/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -71,19 +91,9 @@
           "description": "New Treasury sanctions link Tornado Cash to North Korea's nuclear weapons program",
           "link": "https://www.theblock.co/post/184320/new-treasury-sanctions-link-tornado-cash-to-north-koreas-nuclear-weapons-program?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T23:00:03.000Z",
-          "wordCount": 64414,
+          "wordCount": 63967,
           "title": "New Treasury sanctions link Tornado Cash to North Korea's nuclear weapons program",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/03/north-korea-2662076_1920-900x675.jpg"
-        },
-        {
-          "id": "https://www.enclave.market/",
-          "author": null,
-          "description": "Enclave Markets",
-          "link": "https://www.enclave.market/",
-          "publishedOn": "2022-11-08T23:00:03.000Z",
-          "wordCount": 1129,
-          "title": "Enclave Markets",
-          "imageUrl": null
         },
         {
           "id": "https://home.treasury.gov/news/press-releases/jy1087",
@@ -121,7 +131,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-08T21:00:03.000Z",
-          "wordCount": 6706,
+          "wordCount": 6802,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Binance steps in to buy FTX.com after token collapse",
           "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 64544,
+          "wordCount": 64097,
           "title": "Binance steps in to buy FTX.com after token collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
         },
@@ -171,29 +181,19 @@
           "description": "On Marketplaces and Creator Royalties",
           "link": "https://gordongoner.substack.com/p/on-marketplaces-and-creator-royalties?sd=pf",
           "publishedOn": "2022-11-08T17:00:03.000Z",
-          "wordCount": 3418,
+          "wordCount": 3417,
           "title": "On Marketplaces and Creator Royalties",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f0b29f4-ddaa-4109-abc2-71e468120c19_400x400.jpeg"
         },
         {
-          "id": "https://ftx.us/",
+          "id": "https://ftx.us/?fromIntl=true",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/",
+          "link": "https://ftx.us/?fromIntl=true",
           "publishedOn": "2022-11-08T17:00:02.000Z",
           "wordCount": 593,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
           "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
-          "author": null,
-          "description": "FTX appears to have stopped processing withdrawals, on-chain data show",
-          "link": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
-          "publishedOn": "2022-11-08T15:30:05.000Z",
-          "wordCount": 64241,
-          "title": "FTX appears to have stopped processing withdrawals, on-chain data show",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=-jQgz_voLqc&feature=youtu.be",
