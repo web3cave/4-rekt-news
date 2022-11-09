@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-09T21:23:54.015Z</id>
+    <id>urn:2022-11-09T22:22:43.235Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-09T21:23:54.015Z</updated>
+    <updated>2022-11-09T22:22:43.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -116,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[the COH]]></title>
+        <id>https://thecoh.build/</id>
+        <link href="https://thecoh.build/"/>
+        <updated>2022-11-09T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[the COH]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Huobi与波场DAO永久1：1刚性承兑FTX波场系代币TRX, BTT, JST, SUN, HT的决定-火币全球站-火币网官网]]></title>
         <id>https://www.huobi.com/support/zh-cn/detail/34922291561464</id>
         <link href="https://www.huobi.com/support/zh-cn/detail/34922291561464"/>
@@ -131,16 +141,6 @@
         <link href="https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/"/>
         <updated>2022-11-09T05:30:05.000Z</updated>
         <summary type="html"><![CDATA[Sam Bankman-Fried Has a Savior Complex—And Maybe You Should Too]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BINANCE ACQUIRES FTX  CZ vs. SBF]]></title>
-        <id>https://www.youtube.com/watch?v=LDtZyMcaaNY</id>
-        <link href="https://www.youtube.com/watch?v=LDtZyMcaaNY"/>
-        <updated>2022-11-08T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[BINANCE ACQUIRES FTX  CZ vs. SBF]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -197,8 +197,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></title>
-        <id>https://ftx.us/</id>
-        <link href="https://ftx.us/"/>
+        <id>https://ftx.us/?fromIntl=true</id>
+        <link href="https://ftx.us/?fromIntl=true"/>
         <updated>2022-11-08T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></summary>
         <author>
