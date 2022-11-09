@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/",
+          "author": null,
+          "description": "Sam Bankman-Fried Has a Savior Complex—And Maybe You Should Too",
+          "link": "https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/",
+          "publishedOn": "2022-11-09T05:30:05.000Z",
+          "wordCount": 14667,
+          "title": "Sam Bankman-Fried Has a Savior Complex—And Maybe You Should Too",
+          "imageUrl": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/09/SFB-Hero.gif"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DelF6zEHXpE",
           "author": null,
           "description": "Funds Are Safu",
@@ -61,7 +71,7 @@
           "description": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "link": "https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/",
           "publishedOn": "2022-11-08T21:00:03.000Z",
-          "wordCount": 7574,
+          "wordCount": 7556,
           "title": "Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet",
           "imageUrl": "https://www.coindesk.com/resizer/zYwcFnN6ywcrFtsD_7dtFvZMeaQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Binance steps in to buy FTX.com after token collapse",
           "link": "https://www.theblock.co/post/184251/ftx-agrees-to-strategic-transaction-with-binance",
           "publishedOn": "2022-11-08T19:00:03.000Z",
-          "wordCount": 64023,
+          "wordCount": 64239,
           "title": "Binance steps in to buy FTX.com after token collapse",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/binance-ftx-900x675.png"
         },
@@ -121,7 +131,7 @@
           "description": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "link": "https://www.theblock.co/post/184176/ftx-appears-to-have-stopped-processing-withdrawals-on-chain-data-show",
           "publishedOn": "2022-11-08T15:30:05.000Z",
-          "wordCount": 63720,
+          "wordCount": 63936,
           "title": "FTX appears to have stopped processing withdrawals, on-chain data show",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -131,7 +141,7 @@
           "description": "Digital euro may have transaction limits and store-of-value caps",
           "link": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-08T09:00:02.000Z",
-          "wordCount": 63341,
+          "wordCount": 63557,
           "title": "Digital euro may have transaction limits and store-of-value caps",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/01/ECB-900x675.jpg"
         },
@@ -156,16 +166,6 @@
           "imageUrl": "https://discourse.bitdao.io/uploads/default/original/1X/af9f95be29259c131c5d95483153aa5e526bad7f.png"
         },
         {
-          "id": "https://blog.bitmex.com/bmex-trading-is-coming/",
-          "author": null,
-          "description": "BMEX Trading is Coming. Are You Ready?",
-          "link": "https://blog.bitmex.com/bmex-trading-is-coming/",
-          "publishedOn": "2022-11-08T05:30:05.000Z",
-          "wordCount": 5930,
-          "title": "BMEX Trading is Coming. Are You Ready?",
-          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/11/Banner-Blog-1-1200x675-v2-EN-1-1.png"
-        },
-        {
           "id": "https://www.vice.com/en/article/dy7kbq/palmer-luckey-made-a-vr-headset-that-kills-the-user-if-they-die-in-the-game",
           "author": null,
           "description": "Palmer Luckey Made a VR Headset That Kills the User If They Die in the Game",
@@ -183,7 +183,7 @@
           "publishedOn": "2022-11-08T01:00:03.000Z",
           "wordCount": 1451,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/cd46439b45467f8c036fe83f875de78b84a5dae759ac3b959b654ad9da5e4f36/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/9332cf1146e49441ce13752f9de792ba47fd02fcd00654e63d179672be74e5e8/a16z/helios"
         },
         {
           "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
