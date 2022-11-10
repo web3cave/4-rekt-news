@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aK8RIYO802w&feature=youtu.be",
+          "author": null,
+          "description": "The Collapse of FTX | 24 hours later",
+          "link": "https://www.youtube.com/watch?v=aK8RIYO802w&feature=youtu.be",
+          "publishedOn": "2022-11-10T18:00:07.000Z",
+          "wordCount": null,
+          "title": "The Collapse of FTX | 24 hours later",
+          "imageUrl": null
+        },
+        {
           "id": "https://usdd.io/",
           "author": null,
           "description": "USDD | Decentralized Stablecoin Protocol | 去中心化稳定币协议",
@@ -21,7 +31,7 @@
           "description": "Our Commitment To Transparency | Binance Blog",
           "link": "https://www.binance.com/en/blog/community/our-commitment-to-transparency-2895840147147652626",
           "publishedOn": "2022-11-10T15:00:02.000Z",
-          "wordCount": 7666,
+          "wordCount": 7650,
           "title": "Our Commitment To Transparency | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221110/76dc0791-d586-4f9d-ac22-991914af3049.png"
         },
@@ -41,7 +51,7 @@
           "description": "Binance Releases Wallet Addresses of $69B Crypto Reserve",
           "link": "https://www.coindesk.com/business/2022/11/10/binance-releases-wallet-addresses-of-69b-crypto-reserve/",
           "publishedOn": "2022-11-10T15:00:02.000Z",
-          "wordCount": 5720,
+          "wordCount": 5825,
           "title": "Binance Releases Wallet Addresses of $69B Crypto Reserve",
           "imageUrl": "https://www.coindesk.com/resizer/Wd4opfh7AbCT5BW6_V07VckV-OY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y5RISCIELJATTH2YVDPI5RUSRY.jpg"
         },
@@ -61,7 +71,7 @@
           "description": "Without Details, Tron's Justin Sun Says He's 'Putting Together Solution' for FTX",
           "link": "https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
           "publishedOn": "2022-11-10T05:00:03.000Z",
-          "wordCount": 6116,
+          "wordCount": 6201,
           "title": "Without Details, Tron's Justin Sun Says He's 'Putting Together Solution' for FTX",
           "imageUrl": "https://www.coindesk.com/resizer/lRemSgsM9L6aMDx1_aTdNMV5kZU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7CDYWD22KZHTVFN6QXFOKQPPYE.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation",
           "link": "https://www.coindesk.com/web3/2022/11/09/ftx-blowup-puts-trove-of-prized-bored-apes-at-risk-of-liquidation/",
           "publishedOn": "2022-11-10T03:30:05.000Z",
-          "wordCount": 5948,
+          "wordCount": 6049,
           "title": "FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation",
           "imageUrl": "https://www.coindesk.com/resizer/Z_D5b6bprqX8drFQ1qrQBVuHosQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4T435LU2FZGVVFV22BCEE6IS4Q.jpg"
         },
@@ -106,12 +116,22 @@
           "imageUrl": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/6151bb852895f566be2e83d0_chainlink-open-graph-images_por.jpg"
         },
         {
+          "id": "https://www.youtube.com/watch?v=hOX5b1Byha8&feature=youtu.be",
+          "author": null,
+          "description": "Bankless x UpOnly therapy stream",
+          "link": "https://www.youtube.com/watch?v=hOX5b1Byha8&feature=youtu.be",
+          "publishedOn": "2022-11-10T03:00:04.000Z",
+          "wordCount": null,
+          "title": "Bankless x UpOnly therapy stream",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ava-labs/avalanche-types-rs",
           "author": null,
           "description": "GitHub - ava-labs/avalanche-types-rs: Avalanche primitive types in Rust (experimental)",
           "link": "https://github.com/ava-labs/avalanche-types-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 674,
+          "wordCount": 610,
           "title": "GitHub - ava-labs/avalanche-types-rs: Avalanche primitive types in Rust (experimental)",
           "imageUrl": "https://opengraph.githubassets.com/6e506f0391c041f328c041d614992d42f5c2d716b1d008b8ea15c6bd46bca185/ava-labs/avalanche-types-rs"
         },
@@ -121,7 +141,7 @@
           "description": "GitHub - ava-labs/timestampvm-rs: Timestamp VM in Rust",
           "link": "https://github.com/ava-labs/timestampvm-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 935,
+          "wordCount": 929,
           "title": "GitHub - ava-labs/timestampvm-rs: Timestamp VM in Rust",
           "imageUrl": "https://opengraph.githubassets.com/d60de45d69fd7c44c74fcc13c62d566dd2cca7e61bbc873fc137e67c0881e0a4/ava-labs/timestampvm-rs"
         },
@@ -131,7 +151,7 @@
           "description": "GitHub - ava-labs/spacesvm-rs: Spaces VM in Rust",
           "link": "https://github.com/ava-labs/spacesvm-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 1062,
+          "wordCount": 945,
           "title": "GitHub - ava-labs/spacesvm-rs: Spaces VM in Rust",
           "imageUrl": "https://opengraph.githubassets.com/cec08824ec4d9d3ce54e499344f4fd7ef92da2c017ee95258202404621974efb/ava-labs/spacesvm-rs"
         },
@@ -146,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://cryptoys.com/",
-          "author": null,
-          "description": "Cryptoys - A Whole New Breed of NFT",
-          "link": "https://cryptoys.com/",
-          "publishedOn": "2022-11-09T19:00:04.000Z",
-          "wordCount": 74,
-          "title": "Cryptoys - A Whole New Breed of NFT",
-          "imageUrl": "https://cryptoys.io/assets/images/MetaTag.webp"
-        },
-        {
           "id": "https://cryptohayes.medium.com/speechless-9b1b5114bb2c",
           "author": null,
           "description": "Speechless",
@@ -164,16 +174,6 @@
           "wordCount": 5651,
           "title": "Speechless",
           "imageUrl": "https://miro.medium.com/max/400/0*XLVgBWXGvUydhRSV"
-        },
-        {
-          "id": "https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/",
-          "author": null,
-          "description": "Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover After First Glance at Books: Source",
-          "link": "https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/",
-          "publishedOn": "2022-11-09T17:00:09.000Z",
-          "wordCount": 6196,
-          "title": "Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover After First Glance at Books: Source",
-          "imageUrl": "https://www.coindesk.com/resizer/vs_br09GikkPtsFxxZv8_4ZkqQ4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UWEBMAJTJBE2NFUOBXITPFOJWE.jpg"
         },
         {
           "id": "https://crypto.com/",
