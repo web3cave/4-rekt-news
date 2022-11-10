@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.vice.com/en/article/n7z5bm/apple-airdrop-china-ios",
+          "author": null,
+          "description": "Apple Limits AirDrop in China After It Was Used to Spread Protest Messages",
+          "link": "https://www.vice.com/en/article/n7z5bm/apple-airdrop-china-ios",
+          "publishedOn": "2022-11-10T13:00:03.000Z",
+          "wordCount": 6181,
+          "title": "Apple Limits AirDrop in China After It Was Used to Spread Protest Messages",
+          "imageUrl": "https://video-images.vice.com/articles/636cb6f3d052df00936db655/lede/1668069109890-00032m26r4.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDQ0eGg7MHh3LDAuMDQxNXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
           "author": null,
           "description": "Without Details, Tron's Justin Sun Says He's 'Putting Together Solution' for FTX",
           "link": "https://www.coindesk.com/business/2022/11/10/without-details-trons-justin-sun-says-hes-putting-together-solution-for-ftx/",
           "publishedOn": "2022-11-10T05:00:03.000Z",
-          "wordCount": 6858,
+          "wordCount": 6837,
           "title": "Without Details, Tron's Justin Sun Says He's 'Putting Together Solution' for FTX",
           "imageUrl": "https://www.coindesk.com/resizer/lRemSgsM9L6aMDx1_aTdNMV5kZU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7CDYWD22KZHTVFN6QXFOKQPPYE.jpg"
         },
@@ -24,16 +34,6 @@
           "wordCount": null,
           "title": "The Chopping Block: FTX: The Biggest Collapse in the History of Crypto? – Ep. 418",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/web3/2022/11/09/ftx-blowup-puts-trove-of-prized-bored-apes-at-risk-of-liquidation/",
-          "author": null,
-          "description": "FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation",
-          "link": "https://www.coindesk.com/web3/2022/11/09/ftx-blowup-puts-trove-of-prized-bored-apes-at-risk-of-liquidation/",
-          "publishedOn": "2022-11-10T03:30:05.000Z",
-          "wordCount": 6643,
-          "title": "FTX Blowup Puts Trove of Prized Bored Apes at Risk of Liquidation",
-          "imageUrl": "https://www.coindesk.com/resizer/Z_D5b6bprqX8drFQ1qrQBVuHosQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4T435LU2FZGVVFV22BCEE6IS4Q.jpg"
         },
         {
           "id": "https://vitalik.ca/general/2021/03/23/legitimacy.html",
@@ -71,7 +71,7 @@
           "description": "GitHub - ava-labs/avalanche-types-rs: Avalanche primitive types in Rust (experimental)",
           "link": "https://github.com/ava-labs/avalanche-types-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 616,
+          "wordCount": 674,
           "title": "GitHub - ava-labs/avalanche-types-rs: Avalanche primitive types in Rust (experimental)",
           "imageUrl": "https://opengraph.githubassets.com/6e506f0391c041f328c041d614992d42f5c2d716b1d008b8ea15c6bd46bca185/ava-labs/avalanche-types-rs"
         },
@@ -81,7 +81,7 @@
           "description": "GitHub - ava-labs/timestampvm-rs: Timestamp VM in Rust",
           "link": "https://github.com/ava-labs/timestampvm-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 951,
+          "wordCount": 957,
           "title": "GitHub - ava-labs/timestampvm-rs: Timestamp VM in Rust",
           "imageUrl": "https://opengraph.githubassets.com/d60de45d69fd7c44c74fcc13c62d566dd2cca7e61bbc873fc137e67c0881e0a4/ava-labs/timestampvm-rs"
         },
@@ -91,7 +91,7 @@
           "description": "GitHub - ava-labs/spacesvm-rs: Spaces VM in Rust",
           "link": "https://github.com/ava-labs/spacesvm-rs",
           "publishedOn": "2022-11-09T23:00:03.000Z",
-          "wordCount": 945,
+          "wordCount": 1062,
           "title": "GitHub - ava-labs/spacesvm-rs: Spaces VM in Rust",
           "imageUrl": "https://opengraph.githubassets.com/cec08824ec4d9d3ce54e499344f4fd7ef92da2c017ee95258202404621974efb/ava-labs/spacesvm-rs"
         },
@@ -121,7 +121,7 @@
           "description": "Speechless",
           "link": "https://cryptohayes.medium.com/speechless-9b1b5114bb2c",
           "publishedOn": "2022-11-09T18:00:08.000Z",
-          "wordCount": 5273,
+          "wordCount": 5270,
           "title": "Speechless",
           "imageUrl": "https://miro.medium.com/max/400/0*XLVgBWXGvUydhRSV"
         },
@@ -131,7 +131,7 @@
           "description": "Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover After First Glance at Books: Source",
           "link": "https://www.coindesk.com/business/2022/11/09/binance-is-strongly-leaning-toward-scrapping-ftx-rescue-takeover-after-first-glance-at-books-source/",
           "publishedOn": "2022-11-09T17:00:09.000Z",
-          "wordCount": 6903,
+          "wordCount": 6921,
           "title": "Binance Is Strongly Leaning Toward Scrapping FTX Rescue Takeover After First Glance at Books: Source",
           "imageUrl": "https://www.coindesk.com/resizer/vs_br09GikkPtsFxxZv8_4ZkqQ4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UWEBMAJTJBE2NFUOBXITPFOJWE.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Multicoin Capital hit by FTX collapse, with 10% of its fund's AUM stuck on the exchange",
           "link": "https://www.theblock.co/post/184766/multicoin-capital-hit-by-ftx-collapse-with-10-of-its-funds-aum-stuck-on-the-exchange",
           "publishedOn": "2022-11-09T17:00:09.000Z",
-          "wordCount": 65727,
+          "wordCount": 65882,
           "title": "Multicoin Capital hit by FTX collapse, with 10% of its fund's AUM stuck on the exchange",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Kyle-Samani-1200x675.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Nearly $1 billion of solana is set to be unlocked in 24 hours",
           "link": "https://www.theblock.co/post/184667/solana-tokens-worth-330-million-to-be-unlocked-in-24-hours?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-09T17:00:09.000Z",
-          "wordCount": 64667,
+          "wordCount": 64822,
           "title": "Nearly $1 billion of solana is set to be unlocked in 24 hours",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220506_Solana-1200x675.jpg"
         },
