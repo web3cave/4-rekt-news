@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T19:18:47.339Z</id>
+    <id>urn:2022-11-10T20:25:07.518Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T19:18:47.339Z</updated>
+    <updated>2022-11-10T20:25:07.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Speed Run Ethereum]]></title>
+        <id>https://speedrunethereum.com/</id>
+        <link href="https://speedrunethereum.com/"/>
+        <updated>2022-11-10T19:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Speed Run Ethereum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Exchange FTX Reopens Withdrawals: Nansen]]></title>
         <id>https://www.coindesk.com/business/2022/11/10/crypto-exchange-ftx-reopens-withdrawals-nansen/</id>
@@ -111,16 +121,6 @@
         <link href="https://vitalik.ca/general/2021/03/23/legitimacy.html"/>
         <updated>2022-11-10T03:00:04.000Z</updated>
         <summary type="html"><![CDATA[The Most Important Scarce Resource is Legitimacy]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proof of Reserve for Off-Chain and Cross-Chain Assets | Chainlink]]></title>
-        <id>https://chain.link/proof-of-reserve</id>
-        <link href="https://chain.link/proof-of-reserve"/>
-        <updated>2022-11-10T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Proof of Reserve for Off-Chain and Cross-Chain Assets | Chainlink]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
