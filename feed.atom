@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-11T19:19:06.116Z</id>
+    <id>urn:2022-11-11T20:24:03.948Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-11T19:19:06.116Z</updated>
+    <updated>2022-11-11T20:24:03.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fragment]]></title>
+        <id>https://fragment.com/</id>
+        <link href="https://fragment.com/"/>
+        <updated>2022-11-11T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Fragment]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ante x Zellic: Audit incentive alignment]]></title>
+        <id>https://www.zellic.io/blog/ante-x-zellic</id>
+        <link href="https://www.zellic.io/blog/ante-x-zellic"/>
+        <updated>2022-11-11T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Ante x Zellic: Audit incentive alignment]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Decoded]]></title>
+        <id>https://www.pbs.org/wgbh/nova/video/crypto-decoded/</id>
+        <link href="https://www.pbs.org/wgbh/nova/video/crypto-decoded/"/>
+        <updated>2022-11-11T19:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Decoded]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Commitment To Transparency | Binance Blog]]></title>
         <id>https://www.binance.com/en/blog/community/our-commitment-to-transparency-2895840147147652626</id>
         <link href="https://www.binance.com/en/blog/community/our-commitment-to-transparency-2895840147147652626"/>
         <updated>2022-11-11T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Our Commitment To Transparency | Binance Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Showed the Problems of Centralized Finance, and Proved the Need for DeFi]]></title>
+        <id>https://www.coindesk.com/layer2/2022/11/11/ftx-showed-the-problems-of-centralized-finance-and-proved-the-need-for-defi/</id>
+        <link href="https://www.coindesk.com/layer2/2022/11/11/ftx-showed-the-problems-of-centralized-finance-and-proved-the-need-for-defi/"/>
+        <updated>2022-11-11T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[FTX Showed the Problems of Centralized Finance, and Proved the Need for DeFi]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -56,41 +96,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CEO of Alameda Research is a 28-year-old Harry Potter fan]]></title>
-        <id>https://www.efinancialcareers.com/news/2022/11/caroline-ellison-alameda-research-ftx-sam-bankman-fried</id>
-        <link href="https://www.efinancialcareers.com/news/2022/11/caroline-ellison-alameda-research-ftx-sam-bankman-fried"/>
-        <updated>2022-11-11T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[CEO of Alameda Research is a 28-year-old Harry Potter fan]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roundup #3 Doomsday - The Parsec Podcast]]></title>
-        <id>https://podcast.parsec.finance/1983061/11672951-roundup-3-doomsday</id>
-        <link href="https://podcast.parsec.finance/1983061/11672951-roundup-3-doomsday"/>
-        <updated>2022-11-11T15:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Roundup #3 Doomsday - The Parsec Podcast]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FTX Violated Its Own Terms of Service and Misused User Funds, Lawyers Say]]></title>
         <id>https://www.coindesk.com/policy/2022/11/10/ftx-violated-its-own-terms-of-service-and-misused-user-funds-lawyers-say/</id>
         <link href="https://www.coindesk.com/policy/2022/11/10/ftx-violated-its-own-terms-of-service-and-misused-user-funds-lawyers-say/"/>
         <updated>2022-11-11T13:30:06.000Z</updated>
         <summary type="html"><![CDATA[FTX Violated Its Own Terms of Service and Misused User Funds, Lawyers Say]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A criticism of the ATOM 2.0 white paper and proposal #82]]></title>
-        <id>https://giunatale.medium.com/a-criticism-of-the-atom-2-0-white-paper-and-proposal-82-d222bf9c73ab?source=social.tw</id>
-        <link href="https://giunatale.medium.com/a-criticism-of-the-atom-2-0-white-paper-and-proposal-82-d222bf9c73ab?source=social.tw"/>
-        <updated>2022-11-11T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A criticism of the ATOM 2.0 white paper and proposal #82]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://polkachu.com/blogs/in-the-interchain-the-only-viable-business-model-is-to-make-something-other-chains-want"/>
         <updated>2022-11-11T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[In the Interchain, the Only Viable Business Model is to Make Something Other Chains Want | Polkachu]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medici Minutes]]></title>
-        <id>https://www.mediciminutes.com/</id>
-        <link href="https://www.mediciminutes.com/"/>
-        <updated>2022-11-11T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Medici Minutes]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
