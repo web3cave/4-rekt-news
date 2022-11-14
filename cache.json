@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Rekt - Feed",
+      "feedUrl": "https://message-rss.vercel.app/rekt/news",
+      "siteUrl": "https://feed.rekt.news/",
+      "articles": [
+        {
+          "id": "https://forum.effectivealtruism.org/users/nbouscal",
+          "author": null,
+          "description": "nbouscal - EA Forum",
+          "link": "https://forum.effectivealtruism.org/users/nbouscal",
+          "publishedOn": "2022-11-14T06:00:04.000Z",
+          "wordCount": 4880,
+          "title": "nbouscal - EA Forum",
+          "imageUrl": "https://res.cloudinary.com/cea/image/upload/v1582740871/EA_Forum_OG_Image.png"
+        },
+        {
+          "id": "https://fortune.com/crypto/2022/11/13/could-sam-bankman-fried-go-to-prison-for-the-ftx-disaster/",
+          "author": null,
+          "description": "Could SBF go to prison? Here's what the Justice Department would have to prove",
+          "link": "https://fortune.com/crypto/2022/11/13/could-sam-bankman-fried-go-to-prison-for-the-ftx-disaster/",
+          "publishedOn": "2022-11-14T02:30:02.000Z",
+          "wordCount": 3503,
+          "title": "Could SBF go to prison? Here's what the Justice Department would have to prove",
+          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/SBF-2.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://mirror.xyz/nick.eth/KVal7tob7sqZSss27rrFlIpu6i91TJYJJvBzf53kwhQ",
+          "author": null,
+          "description": "Custom Event Tables with BigQuery",
+          "link": "https://mirror.xyz/nick.eth/KVal7tob7sqZSss27rrFlIpu6i91TJYJJvBzf53kwhQ",
+          "publishedOn": "2022-11-14T01:00:02.000Z",
+          "wordCount": 1893,
+          "title": "Custom Event Tables with BigQuery",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/HYJJDAXn0ozIGWDjhOhxl.jpg?h=4961&w=3721"
+        },
+        {
+          "id": "https://www.seasidebahamas.com/view/NassauNew+Providence/Orchid+Bldg.+-+PH+6/20046/buy/",
+          "author": null,
+          "description": "Exuma Real Estate from Seaside Real Estate",
+          "link": "https://www.seasidebahamas.com/view/NassauNew+Providence/Orchid+Bldg.+-+PH+6/20046/buy/",
+          "publishedOn": "2022-11-14T00:00:06.000Z",
+          "wordCount": 503,
+          "title": "Exuma Real Estate from Seaside Real Estate",
+          "imageUrl": "https://www.seasidebahamas.com/images/fb-logo.png"
+        },
+        {
+          "id": "https://www.ungox.com/",
+          "author": null,
+          "description": "For a safer crypto world",
+          "link": "https://www.ungox.com/",
+          "publishedOn": "2022-11-13T23:00:02.000Z",
+          "wordCount": 25,
+          "title": "For a safer crypto world",
+          "imageUrl": "http://www.ungox.com/logo.png"
+        },
+        {
+          "id": "https://mazmhussain.substack.com/p/what-bitcoin-and-crypto-are-for",
+          "author": null,
+          "description": "What Bitcoin and Crypto Are For",
+          "link": "https://mazmhussain.substack.com/p/what-bitcoin-and-crypto-are-for",
+          "publishedOn": "2022-11-13T23:00:02.000Z",
+          "wordCount": 5016,
+          "title": "What Bitcoin and Crypto Are For",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65d12d6a-a63a-44c4-b6af-15b8e3091fc8_790x444.jpeg"
+        },
+        {
+          "id": "https://scottaaronson.blog/?p=6797",
+          "author": null,
+          "description": "Sam Bankman-Fried and the geometry of conscience",
+          "link": "https://scottaaronson.blog/?p=6797",
+          "publishedOn": "2022-11-13T22:00:05.000Z",
+          "wordCount": 13381,
+          "title": "Sam Bankman-Fried and the geometry of conscience",
+          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
+        },
+        {
+          "id": "https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/",
+          "author": null,
+          "description": "FTX collapse, Tether operations have links to infamous online-poker cheating scandals",
+          "link": "https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/",
+          "publishedOn": "2022-11-13T19:00:02.000Z",
+          "wordCount": 6869,
+          "title": "FTX collapse, Tether operations have links to infamous online-poker cheating scandals",
+          "imageUrl": "https://www.poker.org/wp-content/uploads/2022/11/FTX-logo.jpg"
+        },
+        {
+          "id": "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis?sd=pf",
+          "author": null,
+          "description": "H'wood FTX Frenzy as Michael Lewis Reveals He Spent 6 Months with Founder",
+          "link": "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis?sd=pf",
+          "publishedOn": "2022-11-13T17:30:06.000Z",
+          "wordCount": 2377,
+          "title": "H'wood FTX Frenzy as Michael Lewis Reveals He Spent 6 Months with Founder",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b5c990c-dd55-4aed-a12b-37bbcf9a5e93_1024x683.jpeg"
+        },
+        {
+          "id": "https://www.gate.io/article/28671",
+          "author": null,
+          "description": "Clarification of Gate.io's assistance to Crypto.com to retrieve 320k ETH mistaken transfer",
+          "link": "https://www.gate.io/article/28671",
+          "publishedOn": "2022-11-13T17:00:02.000Z",
+          "wordCount": 6822,
+          "title": "Clarification of Gate.io's assistance to Crypto.com to retrieve 320k ETH mistaken transfer",
+          "imageUrl": "https://www.gate.io/images/gate.io_logo.png"
+        },
+        {
+          "id": "https://www.theblock.co/post/186461/crypto-com-accidentally-transferred-400-million-worth-of-eth-to-another-exchange-ceo-says?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Crypto.com accidentally transferred $400 million worth of ETH to another exchange, CEO says",
+          "link": "https://www.theblock.co/post/186461/crypto-com-accidentally-transferred-400-million-worth-of-eth-to-another-exchange-ceo-says?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-13T17:00:02.000Z",
+          "wordCount": 64313,
+          "title": "Crypto.com accidentally transferred $400 million worth of ETH to another exchange, CEO says",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211210_Funding-Cash-Investment-2-1200x675.png"
+        },
+        {
+          "id": "https://www.wsj.com/articles/crypto-com-withdrawals-rise-after-ceo-admits-transaction-problem-11668350510?mod=Searchresults_pos1&page=1",
+          "author": null,
+          "description": "Crypto.com Withdrawals Rise After CEO Admits Transaction Problem",
+          "link": "https://www.wsj.com/articles/crypto-com-withdrawals-rise-after-ceo-admits-transaction-problem-11668350510?mod=Searchresults_pos1&page=1",
+          "publishedOn": "2022-11-13T16:00:05.000Z",
+          "wordCount": 6742,
+          "title": "Crypto.com Withdrawals Rise After CEO Admits Transaction Problem",
+          "imageUrl": "https://images.wsj.net/im-665234/social"
+        },
+        {
+          "id": "https://www.theblock.co/post/186454/new-ftx-tokens-worth-about-380-million-appear-out-of-thin-air?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "New FTX tokens worth about $380 million appear out of thin air",
+          "link": "https://www.theblock.co/post/186454/new-ftx-tokens-worth-about-380-million-appear-out-of-thin-air?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-13T13:30:04.000Z",
+          "wordCount": 63826,
+          "title": "New FTX tokens worth about $380 million appear out of thin air",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3-1200x675.png"
+        },
+        {
+          "id": "https://www.theblock.co/post/186467/bahamas-regulator-ftx-claim-process-withdrawals?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Bahamas regulator contradicts FTX claim that it was required to process local withdrawals",
+          "link": "https://www.theblock.co/post/186467/bahamas-regulator-ftx-claim-process-withdrawals?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-13T13:30:04.000Z",
+          "wordCount": 63816,
+          "title": "Bahamas regulator contradicts FTX claim that it was required to process local withdrawals",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/Bahamas-1122x675.jpg"
+        },
+        {
+          "id": "https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429",
+          "author": null,
+          "description": "Keep Your Crypto #SAFU (CZ's Tips) | Binance Blog",
+          "link": "https://www.binance.com/en/blog/from-cz/keep-your-crypto-safu-czs-tips-421499824684900429",
+          "publishedOn": "2022-11-13T09:00:02.000Z",
+          "wordCount": 24453,
+          "title": "Keep Your Crypto #SAFU (CZ's Tips) | Binance Blog",
+          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20200223/347cbe36-d1e5-4aa2-8f3b-5ae2b301727e.png"
+        },
+        {
+          "id": "https://blog.bitmex.com/coming-soon-CRO-swaps-listings/",
+          "author": null,
+          "description": "Coming today: Bitcoin- and Tether-Margined CRO Listings | BitMEX Blog",
+          "link": "https://blog.bitmex.com/coming-soon-CRO-swaps-listings/",
+          "publishedOn": "2022-11-13T07:30:04.000Z",
+          "wordCount": 5891,
+          "title": "Coming today: Bitcoin- and Tether-Margined CRO Listings | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/10/Generic-Announcement-Banner-2-1.png"
+        },
+        {
+          "id": "https://raw.githubusercontent.com/gateio/proof-of-reserves/master/assessment%20report/Gate.io%20Proof-of-Reserves%20Assessment%20Report%20%5BBTC%26ETH%5D%20%5BOct-28-2022%5D.pdf",
+          "author": null,
+          "description": "[PDF] Gate.io Proof-of-Reserves Assessment Report [BTCÐ] [Oct-28-2022].pdf",
+          "link": "https://raw.githubusercontent.com/gateio/proof-of-reserves/master/assessment%20report/Gate.io%20Proof-of-Reserves%20Assessment%20Report%20%5BBTC%26ETH%5D%20%5BOct-28-2022%5D.pdf",
+          "publishedOn": "2022-11-13T07:00:02.000Z",
+          "wordCount": 9184,
+          "title": "[PDF] Gate.io Proof-of-Reserves Assessment Report [BTC&ETH] [Oct-28-2022].pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.gate.io/",
+          "author": null,
+          "description": "Buy/Sell Bitcoin, Ethereum | Cryptocurrency Exchange | Gate.io",
+          "link": "https://www.gate.io/",
+          "publishedOn": "2022-11-13T01:00:02.000Z",
+          "wordCount": 9429,
+          "title": "Buy/Sell Bitcoin, Ethereum | Cryptocurrency Exchange | Gate.io",
+          "imageUrl": "https://www.gate.io/images/gate.io_logo.png"
+        },
+        {
+          "id": "https://fortune.com/crypto/2022/11/11/sbfs-disgrace-could-make-things-awkward-for-gary-gensler-and-the-democrats/?utm_campaign=fortunemagazine&utm_medium=social&xid=soc_socialflow_twitter_FORTUNE&utm_source=twitter.com",
+          "author": null,
+          "description": "The FTX debacle makes SEC Chair Gensler look bad—again",
+          "link": "https://fortune.com/crypto/2022/11/11/sbfs-disgrace-could-make-things-awkward-for-gary-gensler-and-the-democrats/?utm_campaign=fortunemagazine&utm_medium=social&xid=soc_socialflow_twitter_FORTUNE&utm_source=twitter.com",
+          "publishedOn": "2022-11-11T21:00:03.000Z",
+          "wordCount": 3849,
+          "title": "The FTX debacle makes SEC Chair Gensler look bad—again",
+          "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/GettyImages-1243372027.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://crypto.com/",
+          "author": null,
+          "description": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
+          "link": "https://crypto.com/",
+          "publishedOn": "2022-11-11T06:30:02.000Z",
+          "wordCount": 2251,
+          "title": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
+          "imageUrl": "https://crypto.com/images/meta-og/home.png"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
