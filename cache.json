@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
+          "author": null,
+          "description": "FTX debacle casts an unforgiving light on effective altruism",
+          "link": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
+          "publishedOn": "2022-11-14T20:00:05.000Z",
+          "wordCount": 1596,
+          "title": "FTX debacle casts an unforgiving light on effective altruism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zeitgeist.xyz/operations",
+          "author": null,
+          "description": "Zeitgeist",
+          "link": "https://www.zeitgeist.xyz/operations",
+          "publishedOn": "2022-11-14T19:30:04.000Z",
+          "wordCount": 557,
+          "title": "Zeitgeist",
+          "imageUrl": "/og-image.png"
+        },
+        {
           "id": "https://panteracapital.com/blockchain-letter/ftx-underscores-the-importance-of-defi/",
           "author": null,
           "description": "FTX Underscores The Importance Of DeFi | Pantera",
@@ -44,16 +64,6 @@
           "wordCount": 6364,
           "title": "Releases · rotki/rotki",
           "imageUrl": "https://opengraph.githubassets.com/a8c4ac1889c9821630972382d8e44af0feaddb9e9e1490879605d6522cccc2c6/rotki/rotki"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse",
-          "author": null,
-          "description": "Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse",
-          "publishedOn": "2022-11-14T17:00:02.000Z",
-          "wordCount": 841,
-          "title": "Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
@@ -96,16 +106,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8224473-d18f-45c1-8d95-50b2a9ddd460_1536x2048.jpeg"
         },
         {
-          "id": "https://www.zerohedge.com/crypto/reduce-cascading-negative-effects-ftx-binance-ceo-declares-industry-recovery-fund-support",
-          "author": null,
-          "description": "Cryptos Rebound After Binance CEO  Announces Industry Recovery Fund, Calls For Regulation | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/reduce-cascading-negative-effects-ftx-binance-ceo-declares-industry-recovery-fund-support",
-          "publishedOn": "2022-11-14T14:30:03.000Z",
-          "wordCount": 1020,
-          "title": "Cryptos Rebound After Binance CEO  Announces Industry Recovery Fund, Calls For Regulation | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://forum.effectivealtruism.org/users/nbouscal",
           "author": null,
           "description": "nbouscal - EA Forum",
@@ -141,7 +141,7 @@
           "description": "Could SBF go to prison? Here's what the Justice Department would have to prove",
           "link": "https://fortune.com/crypto/2022/11/13/could-sam-bankman-fried-go-to-prison-for-the-ftx-disaster/",
           "publishedOn": "2022-11-14T02:30:02.000Z",
-          "wordCount": 3503,
+          "wordCount": 3498,
           "title": "Could SBF go to prison? Here's what the Justice Department would have to prove",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/SBF-2.jpg?resize=1200,600"
         },
@@ -161,9 +161,9 @@
           "description": "Exuma Real Estate from Seaside Real Estate",
           "link": "https://www.seasidebahamas.com/view/NassauNew+Providence/Orchid+Bldg.+-+PH+6/20046/buy/",
           "publishedOn": "2022-11-14T00:00:06.000Z",
-          "wordCount": 503,
+          "wordCount": null,
           "title": "Exuma Real Estate from Seaside Real Estate",
-          "imageUrl": "https://www.seasidebahamas.com/images/fb-logo.png"
+          "imageUrl": null
         },
         {
           "id": "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis?sd=pf",
@@ -191,7 +191,7 @@
           "description": "The FTX debacle makes SEC Chair Gensler look bad—again",
           "link": "https://fortune.com/crypto/2022/11/11/sbfs-disgrace-could-make-things-awkward-for-gary-gensler-and-the-democrats/",
           "publishedOn": "2022-11-11T21:00:03.000Z",
-          "wordCount": 3849,
+          "wordCount": 3844,
           "title": "The FTX debacle makes SEC Chair Gensler look bad—again",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/GettyImages-1243372027.jpg?resize=1200,600"
         },
