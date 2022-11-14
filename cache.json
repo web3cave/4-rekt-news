@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dark.fi/insights/ftx-where-next.html",
+          "author": null,
+          "description": "DarkFi – Insights",
+          "link": "https://dark.fi/insights/ftx-where-next.html",
+          "publishedOn": "2022-11-14T20:30:03.000Z",
+          "wordCount": 2755,
+          "title": "DarkFi – Insights",
+          "imageUrl": "img/og.png"
+        },
+        {
           "id": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
           "author": null,
           "description": "FTX debacle casts an unforgiving light on effective altruism",
           "link": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
           "publishedOn": "2022-11-14T20:00:05.000Z",
-          "wordCount": 1596,
+          "wordCount": 1598,
           "title": "FTX debacle casts an unforgiving light on effective altruism",
           "imageUrl": null
         },
@@ -66,6 +76,16 @@
           "imageUrl": "https://opengraph.githubassets.com/a8c4ac1889c9821630972382d8e44af0feaddb9e9e1490879605d6522cccc2c6/rotki/rotki"
         },
         {
+          "id": "https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse",
+          "author": null,
+          "description": "Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse",
+          "publishedOn": "2022-11-14T17:00:02.000Z",
+          "wordCount": 841,
+          "title": "Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
           "author": null,
           "description": "Solana Ecosystem Facts Related To FTX Bankruptcy",
@@ -76,6 +96,16 @@
           "imageUrl": "https://solana.ghost.io/content/images/2022/11/solana-generic-cover-image-1.png"
         },
         {
+          "id": "https://www.voguebusiness.com/technology/nike-unveils-dot-swoosh-platform-to-house-web3-projects",
+          "author": null,
+          "description": "Nike unveils ‘Dot Swoosh’ platform to house Web3 projects",
+          "link": "https://www.voguebusiness.com/technology/nike-unveils-dot-swoosh-platform-to-house-web3-projects",
+          "publishedOn": "2022-11-14T16:00:05.000Z",
+          "wordCount": 16267,
+          "title": "Nike unveils ‘Dot Swoosh’ platform to house Web3 projects",
+          "imageUrl": "https://media.voguebusiness.com/photos/6371b96b1630548d1741a56e/16:9/w_1280,c_limit/nike-swoosh-voguebus-Melodie-Jeng-nov-22-social-newsletter.jpg"
+        },
+        {
           "id": "https://niccarter.info/proof-of-reserves/",
           "author": null,
           "description": "Proof of Reserves - Nic Carter",
@@ -84,26 +114,6 @@
           "wordCount": 2819,
           "title": "Proof of Reserves - Nic Carter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T_HoI5dh3Gc&feature=youtu.be",
-          "author": null,
-          "description": "FTX debacle continues, EIP-4844 updates and more - The Daily Gwei Refuel #486 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=T_HoI5dh3Gc&feature=youtu.be",
-          "publishedOn": "2022-11-14T15:00:02.000Z",
-          "wordCount": null,
-          "title": "FTX debacle continues, EIP-4844 updates and more - The Daily Gwei Refuel #486 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pomp.substack.com/p/the-best-book-ive-read-on-aging-and",
-          "author": null,
-          "description": "The Best Book I've Read On Aging & Death",
-          "link": "https://pomp.substack.com/p/the-best-book-ive-read-on-aging-and",
-          "publishedOn": "2022-11-14T15:00:02.000Z",
-          "wordCount": 5522,
-          "title": "The Best Book I've Read On Aging & Death",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8224473-d18f-45c1-8d95-50b2a9ddd460_1536x2048.jpeg"
         },
         {
           "id": "https://forum.effectivealtruism.org/users/nbouscal",
@@ -161,9 +171,9 @@
           "description": "Exuma Real Estate from Seaside Real Estate",
           "link": "https://www.seasidebahamas.com/view/NassauNew+Providence/Orchid+Bldg.+-+PH+6/20046/buy/",
           "publishedOn": "2022-11-14T00:00:06.000Z",
-          "wordCount": null,
+          "wordCount": 503,
           "title": "Exuma Real Estate from Seaside Real Estate",
-          "imageUrl": null
+          "imageUrl": "https://www.seasidebahamas.com/images/fb-logo.png"
         },
         {
           "id": "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis?sd=pf",
@@ -174,16 +184,6 @@
           "wordCount": 2376,
           "title": "H'wood FTX Frenzy as Michael Lewis Reveals He Spent 6 Months with Founder",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b5c990c-dd55-4aed-a12b-37bbcf9a5e93_1024x683.jpeg"
-        },
-        {
-          "id": "https://docs.google.com/spreadsheets/d/1EumFSt319x85XpzGy3ZxE8Ms6rw_LI6DG0z0NAH1fwc/edit#gid=0",
-          "author": null,
-          "description": "11-13 ftx exposure",
-          "link": "https://docs.google.com/spreadsheets/d/1EumFSt319x85XpzGy3ZxE8Ms6rw_LI6DG0z0NAH1fwc/edit#gid=0",
-          "publishedOn": "2022-11-13T13:00:02.000Z",
-          "wordCount": 2791,
-          "title": "11-13 ftx exposure",
-          "imageUrl": "https://lh5.googleusercontent.com/GZuAq_dJth-BWmAHzy7VNnECq5hBI63cYhPrDlU1eBmndePYeqQA270QI0TkJSEGJOh-nNLLcKQ2lw=w1200-h630-p"
         },
         {
           "id": "https://fortune.com/crypto/2022/11/11/sbfs-disgrace-could-make-things-awkward-for-gary-gensler-and-the-democrats/",
