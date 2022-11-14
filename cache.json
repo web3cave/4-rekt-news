@@ -16,6 +16,16 @@
           "imageUrl": "https://res.cloudinary.com/cea/image/upload/v1582740871/EA_Forum_OG_Image.png"
         },
         {
+          "id": "https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/",
+          "author": null,
+          "description": "A Treatise on Bitcoin Seed Backup Device Design",
+          "link": "https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/",
+          "publishedOn": "2022-11-14T06:00:04.000Z",
+          "wordCount": 3060,
+          "title": "A Treatise on Bitcoin Seed Backup Device Design",
+          "imageUrl": "https://blog.lopp.net/content/images/2022/08/writing-seed-phrase.png"
+        },
+        {
           "id": "https://fortune.com/crypto/2022/11/13/could-sam-bankman-fried-go-to-prison-for-the-ftx-disaster/",
           "author": null,
           "description": "Could SBF go to prison? Here's what the Justice Department would have to prove",
@@ -66,16 +76,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65d12d6a-a63a-44c4-b6af-15b8e3091fc8_790x444.jpeg"
         },
         {
-          "id": "https://scottaaronson.blog/?p=6797",
-          "author": null,
-          "description": "Sam Bankman-Fried and the geometry of conscience",
-          "link": "https://scottaaronson.blog/?p=6797",
-          "publishedOn": "2022-11-13T22:00:05.000Z",
-          "wordCount": 13381,
-          "title": "Sam Bankman-Fried and the geometry of conscience",
-          "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
-        },
-        {
           "id": "https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/",
           "author": null,
           "description": "FTX collapse, Tether operations have links to infamous online-poker cheating scandals",
@@ -111,7 +111,7 @@
           "description": "Crypto.com accidentally transferred $400 million worth of ETH to another exchange, CEO says",
           "link": "https://www.theblock.co/post/186461/crypto-com-accidentally-transferred-400-million-worth-of-eth-to-another-exchange-ceo-says?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-13T17:00:02.000Z",
-          "wordCount": 64292,
+          "wordCount": 64469,
           "title": "Crypto.com accidentally transferred $400 million worth of ETH to another exchange, CEO says",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211210_Funding-Cash-Investment-2-1200x675.png"
         },
@@ -131,9 +131,19 @@
           "description": "Crypto.com Withdrawals Rise After CEO Admits Transaction Problem",
           "link": "https://www.wsj.com/articles/crypto-com-withdrawals-rise-after-ceo-admits-transaction-problem-11668350510?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-11-13T16:00:05.000Z",
-          "wordCount": 6770,
+          "wordCount": 6769,
           "title": "Crypto.com Withdrawals Rise After CEO Admits Transaction Problem",
           "imageUrl": "https://images.wsj.net/im-665234/social"
+        },
+        {
+          "id": "https://www.straitstimes.com/business/answers-needed-in-curious-case-of-ftx-s-singapore-entity",
+          "author": null,
+          "description": "Answers needed in curious case of FTX’s Singapore entity",
+          "link": "https://www.straitstimes.com/business/answers-needed-in-curious-case-of-ftx-s-singapore-entity",
+          "publishedOn": "2022-11-13T15:00:03.000Z",
+          "wordCount": 2920,
+          "title": "Answers needed in curious case of FTX’s Singapore entity",
+          "imageUrl": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/11/13/FTXBANKRUPTCY_4.JPG?VersionId=EIurqQYY9iI9tBshT22DTM2CgP1ztD0D"
         },
         {
           "id": "https://www.theblock.co/post/186454/new-ftx-tokens-worth-about-380-million-appear-out-of-thin-air?utm_source=twitter&utm_medium=social",
@@ -141,7 +151,7 @@
           "description": "New FTX tokens worth about $380 million appear out of thin air",
           "link": "https://www.theblock.co/post/186454/new-ftx-tokens-worth-about-380-million-appear-out-of-thin-air?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-13T13:30:04.000Z",
-          "wordCount": 63805,
+          "wordCount": 63982,
           "title": "New FTX tokens worth about $380 million appear out of thin air",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3-1200x675.png"
         },
@@ -151,19 +161,9 @@
           "description": "Bahamas regulator contradicts FTX claim that it was required to process local withdrawals",
           "link": "https://www.theblock.co/post/186467/bahamas-regulator-ftx-claim-process-withdrawals?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-13T13:30:04.000Z",
-          "wordCount": 64084,
+          "wordCount": 64261,
           "title": "Bahamas regulator contradicts FTX claim that it was required to process local withdrawals",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/Bahamas-1122x675.jpg"
-        },
-        {
-          "id": "https://blog.bitmex.com/coming-soon-CRO-swaps-listings/",
-          "author": null,
-          "description": "Coming today: Bitcoin- and Tether-Margined CRO Listings | BitMEX Blog",
-          "link": "https://blog.bitmex.com/coming-soon-CRO-swaps-listings/",
-          "publishedOn": "2022-11-13T07:30:04.000Z",
-          "wordCount": 5891,
-          "title": "Coming today: Bitcoin- and Tether-Margined CRO Listings | BitMEX Blog",
-          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/10/Generic-Announcement-Banner-2-1.png"
         },
         {
           "id": "https://raw.githubusercontent.com/gateio/proof-of-reserves/master/assessment%20report/Gate.io%20Proof-of-Reserves%20Assessment%20Report%20%5BBTC%26ETH%5D%20%5BOct-28-2022%5D.pdf",
