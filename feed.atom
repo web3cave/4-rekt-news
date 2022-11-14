@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-14T21:21:33.068Z</id>
+    <id>urn:2022-11-14T22:28:09.384Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-14T21:21:33.068Z</updated>
+    <updated>2022-11-14T22:28:09.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub - 0xClandestine/solplot: A Foundry plugin that enables you to plot charts within solidity.]]></title>
+        <id>https://github.com/0xClandestine/solplot</id>
+        <link href="https://github.com/0xClandestine/solplot"/>
+        <updated>2022-11-14T22:00:06.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - 0xClandestine/solplot: A Foundry plugin that enables you to plot charts within solidity.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DarkFi – Insights]]></title>
         <id>https://dark.fi/insights/ftx-where-next.html</id>
@@ -71,16 +81,6 @@
         <link href="https://github.com/rotki/rotki/releases"/>
         <updated>2022-11-14T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Releases · rotki/rotki]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse</id>
-        <link href="https://www.zerohedge.com/markets/manhattan-us-attorney-office-probing-ftx-collapse"/>
-        <updated>2022-11-14T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Manhattan US Attorney Office Probing FTX Collapse | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
