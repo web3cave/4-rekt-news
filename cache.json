@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ftx.us/",
+          "author": null,
+          "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
+          "link": "https://ftx.us/",
+          "publishedOn": "2022-11-14T18:00:04.000Z",
+          "wordCount": 593,
+          "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
+          "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
+        },
+        {
           "id": "https://www.cnn.com/2022/11/12/opinions/crypto-white-knight-problem-sam-bankman-fried-ftx-parker/index.html",
           "author": null,
           "description": "Opinion: Crypto's white knight problem | CNN",
@@ -23,7 +33,7 @@
           "publishedOn": "2022-11-14T17:00:02.000Z",
           "wordCount": 6364,
           "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/b70c7b77333f9ce2f25857bb21a3a832f8656c7ff3aec15c7e92c245dae1f43e/rotki/rotki"
+          "imageUrl": "https://opengraph.githubassets.com/a8c4ac1889c9821630972382d8e44af0feaddb9e9e1490879605d6522cccc2c6/rotki/rotki"
         },
         {
           "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
@@ -61,7 +71,7 @@
           "description": "The Best Book I've Read On Aging & Death",
           "link": "https://pomp.substack.com/p/the-best-book-ive-read-on-aging-and",
           "publishedOn": "2022-11-14T15:00:02.000Z",
-          "wordCount": 5576,
+          "wordCount": 5592,
           "title": "The Best Book I've Read On Aging & Death",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8224473-d18f-45c1-8d95-50b2a9ddd460_1536x2048.jpeg"
         },
@@ -71,7 +81,7 @@
           "description": "nbouscal - EA Forum",
           "link": "https://forum.effectivealtruism.org/users/nbouscal",
           "publishedOn": "2022-11-14T06:00:04.000Z",
-          "wordCount": 5071,
+          "wordCount": 5070,
           "title": "nbouscal - EA Forum",
           "imageUrl": "https://res.cloudinary.com/cea/image/upload/v1582740871/EA_Forum_OG_Image.png"
         },
@@ -101,7 +111,7 @@
           "description": "Could SBF go to prison? Here's what the Justice Department would have to prove",
           "link": "https://fortune.com/crypto/2022/11/13/could-sam-bankman-fried-go-to-prison-for-the-ftx-disaster/",
           "publishedOn": "2022-11-14T02:30:02.000Z",
-          "wordCount": 3506,
+          "wordCount": 3503,
           "title": "Could SBF go to prison? Here's what the Justice Department would have to prove",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/SBF-2.jpg?resize=1200,600"
         },
@@ -141,19 +151,9 @@
           "description": "What Bitcoin and Crypto Are For",
           "link": "https://mazmhussain.substack.com/p/what-bitcoin-and-crypto-are-for",
           "publishedOn": "2022-11-13T23:00:02.000Z",
-          "wordCount": 5222,
+          "wordCount": 5014,
           "title": "What Bitcoin and Crypto Are For",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65d12d6a-a63a-44c4-b6af-15b8e3091fc8_790x444.jpeg"
-        },
-        {
-          "id": "https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/",
-          "author": null,
-          "description": "FTX collapse, Tether operations have links to infamous online-poker cheating scandals",
-          "link": "https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/",
-          "publishedOn": "2022-11-13T19:00:02.000Z",
-          "wordCount": 6869,
-          "title": "FTX collapse, Tether operations have links to infamous online-poker cheating scandals",
-          "imageUrl": "https://www.poker.org/wp-content/uploads/2022/11/FTX-logo.jpg"
         },
         {
           "id": "https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis?sd=pf",
@@ -191,7 +191,7 @@
           "description": "The FTX debacle makes SEC Chair Gensler look bad—again",
           "link": "https://fortune.com/crypto/2022/11/11/sbfs-disgrace-could-make-things-awkward-for-gary-gensler-and-the-democrats/",
           "publishedOn": "2022-11-11T21:00:03.000Z",
-          "wordCount": 3852,
+          "wordCount": 3849,
           "title": "The FTX debacle makes SEC Chair Gensler look bad—again",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/11/GettyImages-1243372027.jpg?resize=1200,600"
         },
