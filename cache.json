@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nosmartmoney.com/",
+          "author": null,
+          "description": "NO SMART MONEY",
+          "link": "https://www.nosmartmoney.com/",
+          "publishedOn": "2022-11-15T03:00:05.000Z",
+          "wordCount": 1324,
+          "title": "NO SMART MONEY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eqnndOx2Pdg&feature=youtu.be",
+          "author": null,
+          "description": "The Path Forward with Ryan Sean Adams & David Hoffman",
+          "link": "https://www.youtube.com/watch?v=eqnndOx2Pdg&feature=youtu.be",
+          "publishedOn": "2022-11-15T03:00:04.000Z",
+          "wordCount": null,
+          "title": "The Path Forward with Ryan Sean Adams & David Hoffman",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Sxc4lrjBl2c&ab_channel=UnchainedPodcast",
+          "author": null,
+          "description": "The Chopping Block LIVE!",
+          "link": "https://www.youtube.com/watch?v=Sxc4lrjBl2c&ab_channel=UnchainedPodcast",
+          "publishedOn": "2022-11-15T03:00:04.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block LIVE!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/NethermindEth/sedge",
+          "author": null,
+          "description": "GitHub - NethermindEth/sedge: A one-click setup tool for PoS network/chain validators and nodes.",
+          "link": "https://github.com/NethermindEth/sedge",
+          "publishedOn": "2022-11-15T03:00:04.000Z",
+          "wordCount": 2440,
+          "title": "GitHub - NethermindEth/sedge: A one-click setup tool for PoS network/chain validators and nodes.",
+          "imageUrl": "https://opengraph.githubassets.com/9765052aaa49ba41ef543b310308f0094ba19571b1d36379bb9d57f5e9259e1a/NethermindEth/sedge"
+        },
+        {
+          "id": "https://en.m.wikipedia.org/wiki/Big_lie",
+          "author": null,
+          "description": "Big lie - Wikipedia",
+          "link": "https://en.m.wikipedia.org/wiki/Big_lie",
+          "publishedOn": "2022-11-15T02:00:05.000Z",
+          "wordCount": 6088,
+          "title": "Big lie - Wikipedia",
+          "imageUrl": null
+        },
+        {
           "id": "https://app.safe.global/",
           "author": null,
           "description": "Safe",
@@ -31,7 +81,7 @@
           "description": "Who is billionaire FTX co-founder Gary Wang and why is he still committing code?",
           "link": "https://www.theblock.co/post/186476/who-is-billionaire-ftx-co-founder-gary-wang-and-why-is-he-still-committing-code",
           "publishedOn": "2022-11-14T23:00:02.000Z",
-          "wordCount": 65229,
+          "wordCount": 65280,
           "title": "Who is billionaire FTX co-founder Gary Wang and why is he still committing code?",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221114_Gary-Wang-1200x675.jpg"
         },
@@ -53,37 +103,7 @@
           "publishedOn": "2022-11-14T22:00:06.000Z",
           "wordCount": 924,
           "title": "GitHub - 0xClandestine/solplot: A Foundry plugin that enables you to plot charts within solidity.",
-          "imageUrl": "https://opengraph.githubassets.com/2e3e8f3c5cf195f7dad07af38d789c71a26faf1c99ec081e23f5ebefcc9ab5f9/0xClandestine/solplot"
-        },
-        {
-          "id": "https://dark.fi/insights/ftx-where-next.html",
-          "author": null,
-          "description": "DarkFi – Insights",
-          "link": "https://dark.fi/insights/ftx-where-next.html",
-          "publishedOn": "2022-11-14T20:30:03.000Z",
-          "wordCount": 2755,
-          "title": "DarkFi – Insights",
-          "imageUrl": "img/og.png"
-        },
-        {
-          "id": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
-          "author": null,
-          "description": "FTX debacle casts an unforgiving light on effective altruism",
-          "link": "https://www.ft.com/content/91c88d7c-b856-402a-ba0a-519b0e8825ff",
-          "publishedOn": "2022-11-14T20:00:05.000Z",
-          "wordCount": 1582,
-          "title": "FTX debacle casts an unforgiving light on effective altruism",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zeitgeist.xyz/operations",
-          "author": null,
-          "description": "Zeitgeist",
-          "link": "https://www.zeitgeist.xyz/operations",
-          "publishedOn": "2022-11-14T19:30:04.000Z",
-          "wordCount": 557,
-          "title": "Zeitgeist",
-          "imageUrl": "/og-image.png"
+          "imageUrl": "https://opengraph.githubassets.com/b71b0dfab121db3637ed94f515bfdc1f6bc24efb1d508bceb3198c38e992c864/0xClandestine/solplot"
         },
         {
           "id": "https://panteracapital.com/blockchain-letter/ftx-underscores-the-importance-of-defi/",
@@ -126,16 +146,6 @@
           "imageUrl": "https://solana.ghost.io/content/images/2022/11/solana-generic-cover-image-1.png"
         },
         {
-          "id": "https://www.voguebusiness.com/technology/nike-unveils-dot-swoosh-platform-to-house-web3-projects",
-          "author": null,
-          "description": "Nike unveils ‘Dot Swoosh’ platform to house Web3 projects",
-          "link": "https://www.voguebusiness.com/technology/nike-unveils-dot-swoosh-platform-to-house-web3-projects",
-          "publishedOn": "2022-11-14T16:00:05.000Z",
-          "wordCount": 16160,
-          "title": "Nike unveils ‘Dot Swoosh’ platform to house Web3 projects",
-          "imageUrl": "https://media.voguebusiness.com/photos/6371b96b1630548d1741a56e/16:9/w_1280,c_limit/nike-swoosh-voguebus-Melodie-Jeng-nov-22-social-newsletter.jpg"
-        },
-        {
           "id": "https://niccarter.info/proof-of-reserves/",
           "author": null,
           "description": "Proof of Reserves - Nic Carter",
@@ -144,16 +154,6 @@
           "wordCount": 2819,
           "title": "Proof of Reserves - Nic Carter",
           "imageUrl": null
-        },
-        {
-          "id": "https://l2beat.com/scaling/tvl/",
-          "author": null,
-          "description": "L2BEAT – The state of the layer two ecosystem",
-          "link": "https://l2beat.com/scaling/tvl/",
-          "publishedOn": "2022-11-14T15:30:04.000Z",
-          "wordCount": 375,
-          "title": "L2BEAT – The state of the layer two ecosystem",
-          "imageUrl": "https://l2beat.com/meta-images/overview-scaling.png"
         },
         {
           "id": "https://forum.effectivealtruism.org/users/nbouscal",
