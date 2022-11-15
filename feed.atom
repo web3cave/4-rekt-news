@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-15T19:17:26.371Z</id>
+    <id>urn:2022-11-15T20:23:44.153Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-15T19:17:26.371Z</updated>
+    <updated>2022-11-15T20:23:44.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,16 +21,6 @@
         <link href="https://ilikecalculus.substack.com/p/an-ode-to-terraforms"/>
         <updated>2022-11-15T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[An Ode to Terraforms]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the derivatives exchange hoping to rival BitMEX. Its secret? A wealth of liquidity and a KYC miracle]]></title>
-        <id>https://www.theblock.co/post/35056/inside-the-derivatives-exchange-hoping-to-rival-bitmex-its-secret-a-wealth-of-liquidity-and-a-kyc-miracle</id>
-        <link href="https://www.theblock.co/post/35056/inside-the-derivatives-exchange-hoping-to-rival-bitmex-its-secret-a-wealth-of-liquidity-and-a-kyc-miracle"/>
-        <updated>2022-11-15T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Inside the derivatives exchange hoping to rival BitMEX. Its secret? A wealth of liquidity and a KYC miracle]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,6 +151,16 @@
         <link href="https://github.com/0xClandestine/solplot"/>
         <updated>2022-11-14T22:00:06.000Z</updated>
         <summary type="html"><![CDATA[GitHub - 0xClandestine/solplot: A Foundry plugin that enables you to plot charts within solidity.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkFi – Insights]]></title>
+        <id>https://dark.fi/insights/ftx-where-next.html</id>
+        <link href="https://dark.fi/insights/ftx-where-next.html"/>
+        <updated>2022-11-14T20:30:03.000Z</updated>
+        <summary type="html"><![CDATA[DarkFi – Insights]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
