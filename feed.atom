@@ -1,36 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T18:27:09.356Z</id>
+    <id>urn:2022-11-16T19:17:51.322Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T18:27:09.356Z</updated>
+    <updated>2022-11-16T19:17:51.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HackMD - Collaborative Markdown Knowledge Base]]></title>
+        <id>https://hackmd.io/@vbuterin/zk_slides_20221010</id>
+        <link href="https://hackmd.io/@vbuterin/zk_slides_20221010"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[HackMD - Collaborative Markdown Knowledge Base]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing bitcoin's scarcity: fighting fake bitcoin]]></title>
+        <id>https://blog.keys.casa/securing-bitcoins-scarcity/</id>
+        <link href="https://blog.keys.casa/securing-bitcoins-scarcity/"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Securing bitcoin's scarcity: fighting fake bitcoin]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matter Labs raises $200 million to boost zkSync adoption and grow its team]]></title>
+        <id>https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&amp;utm_medium=social</id>
+        <link href="https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&amp;utm_medium=social"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Matter Labs raises $200 million to boost zkSync adoption and grow its team]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedless Self-Custody: On MPC and Smart Contract Wallets]]></title>
+        <id>https://medium.com/1kxnetwork/wallets-91c7c3457578</id>
+        <link href="https://medium.com/1kxnetwork/wallets-91c7c3457578"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Seedless Self-Custody: On MPC and Smart Contract Wallets]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads]]></title>
+        <id>https://blockworks.co/news/gemini-circle-genesis-exposure/</id>
+        <link href="https://blockworks.co/news/gemini-circle-genesis-exposure/"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized stablecoins are pitched as crypto's holy grail, so where are they?]]></title>
+        <id>https://cryptoslate.com/decentralized-stablecoins-are-pitched-as-cryptos-holy-grail-so-where-are-they/</id>
+        <link href="https://cryptoslate.com/decentralized-stablecoins-are-pitched-as-cryptos-holy-grail-so-where-are-they/"/>
+        <updated>2022-11-16T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized stablecoins are pitched as crypto's holy grail, so where are they?]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing SSX: Self-Sovereign Anything]]></title>
+        <id>https://blog.spruceid.com/announcing-ssx/</id>
+        <link href="https://blog.spruceid.com/announcing-ssx/"/>
+        <updated>2022-11-16T18:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Announcing SSX: Self-Sovereign Anything]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yearn <> CoW Swap]]></title>
         <id>https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3</id>
         <link href="https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3"/>
         <updated>2022-11-16T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Yearn  CoW Swap]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - gooberxyz/goobervault: A managed vault for goo and gobblers]]></title>
-        <id>https://github.com/gooberxyz/goobervault</id>
-        <link href="https://github.com/gooberxyz/goobervault"/>
-        <updated>2022-11-16T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - gooberxyz/goobervault: A managed vault for goo and gobblers]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we need wide adoption of social recovery wallets]]></title>
-        <id>https://vitalik.ca/general/2021/01/11/recovery.html</id>
-        <link href="https://vitalik.ca/general/2021/01/11/recovery.html"/>
-        <updated>2022-11-16T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Why we need wide adoption of social recovery wallets]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -76,31 +126,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seven politicians are returning FTX's tainted money — others are keeping quiet]]></title>
-        <id>https://popular.info/p/seven-politicians-are-returning-ftxs?r=23&amp;utm_campaign=post&amp;utm_medium=web</id>
-        <link href="https://popular.info/p/seven-politicians-are-returning-ftxs?r=23&amp;utm_campaign=post&amp;utm_medium=web"/>
-        <updated>2022-11-16T13:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Seven politicians are returning FTX's tainted money — others are keeping quiet]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DefiLlama]]></title>
         <id>https://defillama.com/aggregator</id>
         <link href="https://defillama.com/aggregator"/>
         <updated>2022-11-16T13:00:03.000Z</updated>
         <summary type="html"><![CDATA[DefiLlama]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI is planning to extradite SBF]]></title>
-        <id>https://www.dailymail.co.uk/news/article-11433541/FBI-planning-extradite-SBF-crypto-contagion-FTX-collapse-spreads-20BN-BlockFi.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=social-twitter_dailymailus</id>
-        <link href="https://www.dailymail.co.uk/news/article-11433541/FBI-planning-extradite-SBF-crypto-contagion-FTX-collapse-spreads-20BN-BlockFi.html?ns_mchannel=rss&amp;ns_campaign=1490&amp;ito=social-twitter_dailymailus"/>
-        <updated>2022-11-16T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[FBI is planning to extradite SBF]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -146,41 +176,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried’s support for Democrats is massively overstated]]></title>
-        <id>https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</id>
-        <link href="https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter"/>
-        <updated>2022-11-16T00:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried’s support for Democrats is massively overstated]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto-friendly Emmer wins key House leadership post]]></title>
-        <id>https://www.theblock.co/post/187373/crypto-friendly-emmer-wins-key-house-leadership-post?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/187373/crypto-friendly-emmer-wins-key-house-leadership-post?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-11-16T00:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-friendly Emmer wins key House leadership post]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taking A Long Term View of Web3]]></title>
         <id>https://mirror.xyz/haunventures.eth/uVZ8KGxmg7gmXBAA09MbI17pva4lOl6cjCrz-Y3YE2M</id>
         <link href="https://mirror.xyz/haunventures.eth/uVZ8KGxmg7gmXBAA09MbI17pva4lOl6cjCrz-Y3YE2M"/>
         <updated>2022-11-15T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Taking A Long Term View of Web3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakiety spadły na Polskę. Są ofiary śmiertelne]]></title>
-        <id>https://wiadomosci.radiozet.pl/Polska/rakiety-spadly-na-polske-sa-ofiary-smiertelne</id>
-        <link href="https://wiadomosci.radiozet.pl/Polska/rakiety-spadly-na-polske-sa-ofiary-smiertelne"/>
-        <updated>2022-11-15T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Rakiety spadły na Polskę. Są ofiary śmiertelne]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
