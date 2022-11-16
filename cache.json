@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=social.tw",
+          "author": null,
+          "description": "Fantom: envisioning a zk future",
+          "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=social.tw",
+          "publishedOn": "2022-11-16T09:00:02.000Z",
+          "wordCount": 1869,
+          "title": "Fantom: envisioning a zk future",
+          "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
+        },
+        {
           "id": "https://ftx.us/",
           "author": null,
           "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
           "link": "https://ftx.us/",
           "publishedOn": "2022-11-16T07:30:05.000Z",
-          "wordCount": 593,
+          "wordCount": null,
           "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter",
@@ -24,16 +34,6 @@
           "wordCount": 2571,
           "title": "Sam Bankman-Fried’s support for Democrats is massively overstated",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/wiR7KMUzCcU3yd3gslBk48NIXpw=/0x0:3678x1926/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199388/1238327312.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yAE3h_AYkts",
-          "author": null,
-          "description": "Crypto UPDATE: Ask Me Anything LIVE w/ Raoul Pal",
-          "link": "https://www.youtube.com/watch?v=yAE3h_AYkts",
-          "publishedOn": "2022-11-16T00:00:05.000Z",
-          "wordCount": null,
-          "title": "Crypto UPDATE: Ask Me Anything LIVE w/ Raoul Pal",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=SivndCFbWVc&feature=youtu.be",
@@ -51,7 +51,7 @@
           "description": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
           "link": "https://decrypt.co/114687/crypto-cold-wallets-in-ledger-trezor-sales-moon-after-ftx-collapse",
           "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 5952,
+          "wordCount": 6041,
           "title": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/crypto-digital-wallet-gID_2.jpg"
         },
@@ -61,7 +61,7 @@
           "description": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "link": "https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824",
           "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 6853,
+          "wordCount": 6874,
           "title": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "imageUrl": "https://images.wsj.net/im-666556/social"
         },
@@ -91,7 +91,7 @@
           "description": "Wait, wasn’t bitcoin supposed to solve this?",
           "link": "https://www.ft.com/content/3746542f-3f13-46c7-a236-586dffed3b61",
           "publishedOn": "2022-11-15T18:00:04.000Z",
-          "wordCount": 1541,
+          "wordCount": 1545,
           "title": "Wait, wasn’t bitcoin supposed to solve this?",
           "imageUrl": null
         },
@@ -121,7 +121,7 @@
           "description": "WSJ News Exclusive | FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy",
           "link": "https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-attempts-to-raise-fresh-cash-despite-bankruptcy-11668520573?reflink=e2twmkts",
           "publishedOn": "2022-11-15T15:30:03.000Z",
-          "wordCount": 7153,
+          "wordCount": 7202,
           "title": "WSJ News Exclusive | FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy",
           "imageUrl": "https://images.wsj.net/im-666353/social"
         },
@@ -131,7 +131,7 @@
           "description": "Biden Administration Wants To Make It Easier To Seize Crypto Without Criminal Charges",
           "link": "https://www.forbes.com/sites/nicksibilla/2022/10/25/biden-administration-wants-to-make-it-easier-to-seize-crypto-without-criminal-charges/",
           "publishedOn": "2022-11-15T15:30:03.000Z",
-          "wordCount": 11393,
+          "wordCount": 11940,
           "title": "Biden Administration Wants To Make It Easier To Seize Crypto Without Criminal Charges",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/605a1f173736cf869a7184fe/0x0.jpg?format=jpg&crop=2001,1126,x0,y39,safe&width=1200"
         },
