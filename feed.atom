@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T12:43:22.708Z</id>
+    <id>urn:2022-11-16T13:41:29.914Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T12:43:22.708Z</updated>
+    <updated>2022-11-16T13:41:29.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DefiLlama]]></title>
+        <id>https://defillama.com/aggregator</id>
+        <link href="https://defillama.com/aggregator"/>
+        <updated>2022-11-16T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlama]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Revenge of the Nerds - How Ivy League Amateurs Fumbled a 10 Billion Dollar Bag]]></title>
         <id>https://research.qluster.co/p/the-revenge-of-the-nerds-how-ivy</id>
@@ -41,6 +51,16 @@
         <link href="https://ftx.us/"/>
         <updated>2022-11-16T07:30:05.000Z</updated>
         <summary type="html"><![CDATA[Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENS DAO Wrapped]]></title>
+        <id>https://review.ens.domains/</id>
+        <link href="https://review.ens.domains/"/>
+        <updated>2022-11-16T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ENS DAO Wrapped]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -156,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Pay is now available on Circle]]></title>
-        <id>https://www.circle.com/blog/apple-pay-is-now-available-on-circle?utm_campaign=Campaign%20%7C%20Multichain%20USDC&amp;utm_content=227337635&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839</id>
-        <link href="https://www.circle.com/blog/apple-pay-is-now-available-on-circle?utm_campaign=Campaign%20%7C%20Multichain%20USDC&amp;utm_content=227337635&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-2151686839"/>
-        <updated>2022-11-15T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Apple Pay is now available on Circle]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say]]></title>
         <id>https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/</id>
         <link href="https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/"/>
@@ -181,16 +191,6 @@
         <link href="https://milkyeggs.com/?p=175"/>
         <updated>2022-11-15T07:00:03.000Z</updated>
         <summary type="html"><![CDATA[What happened at Alameda Research]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman Fraud: Inside the Collapse of FTX’s Hollow Empire]]></title>
-        <id>https://www.coindesk.com/podcasts/the-breakdown-with-nlw/sam-bankman-fraud-inside-the-collapse-of-ftxs-hollow-empire/</id>
-        <link href="https://www.coindesk.com/podcasts/the-breakdown-with-nlw/sam-bankman-fraud-inside-the-collapse-of-ftxs-hollow-empire/"/>
-        <updated>2022-11-15T06:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman Fraud: Inside the Collapse of FTX’s Hollow Empire]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

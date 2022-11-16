@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://defillama.com/aggregator",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/aggregator",
+          "publishedOn": "2022-11-16T13:00:03.000Z",
+          "wordCount": 5768,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
           "id": "https://research.qluster.co/p/the-revenge-of-the-nerds-how-ivy",
           "author": null,
           "description": "The Revenge of the Nerds - How Ivy League Amateurs Fumbled a 10 Billion Dollar Bag",
@@ -46,12 +56,22 @@
           "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
         },
         {
+          "id": "https://review.ens.domains/",
+          "author": null,
+          "description": "ENS DAO Wrapped",
+          "link": "https://review.ens.domains/",
+          "publishedOn": "2022-11-16T07:00:04.000Z",
+          "wordCount": 284,
+          "title": "ENS DAO Wrapped",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter",
           "author": null,
           "description": "Sam Bankman-Fried’s support for Democrats is massively overstated",
           "link": "https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter",
           "publishedOn": "2022-11-16T00:30:02.000Z",
-          "wordCount": 2571,
+          "wordCount": 2604,
           "title": "Sam Bankman-Fried’s support for Democrats is massively overstated",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/wiR7KMUzCcU3yd3gslBk48NIXpw=/0x0:3678x1926/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199388/1238327312.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
           "link": "https://decrypt.co/114687/crypto-cold-wallets-in-ledger-trezor-sales-moon-after-ftx-collapse",
           "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 6032,
+          "wordCount": 6054,
           "title": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/crypto-digital-wallet-gID_2.jpg"
         },
@@ -81,7 +101,7 @@
           "description": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "link": "https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824",
           "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 6878,
+          "wordCount": 6884,
           "title": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "imageUrl": "https://images.wsj.net/im-666556/social"
         },
@@ -101,7 +121,7 @@
           "description": "Crypto lender Salt halts withdrawals citing FTX impact",
           "link": "https://www.theblock.co/post/187228/crypto-lender-salt-halts-withdrawals-citing-ftx-impact?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-15T19:30:04.000Z",
-          "wordCount": 62177,
+          "wordCount": 62681,
           "title": "Crypto lender Salt halts withdrawals citing FTX impact",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210610_Flash_Loans-1200x675.jpg"
         },
@@ -111,7 +131,7 @@
           "description": "Wait, wasn’t bitcoin supposed to solve this?",
           "link": "https://www.ft.com/content/3746542f-3f13-46c7-a236-586dffed3b61",
           "publishedOn": "2022-11-15T18:00:04.000Z",
-          "wordCount": 1543,
+          "wordCount": 1544,
           "title": "Wait, wasn’t bitcoin supposed to solve this?",
           "imageUrl": null
         },
@@ -141,7 +161,7 @@
           "description": "WSJ News Exclusive | FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy",
           "link": "https://www.wsj.com/articles/ftx-founder-sam-bankman-fried-attempts-to-raise-fresh-cash-despite-bankruptcy-11668520573?reflink=e2twmkts",
           "publishedOn": "2022-11-15T15:30:03.000Z",
-          "wordCount": 7060,
+          "wordCount": 7193,
           "title": "WSJ News Exclusive | FTX Founder Sam Bankman-Fried Attempts to Raise Fresh Cash Despite Bankruptcy",
           "imageUrl": "https://images.wsj.net/im-666353/social"
         },
@@ -156,22 +176,12 @@
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/605a1f173736cf869a7184fe/0x0.jpg?format=jpg&crop=2001,1126,x0,y39,safe&width=1200"
         },
         {
-          "id": "https://www.circle.com/blog/apple-pay-is-now-available-on-circle?utm_campaign=Campaign%20%7C%20Multichain%20USDC&utm_content=227337635&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "author": null,
-          "description": "Apple Pay is now available on Circle",
-          "link": "https://www.circle.com/blog/apple-pay-is-now-available-on-circle?utm_campaign=Campaign%20%7C%20Multichain%20USDC&utm_content=227337635&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
-          "publishedOn": "2022-11-15T15:00:03.000Z",
-          "wordCount": 2303,
-          "title": "Apple Pay is now available on Circle",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/Payments-ProductBlog-ApplePay.png#keepProtocol"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/",
           "author": null,
           "description": "FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say",
           "link": "https://www.coindesk.com/policy/2022/11/15/ftxs-new-leadership-is-in-touch-with-regulators-may-have-over-1m-creditors-new-filings-say/",
           "publishedOn": "2022-11-15T15:00:02.000Z",
-          "wordCount": 6969,
+          "wordCount": 6905,
           "title": "FTX's New Leadership Is in Touch With Regulators, May Have Over 1M Creditors, New Filings Say",
           "imageUrl": "https://www.coindesk.com/resizer/JXZSUtEEioQ0Dn57mA45Bbz9Gyg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GPNNITPH3FCHVGUAOUKNDLCT5Y.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 6881,
           "title": "What happened at Alameda Research",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/podcasts/the-breakdown-with-nlw/sam-bankman-fraud-inside-the-collapse-of-ftxs-hollow-empire/",
-          "author": null,
-          "description": "Sam Bankman Fraud: Inside the Collapse of FTX’s Hollow Empire",
-          "link": "https://www.coindesk.com/podcasts/the-breakdown-with-nlw/sam-bankman-fraud-inside-the-collapse-of-ftxs-hollow-empire/",
-          "publishedOn": "2022-11-15T06:30:03.000Z",
-          "wordCount": 16051,
-          "title": "Sam Bankman Fraud: Inside the Collapse of FTX’s Hollow Empire",
-          "imageUrl": "https://www.coindesk.com/resizer/IIAkbvYi5oxWkLb4xJ5dyrIr4Vs=/1200x628/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H757DXSCSNDERJHF4ZJXAUH63A.jpg"
         },
         {
           "id": "https://crypto.com/",
