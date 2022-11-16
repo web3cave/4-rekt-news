@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ghnPRkREBRM",
+          "author": null,
+          "description": "The Chopping Block: Why Lenders Didn't Liquidate Alameda When It Was Underwater - Ep. 421",
+          "link": "https://www.youtube.com/watch?v=ghnPRkREBRM",
+          "publishedOn": "2022-11-16T21:00:03.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block: Why Lenders Didn't Liquidate Alameda When It Was Underwater - Ep. 421",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stakedao.gitbook.io/stakedaohq/platform/vote-market",
+          "author": null,
+          "description": "Vote Market - Stake DAO",
+          "link": "https://stakedao.gitbook.io/stakedaohq/platform/vote-market",
+          "publishedOn": "2022-11-16T21:00:03.000Z",
+          "wordCount": 1635,
+          "title": "Vote Market - Stake DAO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/187692/binance-role-in-ftx-collapse-crypto-meltdown-under-congressional-scrutiny?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Binance role in FTX collapse under congressional scrutiny",
+          "link": "https://www.theblock.co/post/187692/binance-role-in-ftx-collapse-crypto-meltdown-under-congressional-scrutiny?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-16T21:00:02.000Z",
+          "wordCount": 63540,
+          "title": "Binance role in FTX collapse under congressional scrutiny",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-FTX-CZ-Binance-1200x675.jpg"
+        },
+        {
           "id": "https://votemarket.stakedao.org/",
           "author": null,
           "description": "Stake DAO | Votemarket",
@@ -16,14 +46,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.cnn.com/2022/11/16/tech/elon-musk-email-ultimatum-twitter/index.html",
+          "id": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
           "author": null,
-          "description": "Elon Musk gives ultimatum to Twitter employees: Do 'extremely hardcore' work or get out | CNN Business",
-          "link": "https://www.cnn.com/2022/11/16/tech/elon-musk-email-ultimatum-twitter/index.html",
-          "publishedOn": "2022-11-16T19:30:04.000Z",
-          "wordCount": 21533,
-          "title": "Elon Musk gives ultimatum to Twitter employees: Do 'extremely hardcore' work or get out | CNN Business",
-          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/221116080802-elon-musk-0829-restricted.jpg?c=16x9&q=w_800,c_fill"
+          "description": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
+          "link": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
+          "publishedOn": "2022-11-16T19:00:02.000Z",
+          "wordCount": 4523,
+          "title": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
+          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/11/Jeremy-Allaire-Circle-CEO-1-2.jpg"
         },
         {
           "id": "https://hackmd.io/@vbuterin/zk_slides_20221010",
@@ -51,7 +81,7 @@
           "description": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
           "link": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
           "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 6970,
+          "wordCount": 7183,
           "title": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
           "imageUrl": "https://miro.medium.com/max/1200/1*JfSihlHEe8p3sJzycckxEA.png"
         },
@@ -61,19 +91,9 @@
           "description": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
           "link": "https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 63400,
+          "wordCount": 63355,
           "title": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync-1200x675.jpg"
-        },
-        {
-          "id": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
-          "author": null,
-          "description": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
-          "link": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
-          "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 4530,
-          "title": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
-          "imageUrl": "https://blockworks.co/wp-content/uploads/2022/11/Jeremy-Allaire-Circle-CEO-1-2.jpg"
         },
         {
           "id": "https://cryptoslate.com/decentralized-stablecoins-are-pitched-as-cryptos-holy-grail-so-where-are-they/",
@@ -116,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/andrewmilson/ministark",
-          "author": null,
-          "description": "GitHub - andrewmilson/ministark: 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs",
-          "link": "https://github.com/andrewmilson/ministark",
-          "publishedOn": "2022-11-16T15:00:04.000Z",
-          "wordCount": 1415,
-          "title": "GitHub - andrewmilson/ministark: 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs",
-          "imageUrl": "https://opengraph.githubassets.com/0078fbe3efcc7f68cea5dcc2b812c3841792b200e3e2a0a740a15bd03d279ac2/andrewmilson/ministark"
-        },
-        {
           "id": "https://www.gemini.com/blog/an-important-message-regarding-gemini-earn",
           "author": null,
           "description": "An Important Message Regarding Gemini Earn | Gemini",
@@ -141,7 +151,7 @@
           "description": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "link": "https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/",
           "publishedOn": "2022-11-16T14:00:05.000Z",
-          "wordCount": 6845,
+          "wordCount": 6783,
           "title": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
@@ -171,19 +181,9 @@
           "description": "Fantom: envisioning a zk future",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=social.tw",
           "publishedOn": "2022-11-16T09:00:02.000Z",
-          "wordCount": 1872,
+          "wordCount": 1869,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
-        },
-        {
-          "id": "https://review.ens.domains/",
-          "author": null,
-          "description": "ENS DAO Wrapped",
-          "link": "https://review.ens.domains/",
-          "publishedOn": "2022-11-16T07:00:04.000Z",
-          "wordCount": 284,
-          "title": "ENS DAO Wrapped",
-          "imageUrl": null
         },
         {
           "id": "https://milkyeggs.com/?p=175",
