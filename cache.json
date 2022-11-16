@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/gooberxyz/goobervault",
+          "author": null,
+          "description": "GitHub - gooberxyz/goobervault: A managed vault for goo and gobblers",
+          "link": "https://github.com/gooberxyz/goobervault",
+          "publishedOn": "2022-11-16T17:00:02.000Z",
+          "wordCount": 1271,
+          "title": "GitHub - gooberxyz/goobervault: A managed vault for goo and gobblers",
+          "imageUrl": "https://opengraph.githubassets.com/615594c59c97395578c96097da4d3efc5df2de34e6a0c0a1f723aa911b62e69d/gooberxyz/goobervault"
+        },
+        {
           "id": "https://vitalik.ca/general/2021/01/11/recovery.html",
           "author": null,
           "description": "Why we need wide adoption of social recovery wallets",
@@ -31,9 +41,9 @@
           "description": "GitHub - andrewmilson/ministark: 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs",
           "link": "https://github.com/andrewmilson/ministark",
           "publishedOn": "2022-11-16T15:00:04.000Z",
-          "wordCount": 1415,
+          "wordCount": 1529,
           "title": "GitHub - andrewmilson/ministark: 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs",
-          "imageUrl": "https://opengraph.githubassets.com/d8153b63c01c10113c3235407437fdcf0eda91f4114d4ef30ed7b2454f4d6be2/andrewmilson/ministark"
+          "imageUrl": "https://opengraph.githubassets.com/e8b1a6e8e424937ba26c907cc05f13ac1ee6fc6c054bc6c804147c92b87af4c3/andrewmilson/ministark"
         },
         {
           "id": "https://www.gemini.com/blog/an-important-message-regarding-gemini-earn",
@@ -51,7 +61,7 @@
           "description": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "link": "https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/",
           "publishedOn": "2022-11-16T14:00:05.000Z",
-          "wordCount": 6577,
+          "wordCount": 6599,
           "title": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Sam Bankman-Fried’s support for Democrats is massively overstated",
           "link": "https://www.vox.com/policy-and-politics/2022/11/15/23460684/sam-bankman-fried-ftx-crypto-democrats-campaign?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter",
           "publishedOn": "2022-11-16T00:30:02.000Z",
-          "wordCount": 2645,
+          "wordCount": 2611,
           "title": "Sam Bankman-Fried’s support for Democrats is massively overstated",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/wiR7KMUzCcU3yd3gslBk48NIXpw=/0x0:3678x1926/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199388/1238327312.jpg"
         },
@@ -136,22 +146,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://decrypt.co/114687/crypto-cold-wallets-in-ledger-trezor-sales-moon-after-ftx-collapse",
-          "author": null,
-          "description": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
-          "link": "https://decrypt.co/114687/crypto-cold-wallets-in-ledger-trezor-sales-moon-after-ftx-collapse",
-          "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 6014,
-          "title": "Crypto Cold Wallets in Ledger, Trezor Sales Moon After FTX Collapse - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/crypto-digital-wallet-gID_2.jpg"
-        },
-        {
           "id": "https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824",
           "author": null,
           "description": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "link": "https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824",
           "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 6875,
+          "wordCount": 6843,
           "title": "BlockFi Prepares for Potential Bankruptcy as Crypto Contagion Spreads",
           "imageUrl": "https://images.wsj.net/im-666556/social"
         },
@@ -171,7 +171,7 @@
           "description": "Crypto lender Salt halts withdrawals citing FTX impact",
           "link": "https://www.theblock.co/post/187228/crypto-lender-salt-halts-withdrawals-citing-ftx-impact?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-15T19:30:04.000Z",
-          "wordCount": 62637,
+          "wordCount": 62653,
           "title": "Crypto lender Salt halts withdrawals citing FTX impact",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/06/20210610_Flash_Loans-1200x675.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Biden Administration Wants To Make It Easier To Seize Crypto Without Criminal Charges",
           "link": "https://www.forbes.com/sites/nicksibilla/2022/10/25/biden-administration-wants-to-make-it-easier-to-seize-crypto-without-criminal-charges/",
           "publishedOn": "2022-11-15T15:30:03.000Z",
-          "wordCount": 11673,
+          "wordCount": 11734,
           "title": "Biden Administration Wants To Make It Easier To Seize Crypto Without Criminal Charges",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/605a1f173736cf869a7184fe/0x0.jpg?format=jpg&crop=2001,1126,x0,y39,safe&width=1200"
         },
