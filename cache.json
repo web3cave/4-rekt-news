@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://votemarket.stakedao.org/",
+          "author": null,
+          "description": "Stake DAO | Votemarket",
+          "link": "https://votemarket.stakedao.org/",
+          "publishedOn": "2022-11-16T19:30:04.000Z",
+          "wordCount": 1749,
+          "title": "Stake DAO | Votemarket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnn.com/2022/11/16/tech/elon-musk-email-ultimatum-twitter/index.html",
+          "author": null,
+          "description": "Elon Musk gives ultimatum to Twitter employees: Do 'extremely hardcore' work or get out | CNN Business",
+          "link": "https://www.cnn.com/2022/11/16/tech/elon-musk-email-ultimatum-twitter/index.html",
+          "publishedOn": "2022-11-16T19:30:04.000Z",
+          "wordCount": 21533,
+          "title": "Elon Musk gives ultimatum to Twitter employees: Do 'extremely hardcore' work or get out | CNN Business",
+          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/221116080802-elon-musk-0829-restricted.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
           "id": "https://hackmd.io/@vbuterin/zk_slides_20221010",
           "author": null,
           "description": "HackMD - Collaborative Markdown Knowledge Base",
@@ -26,24 +46,24 @@
           "imageUrl": "https://blog.keys.casa/content/images/2022/11/Bitcoin-scarcity-sb-1.jpg"
         },
         {
-          "id": "https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
-          "link": "https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 63213,
-          "title": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync-1200x675.jpg"
-        },
-        {
           "id": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
           "author": null,
           "description": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
           "link": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
           "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 6864,
+          "wordCount": 6970,
           "title": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
           "imageUrl": "https://miro.medium.com/max/1200/1*JfSihlHEe8p3sJzycckxEA.png"
+        },
+        {
+          "id": "https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
+          "link": "https://www.theblock.co/post/187503/matter-labs-raises-200-million-to-boost-zksync-adoption-and-grow-its-team?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-16T19:00:02.000Z",
+          "wordCount": 63400,
+          "title": "Matter Labs raises $200 million to boost zkSync adoption and grow its team",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_zkSync-1200x675.jpg"
         },
         {
           "id": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
@@ -51,7 +71,7 @@
           "description": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
           "link": "https://blockworks.co/news/gemini-circle-genesis-exposure/",
           "publishedOn": "2022-11-16T19:00:02.000Z",
-          "wordCount": 4464,
+          "wordCount": 4530,
           "title": "Circle Yield Reduced to Zero, Gemini Earn Paused as Genesis Contagion Spreads",
           "imageUrl": "https://blockworks.co/wp-content/uploads/2022/11/Jeremy-Allaire-Circle-CEO-1-2.jpg"
         },
@@ -103,7 +123,7 @@
           "publishedOn": "2022-11-16T15:00:04.000Z",
           "wordCount": 1415,
           "title": "GitHub - andrewmilson/ministark: 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs",
-          "imageUrl": "https://opengraph.githubassets.com/6d5c571ce82a3277b9ff44f4c5d034c11825cfde03ae1103d5649e662b19473a/andrewmilson/ministark"
+          "imageUrl": "https://opengraph.githubassets.com/0078fbe3efcc7f68cea5dcc2b812c3841792b200e3e2a0a740a15bd03d279ac2/andrewmilson/ministark"
         },
         {
           "id": "https://www.gemini.com/blog/an-important-message-regarding-gemini-earn",
@@ -121,7 +141,7 @@
           "description": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "link": "https://www.coindesk.com/business/2022/11/16/genesis-crypto-lending-unit-is-halting-customer-withdrawals-in-wake-of-ftx-collapse/",
           "publishedOn": "2022-11-16T14:00:05.000Z",
-          "wordCount": 6724,
+          "wordCount": 6845,
           "title": "Genesis’ Crypto-Lending Unit Is Halting Customer Withdrawals in Wake of FTX Collapse",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
@@ -151,19 +171,9 @@
           "description": "Fantom: envisioning a zk future",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=social.tw",
           "publishedOn": "2022-11-16T09:00:02.000Z",
-          "wordCount": 1869,
+          "wordCount": 1872,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
-        },
-        {
-          "id": "https://ftx.us/",
-          "author": null,
-          "description": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "link": "https://ftx.us/",
-          "publishedOn": "2022-11-16T07:30:05.000Z",
-          "wordCount": 593,
-          "title": "Buy and Sell Crypto on FTX: Bitcoin, Ethereum and more",
-          "imageUrl": "https://assets.website-files.com/613b9c7eace73c8678ac5031/617af23583c23b3678f8b480_opengraph_home.png"
         },
         {
           "id": "https://review.ens.domains/",
@@ -174,16 +184,6 @@
           "wordCount": 284,
           "title": "ENS DAO Wrapped",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/haunventures.eth/uVZ8KGxmg7gmXBAA09MbI17pva4lOl6cjCrz-Y3YE2M",
-          "author": null,
-          "description": "Taking A Long Term View of Web3",
-          "link": "https://mirror.xyz/haunventures.eth/uVZ8KGxmg7gmXBAA09MbI17pva4lOl6cjCrz-Y3YE2M",
-          "publishedOn": "2022-11-15T21:00:02.000Z",
-          "wordCount": 2752,
-          "title": "Taking A Long Term View of Web3",
-          "imageUrl": "https://mirror-media.imgix.net/nft/ZOEmZD8lGo_UmWj_Ssjam.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://milkyeggs.com/?p=175",
