@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.heatbit.com/",
+          "author": null,
+          "description": "The first heater that mines bitcoin",
+          "link": "https://www.heatbit.com/",
+          "publishedOn": "2022-11-17T22:00:06.000Z",
+          "wordCount": 838,
+          "title": "The first heater that mines bitcoin",
+          "imageUrl": "https://uploads-ssl.webflow.com/6335dd9595d6eb3707477532/6339c4913b99ec739f6f83c2_og.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/187653/nexo-had-offered-blockfi-an-850-million-deal-to-potentially-acquire-it",
           "author": null,
           "description": "Nexo had offered BlockFi an $850 million deal to potentially acquire it",
           "link": "https://www.theblock.co/post/187653/nexo-had-offered-blockfi-an-850-million-deal-to-potentially-acquire-it",
           "publishedOn": "2022-11-17T21:00:03.000Z",
-          "wordCount": 63733,
+          "wordCount": 63552,
           "title": "Nexo had offered BlockFi an $850 million deal to potentially acquire it",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/08/20200819_BlockFi-money-1200x675.jpg"
         },
@@ -36,10 +46,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.binance.com/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9",
+          "id": "https://www.binancezh.jp/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9",
           "author": null,
           "description": "Deposits of USDC (SOL) & USDT (SOL) Token Suspended | Binance Support",
-          "link": "https://www.binance.com/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9",
+          "link": "https://www.binancezh.jp/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9",
           "publishedOn": "2022-11-17T17:00:02.000Z",
           "wordCount": 9216,
           "title": "Deposits of USDC (SOL) & USDT (SOL) Token Suspended | Binance Support",
@@ -51,19 +61,9 @@
           "description": "WSJ News Exclusive | Meta Employees, Security Guards Fired for Hijacking User Accounts",
           "link": "https://www.wsj.com/articles/meta-employees-security-guards-fired-for-hijacking-user-accounts-11668697213",
           "publishedOn": "2022-11-17T17:00:02.000Z",
-          "wordCount": 6700,
+          "wordCount": 6724,
           "title": "WSJ News Exclusive | Meta Employees, Security Guards Fired for Hijacking User Accounts",
           "imageUrl": "https://images.wsj.net/im-668058/social"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=omLyceRqTLg&feature=youtu.be",
-          "author": null,
-          "description": "Arbitrum One's new validators, zkSync raises $200m - The Daily Gwei Refuel #489 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=omLyceRqTLg&feature=youtu.be",
-          "publishedOn": "2022-11-17T17:00:02.000Z",
-          "wordCount": null,
-          "title": "Arbitrum One's new validators, zkSync raises $200m - The Daily Gwei Refuel #489 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://www.nytimes.com/events/dealbook-summit#speakers",
@@ -81,7 +81,7 @@
           "description": "FTX held less than $1bn in liquid assets against $9bn in liabilities",
           "link": "https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558",
           "publishedOn": "2022-11-17T15:00:03.000Z",
-          "wordCount": 1624,
+          "wordCount": 1633,
           "title": "FTX held less than $1bn in liquid assets against $9bn in liabilities",
           "imageUrl": null
         },
@@ -101,7 +101,7 @@
           "description": "The Psychopharmacology Of The FTX Crash",
           "link": "https://astralcodexten.substack.com/p/the-psychopharmacology-of-the-ftx",
           "publishedOn": "2022-11-17T09:30:06.000Z",
-          "wordCount": 14067,
+          "wordCount": 14070,
           "title": "The Psychopharmacology Of The FTX Crash",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F690b13ad-daa0-4e64-8759-f6c7d422e7b4_654x444.png"
         },
@@ -161,7 +161,7 @@
           "description": "FTX collapse dooms founder’s pandemic-prevention agenda",
           "link": "https://www.washingtonpost.com/health/2022/11/16/sam-bankman-fried-ftx-pandemic-prevention/",
           "publishedOn": "2022-11-16T23:30:05.000Z",
-          "wordCount": 13048,
+          "wordCount": 12794,
           "title": "FTX collapse dooms founder’s pandemic-prevention agenda",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43LIEPDE34I63MEMHTRCEYDQLE.jpg&w=1440"
         },
@@ -171,7 +171,7 @@
           "description": "Sam Bankman-Fried tries to explain himself",
           "link": "https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy",
           "publishedOn": "2022-11-16T21:30:05.000Z",
-          "wordCount": 3099,
+          "wordCount": 3115,
           "title": "Sam Bankman-Fried tries to explain himself",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/PrNHf9Q5VcksveAgZ2uuWjMUJlE=/0x110:5898x3198/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24202810/1232818175.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Binance role in FTX collapse under congressional scrutiny",
           "link": "https://www.theblock.co/post/187692/binance-role-in-ftx-collapse-crypto-meltdown-under-congressional-scrutiny?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-16T21:00:02.000Z",
-          "wordCount": 64060,
+          "wordCount": 63879,
           "title": "Binance role in FTX collapse under congressional scrutiny",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-FTX-CZ-Binance-1200x675.jpg"
         },
