@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T22:21:26.924Z</id>
+    <id>urn:2022-11-17T23:23:06.142Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T22:21:26.924Z</updated>
+    <updated>2022-11-17T23:23:06.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.heatbit.com/"/>
         <updated>2022-11-17T22:00:06.000Z</updated>
         <summary type="html"><![CDATA[The first heater that mines bitcoin]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Permit2 & Universal Router]]></title>
+        <id>https://uniswap.org/blog/permit2-and-universal-router</id>
+        <link href="https://uniswap.org/blog/permit2-and-universal-router"/>
+        <updated>2022-11-17T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Permit2 & Universal Router]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -61,6 +71,16 @@
         <link href="https://www.wsj.com/articles/meta-employees-security-guards-fired-for-hijacking-user-accounts-11668697213"/>
         <updated>2022-11-17T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[WSJ News Exclusive | Meta Employees, Security Guards Fired for Hijacking User Accounts]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken now supports deposits and withdrawals of USDC via the Solana and Tron networks! - Kraken Blog]]></title>
+        <id>https://blog.kraken.com/post/15781/kraken-now-supports-deposits-and-withdrawals-of-usdc-via-the-solana-and-tron-networks/</id>
+        <link href="https://blog.kraken.com/post/15781/kraken-now-supports-deposits-and-withdrawals-of-usdc-via-the-solana-and-tron-networks/"/>
+        <updated>2022-11-17T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Kraken now supports deposits and withdrawals of USDC via the Solana and Tron networks! - Kraken Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,26 +141,6 @@
         <link href="https://blog.aayushg.com/posts/vickrey/"/>
         <updated>2022-11-17T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Cheap, Anonymous Vickrey Auctions on-chain]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[greenpill.party]]></title>
-        <id>https://greenpill.party/</id>
-        <link href="https://greenpill.party/"/>
-        <updated>2022-11-17T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[greenpill.party]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Original Sin — Placeholder]]></title>
-        <id>https://www.placeholder.vc/blog/2021/4/1/the-original-sin</id>
-        <link href="https://www.placeholder.vc/blog/2021/4/1/the-original-sin"/>
-        <updated>2022-11-17T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Original Sin — Placeholder]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
