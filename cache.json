@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qChILPxdOA4&feature=youtu.be",
+          "author": null,
+          "description": "Alpha Leak | The Bull Case for zkBTC",
+          "link": "https://www.youtube.com/watch?v=qChILPxdOA4&feature=youtu.be",
+          "publishedOn": "2022-11-18T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Alpha Leak | The Bull Case for zkBTC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.chainsafe.io/introducing-post-quantum-security-to-signatures-on-substrate-5959504c2ee3?gi=7698c6644477",
+          "author": null,
+          "description": "Introducing Post-quantum Security to Signatures on Substrate",
+          "link": "https://blog.chainsafe.io/introducing-post-quantum-security-to-signatures-on-substrate-5959504c2ee3?gi=7698c6644477",
+          "publishedOn": "2022-11-18T19:00:02.000Z",
+          "wordCount": null,
+          "title": "Introducing Post-quantum Security to Signatures on Substrate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/tech/2022/11/18/cardano-based-regulated-stablecoin-usda-will-hit-the-market-in-early-2023/",
+          "author": null,
+          "description": "Cardano-Based Regulated Stablecoin USDA Will Hit the Market in Early 2023",
+          "link": "https://www.coindesk.com/tech/2022/11/18/cardano-based-regulated-stablecoin-usda-will-hit-the-market-in-early-2023/",
+          "publishedOn": "2022-11-18T19:00:02.000Z",
+          "wordCount": 6003,
+          "title": "Cardano-Based Regulated Stablecoin USDA Will Hit the Market in Early 2023",
+          "imageUrl": "https://www.coindesk.com/resizer/6-qVOElTkT-iLX5RRqTmhC3CfHE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/G4HTXHRPDZHSFGJL5PM734WNYU.jpg"
+        },
+        {
           "id": "https://themassage.jp/en/archives/17039",
           "author": null,
           "description": "The New Creator Economy | MASSAGE",
@@ -16,12 +46,12 @@
           "imageUrl": "https://themassage.jp/wwp/wp-content/uploads/2022/10/cover1-e1667916162727.jpg"
         },
         {
-          "id": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=7aec9e8c791f",
+          "id": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=5a828747791f&utm_source=ForbesMainTwitter&utm_campaign=socialflowForbesMainTwitter&utm_medium=social",
           "author": null,
           "description": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
-          "link": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=7aec9e8c791f",
+          "link": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=5a828747791f&utm_source=ForbesMainTwitter&utm_campaign=socialflowForbesMainTwitter&utm_medium=social",
           "publishedOn": "2022-11-18T17:00:03.000Z",
-          "wordCount": 12895,
+          "wordCount": 13016,
           "title": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6373df9664355442e8dfbf62/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -31,7 +61,7 @@
           "description": "Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing",
           "link": "https://www.bbc.com/news/world-us-canada-63671947",
           "publishedOn": "2022-11-18T16:30:03.000Z",
-          "wordCount": 6441,
+          "wordCount": 6445,
           "title": "Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/11E47/production/_126878237_5cedb48bf99b9a44d347756fcf66e5c6b8fabf6e.jpg"
         },
@@ -46,23 +76,13 @@
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
         },
         {
-          "id": "http://charts.volmex.finance/",
+          "id": "https://www.zerohedge.com/political/g20-declares-vaccine-passports-needed-future-international-travel",
           "author": null,
-          "description": "Volmex",
-          "link": "http://charts.volmex.finance/",
-          "publishedOn": "2022-11-18T10:00:08.000Z",
-          "wordCount": 23,
-          "title": "Volmex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ethstats.dev/",
-          "author": null,
-          "description": "{{ $root.networkName }} Network Status",
-          "link": "https://ethstats.dev/",
-          "publishedOn": "2022-11-18T10:00:08.000Z",
-          "wordCount": 101,
-          "title": "{{ $root.networkName }} Network Status",
+          "description": "G20 Pushes Vaccine Passports For All Future International Travel | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/g20-declares-vaccine-passports-needed-future-international-travel",
+          "publishedOn": "2022-11-18T16:00:06.000Z",
+          "wordCount": 1489,
+          "title": "G20 Pushes Vaccine Passports For All Future International Travel | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -71,7 +91,7 @@
           "description": "Masayoshi Son owes $4.7bn to SoftBank following tech rout",
           "link": "https://www.ft.com/content/4e709f78-48fc-4713-8904-cf1d8588116c",
           "publishedOn": "2022-11-18T09:30:08.000Z",
-          "wordCount": 1628,
+          "wordCount": 1624,
           "title": "Masayoshi Son owes $4.7bn to SoftBank following tech rout",
           "imageUrl": null
         },
@@ -81,19 +101,9 @@
           "description": "Home ✨",
           "link": "https://collectibles.bankless.com/",
           "publishedOn": "2022-11-18T08:30:04.000Z",
-          "wordCount": 650,
+          "wordCount": 652,
           "title": "Home ✨",
           "imageUrl": "https://d2vwpu9ddd6iwd.cloudfront.net/creators/85fef367-3a74-4847-b71b-db334814889c/1667942951.jpg"
-        },
-        {
-          "id": "https://www.defifa.net/",
-          "author": null,
-          "description": "Defifa",
-          "link": "https://www.defifa.net/",
-          "publishedOn": "2022-11-18T06:30:02.000Z",
-          "wordCount": 600,
-          "title": "Defifa",
-          "imageUrl": "https://i.imgur.com/mL0xrgD.png"
         },
         {
           "id": "https://cryptohayes.medium.com/white-boy-b12c33484a2e",
@@ -141,7 +151,7 @@
           "description": "Let crypto burn",
           "link": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
           "publishedOn": "2022-11-18T03:00:03.000Z",
-          "wordCount": 2609,
+          "wordCount": 2605,
           "title": "Let crypto burn",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b4c78c-fe5c-4d7f-8672-cc071d61b540.jpg?source=next-opengraph&fit=scale-down&width=900"
         },
@@ -151,7 +161,7 @@
           "description": "[Social] [EP2.2.5] Selection of an ENS endowment fund manager",
           "link": "https://discuss.ens.domains/t/social-ep2-2-5-selection-of-an-ens-endowment-fund-manager/15188/3",
           "publishedOn": "2022-11-18T02:00:05.000Z",
-          "wordCount": 3954,
+          "wordCount": 3957,
           "title": "[Social] [EP2.2.5] Selection of an ENS endowment fund manager",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 2762,
           "title": "November 2022: Convex Goes Cross-Chain",
           "imageUrl": "https://miro.medium.com/max/1200/1*Q6liU-JBLOHTmR2ZvtyaLQ.png"
-        },
-        {
-          "id": "https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf",
-          "author": null,
-          "description": "[PDF] 042020648197.pdf",
-          "link": "https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf",
-          "publishedOn": "2022-11-17T14:00:07.000Z",
-          "wordCount": 20408,
-          "title": "[PDF] 042020648197.pdf",
-          "imageUrl": null
         }
       ]
     }
