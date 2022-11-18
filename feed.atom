@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T14:21:18.280Z</id>
+    <id>urn:2022-11-18T15:22:12.063Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T14:21:18.280Z</updated>
+    <updated>2022-11-18T15:22:12.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://cryptohayes.medium.com/white-boy-b12c33484a2e"/>
         <updated>2022-11-18T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[White Boy]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTBoxes]]></title>
+        <id>https://www.nftboxes.io/</id>
+        <link href="https://www.nftboxes.io/"/>
+        <updated>2022-11-18T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[NFTBoxes]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://a16zcrypto.com/justin-thaler/"/>
         <updated>2022-11-17T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Justin Thaler]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PDF] FTX - Final Motion to Transfer Venue (W0069002).DOCX]]></title>
-        <id>https://pacer-documents.s3.amazonaws.com/33/188450/042120648186.pdf</id>
-        <link href="https://pacer-documents.s3.amazonaws.com/33/188450/042120648186.pdf"/>
-        <updated>2022-11-17T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[[PDF] FTX - Final Motion to Transfer Venue (W0069002).DOCX]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
