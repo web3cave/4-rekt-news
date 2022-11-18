@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-18T13:38:26.306Z</id>
+    <id>urn:2022-11-18T14:21:18.280Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-18T13:38:26.306Z</updated>
+    <updated>2022-11-18T14:21:18.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OurNetwork Members Club]]></title>
+        <id>https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0</id>
+        <link href="https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0"/>
+        <updated>2022-11-18T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[OurNetwork Members Club]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volmex]]></title>
         <id>http://charts.volmex.finance/</id>
         <link href="http://charts.volmex.finance/"/>
         <updated>2022-11-18T10:00:08.000Z</updated>
         <summary type="html"><![CDATA[Volmex]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[{{ $root.networkName }} Network Status]]></title>
+        <id>https://ethstats.dev/</id>
+        <link href="https://ethstats.dev/"/>
+        <updated>2022-11-18T10:00:08.000Z</updated>
+        <summary type="html"><![CDATA[{{ $root.networkName }} Network Status]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -146,31 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deposits of USDC (SOL) & USDT (SOL) Token Suspended | Binance Support]]></title>
-        <id>https://www.binancezh.jp/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9</id>
-        <link href="https://www.binancezh.jp/en/support/announcement/deposits-of-usdc-sol-usdt-sol-token-suspended-ed279c11471b4c118c3fe9962eb12dc9"/>
-        <updated>2022-11-17T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Deposits of USDC (SOL) & USDT (SOL) Token Suspended | Binance Support]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WSJ News Exclusive | Meta Employees, Security Guards Fired for Hijacking User Accounts]]></title>
         <id>https://www.wsj.com/articles/meta-employees-security-guards-fired-for-hijacking-user-accounts-11668697213</id>
         <link href="https://www.wsj.com/articles/meta-employees-security-guards-fired-for-hijacking-user-accounts-11668697213"/>
         <updated>2022-11-17T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[WSJ News Exclusive | Meta Employees, Security Guards Fired for Hijacking User Accounts]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX held less than $1bn in liquid assets against $9bn in liabilities]]></title>
-        <id>https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558</id>
-        <link href="https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558"/>
-        <updated>2022-11-17T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[FTX held less than $1bn in liquid assets against $9bn in liabilities]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
