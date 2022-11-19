@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.ca/general/2022/11/19/proof_of_solvency.html",
+          "author": null,
+          "description": "Having a safe CEX: proof of solvency and beyond",
+          "link": "https://vitalik.ca/general/2022/11/19/proof_of_solvency.html",
+          "publishedOn": "2022-11-19T12:00:05.000Z",
+          "wordCount": 3503,
+          "title": "Having a safe CEX: proof of solvency and beyond",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qM3hHovS6YA",
           "author": null,
           "description": "Did the Bahamian Government Direct SBF and Gary Wang to Hack FTX? - Ep. 422",
@@ -56,16 +66,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220415_Elon-Twitter-1200x675.jpg"
         },
         {
-          "id": "https://github.com/Uniswap/permit2",
-          "author": null,
-          "description": "GitHub - Uniswap/permit2: 🔑🔑🔑 next generation token approvals mechanism",
-          "link": "https://github.com/Uniswap/permit2",
-          "publishedOn": "2022-11-19T04:30:03.000Z",
-          "wordCount": 1167,
-          "title": "GitHub - Uniswap/permit2: 🔑🔑🔑 next generation token approvals mechanism",
-          "imageUrl": "https://opengraph.githubassets.com/df23a60632c17c399d33faf26e5747f1bc431a19b8c6cd6d57c14d61f55d0037/Uniswap/permit2"
-        },
-        {
           "id": "https://datafinnovation.medium.com/3ac-dcg-amazing-coincidences-c14eec941c06?source=twitterShare-4d811ce46426-1668787073&_branch_match_id=1122186550056895872&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Q9LqirKLyrxMS5NAgAk2h%2B7IwAAAA%3D%3D",
           "author": null,
           "description": "3AC, DCG & Amazing Coincidences",
@@ -91,8 +91,18 @@
           "description": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
           "link": "https://www.ft.com/content/913ff750-d1f4-486a-9801-e05be20041c1",
           "publishedOn": "2022-11-19T01:00:03.000Z",
-          "wordCount": 1614,
+          "wordCount": 1610,
           "title": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ethfs.xyz/",
+          "author": null,
+          "description": "EthFS: Ethereum File System",
+          "link": "https://ethfs.xyz/",
+          "publishedOn": "2022-11-18T23:30:06.000Z",
+          "wordCount": 122,
+          "title": "EthFS: Ethereum File System",
           "imageUrl": null
         },
         {
@@ -101,7 +111,7 @@
           "description": "Crypto doesn't have a UX problem",
           "link": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
           "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 2711,
+          "wordCount": 2911,
           "title": "Crypto doesn't have a UX problem",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee307b5-3970-4b17-8922-8c69c643650d_1200x600.jpeg"
         },
@@ -111,7 +121,7 @@
           "description": "GitHub - lcuen/bitcoin-ngo-guide: This is an editable version of the nonprofit guide commissioned by the Human Rights...",
           "link": "https://github.com/lcuen/bitcoin-ngo-guide",
           "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 5319,
+          "wordCount": 5332,
           "title": "GitHub - lcuen/bitcoin-ngo-guide: This is an editable version of the nonprofit guide commissioned by the Human Rights...",
           "imageUrl": "https://opengraph.githubassets.com/a4635e51a9f8aa750215c4c9d9c95ebc7e727383d7d2b56148873acbc93522be/lcuen/bitcoin-ngo-guide"
         },
@@ -136,22 +146,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://themassage.jp/en/archives/17039",
-          "author": null,
-          "description": "The New Creator Economy | MASSAGE",
-          "link": "https://themassage.jp/en/archives/17039",
-          "publishedOn": "2022-11-18T17:00:03.000Z",
-          "wordCount": 23883,
-          "title": "The New Creator Economy | MASSAGE",
-          "imageUrl": "https://themassage.jp/wwp/wp-content/uploads/2022/10/cover1-e1667916162727.jpg"
-        },
-        {
           "id": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=7aec9e8c791f",
           "author": null,
           "description": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
           "link": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=7aec9e8c791f",
           "publishedOn": "2022-11-18T17:00:03.000Z",
-          "wordCount": 13048,
+          "wordCount": 12965,
           "title": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6373df9664355442e8dfbf62/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -201,7 +201,7 @@
           "description": "Let crypto burn",
           "link": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
           "publishedOn": "2022-11-18T03:00:03.000Z",
-          "wordCount": 2594,
+          "wordCount": 2590,
           "title": "Let crypto burn",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b4c78c-fe5c-4d7f-8672-cc071d61b540.jpg?source=next-opengraph&fit=scale-down&width=900"
         }
