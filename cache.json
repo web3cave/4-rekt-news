@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.lens.xyz/",
+          "author": null,
+          "description": "Lens Protocol",
+          "link": "https://www.lens.xyz/",
+          "publishedOn": "2022-11-19T23:00:02.000Z",
+          "wordCount": 10,
+          "title": "Lens Protocol",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qM3hHovS6YA",
           "author": null,
           "description": "Did the Bahamian Government Direct SBF and Gary Wang to Hack FTX? - Ep. 422",
@@ -31,7 +41,7 @@
           "description": "Amid FTX Fallout, Crypto Custodian BitGo Looks To Raise Funds At A $1.2 Billion Valuation",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/11/15/amid-ftx-fallout-crypto-custodian-bitgo-looks-to-raise-funds-at-a-12-billion-valuation/?sh=2d5120511ceb",
           "publishedOn": "2022-11-19T20:00:05.000Z",
-          "wordCount": 10128,
+          "wordCount": 9270,
           "title": "Amid FTX Fallout, Crypto Custodian BitGo Looks To Raise Funds At A $1.2 Billion Valuation",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6374281ba08fd8436fd1f0ea/0x0.jpg?format=jpg&width=1200"
         },
@@ -111,7 +121,7 @@
           "description": "GitHub - Uniswap/permit2: 🔑🔑🔑 next generation token approvals mechanism",
           "link": "https://github.com/Uniswap/permit2",
           "publishedOn": "2022-11-19T16:30:02.000Z",
-          "wordCount": 1167,
+          "wordCount": 1030,
           "title": "GitHub - Uniswap/permit2: 🔑🔑🔑 next generation token approvals mechanism",
           "imageUrl": "https://opengraph.githubassets.com/aa18d9516f231ff4d883aa7ff3938acf6d1cc41cba79875f7aec61c77054139b/Uniswap/permit2"
         },
@@ -184,16 +194,6 @@
           "wordCount": 3761,
           "title": "Having a safe CEX: proof of solvency and beyond - HackMD",
           "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
-        },
-        {
-          "id": "https://www.ft.com/content/913ff750-d1f4-486a-9801-e05be20041c1",
-          "author": null,
-          "description": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
-          "link": "https://www.ft.com/content/913ff750-d1f4-486a-9801-e05be20041c1",
-          "publishedOn": "2022-11-19T01:00:03.000Z",
-          "wordCount": 1610,
-          "title": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
-          "imageUrl": null
         },
         {
           "id": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
