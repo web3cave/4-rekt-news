@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/cawfree/react-native-helios",
+          "author": null,
+          "description": "GitHub - cawfree/react-native-helios: ⚛️ A fast, secure, and portable light client for Ethereum dApps.",
+          "link": "https://github.com/cawfree/react-native-helios",
+          "publishedOn": "2022-11-19T04:00:05.000Z",
+          "wordCount": 1251,
+          "title": "GitHub - cawfree/react-native-helios: ⚛️ A fast, secure, and portable light client for Ethereum dApps.",
+          "imageUrl": "https://repository-images.githubusercontent.com/567504604/9ae3b915-6c10-4dba-82a4-2b1391295c5a"
+        },
+        {
           "id": "https://datafinnovation.medium.com/3ac-dcg-amazing-coincidences-c14eec941c06?source=twitterShare-4d811ce46426-1668787073&_branch_match_id=1122186550056895872&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Q9LqirKLyrxMS5NAgAk2h%2B7IwAAAA%3D%3D",
           "author": null,
           "description": "3AC, DCG & Amazing Coincidences",
@@ -31,7 +41,7 @@
           "description": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
           "link": "https://www.ft.com/content/913ff750-d1f4-486a-9801-e05be20041c1",
           "publishedOn": "2022-11-19T01:00:03.000Z",
-          "wordCount": 1625,
+          "wordCount": 1624,
           "title": "FTX: inside the crypto exchange that ‘accidentally’ lost $8bn",
           "imageUrl": null
         },
@@ -44,16 +54,6 @@
           "wordCount": 2711,
           "title": "Crypto doesn't have a UX problem",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee307b5-3970-4b17-8922-8c69c643650d_1200x600.jpeg"
-        },
-        {
-          "id": "https://github.com/lcuen/bitcoin-ngo-guide",
-          "author": null,
-          "description": "GitHub - lcuen/bitcoin-ngo-guide: This is an editable version of the nonprofit guide commissioned by the Human Rights...",
-          "link": "https://github.com/lcuen/bitcoin-ngo-guide",
-          "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 5319,
-          "title": "GitHub - lcuen/bitcoin-ngo-guide: This is an editable version of the nonprofit guide commissioned by the Human Rights...",
-          "imageUrl": "https://opengraph.githubassets.com/a4635e51a9f8aa750215c4c9d9c95ebc7e727383d7d2b56148873acbc93522be/lcuen/bitcoin-ngo-guide"
         },
         {
           "id": "https://www.youtube.com/watch?v=qChILPxdOA4&feature=youtu.be",
@@ -111,7 +111,7 @@
           "description": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
           "link": "https://www.forbes.com/sites/davidjeans/2022/11/18/queen-caroline-the-risk-loving-29-year-old-embroiled-in-the-ftx-collapse/?sh=5a828747791f&utm_source=ForbesMainTwitter&utm_campaign=socialflowForbesMainTwitter&utm_medium=social",
           "publishedOn": "2022-11-18T17:00:03.000Z",
-          "wordCount": 13016,
+          "wordCount": 13049,
           "title": "‘Queen Caroline’: The Risk-Loving 29-Year-Old Embroiled In The FTX Collapse",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6373df9664355442e8dfbf62/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -121,7 +121,7 @@
           "description": "Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing",
           "link": "https://www.bbc.com/news/world-us-canada-63671947",
           "publishedOn": "2022-11-18T16:30:03.000Z",
-          "wordCount": 6395,
+          "wordCount": 6415,
           "title": "Mohammed bin Salman: Saudi leader given US immunity over Khashoggi killing",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/11E47/production/_126878237_5cedb48bf99b9a44d347756fcf66e5c6b8fabf6e.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Masayoshi Son owes $4.7bn to SoftBank following tech rout",
           "link": "https://www.ft.com/content/4e709f78-48fc-4713-8904-cf1d8588116c",
           "publishedOn": "2022-11-18T09:30:08.000Z",
-          "wordCount": 1624,
+          "wordCount": 1623,
           "title": "Masayoshi Son owes $4.7bn to SoftBank following tech rout",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "Let crypto burn",
           "link": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
           "publishedOn": "2022-11-18T03:00:03.000Z",
-          "wordCount": 2605,
+          "wordCount": 2604,
           "title": "Let crypto burn",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b4c78c-fe5c-4d7f-8672-cc071d61b540.jpg?source=next-opengraph&fit=scale-down&width=900"
         },
