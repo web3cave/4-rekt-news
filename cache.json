@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BzAdXyPYKQo&feature=youtu.be",
+          "author": null,
+          "description": "Silicon Valley No Revenue | Radio On Internet",
+          "link": "https://www.youtube.com/watch?v=BzAdXyPYKQo&feature=youtu.be",
+          "publishedOn": "2022-11-20T12:00:04.000Z",
+          "wordCount": null,
+          "title": "Silicon Valley No Revenue | Radio On Internet",
+          "imageUrl": null
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/Giorgia_Meloni",
           "author": null,
           "description": "Giorgia Meloni - Wikipedia",
@@ -36,26 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://spritely.institute/static/papers/spritely-core.pdf",
-          "author": null,
-          "description": "[PDF] spritely-core.pdf",
-          "link": "https://spritely.institute/static/papers/spritely-core.pdf",
-          "publishedOn": "2022-11-20T07:00:03.000Z",
-          "wordCount": 14043,
-          "title": "[PDF] spritely-core.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/conrad-black-step-toward-national-suicide",
-          "author": null,
-          "description": "Conrad Black: A Step Toward National Suicide? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/conrad-black-step-toward-national-suicide",
-          "publishedOn": "2022-11-20T07:00:03.000Z",
-          "wordCount": 2331,
-          "title": "Conrad Black: A Step Toward National Suicide? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/political/gun-sales-skyrocket-after-oregon-passes-measure-restricting-gun-rights",
           "author": null,
           "description": "Gun Sales Skyrocket After Oregon Passes Measure Restricting Gun Rights | ZeroHedge",
@@ -71,7 +61,7 @@
           "description": "Yearn  CoW Swap",
           "link": "https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3",
           "publishedOn": "2022-11-20T01:00:02.000Z",
-          "wordCount": 3066,
+          "wordCount": 3120,
           "title": "Yearn <> CoW Swap",
           "imageUrl": "https://miro.medium.com/max/662/1*8Zo8zwyEgAgZymEFMBO1UA.jpeg"
         },
@@ -106,12 +96,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://research-development.nomadic-labs.com/smart-rollups-are-coming.html",
+          "author": null,
+          "description": "The road to a million TPS (and beyond): Smart rollups are coming",
+          "link": "https://research-development.nomadic-labs.com/smart-rollups-are-coming.html",
+          "publishedOn": "2022-11-19T21:00:04.000Z",
+          "wordCount": 1400,
+          "title": "The road to a million TPS (and beyond): Smart rollups are coming",
+          "imageUrl": "https://research-development.nomadic-labs.com/images/tezos-center-twitter.jpeg"
+        },
+        {
           "id": "https://www.forbes.com/sites/stevenehrlich/2022/11/15/amid-ftx-fallout-crypto-custodian-bitgo-looks-to-raise-funds-at-a-12-billion-valuation/?sh=2d5120511ceb",
           "author": null,
           "description": "Amid FTX Fallout, Crypto Custodian BitGo Looks To Raise Funds At A $1.2 Billion Valuation",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/11/15/amid-ftx-fallout-crypto-custodian-bitgo-looks-to-raise-funds-at-a-12-billion-valuation/?sh=2d5120511ceb",
           "publishedOn": "2022-11-19T20:00:05.000Z",
-          "wordCount": 9270,
+          "wordCount": 9858,
           "title": "Amid FTX Fallout, Crypto Custodian BitGo Looks To Raise Funds At A $1.2 Billion Valuation",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6374281ba08fd8436fd1f0ea/0x0.jpg?format=jpg&width=1200"
         },
@@ -124,6 +124,16 @@
           "wordCount": 11293,
           "title": "Iconic ‘Captain Tsubasa’ Manga IP Is Coming to Polygon as a Web3 Game — Polygon | Blog",
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/11/Polygon_Thirdverse_Blocksmith.jpg"
+        },
+        {
+          "id": "https://babylonbee.com/news/twitter-is-dead-300-million-people-post-on-twitter",
+          "author": null,
+          "description": "‘Twitter Is Dead,’ 300 Million People Post On Twitter",
+          "link": "https://babylonbee.com/news/twitter-is-dead-300-million-people-post-on-twitter",
+          "publishedOn": "2022-11-19T19:30:04.000Z",
+          "wordCount": 621,
+          "title": "‘Twitter Is Dead,’ 300 Million People Post On Twitter",
+          "imageUrl": "https://media.babylonbee.com/articles/6377b7132634f6377b71326350.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=KX7tj3giizI&feature=youtu.be",
@@ -161,7 +171,7 @@
           "description": "'Nerdy' and 'highly intelligent,' Alameda's Caroline Ellison casts complex shadow",
           "link": "https://www.theblock.co/post/188535/nerdy-and-highly-intelligent-alamedas-caroline-ellison-casts-complex-shadow?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-19T17:00:03.000Z",
-          "wordCount": 60576,
+          "wordCount": 60881,
           "title": "'Nerdy' and 'highly intelligent,' Alameda's Caroline Ellison casts complex shadow",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Screen-Shot-2022-11-18-at-2.38.51-PM-947x675.png"
         },
@@ -171,7 +181,7 @@
           "description": "What Happened to FTX?",
           "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-bankruptcy-what-happened.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
           "publishedOn": "2022-11-19T15:30:06.000Z",
-          "wordCount": 28816,
+          "wordCount": 28828,
           "title": "What Happened to FTX?",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/ae0/86e/7bed66c9eab16442b11755232b7c64a8e2-NY-SBF-06.1x.rsocial.w1200.jpg"
         },
@@ -186,22 +196,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://hackmd.io/@vbuterin/proof_of_solvency",
-          "author": null,
-          "description": "Having a safe CEX: proof of solvency and beyond - HackMD",
-          "link": "https://hackmd.io/@vbuterin/proof_of_solvency",
-          "publishedOn": "2022-11-19T05:30:04.000Z",
-          "wordCount": 3761,
-          "title": "Having a safe CEX: proof of solvency and beyond - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
-        },
-        {
           "id": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
           "author": null,
           "description": "Crypto doesn't have a UX problem",
           "link": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
           "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 3031,
+          "wordCount": 2837,
           "title": "Crypto doesn't have a UX problem",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee307b5-3970-4b17-8922-8c69c643650d_1200x600.jpeg"
         }
