@@ -36,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
-          "author": null,
-          "description": "Steve Jobs' 2005 Stanford Commencement Address",
-          "link": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
-          "publishedOn": "2022-11-20T17:00:02.000Z",
-          "wordCount": null,
-          "title": "Steve Jobs' 2005 Stanford Commencement Address",
-          "imageUrl": null
-        },
-        {
           "id": "http://www.viridiandesign.org/notes/451-500/the_last_viridian_note.html",
           "author": null,
           "description": "The Last Viridian Note",
@@ -56,10 +46,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=i1zTp5d8QyI",
+          "id": "https://www.youtube.com/watch?app=desktop&v=i1zTp5d8QyI",
           "author": null,
           "description": "The Chopping Block LIVE!",
-          "link": "https://www.youtube.com/watch?v=i1zTp5d8QyI",
+          "link": "https://www.youtube.com/watch?app=desktop&v=i1zTp5d8QyI",
           "publishedOn": "2022-11-20T16:00:05.000Z",
           "wordCount": null,
           "title": "The Chopping Block LIVE!",
@@ -116,12 +106,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=-eohHwsplvY&feature=youtu.be",
+          "author": null,
+          "description": "LCD Soundsystem - New York, I Love You But You're Bringing Me Down",
+          "link": "https://www.youtube.com/watch?v=-eohHwsplvY&feature=youtu.be",
+          "publishedOn": "2022-11-20T15:00:04.000Z",
+          "wordCount": null,
+          "title": "LCD Soundsystem - New York, I Love You But You're Bringing Me Down",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Grayscale won’t share proof of reserves, citing ‘security concerns’",
           "link": "https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-20T14:30:02.000Z",
-          "wordCount": 58559,
+          "wordCount": 58550,
           "title": "Grayscale won’t share proof of reserves, citing ‘security concerns’",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/11/grayscale-logo-2-1200x675.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "What Happened to FTX?",
           "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-bankruptcy-what-happened.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
           "publishedOn": "2022-11-19T15:30:06.000Z",
-          "wordCount": 28828,
+          "wordCount": 28829,
           "title": "What Happened to FTX?",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/ae0/86e/7bed66c9eab16442b11755232b7c64a8e2-NY-SBF-06.1x.rsocial.w1200.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Crypto doesn't have a UX problem",
           "link": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
           "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 2837,
+          "wordCount": 3043,
           "title": "Crypto doesn't have a UX problem",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee307b5-3970-4b17-8922-8c69c643650d_1200x600.jpeg"
         }
