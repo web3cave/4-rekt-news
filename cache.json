@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/dont-make-taylor-swift-fans-angry",
+          "author": null,
+          "description": "Don't Make Taylor Swift Fans Angry | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/dont-make-taylor-swift-fans-angry",
+          "publishedOn": "2022-11-20T23:00:04.000Z",
+          "wordCount": 4182,
+          "title": "Don't Make Taylor Swift Fans Angry | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/what-we-know-about-jack-smith-special-counsel-appointed-trump-probes",
+          "author": null,
+          "description": "What We Know About Jack Smith, Special Counsel Appointed In Trump Probes | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/what-we-know-about-jack-smith-special-counsel-appointed-trump-probes",
+          "publishedOn": "2022-11-20T23:00:04.000Z",
+          "wordCount": 1212,
+          "title": "What We Know About Jack Smith, Special Counsel Appointed In Trump Probes | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/just-kidding-cbs-news-resumes-twitter-posts-after-40-hour-tantrum",
+          "author": null,
+          "description": "Just Kidding! CBS News Resumes Twitter Posts After 40-Hour Tantrum | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/just-kidding-cbs-news-resumes-twitter-posts-after-40-hour-tantrum",
+          "publishedOn": "2022-11-20T23:00:04.000Z",
+          "wordCount": 972,
+          "title": "Just Kidding! CBS News Resumes Twitter Posts After 40-Hour Tantrum | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/gakonst/ethers-rs/pull/1863",
+          "author": null,
+          "description": "I256 parse support by dbelv · Pull Request #1863 · gakonst/ethers-rs",
+          "link": "https://github.com/gakonst/ethers-rs/pull/1863",
+          "publishedOn": "2022-11-20T22:30:03.000Z",
+          "wordCount": 820,
+          "title": "I256 parse support by dbelv · Pull Request #1863 · gakonst/ethers-rs",
+          "imageUrl": "https://opengraph.githubassets.com/dd96278500702c2db29310aa0d69a48e4ecf427ae5a610639330c2bf29f0d07c/gakonst/ethers-rs/pull/1863"
+        },
+        {
+          "id": "https://delegate.cash/",
+          "author": null,
+          "description": "delegate.cash",
+          "link": "https://delegate.cash/",
+          "publishedOn": "2022-11-20T22:30:03.000Z",
+          "wordCount": 24,
+          "title": "delegate.cash",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/crypto/ftx-hacker-starts-dumping-massive-haul-ether-tokens",
           "author": null,
           "description": "FTX Hacker Starts Dumping Massive Haul Of Ether Tokens | ZeroHedge",
@@ -46,46 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/new-york-farmers-have-nowhere-sell-750-million-cannabis",
-          "author": null,
-          "description": "New York Farmers Have Nowhere To Sell $750 Million Worth Of Cannabis  | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/new-york-farmers-have-nowhere-sell-750-million-cannabis",
-          "publishedOn": "2022-11-20T21:00:03.000Z",
-          "wordCount": 993,
-          "title": "New York Farmers Have Nowhere To Sell $750 Million Worth Of Cannabis  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pwgh9hZkXUY",
-          "author": null,
-          "description": "The International (2009) - Can't Fight the Bank Scene (8/10) | Movieclips",
-          "link": "https://www.youtube.com/watch?v=pwgh9hZkXUY",
-          "publishedOn": "2022-11-20T21:00:03.000Z",
-          "wordCount": null,
-          "title": "The International (2009) - Can't Fight the Bank Scene (8/10) | Movieclips",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TJTDTyNdJdY&feature=youtu.be",
-          "author": null,
-          "description": "Rust Demystified 🪄 Simplifying The Toughest Parts",
-          "link": "https://www.youtube.com/watch?v=TJTDTyNdJdY&feature=youtu.be",
-          "publishedOn": "2022-11-20T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Rust Demystified 🪄 Simplifying The Toughest Parts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/tztokchad/straddles-hedge-sim/",
-          "author": null,
-          "description": "GitHub - tztokchad/straddles-hedge-sim: simulate hedging atlantic straddles with long puts",
-          "link": "https://github.com/tztokchad/straddles-hedge-sim/",
-          "publishedOn": "2022-11-20T21:00:03.000Z",
-          "wordCount": 550,
-          "title": "GitHub - tztokchad/straddles-hedge-sim: simulate hedging atlantic straddles with long puts",
-          "imageUrl": "https://opengraph.githubassets.com/8f5f53a2f1bc252fa7087bcfbd11847608f3e1f72a7320167877eed1f6e81ac1/tztokchad/straddles-hedge-sim"
-        },
-        {
           "id": "https://medium.com/renproject/moving-on-from-alameda-da62a823ce93",
           "author": null,
           "description": "Moving on from Alameda",
@@ -101,7 +111,7 @@
           "description": "‘Spoof’ Tokens on Ethereum",
           "link": "https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6",
           "publishedOn": "2022-11-20T19:30:05.000Z",
-          "wordCount": 2837,
+          "wordCount": 2906,
           "title": "‘Spoof’ Tokens on Ethereum",
           "imageUrl": "https://miro.medium.com/max/1080/1*RXlVHMo6jwRxl4nDE3TW4w.jpeg"
         },
@@ -164,16 +174,6 @@
           "wordCount": 2039,
           "title": "Gun Sales Skyrocket After Oregon Passes Measure Restricting Gun Rights | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3",
-          "author": null,
-          "description": "Yearn  CoW Swap",
-          "link": "https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3",
-          "publishedOn": "2022-11-20T01:00:02.000Z",
-          "wordCount": 3120,
-          "title": "Yearn <> CoW Swap",
-          "imageUrl": "https://miro.medium.com/max/662/1*8Zo8zwyEgAgZymEFMBO1UA.jpeg"
         },
         {
           "id": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-bankruptcy-what-happened.html?utm_medium=s1&utm_campaign=nym&utm_source=tw",
