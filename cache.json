@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v4bgdJLhY3o",
+          "author": null,
+          "description": "Tigerbob's Ethos | We Do A Little Clips",
+          "link": "https://www.youtube.com/watch?v=v4bgdJLhY3o",
+          "publishedOn": "2022-11-21T09:00:02.000Z",
+          "wordCount": null,
+          "title": "Tigerbob's Ethos | We Do A Little Clips",
+          "imageUrl": null
+        },
+        {
           "id": "https://makin-waves-in-cairo.netlify.app/",
           "author": null,
           "description": "Makin' Waves in Cairo",
@@ -33,7 +43,7 @@
           "publishedOn": "2022-11-21T05:30:05.000Z",
           "wordCount": 38748,
           "title": "Guide to success on TikTok",
-          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669622400&x-signature=MBZYYSWTgpSpacDdJ62gAvOh%2FnU%3D"
+          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669626000&x-signature=19RvgLWTA6RdH6uWasTR75MoVas%3D"
         },
         {
           "id": "https://www.youtube.com/watch?v=M4QUy02cQqY&feature=youtu.be",
@@ -51,7 +61,7 @@
           "description": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
           "link": "https://github.com/delegatable/delegatable-sol/pull/34",
           "publishedOn": "2022-11-21T05:00:02.000Z",
-          "wordCount": 1146,
+          "wordCount": 1148,
           "title": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
           "imageUrl": "https://opengraph.githubassets.com/f8af26f1d54b02993c38ec5e242d05a8e910f6601f6bed3d86e062d5b2d15c3c/delegatable/delegatable-sol/pull/34"
         },
@@ -63,7 +73,7 @@
           "publishedOn": "2022-11-21T03:00:02.000Z",
           "wordCount": 723,
           "title": "GitHub - gakonst/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test the...",
-          "imageUrl": "https://opengraph.githubassets.com/f39e10bb6c7ee52752d2bdb8a6b1d8a0cc999afa944ce85368e29362aa867662/gakonst/stress4844"
+          "imageUrl": "https://opengraph.githubassets.com/af262639f90fc50d323d4c2df9075e24140b964356df4a688d6314a36008dd74/gakonst/stress4844"
         },
         {
           "id": "https://podcasts.apple.com/us/podcast/on-the-tape/id1545205930",
@@ -136,14 +146,14 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*fW0BqAzcrUF5nN-Le3rv4w.png"
         },
         {
-          "id": "https://hackmd.io/@vbuterin/proof_of_solvency",
+          "id": "https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6",
           "author": null,
-          "description": "Having a safe CEX: proof of solvency and beyond - HackMD",
-          "link": "https://hackmd.io/@vbuterin/proof_of_solvency",
-          "publishedOn": "2022-11-20T18:00:05.000Z",
-          "wordCount": 3761,
-          "title": "Having a safe CEX: proof of solvency and beyond - HackMD",
-          "imageUrl": "https://avatars.githubusercontent.com/u/2230894?s=400"
+          "description": "‘Spoof’ Tokens on Ethereum",
+          "link": "https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6",
+          "publishedOn": "2022-11-20T19:30:05.000Z",
+          "wordCount": 2906,
+          "title": "‘Spoof’ Tokens on Ethereum",
+          "imageUrl": "https://miro.medium.com/max/1080/1*RXlVHMo6jwRxl4nDE3TW4w.jpeg"
         },
         {
           "id": "https://crypto.com/",
@@ -194,16 +204,6 @@
           "wordCount": 3595,
           "title": "Having a safe CEX: proof of solvency and beyond",
           "imageUrl": null
-        },
-        {
-          "id": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
-          "author": null,
-          "description": "Crypto doesn't have a UX problem",
-          "link": "https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem",
-          "publishedOn": "2022-11-18T21:00:03.000Z",
-          "wordCount": 2837,
-          "title": "Crypto doesn't have a UX problem",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ee307b5-3970-4b17-8922-8c69c643650d_1200x600.jpeg"
         }
       ]
     }

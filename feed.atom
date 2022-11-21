@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T08:28:22.580Z</id>
+    <id>urn:2022-11-21T09:21:55.925Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T08:28:22.580Z</updated>
+    <updated>2022-11-21T09:21:55.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tigerbob's Ethos | We Do A Little Clips]]></title>
+        <id>https://www.youtube.com/watch?v=v4bgdJLhY3o</id>
+        <link href="https://www.youtube.com/watch?v=v4bgdJLhY3o"/>
+        <updated>2022-11-21T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Tigerbob's Ethos | We Do A Little Clips]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makin' Waves in Cairo]]></title>
         <id>https://makin-waves-in-cairo.netlify.app/</id>
@@ -136,11 +146,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Having a safe CEX: proof of solvency and beyond - HackMD]]></title>
-        <id>https://hackmd.io/@vbuterin/proof_of_solvency</id>
-        <link href="https://hackmd.io/@vbuterin/proof_of_solvency"/>
-        <updated>2022-11-20T18:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Having a safe CEX: proof of solvency and beyond - HackMD]]></summary>
+        <title type="html"><![CDATA[‘Spoof’ Tokens on Ethereum]]></title>
+        <id>https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6</id>
+        <link href="https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6"/>
+        <updated>2022-11-20T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[‘Spoof’ Tokens on Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://vitalik.ca/general/2022/11/19/proof_of_solvency.html"/>
         <updated>2022-11-19T12:00:05.000Z</updated>
         <summary type="html"><![CDATA[Having a safe CEX: proof of solvency and beyond]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto doesn't have a UX problem]]></title>
-        <id>https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem</id>
-        <link href="https://mhonkasalo.substack.com/p/crypto-doesnt-have-a-ux-problem"/>
-        <updated>2022-11-18T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Crypto doesn't have a UX problem]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
