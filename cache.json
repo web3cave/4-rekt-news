@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://zk.money/",
+          "author": null,
+          "description": "zk.money",
+          "link": "https://zk.money/",
+          "publishedOn": "2022-11-21T05:00:03.000Z",
+          "wordCount": 10,
+          "title": "zk.money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BlS2sPioEEI&feature=youtu.be",
+          "author": null,
+          "description": "How does Decentralized Finance differ from Centralized Finance?",
+          "link": "https://www.youtube.com/watch?v=BlS2sPioEEI&feature=youtu.be",
+          "publishedOn": "2022-11-21T05:00:03.000Z",
+          "wordCount": null,
+          "title": "How does Decentralized Finance differ from Centralized Finance?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/delegatable/delegatable-sol/pull/34",
+          "author": null,
+          "description": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
+          "link": "https://github.com/delegatable/delegatable-sol/pull/34",
+          "publishedOn": "2022-11-21T05:00:02.000Z",
+          "wordCount": 1135,
+          "title": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
+          "imageUrl": "https://opengraph.githubassets.com/f8af26f1d54b02993c38ec5e242d05a8e910f6601f6bed3d86e062d5b2d15c3c/delegatable/delegatable-sol/pull/34"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/no-normal",
+          "author": null,
+          "description": "The No Normal | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/no-normal",
+          "publishedOn": "2022-11-21T03:30:04.000Z",
+          "wordCount": 1270,
+          "title": "The No Normal | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/gakonst/stress4844",
           "author": null,
           "description": "GitHub - gakonst/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test the...",
@@ -13,7 +53,7 @@
           "publishedOn": "2022-11-21T03:00:02.000Z",
           "wordCount": 723,
           "title": "GitHub - gakonst/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test the...",
-          "imageUrl": "https://opengraph.githubassets.com/9178430f8927286ebef3d1b18651e77d5987a577c595e4fecb6ccff7cc1fee10/gakonst/stress4844"
+          "imageUrl": "https://opengraph.githubassets.com/1e61606062e3321c30d9f2a71934f24476ac84170b9b4111b69875763c808c45/gakonst/stress4844"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/trump-era-treasury-secretary-calls-g7-russian-oil-price-cap-ridiculous",
@@ -23,36 +63,6 @@
           "publishedOn": "2022-11-21T03:00:02.000Z",
           "wordCount": 2069,
           "title": "Trump-Era Treasury Secretary Calls G7 Russian Oil Price Cap \"Ridiculous\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scmp.com/news/hong-kong/politics/article/3200340/coronavirus-hong-kong-leader-john-lee-tests-positive-covid-after-returning-thailand-trip?utm_content=article&utm_medium=Social&utm_source=Twitter#Echobox=1668992213-1",
-          "author": null,
-          "description": "Hong Kong leader tests positive for Covid after returning from Apec trip",
-          "link": "https://www.scmp.com/news/hong-kong/politics/article/3200340/coronavirus-hong-kong-leader-john-lee-tests-positive-covid-after-returning-thailand-trip?utm_content=article&utm_medium=Social&utm_source=Twitter#Echobox=1668992213-1",
-          "publishedOn": "2022-11-21T03:00:02.000Z",
-          "wordCount": 4586,
-          "title": "Hong Kong leader tests positive for Covid after returning from Apec trip",
-          "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/11/21/21aeb666-4027-4d64-8a1b-9b11f8a4acaa_96b1f44b.jpg?itok=AacirfLJ&v=1668990758"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/you-cant-put-it-back-together-jim-rickards-warns-unstoppable-crisis-worse-2008",
-          "author": null,
-          "description": "\"You Can't Put It Back Together\" - Jim Rickards Warns Of 'Unstoppable Crisis Worse Than 2008' | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/you-cant-put-it-back-together-jim-rickards-warns-unstoppable-crisis-worse-2008",
-          "publishedOn": "2022-11-21T03:00:02.000Z",
-          "wordCount": 1560,
-          "title": "\"You Can't Put It Back Together\" - Jim Rickards Warns Of 'Unstoppable Crisis Worse Than 2008' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/whats-behind-explosion-0dte-option-trading",
-          "author": null,
-          "description": "What's Behind The Explosion In 0DTE Option Trading | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/whats-behind-explosion-0dte-option-trading",
-          "publishedOn": "2022-11-21T03:00:02.000Z",
-          "wordCount": 2850,
-          "title": "What's Behind The Explosion In 0DTE Option Trading | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -71,7 +81,7 @@
           "description": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "link": "https://mashable.com/article/helium-lime-web3-crypto",
           "publishedOn": "2022-11-21T02:00:05.000Z",
-          "wordCount": 3677,
+          "wordCount": 3678,
           "title": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "imageUrl": "https://helios-i.mashable.com/imagery/articles/07LM7Ed0NaJRuamPcpULjgw/hero-image.fill.size_1200x675.v1659114052.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "link": "https://www.fool.com/investing/2022/11/20/the-implosion-of-ftx-is-not-good-news-for-coinbase/",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 4002,
+          "wordCount": 4000,
           "title": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "imageUrl": "https://g.foolcdn.com/editorial/images/710091/bitcoin-bomb-cryptocurrency-blowing-up.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "link": "https://nypost.com/2022/11/20/ftxs-ex-chief-regulatory-officer-tied-to-online-poker-scandal/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 20922,
+          "wordCount": 20923,
           "title": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/Dan-Friedberg-ftx-comp.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://github.com/python/mypy/issues/1655",
-          "author": null,
-          "description": "Suggest using Protocol when user tries to use keyword args with Callable · Issue #1655 · python/mypy",
-          "link": "https://github.com/python/mypy/issues/1655",
-          "publishedOn": "2022-11-21T00:00:05.000Z",
-          "wordCount": 1513,
-          "title": "Suggest using Protocol when user tries to use keyword args with Callable · Issue #1655 · python/mypy",
-          "imageUrl": "https://opengraph.githubassets.com/e3a836605a087726cbf07c7c2986f0f4fa63391c90af331d836d3493b32ca0ad/python/mypy/issues/1655"
         },
         {
           "id": "https://www.zerohedge.com/markets/ftx-reveals-top-50-creditors-are-owed-31-billion-seeks-keep-their-names-confidential",
@@ -121,7 +121,7 @@
           "description": "Moving on from Alameda",
           "link": "https://medium.com/renproject/moving-on-from-alameda-da62a823ce93",
           "publishedOn": "2022-11-20T19:30:05.000Z",
-          "wordCount": 2876,
+          "wordCount": 2838,
           "title": "Moving on from Alameda",
           "imageUrl": "https://miro.medium.com/max/1200/1*fW0BqAzcrUF5nN-Le3rv4w.png"
         },
