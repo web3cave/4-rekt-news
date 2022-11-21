@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/military/pentagon-has-no-idea-how-much-military-equipment-it-actually-left-behind-afghanistan",
+          "author": null,
+          "description": "The Pentagon Has No Idea How Much Military Equipment It Actually Left Behind In Afghanistan | ZeroHedge",
+          "link": "https://www.zerohedge.com/military/pentagon-has-no-idea-how-much-military-equipment-it-actually-left-behind-afghanistan",
+          "publishedOn": "2022-11-21T11:00:02.000Z",
+          "wordCount": 1584,
+          "title": "The Pentagon Has No Idea How Much Military Equipment It Actually Left Behind In Afghanistan | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cointelegraph.com/news/a-cex-like-dex-an-interview-with-polkadex-ceo-gautham-j/amp",
+          "author": null,
+          "description": "A CEX-like DEX: an Interview with Polkadex CEO Gautham J",
+          "link": "https://cointelegraph.com/news/a-cex-like-dex-an-interview-with-polkadex-ceo-gautham-j/amp",
+          "publishedOn": "2022-11-21T11:00:02.000Z",
+          "wordCount": 2385,
+          "title": "A CEX-like DEX: an Interview with Polkadex CEO Gautham J",
+          "imageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjFjMzEwMzJhOTI5ZTAwOGM2OTRlNmI3MDBmN2NiOS5qcGc=.jpg"
+        },
+        {
+          "id": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
+          "author": null,
+          "description": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
+          "link": "https://medium.com/1kxnetwork/wallets-91c7c3457578",
+          "publishedOn": "2022-11-21T11:00:02.000Z",
+          "wordCount": 7699,
+          "title": "Seedless Self-Custody: On MPC and Smart Contract Wallets",
+          "imageUrl": "https://miro.medium.com/max/1200/1*npXrGzK-8CBWCu77xeHqzA.png"
+        },
+        {
           "id": "https://www.lopp.net/bitcoin-information.html",
           "author": null,
           "description": "Jameson Lopp's Bitcoin Resources",
@@ -14,16 +44,6 @@
           "wordCount": 1520,
           "title": "Jameson Lopp's Bitcoin Resources",
           "imageUrl": "https://www.lopp.net/images/avatar.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v4bgdJLhY3o",
-          "author": null,
-          "description": "Tigerbob's Ethos | We Do A Little Clips",
-          "link": "https://www.youtube.com/watch?v=v4bgdJLhY3o",
-          "publishedOn": "2022-11-21T09:00:02.000Z",
-          "wordCount": null,
-          "title": "Tigerbob's Ethos | We Do A Little Clips",
-          "imageUrl": null
         },
         {
           "id": "https://makin-waves-in-cairo.netlify.app/",
@@ -36,34 +56,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=tChudJbooo4&feature=youtu.be",
-          "author": null,
-          "description": "Chris Pratt - Super Mario Remake - FIRST LOOK Gameplay",
-          "link": "https://www.youtube.com/watch?v=tChudJbooo4&feature=youtu.be",
-          "publishedOn": "2022-11-21T07:00:03.000Z",
-          "wordCount": null,
-          "title": "Chris Pratt - Super Mario Remake - FIRST LOOK Gameplay",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.tiktok.com/@success.speaking/video/7167305955540012294?_t=8XWbwpUGtLy&_r=1",
           "author": null,
           "description": "Guide to success on TikTok",
           "link": "https://www.tiktok.com/@success.speaking/video/7167305955540012294?_t=8XWbwpUGtLy&_r=1",
           "publishedOn": "2022-11-21T05:30:05.000Z",
-          "wordCount": 38791,
+          "wordCount": 38722,
           "title": "Guide to success on TikTok",
-          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669629600&x-signature=d2YSNIpN%2FsalWV%2Bfs25qEL1PfAY%3D"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M4QUy02cQqY&feature=youtu.be",
-          "author": null,
-          "description": "Remaking The Simpsons Hit and Run, But its Open World #1",
-          "link": "https://www.youtube.com/watch?v=M4QUy02cQqY&feature=youtu.be",
-          "publishedOn": "2022-11-21T05:30:05.000Z",
-          "wordCount": null,
-          "title": "Remaking The Simpsons Hit and Run, But its Open World #1",
-          "imageUrl": null
+          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669633200&x-signature=p1Rv0CgZWYx4BccfCfDab5f%2B%2BxY%3D"
         },
         {
           "id": "https://github.com/delegatable/delegatable-sol/pull/34",
@@ -83,7 +83,7 @@
           "publishedOn": "2022-11-21T03:00:02.000Z",
           "wordCount": 723,
           "title": "GitHub - gakonst/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test the...",
-          "imageUrl": "https://opengraph.githubassets.com/a39dd83e3c8ecb16c16ba31c0f9671b56b6e046a65b46eb64e9ad162b7455b54/gakonst/stress4844"
+          "imageUrl": "https://opengraph.githubassets.com/73e4b3d25be8f3d3c0a0bffd97b49be5b7bb4a6d67532d3ef53924f841d708d9/gakonst/stress4844"
         },
         {
           "id": "https://podcasts.apple.com/us/podcast/on-the-tape/id1545205930",
@@ -111,7 +111,7 @@
           "description": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "link": "https://www.fool.com/investing/2022/11/20/the-implosion-of-ftx-is-not-good-news-for-coinbase/",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 4007,
+          "wordCount": 3870,
           "title": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "imageUrl": "https://g.foolcdn.com/editorial/images/710091/bitcoin-bomb-cryptocurrency-blowing-up.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "link": "https://nypost.com/2022/11/20/ftxs-ex-chief-regulatory-officer-tied-to-online-poker-scandal/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 20411,
+          "wordCount": 19536,
           "title": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/Dan-Friedberg-ftx-comp.jpg?quality=75&strip=all&w=1024"
         },
@@ -191,7 +191,7 @@
           "description": "Grayscale won’t share proof of reserves, citing ‘security concerns’",
           "link": "https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-20T14:30:02.000Z",
-          "wordCount": 58986,
+          "wordCount": 58767,
           "title": "Grayscale won’t share proof of reserves, citing ‘security concerns’",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/11/grayscale-logo-2-1200x675.jpg"
         },
