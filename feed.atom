@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-21T06:28:44.752Z</id>
+    <id>urn:2022-11-21T07:20:02.862Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-21T06:28:44.752Z</updated>
+    <updated>2022-11-21T07:20:02.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chris Pratt - Super Mario Remake - FIRST LOOK Gameplay]]></title>
+        <id>https://www.youtube.com/watch?v=tChudJbooo4&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=tChudJbooo4&amp;feature=youtu.be"/>
+        <updated>2022-11-21T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Chris Pratt - Super Mario Remake - FIRST LOOK Gameplay]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guide to success on TikTok]]></title>
         <id>https://www.tiktok.com/@success.speaking/video/7167305955540012294?_t=8XWbwpUGtLy&amp;_r=1</id>
@@ -21,26 +31,6 @@
         <link href="https://www.youtube.com/watch?v=M4QUy02cQqY&amp;feature=youtu.be"/>
         <updated>2022-11-21T05:30:05.000Z</updated>
         <summary type="html"><![CDATA[Remaking The Simpsons Hit and Run, But its Open World #1]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zk.money]]></title>
-        <id>https://zk.money/</id>
-        <link href="https://zk.money/"/>
-        <updated>2022-11-21T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[zk.money]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does Decentralized Finance differ from Centralized Finance?]]></title>
-        <id>https://www.youtube.com/watch?v=BlS2sPioEEI&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=BlS2sPioEEI&amp;feature=youtu.be"/>
-        <updated>2022-11-21T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[How does Decentralized Finance differ from Centralized Finance?]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -131,6 +121,16 @@
         <link href="https://medium.com/renproject/moving-on-from-alameda-da62a823ce93"/>
         <updated>2022-11-20T19:30:05.000Z</updated>
         <summary type="html"><![CDATA[Moving on from Alameda]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Spoof’ Tokens on Ethereum]]></title>
+        <id>https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6</id>
+        <link href="https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6"/>
+        <updated>2022-11-20T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[‘Spoof’ Tokens on Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
