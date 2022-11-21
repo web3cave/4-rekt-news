@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M_qDEomjr08",
+          "author": null,
+          "description": "How to Optimize Your Body’s Hormones | Saad Alam",
+          "link": "https://www.youtube.com/watch?v=M_qDEomjr08",
+          "publishedOn": "2022-11-21T22:00:05.000Z",
+          "wordCount": null,
+          "title": "How to Optimize Your Body’s Hormones | Saad Alam",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AhxVcAvAhQ0&t=1215s",
           "author": null,
           "description": "EigenLayer with Sreeram Kannan",
@@ -31,19 +41,9 @@
           "description": "The SagaCoin Supply Mechanism",
           "link": "https://prasaga-ceo.medium.com/the-sagacoin-supply-mechanism-14fbe55a7b6f",
           "publishedOn": "2022-11-21T19:30:04.000Z",
-          "wordCount": 2178,
+          "wordCount": 1844,
           "title": "The SagaCoin Supply Mechanism",
           "imageUrl": "https://miro.medium.com/max/1200/1*E3q4gTwfw3kgBKyhvei45A.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/188811/grayscales-gbtc-discount-to-nav-hits-record-low",
-          "author": null,
-          "description": "Grayscale's GBTC discount to NAV hits record low",
-          "link": "https://www.theblock.co/post/188811/grayscales-gbtc-discount-to-nav-hits-record-low",
-          "publishedOn": "2022-11-21T19:30:04.000Z",
-          "wordCount": 58780,
-          "title": "Grayscale's GBTC discount to NAV hits record low",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/11/grayscale-logo-2-1200x675.jpg"
         },
         {
           "id": "https://www.lopp.net/bitcoin-information.html",
@@ -56,34 +56,24 @@
           "imageUrl": "https://www.lopp.net/images/avatar.jpg"
         },
         {
-          "id": "https://steth.win/",
-          "author": null,
-          "description": "Stake Eth Win",
-          "link": "https://steth.win/",
-          "publishedOn": "2022-11-21T18:00:04.000Z",
-          "wordCount": 62,
-          "title": "Stake Eth Win",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pooltogethercommunity.substack.com/p/newsletter36",
-          "author": null,
-          "description": "PoolTogether Community Newsletter #36",
-          "link": "https://pooltogethercommunity.substack.com/p/newsletter36",
-          "publishedOn": "2022-11-21T18:00:04.000Z",
-          "wordCount": 4904,
-          "title": "PoolTogether Community Newsletter #36",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f2af8a2-5edd-4d83-8a91-364ac213dd11_2000x1125.png"
-        },
-        {
           "id": "https://www.wsj.com/articles/saudi-arabia-eyes-opec-production-increase-ahead-of-embargo-price-cap-on-russian-oil-11669040336",
           "author": null,
           "description": "WSJ News Exclusive | Saudi Arabia Eyes OPEC+ Output Increase Ahead of Restrictions on Russian Oil",
           "link": "https://www.wsj.com/articles/saudi-arabia-eyes-opec-production-increase-ahead-of-embargo-price-cap-on-russian-oil-11669040336",
           "publishedOn": "2022-11-21T18:00:04.000Z",
-          "wordCount": 8146,
+          "wordCount": 6949,
           "title": "WSJ News Exclusive | Saudi Arabia Eyes OPEC+ Output Increase Ahead of Restrictions on Russian Oil",
           "imageUrl": "https://images.wsj.net/im-670697/social"
+        },
+        {
+          "id": "https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-for-rwa-007-a-monetalis-clydesdale-enable-reth-a-dc-iam-housekeeping-changes-november-16-2022",
+          "author": null,
+          "description": "Governance Portal",
+          "link": "https://vote.makerdao.com/executive/template-executive-vote-parameter-changes-for-rwa-007-a-monetalis-clydesdale-enable-reth-a-dc-iam-housekeeping-changes-november-16-2022",
+          "publishedOn": "2022-11-21T17:00:02.000Z",
+          "wordCount": 2862,
+          "title": "Governance Portal",
+          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/188724/uniswaps-new-privacy-policy-says-it-collects-data-tied-to-user-wallets?utm_source=telegram1&utm_medium=social",
@@ -91,7 +81,7 @@
           "description": "Uniswap's new privacy policy says it collects data tied to user wallets",
           "link": "https://www.theblock.co/post/188724/uniswaps-new-privacy-policy-says-it-collects-data-tied-to-user-wallets?utm_source=telegram1&utm_medium=social",
           "publishedOn": "2022-11-21T13:30:05.000Z",
-          "wordCount": 58930,
+          "wordCount": 58799,
           "title": "Uniswap's new privacy policy says it collects data tied to user wallets",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-1200x675.jpg"
         },
@@ -104,6 +94,16 @@
           "wordCount": 1584,
           "title": "The Pentagon Has No Idea How Much Military Equipment It Actually Left Behind In Afghanistan | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://cointelegraph.com/news/a-cex-like-dex-an-interview-with-polkadex-ceo-gautham-j/amp",
+          "author": null,
+          "description": "A CEX-like DEX: an Interview with Polkadex CEO Gautham J",
+          "link": "https://cointelegraph.com/news/a-cex-like-dex-an-interview-with-polkadex-ceo-gautham-j/amp",
+          "publishedOn": "2022-11-21T11:00:02.000Z",
+          "wordCount": 2377,
+          "title": "A CEX-like DEX: an Interview with Polkadex CEO Gautham J",
+          "imageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMjFjMzEwMzJhOTI5ZTAwOGM2OTRlNmI3MDBmN2NiOS5qcGc=.jpg"
         },
         {
           "id": "https://makin-waves-in-cairo.netlify.app/",
@@ -121,9 +121,19 @@
           "description": "Guide to success on TikTok",
           "link": "https://www.tiktok.com/@success.speaking/video/7167305955540012294?_t=8XWbwpUGtLy&_r=1",
           "publishedOn": "2022-11-21T05:30:05.000Z",
-          "wordCount": 38722,
+          "wordCount": 38793,
           "title": "Guide to success on TikTok",
-          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669669200&x-signature=%2F%2F8HnDAP%2BBgx2dMX%2FsmXirvGzw8%3D"
+          "imageUrl": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/9d707cf53a0049a08435368847fba57c_1668768472~tplv-tiktok-play.jpeg?x-expires=1669672800&x-signature=PMAzpATn9Mrxysq%2FpV4s1DZCU7c%3D"
+        },
+        {
+          "id": "https://github.com/delegatable/delegatable-sol/pull/34",
+          "author": null,
+          "description": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
+          "link": "https://github.com/delegatable/delegatable-sol/pull/34",
+          "publishedOn": "2022-11-21T05:00:02.000Z",
+          "wordCount": 1280,
+          "title": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
+          "imageUrl": "https://opengraph.githubassets.com/7124b16cb99fc6767b58f8355de62f9ac2e63861bdaa0f2188863aafa81be72e/delegatable/delegatable-sol/pull/34"
         },
         {
           "id": "https://github.com/gakonst/stress4844",
@@ -141,7 +151,7 @@
           "description": "‎On The Tape on Apple Podcasts",
           "link": "https://podcasts.apple.com/us/podcast/on-the-tape/id1545205930",
           "publishedOn": "2022-11-21T02:30:01.000Z",
-          "wordCount": 8450,
+          "wordCount": 8431,
           "title": "‎On The Tape on Apple Podcasts",
           "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts122/v4/72/41/9c/72419cc7-9053-53e2-c639-195eb22d763f/mza_11662900909325284884.jpeg/1200x630wp.png"
         },
@@ -151,7 +161,7 @@
           "description": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "link": "https://mashable.com/article/helium-lime-web3-crypto",
           "publishedOn": "2022-11-21T02:00:05.000Z",
-          "wordCount": 3692,
+          "wordCount": 3706,
           "title": "Web3 darling Helium has bragged about Lime being a client for years. Lime says it isn't true.",
           "imageUrl": "https://helios-i.mashable.com/imagery/articles/07LM7Ed0NaJRuamPcpULjgw/hero-image.fill.size_1200x675.v1659114052.jpg"
         },
@@ -161,7 +171,7 @@
           "description": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "link": "https://www.fool.com/investing/2022/11/20/the-implosion-of-ftx-is-not-good-news-for-coinbase/",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 3864,
+          "wordCount": 3996,
           "title": "The Implosion of FTX Is Not Good News for Coinbase | The Motley Fool",
           "imageUrl": "https://g.foolcdn.com/editorial/images/710091/bitcoin-bomb-cryptocurrency-blowing-up.jpg"
         },
@@ -171,19 +181,9 @@
           "description": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "link": "https://nypost.com/2022/11/20/ftxs-ex-chief-regulatory-officer-tied-to-online-poker-scandal/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "publishedOn": "2022-11-21T01:00:02.000Z",
-          "wordCount": 20016,
+          "wordCount": 21154,
           "title": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/Dan-Friedberg-ftx-comp.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://dergigi.com/2022/11/19/dear-crypto-fiat-bros/",
-          "author": null,
-          "description": "Dear Crypto & Fiat Bros - The Price of Freedom Is Responsibility | dergigi.com",
-          "link": "https://dergigi.com/2022/11/19/dear-crypto-fiat-bros/",
-          "publishedOn": "2022-11-20T23:00:04.000Z",
-          "wordCount": 3880,
-          "title": "Dear Crypto & Fiat Bros - The Price of Freedom Is Responsibility | dergigi.com",
-          "imageUrl": "https://dergigi.com/assets/images/crypto-bros.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=i1zTp5d8QyI",
