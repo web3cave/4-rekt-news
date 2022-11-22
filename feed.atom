@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T03:15:03.502Z</id>
+    <id>urn:2022-11-22T04:26:38.564Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T03:15:03.502Z</updated>
+    <updated>2022-11-22T04:26:38.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Having a safe CEX: proof of solvency and beyond]]></title>
+        <id>https://vitalik.ca/general/2022/11/19/proof_of_solvency.html</id>
+        <link href="https://vitalik.ca/general/2022/11/19/proof_of_solvency.html"/>
+        <updated>2022-11-22T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Having a safe CEX: proof of solvency and beyond]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Lender Genesis Asks Binance and Apollo for Cash]]></title>
         <id>https://www.wsj.com/articles/crypto-lender-genesis-asks-binance-and-apollo-for-cash-11669075159</id>
@@ -171,16 +181,6 @@
         <link href="https://makin-waves-in-cairo.netlify.app/"/>
         <updated>2022-11-21T08:00:04.000Z</updated>
         <summary type="html"><![CDATA[Makin' Waves in Cairo]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol]]></title>
-        <id>https://github.com/delegatable/delegatable-sol/pull/34</id>
-        <link href="https://github.com/delegatable/delegatable-sol/pull/34"/>
-        <updated>2022-11-21T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
