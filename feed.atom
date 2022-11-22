@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-22T06:27:23.059Z</id>
+    <id>urn:2022-11-22T07:20:28.117Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-22T06:27:23.059Z</updated>
+    <updated>2022-11-22T07:20:28.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Volmex Volatility Token v2 / AMM is live!]]></title>
+        <id>https://blog.volmex.finance/introducing-volatility-token-v2-amm/</id>
+        <link href="https://blog.volmex.finance/introducing-volatility-token-v2-amm/"/>
+        <updated>2022-11-21T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Volmex Volatility Token v2 / AMM is live!]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flashbots builder open-sourced, Synthetix v3 update - The Daily Gwei Refuel #491 - Ethereum Updates]]></title>
         <id>https://www.youtube.com/watch?v=JiI_Kuh9tGk&amp;feature=youtu.be</id>
         <link href="https://www.youtube.com/watch?v=JiI_Kuh9tGk&amp;feature=youtu.be"/>
@@ -181,16 +191,6 @@
         <link href="https://medium.com/1kxnetwork/wallets-91c7c3457578"/>
         <updated>2022-11-21T11:00:02.000Z</updated>
         <summary type="html"><![CDATA[Seedless Self-Custody: On MPC and Smart Contract Wallets]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makin' Waves in Cairo]]></title>
-        <id>https://makin-waves-in-cairo.netlify.app/</id>
-        <link href="https://makin-waves-in-cairo.netlify.app/"/>
-        <updated>2022-11-21T08:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Makin' Waves in Cairo]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
