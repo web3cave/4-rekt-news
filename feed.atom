@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T09:19:54.494Z</id>
+    <id>urn:2022-11-23T10:22:24.856Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-23T09:19:54.494Z</updated>
+    <updated>2022-11-23T10:22:24.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ronin: Saigon Testnet]]></title>
+        <id>https://roninblockchain.substack.com/p/saigon</id>
+        <link href="https://roninblockchain.substack.com/p/saigon"/>
+        <updated>2022-11-23T09:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Ronin: Saigon Testnet]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Nearing Deal For Michael Lewis’ Book Rights On Wild Story Of Fallen Crypto King Sam Bankman-Fried & FTX: The Dish]]></title>
         <id>https://deadline.com/2022/11/apple-deal-michael-lewis-book-crypto-king-sam-bankman-fried-ftx-1235180511/</id>
@@ -86,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>https://nodeguardians.io/</id>
+        <link href="https://nodeguardians.io/"/>
+        <updated>2022-11-22T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Home]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[PDF] Q32022-Shareholder-Letter.pdf]]></title>
         <id>https://s27.q4cdn.com/397450999/files/doc_financials/2022/q3/Q32022-Shareholder-Letter.pdf</id>
         <link href="https://s27.q4cdn.com/397450999/files/doc_financials/2022/q3/Q32022-Shareholder-Letter.pdf"/>
@@ -121,16 +141,6 @@
         <link href="https://github.com/curvefi/curve-stablecoin"/>
         <updated>2022-11-22T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - curvefi/curve-stablecoin: Stablecoin powered by LLAMMAs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm MultiFaucet | Bootstrap your testnet wallet]]></title>
-        <id>https://faucet.paradigm.xyz/</id>
-        <link href="https://faucet.paradigm.xyz/"/>
-        <updated>2022-11-22T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Paradigm MultiFaucet | Bootstrap your testnet wallet]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://www.businessinsider.com/crypto-news-coindesk-block-decrypt-sam-bankman-fried-ftx-2022-11"/>
         <updated>2022-11-22T14:30:02.000Z</updated>
         <summary type="html"><![CDATA[The story of Sam Bankman-Fried's FTX implosion put crypto news sites like CoinDesk and The Block on the map. Inside...]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV Watch]]></title>
-        <id>https://www.mevwatch.info/</id>
-        <link href="https://www.mevwatch.info/"/>
-        <updated>2022-11-22T07:30:04.000Z</updated>
-        <summary type="html"><![CDATA[MEV Watch]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
