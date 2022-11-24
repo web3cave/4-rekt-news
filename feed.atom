@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T05:18:17.080Z</id>
+    <id>urn:2022-11-24T06:25:04.593Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T05:18:17.080Z</updated>
+    <updated>2022-11-24T06:25:04.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://github.com/a16z/helios"/>
         <updated>2022-11-24T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Diffusion 2.0 Release — Stability.Ai]]></title>
+        <id>https://stability.ai/blog/stable-diffusion-v2-release</id>
+        <link href="https://stability.ai/blog/stable-diffusion-v2-release"/>
+        <updated>2022-11-24T04:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Stable Diffusion 2.0 Release — Stability.Ai]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves"/>
         <updated>2022-11-23T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[Proving Your Bitcoin Reserves]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CICERO: An AI agent that negotiates, persuades, and cooperates with people]]></title>
-        <id>https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_campaign=cicero&amp;utm_content=video</id>
-        <link href="https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_campaign=cicero&amp;utm_content=video"/>
-        <updated>2022-11-22T21:30:40.000Z</updated>
-        <summary type="html"><![CDATA[CICERO: An AI agent that negotiates, persuades, and cooperates with people]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
