@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/flashbots/builder/issues/6",
+          "author": null,
+          "description": "Fast state revert for single-tx bundles · Issue #6 · flashbots/builder",
+          "link": "https://github.com/flashbots/builder/issues/6",
+          "publishedOn": "2022-11-24T08:30:11.000Z",
+          "wordCount": 503,
+          "title": "Fast state revert for single-tx bundles · Issue #6 · flashbots/builder",
+          "imageUrl": "https://opengraph.githubassets.com/dcceb48c0f8a25b4a1b57fff3a19e2dc9ab7afa52affc37224a581a4c2e614af/flashbots/builder/issues/6"
+        },
+        {
+          "id": "https://github.com/flashbots/builder/pull/5",
+          "author": null,
+          "description": "Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder",
+          "link": "https://github.com/flashbots/builder/pull/5",
+          "publishedOn": "2022-11-24T08:00:07.000Z",
+          "wordCount": 807,
+          "title": "Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder",
+          "imageUrl": "https://opengraph.githubassets.com/c959597884e585b3a528f923f0f5cf30dad71d73d4dac78fc94270ea13ce0de0/flashbots/builder/pull/5"
+        },
+        {
           "id": "https://frame.sh/",
           "author": null,
           "description": "Frame",
@@ -31,7 +51,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1041,
+          "wordCount": 871,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/bc2d9b0da4f60c22399a54105fcde60df368404f4e417ed52dcd7e4dc6971b8b/ethereum/hive"
         },
@@ -41,9 +61,9 @@
           "description": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "link": "https://github.com/ethereum/execution-specs/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1091,
+          "wordCount": 935,
           "title": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
-          "imageUrl": "https://opengraph.githubassets.com/19b3e45f4ed3772bf2414149d7e338510e475bcc9b45d18baf64d7f5f2bfe26a/ethereum/execution-specs"
+          "imageUrl": "https://opengraph.githubassets.com/f807a6c062c0cd2ea79b2830aa766d66900f6c9fe2e27a60e8481e8f03262175/ethereum/execution-specs"
         },
         {
           "id": "https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html",
@@ -54,6 +74,16 @@
           "wordCount": 796,
           "title": "M Group Handles FTXs SkyBridge Deal",
           "imageUrl": "http://www.odwyerpr.com/site_images/20220909121142_090922ftx-for-social-media.jpg"
+        },
+        {
+          "id": "https://github.com/a16z/helios",
+          "author": null,
+          "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
+          "link": "https://github.com/a16z/helios",
+          "publishedOn": "2022-11-24T05:00:02.000Z",
+          "wordCount": 1274,
+          "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/fd80076544e81f54cca4e650ce55d21e13d2dfc7bdfc553a16f1e0a71a55d793/a16z/helios"
         },
         {
           "id": "https://stability.ai/blog/stable-diffusion-v2-release",
@@ -81,7 +111,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5527,
+          "wordCount": 5537,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -101,7 +131,7 @@
           "description": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "link": "https://www.coindesk.com/business/2022/11/23/founder-of-eos-developer-blockone-buys-93-of-crypto-bank-silvergate/",
           "publishedOn": "2022-11-23T21:00:02.000Z",
-          "wordCount": 6137,
+          "wordCount": 6104,
           "title": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "imageUrl": "https://www.coindesk.com/resizer/bNwqtgRDTHnulTAY_yi8QpcuSNk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LM7A5AOV25AEPEU5XYYKSU4SMA.jpg"
         },
@@ -136,16 +166,6 @@
           "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
         },
         {
-          "id": "https://roninblockchain.substack.com/p/saigon",
-          "author": null,
-          "description": "Ronin: Saigon Testnet",
-          "link": "https://roninblockchain.substack.com/p/saigon",
-          "publishedOn": "2022-11-23T09:30:06.000Z",
-          "wordCount": 1810,
-          "title": "Ronin: Saigon Testnet",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20e1919-2d9b-453b-82e0-4f7a747529be_2400x1350.jpeg"
-        },
-        {
           "id": "https://writings.flashbots.net/the-cost-of-resilience/",
           "author": null,
           "description": "The Cost of Resilience | Flashbots",
@@ -154,26 +174,6 @@
           "wordCount": 1442,
           "title": "The Cost of Resilience | Flashbots",
           "imageUrl": "https://writings.flashbots.net/img/savana.jpg"
-        },
-        {
-          "id": "https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves",
-          "author": null,
-          "description": "Proving Your Bitcoin Reserves",
-          "link": "https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves",
-          "publishedOn": "2022-11-23T01:00:02.000Z",
-          "wordCount": 4001,
-          "title": "Proving Your Bitcoin Reserves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nodeguardians.io/",
-          "author": null,
-          "description": "Home",
-          "link": "https://nodeguardians.io/",
-          "publishedOn": "2022-11-22T21:00:03.000Z",
-          "wordCount": 1500,
-          "title": "Home",
-          "imageUrl": "https://nodeguardians.io/thumbnail.png"
         },
         {
           "id": "https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html",
@@ -193,7 +193,7 @@
           "publishedOn": "2022-11-22T19:00:02.000Z",
           "wordCount": 398,
           "title": "[PDF] curve-stablecoin/curve-stablecoin.pdf at master · curvefi/curve-stablecoin",
-          "imageUrl": "https://opengraph.githubassets.com/e3cf49baa13c453d8bdd7821c348b17504e586af54c8465debd061edb51b3a58/curvefi/curve-stablecoin"
+          "imageUrl": "https://opengraph.githubassets.com/af39ec0e158ae170a466cc0386aa1817e490c6247f5573d5f05667878a9602a1/curvefi/curve-stablecoin"
         },
         {
           "id": "https://www.coindesk.com/policy/2022/11/22/tornado-cash-developer-alexey-pertsev-to-remain-in-jail-until-at-least-late-februrary/",
@@ -201,7 +201,7 @@
           "description": "Tornado Cash Developer Alexey Pertsev to Remain in Jail Until at Least Late Februrary",
           "link": "https://www.coindesk.com/policy/2022/11/22/tornado-cash-developer-alexey-pertsev-to-remain-in-jail-until-at-least-late-februrary/",
           "publishedOn": "2022-11-22T15:00:02.000Z",
-          "wordCount": 6990,
+          "wordCount": 6961,
           "title": "Tornado Cash Developer Alexey Pertsev to Remain in Jail Until at Least Late Februrary",
           "imageUrl": "https://www.coindesk.com/resizer/kVprPGVFo1ijPnVSfqrIQJCpNe4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BS2XHU5VAZEMJCJILMTPFOP5BA.jpg"
         }

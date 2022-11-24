@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T08:25:43.354Z</id>
+    <id>urn:2022-11-24T09:19:19.155Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T08:25:43.354Z</updated>
+    <updated>2022-11-24T09:19:19.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fast state revert for single-tx bundles · Issue #6 · flashbots/builder]]></title>
+        <id>https://github.com/flashbots/builder/issues/6</id>
+        <link href="https://github.com/flashbots/builder/issues/6"/>
+        <updated>2022-11-24T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Fast state revert for single-tx bundles · Issue #6 · flashbots/builder]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder]]></title>
+        <id>https://github.com/flashbots/builder/pull/5</id>
+        <link href="https://github.com/flashbots/builder/pull/5"/>
+        <updated>2022-11-24T08:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frame]]></title>
         <id>https://frame.sh/</id>
@@ -51,6 +71,16 @@
         <link href="https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html"/>
         <updated>2022-11-24T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[M Group Handles FTXs SkyBridge Deal]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum]]></title>
+        <id>https://github.com/a16z/helios</id>
+        <link href="https://github.com/a16z/helios"/>
+        <updated>2022-11-24T05:00:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,41 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ronin: Saigon Testnet]]></title>
-        <id>https://roninblockchain.substack.com/p/saigon</id>
-        <link href="https://roninblockchain.substack.com/p/saigon"/>
-        <updated>2022-11-23T09:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Ronin: Saigon Testnet]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Cost of Resilience | Flashbots]]></title>
         <id>https://writings.flashbots.net/the-cost-of-resilience/</id>
         <link href="https://writings.flashbots.net/the-cost-of-resilience/"/>
         <updated>2022-11-23T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[The Cost of Resilience | Flashbots]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proving Your Bitcoin Reserves]]></title>
-        <id>https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves</id>
-        <link href="https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves"/>
-        <updated>2022-11-23T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Proving Your Bitcoin Reserves]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home]]></title>
-        <id>https://nodeguardians.io/</id>
-        <link href="https://nodeguardians.io/"/>
-        <updated>2022-11-22T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Home]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
