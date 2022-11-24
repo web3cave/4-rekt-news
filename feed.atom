@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T07:18:22.257Z</id>
+    <id>urn:2022-11-24T08:25:43.354Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T07:18:22.257Z</updated>
+    <updated>2022-11-24T08:25:43.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frame]]></title>
+        <id>https://frame.sh/</id>
+        <link href="https://frame.sh/"/>
+        <updated>2022-11-24T07:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Frame]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Privacy Policy | ConsenSys]]></title>
         <id>https://consensys.net/privacy-policy/</id>
@@ -111,16 +121,6 @@
         <link href="https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/"/>
         <updated>2022-11-23T17:30:05.000Z</updated>
         <summary type="html"><![CDATA[Congressmembers Tried to Stop the SEC’s Inquiry Into FTX]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder]]></title>
-        <id>https://github.com/flashbots/builder/pull/5</id>
-        <link href="https://github.com/flashbots/builder/pull/5"/>
-        <updated>2022-11-23T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
