@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
+          "id": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
           "author": null,
-          "description": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "link": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
-          "publishedOn": "2022-11-24T20:00:06.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "imageUrl": null
+          "description": "Let crypto burn",
+          "link": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
+          "publishedOn": "2022-11-24T20:30:04.000Z",
+          "wordCount": 2579,
+          "title": "Let crypto burn",
+          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b4c78c-fe5c-4d7f-8672-cc071d61b540.jpg?source=next-opengraph&fit=scale-down&width=900"
+        },
+        {
+          "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
+          "author": null,
+          "description": "Building Helios: Fully trustless access to Ethereum",
+          "link": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
+          "publishedOn": "2022-11-24T20:30:04.000Z",
+          "wordCount": 3278,
+          "title": "Building Helios: Fully trustless access to Ethereum",
+          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/11/CryptoGraphics_ETH_LightClient_Facebook_FA.jpg"
         },
         {
           "id": "https://blockcrunch.substack.com/p/the-definitive-post-on-the-ftx-scandal",
@@ -31,19 +41,9 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1603,
+          "wordCount": 1600,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text",
-          "author": null,
-          "description": "Sam Bankman-Fried, Elon Musk, and a secret text | Semafor",
-          "link": "https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text",
-          "publishedOn": "2022-11-24T19:00:05.000Z",
-          "wordCount": 1954,
-          "title": "Sam Bankman-Fried, Elon Musk, and a secret text | Semafor",
-          "imageUrl": "https://img.semafor.com/1f2f6bc7a3283787ba41fe243bbf662e8ef8729d-2560x1952.png?rect=0,304,2560,1344&w=1200&h=630&q=85&auto=format"
         },
         {
           "id": "https://medium.com/starkware/open-sourcing-cairo-1-0-b3100a664bb0",
@@ -61,7 +61,7 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6695,
+          "wordCount": 6705,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
         },
@@ -111,7 +111,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 871,
+          "wordCount": 1041,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/f66925405e0c834d20fd16a355ad03bf7b9970e7b74d1123eed0cac8329f7774/ethereum/hive"
         },
@@ -121,7 +121,7 @@
           "description": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "link": "https://github.com/ethereum/execution-specs/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 935,
+          "wordCount": 1091,
           "title": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "imageUrl": "https://opengraph.githubassets.com/4e98938a71475ef6c2ee95747bcf877786f3ed90e16dbdc0b79429c55340eda5/ethereum/execution-specs"
         },
@@ -141,7 +141,7 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T05:00:02.000Z",
-          "wordCount": 1274,
+          "wordCount": 1407,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "imageUrl": "https://opengraph.githubassets.com/2a88f8a3093f21a3d12c1e87d0f5ba717e207fcbf94d98fe239449175565b2eb/a16z/helios"
         },
@@ -181,7 +181,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5531,
+          "wordCount": 5539,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
