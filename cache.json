@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://consensys.net/privacy-policy/",
+          "author": null,
+          "description": "Privacy Policy | ConsenSys",
+          "link": "https://consensys.net/privacy-policy/",
+          "publishedOn": "2022-11-24T07:00:14.000Z",
+          "wordCount": 9444,
+          "title": "Privacy Policy | ConsenSys",
+          "imageUrl": "https://cdn.consensys.net/uploads/2018/10/featured-image-consensys-blue-ocean.jpg"
+        },
+        {
+          "id": "https://github.com/ethereum/hive/",
+          "author": null,
+          "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
+          "link": "https://github.com/ethereum/hive/",
+          "publishedOn": "2022-11-24T07:00:14.000Z",
+          "wordCount": 1041,
+          "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
+          "imageUrl": "https://opengraph.githubassets.com/bc2d9b0da4f60c22399a54105fcde60df368404f4e417ed52dcd7e4dc6971b8b/ethereum/hive"
+        },
+        {
+          "id": "https://github.com/ethereum/execution-specs/",
+          "author": null,
+          "description": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
+          "link": "https://github.com/ethereum/execution-specs/",
+          "publishedOn": "2022-11-24T07:00:14.000Z",
+          "wordCount": 1091,
+          "title": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
+          "imageUrl": "https://opengraph.githubassets.com/7d6cb09a908cacb52a4fd4fbc73af40b618011f5fac0b71b71c0513fbea0d23c/ethereum/execution-specs"
+        },
+        {
           "id": "https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html",
           "author": null,
           "description": "M Group Handles FTXs SkyBridge Deal",
@@ -14,16 +44,6 @@
           "wordCount": 796,
           "title": "M Group Handles FTXs SkyBridge Deal",
           "imageUrl": "http://www.odwyerpr.com/site_images/20220909121142_090922ftx-for-social-media.jpg"
-        },
-        {
-          "id": "https://github.com/a16z/helios",
-          "author": null,
-          "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "link": "https://github.com/a16z/helios",
-          "publishedOn": "2022-11-24T05:00:02.000Z",
-          "wordCount": 1269,
-          "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/3036c67a7233111697f813bd3dcd4108b90d8f38f211ad06e960a2f40d4a7dcd/a16z/helios"
         },
         {
           "id": "https://stability.ai/blog/stable-diffusion-v2-release",
@@ -51,7 +71,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5540,
+          "wordCount": 5546,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -71,7 +91,7 @@
           "description": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "link": "https://www.coindesk.com/business/2022/11/23/founder-of-eos-developer-blockone-buys-93-of-crypto-bank-silvergate/",
           "publishedOn": "2022-11-23T21:00:02.000Z",
-          "wordCount": 6140,
+          "wordCount": 6133,
           "title": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "imageUrl": "https://www.coindesk.com/resizer/bNwqtgRDTHnulTAY_yi8QpcuSNk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LM7A5AOV25AEPEU5XYYKSU4SMA.jpg"
         },
@@ -96,16 +116,6 @@
           "imageUrl": "https://prospect.org/downloads/18810/download/tom%20emmer%2011222022.png?cb=a11b43a417b4d1d2dba303f36b6a286a&w=1200"
         },
         {
-          "id": "https://github.com/flashbots/builder/issues/6",
-          "author": null,
-          "description": "Fast state revert for single-tx bundles · Issue #6 · flashbots/builder",
-          "link": "https://github.com/flashbots/builder/issues/6",
-          "publishedOn": "2022-11-23T17:00:05.000Z",
-          "wordCount": 503,
-          "title": "Fast state revert for single-tx bundles · Issue #6 · flashbots/builder",
-          "imageUrl": "https://opengraph.githubassets.com/dcceb48c0f8a25b4a1b57fff3a19e2dc9ab7afa52affc37224a581a4c2e614af/flashbots/builder/issues/6"
-        },
-        {
           "id": "https://github.com/flashbots/builder/pull/5",
           "author": null,
           "description": "Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder",
@@ -126,22 +136,12 @@
           "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
         },
         {
-          "id": "https://www.binance.com/en/support/announcement/introducing-the-hooked-protocol-hook-token-sale-on-binance-launchpad-6491cd5c4a9548cc9f8f5a40a31f1ec6",
-          "author": null,
-          "description": "Introducing the Hooked Protocol (HOOK) Token Sale on Binance Launchpad! | Binance Support",
-          "link": "https://www.binance.com/en/support/announcement/introducing-the-hooked-protocol-hook-token-sale-on-binance-launchpad-6491cd5c4a9548cc9f8f5a40a31f1ec6",
-          "publishedOn": "2022-11-23T13:00:03.000Z",
-          "wordCount": 10122,
-          "title": "Introducing the Hooked Protocol (HOOK) Token Sale on Binance Launchpad! | Binance Support",
-          "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
-        },
-        {
           "id": "https://roninblockchain.substack.com/p/saigon",
           "author": null,
           "description": "Ronin: Saigon Testnet",
           "link": "https://roninblockchain.substack.com/p/saigon",
           "publishedOn": "2022-11-23T09:30:06.000Z",
-          "wordCount": 1811,
+          "wordCount": 1605,
           "title": "Ronin: Saigon Testnet",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc20e1919-2d9b-453b-82e0-4f7a747529be_2400x1350.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "Tornado Cash Developer Alexey Pertsev to Remain in Jail Until at Least Late Februrary",
           "link": "https://www.coindesk.com/policy/2022/11/22/tornado-cash-developer-alexey-pertsev-to-remain-in-jail-until-at-least-late-februrary/",
           "publishedOn": "2022-11-22T15:00:02.000Z",
-          "wordCount": 7001,
+          "wordCount": 7011,
           "title": "Tornado Cash Developer Alexey Pertsev to Remain in Jail Until at Least Late Februrary",
           "imageUrl": "https://www.coindesk.com/resizer/kVprPGVFo1ijPnVSfqrIQJCpNe4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BS2XHU5VAZEMJCJILMTPFOP5BA.jpg"
         }

@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-24T06:25:04.593Z</id>
+    <id>urn:2022-11-24T07:18:22.257Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-24T06:25:04.593Z</updated>
+    <updated>2022-11-24T07:18:22.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Privacy Policy | ConsenSys]]></title>
+        <id>https://consensys.net/privacy-policy/</id>
+        <link href="https://consensys.net/privacy-policy/"/>
+        <updated>2022-11-24T07:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Privacy Policy | ConsenSys]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - ethereum/hive: Ethereum end-to-end test harness]]></title>
+        <id>https://github.com/ethereum/hive/</id>
+        <link href="https://github.com/ethereum/hive/"/>
+        <updated>2022-11-24T07:00:14.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - ethereum/hive: Ethereum end-to-end test harness]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.]]></title>
+        <id>https://github.com/ethereum/execution-specs/</id>
+        <link href="https://github.com/ethereum/execution-specs/"/>
+        <updated>2022-11-24T07:00:14.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M Group Handles FTXs SkyBridge Deal]]></title>
         <id>https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html</id>
         <link href="https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html"/>
         <updated>2022-11-24T05:00:02.000Z</updated>
         <summary type="html"><![CDATA[M Group Handles FTXs SkyBridge Deal]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum]]></title>
-        <id>https://github.com/a16z/helios</id>
-        <link href="https://github.com/a16z/helios"/>
-        <updated>2022-11-24T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -96,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast state revert for single-tx bundles · Issue #6 · flashbots/builder]]></title>
-        <id>https://github.com/flashbots/builder/issues/6</id>
-        <link href="https://github.com/flashbots/builder/issues/6"/>
-        <updated>2022-11-23T17:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Fast state revert for single-tx bundles · Issue #6 · flashbots/builder]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Use snapshots for blocklist revert by dvush · Pull Request #5 · flashbots/builder]]></title>
         <id>https://github.com/flashbots/builder/pull/5</id>
         <link href="https://github.com/flashbots/builder/pull/5"/>
@@ -121,16 +131,6 @@
         <link href="https://governance.aave.com/t/arc-repay-excess-debt-in-crv-market-for-aave-v2-eth/10779"/>
         <updated>2022-11-23T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[[ARC] Repay excess debt in CRV market for Aave V2 ETH]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the Hooked Protocol (HOOK) Token Sale on Binance Launchpad! | Binance Support]]></title>
-        <id>https://www.binance.com/en/support/announcement/introducing-the-hooked-protocol-hook-token-sale-on-binance-launchpad-6491cd5c4a9548cc9f8f5a40a31f1ec6</id>
-        <link href="https://www.binance.com/en/support/announcement/introducing-the-hooked-protocol-hook-token-sale-on-binance-launchpad-6491cd5c4a9548cc9f8f5a40a31f1ec6"/>
-        <updated>2022-11-23T13:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Introducing the Hooked Protocol (HOOK) Token Sale on Binance Launchpad! | Binance Support]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
