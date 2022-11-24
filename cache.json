@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.jackiewombat.xyz/",
+          "author": null,
+          "description": "JACKIE WOMBAT",
+          "link": "https://www.jackiewombat.xyz/",
+          "publishedOn": "2022-11-24T13:00:03.000Z",
+          "wordCount": 10653,
+          "title": "JACKIE WOMBAT",
+          "imageUrl": "http://static1.squarespace.com/static/637d378abbb6fc20d1565e7f/t/637e14d14563cb563594fbd8/1669207249286/JW+LOGO-01.png?format=1500w"
+        },
+        {
           "id": "https://ethereumnodes.com/",
           "author": null,
           "description": "Ethereum Nodes",
@@ -51,7 +61,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1041,
+          "wordCount": 871,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/bc2d9b0da4f60c22399a54105fcde60df368404f4e417ed52dcd7e4dc6971b8b/ethereum/hive"
         },
@@ -61,7 +71,7 @@
           "description": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "link": "https://github.com/ethereum/execution-specs/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 935,
+          "wordCount": 1091,
           "title": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "imageUrl": "https://opengraph.githubassets.com/4e98938a71475ef6c2ee95747bcf877786f3ed90e16dbdc0b79429c55340eda5/ethereum/execution-specs"
         },
@@ -83,7 +93,7 @@
           "publishedOn": "2022-11-24T05:00:02.000Z",
           "wordCount": 1409,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/39c98acaf9d24e6f0e288e3bf0144d918d37d5eebad5724f19dad254433c4fc7/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/7d675dbc77061f4ee1b29c55a6f0031f9f488132622833d71663f60fa5373062/a16z/helios"
         },
         {
           "id": "https://stability.ai/blog/stable-diffusion-v2-release",
@@ -121,7 +131,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5546,
+          "wordCount": 5533,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -141,7 +151,7 @@
           "description": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "link": "https://www.coindesk.com/business/2022/11/23/founder-of-eos-developer-blockone-buys-93-of-crypto-bank-silvergate/",
           "publishedOn": "2022-11-23T21:00:02.000Z",
-          "wordCount": 6123,
+          "wordCount": 6184,
           "title": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
           "imageUrl": "https://www.coindesk.com/resizer/bNwqtgRDTHnulTAY_yi8QpcuSNk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LM7A5AOV25AEPEU5XYYKSU4SMA.jpg"
         },
@@ -176,24 +186,14 @@
           "imageUrl": "https://prospect.org/downloads/18810/download/tom%20emmer%2011222022.png?cb=a11b43a417b4d1d2dba303f36b6a286a&w=1200"
         },
         {
-          "id": "https://governance.aave.com/t/arc-repay-excess-debt-in-crv-market-for-aave-v2-eth/10779",
+          "id": "https://votemarket.stakedao.org/",
           "author": null,
-          "description": "[ARC] Repay excess debt in CRV market for Aave V2 ETH",
-          "link": "https://governance.aave.com/t/arc-repay-excess-debt-in-crv-market-for-aave-v2-eth/10779",
-          "publishedOn": "2022-11-23T15:00:03.000Z",
-          "wordCount": 1262,
-          "title": "[ARC] Repay excess debt in CRV market for Aave V2 ETH",
-          "imageUrl": "https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
-        },
-        {
-          "id": "https://writings.flashbots.net/the-cost-of-resilience/",
-          "author": null,
-          "description": "The Cost of Resilience | Flashbots",
-          "link": "https://writings.flashbots.net/the-cost-of-resilience/",
-          "publishedOn": "2022-11-23T01:00:02.000Z",
-          "wordCount": 1442,
-          "title": "The Cost of Resilience | Flashbots",
-          "imageUrl": "https://writings.flashbots.net/img/savana.jpg"
+          "description": "Stake DAO | Votemarket",
+          "link": "https://votemarket.stakedao.org/",
+          "publishedOn": "2022-11-23T17:00:05.000Z",
+          "wordCount": 1749,
+          "title": "Stake DAO | Votemarket",
+          "imageUrl": null
         },
         {
           "id": "https://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html",
