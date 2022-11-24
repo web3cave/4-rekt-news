@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
+          "author": null,
+          "description": "Ethereum Core Devs Meeting #150 [2022-11-24]",
+          "link": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
+          "publishedOn": "2022-11-24T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #150 [2022-11-24]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blockcrunch.substack.com/p/the-definitive-post-on-the-ftx-scandal",
+          "author": null,
+          "description": "The Definitive Post on the FTX Scandal",
+          "link": "https://blockcrunch.substack.com/p/the-definitive-post-on-the-ftx-scandal",
+          "publishedOn": "2022-11-24T19:30:05.000Z",
+          "wordCount": 12876,
+          "title": "The Definitive Post on the FTX Scandal",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhIu710VIAAvfcT.png"
+        },
+        {
+          "id": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
+          "author": null,
+          "description": "Crypto investor DCG reveals web of investments between units",
+          "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
+          "publishedOn": "2022-11-24T19:30:05.000Z",
+          "wordCount": 1603,
+          "title": "Crypto investor DCG reveals web of investments between units",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.semafor.com/article/11/22/2022/sam-bankman-fried-elon-and-a-secret-text",
           "author": null,
           "description": "Sam Bankman-Fried, Elon Musk, and a secret text | Semafor",
@@ -14,16 +44,6 @@
           "wordCount": 1954,
           "title": "Sam Bankman-Fried, Elon Musk, and a secret text | Semafor",
           "imageUrl": "https://img.semafor.com/1f2f6bc7a3283787ba41fe243bbf662e8ef8729d-2560x1952.png?rect=0,304,2560,1344&w=1200&h=630&q=85&auto=format"
-        },
-        {
-          "id": "https://www.oaktreecapital.com/docs/default-source/memos/what-really-matters.pdf",
-          "author": null,
-          "description": "[PDF] what-really-matters.pdf",
-          "link": "https://www.oaktreecapital.com/docs/default-source/memos/what-really-matters.pdf",
-          "publishedOn": "2022-11-24T18:30:03.000Z",
-          "wordCount": 20038,
-          "title": "[PDF] what-really-matters.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/starkware/open-sourcing-cairo-1-0-b3100a664bb0",
@@ -91,7 +111,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1041,
+          "wordCount": 871,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/f66925405e0c834d20fd16a355ad03bf7b9970e7b74d1123eed0cac8329f7774/ethereum/hive"
         },
@@ -101,7 +121,7 @@
           "description": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "link": "https://github.com/ethereum/execution-specs/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1091,
+          "wordCount": 935,
           "title": "GitHub - ethereum/execution-specs: Specification for the Execution Layer. Tracking network upgrades.",
           "imageUrl": "https://opengraph.githubassets.com/4e98938a71475ef6c2ee95747bcf877786f3ed90e16dbdc0b79429c55340eda5/ethereum/execution-specs"
         },
@@ -121,7 +141,7 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T05:00:02.000Z",
-          "wordCount": 1409,
+          "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "imageUrl": "https://opengraph.githubassets.com/2a88f8a3093f21a3d12c1e87d0f5ba717e207fcbf94d98fe239449175565b2eb/a16z/helios"
         },
@@ -161,7 +181,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5549,
+          "wordCount": 5531,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -174,26 +194,6 @@
           "wordCount": 3778,
           "title": "The Future of MEV is SUAVE | Flashbots",
           "imageUrl": "https://writings.flashbots.net/img/posts/suave/logo-landscape.jpg"
-        },
-        {
-          "id": "https://www.coindesk.com/business/2022/11/23/founder-of-eos-developer-blockone-buys-93-of-crypto-bank-silvergate/",
-          "author": null,
-          "description": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
-          "link": "https://www.coindesk.com/business/2022/11/23/founder-of-eos-developer-blockone-buys-93-of-crypto-bank-silvergate/",
-          "publishedOn": "2022-11-23T21:00:02.000Z",
-          "wordCount": 6095,
-          "title": "Founder of EOS Developer Block.One Buys 9.3% of Crypto Bank Silvergate",
-          "imageUrl": "https://www.coindesk.com/resizer/bNwqtgRDTHnulTAY_yi8QpcuSNk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LM7A5AOV25AEPEU5XYYKSU4SMA.jpg"
-        },
-        {
-          "id": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
-          "author": null,
-          "description": "Winding down support for Akula project",
-          "link": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
-          "publishedOn": "2022-11-23T19:30:05.000Z",
-          "wordCount": 1652,
-          "title": "Winding down support for Akula project",
-          "imageUrl": null
         },
         {
           "id": "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/",
