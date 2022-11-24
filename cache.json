@@ -11,19 +11,19 @@
           "description": "Let crypto burn",
           "link": "https://www.ft.com/content/ac058ede-80cb-4aa6-8394-941443eec7e3",
           "publishedOn": "2022-11-24T20:30:04.000Z",
-          "wordCount": 2579,
+          "wordCount": 2574,
           "title": "Let crypto burn",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b4c78c-fe5c-4d7f-8672-cc071d61b540.jpg?source=next-opengraph&fit=scale-down&width=900"
         },
         {
-          "id": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
+          "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
           "author": null,
-          "description": "Building Helios: Fully trustless access to Ethereum",
-          "link": "https://a16zcrypto.com/building-helios-ethereum-light-client/",
-          "publishedOn": "2022-11-24T20:30:04.000Z",
-          "wordCount": 3278,
-          "title": "Building Helios: Fully trustless access to Ethereum",
-          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/11/CryptoGraphics_ETH_LightClient_Facebook_FA.jpg"
+          "description": "Ethereum Core Devs Meeting #150 [2022-11-24]",
+          "link": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
+          "publishedOn": "2022-11-24T20:00:06.000Z",
+          "wordCount": null,
+          "title": "Ethereum Core Devs Meeting #150 [2022-11-24]",
+          "imageUrl": null
         },
         {
           "id": "https://blockcrunch.substack.com/p/the-definitive-post-on-the-ftx-scandal",
@@ -31,7 +31,7 @@
           "description": "The Definitive Post on the FTX Scandal",
           "link": "https://blockcrunch.substack.com/p/the-definitive-post-on-the-ftx-scandal",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 12876,
+          "wordCount": 12872,
           "title": "The Definitive Post on the FTX Scandal",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhIu710VIAAvfcT.png"
         },
@@ -41,7 +41,7 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1600,
+          "wordCount": 1595,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
         },
@@ -61,7 +61,7 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6705,
+          "wordCount": 6691,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
         },
@@ -136,16 +136,6 @@
           "imageUrl": "http://www.odwyerpr.com/site_images/20220909121142_090922ftx-for-social-media.jpg"
         },
         {
-          "id": "https://github.com/a16z/helios",
-          "author": null,
-          "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "link": "https://github.com/a16z/helios",
-          "publishedOn": "2022-11-24T05:00:02.000Z",
-          "wordCount": 1407,
-          "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/2a88f8a3093f21a3d12c1e87d0f5ba717e207fcbf94d98fe239449175565b2eb/a16z/helios"
-        },
-        {
           "id": "https://stability.ai/blog/stable-diffusion-v2-release",
           "author": null,
           "description": "Stable Diffusion 2.0 Release — Stability.Ai",
@@ -181,7 +171,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5539,
+          "wordCount": 5540,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -194,6 +184,16 @@
           "wordCount": 3778,
           "title": "The Future of MEV is SUAVE | Flashbots",
           "imageUrl": "https://writings.flashbots.net/img/posts/suave/logo-landscape.jpg"
+        },
+        {
+          "id": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
+          "author": null,
+          "description": "Winding down support for Akula project",
+          "link": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
+          "publishedOn": "2022-11-23T19:30:05.000Z",
+          "wordCount": 1652,
+          "title": "Winding down support for Akula project",
+          "imageUrl": null
         },
         {
           "id": "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/",
