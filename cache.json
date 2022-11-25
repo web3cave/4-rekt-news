@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/",
+          "author": null,
+          "description": "B1 Acquires Significant Equity Stake in Silvergate Capital Corp.",
+          "link": "https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/",
+          "publishedOn": "2022-11-25T01:30:05.000Z",
+          "wordCount": 689,
+          "title": "B1 Acquires Significant Equity Stake in Silvergate Capital Corp.",
+          "imageUrl": "https://b1.com/wp-content/uploads/2021/12/B1-Open-graph_Logo-on-White-scaled.jpg"
+        },
+        {
+          "id": "https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925",
+          "author": null,
+          "description": "Parameter Changes Proposal - PPG-OMC-001 - 24 November 2022 - Updates - The Maker Forum",
+          "link": "https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925",
+          "publishedOn": "2022-11-25T01:30:05.000Z",
+          "wordCount": null,
+          "title": "Parameter Changes Proposal - PPG-OMC-001 - 24 November 2022 - Updates - The Maker Forum",
+          "imageUrl": null
+        },
+        {
           "id": "https://bitcoincore.org/bin/bitcoin-core-24.0/",
           "author": null,
           "description": "Index of /bin/bitcoin-core-24.0/",
@@ -41,19 +61,19 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T22:30:03.000Z",
-          "wordCount": 1407,
+          "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/d18a6014b8911361df4e9573fa293231bf98aa249c43a355393b119e50f20e00/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/fc8b70fd134ba329deaeed7bd3ad1f0090d19b690e6b76e84d8a93351bef029a/a16z/helios"
         },
         {
-          "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
+          "id": "https://github.com/MetaMask/metamask-extension/issues/15169",
           "author": null,
-          "description": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "link": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
-          "publishedOn": "2022-11-24T20:00:06.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "imageUrl": null
+          "description": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
+          "link": "https://github.com/MetaMask/metamask-extension/issues/15169",
+          "publishedOn": "2022-11-24T21:00:03.000Z",
+          "wordCount": 796,
+          "title": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
+          "imageUrl": "https://opengraph.githubassets.com/ba1d7c6718d821f672f530523201d29b9c84d5e943b61d7c4ad9f13274102569/MetaMask/metamask-extension/issues/15169"
         },
         {
           "id": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
@@ -61,7 +81,7 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1591,
+          "wordCount": 1590,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
         },
@@ -71,7 +91,7 @@
           "description": "Open Sourcing Cairo 1.0!",
           "link": "https://medium.com/starkware/open-sourcing-cairo-1-0-b3100a664bb0",
           "publishedOn": "2022-11-24T18:00:05.000Z",
-          "wordCount": 2574,
+          "wordCount": 2649,
           "title": "Open Sourcing Cairo 1.0!",
           "imageUrl": "https://miro.medium.com/max/1200/1*RSZXhxCej7j0c4bpEW5LrQ.png"
         },
@@ -81,7 +101,7 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6744,
+          "wordCount": 6741,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
         },
@@ -94,16 +114,6 @@
           "wordCount": 153,
           "title": "Ethereum Nodes",
           "imageUrl": "https://ethereumnodes.com/api/screenshot"
-        },
-        {
-          "id": "https://www.nansen.ai/",
-          "author": null,
-          "description": "Nansen - Crypto, DeFi & NFT Analytics",
-          "link": "https://www.nansen.ai/",
-          "publishedOn": "2022-11-24T09:30:06.000Z",
-          "wordCount": 1043,
-          "title": "Nansen - Crypto, DeFi & NFT Analytics",
-          "imageUrl": "https://assets-global.website-files.com/60118ca18674407b85935203/629917e0522f329567a38d70_blokcchaindata%20%20gif%20under%204.gif"
         },
         {
           "id": "https://frame.sh/",
@@ -131,7 +141,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1038,
+          "wordCount": 1041,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/f66925405e0c834d20fd16a355ad03bf7b9970e7b74d1123eed0cac8329f7774/ethereum/hive"
         },
@@ -171,7 +181,7 @@
           "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
           "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5529,
+          "wordCount": 5530,
           "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
           "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
         },
@@ -184,16 +194,6 @@
           "wordCount": 3778,
           "title": "The Future of MEV is SUAVE | Flashbots",
           "imageUrl": "https://writings.flashbots.net/img/posts/suave/logo-landscape.jpg"
-        },
-        {
-          "id": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
-          "author": null,
-          "description": "Winding down support for Akula project",
-          "link": "https://erigon.substack.com/p/winding-down-support-for-akula-project",
-          "publishedOn": "2022-11-23T19:30:05.000Z",
-          "wordCount": 1652,
-          "title": "Winding down support for Akula project",
-          "imageUrl": null
         },
         {
           "id": "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/",
