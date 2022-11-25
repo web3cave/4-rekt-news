@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LwCRdrRUORI",
+          "author": null,
+          "description": "Gabriel Haines on How He Came to Make His Hilarious, Yelling Crypto Videos - Ep. 425",
+          "link": "https://www.youtube.com/watch?v=LwCRdrRUORI",
+          "publishedOn": "2022-11-25T18:30:02.000Z",
+          "wordCount": null,
+          "title": "Gabriel Haines on How He Came to Make His Hilarious, Yelling Crypto Videos - Ep. 425",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.infura.io/",
+          "author": null,
+          "description": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
+          "link": "https://www.infura.io/",
+          "publishedOn": "2022-11-25T18:30:02.000Z",
+          "wordCount": 1717,
+          "title": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
+          "imageUrl": "https://images.ctfassets.net/6g6hg01fg28j/46YCPR4PsB1jrxbZUhz2iB/8028b231576a5a6cc395af74be99f01a/image.png"
+        },
+        {
+          "id": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
+          "author": null,
+          "description": "Belgium says BTC, ETH and other decentralized coins are not securities",
+          "link": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
+          "publishedOn": "2022-11-25T17:30:04.000Z",
+          "wordCount": 15661,
+          "title": "Belgium says BTC, ETH and other decentralized coins are not securities",
+          "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZmI4ODA2Y2MtNDRmNC00ZDBkLWFkMTUtZDRiYTFjMWFkYWQ3LmpwZw==.jpg"
+        },
+        {
           "id": "https://www.binance.com/en/support/announcement/binance-releases-proof-of-reserves-system-0c7a786cbe8c4e108f3301385ab61e39",
           "author": null,
           "description": "Binance Releases Proof of Reserves System | Binance Support",
@@ -26,14 +56,14 @@
           "imageUrl": "https://assets-global.website-files.com/60118ca18674407b85935203/629917e0522f329567a38d70_blokcchaindata%20%20gif%20under%204.gif"
         },
         {
-          "id": "https://www.theblock.co/post/189897/binance-clarifies-recovery-fund-deposits?utm_source=twitter&utm_medium=social",
+          "id": "https://github.com/WrappedBTC/DAO/pull/12",
           "author": null,
-          "description": "Binance clarifies initial $1 billion recovery fund deposit came from own assets",
-          "link": "https://www.theblock.co/post/189897/binance-clarifies-recovery-fund-deposits?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-11-25T13:30:04.000Z",
-          "wordCount": 61584,
-          "title": "Binance clarifies initial $1 billion recovery fund deposit came from own assets",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Changpeng-Zhao-CZ-Binance-1200x675.jpg"
+          "description": "Migrate WBTC big DAO multisig to a new one with safer active signers by tranvictor · Pull Request #12 · WrappedBTC/DAO",
+          "link": "https://github.com/WrappedBTC/DAO/pull/12",
+          "publishedOn": "2022-11-25T15:00:02.000Z",
+          "wordCount": 1209,
+          "title": "Migrate WBTC big DAO multisig to a new one with safer active signers by tranvictor · Pull Request #12 · WrappedBTC/DAO",
+          "imageUrl": "https://opengraph.githubassets.com/e75ee3e3be61f7a5db42054ed317d941695728460a0e7a6be6655c513e1f55d9/WrappedBTC/DAO/pull/12"
         },
         {
           "id": "http://cliffle.com/blog/not-thread-safe/",
@@ -54,16 +84,6 @@
           "wordCount": 17,
           "title": "EyesFI.COM",
           "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/prestwich/afb540efce1d3995a5875a27579f5831",
-          "author": null,
-          "description": "How to break up a monorepo :)",
-          "link": "https://gist.github.com/prestwich/afb540efce1d3995a5875a27579f5831",
-          "publishedOn": "2022-11-25T02:00:04.000Z",
-          "wordCount": 396,
-          "title": "How to break up a monorepo :)",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
           "id": "https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/",
@@ -121,7 +141,7 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T22:30:03.000Z",
-          "wordCount": 1407,
+          "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "imageUrl": "https://opengraph.githubassets.com/ad2e402741df7ea1ef9addb2765be9c5b9261864f468979f3b038f26f2b52a93/a16z/helios"
         },
@@ -131,19 +151,9 @@
           "description": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
           "link": "https://github.com/MetaMask/metamask-extension/issues/15169",
           "publishedOn": "2022-11-24T21:00:03.000Z",
-          "wordCount": 1642,
+          "wordCount": 1907,
           "title": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
-          "imageUrl": "https://opengraph.githubassets.com/749d724c6a9164e67741ab008448b2a6c65460f5f12e21d4e72577cab7a8a5fc/MetaMask/metamask-extension/issues/15169"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "link": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
-          "publishedOn": "2022-11-24T20:00:06.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #150 [2022-11-24]",
-          "imageUrl": null
+          "imageUrl": "https://opengraph.githubassets.com/742d9bc0d9a881dc83d40e99af543fcd07b12d1a7fb04d8bc0e036200ec26f32/MetaMask/metamask-extension/issues/15169"
         },
         {
           "id": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
@@ -151,7 +161,7 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1599,
+          "wordCount": 1606,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
         },
@@ -171,19 +181,9 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6859,
+          "wordCount": 10304,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
-        },
-        {
-          "id": "https://www.coindesk.com/tech/2022/11/24/ethereum-software-firm-consensys-reveals-it-collects-user-data/",
-          "author": null,
-          "description": "Ethereum Software Firm ConsenSys Reveals it Collects User Data",
-          "link": "https://www.coindesk.com/tech/2022/11/24/ethereum-software-firm-consensys-reveals-it-collects-user-data/",
-          "publishedOn": "2022-11-24T11:30:05.000Z",
-          "wordCount": 6038,
-          "title": "Ethereum Software Firm ConsenSys Reveals it Collects User Data",
-          "imageUrl": "https://www.coindesk.com/resizer/Iwx69KGLWJutjzpQdD8Q2cuBsp0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WWJMA7GZLNGTFENGAM55VIK4CU.jpg"
         },
         {
           "id": "https://consensys.net/privacy-policy/",
