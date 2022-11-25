@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T04:25:05.869Z</id>
+    <id>urn:2022-11-25T05:18:06.172Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-25T04:25:05.869Z</updated>
+    <updated>2022-11-25T05:18:06.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-24-november-2022/18925"/>
         <updated>2022-11-25T01:30:05.000Z</updated>
         <summary type="html"><![CDATA[Parameter Changes Proposal - PPG-OMC-001 - 24 November 2022 - Updates - The Maker Forum]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two thought experiments to evaluate automated stablecoins]]></title>
+        <id>https://vitalik.ca/general/2022/05/25/stable.html</id>
+        <link href="https://vitalik.ca/general/2022/05/25/stable.html"/>
+        <updated>2022-11-25T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Two thought experiments to evaluate automated stablecoins]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,16 +131,6 @@
         <link href="https://ethereumnodes.com/"/>
         <updated>2022-11-24T09:30:06.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Nodes]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nansen - Crypto, DeFi & NFT Analytics]]></title>
-        <id>https://www.nansen.ai/</id>
-        <link href="https://www.nansen.ai/"/>
-        <updated>2022-11-24T09:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Nansen - Crypto, DeFi & NFT Analytics]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
