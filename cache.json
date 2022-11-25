@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://cliffle.com/blog/not-thread-safe/",
+          "author": null,
+          "description": "Safely writing code that isn't thread-safe - Cliffle",
+          "link": "http://cliffle.com/blog/not-thread-safe/",
+          "publishedOn": "2022-11-25T06:30:04.000Z",
+          "wordCount": 4604,
+          "title": "Safely writing code that isn't thread-safe - Cliffle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.eyesfi.com/",
           "author": null,
           "description": "EyesFI.COM",
@@ -93,7 +103,7 @@
           "publishedOn": "2022-11-24T22:30:03.000Z",
           "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/e130de21f8fd2d029e84327ead7b1500627103fda7b6a69c6d4c3366920b3a91/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/179eb285f6b6563147c30ff1883b99eff279c2e3776f7c130eadb1b154ccd973/a16z/helios"
         },
         {
           "id": "https://github.com/MetaMask/metamask-extension/issues/15169",
@@ -121,7 +131,7 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1588,
+          "wordCount": 1590,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
         },
@@ -141,7 +151,7 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6734,
+          "wordCount": 6765,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
         },
@@ -174,16 +184,6 @@
           "wordCount": 9444,
           "title": "Privacy Policy | ConsenSys",
           "imageUrl": "https://cdn.consensys.net/uploads/2018/10/featured-image-consensys-blue-ocean.jpg"
-        },
-        {
-          "id": "https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html",
-          "author": null,
-          "description": "M Group Handles FTXs SkyBridge Deal",
-          "link": "https://www.odwyerpr.com/story/public/18462/2022-09-09/m-group-handles-ftxs-skybridge-deal.html",
-          "publishedOn": "2022-11-24T05:00:02.000Z",
-          "wordCount": 801,
-          "title": "M Group Handles FTXs SkyBridge Deal",
-          "imageUrl": "http://www.odwyerpr.com/site_images/20220909121142_090922ftx-for-social-media.jpg"
         },
         {
           "id": "https://stability.ai/blog/stable-diffusion-v2-release",
