@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.eyesfi.com/",
+          "author": null,
+          "description": "EyesFI.COM",
+          "link": "https://www.eyesfi.com/",
+          "publishedOn": "2022-11-25T03:00:02.000Z",
+          "wordCount": 17,
+          "title": "EyesFI.COM",
+          "imageUrl": null
+        },
+        {
           "id": "https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/",
           "author": null,
           "description": "B1 Acquires Significant Equity Stake in Silvergate Capital Corp.",
@@ -61,9 +71,9 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T22:30:03.000Z",
-          "wordCount": 1274,
+          "wordCount": 1407,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/fc8b70fd134ba329deaeed7bd3ad1f0090d19b690e6b76e84d8a93351bef029a/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/066a445e4a0a7642b33553b8437daf9aa15cef81b34c7f4917e3a2b066436dd7/a16z/helios"
         },
         {
           "id": "https://github.com/MetaMask/metamask-extension/issues/15169",
@@ -71,7 +81,7 @@
           "description": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
           "link": "https://github.com/MetaMask/metamask-extension/issues/15169",
           "publishedOn": "2022-11-24T21:00:03.000Z",
-          "wordCount": 796,
+          "wordCount": 797,
           "title": "[Bug]: Don't correlate accounts with RPC endpoint. · Issue #15169 · MetaMask/metamask-extension",
           "imageUrl": "https://opengraph.githubassets.com/ba1d7c6718d821f672f530523201d29b9c84d5e943b61d7c4ad9f13274102569/MetaMask/metamask-extension/issues/15169"
         },
@@ -101,7 +111,7 @@
           "description": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "link": "https://www.wsj.com/articles/sam-bankman-frieds-plans-to-save-the-world-went-down-in-flames-11669257574?reflink=e2twmkts",
           "publishedOn": "2022-11-24T15:00:02.000Z",
-          "wordCount": 6741,
+          "wordCount": 6731,
           "title": "Sam Bankman-Fried’s Plans to Save the World Went Down in Flames",
           "imageUrl": "https://images.wsj.net/im-673025/social"
         },
@@ -114,6 +124,16 @@
           "wordCount": 153,
           "title": "Ethereum Nodes",
           "imageUrl": "https://ethereumnodes.com/api/screenshot"
+        },
+        {
+          "id": "https://www.nansen.ai/",
+          "author": null,
+          "description": "Nansen - Crypto, DeFi & NFT Analytics",
+          "link": "https://www.nansen.ai/",
+          "publishedOn": "2022-11-24T09:30:06.000Z",
+          "wordCount": 1043,
+          "title": "Nansen - Crypto, DeFi & NFT Analytics",
+          "imageUrl": "https://assets-global.website-files.com/60118ca18674407b85935203/629917e0522f329567a38d70_blokcchaindata%20%20gif%20under%204.gif"
         },
         {
           "id": "https://frame.sh/",
@@ -141,7 +161,7 @@
           "description": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "link": "https://github.com/ethereum/hive/",
           "publishedOn": "2022-11-24T07:00:14.000Z",
-          "wordCount": 1041,
+          "wordCount": 1038,
           "title": "GitHub - ethereum/hive: Ethereum end-to-end test harness",
           "imageUrl": "https://opengraph.githubassets.com/f66925405e0c834d20fd16a355ad03bf7b9970e7b74d1123eed0cac8329f7774/ethereum/hive"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/637e82c37e103318bfd0ecbc/1669284782816/697c70e5ffe354b9ab6cc9477f91eff253379ec54c032403ad6ae3e5.jpeg?format=1500w"
         },
         {
-          "id": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
-          "author": null,
-          "description": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
-          "link": "https://deadline.com/2022/11/russo-brothers-david-weil-ftx-crypto-scandal-series-amazon-1235181170/",
-          "publishedOn": "2022-11-23T23:30:05.000Z",
-          "wordCount": 5530,
-          "title": "Russo Brothers & David Weil Set FTX Crypto Scandal Series At Amazon",
-          "imageUrl": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1357912812.jpg?w=1024"
-        },
-        {
           "id": "https://writings.flashbots.net/the-future-of-mev-is-suave/",
           "author": null,
           "description": "The Future of MEV is SUAVE | Flashbots",
@@ -194,16 +204,6 @@
           "wordCount": 3778,
           "title": "The Future of MEV is SUAVE | Flashbots",
           "imageUrl": "https://writings.flashbots.net/img/posts/suave/logo-landscape.jpg"
-        },
-        {
-          "id": "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/",
-          "author": null,
-          "description": "Congressmembers Tried to Stop the SEC’s Inquiry Into FTX",
-          "link": "https://prospect.org/power/congressmembers-tried-to-stop-secs-inquiry-into-ftx/",
-          "publishedOn": "2022-11-23T17:30:05.000Z",
-          "wordCount": 3323,
-          "title": "Congressmembers Tried to Stop the SEC’s Inquiry Into FTX",
-          "imageUrl": "https://prospect.org/downloads/18810/download/tom%20emmer%2011222022.png?cb=a11b43a417b4d1d2dba303f36b6a286a&w=1200"
         }
       ]
     }
