@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-25T16:27:52.617Z</id>
+    <id>urn:2022-11-25T17:17:41.383Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-25T16:27:52.617Z</updated>
+    <updated>2022-11-25T17:17:41.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,6 +56,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to break up a monorepo :)]]></title>
+        <id>https://gist.github.com/prestwich/afb540efce1d3995a5875a27579f5831</id>
+        <link href="https://gist.github.com/prestwich/afb540efce1d3995a5875a27579f5831"/>
+        <updated>2022-11-25T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[How to break up a monorepo :)]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[B1 Acquires Significant Equity Stake in Silvergate Capital Corp.]]></title>
         <id>https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/</id>
         <link href="https://b1.com/press/b1-acquires-significant-equity-stake-in-silvergate-capital-corp/"/>
@@ -101,16 +111,6 @@
         <link href="https://bitcoincore.org/bin/bitcoin-core-24.0/"/>
         <updated>2022-11-24T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[Index of /bin/bitcoin-core-24.0/]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve permissions management on Aave v2 and define a better strategy for access control roles on Aave v3]]></title>
-        <id>https://governance.aave.com/t/improve-permissions-management-on-aave-v2-and-define-a-better-strategy-for-access-control-roles-on-aave-v3/10802</id>
-        <link href="https://governance.aave.com/t/improve-permissions-management-on-aave-v2-and-define-a-better-strategy-for-access-control-roles-on-aave-v3/10802"/>
-        <updated>2022-11-24T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Improve permissions management on Aave v2 and define a better strategy for access control roles on Aave v3]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
