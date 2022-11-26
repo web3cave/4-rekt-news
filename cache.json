@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.infura.io/",
-          "author": null,
-          "description": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
-          "link": "https://www.infura.io/",
-          "publishedOn": "2022-11-26T04:00:04.000Z",
-          "wordCount": 1717,
-          "title": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
-          "imageUrl": "https://images.ctfassets.net/6g6hg01fg28j/46YCPR4PsB1jrxbZUhz2iB/8028b231576a5a6cc395af74be99f01a/image.png"
-        },
-        {
           "id": "https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463?i=1000587380517",
           "author": null,
           "description": "‎On The Brink with Castle Island: Weekly Roundup 11/24/22 (SBF is at large, DCG’s fate, what we are thankful for) on...",
@@ -31,7 +21,7 @@
           "description": "Transparency on Wallets at Binance | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/transparency-on-wallets-at-binance-4080204794657829130",
           "publishedOn": "2022-11-26T01:30:05.000Z",
-          "wordCount": 7764,
+          "wordCount": 7794,
           "title": "Transparency on Wallets at Binance | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221125/bb4d50bd-4059-4902-8310-a2148b19a8cf.png"
         },
@@ -61,7 +51,7 @@
           "description": "Proving Your Bitcoin Reserves",
           "link": "https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves",
           "publishedOn": "2022-11-25T23:00:01.000Z",
-          "wordCount": 4001,
+          "wordCount": 4104,
           "title": "Proving Your Bitcoin Reserves",
           "imageUrl": null
         },
@@ -76,12 +66,22 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20201030_Genesis-Icon-675x675.jpg"
         },
         {
+          "id": "https://www.ambergroup.io/",
+          "author": null,
+          "description": "Building the Future of Digital Assets - Amber Group",
+          "link": "https://www.ambergroup.io/",
+          "publishedOn": "2022-11-25T21:00:02.000Z",
+          "wordCount": 235,
+          "title": "Building the Future of Digital Assets - Amber Group",
+          "imageUrl": "https://www.ambergroup.io/icons/logo-large.png"
+        },
+        {
           "id": "https://theeagleweekly.substack.com/p/25-november-2022-doubling-down-on?utm_source=direct&r=cqeuk&utm_campaign=post&utm_medium=web",
           "author": null,
           "description": "25 November 2022: Doubling down on non-custodial and censorship-resistant assets",
           "link": "https://theeagleweekly.substack.com/p/25-november-2022-doubling-down-on?utm_source=direct&r=cqeuk&utm_campaign=post&utm_medium=web",
           "publishedOn": "2022-11-25T20:00:04.000Z",
-          "wordCount": 3162,
+          "wordCount": 3368,
           "title": "25 November 2022: Doubling down on non-custodial and censorship-resistant assets",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e3e0fb6-9749-4764-814d-64d69ad6e701_600x600.png"
         },
@@ -101,7 +101,7 @@
           "description": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "link": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
           "publishedOn": "2022-11-25T17:30:04.000Z",
-          "wordCount": 15673,
+          "wordCount": 15678,
           "title": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZmI4ODA2Y2MtNDRmNC00ZDBkLWFkMTUtZDRiYTFjMWFkYWQ3LmpwZw==.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "link": "https://github.com/a16z/helios",
           "publishedOn": "2022-11-24T22:30:03.000Z",
-          "wordCount": 1407,
+          "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
           "imageUrl": "https://opengraph.githubassets.com/dd5a17f655d5d86c6f8083b3b19398c0bb42676ee402f0ed663f9bbecdfa972a/a16z/helios"
         },
