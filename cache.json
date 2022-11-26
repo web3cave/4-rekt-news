@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463?i=1000587380517",
+          "author": null,
+          "description": "‎On The Brink with Castle Island: Weekly Roundup 11/24/22 (SBF is at large, DCG’s fate, what we are thankful for) on...",
+          "link": "https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463?i=1000587380517",
+          "publishedOn": "2022-11-26T03:00:03.000Z",
+          "wordCount": 2041,
+          "title": "‎On The Brink with Castle Island: Weekly Roundup 11/24/22 (SBF is at large, DCG’s fate, what we are thankful for) on...",
+          "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/0a/42/00/0a4200f0-42ba-df4c-e4c6-a53d57d0bc6f/mza_7602152456133089088.jpg/1200x630wp.png"
+        },
+        {
           "id": "https://www.binance.com/en/blog/from-cz/transparency-on-wallets-at-binance-4080204794657829130",
           "author": null,
           "description": "Transparency on Wallets at Binance | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/transparency-on-wallets-at-binance-4080204794657829130",
           "publishedOn": "2022-11-26T01:30:05.000Z",
-          "wordCount": 7748,
+          "wordCount": 7777,
           "title": "Transparency on Wallets at Binance | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221125/bb4d50bd-4059-4902-8310-a2148b19a8cf.png"
         },
@@ -34,16 +44,6 @@
           "wordCount": 14129,
           "title": "White Man",
           "imageUrl": "https://miro.medium.com/max/400/0*1_HOlLXPg8wFtcms"
-        },
-        {
-          "id": "https://www.infura.io/",
-          "author": null,
-          "description": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
-          "link": "https://www.infura.io/",
-          "publishedOn": "2022-11-25T23:30:06.000Z",
-          "wordCount": 1717,
-          "title": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
-          "imageUrl": "https://images.ctfassets.net/6g6hg01fg28j/46YCPR4PsB1jrxbZUhz2iB/8028b231576a5a6cc395af74be99f01a/image.png"
         },
         {
           "id": "https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves",
@@ -91,7 +91,7 @@
           "description": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "link": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
           "publishedOn": "2022-11-25T17:30:04.000Z",
-          "wordCount": 15687,
+          "wordCount": 15678,
           "title": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZmI4ODA2Y2MtNDRmNC00ZDBkLWFkMTUtZDRiYTFjMWFkYWQ3LmpwZw==.jpg"
         },
@@ -163,7 +163,7 @@
           "publishedOn": "2022-11-24T22:30:03.000Z",
           "wordCount": 1274,
           "title": "GitHub - a16z/helios: A fast, secure, and portable light client for Ethereum",
-          "imageUrl": "https://opengraph.githubassets.com/d2a1941d60346203ab31eac465c2eb8d1f581e31c0052fe77511465f972e80be/a16z/helios"
+          "imageUrl": "https://opengraph.githubassets.com/9fac74138679baaf2ddb837b3b805a6534bec63642944f260654e794da1d1a4b/a16z/helios"
         },
         {
           "id": "https://www.youtube.com/watch?v=HX_Zr_gVeOE&feature=youtu.be",
@@ -181,7 +181,7 @@
           "description": "Crypto investor DCG reveals web of investments between units",
           "link": "https://www.ft.com/content/6b0e81ad-effd-4e1c-ad9c-0b9f708dcdf5",
           "publishedOn": "2022-11-24T19:30:05.000Z",
-          "wordCount": 1598,
+          "wordCount": 1597,
           "title": "Crypto investor DCG reveals web of investments between units",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "Open Sourcing Cairo 1.0!",
           "link": "https://medium.com/starkware/open-sourcing-cairo-1-0-b3100a664bb0",
           "publishedOn": "2022-11-24T18:00:05.000Z",
-          "wordCount": 3018,
+          "wordCount": 2574,
           "title": "Open Sourcing Cairo 1.0!",
           "imageUrl": "https://miro.medium.com/max/1200/1*RSZXhxCej7j0c4bpEW5LrQ.png"
         },
