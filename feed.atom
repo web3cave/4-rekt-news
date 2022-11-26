@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-26T09:18:32.657Z</id>
+    <id>urn:2022-11-26T10:19:37.281Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-26T09:18:32.657Z</updated>
+    <updated>2022-11-26T10:19:37.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sphere Eversion Program]]></title>
+        <id>http://profs.etsmtl.ca/mmcguffin/eversion/</id>
+        <link href="http://profs.etsmtl.ca/mmcguffin/eversion/"/>
+        <updated>2022-11-26T09:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Sphere Eversion Program]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming full circle]]></title>
+        <id>https://loiluu.com/loi-luus-blog/coming-full-circle</id>
+        <link href="https://loiluu.com/loi-luus-blog/coming-full-circle"/>
+        <updated>2022-11-26T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Coming full circle]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum API | IPFS API & Gateway | ETH Nodes as a Service]]></title>
         <id>https://www.infura.io/</id>
         <link href="https://www.infura.io/"/>
         <updated>2022-11-26T06:30:02.000Z</updated>
         <summary type="html"><![CDATA[Ethereum API | IPFS API & Gateway | ETH Nodes as a Service]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy Policy]]></title>
-        <id>https://www.alchemy.com/policies/privacy-policy</id>
-        <link href="https://www.alchemy.com/policies/privacy-policy"/>
-        <updated>2022-11-26T05:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Privacy Policy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -81,16 +91,6 @@
         <link href="https://www.theblock.co/post/190023/genesis-global-capital-investigated-by-u-s-regulators-barrons"/>
         <updated>2022-11-25T22:00:05.000Z</updated>
         <summary type="html"><![CDATA[Genesis Global Capital investigated by U.S. regulators: Barron's]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building the Future of Digital Assets - Amber Group]]></title>
-        <id>https://www.ambergroup.io/</id>
-        <link href="https://www.ambergroup.io/"/>
-        <updated>2022-11-25T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Building the Future of Digital Assets - Amber Group]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

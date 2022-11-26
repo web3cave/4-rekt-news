@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://profs.etsmtl.ca/mmcguffin/eversion/",
+          "author": null,
+          "description": "Sphere Eversion Program",
+          "link": "http://profs.etsmtl.ca/mmcguffin/eversion/",
+          "publishedOn": "2022-11-26T09:30:04.000Z",
+          "wordCount": 876,
+          "title": "Sphere Eversion Program",
+          "imageUrl": null
+        },
+        {
+          "id": "https://loiluu.com/loi-luus-blog/coming-full-circle",
+          "author": null,
+          "description": "Coming full circle",
+          "link": "https://loiluu.com/loi-luus-blog/coming-full-circle",
+          "publishedOn": "2022-11-26T07:00:02.000Z",
+          "wordCount": 3933,
+          "title": "Coming full circle",
+          "imageUrl": "https://super-static-assets.s3.amazonaws.com/66134093-8bc1-4ee3-bf2f-1a27a2366107/images/2327c4f4-b035-4bf6-adc9-1c8f0056f35b.jpg"
+        },
+        {
           "id": "https://www.infura.io/",
           "author": null,
           "description": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
@@ -14,16 +34,6 @@
           "wordCount": 1717,
           "title": "Ethereum API | IPFS API & Gateway | ETH Nodes as a Service",
           "imageUrl": "https://images.ctfassets.net/6g6hg01fg28j/46YCPR4PsB1jrxbZUhz2iB/8028b231576a5a6cc395af74be99f01a/image.png"
-        },
-        {
-          "id": "https://www.alchemy.com/policies/privacy-policy",
-          "author": null,
-          "description": "Privacy Policy",
-          "link": "https://www.alchemy.com/policies/privacy-policy",
-          "publishedOn": "2022-11-26T05:00:02.000Z",
-          "wordCount": 10742,
-          "title": "Privacy Policy",
-          "imageUrl": null
         },
         {
           "id": "https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463?i=1000587380517",
@@ -41,7 +51,7 @@
           "description": "Transparency on Wallets at Binance | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/transparency-on-wallets-at-binance-4080204794657829130",
           "publishedOn": "2022-11-26T01:30:05.000Z",
-          "wordCount": 7734,
+          "wordCount": 7768,
           "title": "Transparency on Wallets at Binance | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221125/bb4d50bd-4059-4902-8310-a2148b19a8cf.png"
         },
@@ -81,19 +91,9 @@
           "description": "Genesis Global Capital investigated by U.S. regulators: Barron's",
           "link": "https://www.theblock.co/post/190023/genesis-global-capital-investigated-by-u-s-regulators-barrons",
           "publishedOn": "2022-11-25T22:00:05.000Z",
-          "wordCount": 59206,
+          "wordCount": 59205,
           "title": "Genesis Global Capital investigated by U.S. regulators: Barron's",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20201030_Genesis-Icon-675x675.jpg"
-        },
-        {
-          "id": "https://www.ambergroup.io/",
-          "author": null,
-          "description": "Building the Future of Digital Assets - Amber Group",
-          "link": "https://www.ambergroup.io/",
-          "publishedOn": "2022-11-25T21:00:02.000Z",
-          "wordCount": 235,
-          "title": "Building the Future of Digital Assets - Amber Group",
-          "imageUrl": "https://www.ambergroup.io/icons/logo-large.png"
         },
         {
           "id": "https://theeagleweekly.substack.com/p/25-november-2022-doubling-down-on?utm_source=direct&r=cqeuk&utm_campaign=post&utm_medium=web",
@@ -101,7 +101,7 @@
           "description": "25 November 2022: Doubling down on non-custodial and censorship-resistant assets",
           "link": "https://theeagleweekly.substack.com/p/25-november-2022-doubling-down-on?utm_source=direct&r=cqeuk&utm_campaign=post&utm_medium=web",
           "publishedOn": "2022-11-25T20:00:04.000Z",
-          "wordCount": 3162,
+          "wordCount": 3368,
           "title": "25 November 2022: Doubling down on non-custodial and censorship-resistant assets",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e3e0fb6-9749-4764-814d-64d69ad6e701_600x600.png"
         },
@@ -121,7 +121,7 @@
           "description": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "link": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
           "publishedOn": "2022-11-25T17:30:04.000Z",
-          "wordCount": 15677,
+          "wordCount": 15686,
           "title": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZmI4ODA2Y2MtNDRmNC00ZDBkLWFkMTUtZDRiYTFjMWFkYWQ3LmpwZw==.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Binance clarifies initial $1 billion recovery fund deposit came from own assets",
           "link": "https://www.theblock.co/post/189897/binance-clarifies-recovery-fund-deposits?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-25T13:30:04.000Z",
-          "wordCount": 59857,
+          "wordCount": 59856,
           "title": "Binance clarifies initial $1 billion recovery fund deposit came from own assets",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211208_Changpeng-Zhao-CZ-Binance-1200x675.jpg"
         },
