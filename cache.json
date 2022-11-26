@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://qz.com/edited-no-bs-version-of-sam-bankman-fried-ftx-memo-1849816240",
+          "author": null,
+          "description": "Sam Bankman-Fried's memo to FTX employees, edited to remove the bullshit",
+          "link": "https://qz.com/edited-no-bs-version-of-sam-bankman-fried-ftx-memo-1849816240",
+          "publishedOn": "2022-11-26T16:00:03.000Z",
+          "wordCount": 7330,
+          "title": "Sam Bankman-Fried's memo to FTX employees, edited to remove the bullshit",
+          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e7e58e3549257f34264a9c882c57cfa7.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xUNX45IGNnw&feature=youtu.be",
           "author": null,
           "description": "TDG's 2 year anniversary, Core dev updates and more - The Daily Gwei Refuel #495 - Ethereum Updates",
@@ -51,7 +61,7 @@
           "description": "Transparency on Wallets at Binance | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/transparency-on-wallets-at-binance-4080204794657829130",
           "publishedOn": "2022-11-26T01:30:05.000Z",
-          "wordCount": 7773,
+          "wordCount": 7749,
           "title": "Transparency on Wallets at Binance | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221125/bb4d50bd-4059-4902-8310-a2148b19a8cf.png"
         },
@@ -81,7 +91,7 @@
           "description": "Proving Your Bitcoin Reserves",
           "link": "https://web.archive.org/web/20170114112433/https://iwilcox.me.uk/2014/proving-bitcoin-reserves",
           "publishedOn": "2022-11-25T23:00:01.000Z",
-          "wordCount": 4104,
+          "wordCount": 4001,
           "title": "Proving Your Bitcoin Reserves",
           "imageUrl": null
         },
@@ -91,7 +101,7 @@
           "description": "Genesis Global Capital investigated by U.S. regulators: Barron's",
           "link": "https://www.theblock.co/post/190023/genesis-global-capital-investigated-by-u-s-regulators-barrons",
           "publishedOn": "2022-11-25T22:00:05.000Z",
-          "wordCount": 59617,
+          "wordCount": 61187,
           "title": "Genesis Global Capital investigated by U.S. regulators: Barron's",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20201030_Genesis-Icon-675x675.jpg"
         },
@@ -104,16 +114,6 @@
           "wordCount": 1664,
           "title": "FTX & The Corruption Of America | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/emilianobonassi/loadbalanceeeer",
-          "author": null,
-          "description": "GitHub - emilianobonassi/loadbalanceeeer: PoC local JSON-RPC load-balancer with opt-in anonymizer via Tor",
-          "link": "https://github.com/emilianobonassi/loadbalanceeeer",
-          "publishedOn": "2022-11-25T21:00:02.000Z",
-          "wordCount": 700,
-          "title": "GitHub - emilianobonassi/loadbalanceeeer: PoC local JSON-RPC load-balancer with opt-in anonymizer via Tor",
-          "imageUrl": "https://opengraph.githubassets.com/d0df75ddfeae8abd279278732a42ff5c6b996dfd323c8e3ccc42d1e1920c4803/emilianobonassi/loadbalanceeeer"
         },
         {
           "id": "https://theeagleweekly.substack.com/p/25-november-2022-doubling-down-on?utm_source=direct&r=cqeuk&utm_campaign=post&utm_medium=web",
@@ -141,7 +141,7 @@
           "description": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "link": "https://cointelegraph.com/news/belgium-says-btc-eth-and-other-decentralized-coins-are-not-securities",
           "publishedOn": "2022-11-25T17:30:04.000Z",
-          "wordCount": 15672,
+          "wordCount": 15673,
           "title": "Belgium says BTC, ETH and other decentralized coins are not securities",
           "imageUrl": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvZmI4ODA2Y2MtNDRmNC00ZDBkLWFkMTUtZDRiYTFjMWFkYWQ3LmpwZw==.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Migrate WBTC big DAO multisig to a new one with safer active signers by tranvictor · Pull Request #12 · WrappedBTC/DAO",
           "link": "https://github.com/WrappedBTC/DAO/pull/12",
           "publishedOn": "2022-11-25T15:00:02.000Z",
-          "wordCount": 1206,
+          "wordCount": 1209,
           "title": "Migrate WBTC big DAO multisig to a new one with safer active signers by tranvictor · Pull Request #12 · WrappedBTC/DAO",
           "imageUrl": "https://opengraph.githubassets.com/e75ee3e3be61f7a5db42054ed317d941695728460a0e7a6be6655c513e1f55d9/WrappedBTC/DAO/pull/12"
         },
