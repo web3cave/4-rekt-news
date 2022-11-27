@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.economist.com/finance-and-economics/2022/11/23/how-crypto-goes-to-zero?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content",
+          "author": null,
+          "description": "How crypto goes to zero",
+          "link": "https://www.economist.com/finance-and-economics/2022/11/23/how-crypto-goes-to-zero?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content",
+          "publishedOn": "2022-11-27T02:30:02.000Z",
+          "wordCount": 7611,
+          "title": "How crypto goes to zero",
+          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221126_FND002.jpg"
+        },
+        {
           "id": "https://lenstube.xyz/watch/0xc1bd-0xc5",
           "author": null,
           "description": "Lenstube",
@@ -126,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/santa-pause-rally",
-          "author": null,
-          "description": "The Santa Pause Rally | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/santa-pause-rally",
-          "publishedOn": "2022-11-26T21:00:01.000Z",
-          "wordCount": 3398,
-          "title": "The Santa Pause Rally | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/foundry-rs/foundry/pull/3465",
           "author": null,
           "description": "feat(chisel): Introduces a Solidity REPL by abigger87 · Pull Request #3465 · foundry-rs/foundry",
@@ -201,7 +201,7 @@
           "description": "White Man",
           "link": "https://cryptohayes.medium.com/white-man-5001d38a5e4e",
           "publishedOn": "2022-11-26T01:30:04.000Z",
-          "wordCount": 14129,
+          "wordCount": 14503,
           "title": "White Man",
           "imageUrl": "https://miro.medium.com/max/400/0*1_HOlLXPg8wFtcms"
         }
