@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/world-asia-60715707.amp",
+          "author": null,
+          "description": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
+          "link": "https://www.bbc.com/news/world-asia-60715707.amp",
+          "publishedOn": "2022-11-28T23:00:03.000Z",
+          "wordCount": 3387,
+          "title": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1D8C/production/_123646570_gettyimages-945312872.jpg"
+        },
+        {
           "id": "https://www.fourthrevolution.capital/",
           "author": null,
           "description": "Fourth Revolution Capital - Focused on Blockchain & Digital Assets",
@@ -14,16 +24,6 @@
           "wordCount": 1889,
           "title": "Fourth Revolution Capital - Focused on Blockchain & Digital Assets",
           "imageUrl": "https://www.fourthrevolution.capital/wp-content/uploads/2022/10/socialmedia-cover.png"
-        },
-        {
-          "id": "https://writings.flashbots.net/the-future-of-mev-is-suave/",
-          "author": null,
-          "description": "The Future of MEV is SUAVE | Flashbots",
-          "link": "https://writings.flashbots.net/the-future-of-mev-is-suave/",
-          "publishedOn": "2022-11-28T21:30:04.000Z",
-          "wordCount": 3778,
-          "title": "The Future of MEV is SUAVE | Flashbots",
-          "imageUrl": "https://writings.flashbots.net/img/posts/suave/logo-landscape.jpg"
         },
         {
           "id": "https://www.paradigm.xyz/2022/11/paradigm-and-wagmi",
@@ -71,7 +71,7 @@
           "description": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "link": "https://www.theblock.co/post/190296/wrapped-ether-remains-perfectly-fine-despite-jokes-on-twitter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57948,
+          "wordCount": 58005,
           "title": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220802_Ethereum-Merge-2-1200x675.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "link": "https://www.coindesk.com/markets/2022/11/28/makerdao-community-rejects-coinshares-proposal-to-invest-up-to-500m-in-bonds/",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 6578,
+          "wordCount": 6678,
           "title": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "imageUrl": "https://www.coindesk.com/resizer/dTyKOt3NBUsOWeCujCUl9IH6BME=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6M3OIU2KVGN3B2OZ3OMTK5YSE.jpg"
         },
@@ -141,7 +141,7 @@
           "description": "GitHub - WETH10/WETH10: revamped contract",
           "link": "https://github.com/WETH10/WETH10",
           "publishedOn": "2022-11-28T11:30:06.000Z",
-          "wordCount": 908,
+          "wordCount": 1015,
           "title": "GitHub - WETH10/WETH10: revamped contract",
           "imageUrl": "https://opengraph.githubassets.com/fe5679a7ae7dca51ebd19ee8f507dae8a4335891bbf5d02c70be99f0f0513790/WETH10/WETH10"
         },
@@ -171,7 +171,7 @@
           "description": "GitHub - fubuloubu/WETH8: WETH Implementation in Vyper + gas comparisons to WETH9 and WETH10",
           "link": "https://github.com/fubuloubu/WETH8",
           "publishedOn": "2022-11-28T05:30:05.000Z",
-          "wordCount": 836,
+          "wordCount": 758,
           "title": "GitHub - fubuloubu/WETH8: WETH Implementation in Vyper + gas comparisons to WETH9 and WETH10",
           "imageUrl": "https://opengraph.githubassets.com/7cba90f61951bc0a6028282f176de5342907acbe168d3656fab5cd114035ebb0/fubuloubu/WETH8"
         },
@@ -181,7 +181,7 @@
           "description": "Opinion | Centralization Caused the FTX Fiasco",
           "link": "https://www.wsj.com/articles/centralization-caused-the-ftx-fiasco-sam-bankman-fried-regulation-lobbying-assets-funds-cryptocurrency-exchange-11669566906",
           "publishedOn": "2022-11-28T03:00:02.000Z",
-          "wordCount": 6057,
+          "wordCount": 6055,
           "title": "Opinion | Centralization Caused the FTX Fiasco",
           "imageUrl": "https://images.wsj.net/im-674267/social"
         },
