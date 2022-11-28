@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://sobol.io/",
+          "author": null,
+          "description": "Sobol - Your DAO Operations Hub",
+          "link": "https://sobol.io/",
+          "publishedOn": "2022-11-28T02:00:03.000Z",
+          "wordCount": 377,
+          "title": "Sobol - Your DAO Operations Hub",
+          "imageUrl": null
+        },
+        {
           "id": "https://cepr.net/sam-bankman-frieds-truly-effective-philanthropy-teaching/",
           "author": null,
           "description": "Sam Bankman-Fried’s Truly Effective Philanthropy: Teaching - Center for Economic and Policy Research",
           "link": "https://cepr.net/sam-bankman-frieds-truly-effective-philanthropy-teaching/",
           "publishedOn": "2022-11-28T00:00:06.000Z",
-          "wordCount": 3322,
+          "wordCount": null,
           "title": "Sam Bankman-Fried’s Truly Effective Philanthropy: Teaching - Center for Economic and Policy Research",
-          "imageUrl": "https://cepr.net/wp-content/uploads/2022/11/Untitled-design2.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?app=desktop&v=N9pJ9JieX10",
@@ -64,16 +74,6 @@
           "wordCount": 1048,
           "title": "In 2020, The Most Traded Global Good Was Not Crude Oil But Semiconductors | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/DefiLlama/chainlist/pull/206",
-          "author": null,
-          "description": "Update extraRpcs.js - Flashbots RPC does not track by metachris · Pull Request #206 · DefiLlama/chainlist",
-          "link": "https://github.com/DefiLlama/chainlist/pull/206",
-          "publishedOn": "2022-11-27T21:00:04.000Z",
-          "wordCount": 877,
-          "title": "Update extraRpcs.js - Flashbots RPC does not track by metachris · Pull Request #206 · DefiLlama/chainlist",
-          "imageUrl": "https://opengraph.githubassets.com/2aec6f892722e279c371dddfd12ca4128edf0584c2abbb8214fd80c4996deb01/DefiLlama/chainlist/pull/206"
         },
         {
           "id": "https://jumpcrypto.com/evisceration-of-trust/",
@@ -201,7 +201,7 @@
           "description": "Miami nightclubs mourn absence of high-rolling crypto entrepreneurs",
           "link": "https://www.ft.com/content/68ca53f4-50e1-4607-8b05-a8801d8b1cb5",
           "publishedOn": "2022-11-26T19:00:04.000Z",
-          "wordCount": 1584,
+          "wordCount": 1586,
           "title": "Miami nightclubs mourn absence of high-rolling crypto entrepreneurs",
           "imageUrl": null
         }
