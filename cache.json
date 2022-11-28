@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.paradigm.xyz/2022/11/paradigm-and-wagmi",
+          "author": null,
+          "description": "Paradigm × wagmi - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/11/paradigm-and-wagmi",
+          "publishedOn": "2022-11-28T20:30:02.000Z",
+          "wordCount": 1172,
+          "title": "Paradigm × wagmi - Paradigm",
+          "imageUrl": "https://paradigm.xyz/static/announcing-paradigm-and-wagmi.png"
+        },
+        {
           "id": "https://www.sec.gov/news/press-release/2022-26",
           "author": null,
           "description": "SEC.gov | BlockFi Agrees to Pay $100 Million in Penalties and Pursue Registration of its Crypto Lending Product",
@@ -26,12 +36,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://pacer-documents.s3.amazonaws.com/109/1094078/118164199368.pdf",
+          "author": null,
+          "description": "[PDF] (Official Form 1) (10/06)(PSK Special)",
+          "link": "https://pacer-documents.s3.amazonaws.com/109/1094078/118164199368.pdf",
+          "publishedOn": "2022-11-28T19:00:03.000Z",
+          "wordCount": 55811,
+          "title": "[PDF] (Official Form 1) (10/06)(PSK Special)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/190296/wrapped-ether-remains-perfectly-fine-despite-jokes-on-twitter?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "link": "https://www.theblock.co/post/190296/wrapped-ether-remains-perfectly-fine-despite-jokes-on-twitter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57947,
+          "wordCount": 58212,
           "title": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220802_Ethereum-Merge-2-1200x675.jpg"
         },
@@ -84,16 +104,6 @@
           "wordCount": 2820,
           "title": "Gaming is Eating the World — and Web3 (Part I)",
           "imageUrl": "https://miro.medium.com/max/1200/0*vDcdjYQMOlQoo6cB"
-        },
-        {
-          "id": "https://pacer-documents.s3.amazonaws.com/109/1094078/118164199368.pdf",
-          "author": null,
-          "description": "[PDF] (Official Form 1) (10/06)(PSK Special)",
-          "link": "https://pacer-documents.s3.amazonaws.com/109/1094078/118164199368.pdf",
-          "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 55811,
-          "title": "[PDF] (Official Form 1) (10/06)(PSK Special)",
-          "imageUrl": null
         },
         {
           "id": "https://cases.ra.kroll.com/FTX/",
@@ -151,7 +161,7 @@
           "description": "GitHub - fubuloubu/WETH8: WETH Implementation in Vyper + gas comparisons to WETH9 and WETH10",
           "link": "https://github.com/fubuloubu/WETH8",
           "publishedOn": "2022-11-28T05:30:05.000Z",
-          "wordCount": 834,
+          "wordCount": 758,
           "title": "GitHub - fubuloubu/WETH8: WETH Implementation in Vyper + gas comparisons to WETH9 and WETH10",
           "imageUrl": "https://opengraph.githubassets.com/7cba90f61951bc0a6028282f176de5342907acbe168d3656fab5cd114035ebb0/fubuloubu/WETH8"
         },
@@ -181,7 +191,7 @@
           "description": "Ice age bacteria brought back to life",
           "link": "https://www.newscientist.com/article/dn7064-ice-age-bacteria-brought-back-to-life/#:~:text=Now%20named%20Carnobacterium%20pleistocenium%2C%20it,mammoths%20still%20roamed%20the%20Earth",
           "publishedOn": "2022-11-28T03:00:02.000Z",
-          "wordCount": 3312,
+          "wordCount": 3323,
           "title": "Ice age bacteria brought back to life",
           "imageUrl": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 3336,
           "title": "Sam Bankman-Fried’s Truly Effective Philanthropy: Teaching - Center for Economic and Policy Research",
           "imageUrl": "https://cepr.net/wp-content/uploads/2022/11/Untitled-design2.png"
-        },
-        {
-          "id": "https://github.com/flashbots/rpc-endpoint",
-          "author": null,
-          "description": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
-          "link": "https://github.com/flashbots/rpc-endpoint",
-          "publishedOn": "2022-11-27T19:00:03.000Z",
-          "wordCount": 1349,
-          "title": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
-          "imageUrl": "https://opengraph.githubassets.com/93a8f0ffd30300de029464021489a61c82f8db52c971575701884a26d21cac22/flashbots/rpc-endpoint"
         }
       ]
     }
