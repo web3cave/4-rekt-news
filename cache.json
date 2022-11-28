@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dune.com/blog/uni-airdrop-analysis",
+          "author": null,
+          "description": "The Uniswap Airdrop - Lessons for the Industry",
+          "link": "https://dune.com/blog/uni-airdrop-analysis",
+          "publishedOn": "2022-11-28T07:30:04.000Z",
+          "wordCount": 3082,
+          "title": "The Uniswap Airdrop - Lessons for the Industry",
+          "imageUrl": "https://global-uploads.webflow.com/62fca6954348cf321d918ef1/637e51a7dd2efe0170543f08_The%20Uniswap%20Airdrop_%20Lessons%20for%20the%20Industry.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mbIdAODhcXo",
           "author": null,
           "description": "What is ResearchHub?",
@@ -26,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/commodities/18m-chickens-slaughtered-nebraska-bird-flu-pecks-away-food-supply",
-          "author": null,
-          "description": "1.8M Chickens Slaughtered In Nebraska As Bird Flu Pecks Away At Food Supply | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/18m-chickens-slaughtered-nebraska-bird-flu-pecks-away-food-supply",
-          "publishedOn": "2022-11-28T07:00:04.000Z",
-          "wordCount": 609,
-          "title": "1.8M Chickens Slaughtered In Nebraska As Bird Flu Pecks Away At Food Supply | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81",
           "author": null,
           "description": "Fantom: an inside financial peak at being a “crypto company”",
@@ -51,7 +51,7 @@
           "description": "Three Things #45: November 27, 2022",
           "link": "https://rettig.substack.com/p/three-things-45-november-27-2022?utm_source=twitter&sd=pf",
           "publishedOn": "2022-11-28T05:00:02.000Z",
-          "wordCount": 6188,
+          "wordCount": 5982,
           "title": "Three Things #45: November 27, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe00769dc-a556-4597-a60e-36c9b8d5aaf4_512x512.png"
         },
@@ -126,10 +126,10 @@
           "imageUrl": "https://images.wsj.net/im-674267/social"
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZFTJliFl5Fo",
+          "id": "https://www.youtube.com/watch?v=ZFTJliFl5Fo&feature=youtu.be",
           "author": null,
           "description": "National Address with respect to the FTX Collapse - Sen. The Hon. Ryan Pinder KC, Attorney General",
-          "link": "https://www.youtube.com/watch?v=ZFTJliFl5Fo",
+          "link": "https://www.youtube.com/watch?v=ZFTJliFl5Fo&feature=youtu.be",
           "publishedOn": "2022-11-28T03:00:02.000Z",
           "wordCount": null,
           "title": "National Address with respect to the FTX Collapse - Sen. The Hon. Ryan Pinder KC, Attorney General",
@@ -141,7 +141,7 @@
           "description": "Ice age bacteria brought back to life",
           "link": "https://www.newscientist.com/article/dn7064-ice-age-bacteria-brought-back-to-life/#:~:text=Now%20named%20Carnobacterium%20pleistocenium%2C%20it,mammoths%20still%20roamed%20the%20Earth",
           "publishedOn": "2022-11-28T03:00:02.000Z",
-          "wordCount": 3281,
+          "wordCount": 3286,
           "title": "Ice age bacteria brought back to life",
           "imageUrl": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
           "link": "https://github.com/flashbots/rpc-endpoint",
           "publishedOn": "2022-11-27T19:00:03.000Z",
-          "wordCount": 1201,
+          "wordCount": 1350,
           "title": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
           "imageUrl": "https://opengraph.githubassets.com/93a8f0ffd30300de029464021489a61c82f8db52c971575701884a26d21cac22/flashbots/rpc-endpoint"
         },
