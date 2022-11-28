@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.zerohedge.com/crypto/when-crypto-bros-hit-miami-it-was-revenge-nerds-booking-tables-50000",
-          "author": null,
-          "description": "When Crypto Bros Hit Miami: \"It Was Like Revenge Of The Nerds\" Booking Tables For $50,000 | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/when-crypto-bros-hit-miami-it-was-revenge-nerds-booking-tables-50000",
-          "publishedOn": "2022-11-28T03:30:03.000Z",
-          "wordCount": 2164,
-          "title": "When Crypto Bros Hit Miami: \"It Was Like Revenge Of The Nerds\" Booking Tables For $50,000 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.wsj.com/articles/centralization-caused-the-ftx-fiasco-sam-bankman-fried-regulation-lobbying-assets-funds-cryptocurrency-exchange-11669566906",
           "author": null,
           "description": "Opinion | Centralization Caused the FTX Fiasco",
@@ -54,6 +44,16 @@
           "wordCount": 3099,
           "title": "Missouri AG to depose Fauci in social media lawsuit - Breaking911",
           "imageUrl": "https://breaking911.com/wp-content/uploads/2021/07/200331124419-02-fauci-0327-full-169.jpg"
+        },
+        {
+          "id": "https://charts.volmex.finance/",
+          "author": null,
+          "description": "Volmex",
+          "link": "https://charts.volmex.finance/",
+          "publishedOn": "2022-11-28T03:00:02.000Z",
+          "wordCount": 23,
+          "title": "Volmex",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/technology/phone-numbers-are-legit-binances-cz-says-half-billion-whatsapp-user-records-sale-dark",
@@ -161,7 +161,7 @@
           "description": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
           "link": "https://github.com/flashbots/rpc-endpoint",
           "publishedOn": "2022-11-27T19:00:03.000Z",
-          "wordCount": 1201,
+          "wordCount": 1350,
           "title": "GitHub - flashbots/rpc-endpoint: Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)",
           "imageUrl": "https://opengraph.githubassets.com/d18ebb86d51c4a8757d601c5caa9fb00bc9c7e27d8dfefa7f7595c08f33c1659/flashbots/rpc-endpoint"
         },
