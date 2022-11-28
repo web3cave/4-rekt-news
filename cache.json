@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/",
+          "author": null,
+          "description": "Cypherpunk Cogitations",
+          "link": "https://blog.lopp.net/",
+          "publishedOn": "2022-11-28T10:00:05.000Z",
+          "wordCount": 534,
+          "title": "Cypherpunk Cogitations",
+          "imageUrl": "https://blog.lopp.net/content/images/2021/04/cypherpunk-1.jpeg"
+        },
+        {
+          "id": "https://www.ft.com/content/72c3c6cb-478a-4166-9f1c-7590fdb6b6ef",
+          "author": null,
+          "description": "Nervous auditors turn up the heat on crypto clients",
+          "link": "https://www.ft.com/content/72c3c6cb-478a-4166-9f1c-7590fdb6b6ef",
+          "publishedOn": "2022-11-28T10:00:05.000Z",
+          "wordCount": 1592,
+          "title": "Nervous auditors turn up the heat on crypto clients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/us-bans-huawei-zte-telecom-equipment-citing-threats-national-security",
+          "author": null,
+          "description": "US Bans Huawei, ZTE Telecom Equipment Citing Threats To National Security | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/us-bans-huawei-zte-telecom-equipment-citing-threats-national-security",
+          "publishedOn": "2022-11-28T09:30:04.000Z",
+          "wordCount": 1094,
+          "title": "US Bans Huawei, ZTE Telecom Equipment Citing Threats To National Security | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/energy/european-unions-misguided-energy-price-cap-proposal",
           "author": null,
           "description": "The European Union's Misguided Energy Price Cap Proposal | ZeroHedge",
@@ -76,16 +106,6 @@
           "imageUrl": "https://opengraph.githubassets.com/272bdb0e6a59ee67407849faefcc6eb6bbe5a081eb0748ca3b0722946b2f2ac8/fubuloubu/WETH8"
         },
         {
-          "id": "https://rettig.substack.com/p/three-things-45-november-27-2022?utm_source=twitter&sd=pf",
-          "author": null,
-          "description": "Three Things #45: November 27, 2022",
-          "link": "https://rettig.substack.com/p/three-things-45-november-27-2022?utm_source=twitter&sd=pf",
-          "publishedOn": "2022-11-28T05:00:02.000Z",
-          "wordCount": 6188,
-          "title": "Three Things #45: November 27, 2022",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe00769dc-a556-4597-a60e-36c9b8d5aaf4_512x512.png"
-        },
-        {
           "id": "https://www.zerohedge.com/political/plane-crashes-high-voltage-power-lines-leaving-120000-without-power-maryland",
           "author": null,
           "description": "Plane Crashes Into High Voltage Power Lines Leaving 120,000 Without Power In Maryland | ZeroHedge",
@@ -93,26 +113,6 @@
           "publishedOn": "2022-11-28T05:00:02.000Z",
           "wordCount": 791,
           "title": "Plane Crashes Into High Voltage Power Lines Leaving 120,000 Without Power In Maryland | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/faucis-7-hour-deposition-what-we-know-so-far",
-          "author": null,
-          "description": "Fauci's 7-Hour Deposition: What We Know So Far | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/faucis-7-hour-deposition-what-we-know-so-far",
-          "publishedOn": "2022-11-28T05:00:02.000Z",
-          "wordCount": 4426,
-          "title": "Fauci's 7-Hour Deposition: What We Know So Far | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/futures-crude-crypto-yuan-tumble-amid-violent-china-covid-protests-goldman-warns-disorderly",
-          "author": null,
-          "description": "Futures, Crude, Crypto, Yuan Tumble Amid Violent China Covid Protests As Goldman Warns Of \"Disorderly\" Early Exit...",
-          "link": "https://www.zerohedge.com/markets/futures-crude-crypto-yuan-tumble-amid-violent-china-covid-protests-goldman-warns-disorderly",
-          "publishedOn": "2022-11-28T05:00:02.000Z",
-          "wordCount": 1770,
-          "title": "Futures, Crude, Crypto, Yuan Tumble Amid Violent China Covid Protests As Goldman Warns Of \"Disorderly\" Early Exit...",
           "imageUrl": null
         },
         {
@@ -131,7 +131,7 @@
           "description": "Opinion | Centralization Caused the FTX Fiasco",
           "link": "https://www.wsj.com/articles/centralization-caused-the-ftx-fiasco-sam-bankman-fried-regulation-lobbying-assets-funds-cryptocurrency-exchange-11669566906",
           "publishedOn": "2022-11-28T03:00:02.000Z",
-          "wordCount": 8282,
+          "wordCount": 6047,
           "title": "Opinion | Centralization Caused the FTX Fiasco",
           "imageUrl": "https://images.wsj.net/im-674267/social"
         },
@@ -151,7 +151,7 @@
           "description": "Ice age bacteria brought back to life",
           "link": "https://www.newscientist.com/article/dn7064-ice-age-bacteria-brought-back-to-life/#:~:text=Now%20named%20Carnobacterium%20pleistocenium%2C%20it,mammoths%20still%20roamed%20the%20Earth",
           "publishedOn": "2022-11-28T03:00:02.000Z",
-          "wordCount": 3292,
+          "wordCount": 3294,
           "title": "Ice age bacteria brought back to life",
           "imageUrl": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg"
         },
@@ -161,9 +161,9 @@
           "description": "Sam Bankman-Fried’s Truly Effective Philanthropy: Teaching - Center for Economic and Policy Research",
           "link": "https://cepr.net/sam-bankman-frieds-truly-effective-philanthropy-teaching/",
           "publishedOn": "2022-11-28T00:00:06.000Z",
-          "wordCount": null,
+          "wordCount": 3322,
           "title": "Sam Bankman-Fried’s Truly Effective Philanthropy: Teaching - Center for Economic and Policy Research",
-          "imageUrl": null
+          "imageUrl": "https://cepr.net/wp-content/uploads/2022/11/Untitled-design2.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=qyd7mvQmn5I&feature=youtu.be",
