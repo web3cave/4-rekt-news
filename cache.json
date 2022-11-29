@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.ca/general/2021/08/16/voting3.html",
+          "author": null,
+          "description": "Moving beyond coin voting governance",
+          "link": "https://vitalik.ca/general/2021/08/16/voting3.html",
+          "publishedOn": "2022-11-29T15:00:02.000Z",
+          "wordCount": 5258,
+          "title": "Moving beyond coin voting governance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311",
           "author": null,
           "description": "After Delhi High Court Ruling, Telegram Discloses Names, Phone Numbers & IP Addresses Of Users Accused Of Sharing...",
@@ -56,12 +66,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://eprint.iacr.org/2022/1643",
+          "author": null,
+          "description": "End-to-End Secure Messaging with Traceability Only for Illegal Content",
+          "link": "https://eprint.iacr.org/2022/1643",
+          "publishedOn": "2022-11-28T23:30:04.000Z",
+          "wordCount": 570,
+          "title": "End-to-End Secure Messaging with Traceability Only for Illegal Content",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbc.com/news/world-asia-60715707.amp",
           "author": null,
           "description": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
           "link": "https://www.bbc.com/news/world-asia-60715707.amp",
           "publishedOn": "2022-11-28T23:00:03.000Z",
-          "wordCount": 3449,
+          "wordCount": 3445,
           "title": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1D8C/production/_123646570_gettyimages-945312872.jpg"
         },
@@ -106,32 +126,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://mirror.xyz/avsa.eth/4pvULeQRqWCS8mMnk_UY1THYt3p6tEQNL0JkCzflcd0",
-          "author": null,
-          "description": "The failures of Instant Run-off voting from a Designer's perspec…",
-          "link": "https://mirror.xyz/avsa.eth/4pvULeQRqWCS8mMnk_UY1THYt3p6tEQNL0JkCzflcd0",
-          "publishedOn": "2022-11-28T19:30:04.000Z",
-          "wordCount": 3920,
-          "title": "The failures of Instant Run-off voting from a Designer's perspec…",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/S-dKdSlSjnxvjdmyt1j_r.png?height=450&width=900&h=450&w=900&auto=compress"
-        },
-        {
-          "id": "https://thenassauguardian.com/ftx-allegedly-approached-local-banks-to-invest-on-crypto-exchange/",
-          "author": null,
-          "description": "FTX allegedly approached local banks to invest on crypto exchange - The Nassau Guardian",
-          "link": "https://thenassauguardian.com/ftx-allegedly-approached-local-banks-to-invest-on-crypto-exchange/",
-          "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 6425,
-          "title": "FTX allegedly approached local banks to invest on crypto exchange - The Nassau Guardian",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.axios.com/2022/11/28/blockfi-chapter-11-bankruptcy?utm_campaign=editorial&utm_medium=social&utm_source=twitter",
           "author": null,
           "description": "Crypto lender BlockFi files for Chapter 11 bankruptcy protection",
           "link": "https://www.axios.com/2022/11/28/blockfi-chapter-11-bankruptcy?utm_campaign=editorial&utm_medium=social&utm_source=twitter",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 1707,
+          "wordCount": 1710,
           "title": "Crypto lender BlockFi files for Chapter 11 bankruptcy protection",
           "imageUrl": "https://images.axios.com/Nb7fBJDTfI21D3ykl7O9_1Qexsw=/0x0:1920x1080/1366x768/2022/11/16/1668616056319.jpg"
         },
@@ -151,7 +151,7 @@
           "description": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "link": "https://www.theblock.co/post/190296/wrapped-ether-remains-perfectly-fine-despite-jokes-on-twitter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57890,
+          "wordCount": 57519,
           "title": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220802_Ethereum-Merge-2-1200x675.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "link": "https://www.coindesk.com/markets/2022/11/28/makerdao-community-rejects-coinshares-proposal-to-invest-up-to-500m-in-bonds/",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 6703,
+          "wordCount": 6748,
           "title": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "imageUrl": "https://www.coindesk.com/resizer/dTyKOt3NBUsOWeCujCUl9IH6BME=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6M3OIU2KVGN3B2OZ3OMTK5YSE.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Polygon bridge holds $27 million of unclaimed funds, ZenGo finds",
           "link": "https://www.theblock.co/post/190249/polygon-bridge-holds-27-million-of-unclaimed-funds-zengo-finds?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57529,
+          "wordCount": 57158,
           "title": "Polygon bridge holds $27 million of unclaimed funds, ZenGo finds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/211216_Solidity_Rust_Token_Rewards-1200x675.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Gaming is Eating the World — and Web3 (Part I)",
           "link": "https://stepnofficial.medium.com/gaming-is-eating-the-world-and-web3-part-i-cbfb8c9f83dd",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 2820,
+          "wordCount": 3177,
           "title": "Gaming is Eating the World — and Web3 (Part I)",
           "imageUrl": "https://miro.medium.com/max/1200/0*vDcdjYQMOlQoo6cB"
         },
@@ -201,7 +201,7 @@
           "description": "Fantom: an inside financial peak at being a “crypto company”",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81",
           "publishedOn": "2022-11-28T06:00:03.000Z",
-          "wordCount": 2935,
+          "wordCount": 2986,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
