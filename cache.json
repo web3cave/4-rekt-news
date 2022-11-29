@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0",
+          "author": null,
+          "description": "OurNetwork Members Club",
+          "link": "https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0",
+          "publishedOn": "2022-11-29T16:00:04.000Z",
+          "wordCount": 1037,
+          "title": "OurNetwork Members Club",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/53K4o91Dh2Z4UyD3SkqrE.png?h=1668&w=1668"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html",
+          "author": null,
+          "description": "‘No Cooperation’: How Sam Bankman-Fried Tried to Cling to FTX",
+          "link": "https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html",
+          "publishedOn": "2022-11-29T15:30:04.000Z",
+          "wordCount": null,
+          "title": "‘No Cooperation’: How Sam Bankman-Fried Tried to Cling to FTX",
+          "imageUrl": null
+        },
+        {
           "id": "https://vitalik.ca/general/2021/08/16/voting3.html",
           "author": null,
           "description": "Moving beyond coin voting governance",
@@ -31,7 +51,7 @@
           "description": "DeFi Deep Dive: Uniswap Part 2",
           "link": "https://medium.com/friktion-research/defi-deep-dive-uniswap-part-2-8be77a859f47",
           "publishedOn": "2022-11-29T09:00:02.000Z",
-          "wordCount": 3810,
+          "wordCount": 3855,
           "title": "DeFi Deep Dive: Uniswap Part 2",
           "imageUrl": "https://miro.medium.com/max/1024/1*kOFeuXpiaKrHaJlYZdgK7Q.png"
         },
@@ -81,7 +101,7 @@
           "description": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
           "link": "https://www.bbc.com/news/world-asia-60715707.amp",
           "publishedOn": "2022-11-28T23:00:03.000Z",
-          "wordCount": 3445,
+          "wordCount": 3431,
           "title": "Are cryptocurrencies a lifeline for Afghans? - BBC News",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1D8C/production/_123646570_gettyimages-945312872.jpg"
         },
@@ -116,26 +136,6 @@
           "imageUrl": "https://paradigm.xyz/static/announcing-paradigm-and-wagmi.png"
         },
         {
-          "id": "https://www.sec.gov/news/press-release/2022-26",
-          "author": null,
-          "description": "SEC.gov | BlockFi Agrees to Pay $100 Million in Penalties and Pursue Registration of its Crypto Lending Product",
-          "link": "https://www.sec.gov/news/press-release/2022-26",
-          "publishedOn": "2022-11-28T19:30:04.000Z",
-          "wordCount": 1266,
-          "title": "SEC.gov | BlockFi Agrees to Pay $100 Million in Penalties and Pursue Registration of its Crypto Lending Product",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.axios.com/2022/11/28/blockfi-chapter-11-bankruptcy?utm_campaign=editorial&utm_medium=social&utm_source=twitter",
-          "author": null,
-          "description": "Crypto lender BlockFi files for Chapter 11 bankruptcy protection",
-          "link": "https://www.axios.com/2022/11/28/blockfi-chapter-11-bankruptcy?utm_campaign=editorial&utm_medium=social&utm_source=twitter",
-          "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 1710,
-          "title": "Crypto lender BlockFi files for Chapter 11 bankruptcy protection",
-          "imageUrl": "https://images.axios.com/Nb7fBJDTfI21D3ykl7O9_1Qexsw=/0x0:1920x1080/1366x768/2022/11/16/1668616056319.jpg"
-        },
-        {
           "id": "https://pacer-documents.s3.amazonaws.com/109/1094078/118164199368.pdf",
           "author": null,
           "description": "[PDF] (Official Form 1) (10/06)(PSK Special)",
@@ -151,7 +151,7 @@
           "description": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "link": "https://www.theblock.co/post/190296/wrapped-ether-remains-perfectly-fine-despite-jokes-on-twitter?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57519,
+          "wordCount": 58565,
           "title": "Wrapped ether remains perfectly fine, despite jokes on Twitter",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220802_Ethereum-Merge-2-1200x675.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "link": "https://www.coindesk.com/markets/2022/11/28/makerdao-community-rejects-coinshares-proposal-to-invest-up-to-500m-in-bonds/",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 6748,
+          "wordCount": 6578,
           "title": "MakerDAO Community Rejects CoinShares Proposal to Invest Up to $500M in Bonds",
           "imageUrl": "https://www.coindesk.com/resizer/dTyKOt3NBUsOWeCujCUl9IH6BME=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6M3OIU2KVGN3B2OZ3OMTK5YSE.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "Polygon bridge holds $27 million of unclaimed funds, ZenGo finds",
           "link": "https://www.theblock.co/post/190249/polygon-bridge-holds-27-million-of-unclaimed-funds-zengo-finds?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-28T19:00:03.000Z",
-          "wordCount": 57158,
+          "wordCount": 58204,
           "title": "Polygon bridge holds $27 million of unclaimed funds, ZenGo finds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/211216_Solidity_Rust_Token_Rewards-1200x675.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "The Uniswap Airdrop - Lessons for the Industry",
           "link": "https://dune.com/blog/uni-airdrop-analysis",
           "publishedOn": "2022-11-28T07:30:04.000Z",
-          "wordCount": 3082,
+          "wordCount": 3073,
           "title": "The Uniswap Airdrop - Lessons for the Industry",
           "imageUrl": "https://global-uploads.webflow.com/62fca6954348cf321d918ef1/637e51a7dd2efe0170543f08_The%20Uniswap%20Airdrop_%20Lessons%20for%20the%20Industry.png"
         },
