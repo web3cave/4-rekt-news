@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-29T06:25:42.231Z</id>
+    <id>urn:2022-11-29T07:18:23.189Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-29T06:25:42.231Z</updated>
+    <updated>2022-11-29T07:18:23.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.fourthrevolution.capital/"/>
         <updated>2022-11-28T22:00:05.000Z</updated>
         <summary type="html"><![CDATA[Fourth Revolution Capital - Focused on Blockchain & Digital Assets]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of MEV is SUAVE | Flashbots]]></title>
+        <id>https://writings.flashbots.net/the-future-of-mev-is-suave/</id>
+        <link href="https://writings.flashbots.net/the-future-of-mev-is-suave/"/>
+        <updated>2022-11-28T21:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The Future of MEV is SUAVE | Flashbots]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -101,16 +111,6 @@
         <link href="https://www.theblock.co/post/190249/polygon-bridge-holds-27-million-of-unclaimed-funds-zengo-finds?utm_source=twitter&amp;utm_medium=social"/>
         <updated>2022-11-28T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Polygon bridge holds $27 million of unclaimed funds, ZenGo finds]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese crypto activity slows but not dead despite ban]]></title>
-        <id>https://asia.nikkei.com/Spotlight/Cryptocurrencies/Chinese-crypto-activity-slows-but-not-dead-despite-ban#:~:text=HONG%20KONG%20%2D%2D%20Cryptocurrency%20transactions,largely%20bypassed%20by%20determined%20users</id>
-        <link href="https://asia.nikkei.com/Spotlight/Cryptocurrencies/Chinese-crypto-activity-slows-but-not-dead-despite-ban#:~:text=HONG%20KONG%20%2D%2D%20Cryptocurrency%20transactions,largely%20bypassed%20by%20determined%20users"/>
-        <updated>2022-11-28T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Chinese crypto activity slows but not dead despite ban]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
