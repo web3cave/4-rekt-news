@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://greenpill.party/",
+          "author": null,
+          "description": "greenpill.party",
+          "link": "https://greenpill.party/",
+          "publishedOn": "2022-11-30T19:00:09.000Z",
+          "wordCount": 233,
+          "title": "greenpill.party",
+          "imageUrl": "https://greenpill.party/images/greenpill-card.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
+          "author": null,
+          "description": "The Chopping Block LIVE!",
+          "link": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
+          "publishedOn": "2022-11-30T18:30:03.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block LIVE!",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.kraken.com/post/16442/business-update/",
           "author": null,
           "description": "Kraken Takes Steps to Weather Crypto Winter - Kraken Blog",
@@ -13,7 +33,7 @@
           "publishedOn": "2022-11-30T18:00:04.000Z",
           "wordCount": 1831,
           "title": "Kraken Takes Steps to Weather Crypto Winter - Kraken Blog",
-          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/11/blog_thumb-oshirase-1.png"
+          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/11/Featured-Image-Business-Update.png"
         },
         {
           "id": "https://www.coindesk.com/business/2022/11/30/ibm-and-maersk-abandon-ship-on-tradelens-logistics-blockchain/",
@@ -21,9 +41,19 @@
           "description": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "link": "https://www.coindesk.com/business/2022/11/30/ibm-and-maersk-abandon-ship-on-tradelens-logistics-blockchain/",
           "publishedOn": "2022-11-30T17:00:04.000Z",
-          "wordCount": 5642,
+          "wordCount": 5580,
           "title": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "imageUrl": "https://www.coindesk.com/resizer/387HhCPCNzc3FQvU9r1nG3CB53k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FA7FSQQBBRFPJBMC67KKZZOLDY.jpg"
+        },
+        {
+          "id": "https://rarible.com/blog/check-your-wallet-permissions/",
+          "author": null,
+          "description": "Check your wallet permissions for potential vulnerability",
+          "link": "https://rarible.com/blog/check-your-wallet-permissions/",
+          "publishedOn": "2022-11-30T16:30:03.000Z",
+          "wordCount": 870,
+          "title": "Check your wallet permissions for potential vulnerability",
+          "imageUrl": "https://rarible.com/blog/content/images/2022/07/6-things---Cover-1.png"
         },
         {
           "id": "https://relay.ultrasound.money/",
@@ -41,7 +71,7 @@
           "description": "Agnostic MEV-Boost Relay",
           "link": "https://agnostic-relay.net/",
           "publishedOn": "2022-11-30T15:00:02.000Z",
-          "wordCount": 533,
+          "wordCount": 534,
           "title": "Agnostic MEV-Boost Relay",
           "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
         },
@@ -51,7 +81,7 @@
           "description": "It is time to revisit the 2% inflation target",
           "link": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
           "publishedOn": "2022-11-30T14:30:04.000Z",
-          "wordCount": 1571,
+          "wordCount": 1570,
           "title": "It is time to revisit the 2% inflation target",
           "imageUrl": null
         },
@@ -71,7 +101,7 @@
           "description": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "link": "https://www.ft.com/content/7cfbb894-a332-4629-a417-4bcda27eb6e7",
           "publishedOn": "2022-11-30T11:30:05.000Z",
-          "wordCount": 1602,
+          "wordCount": 1601,
           "title": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "imageUrl": null
         },
@@ -81,7 +111,7 @@
           "description": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-acquires-jfsa-registered-sakura-exchange-bitcoin-committed-to-enter-japan-under-regulatory-compliance-1479109563632749072",
           "publishedOn": "2022-11-30T09:30:07.000Z",
-          "wordCount": 4848,
+          "wordCount": 4834,
           "title": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221130/c488859d-be6c-4d2f-b562-816923b2ee42.png"
         },
@@ -101,7 +131,7 @@
           "description": "[Executable] Routine DAO treasury management",
           "link": "https://discuss.ens.domains/t/executable-routine-dao-treasury-management/15501/2",
           "publishedOn": "2022-11-30T05:00:03.000Z",
-          "wordCount": 1094,
+          "wordCount": 1145,
           "title": "[Executable] Routine DAO treasury management",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -134,26 +164,6 @@
           "wordCount": 1727,
           "title": "Exclusive: Sam Bankman-Fried says he's down to $100,000",
           "imageUrl": "https://images.axios.com/ZuGNT_JUU81qvExuRx6NtLkvnvY=/1366x768/smart/2022/11/29/1669757632512.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/190643/beto-orourke-returns-1-million-donation-from-sam-bankman-fried-texas-tribune?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
-          "link": "https://www.theblock.co/post/190643/beto-orourke-returns-1-million-donation-from-sam-bankman-fried-texas-tribune?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 56061,
-          "title": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221117_SamBankmanFried_USCapitol2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.gemini.com/trust-center",
-          "author": null,
-          "description": "Gemini Trust Center - Transparency Builds Trust | Gemini",
-          "link": "https://www.gemini.com/trust-center",
-          "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 4409,
-          "title": "Gemini Trust Center - Transparency Builds Trust | Gemini",
-          "imageUrl": "https://www.gemini.com/static/images/og.png"
         },
         {
           "id": "https://www.semafor.com/article/11/29/2022/online-news-site-coindesk-attracts-suitors-amid-crypto-crash",
@@ -194,16 +204,6 @@
           "wordCount": null,
           "title": "Full First Interview With Sam Bankman-Fried",
           "imageUrl": null
-        },
-        {
-          "id": "https://dune.com/blog/uni-airdrop-analysis",
-          "author": null,
-          "description": "The Uniswap Airdrop - Lessons for the Industry",
-          "link": "https://dune.com/blog/uni-airdrop-analysis",
-          "publishedOn": "2022-11-28T07:30:04.000Z",
-          "wordCount": 3073,
-          "title": "The Uniswap Airdrop - Lessons for the Industry",
-          "imageUrl": "https://global-uploads.webflow.com/62fca6954348cf321d918ef1/637e51a7dd2efe0170543f08_The%20Uniswap%20Airdrop_%20Lessons%20for%20the%20Industry.png"
         }
       ]
     }
