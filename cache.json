@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.axios.com/2022/11/29/sam-bankman-fried-100000-ftx-cftc-regulation",
+          "author": null,
+          "description": "Exclusive: Sam Bankman-Fried says he's down to $100,000",
+          "link": "https://www.axios.com/2022/11/29/sam-bankman-fried-100000-ftx-cftc-regulation",
+          "publishedOn": "2022-11-30T01:30:05.000Z",
+          "wordCount": 1727,
+          "title": "Exclusive: Sam Bankman-Fried says he's down to $100,000",
+          "imageUrl": "https://images.axios.com/ZuGNT_JUU81qvExuRx6NtLkvnvY=/1366x768/smart/2022/11/29/1669757632512.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/190643/beto-orourke-returns-1-million-donation-from-sam-bankman-fried-texas-tribune?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
           "link": "https://www.theblock.co/post/190643/beto-orourke-returns-1-million-donation-from-sam-bankman-fried-texas-tribune?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 56321,
+          "wordCount": 54974,
           "title": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221117_SamBankmanFried_USCapitol2-1200x675.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "Gemini Trust Center - Transparency Builds Trust | Gemini",
           "link": "https://www.gemini.com/trust-center",
           "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 4421,
+          "wordCount": 4404,
           "title": "Gemini Trust Center - Transparency Builds Trust | Gemini",
           "imageUrl": "https://www.gemini.com/static/images/og.png"
         },
@@ -33,16 +43,6 @@
           "publishedOn": "2022-11-29T21:00:02.000Z",
           "wordCount": null,
           "title": "\"GORLAMI\" — Remixing Brad Pitt (Inglourious Basterds) on the OP-1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
-          "author": null,
-          "description": "It is time to revisit the 2% inflation target",
-          "link": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
-          "publishedOn": "2022-11-29T20:30:02.000Z",
-          "wordCount": 1591,
-          "title": "It is time to revisit the 2% inflation target",
           "imageUrl": null
         },
         {
@@ -111,9 +111,19 @@
           "description": "Ria Bhutoria",
           "link": "https://www.forbes.com/profile/ria-bhutoria/?sh=3beed84346d6",
           "publishedOn": "2022-11-29T19:00:02.000Z",
-          "wordCount": 5661,
+          "wordCount": 6523,
           "title": "Ria Bhutoria",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/636d4a946181ad328ba74ac1/0x0.jpg?format=jpg&crop=714,714,x10,y3,safe&height=416&width=416&fit=bounds"
+        },
+        {
+          "id": "https://github.com/rotki/rotki/releases",
+          "author": null,
+          "description": "Releases · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/releases",
+          "publishedOn": "2022-11-29T16:30:02.000Z",
+          "wordCount": 6364,
+          "title": "Releases · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/eee56d1d7eed3b5435c4b709142db05dba6369223e40ce6d6ee429f1bd1d695f/rotki/rotki"
         },
         {
           "id": "https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0",
@@ -174,16 +184,6 @@
           "wordCount": 3855,
           "title": "DeFi Deep Dive: Uniswap Part 2",
           "imageUrl": "https://miro.medium.com/max/1024/1*kOFeuXpiaKrHaJlYZdgK7Q.png"
-        },
-        {
-          "id": "https://www.zillow.com/homedetails/5570-Maple-Heights-Rd-Greenwood-MN-55331/67871739_zpid/?utm_campaign=androidappmessage&utm_medium=referral&utm_source=txtshare",
-          "author": null,
-          "description": "5570 Maple Heights Rd, Greenwood, MN 55331 | MLS #6217602 | Zillow",
-          "link": "https://www.zillow.com/homedetails/5570-Maple-Heights-Rd-Greenwood-MN-55331/67871739_zpid/?utm_campaign=androidappmessage&utm_medium=referral&utm_source=txtshare",
-          "publishedOn": "2022-11-29T03:00:02.000Z",
-          "wordCount": 174,
-          "title": "5570 Maple Heights Rd, Greenwood, MN 55331 | MLS #6217602 | Zillow",
-          "imageUrl": null
         },
         {
           "id": "https://www.paradigm.xyz/2022/11/paradigm-and-wagmi",
