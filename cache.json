@@ -6,24 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://blog.ethereum.org/2022/11/30/ropsten-shutdown-announcement",
+          "id": "https://alto.build/",
           "author": null,
-          "description": "Ropsten Shutdown Announcement | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/11/30/ropsten-shutdown-announcement",
-          "publishedOn": "2022-11-30T19:30:05.000Z",
-          "wordCount": 917,
-          "title": "Ropsten Shutdown Announcement | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_6a70f6f5faa1e4feaf1131d454a369c1.jpg"
+          "description": "Alto Market",
+          "link": "https://alto.build/",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 714,
+          "title": "Alto Market",
+          "imageUrl": "/ogimage.jpeg"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/11/30/jack-dorseys-tbd-is-looking-to-trademark-web5-to-deter-its-misuse/",
+          "id": "https://app.uniswap.org/",
           "author": null,
-          "description": "Jack Dorsey's TBD Is Looking to Trademark 'Web5' to Deter Its Misuse",
-          "link": "https://www.coindesk.com/business/2022/11/30/jack-dorseys-tbd-is-looking-to-trademark-web5-to-deter-its-misuse/",
-          "publishedOn": "2022-11-30T19:00:09.000Z",
-          "wordCount": 6290,
-          "title": "Jack Dorsey's TBD Is Looking to Trademark 'Web5' to Deter Its Misuse",
-          "imageUrl": "https://www.coindesk.com/resizer/pjfZur7EBwcgLg6-VMQKCoyrWZo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ASWKYUTCCJBTPDCZKA6BESBCHA.jpg"
+          "description": "Uniswap Interface",
+          "link": "https://app.uniswap.org/",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 91,
+          "title": "Uniswap Interface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/191036/ftxs-collapse-is-a-lehman-moment-for-crypto-yellen?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
+          "link": "https://www.theblock.co/post/191036/ftxs-collapse-is-a-lehman-moment-for-crypto-yellen?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 54138,
+          "title": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221114_JanetYellen-1200x675.jpg"
+        },
+        {
+          "id": "https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md",
+          "author": null,
+          "description": "ethstaker-guides/MEV-relay-list.md at main · eth-educators/ethstaker-guides",
+          "link": "https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 1119,
+          "title": "ethstaker-guides/MEV-relay-list.md at main · eth-educators/ethstaker-guides",
+          "imageUrl": "https://opengraph.githubassets.com/2fbdbd3678ef0524c5982b8399f3add383c2235d55bb94e13be899292aee919d/eth-educators/ethstaker-guides"
+        },
+        {
+          "id": "https://stakedaohq.medium.com/build-up-long-term-voting-power-with-liquid-lockers-55881009b4ce",
+          "author": null,
+          "description": "Build up long term voting power with Liquid Lockers",
+          "link": "https://stakedaohq.medium.com/build-up-long-term-voting-power-with-liquid-lockers-55881009b4ce",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 2361,
+          "title": "Build up long term voting power with Liquid Lockers",
+          "imageUrl": "https://miro.medium.com/max/1200/1*quwtA1ZTavqGnT5Q4lWWDA.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
@@ -51,19 +81,9 @@
           "description": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "link": "https://www.coindesk.com/business/2022/11/30/ibm-and-maersk-abandon-ship-on-tradelens-logistics-blockchain/",
           "publishedOn": "2022-11-30T17:00:04.000Z",
-          "wordCount": 5594,
+          "wordCount": 5552,
           "title": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "imageUrl": "https://www.coindesk.com/resizer/387HhCPCNzc3FQvU9r1nG3CB53k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FA7FSQQBBRFPJBMC67KKZZOLDY.jpg"
-        },
-        {
-          "id": "https://rarible.com/blog/check-your-wallet-permissions/",
-          "author": null,
-          "description": "Check your wallet permissions for potential vulnerability",
-          "link": "https://rarible.com/blog/check-your-wallet-permissions/",
-          "publishedOn": "2022-11-30T16:30:03.000Z",
-          "wordCount": 870,
-          "title": "Check your wallet permissions for potential vulnerability",
-          "imageUrl": "https://rarible.com/blog/content/images/2022/07/6-things---Cover-1.png"
         },
         {
           "id": "https://relay.ultrasound.money/",
@@ -86,16 +106,6 @@
           "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
         },
         {
-          "id": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
-          "author": null,
-          "description": "It is time to revisit the 2% inflation target",
-          "link": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
-          "publishedOn": "2022-11-30T14:30:04.000Z",
-          "wordCount": 1570,
-          "title": "It is time to revisit the 2% inflation target",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
           "author": null,
           "description": "Bitcoin’s last stand",
@@ -111,7 +121,7 @@
           "description": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "link": "https://www.ft.com/content/7cfbb894-a332-4629-a417-4bcda27eb6e7",
           "publishedOn": "2022-11-30T11:30:05.000Z",
-          "wordCount": 1601,
+          "wordCount": 1553,
           "title": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-acquires-jfsa-registered-sakura-exchange-bitcoin-committed-to-enter-japan-under-regulatory-compliance-1479109563632749072",
           "publishedOn": "2022-11-30T09:30:07.000Z",
-          "wordCount": 4849,
+          "wordCount": 4917,
           "title": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221130/c488859d-be6c-4d2f-b562-816923b2ee42.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 4502,
           "title": "SGX.Fail",
           "imageUrl": null
-        },
-        {
-          "id": "https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de",
-          "author": null,
-          "description": "StarkNet Performance Roadmap",
-          "link": "https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de",
-          "publishedOn": "2022-11-29T15:00:01.000Z",
-          "wordCount": 4135,
-          "title": "StarkNet Performance Roadmap",
-          "imageUrl": "https://miro.medium.com/max/1200/1*gg6IwjzW-bDThPyM2N4fcw.png"
         }
       ]
     }
