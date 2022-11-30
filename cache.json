@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0",
+          "id": "https://relay.ultrasound.money/",
           "author": null,
-          "description": "OurNetwork Members Club",
-          "link": "https://ournetwork.mirror.xyz/QnUvdi5Aua_YYyCAIG0LuPoqEaEiGM9DyvpyMuQk0q0",
-          "publishedOn": "2022-11-30T14:00:06.000Z",
-          "wordCount": 1037,
-          "title": "OurNetwork Members Club",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/53K4o91Dh2Z4UyD3SkqrE.png?h=1668&w=1668"
+          "description": "ultra sound relay",
+          "link": "https://relay.ultrasound.money/",
+          "publishedOn": "2022-11-30T15:00:02.000Z",
+          "wordCount": 218,
+          "title": "ultra sound relay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://agnostic-relay.net/",
+          "author": null,
+          "description": "Agnostic MEV-Boost Relay",
+          "link": "https://agnostic-relay.net/",
+          "publishedOn": "2022-11-30T15:00:02.000Z",
+          "wordCount": 533,
+          "title": "Agnostic MEV-Boost Relay",
+          "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
+        },
+        {
+          "id": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
+          "author": null,
+          "description": "It is time to revisit the 2% inflation target",
+          "link": "https://www.ft.com/content/02c8a9ac-b71d-4cef-a6ff-cac120d25588",
+          "publishedOn": "2022-11-30T14:30:04.000Z",
+          "wordCount": 1579,
+          "title": "It is time to revisit the 2% inflation target",
+          "imageUrl": null
         },
         {
           "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
@@ -31,7 +51,7 @@
           "description": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "link": "https://www.ft.com/content/7cfbb894-a332-4629-a417-4bcda27eb6e7",
           "publishedOn": "2022-11-30T11:30:05.000Z",
-          "wordCount": 1607,
+          "wordCount": 1610,
           "title": "‘It just kinda went crazy’: FTX’s lavish spending highlights lack of controls",
           "imageUrl": null
         },
@@ -41,7 +61,7 @@
           "description": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-acquires-jfsa-registered-sakura-exchange-bitcoin-committed-to-enter-japan-under-regulatory-compliance-1479109563632749072",
           "publishedOn": "2022-11-30T09:30:07.000Z",
-          "wordCount": 4899,
+          "wordCount": 4857,
           "title": "Binance Acquires JFSA Registered Sakura Exchange BitCoin, Committed to Enter Japan Under Regulatory Compliance |...",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20221130/c488859d-be6c-4d2f-b562-816923b2ee42.png"
         },
@@ -61,7 +81,7 @@
           "description": "[Executable] Routine DAO treasury management",
           "link": "https://discuss.ens.domains/t/executable-routine-dao-treasury-management/15501/2",
           "publishedOn": "2022-11-30T05:00:03.000Z",
-          "wordCount": 707,
+          "wordCount": 885,
           "title": "[Executable] Routine DAO treasury management",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -91,7 +111,7 @@
           "description": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
           "link": "https://www.theblock.co/post/190643/beto-orourke-returns-1-million-donation-from-sam-bankman-fried-texas-tribune?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 57093,
+          "wordCount": 56426,
           "title": "Beto O’Rourke returns $1 million donation from Sam Bankman-Fried: Texas Tribune",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221117_SamBankmanFried_USCapitol2-1200x675.jpg"
         },
@@ -164,26 +184,6 @@
           "wordCount": 6523,
           "title": "Ria Bhutoria",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/636d4a946181ad328ba74ac1/0x0.jpg?format=jpg&crop=714,714,x10,y3,safe&height=416&width=416&fit=bounds"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html",
-          "author": null,
-          "description": "‘No Cooperation’: How Sam Bankman-Fried Tried to Cling to FTX",
-          "link": "https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html",
-          "publishedOn": "2022-11-29T15:30:04.000Z",
-          "wordCount": null,
-          "title": "‘No Cooperation’: How Sam Bankman-Fried Tried to Cling to FTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de",
-          "author": null,
-          "description": "StarkNet Performance Roadmap",
-          "link": "https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de",
-          "publishedOn": "2022-11-29T15:00:01.000Z",
-          "wordCount": 4084,
-          "title": "StarkNet Performance Roadmap",
-          "imageUrl": "https://miro.medium.com/max/1200/1*gg6IwjzW-bDThPyM2N4fcw.png"
         },
         {
           "id": "https://medium.com/friktion-research/defi-deep-dive-uniswap-part-2-8be77a859f47",
