@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T02:52:56.326Z</id>
+    <id>urn:2022-11-30T03:27:29.968Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-30T02:52:56.326Z</updated>
+    <updated>2022-11-30T03:27:29.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ongoing by Tim Bray · AWS and Blockchain]]></title>
+        <id>https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain"/>
+        <updated>2022-11-30T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[ongoing by Tim Bray · AWS and Blockchain]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Decentralizing Rollups: Announcing the Espresso Sequencer]]></title>
         <id>https://www.espressosys.com/blog/decentralizing-rollups-announcing-the-espresso-sequencer</id>
@@ -141,16 +151,6 @@
         <link href="https://www.nytimes.com/2022/11/29/technology/sam-bankman-fried-ftx-bankruptcy.html"/>
         <updated>2022-11-29T15:30:04.000Z</updated>
         <summary type="html"><![CDATA[‘No Cooperation’: How Sam Bankman-Fried Tried to Cling to FTX]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America Onchain: "You've Got Scale?"]]></title>
-        <id>https://darkstar.mirror.xyz/XdzGaKgCMXmm7Xgaai_u4-iv7MCjF025sip_TJSDrVo</id>
-        <link href="https://darkstar.mirror.xyz/XdzGaKgCMXmm7Xgaai_u4-iv7MCjF025sip_TJSDrVo"/>
-        <updated>2022-11-29T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[America Onchain: "You've Got Scale?"]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
