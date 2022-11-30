@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T19:16:21.446Z</id>
+    <id>urn:2022-11-30T20:21:17.321Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-30T19:16:21.446Z</updated>
+    <updated>2022-11-30T20:21:17.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[greenpill.party]]></title>
-        <id>https://greenpill.party/</id>
-        <link href="https://greenpill.party/"/>
+        <title type="html"><![CDATA[Ropsten Shutdown Announcement | Ethereum Foundation Blog]]></title>
+        <id>https://blog.ethereum.org/2022/11/30/ropsten-shutdown-announcement</id>
+        <link href="https://blog.ethereum.org/2022/11/30/ropsten-shutdown-announcement"/>
+        <updated>2022-11-30T19:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Ropsten Shutdown Announcement | Ethereum Foundation Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey's TBD Is Looking to Trademark 'Web5' to Deter Its Misuse]]></title>
+        <id>https://www.coindesk.com/business/2022/11/30/jack-dorseys-tbd-is-looking-to-trademark-web5-to-deter-its-misuse/</id>
+        <link href="https://www.coindesk.com/business/2022/11/30/jack-dorseys-tbd-is-looking-to-trademark-web5-to-deter-its-misuse/"/>
         <updated>2022-11-30T19:00:09.000Z</updated>
-        <summary type="html"><![CDATA[greenpill.party]]></summary>
+        <summary type="html"><![CDATA[Jack Dorsey's TBD Is Looking to Trademark 'Web5' to Deter Its Misuse]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -176,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rpw.wtf]]></title>
-        <id>https://rpw.wtf/</id>
-        <link href="https://rpw.wtf/"/>
-        <updated>2022-11-29T19:30:04.000Z</updated>
-        <summary type="html"><![CDATA[rpw.wtf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SGX.Fail]]></title>
         <id>https://sgx.fail/</id>
         <link href="https://sgx.fail/"/>
@@ -196,11 +196,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full First Interview With Sam Bankman-Fried]]></title>
-        <id>https://www.youtube.com/watch?v=6DezodR9hNI&amp;feature=youtu.be</id>
-        <link href="https://www.youtube.com/watch?v=6DezodR9hNI&amp;feature=youtu.be"/>
-        <updated>2022-11-29T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Full First Interview With Sam Bankman-Fried]]></summary>
+        <title type="html"><![CDATA[StarkNet Performance Roadmap]]></title>
+        <id>https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de</id>
+        <link href="https://starkware.medium.com/starknet-performance-roadmap-bb7aae14c7de"/>
+        <updated>2022-11-29T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[StarkNet Performance Roadmap]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
