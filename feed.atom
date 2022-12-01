@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T19:16:18.005Z</id>
+    <id>urn:2022-12-01T20:18:26.507Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T19:16:18.005Z</updated>
+    <updated>2022-12-01T20:18:26.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://fleek.xyz/"/>
         <updated>2022-12-01T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Fleek]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Fleek Network & Fleek.xyz ⚡️ - Fleek Blog]]></title>
+        <id>https://blog.fleek.co/posts/introducing-fleek-network-and-fleek-xyz/</id>
+        <link href="https://blog.fleek.co/posts/introducing-fleek-network-and-fleek-xyz/"/>
+        <updated>2022-12-01T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Fleek Network & Fleek.xyz ⚡️ - Fleek Blog]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://lightyears-auction.fellowship.xyz/"/>
         <updated>2022-11-30T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Auction - Light Years by Dmitri Cherniak]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Interface]]></title>
-        <id>https://app.uniswap.org/</id>
-        <link href="https://app.uniswap.org/"/>
-        <updated>2022-11-30T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Interface]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
