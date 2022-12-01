@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://stripe.com/en-gb-us/blog/crypto-onramp",
+          "author": null,
+          "description": "An embeddable and customizable fiat-to-crypto onramp",
+          "link": "https://stripe.com/en-gb-us/blog/crypto-onramp",
+          "publishedOn": "2022-12-01T19:00:04.000Z",
+          "wordCount": 1542,
+          "title": "An embeddable and customizable fiat-to-crypto onramp",
+          "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/20KoxcW3mQezUH1iL10ajJ/106fdedf2fd5bcb0026c9d666be60317/Fiat-to-crypto-onramp-social.png?q=80"
+        },
+        {
+          "id": "https://lightyears.fellowship.xyz/",
+          "author": null,
+          "description": "Light Years by Dmitri Cherniak",
+          "link": "https://lightyears.fellowship.xyz/",
+          "publishedOn": "2022-12-01T19:00:04.000Z",
+          "wordCount": 1114,
+          "title": "Light Years by Dmitri Cherniak",
+          "imageUrl": "https://lightyears.fellowship.xyz/Dmitri-Cherniak-Light-Years-20-2022-meta.jpg"
+        },
+        {
+          "id": "https://ultrasound.money/",
+          "author": null,
+          "description": "Ultra Sound Money",
+          "link": "https://ultrasound.money/",
+          "publishedOn": "2022-12-01T18:30:03.000Z",
+          "wordCount": 764,
+          "title": "Ultra Sound Money",
+          "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
           "id": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
           "author": null,
           "description": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "link": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
           "publishedOn": "2022-12-01T18:00:05.000Z",
-          "wordCount": 54747,
+          "wordCount": 54964,
           "title": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Screen-Shot-2022-11-15-at-3.20.00-PM-1144x675.png"
         },
@@ -24,16 +54,6 @@
           "wordCount": 2107,
           "title": "Fleek",
           "imageUrl": "https://framerusercontent.com/modules/8lURkGaLHuTnWArKu6mc/rV5DHjjsTGqoQVhBu38M/assets/6G0ANVJCByPWie2H9WgR3gSi0.jpg"
-        },
-        {
-          "id": "https://blog.fleek.co/posts/introducing-fleek-network-and-fleek-xyz/",
-          "author": null,
-          "description": "Introducing Fleek Network & Fleek.xyz ⚡️ - Fleek Blog",
-          "link": "https://blog.fleek.co/posts/introducing-fleek-network-and-fleek-xyz/",
-          "publishedOn": "2022-12-01T15:00:03.000Z",
-          "wordCount": 1610,
-          "title": "Introducing Fleek Network & Fleek.xyz ⚡️ - Fleek Blog",
-          "imageUrl": "https://storageapi.fleek.co/fleek-team-bucket/thumbnails/xyz-ntwrk-release-image.png"
         },
         {
           "id": "https://forkast.news/headlines/tornado-cash-developer-alexey-pertsev-stay-in-jail/",
@@ -51,19 +71,9 @@
           "description": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
           "publishedOn": "2022-12-01T11:00:04.000Z",
-          "wordCount": 30539,
+          "wordCount": 30874,
           "title": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3ae/e26/ff6a448a8ed2d3c73b7a17af2a25c3c6a8-NY-SBF-02.1x.rsocial.w1200.jpg"
-        },
-        {
-          "id": "https://unchainedcrypto.substack.com/p/zengo-a-self-custodial-wallet-minus",
-          "author": null,
-          "description": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
-          "link": "https://unchainedcrypto.substack.com/p/zengo-a-self-custodial-wallet-minus",
-          "publishedOn": "2022-12-01T05:30:05.000Z",
-          "wordCount": 1285,
-          "title": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb212e6ef-82b2-4133-927f-c361a5f10e3c_1280x1280.png"
         },
         {
           "id": "https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/",
@@ -76,22 +86,12 @@
           "imageUrl": "https://blog.lastpass.com/wp-content/uploads/sites/20/2022/08/iStock-621574390-1-scaled.jpg"
         },
         {
-          "id": "https://thecoh.build/",
-          "author": null,
-          "description": "the COH",
-          "link": "https://thecoh.build/",
-          "publishedOn": "2022-12-01T01:30:05.000Z",
-          "wordCount": 6888,
-          "title": "the COH",
-          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=32a05dbb"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "author": null,
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 26058,
+          "wordCount": 25966,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
@@ -136,6 +136,16 @@
           "imageUrl": "/ogimage.jpeg"
         },
         {
+          "id": "https://lightyears-auction.fellowship.xyz/",
+          "author": null,
+          "description": "Auction - Light Years by Dmitri Cherniak",
+          "link": "https://lightyears-auction.fellowship.xyz/",
+          "publishedOn": "2022-11-30T21:00:02.000Z",
+          "wordCount": 61,
+          "title": "Auction - Light Years by Dmitri Cherniak",
+          "imageUrl": "https://lightyears.fellowship.xyz/auction.jpg"
+        },
+        {
           "id": "https://app.uniswap.org/",
           "author": null,
           "description": "Uniswap Interface",
@@ -144,16 +154,6 @@
           "wordCount": 91,
           "title": "Uniswap Interface",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/191036/ftxs-collapse-is-a-lehman-moment-for-crypto-yellen?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
-          "link": "https://www.theblock.co/post/191036/ftxs-collapse-is-a-lehman-moment-for-crypto-yellen?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-11-30T21:00:02.000Z",
-          "wordCount": 54787,
-          "title": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221114_JanetYellen-1200x675.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
@@ -181,7 +181,7 @@
           "description": "ultra sound relay",
           "link": "https://relay.ultrasound.money/",
           "publishedOn": "2022-11-30T15:00:02.000Z",
-          "wordCount": 248,
+          "wordCount": 250,
           "title": "ultra sound relay",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "Agnostic MEV-Boost Relay",
           "link": "https://agnostic-relay.net/",
           "publishedOn": "2022-11-30T15:00:02.000Z",
-          "wordCount": 555,
+          "wordCount": 557,
           "title": "Agnostic MEV-Boost Relay",
           "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
         },
