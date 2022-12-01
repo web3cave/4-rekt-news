@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T21:15:47.299Z</id>
+    <id>urn:2022-12-01T22:18:16.899Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T21:15:47.299Z</updated>
+    <updated>2022-12-01T22:18:16.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://techcrunch.com/2022/08/29/justice-department-in-early-stages-of-filing-an-antitrust-lawsuit-against-apple-says-report/"/>
         <updated>2022-12-01T20:30:02.000Z</updated>
         <summary type="html"><![CDATA[Justice Department filing antitrust lawsuit against Apple]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX’s Bankman-Fried Quietly Invested More than $500 Million in Sequoia and Other VCs]]></title>
+        <id>https://www.theinformation.com/articles/ftxs-bankman-fried-invested-more-than-500-million-in-sequoia-and-other-vcs</id>
+        <link href="https://www.theinformation.com/articles/ftxs-bankman-fried-invested-more-than-500-million-in-sequoia-and-other-vcs"/>
+        <updated>2022-12-01T20:30:02.000Z</updated>
+        <summary type="html"><![CDATA[FTX’s Bankman-Fried Quietly Invested More than $500 Million in Sequoia and Other VCs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://relay.ultrasound.money/"/>
         <updated>2022-11-30T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[ultra sound relay]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agnostic MEV-Boost Relay]]></title>
-        <id>https://agnostic-relay.net/</id>
-        <link href="https://agnostic-relay.net/"/>
-        <updated>2022-11-30T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Agnostic MEV-Boost Relay]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
