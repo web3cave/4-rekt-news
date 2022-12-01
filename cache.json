@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://forkast.news/headlines/tornado-cash-developer-alexey-pertsev-stay-in-jail/",
+          "author": null,
+          "description": "Alleged Tornado Cash Developer Alexey Pertsev to stay in jail",
+          "link": "https://forkast.news/headlines/tornado-cash-developer-alexey-pertsev-stay-in-jail/",
+          "publishedOn": "2022-12-01T13:00:02.000Z",
+          "wordCount": 1469,
+          "title": "Alleged Tornado Cash Developer Alexey Pertsev to stay in jail",
+          "imageUrl": "https://forkast.news/wp-content/uploads/2022/08/Tornado-Cash.png"
+        },
+        {
           "id": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
           "author": null,
           "description": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
           "publishedOn": "2022-12-01T11:00:04.000Z",
-          "wordCount": 30513,
+          "wordCount": 30516,
           "title": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3ae/e26/ff6a448a8ed2d3c73b7a17af2a25c3c6a8-NY-SBF-02.1x.rsocial.w1200.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 10433,
+          "wordCount": 10494,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
@@ -86,16 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/1kxnetwork/augmenting-culture-the-emerging-field-of-digital-fashion-bead627c8dcd?source=social.tw&_branch_match_id=1126538652421146199&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Xd2NQtJTC1zzytLAgD5QuRiIwAAAA%3D%3D",
-          "author": null,
-          "description": "Augmenting Culture: The Emerging Field of Digital Fashion",
-          "link": "https://medium.com/1kxnetwork/augmenting-culture-the-emerging-field-of-digital-fashion-bead627c8dcd?source=social.tw&_branch_match_id=1126538652421146199&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1Xd2NQtJTC1zzytLAgD5QuRiIwAAAA%3D%3D",
-          "publishedOn": "2022-11-30T22:00:06.000Z",
-          "wordCount": 8798,
-          "title": "Augmenting Culture: The Emerging Field of Digital Fashion",
-          "imageUrl": "https://miro.medium.com/focal/1200/632/46/7/0*mH-z7yElJ_4j-ZPr"
-        },
-        {
           "id": "https://alto.build/",
           "author": null,
           "description": "Alto Market",
@@ -121,19 +121,9 @@
           "description": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
           "link": "https://www.theblock.co/post/191036/ftxs-collapse-is-a-lehman-moment-for-crypto-yellen?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-11-30T21:00:02.000Z",
-          "wordCount": 57122,
+          "wordCount": 57603,
           "title": "FTX's collapse is 'a Lehman moment' for crypto: Yellen",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221114_JanetYellen-1200x675.jpg"
-        },
-        {
-          "id": "https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md",
-          "author": null,
-          "description": "ethstaker-guides/MEV-relay-list.md at main · eth-educators/ethstaker-guides",
-          "link": "https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md",
-          "publishedOn": "2022-11-30T21:00:02.000Z",
-          "wordCount": 1119,
-          "title": "ethstaker-guides/MEV-relay-list.md at main · eth-educators/ethstaker-guides",
-          "imageUrl": "https://opengraph.githubassets.com/2fbdbd3678ef0524c5982b8399f3add383c2235d55bb94e13be899292aee919d/eth-educators/ethstaker-guides"
         },
         {
           "id": "https://stakedaohq.medium.com/build-up-long-term-voting-power-with-liquid-lockers-55881009b4ce",
@@ -144,6 +134,16 @@
           "wordCount": 2455,
           "title": "Build up long term voting power with Liquid Lockers",
           "imageUrl": "https://miro.medium.com/max/1200/1*quwtA1ZTavqGnT5Q4lWWDA.jpeg"
+        },
+        {
+          "id": "https://www.ft.com/content/a07ca1ae-9f9a-46ee-9457-27bb30e18ed2",
+          "author": null,
+          "description": "EU warns Musk that Twitter faces ban over content moderation",
+          "link": "https://www.ft.com/content/a07ca1ae-9f9a-46ee-9457-27bb30e18ed2",
+          "publishedOn": "2022-11-30T19:30:05.000Z",
+          "wordCount": 1626,
+          "title": "EU warns Musk that Twitter faces ban over content moderation",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
@@ -171,7 +171,7 @@
           "description": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "link": "https://www.coindesk.com/business/2022/11/30/ibm-and-maersk-abandon-ship-on-tradelens-logistics-blockchain/",
           "publishedOn": "2022-11-30T17:00:04.000Z",
-          "wordCount": 5707,
+          "wordCount": 5785,
           "title": "IBM and Maersk Abandon Ship on TradeLens Logistics Blockchain",
           "imageUrl": "https://www.coindesk.com/resizer/387HhCPCNzc3FQvU9r1nG3CB53k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FA7FSQQBBRFPJBMC67KKZZOLDY.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Agnostic MEV-Boost Relay",
           "link": "https://agnostic-relay.net/",
           "publishedOn": "2022-11-30T15:00:02.000Z",
-          "wordCount": 546,
+          "wordCount": 547,
           "title": "Agnostic MEV-Boost Relay",
           "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
         },
