@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://techcrunch.com/2022/08/29/justice-department-in-early-stages-of-filing-an-antitrust-lawsuit-against-apple-says-report/",
+          "author": null,
+          "description": "Justice Department filing antitrust lawsuit against Apple",
+          "link": "https://techcrunch.com/2022/08/29/justice-department-in-early-stages-of-filing-an-antitrust-lawsuit-against-apple-says-report/",
+          "publishedOn": "2022-12-01T20:30:02.000Z",
+          "wordCount": 7781,
+          "title": "Justice Department filing antitrust lawsuit against Apple",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg"
+        },
+        {
           "id": "https://stripe.com/en-gb-us/blog/crypto-onramp",
           "author": null,
           "description": "An embeddable and customizable fiat-to-crypto onramp",
@@ -86,6 +96,16 @@
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3ae/e26/ff6a448a8ed2d3c73b7a17af2a25c3c6a8-NY-SBF-02.1x.rsocial.w1200.jpg"
         },
         {
+          "id": "https://unchainedcrypto.substack.com/p/zengo-a-self-custodial-wallet-minus",
+          "author": null,
+          "description": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
+          "link": "https://unchainedcrypto.substack.com/p/zengo-a-self-custodial-wallet-minus",
+          "publishedOn": "2022-12-01T05:30:05.000Z",
+          "wordCount": 1490,
+          "title": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb212e6ef-82b2-4133-927f-c361a5f10e3c_1280x1280.png"
+        },
+        {
           "id": "https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/",
           "author": null,
           "description": "Notice of Recent Security Incident - The LastPass Blog",
@@ -101,19 +121,9 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 26171,
+          "wordCount": 26071,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
-        },
-        {
-          "id": "https://theblockchainassociation.org/wp-content/uploads/2022/11/The-Failure-of-FTX-International-Nov-30-2022.pdf",
-          "author": null,
-          "description": "[PDF] The-Failure-of-FTX-International-Nov-30-2022.pdf",
-          "link": "https://theblockchainassociation.org/wp-content/uploads/2022/11/The-Failure-of-FTX-International-Nov-30-2022.pdf",
-          "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 4066,
-          "title": "[PDF] The-Failure-of-FTX-International-Nov-30-2022.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://theblockchainassociation.org/wp-content/uploads/2022/11/The-Failure-of-FTX-International-Nov-30-2022-1.pdf",
@@ -166,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.kraken.com/post/16442/business-update/",
-          "author": null,
-          "description": "Kraken Takes Steps to Weather Crypto Winter - Kraken Blog",
-          "link": "https://blog.kraken.com/post/16442/business-update/",
-          "publishedOn": "2022-11-30T18:00:04.000Z",
-          "wordCount": 1831,
-          "title": "Kraken Takes Steps to Weather Crypto Winter - Kraken Blog",
-          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/11/Featured-Image-Business-Update.png"
-        },
-        {
           "id": "https://relay.ultrasound.money/",
           "author": null,
           "description": "ultra sound relay",
@@ -191,7 +191,7 @@
           "description": "Agnostic MEV-Boost Relay",
           "link": "https://agnostic-relay.net/",
           "publishedOn": "2022-11-30T15:00:02.000Z",
-          "wordCount": 559,
+          "wordCount": 562,
           "title": "Agnostic MEV-Boost Relay",
           "imageUrl": "https://i.ibb.co/LNj4SH5/agnostic-relay.png"
         },
