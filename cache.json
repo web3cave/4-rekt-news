@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vote.makerdao.com/polling/QmV3oNeX#poll-detail",
+          "author": null,
+          "description": "Governance Portal",
+          "link": "https://vote.makerdao.com/polling/QmV3oNeX#poll-detail",
+          "publishedOn": "2022-12-02T00:00:06.000Z",
+          "wordCount": 1625,
+          "title": "Governance Portal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11",
           "author": null,
           "description": "Andreessen Horowitz's buzzy tech publication Future is shutting down",
@@ -26,6 +36,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://advent.unlock-protocol.com/",
+          "author": null,
+          "description": "2022 Unlock Advent Calendar",
+          "link": "https://advent.unlock-protocol.com/",
+          "publishedOn": "2022-12-01T23:00:02.000Z",
+          "wordCount": 30,
+          "title": "2022 Unlock Advent Calendar",
+          "imageUrl": "https://advent.unlock-protocol.com/images/advent.png"
+        },
+        {
+          "id": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
+          "author": null,
+          "description": "Rolling Liquidity Vaults are Live",
+          "link": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
+          "publishedOn": "2022-12-01T23:00:02.000Z",
+          "wordCount": 1459,
+          "title": "Rolling Liquidity Vaults are Live",
+          "imageUrl": "https://miro.medium.com/max/1200/1*SQxDMQf34rxS2GKfSqGLGw.png"
+        },
+        {
           "id": "https://stripe.com/en-gb-us/blog/crypto-onramp",
           "author": null,
           "description": "An embeddable and customizable fiat-to-crypto onramp",
@@ -36,22 +66,12 @@
           "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/20KoxcW3mQezUH1iL10ajJ/106fdedf2fd5bcb0026c9d666be60317/Fiat-to-crypto-onramp-social.png?q=80"
         },
         {
-          "id": "https://lightyears.fellowship.xyz/",
-          "author": null,
-          "description": "Light Years by Dmitri Cherniak",
-          "link": "https://lightyears.fellowship.xyz/",
-          "publishedOn": "2022-12-01T19:00:04.000Z",
-          "wordCount": 1116,
-          "title": "Light Years by Dmitri Cherniak",
-          "imageUrl": "https://lightyears.fellowship.xyz/Dmitri-Cherniak-Light-Years-20-2022-meta.jpg"
-        },
-        {
           "id": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
           "author": null,
           "description": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "link": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
           "publishedOn": "2022-12-01T18:00:05.000Z",
-          "wordCount": 55690,
+          "wordCount": 55858,
           "title": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Screen-Shot-2022-11-15-at-3.20.00-PM-1144x675.png"
         },
@@ -74,6 +94,16 @@
           "wordCount": 5964,
           "title": "BitMEX's Fully Fledged PoL System Now Live & Operational | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/12/account-1-1024x634.png"
+        },
+        {
+          "id": "https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf",
+          "author": null,
+          "description": "[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts",
+          "link": "https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf",
+          "publishedOn": "2022-12-01T15:30:06.000Z",
+          "wordCount": 399,
+          "title": "[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts",
+          "imageUrl": "https://opengraph.githubassets.com/96fa8ed07745760bff83499fbc6c0dad35a75426ac29ee1ed39d5e5c7cee17e0/starkware-libs/starkex-contracts"
         },
         {
           "id": "https://fleek.xyz/",
@@ -111,7 +141,7 @@
           "description": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
           "publishedOn": "2022-12-01T11:00:04.000Z",
-          "wordCount": 30944,
+          "wordCount": 30942,
           "title": "What Does Sam Bankman-Fried Have to Say for Himself?",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3ae/e26/ff6a448a8ed2d3c73b7a17af2a25c3c6a8-NY-SBF-02.1x.rsocial.w1200.jpg"
         },
@@ -121,7 +151,7 @@
           "description": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
           "link": "https://unchainedcrypto.substack.com/p/zengo-a-self-custodial-wallet-minus",
           "publishedOn": "2022-12-01T05:30:05.000Z",
-          "wordCount": 1284,
+          "wordCount": 1490,
           "title": "ZenGo: A Self-Custodial Wallet Minus the Risk of Losing Your Keys",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb212e6ef-82b2-4133-927f-c361a5f10e3c_1280x1280.png"
         },
@@ -141,7 +171,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 25234,
+          "wordCount": 25324,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
@@ -163,36 +193,6 @@
           "publishedOn": "2022-11-30T23:00:02.000Z",
           "wordCount": null,
           "title": "Sam Bankman-Fried Speaks at the DealBook Summit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://alto.build/",
-          "author": null,
-          "description": "Alto Market",
-          "link": "https://alto.build/",
-          "publishedOn": "2022-11-30T21:00:02.000Z",
-          "wordCount": 714,
-          "title": "Alto Market",
-          "imageUrl": "/ogimage.jpeg"
-        },
-        {
-          "id": "https://lightyears-auction.fellowship.xyz/",
-          "author": null,
-          "description": "Auction - Light Years by Dmitri Cherniak",
-          "link": "https://lightyears-auction.fellowship.xyz/",
-          "publishedOn": "2022-11-30T21:00:02.000Z",
-          "wordCount": 61,
-          "title": "Auction - Light Years by Dmitri Cherniak",
-          "imageUrl": "https://lightyears.fellowship.xyz/auction.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
-          "author": null,
-          "description": "The Chopping Block LIVE!",
-          "link": "https://www.youtube.com/watch?v=BUq8tXd2bQk",
-          "publishedOn": "2022-11-30T18:30:03.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block LIVE!",
           "imageUrl": null
         },
         {

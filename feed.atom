@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-01T23:20:22.835Z</id>
+    <id>urn:2022-12-02T01:36:43.228Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-01T23:20:22.835Z</updated>
+    <updated>2022-12-02T01:36:43.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Governance Portal]]></title>
+        <id>https://vote.makerdao.com/polling/QmV3oNeX#poll-detail</id>
+        <link href="https://vote.makerdao.com/polling/QmV3oNeX#poll-detail"/>
+        <updated>2022-12-02T00:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Governance Portal]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andreessen Horowitz's buzzy tech publication Future is shutting down]]></title>
         <id>https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11</id>
@@ -26,21 +36,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An embeddable and customizable fiat-to-crypto onramp]]></title>
-        <id>https://stripe.com/en-gb-us/blog/crypto-onramp</id>
-        <link href="https://stripe.com/en-gb-us/blog/crypto-onramp"/>
-        <updated>2022-12-01T19:00:04.000Z</updated>
-        <summary type="html"><![CDATA[An embeddable and customizable fiat-to-crypto onramp]]></summary>
+        <title type="html"><![CDATA[2022 Unlock Advent Calendar]]></title>
+        <id>https://advent.unlock-protocol.com/</id>
+        <link href="https://advent.unlock-protocol.com/"/>
+        <updated>2022-12-01T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[2022 Unlock Advent Calendar]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Light Years by Dmitri Cherniak]]></title>
-        <id>https://lightyears.fellowship.xyz/</id>
-        <link href="https://lightyears.fellowship.xyz/"/>
+        <title type="html"><![CDATA[Rolling Liquidity Vaults are Live]]></title>
+        <id>https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c</id>
+        <link href="https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c"/>
+        <updated>2022-12-01T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Rolling Liquidity Vaults are Live]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An embeddable and customizable fiat-to-crypto onramp]]></title>
+        <id>https://stripe.com/en-gb-us/blog/crypto-onramp</id>
+        <link href="https://stripe.com/en-gb-us/blog/crypto-onramp"/>
         <updated>2022-12-01T19:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Light Years by Dmitri Cherniak]]></summary>
+        <summary type="html"><![CDATA[An embeddable and customizable fiat-to-crypto onramp]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -71,6 +91,16 @@
         <link href="https://blog.bitmex.com/bitmex-pol-system-now-live/"/>
         <updated>2022-12-01T16:00:06.000Z</updated>
         <summary type="html"><![CDATA[BitMEX's Fully Fledged PoL System Now Live & Operational | BitMEX Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts]]></title>
+        <id>https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf</id>
+        <link href="https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf"/>
+        <updated>2022-12-01T15:30:06.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,36 +191,6 @@
         <link href="https://www.nytimes.com/live/2022/11/30/business/sam-bankman-fried-interview"/>
         <updated>2022-11-30T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[Sam Bankman-Fried Speaks at the DealBook Summit]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alto Market]]></title>
-        <id>https://alto.build/</id>
-        <link href="https://alto.build/"/>
-        <updated>2022-11-30T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Alto Market]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auction - Light Years by Dmitri Cherniak]]></title>
-        <id>https://lightyears-auction.fellowship.xyz/</id>
-        <link href="https://lightyears-auction.fellowship.xyz/"/>
-        <updated>2022-11-30T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Auction - Light Years by Dmitri Cherniak]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Chopping Block LIVE!]]></title>
-        <id>https://www.youtube.com/watch?v=BUq8tXd2bQk</id>
-        <link href="https://www.youtube.com/watch?v=BUq8tXd2bQk"/>
-        <updated>2022-11-30T18:30:03.000Z</updated>
-        <summary type="html"><![CDATA[The Chopping Block LIVE!]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
