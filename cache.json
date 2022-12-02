@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://solidity-by-example.org/",
+          "author": null,
+          "description": "Solidity by Example",
+          "link": "https://solidity-by-example.org/",
+          "publishedOn": "2022-12-02T19:00:03.000Z",
+          "wordCount": 14,
+          "title": "Solidity by Example",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
+          "author": null,
+          "description": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
+          "link": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
+          "publishedOn": "2022-12-02T18:30:02.000Z",
+          "wordCount": null,
+          "title": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
           "author": null,
           "description": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
           "link": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
           "publishedOn": "2022-12-02T18:00:05.000Z",
-          "wordCount": 45698,
+          "wordCount": 45683,
           "title": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
           "imageUrl": "https://media.newyorker.com/photos/6387d96f18968a251aa5645a/16:9/w_1280,c_limit/GLK-FTX.jpg"
-        },
-        {
-          "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
-          "author": null,
-          "description": "Solana Ecosystem Facts Related To FTX Bankruptcy",
-          "link": "https://solana.com/news/solana-facts-ftx-bankruptcy",
-          "publishedOn": "2022-12-02T17:30:05.000Z",
-          "wordCount": 15934,
-          "title": "Solana Ecosystem Facts Related To FTX Bankruptcy",
-          "imageUrl": "https://solana.ghost.io/content/images/2022/11/solana-generic-cover-image-1.png"
         },
         {
           "id": "https://www.eventbrite.com/e/time-to-be-happy-installation-artist-panel-tickets-479563797227",
@@ -51,7 +61,7 @@
           "description": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "link": "https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-02T13:00:02.000Z",
-          "wordCount": 58513,
+          "wordCount": 59307,
           "title": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "infterface.fyi",
           "link": "https://www.interface.fyi/",
           "publishedOn": "2022-12-02T05:30:04.000Z",
-          "wordCount": 753,
+          "wordCount": 747,
           "title": "infterface.fyi",
           "imageUrl": null
         },
@@ -156,22 +166,12 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/SpWkTBYdAR7eIuw9_nhvV.png?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://advent.unlock-protocol.com/",
-          "author": null,
-          "description": "2022 Unlock Advent Calendar",
-          "link": "https://advent.unlock-protocol.com/",
-          "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 30,
-          "title": "2022 Unlock Advent Calendar",
-          "imageUrl": "https://advent.unlock-protocol.com/images/advent.png"
-        },
-        {
           "id": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
           "author": null,
           "description": "Rolling Liquidity Vaults are Live",
           "link": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
           "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 1459,
+          "wordCount": 1804,
           "title": "Rolling Liquidity Vaults are Live",
           "imageUrl": "https://miro.medium.com/max/1200/1*SQxDMQf34rxS2GKfSqGLGw.png"
         },
