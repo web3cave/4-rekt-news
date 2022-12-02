@@ -6,24 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.goodmorningamerica.com/Business/story/ftxs-sam-bankman-fried-denies-improper-customer-funds-94233125",
+          "author": null,
+          "description": "FTX's Sam Bankman-Fried denies 'improper use' of customer funds amid scrutiny of crypto giant",
+          "link": "https://www.goodmorningamerica.com/Business/story/ftxs-sam-bankman-fried-denies-improper-customer-funds-94233125",
+          "publishedOn": "2022-12-02T15:30:04.000Z",
+          "wordCount": 7642,
+          "title": "FTX's Sam Bankman-Fried denies 'improper use' of customer funds amid scrutiny of crypto giant",
+          "imageUrl": "https://s.abcnews.com/images/US/sbf-1-abc-gmh-221130_1669827033938_hpMain_16x9_608.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "link": "https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-02T13:00:02.000Z",
-          "wordCount": 57309,
+          "wordCount": 58076,
           "title": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_Nj11uljR3g&feature=youtu.be",
-          "author": null,
-          "description": "New mev-boost relays, Uniswap NFT aggregator & more - The Daily Gwei Refuel #498 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=_Nj11uljR3g&feature=youtu.be",
-          "publishedOn": "2022-12-02T12:00:05.000Z",
-          "wordCount": null,
-          "title": "New mev-boost relays, Uniswap NFT aggregator & more - The Daily Gwei Refuel #498 - Ethereum Updates",
-          "imageUrl": null
         },
         {
           "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
@@ -41,7 +41,7 @@
           "description": "infterface.fyi",
           "link": "https://www.interface.fyi/",
           "publishedOn": "2022-12-02T05:30:04.000Z",
-          "wordCount": 731,
+          "wordCount": 733,
           "title": "infterface.fyi",
           "imageUrl": null
         },
@@ -54,6 +54,16 @@
           "wordCount": null,
           "title": "The regulatory landscape for crypto post-FTX, with Rebecca Rettig and Peter Van Valkenburgh",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
+          "author": null,
+          "description": "Mastering Stratego, the classic game of imperfect information",
+          "link": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
+          "publishedOn": "2022-12-02T05:30:04.000Z",
+          "wordCount": 2128,
+          "title": "Mastering Stratego, the classic game of imperfect information",
+          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png"
         },
         {
           "id": "https://collectibles.bankless.com/",
@@ -84,6 +94,16 @@
           "wordCount": 1599,
           "title": "RFC: Post-Merge Network Upgrade Naming Schemes",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/1X/4c1d2f876559adc5ce5f4115fe2019d38ccac3db.png"
+        },
+        {
+          "id": "https://www.coindesk.com/business/2022/12/01/solana-based-dex-orca-teams-up-with-stripe-for-fiat-to-crypto-transactions/",
+          "author": null,
+          "description": "Solana-Based DEX Orca Partners With Stripe for Fiat Transactions",
+          "link": "https://www.coindesk.com/business/2022/12/01/solana-based-dex-orca-teams-up-with-stripe-for-fiat-to-crypto-transactions/",
+          "publishedOn": "2022-12-02T02:30:02.000Z",
+          "wordCount": 20309,
+          "title": "Solana-Based DEX Orca Partners With Stripe for Fiat Transactions",
+          "imageUrl": "https://www.coindesk.com/resizer/5mDv1I-3CaFx_IUQ25W62QuU63s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SRNGORNCMNA2BFNPQAUJDMOMPM.jpg"
         },
         {
           "id": "https://vote.makerdao.com/polling/QmV3oNeX#poll-detail",
@@ -146,16 +166,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*SQxDMQf34rxS2GKfSqGLGw.png"
         },
         {
-          "id": "http://garzikrants.blogspot.com/2013/01/storj-and-bitcoin-autonomous-agents.html",
-          "author": null,
-          "description": "StorJ, and Bitcoin autonomous agents",
-          "link": "http://garzikrants.blogspot.com/2013/01/storj-and-bitcoin-autonomous-agents.html",
-          "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 3539,
-          "title": "StorJ, and Bitcoin autonomous agents",
-          "imageUrl": null
-        },
-        {
           "id": "https://gov.gitcoin.co/t/v2-of-the-steward-council-nomination-thread-and-election-update/12057/13?u=lefterisjp",
           "author": null,
           "description": "V2 of the Steward Council: Nomination thread and election update",
@@ -164,6 +174,16 @@
           "wordCount": 1898,
           "title": "V2 of the Steward Council: Nomination thread and election update",
           "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/gitcoin1/original/1X/d6503c3e8f849859f29987d8816cd515c34b04f0.png"
+        },
+        {
+          "id": "https://tcg.mirror.xyz/CCtokn_XR9yqGhL3OIKM4u8IxaVO0V0fmRxH-G5yWs8",
+          "author": null,
+          "description": "Talking to the Protocol",
+          "link": "https://tcg.mirror.xyz/CCtokn_XR9yqGhL3OIKM4u8IxaVO0V0fmRxH-G5yWs8",
+          "publishedOn": "2022-12-01T23:00:02.000Z",
+          "wordCount": 3499,
+          "title": "Talking to the Protocol",
+          "imageUrl": "https://mirror-media.imgix.net/nft/SpWkTBYdAR7eIuw9_nhvV.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://polygon.technology/blog/polygon-is-coming-to-the-graphs-decentralized-network",
@@ -184,26 +204,6 @@
           "wordCount": 1542,
           "title": "An embeddable and customizable fiat-to-crypto onramp",
           "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/20KoxcW3mQezUH1iL10ajJ/106fdedf2fd5bcb0026c9d666be60317/Fiat-to-crypto-onramp-social.png?q=80"
-        },
-        {
-          "id": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
-          "author": null,
-          "description": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
-          "link": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
-          "publishedOn": "2022-12-01T18:00:05.000Z",
-          "wordCount": 58077,
-          "title": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Screen-Shot-2022-11-15-at-3.20.00-PM-1144x675.png"
-        },
-        {
-          "id": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
-          "author": null,
-          "description": "FTX’s Collapse Was a Crime, Not an Accident",
-          "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
-          "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 25311,
-          "title": "FTX’s Collapse Was a Crime, Not an Accident",
-          "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         }
       ]
     }
