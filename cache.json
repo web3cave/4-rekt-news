@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
+          "author": null,
+          "description": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
+          "link": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
+          "publishedOn": "2022-12-02T20:00:05.000Z",
+          "wordCount": null,
+          "title": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://prism-protocol.medium.com/prism-v2-allow-us-to-reintroduce-ourselves-1d82c0abbea7",
+          "author": null,
+          "description": "Prism v2  —  Allow us to reintroduce ourselves",
+          "link": "https://prism-protocol.medium.com/prism-v2-allow-us-to-reintroduce-ourselves-1d82c0abbea7",
+          "publishedOn": "2022-12-02T20:00:05.000Z",
+          "wordCount": 3889,
+          "title": "Prism v2  —  Allow us to reintroduce ourselves",
+          "imageUrl": "https://miro.medium.com/max/1200/1*_yaGTQq6geAFagovJrl0iA.png"
+        },
+        {
           "id": "https://solidity-by-example.org/",
           "author": null,
           "description": "Solidity by Example",
@@ -16,24 +36,24 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
-          "author": null,
-          "description": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
-          "link": "https://www.youtube.com/watch?v=3F1d3QWsyk0&feature=youtu.be",
-          "publishedOn": "2022-12-02T18:30:02.000Z",
-          "wordCount": null,
-          "title": "The Emperor's Phone Call | Robot Chicken | Adult Swim",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
           "author": null,
           "description": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
           "link": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
           "publishedOn": "2022-12-02T18:00:05.000Z",
-          "wordCount": 45683,
+          "wordCount": 45622,
           "title": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
           "imageUrl": "https://media.newyorker.com/photos/6387d96f18968a251aa5645a/16:9/w_1280,c_limit/GLK-FTX.jpg"
+        },
+        {
+          "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
+          "author": null,
+          "description": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+          "link": "https://solana.com/news/solana-facts-ftx-bankruptcy",
+          "publishedOn": "2022-12-02T17:30:05.000Z",
+          "wordCount": 15934,
+          "title": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+          "imageUrl": "https://solana.ghost.io/content/images/2022/11/solana-generic-cover-image-1.png"
         },
         {
           "id": "https://www.eventbrite.com/e/time-to-be-happy-installation-artist-panel-tickets-479563797227",
@@ -41,7 +61,7 @@
           "description": "TIME TO BE HAPPY Installation + Artist Panel",
           "link": "https://www.eventbrite.com/e/time-to-be-happy-installation-artist-panel-tickets-479563797227",
           "publishedOn": "2022-12-02T17:00:02.000Z",
-          "wordCount": 2825,
+          "wordCount": 2826,
           "title": "TIME TO BE HAPPY Installation + Artist Panel",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F403394999%2F558284168415%2F1%2Foriginal.20221201-212649?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=3%2C20%2C1118%2C559&s=f4030d8148558ea3519f8ee37d98af1e"
         },
@@ -61,7 +81,7 @@
           "description": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "link": "https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-02T13:00:02.000Z",
-          "wordCount": 59307,
+          "wordCount": 58942,
           "title": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
         },
@@ -81,7 +101,7 @@
           "description": "infterface.fyi",
           "link": "https://www.interface.fyi/",
           "publishedOn": "2022-12-02T05:30:04.000Z",
-          "wordCount": 747,
+          "wordCount": 739,
           "title": "infterface.fyi",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Home ✨",
           "link": "https://collectibles.bankless.com/",
           "publishedOn": "2022-12-02T05:00:02.000Z",
-          "wordCount": 326,
+          "wordCount": 336,
           "title": "Home ✨",
           "imageUrl": "https://d2vwpu9ddd6iwd.cloudfront.net/creators/85fef367-3a74-4847-b71b-db334814889c/1667942951.jpg"
         },
@@ -164,26 +184,6 @@
           "wordCount": 3499,
           "title": "Talking to the Protocol",
           "imageUrl": "https://mirror-media.imgix.net/nft/SpWkTBYdAR7eIuw9_nhvV.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
-          "author": null,
-          "description": "Rolling Liquidity Vaults are Live",
-          "link": "https://medium.com/sensefinance/rolling-liquidity-vaults-are-live-67dd7475923c",
-          "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 1804,
-          "title": "Rolling Liquidity Vaults are Live",
-          "imageUrl": "https://miro.medium.com/max/1200/1*SQxDMQf34rxS2GKfSqGLGw.png"
-        },
-        {
-          "id": "https://gov.gitcoin.co/t/v2-of-the-steward-council-nomination-thread-and-election-update/12057/13?u=lefterisjp",
-          "author": null,
-          "description": "V2 of the Steward Council: Nomination thread and election update",
-          "link": "https://gov.gitcoin.co/t/v2-of-the-steward-council-nomination-thread-and-election-update/12057/13?u=lefterisjp",
-          "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 1898,
-          "title": "V2 of the Steward Council: Nomination thread and election update",
-          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/gitcoin1/original/1X/d6503c3e8f849859f29987d8816cd515c34b04f0.png"
         },
         {
           "id": "https://polygon.technology/blog/polygon-is-coming-to-the-graphs-decentralized-network",
