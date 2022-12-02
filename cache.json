@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://collectibles.bankless.com/",
+          "author": null,
+          "description": "Home ✨",
+          "link": "https://collectibles.bankless.com/",
+          "publishedOn": "2022-12-02T05:00:02.000Z",
+          "wordCount": 336,
+          "title": "Home ✨",
+          "imageUrl": "https://d2vwpu9ddd6iwd.cloudfront.net/creators/85fef367-3a74-4847-b71b-db334814889c/1667942951.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/taibbis-opening-remarks-let-it-be-resolved-dont-trust-mainstream-media",
+          "author": null,
+          "description": "Matt Taibbi Dominates Munk Debate: Let It Be Resolved - Don't Trust Mainstream Media | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/taibbis-opening-remarks-let-it-be-resolved-dont-trust-mainstream-media",
+          "publishedOn": "2022-12-02T05:00:02.000Z",
+          "wordCount": 3470,
+          "title": "Matt Taibbi Dominates Munk Debate: Let It Be Resolved - Don't Trust Mainstream Media | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://ethereum-magicians.org/t/rfc-post-merge-network-upgrade-naming-schemes/11977",
           "author": null,
           "description": "RFC: Post-Merge Network Upgrade Naming Schemes",
@@ -24,6 +44,16 @@
           "wordCount": 1625,
           "title": "Governance Portal",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-19-million-action-against-loan-doctor-and-edgar-radjabli-for-offering-fake-high-yield-bank-accounts/",
+          "author": null,
+          "description": "CFPB Takes $19 Million Action Against Loan Doctor and Edgar Radjabli for Offering Fake High-Yield Bank Accounts |...",
+          "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-19-million-action-against-loan-doctor-and-edgar-radjabli-for-offering-fake-high-yield-bank-accounts/",
+          "publishedOn": "2022-12-01T23:30:05.000Z",
+          "wordCount": 1816,
+          "title": "CFPB Takes $19 Million Action Against Loan Doctor and Edgar Radjabli for Offering Fake High-Yield Bank Accounts |...",
+          "imageUrl": "https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png"
         },
         {
           "id": "https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11",
@@ -101,7 +131,7 @@
           "description": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "link": "https://www.theblock.co/post/191286/i-wasnt-even-trying-to-do-risk-management-sam-bankman-fried-tells-abc",
           "publishedOn": "2022-12-01T18:00:05.000Z",
-          "wordCount": 56195,
+          "wordCount": 56194,
           "title": "'I wasn't even trying to do risk management,' Sam Bankman-Fried tells ABC",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/Screen-Shot-2022-11-15-at-3.20.00-PM-1144x675.png"
         },
@@ -124,16 +154,6 @@
           "wordCount": 5964,
           "title": "BitMEX's Fully Fledged PoL System Now Live & Operational | BitMEX Blog",
           "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2022/12/account-1-1024x634.png"
-        },
-        {
-          "id": "https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf",
-          "author": null,
-          "description": "[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts",
-          "link": "https://github.com/starkware-libs/starkex-contracts/blob/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf",
-          "publishedOn": "2022-12-01T15:30:06.000Z",
-          "wordCount": 399,
-          "title": "[PDF] starkex-contracts/EVM_STARK_Verifier_v4.0_Audit_Report.pdf at master · starkware-libs/starkex-contracts",
-          "imageUrl": "https://opengraph.githubassets.com/96fa8ed07745760bff83499fbc6c0dad35a75426ac29ee1ed39d5e5c7cee17e0/starkware-libs/starkex-contracts"
         },
         {
           "id": "https://fleek.xyz/",
@@ -166,22 +186,12 @@
           "imageUrl": "https://forkast.news/wp-content/uploads/2022/08/Tornado-Cash.png"
         },
         {
-          "id": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
-          "author": null,
-          "description": "What Does Sam Bankman-Fried Have to Say for Himself?",
-          "link": "https://nymag.com/intelligencer/article/sam-bankman-fried-ftx-interview.html?utm_campaign=nym&utm_medium=s1&utm_source=tw",
-          "publishedOn": "2022-12-01T11:00:04.000Z",
-          "wordCount": 30945,
-          "title": "What Does Sam Bankman-Fried Have to Say for Himself?",
-          "imageUrl": "https://pyxis.nymag.com/v1/imgs/3ae/e26/ff6a448a8ed2d3c73b7a17af2a25c3c6a8-NY-SBF-02.1x.rsocial.w1200.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "author": null,
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 25315,
+          "wordCount": 25326,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": null,
           "title": "Sam Bankman-Fried Speaks at the DealBook Summit",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
-          "author": null,
-          "description": "Bitcoin’s last stand",
-          "link": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
-          "publishedOn": "2022-11-30T11:30:05.000Z",
-          "wordCount": 1573,
-          "title": "Bitcoin’s last stand",
-          "imageUrl": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4"
         }
       ]
     }
