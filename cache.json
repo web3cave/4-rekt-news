@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
+          "author": null,
+          "description": "Bitcoin’s last stand",
+          "link": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
+          "publishedOn": "2022-12-02T07:00:02.000Z",
+          "wordCount": 1573,
+          "title": "Bitcoin’s last stand",
+          "imageUrl": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5UFJrU4WDIM&feature=youtu.be",
           "author": null,
           "description": "The regulatory landscape for crypto post-FTX, with Rebecca Rettig and Peter Van Valkenburgh",
@@ -96,16 +106,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*SQxDMQf34rxS2GKfSqGLGw.png"
         },
         {
-          "id": "http://garzikrants.blogspot.com/2013/01/storj-and-bitcoin-autonomous-agents.html",
-          "author": null,
-          "description": "StorJ, and Bitcoin autonomous agents",
-          "link": "http://garzikrants.blogspot.com/2013/01/storj-and-bitcoin-autonomous-agents.html",
-          "publishedOn": "2022-12-01T23:00:02.000Z",
-          "wordCount": 3539,
-          "title": "StorJ, and Bitcoin autonomous agents",
-          "imageUrl": null
-        },
-        {
           "id": "https://polygon.technology/blog/polygon-is-coming-to-the-graphs-decentralized-network",
           "author": null,
           "description": "Polygon Is Coming to The Graph’s Decentralized Network — Polygon | Blog",
@@ -191,7 +191,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-01T01:00:03.000Z",
-          "wordCount": 25308,
+          "wordCount": 25289,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
