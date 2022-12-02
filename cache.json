@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
+          "author": null,
+          "description": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
+          "link": "https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity",
+          "publishedOn": "2022-12-02T18:00:05.000Z",
+          "wordCount": 45698,
+          "title": "Sam Bankman-Fried, Effective Altruism, and the Question of Complicity",
+          "imageUrl": "https://media.newyorker.com/photos/6387d96f18968a251aa5645a/16:9/w_1280,c_limit/GLK-FTX.jpg"
+        },
+        {
+          "id": "https://solana.com/news/solana-facts-ftx-bankruptcy",
+          "author": null,
+          "description": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+          "link": "https://solana.com/news/solana-facts-ftx-bankruptcy",
+          "publishedOn": "2022-12-02T17:30:05.000Z",
+          "wordCount": 15934,
+          "title": "Solana Ecosystem Facts Related To FTX Bankruptcy",
+          "imageUrl": "https://solana.ghost.io/content/images/2022/11/solana-generic-cover-image-1.png"
+        },
+        {
           "id": "https://www.eventbrite.com/e/time-to-be-happy-installation-artist-panel-tickets-479563797227",
           "author": null,
           "description": "TIME TO BE HAPPY Installation + Artist Panel",
           "link": "https://www.eventbrite.com/e/time-to-be-happy-installation-artist-panel-tickets-479563797227",
           "publishedOn": "2022-12-02T17:00:02.000Z",
-          "wordCount": 2826,
+          "wordCount": 2825,
           "title": "TIME TO BE HAPPY Installation + Artist Panel",
           "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F403394999%2F558284168415%2F1%2Foriginal.20221201-212649?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=3%2C20%2C1118%2C559&s=f4030d8148558ea3519f8ee37d98af1e"
-        },
-        {
-          "id": "https://lightyears-auction.fellowship.xyz/",
-          "author": null,
-          "description": "Auction - Light Years by Dmitri Cherniak",
-          "link": "https://lightyears-auction.fellowship.xyz/",
-          "publishedOn": "2022-12-02T16:30:02.000Z",
-          "wordCount": 61,
-          "title": "Auction - Light Years by Dmitri Cherniak",
-          "imageUrl": "https://lightyears.fellowship.xyz/auction.jpg"
         },
         {
           "id": "https://www.goodmorningamerica.com/Business/story/ftxs-sam-bankman-fried-denies-improper-customer-funds-94233125",
@@ -31,7 +41,7 @@
           "description": "FTX's Sam Bankman-Fried denies 'improper use' of customer funds amid scrutiny of crypto giant",
           "link": "https://www.goodmorningamerica.com/Business/story/ftxs-sam-bankman-fried-denies-improper-customer-funds-94233125",
           "publishedOn": "2022-12-02T15:30:04.000Z",
-          "wordCount": 7642,
+          "wordCount": 7615,
           "title": "FTX's Sam Bankman-Fried denies 'improper use' of customer funds amid scrutiny of crypto giant",
           "imageUrl": "https://s.abcnews.com/images/US/sbf-1-abc-gmh-221130_1669827033938_hpMain_16x9_608.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "link": "https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-02T13:00:02.000Z",
-          "wordCount": 58211,
+          "wordCount": 58513,
           "title": "Attackers pocket $20 million in exploits on Ankr and Helio",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-2-1200x675.jpg"
         },
@@ -74,16 +84,6 @@
           "wordCount": null,
           "title": "The regulatory landscape for crypto post-FTX, with Rebecca Rettig and Peter Van Valkenburgh",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
-          "author": null,
-          "description": "Mastering Stratego, the classic game of imperfect information",
-          "link": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
-          "publishedOn": "2022-12-02T05:30:04.000Z",
-          "wordCount": 2128,
-          "title": "Mastering Stratego, the classic game of imperfect information",
-          "imageUrl": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png"
         },
         {
           "id": "https://collectibles.bankless.com/",
