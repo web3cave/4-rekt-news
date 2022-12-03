@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/rotki/rotki",
+          "author": null,
+          "description": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
+          "link": "https://github.com/rotki/rotki",
+          "publishedOn": "2022-12-03T17:00:02.000Z",
+          "wordCount": 1040,
+          "title": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
+          "imageUrl": "https://opengraph.githubassets.com/dd9c7dded8ba0e9dba40af48162e0ac7e1336aaa9ac5aa94e6478c374ce68b70/rotki/rotki"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/guardian-could-help-assange-retracting-all-lies-it-published-about-him",
+          "author": null,
+          "description": "The Guardian Could Help Assange By Retracting All The Lies It Published About Him | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/guardian-could-help-assange-retracting-all-lies-it-published-about-him",
+          "publishedOn": "2022-12-03T16:30:02.000Z",
+          "wordCount": 2778,
+          "title": "The Guardian Could Help Assange By Retracting All The Lies It Published About Him | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/walletconnect/walletconnect-v1-0-sunset-notice-and-migration-schedule-8af9d3720d2e",
           "author": null,
           "description": "WalletConnect v1.0 Sunset Notice and Migration Schedule",
           "link": "https://medium.com/walletconnect/walletconnect-v1-0-sunset-notice-and-migration-schedule-8af9d3720d2e",
           "publishedOn": "2022-12-03T15:00:02.000Z",
-          "wordCount": 2064,
+          "wordCount": 2061,
           "title": "WalletConnect v1.0 Sunset Notice and Migration Schedule",
           "imageUrl": "https://miro.medium.com/max/1200/1*rWvKdLloLWYMXNsLnJRaqg.jpeg"
         },
@@ -21,7 +41,7 @@
           "description": "The Dawn of Mediocre Computing",
           "link": "https://studio.ribbonfarm.com/p/the-dawn-of-mediocre-computing",
           "publishedOn": "2022-12-03T14:30:03.000Z",
-          "wordCount": 8054,
+          "wordCount": 7848,
           "title": "The Dawn of Mediocre Computing",
           "imageUrl": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff139bf53-f5dc-4d6a-a159-4478fe7cd529_1280x1280.png"
         },
@@ -74,16 +94,6 @@
           "wordCount": null,
           "title": "Bankless 🤝 Daily Gwei Livestream",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
-          "author": null,
-          "description": "Bitcoin’s last stand",
-          "link": "https://www.ecb.europa.eu/press/blog/date/2022/html/ecb.blog221130~5301eecd19.en.html",
-          "publishedOn": "2022-12-02T23:30:04.000Z",
-          "wordCount": 1573,
-          "title": "Bitcoin’s last stand",
-          "imageUrl": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4"
         },
         {
           "id": "https://gov.uniswap.org/t/fee-switch-pilot-update-vote/19514",
@@ -154,16 +164,6 @@
           "wordCount": 2742,
           "title": "The Internet Computer Brings Smart Contract Functionality to Bitcoin",
           "imageUrl": null
-        },
-        {
-          "id": "https://blockworks.co/news/bankless-make-first-acquisition",
-          "author": null,
-          "description": "Bankless Is Now More Than A Media Company - Blockworks",
-          "link": "https://blockworks.co/news/bankless-make-first-acquisition",
-          "publishedOn": "2022-12-02T21:00:02.000Z",
-          "wordCount": 15048,
-          "title": "Bankless Is Now More Than A Media Company - Blockworks",
-          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/bankless-1024x594.png"
         },
         {
           "id": "https://solidity-by-example.org/",
