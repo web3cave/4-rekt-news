@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.benq.com/en-us/knowledge-center/knowledge/one-cable-to-daisy-chain-all-the-monitors.html",
+          "author": null,
+          "description": "How to Use Daisy Chain When Connecting Multiple Monitors",
+          "link": "https://www.benq.com/en-us/knowledge-center/knowledge/one-cable-to-daisy-chain-all-the-monitors.html",
+          "publishedOn": "2022-12-03T18:00:04.000Z",
+          "wordCount": 2600,
+          "title": "How to Use Daisy Chain When Connecting Multiple Monitors",
+          "imageUrl": "https://www.benq.com/content/dam/b2c/en/knowledge-center/one-cable-to-daisy-chain-all-the-monitors/thumbnail.png"
+        },
+        {
+          "id": "https://www.amazon.es/dp/B08YJX4GT9?ref_=cm_sw_r_apin_dp_TXWX0EFZYYX0EQGFC99Q&tag=ttrvin-20",
+          "author": null,
+          "description": "BenQ PD2725U Monitor Designer (AQCOLOR Technology, 27 pulgadas, 4K UHD, P3 Wide Color, Thunderbolt 3, DisplayHDR 400,...",
+          "link": "https://www.amazon.es/dp/B08YJX4GT9?ref_=cm_sw_r_apin_dp_TXWX0EFZYYX0EQGFC99Q&tag=ttrvin-20",
+          "publishedOn": "2022-12-03T18:00:04.000Z",
+          "wordCount": 38098,
+          "title": "BenQ PD2725U Monitor Designer (AQCOLOR Technology, 27 pulgadas, 4K UHD, P3 Wide Color, Thunderbolt 3, DisplayHDR 400,...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_uGLoKPuTdI&feature=youtu.be",
+          "author": null,
+          "description": "This Game Warden Went to War with Cartels | Joe Rogan",
+          "link": "https://www.youtube.com/watch?v=_uGLoKPuTdI&feature=youtu.be",
+          "publishedOn": "2022-12-03T17:30:05.000Z",
+          "wordCount": null,
+          "title": "This Game Warden Went to War with Cartels | Joe Rogan",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/rotki/rotki",
           "author": null,
           "description": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
           "link": "https://github.com/rotki/rotki",
           "publishedOn": "2022-12-03T17:00:02.000Z",
-          "wordCount": 1040,
+          "wordCount": 1301,
           "title": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
           "imageUrl": "https://opengraph.githubassets.com/dd9c7dded8ba0e9dba40af48162e0ac7e1336aaa9ac5aa94e6478c374ce68b70/rotki/rotki"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/guardian-could-help-assange-retracting-all-lies-it-published-about-him",
-          "author": null,
-          "description": "The Guardian Could Help Assange By Retracting All The Lies It Published About Him | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/guardian-could-help-assange-retracting-all-lies-it-published-about-him",
-          "publishedOn": "2022-12-03T16:30:02.000Z",
-          "wordCount": 2778,
-          "title": "The Guardian Could Help Assange By Retracting All The Lies It Published About Him | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://medium.com/walletconnect/walletconnect-v1-0-sunset-notice-and-migration-schedule-8af9d3720d2e",
@@ -31,7 +51,7 @@
           "description": "WalletConnect v1.0 Sunset Notice and Migration Schedule",
           "link": "https://medium.com/walletconnect/walletconnect-v1-0-sunset-notice-and-migration-schedule-8af9d3720d2e",
           "publishedOn": "2022-12-03T15:00:02.000Z",
-          "wordCount": 2061,
+          "wordCount": 2064,
           "title": "WalletConnect v1.0 Sunset Notice and Migration Schedule",
           "imageUrl": "https://miro.medium.com/max/1200/1*rWvKdLloLWYMXNsLnJRaqg.jpeg"
         },
@@ -131,7 +151,7 @@
           "description": "Exclusive: Sam Bankman-Fried Knew Plenty About His Alameda Research Hedge Fund–And Sent Details To Forbes Just Months...",
           "link": "https://www.forbes.com/sites/chasewithorn/2022/12/02/exclusive-sam-bankman-fried-knew-plenty-about-his-alameda-research-hedge-fundand-sent-details-to-forbes-just-months-ago/",
           "publishedOn": "2022-12-02T21:00:03.000Z",
-          "wordCount": 12117,
+          "wordCount": 12001,
           "title": "Exclusive: Sam Bankman-Fried Knew Plenty About His Alameda Research Hedge Fund–And Sent Details To Forbes Just Months...",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/638a3b832852623b566703bb/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -154,26 +174,6 @@
           "wordCount": 45,
           "title": "Speed Run Ethereum",
           "imageUrl": "https://speedrunethereum.com/thumbnail.png"
-        },
-        {
-          "id": "https://coinbold.io/the-internet-computer-ic-brings-smart-contract-functionality-to-bitcoin/",
-          "author": null,
-          "description": "The Internet Computer Brings Smart Contract Functionality to Bitcoin",
-          "link": "https://coinbold.io/the-internet-computer-ic-brings-smart-contract-functionality-to-bitcoin/",
-          "publishedOn": "2022-12-02T21:00:03.000Z",
-          "wordCount": 2742,
-          "title": "The Internet Computer Brings Smart Contract Functionality to Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://solidity-by-example.org/",
-          "author": null,
-          "description": "Solidity by Example",
-          "link": "https://solidity-by-example.org/",
-          "publishedOn": "2022-12-02T19:00:03.000Z",
-          "wordCount": 14,
-          "title": "Solidity by Example",
-          "imageUrl": null
         },
         {
           "id": "https://www.interface.fyi/",
