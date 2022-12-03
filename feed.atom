@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-03T10:19:06.435Z</id>
+    <id>urn:2022-12-03T11:14:28.722Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-03T10:19:06.435Z</updated>
+    <updated>2022-12-03T11:14:28.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Auth | WalletConnect Docs]]></title>
+        <id>https://docs.walletconnect.com/2.0/api/auth</id>
+        <link href="https://docs.walletconnect.com/2.0/api/auth"/>
+        <updated>2022-12-03T08:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Auth | WalletConnect Docs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyrum's Law]]></title>
         <id>https://www.hyrumslaw.com/</id>
@@ -151,16 +161,6 @@
         <link href="https://solidity-by-example.org/"/>
         <updated>2022-12-02T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[Solidity by Example]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers pocket $20 million in exploits on Ankr and Helio]]></title>
-        <id>https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/191668/attacker-pockets-20-million-in-exploits-on-ankr-and-helio?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-12-02T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Attackers pocket $20 million in exploits on Ankr and Helio]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
