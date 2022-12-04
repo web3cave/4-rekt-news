@@ -6,6 +6,96 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2021/12/20/kintsugi-merge-testnet",
+          "author": null,
+          "description": "Announcing the Kintsugi Merge Testnet | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2021/12/20/kintsugi-merge-testnet",
+          "publishedOn": "2022-12-04T19:00:02.000Z",
+          "wordCount": 1425,
+          "title": "Announcing the Kintsugi Merge Testnet | Ethereum Foundation Blog",
+          "imageUrl": "https://blog.ethereum.org/images/posts/upload_199e1f8087c60cd5187bc4bbb47d8396.jpg"
+        },
+        {
+          "id": "https://hackmd.io/ivUzk3piQEG8ALzCGbxlag",
+          "author": null,
+          "description": "MEV.wtf Virtual Summit - HackMD",
+          "link": "https://hackmd.io/ivUzk3piQEG8ALzCGbxlag",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 2940,
+          "title": "MEV.wtf Virtual Summit - HackMD",
+          "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
+        },
+        {
+          "id": "https://hackmd.io/cEw2Z-QcR1yvQ8wAeQZdnQ",
+          "author": null,
+          "description": "REORG.WTF - HackMD",
+          "link": "https://hackmd.io/cEw2Z-QcR1yvQ8wAeQZdnQ",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 2135,
+          "title": "REORG.WTF - HackMD",
+          "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
+        },
+        {
+          "id": "https://github.com/flashbots/pm/blob/main/recordings.md",
+          "author": null,
+          "description": "pm/recordings.md at main · flashbots/pm",
+          "link": "https://github.com/flashbots/pm/blob/main/recordings.md",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 660,
+          "title": "pm/recordings.md at main · flashbots/pm",
+          "imageUrl": "https://opengraph.githubassets.com/223107470e24842ce6b0876c64a89cc7c7e96e6e6ea774ba7aa86e4017d1fa06/flashbots/pm"
+        },
+        {
+          "id": "https://scarce.city/auctions/fakemcafee-painting",
+          "author": null,
+          "description": "FAKEMCAFEE Framed Painting & Token | Scarce City",
+          "link": "https://scarce.city/auctions/fakemcafee-painting",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 2561,
+          "title": "FAKEMCAFEE Framed Painting & Token | Scarce City",
+          "imageUrl": "https://cdn.sanity.io/images/w4avejpr/production/aa97606d1244a8a9665cab587e2b15531dbb052d-1200x1500.jpg?h=400&q=50&auto=format"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/will-your-state-reject-feds-digital-dollar",
+          "author": null,
+          "description": "Will Your State Reject The Fed's Digital Dollar? | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/will-your-state-reject-feds-digital-dollar",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 3061,
+          "title": "Will Your State Reject The Fed's Digital Dollar? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/ukraine-wheat-harvest-crushed-expectations-satellite-analysis",
+          "author": null,
+          "description": "Ukraine Wheat Harvest Crushed Expectations: Satellite Analysis | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/ukraine-wheat-harvest-crushed-expectations-satellite-analysis",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 1071,
+          "title": "Ukraine Wheat Harvest Crushed Expectations: Satellite Analysis | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.americansouthwest.net/utah/canyonlands/confluence_trail.html",
+          "author": null,
+          "description": "Confluence of the Green and Colorado Rivers, The Needles, Canyonlands National Park, Utah",
+          "link": "https://www.americansouthwest.net/utah/canyonlands/confluence_trail.html",
+          "publishedOn": "2022-12-04T19:00:01.000Z",
+          "wordCount": 1050,
+          "title": "Confluence of the Green and Colorado Rivers, The Needles, Canyonlands National Park, Utah",
+          "imageUrl": "https://www.americansouthwest.net/utah/photographs700/confluence.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=uUq50UpQYSw",
+          "author": null,
+          "description": "Kitesurfer uses pre-Hurricane Dorian winds to jump over pier",
+          "link": "https://www.youtube.com/watch?app=desktop&v=uUq50UpQYSw",
+          "publishedOn": "2022-12-04T18:30:03.000Z",
+          "wordCount": null,
+          "title": "Kitesurfer uses pre-Hurricane Dorian winds to jump over pier",
+          "imageUrl": null
+        },
+        {
           "id": "http://garzikrants.blogspot.com/2013/01/storj-and-bitcoin-autonomous-agents.html",
           "author": null,
           "description": "StorJ, and Bitcoin autonomous agents",
@@ -13,106 +103,6 @@
           "publishedOn": "2022-12-04T17:30:03.000Z",
           "wordCount": 3539,
           "title": "StorJ, and Bitcoin autonomous agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/vrescobar/chatGPT-python-elm",
-          "author": null,
-          "description": "GitHub - vrescobar/chatGPT-python-elm: A repository fully generated by ChatGPT making it believed it checked out a...",
-          "link": "https://github.com/vrescobar/chatGPT-python-elm",
-          "publishedOn": "2022-12-04T17:30:03.000Z",
-          "wordCount": 1024,
-          "title": "GitHub - vrescobar/chatGPT-python-elm: A repository fully generated by ChatGPT making it believed it checked out a...",
-          "imageUrl": "https://opengraph.githubassets.com/088f291a58e71ff12f8bc9a30692e33cfa1ec1fc5eb759cb59075faf6ac6b030/vrescobar/chatGPT-python-elm"
-        },
-        {
-          "id": "https://www.youtube.com/c/anthonypompliano/",
-          "author": null,
-          "description": "Anthony Pompliano - YouTube",
-          "link": "https://www.youtube.com/c/anthonypompliano/",
-          "publishedOn": "2022-12-04T17:00:03.000Z",
-          "wordCount": 6077,
-          "title": "Anthony Pompliano - YouTube",
-          "imageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8iphAXFZPmN6r87AfhMbTzdGFZyhO3JhiXG8GVAw=s900-c-k-c0x00ffffff-no-rj"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=si3INfV3pZg&t=19s",
-          "author": null,
-          "description": "Jake Paul on Andrew Tate, MrBeast, UFC, Logan Paul & Making Millions",
-          "link": "https://www.youtube.com/watch?v=si3INfV3pZg&t=19s",
-          "publishedOn": "2022-12-04T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Jake Paul on Andrew Tate, MrBeast, UFC, Logan Paul & Making Millions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BQCOJlFXvpU&t=3751s",
-          "author": null,
-          "description": "The Carnivore Diet & Bitcoin | Dr. Shawn Baker",
-          "link": "https://www.youtube.com/watch?v=BQCOJlFXvpU&t=3751s",
-          "publishedOn": "2022-12-04T17:00:03.000Z",
-          "wordCount": null,
-          "title": "The Carnivore Diet & Bitcoin | Dr. Shawn Baker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dCXby34tXcA&t=253s",
-          "author": null,
-          "description": "Inside CIA Contracting with a Navy SEAL | Shawn Ryan",
-          "link": "https://www.youtube.com/watch?v=dCXby34tXcA&t=253s",
-          "publishedOn": "2022-12-04T17:00:03.000Z",
-          "wordCount": null,
-          "title": "Inside CIA Contracting with a Navy SEAL | Shawn Ryan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rotki.com/products/",
-          "author": null,
-          "description": "premium subscription | rotki",
-          "link": "https://rotki.com/products/",
-          "publishedOn": "2022-12-04T17:00:03.000Z",
-          "wordCount": 4885,
-          "title": "premium subscription | rotki",
-          "imageUrl": "https://rotki.com/img/share.png"
-        },
-        {
-          "id": "https://jobs.lever.co/Horizon/1d63519e-102b-468d-803b-a18daa5cebab",
-          "author": null,
-          "description": "Horizon Blockchain Games - Senior UI/UX Designer (Skyweaver) - Remote",
-          "link": "https://jobs.lever.co/Horizon/1d63519e-102b-468d-803b-a18daa5cebab",
-          "publishedOn": "2022-12-04T17:00:02.000Z",
-          "wordCount": 15769,
-          "title": "Horizon Blockchain Games - Senior UI/UX Designer (Skyweaver) - Remote",
-          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/2f8d0607-3591-4419-a57c-14a34cf48fc1-1638898109033.png"
-        },
-        {
-          "id": "https://github.com/ourzora/mint-page-template",
-          "author": null,
-          "description": "GitHub - ourzora/mint-page-template",
-          "link": "https://github.com/ourzora/mint-page-template",
-          "publishedOn": "2022-12-04T15:00:02.000Z",
-          "wordCount": 1617,
-          "title": "GitHub - ourzora/mint-page-template",
-          "imageUrl": "https://opengraph.githubassets.com/94e72b181b5887d7501a1baf2d6c7dddc6d7deef71e925e232090d9f21f67872/ourzora/mint-page-template"
-        },
-        {
-          "id": "https://hackathons.filecoin.io/",
-          "author": null,
-          "description": "Hackathons",
-          "link": "https://hackathons.filecoin.io/",
-          "publishedOn": "2022-12-04T15:00:02.000Z",
-          "wordCount": 3911,
-          "title": "Hackathons",
-          "imageUrl": "https://res.cloudinary.com/tombustout/image/upload/v1634005837/asia-hackathon-hero_isb8ak.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/brussels-bailing-out-ukraine-will-ruin-europe-generations-hungarys-orban-warns",
-          "author": null,
-          "description": "Brussels Bailing Out Ukraine Will Ruin Europe For Generations, Hungary's Orban Warns | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/brussels-bailing-out-ukraine-will-ruin-europe-generations-hungarys-orban-warns",
-          "publishedOn": "2022-12-04T14:00:03.000Z",
-          "wordCount": 786,
-          "title": "Brussels Bailing Out Ukraine Will Ruin Europe For Generations, Hungary's Orban Warns | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -124,6 +114,16 @@
           "wordCount": 5647,
           "title": "Bill Ackman Sent a Text to the CEO of Mastercard. What Happened Next Is a Parable for ESG.",
           "imageUrl": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/IIESG_0621_lead.jpg"
+        },
+        {
+          "id": "https://www.eib.org/en/press/all/2022-449-eib-innovates-further-with-project-venus-the-first-euro-denominated-digital-bond-on-a-private-blockchain?utm_source=twitter&utm_medium=Social&utm_campaign=PressRelease&utm_content=ProjectVenus&utm_term=DigitalEconomy_na&utm_id=2022-11-29_01_en",
+          "author": null,
+          "description": "EIB innovates further with Project Venus, the first euro-denominated digital bond on a private blockchain",
+          "link": "https://www.eib.org/en/press/all/2022-449-eib-innovates-further-with-project-venus-the-first-euro-denominated-digital-bond-on-a-private-blockchain?utm_source=twitter&utm_medium=Social&utm_campaign=PressRelease&utm_content=ProjectVenus&utm_term=DigitalEconomy_na&utm_id=2022-11-29_01_en",
+          "publishedOn": "2022-12-04T09:00:02.000Z",
+          "wordCount": 2610,
+          "title": "EIB innovates further with Project Venus, the first euro-denominated digital bond on a private blockchain",
+          "imageUrl": "https://www.eib.org/photos/rs/6f9c5dd1-d788-4080-8192-bd4d2386df61/largeprvw/image.jpg"
         },
         {
           "id": "https://jacob.energy/ideas-are-valuable.html",
@@ -166,13 +166,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/major-web-browsers-drop-mysterious-authentication-company-after-ties-us-military",
+          "id": "https://sriramk.com/transparent-content-moderation",
           "author": null,
-          "description": "Major Web Browsers Drop Mysterious Authentication Company After Ties To US Military Contractor Exposed | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/major-web-browsers-drop-mysterious-authentication-company-after-ties-us-military",
-          "publishedOn": "2022-12-03T21:00:02.000Z",
-          "wordCount": 1256,
-          "title": "Major Web Browsers Drop Mysterious Authentication Company After Ties To US Military Contractor Exposed | ZeroHedge",
+          "description": "Transparent content moderation",
+          "link": "https://sriramk.com/transparent-content-moderation",
+          "publishedOn": "2022-12-03T23:00:02.000Z",
+          "wordCount": 1079,
+          "title": "Transparent content moderation",
           "imageUrl": null
         },
         {
@@ -181,7 +181,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-03T19:30:04.000Z",
-          "wordCount": 24445,
+          "wordCount": 24441,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
