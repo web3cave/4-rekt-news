@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T18:23:25.098Z</id>
+    <id>urn:2022-12-05T19:15:00.282Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-05T18:23:25.098Z</updated>
+    <updated>2022-12-05T19:15:00.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://9dcc.xyz/"/>
         <updated>2022-12-05T16:30:03.000Z</updated>
         <summary type="html"><![CDATA[9dcc]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Do A Little]]></title>
+        <id>https://www.wedoalittle.com/</id>
+        <link href="https://www.wedoalittle.com/"/>
+        <updated>2022-12-05T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[We Do A Little]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://www.nbcnews.com/tech/social-media/elon-musk-twitter-us-data-growth-tweet-bankruptcy-shutting-down-rcna59051?cid=sm_npd_nn_tw_ma"/>
         <updated>2022-12-04T22:30:02.000Z</updated>
         <summary type="html"><![CDATA[New data confirms Musk's claim that Twitter activity is up]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV.wtf Virtual Summit - HackMD]]></title>
-        <id>https://hackmd.io/ivUzk3piQEG8ALzCGbxlag</id>
-        <link href="https://hackmd.io/ivUzk3piQEG8ALzCGbxlag"/>
-        <updated>2022-12-04T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[MEV.wtf Virtual Summit - HackMD]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
