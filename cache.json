@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ethereum/consensus-specs/releases/tag/v0.4.1",
+          "author": null,
+          "description": "Release Crypto Bluebird · ethereum/consensus-specs",
+          "link": "https://github.com/ethereum/consensus-specs/releases/tag/v0.4.1",
+          "publishedOn": "2022-12-04T23:30:03.000Z",
+          "wordCount": 960,
+          "title": "Release Crypto Bluebird · ethereum/consensus-specs",
+          "imageUrl": "https://opengraph.githubassets.com/1c9caf9d6c3d135473684c49c36e7ba97e8d70763affcea9fbe485785264a7f1/ethereum/consensus-specs/releases/tag/v0.4.1"
+        },
+        {
+          "id": "https://github.com/ethereum/EIPs/issues/29",
+          "author": null,
+          "description": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
+          "link": "https://github.com/ethereum/EIPs/issues/29",
+          "publishedOn": "2022-12-04T23:00:03.000Z",
+          "wordCount": 3767,
+          "title": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
+          "imageUrl": "https://opengraph.githubassets.com/98d3a63c5f54916e57dc17fd2e749e3ccccfdc4fbe09fe44cc1ae80a7ebfcee1/ethereum/EIPs/issues/29"
+        },
+        {
           "id": "https://blog.makerdao.com/maker-foundation-announces-27-5-million-mkr-sale-to-dragonfly-capital-partners-and-paradigm/",
           "author": null,
           "description": "» Maker Foundation Announces $27.5 Million MKR Sale to Dragonfly Capital Partners and Paradigm",
@@ -16,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/ethereum/EIPs/issues/29",
-          "author": null,
-          "description": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
-          "link": "https://github.com/ethereum/EIPs/issues/29",
-          "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": 3754,
-          "title": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
-          "imageUrl": "https://opengraph.githubassets.com/98d3a63c5f54916e57dc17fd2e749e3ccccfdc4fbe09fe44cc1ae80a7ebfcee1/ethereum/EIPs/issues/29"
-        },
-        {
           "id": "https://dmitri.level.press/c/ringers-the-rinkeby-sessions",
           "author": null,
           "description": "Ringers: The Rinkeby Sessions - A Collection on Dot Press",
@@ -34,16 +44,6 @@
           "wordCount": 1380,
           "title": "Ringers: The Rinkeby Sessions - A Collection on Dot Press",
           "imageUrl": "https://d29mtkonxnc5fw.cloudfront.net/images/m1uTeve27nCH-6QOKryrkg_large_square.jpg"
-        },
-        {
-          "id": "https://www.getrevue.co/profile/raoulgmi/issues/when-liquidity-changes-everything-changes-1479317",
-          "author": null,
-          "description": "When Liquidity Changes, Everything Changes",
-          "link": "https://www.getrevue.co/profile/raoulgmi/issues/when-liquidity-changes-everything-changes-1479317",
-          "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": 2276,
-          "title": "When Liquidity Changes, Everything Changes",
-          "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/661/725/original/issue_image_1479317.jpg?1670180893"
         },
         {
           "id": "https://register.sandbox.game/the-galleria",
@@ -63,6 +63,26 @@
           "publishedOn": "2022-12-04T23:00:03.000Z",
           "wordCount": 6851,
           "title": "Stocks Have \"Considerably More Downside\" & Commodities Have A \"Brand New Tailwind\" In 2023 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/he-turned-his-back-rail-workers-fume-after-biden-forces-unions-accept-deal",
+          "author": null,
+          "description": "\"He Turned His Back\": Rail Workers Fume After Biden Forces Unions To Accept Deal | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/he-turned-his-back-rail-workers-fume-after-biden-forces-unions-accept-deal",
+          "publishedOn": "2022-12-04T23:00:03.000Z",
+          "wordCount": 1221,
+          "title": "\"He Turned His Back\": Rail Workers Fume After Biden Forces Unions To Accept Deal | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/twitter-staff-be-grilled-congress-censoring-hunter-biden-laptop-story-rep-comer",
+          "author": null,
+          "description": "Twitter Staff To Be Grilled Before Congress For Censoring Hunter Biden Laptop Story: Rep. Comer | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/twitter-staff-be-grilled-congress-censoring-hunter-biden-laptop-story-rep-comer",
+          "publishedOn": "2022-12-04T23:00:03.000Z",
+          "wordCount": 1181,
+          "title": "Twitter Staff To Be Grilled Before Congress For Censoring Hunter Biden Laptop Story: Rep. Comer | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -86,22 +106,12 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCDCmZnkAsi_U9cTmazy1oPuZclU_mV3xGmOShELkD0QmZcVvi-erQoTq0tRD30TDqIfaM-6YrsBSCsTGl26aQsvZgJzJp2yUYs9zcvQxUN9hvo83fio_gCL4SS4xNf56bVH1s4-qftYXcK9UaD04Zh5HfCExcnm1VlrrmATk9F_sxThDzQInTQV7S/w1200-h630-p-k-no-nu/a_stock_photo_of_a_patient_having_their_ear_examined_at_a_doctor_s_office_Seed-592476_Steps-25_Guidance-7.5.jpeg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=Eu66WQmV800&feature=youtu.be",
-          "author": null,
-          "description": "Starship Troopers: Extermination - Gameplay Teaser",
-          "link": "https://www.youtube.com/watch?v=Eu66WQmV800&feature=youtu.be",
-          "publishedOn": "2022-12-04T20:00:03.000Z",
-          "wordCount": null,
-          "title": "Starship Troopers: Extermination - Gameplay Teaser",
-          "imageUrl": null
-        },
-        {
           "id": "https://create.zora.co/",
           "author": null,
           "description": "ZORA Create",
           "link": "https://create.zora.co/",
           "publishedOn": "2022-12-04T19:30:04.000Z",
-          "wordCount": 1431,
+          "wordCount": 1432,
           "title": "ZORA Create",
           "imageUrl": null
         },
@@ -111,9 +121,9 @@
           "description": "GitHub - ourzora/mint-page-template",
           "link": "https://github.com/ourzora/mint-page-template",
           "publishedOn": "2022-12-04T19:30:03.000Z",
-          "wordCount": 1617,
+          "wordCount": 1817,
           "title": "GitHub - ourzora/mint-page-template",
-          "imageUrl": "https://opengraph.githubassets.com/2a253ada95eafe635164abe5ae2e7ff3f007781ed3fc1277501954542486e834/ourzora/mint-page-template"
+          "imageUrl": "https://opengraph.githubassets.com/bf7bf598820d36a9c502cb654119ac91820f8f113f2827cd2fd542a5955aa87f/ourzora/mint-page-template"
         },
         {
           "id": "https://hackmd.io/ivUzk3piQEG8ALzCGbxlag",
@@ -156,24 +166,14 @@
           "imageUrl": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/IIESG_0621_lead.jpg"
         },
         {
-          "id": "https://jacob.energy/ideas-are-valuable.html",
-          "author": null,
-          "description": "Ideas are Valuable",
-          "link": "https://jacob.energy/ideas-are-valuable.html",
-          "publishedOn": "2022-12-04T03:00:02.000Z",
-          "wordCount": 774,
-          "title": "Ideas are Valuable",
-          "imageUrl": "https://jacob.energy/img/ideas.png"
-        },
-        {
           "id": "https://github.com/smrpn/Account2",
           "author": null,
           "description": "GitHub - smrpn/Account2",
           "link": "https://github.com/smrpn/Account2",
           "publishedOn": "2022-12-04T01:30:05.000Z",
-          "wordCount": 1533,
+          "wordCount": 1528,
           "title": "GitHub - smrpn/Account2",
-          "imageUrl": "https://opengraph.githubassets.com/9be8696fc2fb925c8ae506740677b49a1dab3d213a07a0444b84e9765991daca/smrpn/Account2"
+          "imageUrl": "https://opengraph.githubassets.com/88d3c8f53e52e422be7441b87ee0d9708c96a26f26bb85fe9ccc1f7c2831c8ca/smrpn/Account2"
         },
         {
           "id": "https://www.engraved.blog/building-a-virtual-machine-inside/",
@@ -191,7 +191,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-03T19:30:04.000Z",
-          "wordCount": 24495,
+          "wordCount": 24491,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
