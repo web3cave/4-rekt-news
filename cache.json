@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://avc.com/2022/12/sign-everything/",
+          "author": null,
+          "description": "Sign Everything - AVC",
+          "link": "https://avc.com/2022/12/sign-everything/",
+          "publishedOn": "2022-12-05T18:00:05.000Z",
+          "wordCount": 678,
+          "title": "Sign Everything - AVC",
+          "imageUrl": "https://avc.com/content/uploads/2022/12/Screen-Shot-2022-12-04-at-6.34.27-AM.png"
+        },
+        {
+          "id": "https://mirror.xyz/bitkevin.eth/F3cZoh630VvRKgmPzVQ3QXM5gQu_s9kd3YhW6Qt2mRc",
+          "author": null,
+          "description": "Decentralized Diffusion: Stable Diffusion and Web3",
+          "link": "https://mirror.xyz/bitkevin.eth/F3cZoh630VvRKgmPzVQ3QXM5gQu_s9kd3YhW6Qt2mRc",
+          "publishedOn": "2022-12-05T18:00:05.000Z",
+          "wordCount": 2604,
+          "title": "Decentralized Diffusion: Stable Diffusion and Web3",
+          "imageUrl": "https://mirror-media.imgix.net/nft/7WTJO8sSjYt_lC81mjO3T.png?h=null&w=null&auto=compress"
+        },
+        {
           "id": "https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0",
           "author": null,
           "description": "How can PoPW networks win?",
@@ -16,12 +36,22 @@
           "imageUrl": "https://miro.medium.com/max/1164/0*KWaExCWqAsZ-Fdgn"
         },
         {
+          "id": "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers",
+          "author": null,
+          "description": "AI-generated answers temporarily banned on coding Q&A site Stack Overflow",
+          "link": "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers",
+          "publishedOn": "2022-12-05T17:00:06.000Z",
+          "wordCount": 8367,
+          "title": "AI-generated answers temporarily banned on coding Q&A site Stack Overflow",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bovQ_S0XU6mbK7A4hoOB8kPfIag=/0x0:5423x3953/1200x628/filters:focal(2712x1977:2713x1978)/cdn.vox-cdn.com/uploads/chorus_asset/file/24263938/1078770884.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/consensus-magazine/most-influential-2022/",
           "author": null,
           "description": "Most Influential 2022 by CoinDesk",
           "link": "https://www.coindesk.com/consensus-magazine/most-influential-2022/",
           "publishedOn": "2022-12-05T17:00:06.000Z",
-          "wordCount": 29423,
+          "wordCount": 29491,
           "title": "Most Influential 2022 by CoinDesk",
           "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/QYI627SZQJDAVDCSKSJUGHOGCQ.png"
         },
@@ -51,7 +81,7 @@
           "description": "Orthogonal Trading defaults on $36 million of loans on Maple Finance",
           "link": "https://www.theblock.co/post/192097/maple-finance-default-orthogonal-trading?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-05T16:00:05.000Z",
-          "wordCount": 60312,
+          "wordCount": 59897,
           "title": "Orthogonal Trading defaults on $36 million of loans on Maple Finance",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
         },
@@ -91,7 +121,7 @@
           "description": "Sam Bankman-Fried takes aim at FTX CEO John Ray in new interview",
           "link": "https://www.theblock.co/post/191995/sam-bankman-fried-takes-aim-at-ftx-ceo-john-ray-in-new-interview?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-05T14:00:04.000Z",
-          "wordCount": 61527,
+          "wordCount": 61112,
           "title": "Sam Bankman-Fried takes aim at FTX CEO John Ray in new interview",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg"
         },
@@ -101,7 +131,7 @@
           "description": "2-hour sit-down with Sam Bankman-Fried on the FTX scandal",
           "link": "https://www.theblock.co/post/192005/2-hour-sit-down-with-sam-bankman-fried-on-the-ftx-scandal?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-05T13:00:02.000Z",
-          "wordCount": 60847,
+          "wordCount": 60442,
           "title": "2-hour sit-down with Sam Bankman-Fried on the FTX scandal",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221202_TheScoop_SamBankmanFried_16x9_V2-1200x675.jpg"
         },
@@ -141,29 +171,9 @@
           "description": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
           "link": "https://github.com/ethereum/EIPs/issues/29",
           "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": 3762,
+          "wordCount": 3764,
           "title": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
           "imageUrl": "https://opengraph.githubassets.com/7d65258c141a430cc534b883c7402a4f5bc63451042603c906049301f3ee6e63/ethereum/EIPs/issues/29"
-        },
-        {
-          "id": "https://blog.makerdao.com/maker-foundation-announces-27-5-million-mkr-sale-to-dragonfly-capital-partners-and-paradigm/",
-          "author": null,
-          "description": "» Maker Foundation Announces $27.5 Million MKR Sale to Dragonfly Capital Partners and Paradigm",
-          "link": "https://blog.makerdao.com/maker-foundation-announces-27-5-million-mkr-sale-to-dragonfly-capital-partners-and-paradigm/",
-          "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": 1038,
-          "title": "» Maker Foundation Announces $27.5 Million MKR Sale to Dragonfly Capital Partners and Paradigm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://register.sandbox.game/the-galleria",
-          "author": null,
-          "description": "The Sandbox Land Sale - The Galleria",
-          "link": "https://register.sandbox.game/the-galleria",
-          "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": null,
-          "title": "The Sandbox Land Sale - The Galleria",
-          "imageUrl": null
         },
         {
           "id": "https://www.nbcnews.com/tech/social-media/elon-musk-twitter-us-data-growth-tweet-bankruptcy-shutting-down-rcna59051?cid=sm_npd_nn_tw_ma",
@@ -171,7 +181,7 @@
           "description": "New data confirms Musk's claim that Twitter activity is up",
           "link": "https://www.nbcnews.com/tech/social-media/elon-musk-twitter-us-data-growth-tweet-bankruptcy-shutting-down-rcna59051?cid=sm_npd_nn_tw_ma",
           "publishedOn": "2022-12-04T22:30:02.000Z",
-          "wordCount": 11763,
+          "wordCount": 11733,
           "title": "New data confirms Musk's claim that Twitter activity is up",
           "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220414-elon-musk-al-1009-9ec722.jpg"
         },
@@ -186,22 +196,12 @@
           "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
         },
         {
-          "id": "https://hackmd.io/cEw2Z-QcR1yvQ8wAeQZdnQ",
-          "author": null,
-          "description": "REORG.WTF - HackMD",
-          "link": "https://hackmd.io/cEw2Z-QcR1yvQ8wAeQZdnQ",
-          "publishedOn": "2022-12-04T19:00:01.000Z",
-          "wordCount": 2135,
-          "title": "REORG.WTF - HackMD",
-          "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
-        },
-        {
           "id": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "author": null,
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-03T19:30:04.000Z",
-          "wordCount": 24262,
+          "wordCount": 24277,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         }
