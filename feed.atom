@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-05T07:17:38.103Z</id>
+    <id>urn:2022-12-05T08:25:22.383Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-05T07:17:38.103Z</updated>
+    <updated>2022-12-05T08:25:22.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A suicide net for the Golden Gate Bridge will cost $400 million, double the original price: contractor]]></title>
+        <id>https://www.insider.com/suicide-net-golden-gate-bridge-will-cost-400-million-contractor-2022-12</id>
+        <link href="https://www.insider.com/suicide-net-golden-gate-bridge-will-cost-400-million-contractor-2022-12"/>
+        <updated>2022-12-05T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[A suicide net for the Golden Gate Bridge will cost $400 million, double the original price: contractor]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[r/rust - What is your favorite video/talk about Rust?]]></title>
         <id>https://www.reddit.com/r/rust/comments/zca2r1/what_is_your_favorite_videotalk_about_rust/</id>
@@ -171,16 +181,6 @@
         <link href="https://github.com/flashbots/pm/blob/main/recordings.md"/>
         <updated>2022-12-04T19:00:01.000Z</updated>
         <summary type="html"><![CDATA[pm/recordings.md at main · flashbots/pm]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Virtual Machine inside ChatGPT]]></title>
-        <id>https://www.engraved.blog/building-a-virtual-machine-inside/</id>
-        <link href="https://www.engraved.blog/building-a-virtual-machine-inside/"/>
-        <updated>2022-12-04T00:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Building A Virtual Machine inside ChatGPT]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

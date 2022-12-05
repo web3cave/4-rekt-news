@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.insider.com/suicide-net-golden-gate-bridge-will-cost-400-million-contractor-2022-12",
+          "author": null,
+          "description": "A suicide net for the Golden Gate Bridge will cost $400 million, double the original price: contractor",
+          "link": "https://www.insider.com/suicide-net-golden-gate-bridge-will-cost-400-million-contractor-2022-12",
+          "publishedOn": "2022-12-05T07:30:05.000Z",
+          "wordCount": 3092,
+          "title": "A suicide net for the Golden Gate Bridge will cost $400 million, double the original price: contractor",
+          "imageUrl": "https://i.insider.com/638cc0c150961b001949e297?width=1200&format=jpeg"
+        },
+        {
           "id": "https://www.reddit.com/r/rust/comments/zca2r1/what_is_your_favorite_videotalk_about_rust/",
           "author": null,
           "description": "r/rust - What is your favorite video/talk about Rust?",
           "link": "https://www.reddit.com/r/rust/comments/zca2r1/what_is_your_favorite_videotalk_about_rust/",
           "publishedOn": "2022-12-05T07:00:02.000Z",
-          "wordCount": 15924,
+          "wordCount": 15875,
           "title": "r/rust - What is your favorite video/talk about Rust?",
           "imageUrl": null
         },
@@ -21,7 +31,7 @@
           "description": "Setting the Record Straight: BUSD Auto-Conversion | Binance Blog",
           "link": "https://www.binance.com/en/blog/community/setting-the-record-straight-busd-autoconversion-3351283691852643174",
           "publishedOn": "2022-12-05T07:00:02.000Z",
-          "wordCount": 7804,
+          "wordCount": 7760,
           "title": "Setting the Record Straight: BUSD Auto-Conversion | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20220909/19306df8-c98c-41e4-b957-c19ed89e9870.png"
         },
@@ -91,7 +101,7 @@
           "description": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
           "link": "https://github.com/ethereum/EIPs/issues/29",
           "publishedOn": "2022-12-04T23:00:03.000Z",
-          "wordCount": 3751,
+          "wordCount": 3762,
           "title": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
           "imageUrl": "https://opengraph.githubassets.com/7d65258c141a430cc534b883c7402a4f5bc63451042603c906049301f3ee6e63/ethereum/EIPs/issues/29"
         },
@@ -141,7 +151,7 @@
           "description": "GitHub - ourzora/mint-page-template",
           "link": "https://github.com/ourzora/mint-page-template",
           "publishedOn": "2022-12-04T19:30:03.000Z",
-          "wordCount": 1817,
+          "wordCount": 1617,
           "title": "GitHub - ourzora/mint-page-template",
           "imageUrl": "https://opengraph.githubassets.com/d6d60ed344bdab8a47716c74cb0d2ed0a8ff1bd865fd4d5320268dd31d9da425/ourzora/mint-page-template"
         },
@@ -171,19 +181,9 @@
           "description": "pm/recordings.md at main · flashbots/pm",
           "link": "https://github.com/flashbots/pm/blob/main/recordings.md",
           "publishedOn": "2022-12-04T19:00:01.000Z",
-          "wordCount": 673,
+          "wordCount": 660,
           "title": "pm/recordings.md at main · flashbots/pm",
           "imageUrl": "https://opengraph.githubassets.com/223107470e24842ce6b0876c64a89cc7c7e96e6e6ea774ba7aa86e4017d1fa06/flashbots/pm"
-        },
-        {
-          "id": "https://www.engraved.blog/building-a-virtual-machine-inside/",
-          "author": null,
-          "description": "Building A Virtual Machine inside ChatGPT",
-          "link": "https://www.engraved.blog/building-a-virtual-machine-inside/",
-          "publishedOn": "2022-12-04T00:00:04.000Z",
-          "wordCount": 943,
-          "title": "Building A Virtual Machine inside ChatGPT",
-          "imageUrl": "https://www.engraved.blog/content/images/2022/12/deepmind-mbq0qL3ynMs-unsplash.jpg"
         },
         {
           "id": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
@@ -191,7 +191,7 @@
           "description": "FTX’s Collapse Was a Crime, Not an Accident",
           "link": "https://www.coindesk.com/layer2/2022/11/30/ftxs-collapse-was-a-crime-not-an-accident/",
           "publishedOn": "2022-12-03T19:30:04.000Z",
-          "wordCount": 24368,
+          "wordCount": 24315,
           "title": "FTX’s Collapse Was a Crime, Not an Accident",
           "imageUrl": "https://www.coindesk.com/resizer/pZGwkNYrUgcxJqFZiN_Ah1AAClA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WOGSG5X3MFGABO324AEIHA2TLI.jpg"
         },
