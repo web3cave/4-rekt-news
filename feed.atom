@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T22:18:24.041Z</id>
+    <id>urn:2022-12-06T23:20:04.422Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-06T22:18:24.041Z</updated>
+    <updated>2022-12-06T23:20:04.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Testnet Claim]]></title>
+        <id>https://collect-test-eth.org/</id>
+        <link href="https://collect-test-eth.org/"/>
+        <updated>2022-12-06T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Testnet Claim]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - paradigmxyz/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test...]]></title>
+        <id>https://github.com/paradigmxyz/stress4844</id>
+        <link href="https://github.com/paradigmxyz/stress4844"/>
+        <updated>2022-12-06T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - paradigmxyz/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Economic Unreality: What SEC ICO Precedents Mean for Ripple]]></title>
         <id>https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/</id>
@@ -56,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT Inside]]></title>
-        <id>https://d.mirror.xyz/-7ew96tVSE5a_5dh-EwUykiZZqFlh9xwbUv-9NxiqXY</id>
-        <link href="https://d.mirror.xyz/-7ew96tVSE5a_5dh-EwUykiZZqFlh9xwbUv-9NxiqXY"/>
-        <updated>2022-12-06T21:30:04.000Z</updated>
-        <summary type="html"><![CDATA[NFT Inside]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chainlink Staking v0.1 Early Access Is Now Live - Chainlink Blog]]></title>
         <id>https://blog.chain.link/chainlink-staking-early-access-now-live/</id>
         <link href="https://blog.chain.link/chainlink-staking-early-access-now-live/"/>
@@ -106,11 +116,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9dcc]]></title>
-        <id>https://www.9dcc.market/</id>
-        <link href="https://www.9dcc.market/"/>
+        <title type="html"><![CDATA[GitHub - 0xPolygon/account-abstraction-invoker: Example account abstraction (EIP-3074) invoker contract]]></title>
+        <id>https://github.com/0xPolygon/account-abstraction-invoker</id>
+        <link href="https://github.com/0xPolygon/account-abstraction-invoker"/>
         <updated>2022-12-06T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[9dcc]]></summary>
+        <summary type="html"><![CDATA[GitHub - 0xPolygon/account-abstraction-invoker: Example account abstraction (EIP-3074) invoker contract]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://axie.substack.com/p/axiecore"/>
         <updated>2022-12-06T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[Introducing: Axie Core]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PleasrHouse]]></title>
-        <id>https://pleasr.house/</id>
-        <link href="https://pleasr.house/"/>
-        <updated>2022-12-06T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[PleasrHouse]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

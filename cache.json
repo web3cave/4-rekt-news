@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://collect-test-eth.org/",
+          "author": null,
+          "description": "Testnet Claim",
+          "link": "https://collect-test-eth.org/",
+          "publishedOn": "2022-12-06T23:00:05.000Z",
+          "wordCount": 10,
+          "title": "Testnet Claim",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/paradigmxyz/stress4844",
+          "author": null,
+          "description": "GitHub - paradigmxyz/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test...",
+          "link": "https://github.com/paradigmxyz/stress4844",
+          "publishedOn": "2022-12-06T23:00:05.000Z",
+          "wordCount": 744,
+          "title": "GitHub - paradigmxyz/stress4844: Tiny CLI for submitting large calldata transactions to EVM networks to stress test...",
+          "imageUrl": "https://opengraph.githubassets.com/1daae60a35a0c3249cab84f4caa2a2218a4901f764e8653c37cd7bf6a5be8c47/paradigmxyz/stress4844"
+        },
+        {
           "id": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "author": null,
           "description": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "publishedOn": "2022-12-06T22:00:05.000Z",
-          "wordCount": 22582,
+          "wordCount": 22624,
           "title": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "imageUrl": "https://www.coindesk.com/resizer/URTRGZ5-9PQ1CTgeSe5YrjAnHTo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5SML2MTGJHZZPVL2UL2ZNO3LE.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "A crypto-exchange founder makes his case for decentralised finance",
           "link": "https://www.economist.com/by-invitation/2022/12/06/a-crypto-exchange-founder-makes-his-case-for-decentralised-finance",
           "publishedOn": "2022-12-06T21:30:04.000Z",
-          "wordCount": 6790,
+          "wordCount": 6805,
           "title": "A crypto-exchange founder makes his case for decentralised finance",
           "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221203_BID002.jpg"
         },
@@ -31,7 +51,7 @@
           "description": "Sam Bankman-Fried hires white-collar attorney who represented Ghislaine Maxwell",
           "link": "https://www.theblock.co/post/192684/sam-bankman-fried-hires-white-collar-attorney-who-represented-ghislaine-maxwell?utm_source=rss&utm_medium=rss",
           "publishedOn": "2022-12-06T21:30:04.000Z",
-          "wordCount": 59007,
+          "wordCount": 58955,
           "title": "Sam Bankman-Fried hires white-collar attorney who represented Ghislaine Maxwell",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-1-1200x675.jpg"
         },
@@ -54,16 +74,6 @@
           "wordCount": 1765,
           "title": "http://connect.opolis.co/banklessblitz/",
           "imageUrl": null
-        },
-        {
-          "id": "https://d.mirror.xyz/-7ew96tVSE5a_5dh-EwUykiZZqFlh9xwbUv-9NxiqXY",
-          "author": null,
-          "description": "NFT Inside",
-          "link": "https://d.mirror.xyz/-7ew96tVSE5a_5dh-EwUykiZZqFlh9xwbUv-9NxiqXY",
-          "publishedOn": "2022-12-06T21:30:04.000Z",
-          "wordCount": 1852,
-          "title": "NFT Inside",
-          "imageUrl": "https://mirror-media.imgix.net/nft/f3FHREluJ7FJvnOmRRaB2.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://blog.chain.link/chainlink-staking-early-access-now-live/",
@@ -106,14 +116,14 @@
           "imageUrl": "https://cdn.shopify.com/s/files/1/0033/6393/0161/files/crkt_logo_blk_round-small_52926cbf-c261-4ba8-beb1-71e35f8481da.jpg?v=1644853232"
         },
         {
-          "id": "https://www.9dcc.market/",
+          "id": "https://github.com/0xPolygon/account-abstraction-invoker",
           "author": null,
-          "description": "9dcc",
-          "link": "https://www.9dcc.market/",
+          "description": "GitHub - 0xPolygon/account-abstraction-invoker: Example account abstraction (EIP-3074) invoker contract",
+          "link": "https://github.com/0xPolygon/account-abstraction-invoker",
           "publishedOn": "2022-12-06T19:00:03.000Z",
-          "wordCount": 165,
-          "title": "9dcc",
-          "imageUrl": "https://9dcc.xyz/9dcc-og-image.jpg"
+          "wordCount": 806,
+          "title": "GitHub - 0xPolygon/account-abstraction-invoker: Example account abstraction (EIP-3074) invoker contract",
+          "imageUrl": "https://opengraph.githubassets.com/5f7784893630de355428e299a6687c611113c403426712b61cc7c8fc1b23ac6d/0xPolygon/account-abstraction-invoker"
         },
         {
           "id": "https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6",
@@ -121,7 +131,7 @@
           "description": "Revealed: the Alameda venture capital portfolio",
           "link": "https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6",
           "publishedOn": "2022-12-06T17:30:04.000Z",
-          "wordCount": 2581,
+          "wordCount": 2578,
           "title": "Revealed: the Alameda venture capital portfolio",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe89d2904-88af-43a9-987d-491f053de3f5.png?source=next-opengraph&fit=scale-down&width=900"
         },
@@ -154,16 +164,6 @@
           "wordCount": 4907,
           "title": "Introducing: Axie Core",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7fee817-e208-46fe-a153-38d0ffa4430f_1170x1170.jpeg"
-        },
-        {
-          "id": "https://pleasr.house/",
-          "author": null,
-          "description": "PleasrHouse",
-          "link": "https://pleasr.house/",
-          "publishedOn": "2022-12-06T01:00:03.000Z",
-          "wordCount": 383,
-          "title": "PleasrHouse",
-          "imageUrl": "https://pleasr.house/meta.png"
         },
         {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.730.0.pdf",
