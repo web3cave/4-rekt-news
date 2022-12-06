@@ -6,14 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html",
+          "author": null,
+          "description": "The Brilliance and Weirdness of ChatGPT",
+          "link": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html",
+          "publishedOn": "2022-12-06T15:00:02.000Z",
+          "wordCount": null,
+          "title": "The Brilliance and Weirdness of ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://avc.com/2022/12/sign-everything/",
+          "author": null,
+          "description": "Sign Everything - AVC",
+          "link": "https://avc.com/2022/12/sign-everything/",
+          "publishedOn": "2022-12-06T15:00:02.000Z",
+          "wordCount": 678,
+          "title": "Sign Everything - AVC",
+          "imageUrl": "https://avc.com/content/uploads/2022/12/Screen-Shot-2022-12-04-at-6.34.27-AM.png"
+        },
+        {
           "id": "https://www.coindesk.com/consensus-magazine/2022/12/05/brantly-millegan-most-influential-2022/",
           "author": null,
           "description": "Fired, but Not Canceled",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/brantly-millegan-most-influential-2022/",
           "publishedOn": "2022-12-06T14:00:04.000Z",
-          "wordCount": 20767,
+          "wordCount": 20761,
           "title": "Fired, but Not Canceled",
           "imageUrl": "https://www.coindesk.com/resizer/14yJMYzav14xjTYdVgvthhC7ejg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B4CTKQCLPVFX5ATF5AX347DPNI.jpg"
+        },
+        {
+          "id": "https://flip.xyz/updates/wassies-by-wassies-nft",
+          "author": null,
+          "description": "The Wassie Way",
+          "link": "https://flip.xyz/updates/wassies-by-wassies-nft",
+          "publishedOn": "2022-12-06T07:30:05.000Z",
+          "wordCount": 5007,
+          "title": "The Wassie Way",
+          "imageUrl": "https://flip.xyz/og/template=blog/title=The%20Wassie%20Way/category=Newsletter/image=https%3A%2F%2Fflip-blog-images.s3.amazonaws.com%2FThe%2BWassie%2BWay_Img0.png"
         },
         {
           "id": "https://github.com/samczsun/abi-guesser",
@@ -23,17 +53,7 @@
           "publishedOn": "2022-12-06T04:00:07.000Z",
           "wordCount": 615,
           "title": "GitHub - samczsun/abi-guesser",
-          "imageUrl": "https://opengraph.githubassets.com/2dd4fac95d621ecf9eab8cb7cfb07a3ea6268e29c71904d661bb6d7e9b688d06/samczsun/abi-guesser"
-        },
-        {
-          "id": "https://d.mirror.xyz/PXl1qT5-moMmRaWLRl5UJMeO08Y0Ym83pfBY6kJUU7o?q",
-          "author": null,
-          "description": "Crypto 🤝 AI",
-          "link": "https://d.mirror.xyz/PXl1qT5-moMmRaWLRl5UJMeO08Y0Ym83pfBY6kJUU7o?q",
-          "publishedOn": "2022-12-06T01:30:04.000Z",
-          "wordCount": 1700,
-          "title": "Crypto 🤝 AI",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/ebpQtnoqBW7Iofx8UDc03.png?h=2148&w=2116"
+          "imageUrl": "https://opengraph.githubassets.com/b8fd0b83866f5a3fe3a9be2dad70636544bdb48a0deacd58a89f903d4e64485d/samczsun/abi-guesser"
         },
         {
           "id": "https://www.eventbrite.com/e/ending-homelessness-in-san-francisco-tickets-477645639967",
@@ -51,7 +71,7 @@
           "description": "The Bitcoiner Who Stood Up to Toxicity",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/nic-carter-most-influential-2022/",
           "publishedOn": "2022-12-06T01:00:03.000Z",
-          "wordCount": 20620,
+          "wordCount": 20613,
           "title": "The Bitcoiner Who Stood Up to Toxicity",
           "imageUrl": "https://www.coindesk.com/resizer/1t-6vgOdGKuw25nFoXIj2KoeBXg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QCFBRA262FDHLKOM7IUH2TBBNQ.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "The Punk Fighting for an Open Metaverse",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/punk6529-most-influential-2022/",
           "publishedOn": "2022-12-06T01:00:03.000Z",
-          "wordCount": 20334,
+          "wordCount": 20327,
           "title": "The Punk Fighting for an Open Metaverse",
           "imageUrl": "https://www.coindesk.com/resizer/gWTausJ2w4oazV8HjL0kN0i5m0Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WMYH6KDO3ZCNPM2TOFG4D377B4.png"
         },
@@ -91,7 +111,7 @@
           "description": "Presenting CoinDesk's Most Influential 2022",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/coindesks-most-influential-2022/",
           "publishedOn": "2022-12-05T22:30:03.000Z",
-          "wordCount": 22491,
+          "wordCount": 22493,
           "title": "Presenting CoinDesk's Most Influential 2022",
           "imageUrl": "https://www.coindesk.com/resizer/cBNXrFh8kV74AuFE9kzi2UxCMo0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V3DQHFFTHBEIZF5G266UB4AKYY.png"
         },
@@ -111,7 +131,7 @@
           "description": "'Metaverse' snubbed as Word of the Year in favor of 'goblin mode'",
           "link": "https://www.theblock.co/post/192119/metaverse-snubbed-as-word-of-the-year?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-05T21:00:03.000Z",
-          "wordCount": 58506,
+          "wordCount": 59634,
           "title": "'Metaverse' snubbed as Word of the Year in favor of 'goblin mode'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220725_Metaverse_Book-1200x675.jpg"
         },
@@ -146,24 +166,14 @@
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/bovQ_S0XU6mbK7A4hoOB8kPfIag=/0x0:5423x3953/1200x628/filters:focal(2712x1977:2713x1978)/cdn.vox-cdn.com/uploads/chorus_asset/file/24263938/1078770884.jpg"
         },
         {
-          "id": "https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0",
+          "id": "https://9dcc.xyz/",
           "author": null,
-          "description": "How can PoPW networks win?",
-          "link": "https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0",
-          "publishedOn": "2022-12-05T17:00:06.000Z",
-          "wordCount": 6915,
-          "title": "How can PoPW networks win?",
-          "imageUrl": "https://miro.medium.com/max/1164/0*KWaExCWqAsZ-Fdgn"
-        },
-        {
-          "id": "https://www.circle.com/en/pressroom/circle-and-concord-acquisition-corp-mutually-agree-to-terminate-proposed-business-combination",
-          "author": null,
-          "description": "Circle and Concord Acquisition Corp Mutually Agree to Terminate Proposed Business Combination",
-          "link": "https://www.circle.com/en/pressroom/circle-and-concord-acquisition-corp-mutually-agree-to-terminate-proposed-business-combination",
-          "publishedOn": "2022-12-05T17:00:05.000Z",
-          "wordCount": 1955,
-          "title": "Circle and Concord Acquisition Corp Mutually Agree to Terminate Proposed Business Combination",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/spac-dissolve.png#keepProtocol"
+          "description": "9dcc",
+          "link": "https://9dcc.xyz/",
+          "publishedOn": "2022-12-05T16:30:03.000Z",
+          "wordCount": 274,
+          "title": "9dcc",
+          "imageUrl": "https://9dcc.xyz/9dcc-og-image.jpg"
         },
         {
           "id": "https://vitalik.ca/general/2022/12/05/excited.html",
@@ -174,16 +184,6 @@
           "wordCount": 5766,
           "title": "What in the Ethereum application ecosystem excites me",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/192097/maple-finance-default-orthogonal-trading?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Orthogonal Trading defaults on $36 million of loans on Maple Finance",
-          "link": "https://www.theblock.co/post/192097/maple-finance-default-orthogonal-trading?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-12-05T16:00:05.000Z",
-          "wordCount": 59502,
-          "title": "Orthogonal Trading defaults on $36 million of loans on Maple Finance",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
         },
         {
           "id": "https://maple.finance/news/maple-severs-all-ties-with-orthogonal-trading/",
