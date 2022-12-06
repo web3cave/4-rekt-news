@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://skift.com/history-of-online-travel/",
+          "author": null,
+          "description": "The Definitive Oral History of Online Travel",
+          "link": "https://skift.com/history-of-online-travel/",
+          "publishedOn": "2022-12-06T17:00:03.000Z",
+          "wordCount": 48647,
+          "title": "The Definitive Oral History of Online Travel",
+          "imageUrl": "https://skift.com/wp-content/themes/skift-2021/special-editorials/oral-history/shareImage.png"
+        },
+        {
+          "id": "https://medium.com/@sommelier.finance/sommelier-launches-steady-strategies-and-new-wave-of-liquidity-mining-7e1c979bd87f",
+          "author": null,
+          "description": "Sommelier Launches Steady Strategies and New Wave of Liquidity Mining",
+          "link": "https://medium.com/@sommelier.finance/sommelier-launches-steady-strategies-and-new-wave-of-liquidity-mining-7e1c979bd87f",
+          "publishedOn": "2022-12-06T16:30:07.000Z",
+          "wordCount": 2527,
+          "title": "Sommelier Launches Steady Strategies and New Wave of Liquidity Mining",
+          "imageUrl": "https://miro.medium.com/max/1200/1*7UVCOWHN0XoDFP_i0cgU9A.png"
+        },
+        {
           "id": "https://forum.sushi.com/t/reinstated-increase-kanpai-treasury-allocation-to-100/11475",
           "author": null,
           "description": "REINSTATED: Increase Kanpai Treasury Allocation to 100%",
           "link": "https://forum.sushi.com/t/reinstated-increase-kanpai-treasury-allocation-to-100/11475",
           "publishedOn": "2022-12-06T16:00:04.000Z",
-          "wordCount": 2088,
+          "wordCount": 2090,
           "title": "REINSTATED: Increase Kanpai Treasury Allocation to 100%",
           "imageUrl": "https://global.discourse-cdn.com/business7/uploads/sushiswapclassic/original/1X/507bc40f53db1f27d254810bc9b895c87fdb638c.png"
         },
@@ -21,7 +41,7 @@
           "description": "Families 'eating PET FOOD' as households struggle amid cost of living",
           "link": "https://www.dailymail.co.uk/news/article-11490023/British-families-eating-PET-FOOD-heating-meals-radiators-rising-costs-struggles.html",
           "publishedOn": "2022-12-06T15:30:05.000Z",
-          "wordCount": 16179,
+          "wordCount": 16260,
           "title": "Families 'eating PET FOOD' as households struggle amid cost of living",
           "imageUrl": "https://i.dailymail.co.uk/1s/2022/12/01/11/65129637-0-image-a-7_1669895977261.jpg"
         },
@@ -36,22 +56,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://avc.com/2022/12/sign-everything/",
-          "author": null,
-          "description": "Sign Everything - AVC",
-          "link": "https://avc.com/2022/12/sign-everything/",
-          "publishedOn": "2022-12-06T15:00:02.000Z",
-          "wordCount": 678,
-          "title": "Sign Everything - AVC",
-          "imageUrl": "https://avc.com/content/uploads/2022/12/Screen-Shot-2022-12-04-at-6.34.27-AM.png"
-        },
-        {
           "id": "https://www.coindesk.com/consensus-magazine/2022/12/05/brantly-millegan-most-influential-2022/",
           "author": null,
           "description": "Fired, but Not Canceled",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/brantly-millegan-most-influential-2022/",
           "publishedOn": "2022-12-06T14:00:04.000Z",
-          "wordCount": 20788,
+          "wordCount": 20698,
           "title": "Fired, but Not Canceled",
           "imageUrl": "https://www.coindesk.com/resizer/14yJMYzav14xjTYdVgvthhC7ejg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B4CTKQCLPVFX5ATF5AX347DPNI.jpg"
         },
@@ -71,9 +81,9 @@
           "description": "GitHub - samczsun/abi-guesser",
           "link": "https://github.com/samczsun/abi-guesser",
           "publishedOn": "2022-12-06T04:00:07.000Z",
-          "wordCount": 615,
+          "wordCount": 549,
           "title": "GitHub - samczsun/abi-guesser",
-          "imageUrl": "https://opengraph.githubassets.com/b8fd0b83866f5a3fe3a9be2dad70636544bdb48a0deacd58a89f903d4e64485d/samczsun/abi-guesser"
+          "imageUrl": "https://opengraph.githubassets.com/ded8e34891e2f8a2539cd3758c2cb5445c7aed4f10ec003b8892e73e75adf369/samczsun/abi-guesser"
         },
         {
           "id": "https://www.eventbrite.com/e/ending-homelessness-in-san-francisco-tickets-477645639967",
@@ -91,7 +101,7 @@
           "description": "The Bitcoiner Who Stood Up to Toxicity",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/nic-carter-most-influential-2022/",
           "publishedOn": "2022-12-06T01:00:03.000Z",
-          "wordCount": 20641,
+          "wordCount": 20551,
           "title": "The Bitcoiner Who Stood Up to Toxicity",
           "imageUrl": "https://www.coindesk.com/resizer/1t-6vgOdGKuw25nFoXIj2KoeBXg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QCFBRA262FDHLKOM7IUH2TBBNQ.jpg"
         },
@@ -104,6 +114,16 @@
           "wordCount": 4908,
           "title": "Introducing: Axie Core",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7fee817-e208-46fe-a153-38d0ffa4430f_1170x1170.jpeg"
+        },
+        {
+          "id": "https://www.coindesk.com/consensus-magazine/2022/12/05/punk6529-most-influential-2022/",
+          "author": null,
+          "description": "The Punk Fighting for an Open Metaverse",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/punk6529-most-influential-2022/",
+          "publishedOn": "2022-12-06T01:00:03.000Z",
+          "wordCount": 20259,
+          "title": "The Punk Fighting for an Open Metaverse",
+          "imageUrl": "https://www.coindesk.com/resizer/gWTausJ2w4oazV8HjL0kN0i5m0Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WMYH6KDO3ZCNPM2TOFG4D377B4.png"
         },
         {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.551082/gov.uscourts.nysd.551082.730.0.pdf",
@@ -121,7 +141,7 @@
           "description": "Presenting CoinDesk's Most Influential 2022",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/coindesks-most-influential-2022/",
           "publishedOn": "2022-12-05T22:30:03.000Z",
-          "wordCount": 22507,
+          "wordCount": 22413,
           "title": "Presenting CoinDesk's Most Influential 2022",
           "imageUrl": "https://www.coindesk.com/resizer/cBNXrFh8kV74AuFE9kzi2UxCMo0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V3DQHFFTHBEIZF5G266UB4AKYY.png"
         },
@@ -131,29 +151,9 @@
           "description": "Nexo Announces Gradual Departure from the United States • Nexo",
           "link": "https://nexo.io/blog/nexo-announces-gradual-departure-from-the-united-states",
           "publishedOn": "2022-12-05T21:00:03.000Z",
-          "wordCount": null,
+          "wordCount": 2375,
           "title": "Nexo Announces Gradual Departure from the United States • Nexo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/192119/metaverse-snubbed-as-word-of-the-year?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "'Metaverse' snubbed as Word of the Year in favor of 'goblin mode'",
-          "link": "https://www.theblock.co/post/192119/metaverse-snubbed-as-word-of-the-year?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-12-05T21:00:03.000Z",
-          "wordCount": 59307,
-          "title": "'Metaverse' snubbed as Word of the Year in favor of 'goblin mode'",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220725_Metaverse_Book-1200x675.jpg"
-        },
-        {
-          "id": "https://medium.com/nexus-mutual/nexus-mutual-utilizes-chainlink-proof-of-reserve-to-verify-deposits-on-maple-finance-integrates-7dd6ee911916",
-          "author": null,
-          "description": "Nexus Mutual Utilizes Chainlink Proof of Reserve To Verify Deposits on Maple Finance, Integrates…",
-          "link": "https://medium.com/nexus-mutual/nexus-mutual-utilizes-chainlink-proof-of-reserve-to-verify-deposits-on-maple-finance-integrates-7dd6ee911916",
-          "publishedOn": "2022-12-05T21:00:02.000Z",
-          "wordCount": 3491,
-          "title": "Nexus Mutual Utilizes Chainlink Proof of Reserve To Verify Deposits on Maple Finance, Integrates…",
-          "imageUrl": "https://miro.medium.com/max/1200/0*GnjD4IMyui3VT7fJ"
+          "imageUrl": "https://nexo.io/media/pages/blog/nexo-announces-gradual-departure-from-the-united-states/546e586f3f-1670251439/usa-update-blog.jpg"
         },
         {
           "id": "https://nftlossharvestooor.com/",
