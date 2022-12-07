@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/",
+          "author": null,
+          "description": "Apple advances user security with powerful new data protections",
+          "link": "https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/",
+          "publishedOn": "2022-12-07T21:00:02.000Z",
+          "wordCount": 3097,
+          "title": "Apple advances user security with powerful new data protections",
+          "imageUrl": "https://www.apple.com/newsroom/images/values/privacy/Apple-advanced-security-hero.jpg.og.jpg?202212071801"
+        },
+        {
+          "id": "https://beta.northumbria.police.uk/latest-news/2022/march/police-dogs-trained-to-sniff-out-digital-devices-in-the-fight-against-cyber-and-organised-crime/",
+          "author": null,
+          "description": "Police Dogs trained to sniff out digital devices in the fight against cyber and organised crime",
+          "link": "https://beta.northumbria.police.uk/latest-news/2022/march/police-dogs-trained-to-sniff-out-digital-devices-in-the-fight-against-cyber-and-organised-crime/",
+          "publishedOn": "2022-12-07T21:00:02.000Z",
+          "wordCount": 557,
+          "title": "Police Dogs trained to sniff out digital devices in the fight against cyber and organised crime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.paradigm.xyz/2022/12/reth",
+          "author": null,
+          "description": "Introducing Reth - Paradigm",
+          "link": "https://www.paradigm.xyz/2022/12/reth",
+          "publishedOn": "2022-12-07T20:30:02.000Z",
+          "wordCount": 4689,
+          "title": "Introducing Reth - Paradigm",
+          "imageUrl": "https://paradigm.xyz/static/reth_cover.jpg"
+        },
+        {
           "id": "https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/",
           "author": null,
           "description": "Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next",
           "link": "https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/",
           "publishedOn": "2022-12-07T20:00:06.000Z",
-          "wordCount": 19660,
+          "wordCount": 19729,
           "title": "Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next",
           "imageUrl": "https://media.wired.com/photos/639000b143ab6f113787af35/191:100/w_1280,c_limit/security-apple-encryption-photos.jpg"
         },
@@ -36,22 +66,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*bJXppNERlSm0vtjoNR9ScA.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=pFf_WUiPi3E",
-          "author": null,
-          "description": "FTX Fallout - Everything You Need To Know | Frank Chaparro",
-          "link": "https://www.youtube.com/watch?v=pFf_WUiPi3E",
-          "publishedOn": "2022-12-07T17:00:03.000Z",
-          "wordCount": null,
-          "title": "FTX Fallout - Everything You Need To Know | Frank Chaparro",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/0xPolygonHermez",
           "author": null,
           "description": "Polygon zkEVM",
           "link": "https://github.com/0xPolygonHermez",
           "publishedOn": "2022-12-07T15:00:02.000Z",
-          "wordCount": 998,
+          "wordCount": 1002,
           "title": "Polygon zkEVM",
           "imageUrl": "https://avatars.githubusercontent.com/u/108818688?s=280&v=4"
         },
@@ -86,16 +106,6 @@
           "imageUrl": "https://i.guim.co.uk/img/media/ff72823f47063b01dea057bc3db86e53704776a5/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed029dad594c5fa5a51a3aee40a4ce33"
         },
         {
-          "id": "https://www.homesnap.com/DC/Washington/2220-Q-Street-NW/property/400012100573",
-          "author": null,
-          "description": "2220 Q Street NW, Washington, DC, 20008 - Homesnap",
-          "link": "https://www.homesnap.com/DC/Washington/2220-Q-Street-NW/property/400012100573",
-          "publishedOn": "2022-12-07T05:30:05.000Z",
-          "wordCount": 20,
-          "title": "2220 Q Street NW, Washington, DC, 20008 - Homesnap",
-          "imageUrl": "https://s3.amazonaws.com/homesnap.listings/356438811-listing.jpg"
-        },
-        {
           "id": "https://www.ft.com/content/616a6900-43bc-4fa7-bde1-543ae799adfb",
           "author": null,
           "description": "Signature says it is ‘not just a crypto bank’ as it sheds deposits",
@@ -116,22 +126,12 @@
           "imageUrl": "https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/standard21/uploads/nouns/original/1X/3575f0bba022ca019dd756214c3da9f67b37a9fa.png"
         },
         {
-          "id": "https://collect-test-eth.org/",
-          "author": null,
-          "description": "Testnet Claim",
-          "link": "https://collect-test-eth.org/",
-          "publishedOn": "2022-12-06T23:00:05.000Z",
-          "wordCount": 10,
-          "title": "Testnet Claim",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "author": null,
           "description": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "publishedOn": "2022-12-06T22:00:05.000Z",
-          "wordCount": 22668,
+          "wordCount": 22538,
           "title": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "imageUrl": "https://www.coindesk.com/resizer/URTRGZ5-9PQ1CTgeSe5YrjAnHTo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5SML2MTGJHZZPVL2UL2ZNO3LE.jpg"
         },
