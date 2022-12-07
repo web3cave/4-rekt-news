@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.homesnap.com/DC/Washington/2220-Q-Street-NW/property/400012100573",
+          "author": null,
+          "description": "2220 Q Street NW, Washington, DC, 20008 - Homesnap",
+          "link": "https://www.homesnap.com/DC/Washington/2220-Q-Street-NW/property/400012100573",
+          "publishedOn": "2022-12-07T21:30:07.000Z",
+          "wordCount": 20,
+          "title": "2220 Q Street NW, Washington, DC, 20008 - Homesnap",
+          "imageUrl": "https://s3.amazonaws.com/homesnap.listings/356438811-listing.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=m0EqpIBThSU&feature=youtu.be",
+          "author": null,
+          "description": "The CULT of \"HEX\"",
+          "link": "https://www.youtube.com/watch?v=m0EqpIBThSU&feature=youtu.be",
+          "publishedOn": "2022-12-07T21:30:07.000Z",
+          "wordCount": null,
+          "title": "The CULT of \"HEX\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/",
           "author": null,
           "description": "Apple advances user security with powerful new data protections",
@@ -41,7 +61,7 @@
           "description": "Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next",
           "link": "https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/",
           "publishedOn": "2022-12-07T20:00:06.000Z",
-          "wordCount": 19729,
+          "wordCount": 19655,
           "title": "Apple Kills Its Plan to Scan Your Photos for CSAM. Here’s What’s Next",
           "imageUrl": "https://media.wired.com/photos/639000b143ab6f113787af35/191:100/w_1280,c_limit/security-apple-encryption-photos.jpg"
         },
@@ -64,6 +84,16 @@
           "wordCount": 3048,
           "title": "Announcing Perennial, a DeFi-native derivatives protocol backed by Polychain, Variant & Archetype",
           "imageUrl": "https://miro.medium.com/max/1200/1*bJXppNERlSm0vtjoNR9ScA.png"
+        },
+        {
+          "id": "https://blog.soliditylang.org/2022/12/07/solidity-developer-survey-2022-announcement/",
+          "author": null,
+          "description": "Solidity Developer Survey 2022 is Live!",
+          "link": "https://blog.soliditylang.org/2022/12/07/solidity-developer-survey-2022-announcement/",
+          "publishedOn": "2022-12-07T16:00:06.000Z",
+          "wordCount": 439,
+          "title": "Solidity Developer Survey 2022 is Live!",
+          "imageUrl": "/img/avatar-icon.png"
         },
         {
           "id": "https://github.com/0xPolygonHermez",
@@ -111,7 +141,7 @@
           "description": "Signature says it is ‘not just a crypto bank’ as it sheds deposits",
           "link": "https://www.ft.com/content/616a6900-43bc-4fa7-bde1-543ae799adfb",
           "publishedOn": "2022-12-07T01:00:03.000Z",
-          "wordCount": 1613,
+          "wordCount": 1615,
           "title": "Signature says it is ‘not just a crypto bank’ as it sheds deposits",
           "imageUrl": null
         },
@@ -131,7 +161,7 @@
           "description": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "publishedOn": "2022-12-06T22:00:05.000Z",
-          "wordCount": 22538,
+          "wordCount": 22861,
           "title": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "imageUrl": "https://www.coindesk.com/resizer/URTRGZ5-9PQ1CTgeSe5YrjAnHTo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5SML2MTGJHZZPVL2UL2ZNO3LE.jpg"
         },
@@ -146,16 +176,6 @@
           "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221203_BID002.jpg"
         },
         {
-          "id": "https://www.zerohedge.com/political/ftxs-bankman-fried-hires-ghislaine-maxwells-defense-attorney",
-          "author": null,
-          "description": "FTX's Bankman-Fried Hires Ghislaine Maxwell's Defense Attorney | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/ftxs-bankman-fried-hires-ghislaine-maxwells-defense-attorney",
-          "publishedOn": "2022-12-06T21:30:04.000Z",
-          "wordCount": 902,
-          "title": "FTX's Bankman-Fried Hires Ghislaine Maxwell's Defense Attorney | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://d.mirror.xyz/-7ew96tVSE5a_5dh-EwUykiZZqFlh9xwbUv-9NxiqXY",
           "author": null,
           "description": "NFT Inside",
@@ -164,26 +184,6 @@
           "wordCount": 1852,
           "title": "NFT Inside",
           "imageUrl": "https://mirror-media.imgix.net/nft/f3FHREluJ7FJvnOmRRaB2.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://blog.chain.link/chainlink-staking-early-access-now-live/",
-          "author": null,
-          "description": "Chainlink Staking v0.1 Early Access Is Now Live - Chainlink Blog",
-          "link": "https://blog.chain.link/chainlink-staking-early-access-now-live/",
-          "publishedOn": "2022-12-06T19:30:04.000Z",
-          "wordCount": 2932,
-          "title": "Chainlink Staking v0.1 Early Access Is Now Live - Chainlink Blog",
-          "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/12/Project-Destiny-Twitter-Banners_Early-Access.png"
-        },
-        {
-          "id": "https://shop.ledger.com/pages/ledger-stax?utm_source=Twitter&utm_medium=Social_Organic&utm_campaign=22-11-Stax_Launch-ALL-Brand_Awareness-Referral_Social&utm_content=Stax_storytelling_page",
-          "author": null,
-          "description": "Ledger Stax - Trust Yourself with Ledger Stax",
-          "link": "https://shop.ledger.com/pages/ledger-stax?utm_source=Twitter&utm_medium=Social_Organic&utm_campaign=22-11-Stax_Launch-ALL-Brand_Awareness-Referral_Social&utm_content=Stax_storytelling_page",
-          "publishedOn": "2022-12-06T19:00:03.000Z",
-          "wordCount": 5958,
-          "title": "Ledger Stax - Trust Yourself with Ledger Stax",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/2974/4858/files/ledger-logo-new-long_200x.png?v=1636361864"
         },
         {
           "id": "https://tessera.co/",
@@ -201,7 +201,7 @@
           "description": "Revealed: the Alameda venture capital portfolio",
           "link": "https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6",
           "publishedOn": "2022-12-06T17:30:04.000Z",
-          "wordCount": 2549,
+          "wordCount": 2551,
           "title": "Revealed: the Alameda venture capital portfolio",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe89d2904-88af-43a9-987d-491f053de3f5.png?source=next-opengraph&fit=scale-down&width=900"
         }
