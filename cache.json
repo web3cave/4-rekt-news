@@ -6,34 +6,64 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://medium.com/perennial-protocol/announcing-perennial-a-defi-native-derivatives-protocol-backed-by-polychain-variant-archetype-237c796310c9",
+          "author": null,
+          "description": "Announcing Perennial, a DeFi-native derivatives protocol backed by Polychain, Variant & Archetype",
+          "link": "https://medium.com/perennial-protocol/announcing-perennial-a-defi-native-derivatives-protocol-backed-by-polychain-variant-archetype-237c796310c9",
+          "publishedOn": "2022-12-07T17:00:03.000Z",
+          "wordCount": 3048,
+          "title": "Announcing Perennial, a DeFi-native derivatives protocol backed by Polychain, Variant & Archetype",
+          "imageUrl": "https://miro.medium.com/max/1200/1*bJXppNERlSm0vtjoNR9ScA.png"
+        },
+        {
+          "id": "https://github.com/lens-protocol/react-native-lens-ui-kit",
+          "author": null,
+          "description": "GitHub - lens-protocol/react-native-lens-ui-kit: Lens UI Kit for React Native",
+          "link": "https://github.com/lens-protocol/react-native-lens-ui-kit",
+          "publishedOn": "2022-12-07T17:00:03.000Z",
+          "wordCount": 1211,
+          "title": "GitHub - lens-protocol/react-native-lens-ui-kit: Lens UI Kit for React Native",
+          "imageUrl": "https://repository-images.githubusercontent.com/567003530/e435bcc9-1cec-469e-b516-5dc5b92099f5"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pFf_WUiPi3E",
+          "author": null,
+          "description": "FTX Fallout - Everything You Need To Know | Frank Chaparro",
+          "link": "https://www.youtube.com/watch?v=pFf_WUiPi3E",
+          "publishedOn": "2022-12-07T17:00:03.000Z",
+          "wordCount": null,
+          "title": "FTX Fallout - Everything You Need To Know | Frank Chaparro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/0xPolygonHermez",
+          "author": null,
+          "description": "Polygon zkEVM",
+          "link": "https://github.com/0xPolygonHermez",
+          "publishedOn": "2022-12-07T15:00:02.000Z",
+          "wordCount": 1002,
+          "title": "Polygon zkEVM",
+          "imageUrl": "https://avatars.githubusercontent.com/u/108818688?s=280&v=4"
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-4844",
+          "author": null,
+          "description": "EIP-4844: Shard Blob Transactions",
+          "link": "https://eips.ethereum.org/EIPS/eip-4844",
+          "publishedOn": "2022-12-07T12:00:05.000Z",
+          "wordCount": 3408,
+          "title": "EIP-4844: Shard Blob Transactions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/",
           "author": null,
           "description": "DEV-0139 launches targeted attacks against the cryptocurrency industry - Microsoft Security Blog",
           "link": "https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/",
           "publishedOn": "2022-12-07T09:30:05.000Z",
-          "wordCount": 5314,
+          "wordCount": 5324,
           "title": "DEV-0139 launches targeted attacks against the cryptocurrency industry - Microsoft Security Blog",
           "imageUrl": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2022/12/Twitter-featured-image.png"
-        },
-        {
-          "id": "https://docs.google.com/spreadsheets/d/1xoYqw-5EjQIiunX75UzozzMPOspm0KwFzgA-SKBcvyo/edit?usp=sharing",
-          "author": null,
-          "description": "Alameda Investments",
-          "link": "https://docs.google.com/spreadsheets/d/1xoYqw-5EjQIiunX75UzozzMPOspm0KwFzgA-SKBcvyo/edit?usp=sharing",
-          "publishedOn": "2022-12-07T09:30:05.000Z",
-          "wordCount": 3776,
-          "title": "Alameda Investments",
-          "imageUrl": "https://lh3.googleusercontent.com/D3Ealu9AfOiOmUTFPadJHBtEem-Hu7K9hAqzgrc75gqGDTRguLysfv1MvRtdQq3M3syclWX-tzjE9g=w1200-h630-p"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2022/nov/04/how-i-lost-1m-during-the-pandemic",
-          "author": null,
-          "description": "How I turned $15,000 into $1.2m during the pandemic – then lost it all",
-          "link": "https://www.theguardian.com/technology/2022/nov/04/how-i-lost-1m-during-the-pandemic",
-          "publishedOn": "2022-12-07T09:00:02.000Z",
-          "wordCount": 8974,
-          "title": "How I turned $15,000 into $1.2m during the pandemic – then lost it all",
-          "imageUrl": "https://i.guim.co.uk/img/media/ff72823f47063b01dea057bc3db86e53704776a5/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed029dad594c5fa5a51a3aee40a4ce33"
         },
         {
           "id": "https://www.homesnap.com/DC/Washington/2220-Q-Street-NW/property/400012100573",
@@ -51,19 +81,9 @@
           "description": "Signature says it is ‘not just a crypto bank’ as it sheds deposits",
           "link": "https://www.ft.com/content/616a6900-43bc-4fa7-bde1-543ae799adfb",
           "publishedOn": "2022-12-07T01:00:03.000Z",
-          "wordCount": 1630,
+          "wordCount": 1623,
           "title": "Signature says it is ‘not just a crypto bank’ as it sheds deposits",
           "imageUrl": null
-        },
-        {
-          "id": "https://gridplus.io/products/grid-lattice1",
-          "author": null,
-          "description": "Lattice1",
-          "link": "https://gridplus.io/products/grid-lattice1",
-          "publishedOn": "2022-12-07T00:00:06.000Z",
-          "wordCount": 4917,
-          "title": "Lattice1",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/0221/1921/9264/products/P1355092_1200x1200.jpg?v=1669152998"
         },
         {
           "id": "https://discourse.nouns.wtf/t/introduce-yourself/25/146?u=alanalevin",
@@ -91,7 +111,7 @@
           "description": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/06/economic-unreality-what-sec-ico-precedents-mean-for-ripple/",
           "publishedOn": "2022-12-06T22:00:05.000Z",
-          "wordCount": 22447,
+          "wordCount": 22583,
           "title": "Economic Unreality: What SEC ICO Precedents Mean for Ripple",
           "imageUrl": "https://www.coindesk.com/resizer/URTRGZ5-9PQ1CTgeSe5YrjAnHTo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5SML2MTGJHZZPVL2UL2ZNO3LE.jpg"
         },
@@ -101,7 +121,7 @@
           "description": "A crypto-exchange founder makes his case for decentralised finance",
           "link": "https://www.economist.com/by-invitation/2022/12/06/a-crypto-exchange-founder-makes-his-case-for-decentralised-finance",
           "publishedOn": "2022-12-06T21:30:04.000Z",
-          "wordCount": 6816,
+          "wordCount": 6810,
           "title": "A crypto-exchange founder makes his case for decentralised finance",
           "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221203_BID002.jpg"
         },
@@ -146,16 +166,6 @@
           "imageUrl": "https://blog.chain.link/wp-content/uploads/2022/12/Project-Destiny-Twitter-Banners_Early-Access.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=PE4n2nqBo6U",
-          "author": null,
-          "description": "Navigating Crypto in 2023 | Gaming | The Great Reset",
-          "link": "https://www.youtube.com/watch?v=PE4n2nqBo6U",
-          "publishedOn": "2022-12-06T19:30:04.000Z",
-          "wordCount": null,
-          "title": "Navigating Crypto in 2023 | Gaming | The Great Reset",
-          "imageUrl": null
-        },
-        {
           "id": "https://shop.ledger.com/pages/ledger-stax?utm_source=Twitter&utm_medium=Social_Organic&utm_campaign=22-11-Stax_Launch-ALL-Brand_Awareness-Referral_Social&utm_content=Stax_storytelling_page",
           "author": null,
           "description": "Ledger Stax - Trust Yourself with Ledger Stax",
@@ -181,19 +191,9 @@
           "description": "Revealed: the Alameda venture capital portfolio",
           "link": "https://www.ft.com/content/aaa4a42c-efcc-4c60-9dc6-ba6cccb599e6",
           "publishedOn": "2022-12-06T17:30:04.000Z",
-          "wordCount": 2566,
+          "wordCount": 2559,
           "title": "Revealed: the Alameda venture capital portfolio",
           "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe89d2904-88af-43a9-987d-491f053de3f5.png?source=next-opengraph&fit=scale-down&width=900"
-        },
-        {
-          "id": "https://consensys.net/blog/news/consensys-data-retention-update/",
-          "author": null,
-          "description": "ConsenSys Data Retention Update | ConsenSys",
-          "link": "https://consensys.net/blog/news/consensys-data-retention-update/",
-          "publishedOn": "2022-12-06T15:30:04.000Z",
-          "wordCount": 4718,
-          "title": "ConsenSys Data Retention Update | ConsenSys",
-          "imageUrl": "https://cdn.consensys.net/uploads/2022/12/06113732/ConsenSys-UK-Crypto-and-Digital-Asset-inquiry-Letter.png"
         },
         {
           "id": "https://vitalik.eth.limo/general/2022/12/05/excited.html",
