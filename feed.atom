@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T03:21:41.782Z</id>
+    <id>urn:2022-12-08T04:24:07.122Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T03:21:41.782Z</updated>
+    <updated>2022-12-08T04:24:07.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://investor.coinbase.com/home/default.aspx"/>
         <updated>2022-12-07T23:30:05.000Z</updated>
         <summary type="html"><![CDATA[Coinbase - Investor Relations]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion | Blockchain Is Much More Than Crypto]]></title>
+        <id>https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993</id>
+        <link href="https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993"/>
+        <updated>2022-12-07T23:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Opinion | Blockchain Is Much More Than Crypto]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -141,16 +151,6 @@
         <link href="https://blog.soliditylang.org/2022/12/07/solidity-developer-survey-2022-announcement/"/>
         <updated>2022-12-07T16:00:06.000Z</updated>
         <summary type="html"><![CDATA[Solidity Developer Survey 2022 is Live!]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran set to freeze bank accounts of women who refuse to wear a hijab]]></title>
-        <id>https://cointelegraph.com/news/iran-set-to-freeze-bank-accounts-of-women-who-refuse-to-wear-a-hijab</id>
-        <link href="https://cointelegraph.com/news/iran-set-to-freeze-bank-accounts-of-women-who-refuse-to-wear-a-hijab"/>
-        <updated>2022-12-07T15:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Iran set to freeze bank accounts of women who refuse to wear a hijab]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
