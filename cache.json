@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pIXq1pfvG0g&feature=youtu.be",
+          "author": null,
+          "description": "Kevin O’Leary on why he invested in FTX and his recent conversation with Sam Bankman-Fried",
+          "link": "https://www.youtube.com/watch?v=pIXq1pfvG0g&feature=youtu.be",
+          "publishedOn": "2022-12-09T13:30:06.000Z",
+          "wordCount": null,
+          "title": "Kevin O’Leary on why he invested in FTX and his recent conversation with Sam Bankman-Fried",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2022/12/09/technology/ftx-text-messages.html",
           "author": null,
           "description": "Inside the Frantic Texts Exchanged by Crypto Executives as FTX Collapsed",
@@ -76,12 +86,22 @@
           "imageUrl": "/public/TwitterBanner.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=xvTN_IIJBwQ&feature=youtu.be",
+          "author": null,
+          "description": "Chewing Glass - Armani Ferrante - Ep #7",
+          "link": "https://www.youtube.com/watch?v=xvTN_IIJBwQ&feature=youtu.be",
+          "publishedOn": "2022-12-09T01:00:03.000Z",
+          "wordCount": null,
+          "title": "Chewing Glass - Armani Ferrante - Ep #7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "author": null,
           "description": "ECB staff in pay dispute to hold talks about potential strike",
           "link": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "publishedOn": "2022-12-08T21:00:03.000Z",
-          "wordCount": 1623,
+          "wordCount": 1628,
           "title": "ECB staff in pay dispute to hold talks about potential strike",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "link": "https://www.theblock.co/post/193274/alameda-backed-ren-warns-users-of-losses-as-it-plans-to-wind-down-protocol?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 60475,
+          "wordCount": 61131,
           "title": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
         },
@@ -111,7 +131,7 @@
           "description": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "link": "https://www.wsj.com/articles/the-housing-slowdown-is-wreaking-havoc-on-the-short-term-rental-market-11670518837?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 6255,
+          "wordCount": 6247,
           "title": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "imageUrl": "https://images.wsj.net/im-678984/social"
         },
@@ -176,16 +196,6 @@
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/PplPslr-e1670506537496.jpg?resize=1200,600"
         },
         {
-          "id": "https://web3isgoinggreat.com/?id=ftx-hosted-nfts-break-after-website-is-redirected-to-a-restructuring-page",
-          "author": null,
-          "description": "FTX-hosted NFTs break after website is redirected to a restructuring page",
-          "link": "https://web3isgoinggreat.com/?id=ftx-hosted-nfts-break-after-website-is-redirected-to-a-restructuring-page",
-          "publishedOn": "2022-12-08T11:00:02.000Z",
-          "wordCount": 6326,
-          "title": "FTX-hosted NFTs break after website is redirected to a restructuring page",
-          "imageUrl": "https://storage.googleapis.com/primary-web3/entryImages/resized/broken-ftx-nft_500.webp"
-        },
-        {
           "id": "https://staking.chain.link/",
           "author": null,
           "description": "Staking | Chainlink",
@@ -194,16 +204,6 @@
           "wordCount": 305,
           "title": "Staking | Chainlink",
           "imageUrl": "https://smartcontract.imgix.net/meta_staking_og.png?auto=format"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/12/07/business/ftx-sbf-crypto-market-investigation.html",
-          "author": null,
-          "description": "FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry",
-          "link": "https://www.nytimes.com/2022/12/07/business/ftx-sbf-crypto-market-investigation.html",
-          "publishedOn": "2022-12-08T02:30:03.000Z",
-          "wordCount": null,
-          "title": "FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry",
-          "imageUrl": null
         }
       ]
     }
