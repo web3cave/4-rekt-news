@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://slapsbf.com/",
+          "author": null,
+          "description": "SLAP SBF - $DRAMA Labs - Crypto Entertainment",
+          "link": "https://slapsbf.com/",
+          "publishedOn": "2022-12-09T18:00:06.000Z",
+          "wordCount": 48,
+          "title": "SLAP SBF - $DRAMA Labs - Crypto Entertainment",
+          "imageUrl": "https://slapsbf.com/assets/images/slap-sbf-share.jpg"
+        },
+        {
+          "id": "https://rotki.com/products/",
+          "author": null,
+          "description": "premium subscription | rotki",
+          "link": "https://rotki.com/products/",
+          "publishedOn": "2022-12-09T18:00:06.000Z",
+          "wordCount": 4885,
+          "title": "premium subscription | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
+          "id": "https://www.galaxy.com/research/insights/ethereum-all-core-developers-call-151/",
+          "author": null,
+          "description": "Ethereum All Core Developers Call #151 Writeup",
+          "link": "https://www.galaxy.com/research/insights/ethereum-all-core-developers-call-151/",
+          "publishedOn": "2022-12-09T17:30:04.000Z",
+          "wordCount": 3305,
+          "title": "Ethereum All Core Developers Call #151 Writeup",
+          "imageUrl": "https://images.ctfassets.net/h62aj7eo1csj/4NXDaCcnzbjE4g2BbZAGKV/3b257bcb9b845969bda2c79048483259/Ethereum_ACD_Call_-140___Consensus_Layer_Call_-89.png?w=1200&h=675&fit=fill&q=60&fm=jpg&fl=progressive"
+        },
+        {
           "id": "https://crypto.com/",
           "author": null,
           "description": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
@@ -14,16 +44,6 @@
           "wordCount": 2201,
           "title": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
           "imageUrl": "https://crypto.com/images/meta-og/home.png"
-        },
-        {
-          "id": "https://rotki.com/products/",
-          "author": null,
-          "description": "premium subscription | rotki",
-          "link": "https://rotki.com/products/",
-          "publishedOn": "2022-12-09T16:30:03.000Z",
-          "wordCount": 4885,
-          "title": "premium subscription | rotki",
-          "imageUrl": "https://rotki.com/img/share.png"
         },
         {
           "id": "https://multicoin.capital/2022/12/08/unlocking-payments-over-crypto-rails/",
@@ -76,16 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=aNeZS1cS6ZY&feature=youtu.be",
-          "author": null,
-          "description": "Reth introduced, Polygon zkEVM update and more - The Daily Gwei Refuel #503 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=aNeZS1cS6ZY&feature=youtu.be",
-          "publishedOn": "2022-12-09T04:00:05.000Z",
-          "wordCount": null,
-          "title": "Reth introduced, Polygon zkEVM update and more - The Daily Gwei Refuel #503 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "author": null,
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
@@ -104,16 +114,6 @@
           "wordCount": 49,
           "title": "Lore Genie",
           "imageUrl": "/genie.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/around-450000-homebuyers-are-now-underwater-early-fha-delinquencies-hit-2009-levels",
-          "author": null,
-          "description": "Around 450,000 Homebuyers Are Now Underwater As 'Early' FHA Delinquencies Hit 2009 Levels | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/around-450000-homebuyers-are-now-underwater-early-fha-delinquencies-hit-2009-levels",
-          "publishedOn": "2022-12-09T02:00:05.000Z",
-          "wordCount": 1326,
-          "title": "Around 450,000 Homebuyers Are Now Underwater As 'Early' FHA Delinquencies Hit 2009 Levels | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://eips.ethereum.org/EIPS/eip-4844",
@@ -141,7 +141,7 @@
           "description": "ECB staff in pay dispute to hold talks about potential strike",
           "link": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "publishedOn": "2022-12-08T21:00:03.000Z",
-          "wordCount": 1609,
+          "wordCount": 1612,
           "title": "ECB staff in pay dispute to hold talks about potential strike",
           "imageUrl": null
         },
@@ -161,7 +161,7 @@
           "description": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "link": "https://www.theblock.co/post/193274/alameda-backed-ren-warns-users-of-losses-as-it-plans-to-wind-down-protocol?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 62720,
+          "wordCount": 61754,
           "title": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
         },
