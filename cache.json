@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/n0-computer/iroh/pull/405#issuecomment-1326768585",
+          "id": "https://eips.ethereum.org/EIPS/eip-4844",
           "author": null,
-          "description": "Port iroh-store to libmdbx by vorot93 · Pull Request #405 · n0-computer/iroh",
-          "link": "https://github.com/n0-computer/iroh/pull/405#issuecomment-1326768585",
-          "publishedOn": "2022-12-08T21:30:05.000Z",
-          "wordCount": 1086,
-          "title": "Port iroh-store to libmdbx by vorot93 · Pull Request #405 · n0-computer/iroh",
-          "imageUrl": "https://opengraph.githubassets.com/6f8c95d4f60205655922b40333d1e60265c5fefd983ab22ada89f6a00a530abd/n0-computer/iroh/pull/405"
+          "description": "EIP-4844: Shard Blob Transactions",
+          "link": "https://eips.ethereum.org/EIPS/eip-4844",
+          "publishedOn": "2022-12-09T01:30:05.000Z",
+          "wordCount": 3408,
+          "title": "EIP-4844: Shard Blob Transactions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://corinstitute.co/",
+          "author": null,
+          "description": "Creator Ownership Research Institute",
+          "link": "https://corinstitute.co/",
+          "publishedOn": "2022-12-09T01:00:03.000Z",
+          "wordCount": 69,
+          "title": "Creator Ownership Research Institute",
+          "imageUrl": "/public/TwitterBanner.png"
         },
         {
           "id": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
@@ -21,7 +31,7 @@
           "description": "ECB staff in pay dispute to hold talks about potential strike",
           "link": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "publishedOn": "2022-12-08T21:00:03.000Z",
-          "wordCount": 1600,
+          "wordCount": 1554,
           "title": "ECB staff in pay dispute to hold talks about potential strike",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "link": "https://www.theblock.co/post/193274/alameda-backed-ren-warns-users-of-losses-as-it-plans-to-wind-down-protocol?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 62928,
+          "wordCount": 60804,
           "title": "Alameda-backed Ren warns users of losses as it plans to wind down version 1.0",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221129_Hack-Exploit-3-1200x675.jpg"
         },
@@ -61,9 +71,39 @@
           "description": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "link": "https://www.wsj.com/articles/the-housing-slowdown-is-wreaking-havoc-on-the-short-term-rental-market-11670518837?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 6246,
+          "wordCount": 6244,
           "title": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "imageUrl": "https://images.wsj.net/im-678984/social"
+        },
+        {
+          "id": "https://medium.com/@shibuya.xyz/shibuya-raises-6-9m-in-seed-funding-bdd7e3557702",
+          "author": null,
+          "description": "Shibuya Raises $6.9M In Seed Funding",
+          "link": "https://medium.com/@shibuya.xyz/shibuya-raises-6-9m-in-seed-funding-bdd7e3557702",
+          "publishedOn": "2022-12-08T19:00:03.000Z",
+          "wordCount": 1852,
+          "title": "Shibuya Raises $6.9M In Seed Funding",
+          "imageUrl": "https://miro.medium.com/max/1200/1*IfKjUeywdyNxbX1yMjyaDw.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IUIWFf_LJS4&t=3s",
+          "author": null,
+          "description": "What is JonesDao. A full breakdown of JonesDao products and utility.",
+          "link": "https://www.youtube.com/watch?v=IUIWFf_LJS4&t=3s",
+          "publishedOn": "2022-12-08T19:00:03.000Z",
+          "wordCount": null,
+          "title": "What is JonesDao. A full breakdown of JonesDao products and utility.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jpg.space/",
+          "author": null,
+          "description": "JPG",
+          "link": "https://jpg.space/",
+          "publishedOn": "2022-12-08T19:00:02.000Z",
+          "wordCount": 186,
+          "title": "JPG",
+          "imageUrl": "https://api.jpg.space/opengraph.jpg"
         },
         {
           "id": "https://blog.bitmex.com/now-live-eth-staking-yield-swap/",
@@ -116,16 +156,6 @@
           "imageUrl": "https://storage.googleapis.com/primary-web3/entryImages/resized/broken-ftx-nft_500.webp"
         },
         {
-          "id": "https://www.nbcnews.com/tech/security/chinese-hackers-covid-fraud-millions-rcna59636",
-          "author": null,
-          "description": "Hackers linked to Chinese government stole millions in Covid benefits",
-          "link": "https://www.nbcnews.com/tech/security/chinese-hackers-covid-fraud-millions-rcna59636",
-          "publishedOn": "2022-12-08T09:30:05.000Z",
-          "wordCount": 26290,
-          "title": "Hackers linked to Chinese government stole millions in Covid benefits",
-          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221201-keyboard-stock-jm-1346-23c0fd.jpg"
-        },
-        {
           "id": "https://staking.chain.link/",
           "author": null,
           "description": "Staking | Chainlink",
@@ -136,22 +166,12 @@
           "imageUrl": "https://smartcontract.imgix.net/meta_staking_og.png?auto=format"
         },
         {
-          "id": "https://vimeo.com/772224084/46fe908695",
-          "author": null,
-          "description": "Total Despair: Coffee Maker Fantasy (Season 1, Episode 3)",
-          "link": "https://vimeo.com/772224084/46fe908695",
-          "publishedOn": "2022-12-08T05:00:03.000Z",
-          "wordCount": 1872,
-          "title": "Total Despair: Coffee Maker Fantasy (Season 1, Episode 3)",
-          "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1549694902-76bef3bda80d731bcaabe88f24ef12819ec33fc394cd4adae34c5e91661606fa-d_1280x720&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
-        },
-        {
           "id": "https://www.theblock.co/post/193132/senate-banking-committee-calls-on-bankman-fried-to-testify-on-dec-14",
           "author": null,
           "description": "Senate Banking Committee calls on Bankman-Fried to testify on Dec. 14",
           "link": "https://www.theblock.co/post/193132/senate-banking-committee-calls-on-bankman-fried-to-testify-on-dec-14",
           "publishedOn": "2022-12-08T05:00:03.000Z",
-          "wordCount": 63256,
+          "wordCount": 61104,
           "title": "Senate Banking Committee calls on Bankman-Fried to testify on Dec. 14",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/congress-outside-2-alt-1200x675.jpg"
         },
@@ -166,34 +186,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.cnbc.com/2022/12/07/ftx-maxine-waters-doesnt-plan-to-subpoena-sam-bankman-fried-to-testify-at-hearing-on-crypto-exchanges-collapse.html",
-          "author": null,
-          "description": "House Financial Services Chair Waters doesn't plan to subpoena Sam Bankman-Fried to testify at hearing on FTX collapse",
-          "link": "https://www.cnbc.com/2022/12/07/ftx-maxine-waters-doesnt-plan-to-subpoena-sam-bankman-fried-to-testify-at-hearing-on-crypto-exchanges-collapse.html",
-          "publishedOn": "2022-12-08T01:00:01.000Z",
-          "wordCount": 17263,
-          "title": "House Financial Services Chair Waters doesn't plan to subpoena Sam Bankman-Fried to testify at hearing on FTX collapse",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106201234-1571922895125rts2sjes.jpg?v=1670449402&w=1920&h=1080"
-        },
-        {
           "id": "https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993",
           "author": null,
           "description": "Opinion | Blockchain Is Much More Than Crypto",
           "link": "https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993",
           "publishedOn": "2022-12-07T23:30:05.000Z",
-          "wordCount": 6820,
+          "wordCount": 6813,
           "title": "Opinion | Blockchain Is Much More Than Crypto",
           "imageUrl": "https://images.wsj.net/im-679376/social"
-        },
-        {
-          "id": "https://www.paradigm.xyz/2022/12/reth",
-          "author": null,
-          "description": "Introducing Reth - Paradigm",
-          "link": "https://www.paradigm.xyz/2022/12/reth",
-          "publishedOn": "2022-12-07T20:30:02.000Z",
-          "wordCount": 4689,
-          "title": "Introducing Reth - Paradigm",
-          "imageUrl": "https://paradigm.xyz/static/reth_cover.jpg"
         },
         {
           "id": "https://medium.com/perennial-protocol/announcing-perennial-a-defi-native-derivatives-protocol-backed-by-polychain-variant-archetype-237c796310c9",
