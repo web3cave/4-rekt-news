@@ -26,12 +26,22 @@
           "imageUrl": "/public/TwitterBanner.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=xvTN_IIJBwQ&feature=youtu.be",
+          "author": null,
+          "description": "Chewing Glass - Armani Ferrante - Ep #7",
+          "link": "https://www.youtube.com/watch?v=xvTN_IIJBwQ&feature=youtu.be",
+          "publishedOn": "2022-12-09T01:00:03.000Z",
+          "wordCount": null,
+          "title": "Chewing Glass - Armani Ferrante - Ep #7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "author": null,
           "description": "ECB staff in pay dispute to hold talks about potential strike",
           "link": "https://www.ft.com/content/0fab7af9-e950-43f1-b1aa-f2deeb21b34d",
           "publishedOn": "2022-12-08T21:00:03.000Z",
-          "wordCount": 1554,
+          "wordCount": 1601,
           "title": "ECB staff in pay dispute to hold talks about potential strike",
           "imageUrl": null
         },
@@ -71,7 +81,7 @@
           "description": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "link": "https://www.wsj.com/articles/the-housing-slowdown-is-wreaking-havoc-on-the-short-term-rental-market-11670518837?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-12-08T19:00:03.000Z",
-          "wordCount": 6244,
+          "wordCount": 6240,
           "title": "The Housing Slowdown Is Wreaking Havoc on the Short-Term Rental Market",
           "imageUrl": "https://images.wsj.net/im-678984/social"
         },
@@ -166,16 +176,6 @@
           "imageUrl": "https://smartcontract.imgix.net/meta_staking_og.png?auto=format"
         },
         {
-          "id": "https://www.theblock.co/post/193132/senate-banking-committee-calls-on-bankman-fried-to-testify-on-dec-14",
-          "author": null,
-          "description": "Senate Banking Committee calls on Bankman-Fried to testify on Dec. 14",
-          "link": "https://www.theblock.co/post/193132/senate-banking-committee-calls-on-bankman-fried-to-testify-on-dec-14",
-          "publishedOn": "2022-12-08T05:00:03.000Z",
-          "wordCount": 61104,
-          "title": "Senate Banking Committee calls on Bankman-Fried to testify on Dec. 14",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/congress-outside-2-alt-1200x675.jpg"
-        },
-        {
           "id": "https://www.nytimes.com/2022/12/07/business/ftx-sbf-crypto-market-investigation.html",
           "author": null,
           "description": "FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry",
@@ -191,7 +191,7 @@
           "description": "Opinion | Blockchain Is Much More Than Crypto",
           "link": "https://www.wsj.com/articles/blockchain-is-much-more-than-crypto-david-solomon-goldman-sachs-smart-contracts-11670345993",
           "publishedOn": "2022-12-07T23:30:05.000Z",
-          "wordCount": 6813,
+          "wordCount": 6805,
           "title": "Opinion | Blockchain Is Much More Than Crypto",
           "imageUrl": "https://images.wsj.net/im-679376/social"
         },
