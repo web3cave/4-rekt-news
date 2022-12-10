@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.balance.io/",
-          "author": null,
-          "description": "Balance",
-          "link": "https://www.balance.io/",
-          "publishedOn": "2022-12-10T05:00:03.000Z",
-          "wordCount": 260,
-          "title": "Balance",
-          "imageUrl": "/img/phone.png"
-        },
-        {
           "id": "http://mason.gmu.edu/~rhanson/EC309F22.html",
           "author": null,
           "description": "Econ 309",
@@ -104,6 +94,16 @@
           "wordCount": 1765,
           "title": "http://connect.opolis.co/banklessblitz/",
           "imageUrl": null
+        },
+        {
+          "id": "https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m",
+          "author": null,
+          "description": "GameStop to drop crypto efforts as Q3 losses near $95M",
+          "link": "https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m",
+          "publishedOn": "2022-12-09T21:00:02.000Z",
+          "wordCount": 15966,
+          "title": "GameStop to drop crypto efforts as Q3 losses near $95M",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/7dc00ac3-10d9-4857-ba27-4a91230bd260.jpg"
         },
         {
           "id": "https://cryptohayes.medium.com/pemdas-4362df99a509",

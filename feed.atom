@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T05:16:44.718Z</id>
+    <id>urn:2022-12-10T06:23:10.379Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T05:16:44.718Z</updated>
+    <updated>2022-12-10T06:23:10.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Balance]]></title>
-        <id>https://www.balance.io/</id>
-        <link href="https://www.balance.io/"/>
-        <updated>2022-12-10T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Balance]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Econ 309]]></title>
         <id>http://mason.gmu.edu/~rhanson/EC309F22.html</id>
@@ -101,6 +91,16 @@
         <link href="https://connect.opolis.co/banklessblitz/"/>
         <updated>2022-12-09T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[http://connect.opolis.co/banklessblitz/]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop to drop crypto efforts as Q3 losses near $95M]]></title>
+        <id>https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m</id>
+        <link href="https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m"/>
+        <updated>2022-12-09T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[GameStop to drop crypto efforts as Q3 losses near $95M]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
