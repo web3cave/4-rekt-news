@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WWozCYoEBOg&feature=youtu.be",
+          "author": null,
+          "description": "What’s To Come For Bitcoin In 2023 | Texas Blockchain Summit",
+          "link": "https://www.youtube.com/watch?v=WWozCYoEBOg&feature=youtu.be",
+          "publishedOn": "2022-12-10T04:00:06.000Z",
+          "wordCount": null,
+          "title": "What’s To Come For Bitcoin In 2023 | Texas Blockchain Summit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nESJUmEq5Mo&feature=youtu.be",
           "author": null,
           "description": "Shanghai updates, Protocol Guild's 6 month recap - The Daily Gwei Refuel #504 - Ethereum Updates",
@@ -24,16 +34,6 @@
           "wordCount": 3078,
           "title": "Intervene - Motion – #196 in FTX Trading Ltd. (Bankr. D. Del., 22-11068) – CourtListener.com",
           "imageUrl": "https://storage.courtlistener.com/recap-thumbnails/gov.uscourts.deb.188450/219793793.thumb.1068.png"
-        },
-        {
-          "id": "https://loregenie.com/npc/hyOlkhfc5gOwPonQ9yyf",
-          "author": null,
-          "description": "Vitalik Buterin",
-          "link": "https://loregenie.com/npc/hyOlkhfc5gOwPonQ9yyf",
-          "publishedOn": "2022-12-10T02:00:06.000Z",
-          "wordCount": 357,
-          "title": "Vitalik Buterin",
-          "imageUrl": "https://static.loregenie.com/hyOlkhfc5gOwPonQ9yyf.png"
         },
         {
           "id": "https://unchainedpodcast.com/why-the-legal-process-for-ftx-and-sam-bankman-fried-could-take-years-ep-430/",
@@ -61,7 +61,7 @@
           "description": "ChatGPT Will Kill Search and Open a Path to Web3",
           "link": "https://www.coindesk.com/layer2/2022/12/09/chatgpt-will-kill-search-and-open-a-path-to-web3/",
           "publishedOn": "2022-12-10T00:00:06.000Z",
-          "wordCount": 21093,
+          "wordCount": 21120,
           "title": "ChatGPT Will Kill Search and Open a Path to Web3",
           "imageUrl": "https://www.coindesk.com/resizer/ifYTf9ZtbBq3DFW6YO_kCvEgaaM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EKIZ5DDV2VAQPNL6WEDPTGYKFY.jpg"
         },
@@ -94,6 +94,16 @@
           "wordCount": 1765,
           "title": "http://connect.opolis.co/banklessblitz/",
           "imageUrl": null
+        },
+        {
+          "id": "https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m",
+          "author": null,
+          "description": "GameStop to drop crypto efforts as Q3 losses near $95M",
+          "link": "https://cointelegraph.com/news/gamestop-to-drop-crypto-efforts-as-q3-losses-near-95m",
+          "publishedOn": "2022-12-09T21:00:02.000Z",
+          "wordCount": 15826,
+          "title": "GameStop to drop crypto efforts as Q3 losses near $95M",
+          "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/7dc00ac3-10d9-4857-ba27-4a91230bd260.jpg"
         },
         {
           "id": "https://entrepreneurshandbook.co/pemdas-4362df99a509?gi=d9b52e58b54c",
@@ -171,9 +181,9 @@
           "description": "Inside the Frantic Texts Exchanged by Crypto Executives as FTX Collapsed",
           "link": "https://www.nytimes.com/2022/12/09/technology/ftx-text-messages.html",
           "publishedOn": "2022-12-09T11:00:02.000Z",
-          "wordCount": 4955,
+          "wordCount": null,
           "title": "Inside the Frantic Texts Exchanged by Crypto Executives as FTX Collapsed",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/09/multimedia/09ftx-text-1-b264/09ftx-text-1-b264-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
@@ -181,7 +191,7 @@
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "link": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "publishedOn": "2022-12-09T03:30:06.000Z",
-          "wordCount": 7282,
+          "wordCount": 7277,
           "title": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 69,
           "title": "Creator Ownership Research Institute",
           "imageUrl": "/public/TwitterBanner.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y8jZ11_CQGo",
-          "author": null,
-          "description": "Ethereum Core Devs Meeting #151 [2022-12-08]",
-          "link": "https://www.youtube.com/watch?v=y8jZ11_CQGo",
-          "publishedOn": "2022-12-08T17:00:02.000Z",
-          "wordCount": null,
-          "title": "Ethereum Core Devs Meeting #151 [2022-12-08]",
-          "imageUrl": null
         }
       ]
     }
