@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rotki.com/products/",
+          "author": null,
+          "description": "premium subscription | rotki",
+          "link": "https://rotki.com/products/",
+          "publishedOn": "2022-12-10T14:00:05.000Z",
+          "wordCount": 4885,
+          "title": "premium subscription | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
+          "id": "https://blog.soliditylang.org/2022/12/05/solidity-core-team-updates/",
+          "author": null,
+          "description": "Solidity Core Team Updates",
+          "link": "https://blog.soliditylang.org/2022/12/05/solidity-core-team-updates/",
+          "publishedOn": "2022-12-10T13:30:06.000Z",
+          "wordCount": 2052,
+          "title": "Solidity Core Team Updates",
+          "imageUrl": "/img/avatar-icon.png"
+        },
+        {
           "id": "https://the-gpt-times.eriks-studio.repl.co/",
           "author": null,
           "description": "The GPT Times -  Index",
           "link": "https://the-gpt-times.eriks-studio.repl.co/",
           "publishedOn": "2022-12-10T08:00:06.000Z",
-          "wordCount": 5767,
+          "wordCount": 5424,
           "title": "The GPT Times -  Index",
           "imageUrl": null
         },
@@ -51,7 +71,7 @@
           "description": "ChatGPT Will Kill Search and Open a Path to Web3",
           "link": "https://www.coindesk.com/layer2/2022/12/09/chatgpt-will-kill-search-and-open-a-path-to-web3/",
           "publishedOn": "2022-12-10T00:00:06.000Z",
-          "wordCount": 21124,
+          "wordCount": 21076,
           "title": "ChatGPT Will Kill Search and Open a Path to Web3",
           "imageUrl": "https://www.coindesk.com/resizer/ifYTf9ZtbBq3DFW6YO_kCvEgaaM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EKIZ5DDV2VAQPNL6WEDPTGYKFY.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "The Block CEO resigns after failure to disclose loans from Bankman-Fried’s Alameda",
           "link": "https://www.theblock.co/post/193753/the-block-ceo-resigns-after-failure-to-disclose-loans-from-bankman-frieds-alameda?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-09T21:30:05.000Z",
-          "wordCount": 59944,
+          "wordCount": 59813,
           "title": "The Block CEO resigns after failure to disclose loans from Bankman-Fried’s Alameda",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_Sam-Bankman-Fried-2-1200x675.jpg"
         },
@@ -101,7 +121,7 @@
           "description": "Goldman Sachs and the return of 'Blockchain not Bitcoin'",
           "link": "https://fortune.com/crypto/2022/12/09/goldman-sachs-and-the-return-of-blockchain-not-bitcoin/",
           "publishedOn": "2022-12-09T19:30:06.000Z",
-          "wordCount": 3771,
+          "wordCount": 3785,
           "title": "Goldman Sachs and the return of 'Blockchain not Bitcoin'",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/goldman-sachs-ceo-david-solomon-e1670598648923.jpg?resize=1200,600"
         },
@@ -111,7 +131,7 @@
           "description": "PEMDAS",
           "link": "https://cryptohayes.medium.com/pemdas-4362df99a509",
           "publishedOn": "2022-12-09T19:00:03.000Z",
-          "wordCount": 7712,
+          "wordCount": 7950,
           "title": "PEMDAS",
           "imageUrl": "https://miro.medium.com/max/400/0*Kq7muZQCc9Hw6L4S"
         },
@@ -126,14 +146,14 @@
           "imageUrl": "https://img.paperform.co/fetch/w_1800,f_jpg,c_limit/https://media4.giphy.com/media/v0u7eU0nSmOJ0hGf6n/giphy.gif?cid=fb0060e0gvqf9pdyp4ady2mrhc7ifs37t6p6sb4nl7g740rd&rid=giphy.gif&ct=g"
         },
         {
-          "id": "https://www.theblock.co/post/193616/amber-group-vauld-ceo-counterparty1-a-130-million",
+          "id": "https://github.com/rotki/rotki/releases",
           "author": null,
-          "description": "Amber Group owes troubled crypto lender Vauld's CEO $130 million",
-          "link": "https://www.theblock.co/post/193616/amber-group-vauld-ceo-counterparty1-a-130-million",
-          "publishedOn": "2022-12-09T19:00:02.000Z",
-          "wordCount": 61063,
-          "title": "Amber Group owes troubled crypto lender Vauld's CEO $130 million",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211209_Funding-Cash-Investment-1200x675.png"
+          "description": "Releases · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/releases",
+          "publishedOn": "2022-12-09T19:00:03.000Z",
+          "wordCount": 6626,
+          "title": "Releases · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/d3471a5c14c28705e3e65def8b62aef427dfed8492eeabac7f352acacaaffc22/rotki/rotki"
         },
         {
           "id": "https://www.galaxy.com/research/insights/ethereum-all-core-developers-call-151/",
@@ -154,26 +174,6 @@
           "wordCount": 2201,
           "title": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
           "imageUrl": "https://crypto.com/images/meta-og/home.png"
-        },
-        {
-          "id": "https://blec.report/uniswap/",
-          "author": null,
-          "description": "Uniswap - Blec Report",
-          "link": "https://blec.report/uniswap/",
-          "publishedOn": "2022-12-09T15:00:07.000Z",
-          "wordCount": 2240,
-          "title": "Uniswap - Blec Report",
-          "imageUrl": "https://blec.report/wp-content/uploads/2022/12/Chris_Blec_evil_corporate_unicorn_d0a1f75a-13c0-46cd-a881-a3838a6d4b82.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tJiQiL5bLY0",
-          "author": null,
-          "description": "The Collapse of Three Arrows Capital: Part II (THE CRASH)",
-          "link": "https://www.youtube.com/watch?v=tJiQiL5bLY0",
-          "publishedOn": "2022-12-09T15:00:06.000Z",
-          "wordCount": null,
-          "title": "The Collapse of Three Arrows Capital: Part II (THE CRASH)",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=pIXq1pfvG0g&feature=youtu.be",
