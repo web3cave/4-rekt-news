@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xWZYYWzGDP8",
+          "author": null,
+          "description": "The Chopping Block: SBF Wants to Win in the Court of Public Opinion. Will He? - Ep. 428",
+          "link": "https://www.youtube.com/watch?v=xWZYYWzGDP8",
+          "publishedOn": "2022-12-11T15:00:02.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block: SBF Wants to Win in the Court of Public Opinion. Will He? - Ep. 428",
+          "imageUrl": null
+        },
+        {
+          "id": "https://open.spotify.com/episode/5ohHazsrFJoRSPylRmfc2V?si=JpmvdOrvSvyXIA5arDGTFQ",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/5ohHazsrFJoRSPylRmfc2V?si=JpmvdOrvSvyXIA5arDGTFQ",
+          "publishedOn": "2022-12-11T15:00:02.000Z",
+          "wordCount": 135,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a458d09c031163955451131f4"
+        },
+        {
+          "id": "https://www.zerohedge.com/crypto/eu-force-crypto-companies-report-their-users-holdings-tax-authorities",
+          "author": null,
+          "description": "EU To Force Crypto Companies To Report Their Users' Holdings To Tax Authorities | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/eu-force-crypto-companies-report-their-users-holdings-tax-authorities",
+          "publishedOn": "2022-12-11T14:30:03.000Z",
+          "wordCount": 864,
+          "title": "EU To Force Crypto Companies To Report Their Users' Holdings To Tax Authorities | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/eu-levels-fresh-sanctions-iran-following-1st-protest-related-execution",
           "author": null,
           "description": "EU Levels Fresh Sanctions On Iran Following 1st Protest-Related Execution | ZeroHedge",
@@ -36,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/rainbow-me/rainbowkit/pull/903",
-          "author": null,
-          "description": "feat: update to wagmi 0.9 by jxom · Pull Request #903 · rainbow-me/rainbowkit",
-          "link": "https://github.com/rainbow-me/rainbowkit/pull/903",
-          "publishedOn": "2022-12-11T13:00:02.000Z",
-          "wordCount": 884,
-          "title": "feat: update to wagmi 0.9 by jxom · Pull Request #903 · rainbow-me/rainbowkit",
-          "imageUrl": "https://opengraph.githubassets.com/9e9fe7e249c93387ed365457beec7e3024e111f3e658ded050136acb6461d26b/rainbow-me/rainbowkit/pull/903"
-        },
-        {
           "id": "https://ourworldindata.org/terrorism",
           "author": null,
           "description": "Terrorism",
@@ -54,16 +74,6 @@
           "wordCount": 13450,
           "title": "Terrorism",
           "imageUrl": "https://ourworldindata.org/uploads/2019/10/Terrorism-in-Western-Europe-768x1425.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_VKWLC87Uzw&feature=youtu.be",
-          "author": null,
-          "description": "Donkey Sex: The Most Bizarre Tradition",
-          "link": "https://www.youtube.com/watch?v=_VKWLC87Uzw&feature=youtu.be",
-          "publishedOn": "2022-12-11T09:00:03.000Z",
-          "wordCount": null,
-          "title": "Donkey Sex: The Most Bizarre Tradition",
-          "imageUrl": null
         },
         {
           "id": "https://carmelitegothic.com/cnc-stone-carving/",
@@ -111,9 +121,9 @@
           "description": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
           "link": "https://github.com/0xngmi/metamask-extension/tree/Version-v10.22.23",
           "publishedOn": "2022-12-11T03:00:04.000Z",
-          "wordCount": 2030,
+          "wordCount": 1651,
           "title": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
-          "imageUrl": "https://opengraph.githubassets.com/6ac8006d2008673db2ab2488eac701feba96c2edbda8c6bd9405413dc709d215/0xngmi/metamask-extension"
+          "imageUrl": "https://opengraph.githubassets.com/33c6c5f0bcfcfa6068aec75edd367f2d0163e5e0c55199a1a3f801691f207039/0xngmi/metamask-extension"
         },
         {
           "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
@@ -156,16 +166,6 @@
           "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c7/d2/92/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c/mza_7005270671777648882.png/1200x630wp.png"
         },
         {
-          "id": "https://tornado-warning.info/",
-          "author": null,
-          "description": "Ethereum Tornado Warnings",
-          "link": "https://tornado-warning.info/",
-          "publishedOn": "2022-12-10T16:00:05.000Z",
-          "wordCount": 509,
-          "title": "Ethereum Tornado Warnings",
-          "imageUrl": "https://toniwahrstaetter.com/favicon.png"
-        },
-        {
           "id": "https://www.secondbest.ca/p/before-the-flood",
           "author": null,
           "description": "Before the flood",
@@ -191,7 +191,7 @@
           "description": "GitHub - m1guelpf/chatgpt-discord: Run your own GPTChat Discord bot, with a single command!",
           "link": "https://github.com/m1guelpf/chatgpt-discord",
           "publishedOn": "2022-12-10T05:00:02.000Z",
-          "wordCount": 943,
+          "wordCount": 899,
           "title": "GitHub - m1guelpf/chatgpt-discord: Run your own GPTChat Discord bot, with a single command!",
           "imageUrl": "https://opengraph.githubassets.com/79ff5f9cd8fd8e25235a424fc869343f65da899c3d7a8f11202b614e9ad3e3b4/m1guelpf/chatgpt-discord"
         },
