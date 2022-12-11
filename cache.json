@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.zerohedge.com/political/institutions-matterbut-so-does-culture",
+          "id": "https://www.youtube.com/watch?app=desktop&v=nPOlnGIOI3Q",
           "author": null,
-          "description": "Institutions Matter…But So Does Culture | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/institutions-matterbut-so-does-culture",
-          "publishedOn": "2022-12-11T12:30:03.000Z",
-          "wordCount": 1782,
-          "title": "Institutions Matter…But So Does Culture | ZeroHedge",
+          "description": "Groth16 is not dead: Exploring the tradeoff space of ZKP Systems - Georgios Konstantopoulos",
+          "link": "https://www.youtube.com/watch?app=desktop&v=nPOlnGIOI3Q",
+          "publishedOn": "2022-12-11T13:00:02.000Z",
+          "wordCount": null,
+          "title": "Groth16 is not dead: Exploring the tradeoff space of ZKP Systems - Georgios Konstantopoulos",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=gQCCdJvszDA&list=PLOEty2U8Y69ULDD8YxqQ8kWg8Qn7N8XHZ&index=7",
+          "author": null,
+          "description": "Groth16 still lives: exploring tradeoffs of modern ZKProof systems - François Garillot (Mysten Labs)",
+          "link": "https://www.youtube.com/watch?app=desktop&v=gQCCdJvszDA&list=PLOEty2U8Y69ULDD8YxqQ8kWg8Qn7N8XHZ&index=7",
+          "publishedOn": "2022-12-11T13:00:02.000Z",
+          "wordCount": null,
+          "title": "Groth16 still lives: exploring tradeoffs of modern ZKProof systems - François Garillot (Mysten Labs)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/rainbow-me/rainbowkit/pull/903",
+          "author": null,
+          "description": "feat: update to wagmi 0.9 by jxom · Pull Request #903 · rainbow-me/rainbowkit",
+          "link": "https://github.com/rainbow-me/rainbowkit/pull/903",
+          "publishedOn": "2022-12-11T13:00:02.000Z",
+          "wordCount": 884,
+          "title": "feat: update to wagmi 0.9 by jxom · Pull Request #903 · rainbow-me/rainbowkit",
+          "imageUrl": "https://opengraph.githubassets.com/9e9fe7e249c93387ed365457beec7e3024e111f3e658ded050136acb6461d26b/rainbow-me/rainbowkit/pull/903"
         },
         {
           "id": "https://ourworldindata.org/terrorism",
@@ -24,26 +44,6 @@
           "wordCount": 13450,
           "title": "Terrorism",
           "imageUrl": "https://ourworldindata.org/uploads/2019/10/Terrorism-in-Western-Europe-768x1425.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/visualizing-military-imbalance-taiwan-strait",
-          "author": null,
-          "description": "Visualizing The Military Imbalance In The Taiwan Strait | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/visualizing-military-imbalance-taiwan-strait",
-          "publishedOn": "2022-12-11T11:30:05.000Z",
-          "wordCount": 841,
-          "title": "Visualizing The Military Imbalance In The Taiwan Strait | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ethereum/hive/pull/665",
-          "author": null,
-          "description": "hive: metrics support with prometheus and grafana by protolambda · Pull Request #665 · ethereum/hive",
-          "link": "https://github.com/ethereum/hive/pull/665",
-          "publishedOn": "2022-12-11T11:00:02.000Z",
-          "wordCount": 1153,
-          "title": "hive: metrics support with prometheus and grafana by protolambda · Pull Request #665 · ethereum/hive",
-          "imageUrl": "https://opengraph.githubassets.com/2a402ecaafbdad30fd2df55c1a0d7966bafe31548932592958445f8d5264cab1/ethereum/hive/pull/665"
         },
         {
           "id": "https://www.youtube.com/watch?v=_VKWLC87Uzw&feature=youtu.be",
@@ -111,9 +111,9 @@
           "description": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
           "link": "https://github.com/0xngmi/metamask-extension/tree/Version-v10.22.23",
           "publishedOn": "2022-12-11T03:00:04.000Z",
-          "wordCount": 2030,
+          "wordCount": 1651,
           "title": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
-          "imageUrl": "https://opengraph.githubassets.com/0cba7c5785d4ef464dbe559d181e6d0d6166cfa76e4fb1c7489e825aab926968/0xngmi/metamask-extension"
+          "imageUrl": "https://opengraph.githubassets.com/8d2f56d4ec026a0ec311e955754c3a2ced20a59eefb26e3fd9fa3b0df501727a/0xngmi/metamask-extension"
         },
         {
           "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q&feature=youtu.be",
@@ -191,7 +191,7 @@
           "description": "GitHub - m1guelpf/chatgpt-discord: Run your own GPTChat Discord bot, with a single command!",
           "link": "https://github.com/m1guelpf/chatgpt-discord",
           "publishedOn": "2022-12-10T05:00:02.000Z",
-          "wordCount": 943,
+          "wordCount": 899,
           "title": "GitHub - m1guelpf/chatgpt-discord: Run your own GPTChat Discord bot, with a single command!",
           "imageUrl": "https://opengraph.githubassets.com/79ff5f9cd8fd8e25235a424fc869343f65da899c3d7a8f11202b614e9ad3e3b4/m1guelpf/chatgpt-discord"
         },
