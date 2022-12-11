@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/2212.03827",
+          "author": null,
+          "description": "Discovering Latent Knowledge in Language Models Without Supervision",
+          "link": "https://arxiv.org/abs/2212.03827",
+          "publishedOn": "2022-12-11T03:30:04.000Z",
+          "wordCount": 644,
+          "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/supreme-court-hears-case-could-empower-state-legislatures-not-judges-regulate-elections",
+          "author": null,
+          "description": "Supreme Court Hears Case That Could Empower State Legislatures, Not Judges, To Regulate Elections | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/supreme-court-hears-case-could-empower-state-legislatures-not-judges-regulate-elections",
+          "publishedOn": "2022-12-11T03:30:04.000Z",
+          "wordCount": 1910,
+          "title": "Supreme Court Hears Case That Could Empower State Legislatures, Not Judges, To Regulate Elections | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/0xngmi/metamask-extension/tree/Version-v10.22.23",
           "author": null,
           "description": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
@@ -13,7 +33,7 @@
           "publishedOn": "2022-12-11T03:00:04.000Z",
           "wordCount": 1651,
           "title": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
-          "imageUrl": "https://opengraph.githubassets.com/bcad9ff9ba8f0777a4eb073bf41d5c7b88008ea9d3003ae38b3dfd686a9e7a1f/0xngmi/metamask-extension"
+          "imageUrl": "https://opengraph.githubassets.com/629db2e2c2caefa08c64019b0b57832353c731347a999963deb5dc2238a1bc02/0xngmi/metamask-extension"
         },
         {
           "id": "https://www.zerohedge.com/crypto/sbf-tried-destabilize-crypto-market-save-ftx-report",
@@ -31,7 +51,7 @@
           "description": "THE TWITTER FILES: The Removal Of Donald Trump, Part 2 | ZeroHedge",
           "link": "https://www.zerohedge.com/political/twitter-files-removal-donald-trump-part-2",
           "publishedOn": "2022-12-11T02:00:05.000Z",
-          "wordCount": 2737,
+          "wordCount": 3642,
           "title": "THE TWITTER FILES: The Removal Of Donald Trump, Part 2 | ZeroHedge",
           "imageUrl": null
         },
@@ -44,16 +64,6 @@
           "wordCount": null,
           "title": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/@WorldPokerTour",
-          "author": null,
-          "description": "World Poker Tour - YouTube",
-          "link": "https://www.youtube.com/@WorldPokerTour",
-          "publishedOn": "2022-12-11T00:30:03.000Z",
-          "wordCount": 1591,
-          "title": "World Poker Tour - YouTube",
-          "imageUrl": "https://yt3.googleusercontent.com/tUoCcMWfGISu5Bb_j2dorGlRGrtw8PNHhJyShDSqWiaCueQiGxoP7jw2dRDcHJGpsDLoDJnq4A=s900-c-k-c0x00ffffff-no-rj"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/pentagon-chief-warns-putin-modernizing-expanding-russias-nuclear-arsenal",
@@ -121,7 +131,7 @@
           "description": "Before the flood",
           "link": "https://www.secondbest.ca/p/before-the-flood",
           "publishedOn": "2022-12-10T15:30:08.000Z",
-          "wordCount": 4358,
+          "wordCount": 4564,
           "title": "Before the flood",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F305112a6-6395-49ec-a948-8dd4c57827f0_1024x1024.png"
         },
@@ -151,19 +161,9 @@
           "description": "The GPT Times -  Index",
           "link": "https://the-gpt-times.eriks-studio.repl.co/",
           "publishedOn": "2022-12-10T08:00:06.000Z",
-          "wordCount": 5337,
+          "wordCount": 5487,
           "title": "The GPT Times -  Index",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2022/12/09/eu-lawmaker-kaili-suspended-from-party-in-corruption-scandal/",
-          "author": null,
-          "description": "EU Lawmaker Kaili Suspended From Party in Corruption Scandal",
-          "link": "https://www.coindesk.com/policy/2022/12/09/eu-lawmaker-kaili-suspended-from-party-in-corruption-scandal/",
-          "publishedOn": "2022-12-10T08:00:06.000Z",
-          "wordCount": 20204,
-          "title": "EU Lawmaker Kaili Suspended From Party in Corruption Scandal",
-          "imageUrl": "https://www.coindesk.com/resizer/l44O5V2MH8LlQ4TkPHMYZ4N-aP0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GYKAN2GRDJBUPFV7QU5SUMBEE4.jpg"
         },
         {
           "id": "https://github.com/m1guelpf/chatgpt-discord",
@@ -173,7 +173,7 @@
           "publishedOn": "2022-12-10T05:00:02.000Z",
           "wordCount": 899,
           "title": "GitHub - m1guelpf/chatgpt-discord: Run your own GPTChat Discord bot, with a single command!",
-          "imageUrl": "https://opengraph.githubassets.com/6c21484017c9b651ca435db081af35bf4523ca55516ee7cfdec73d69982cb721/m1guelpf/chatgpt-discord"
+          "imageUrl": "https://opengraph.githubassets.com/f112c3b75c3abf9d6e9735af882fda671bc8564d8515312a9cc5cc5de6e859cb/m1guelpf/chatgpt-discord"
         },
         {
           "id": "https://www.axios.com/2022/12/09/bankman-fried-funded-crypto-news-site-block",
@@ -201,7 +201,7 @@
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "link": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "publishedOn": "2022-12-09T03:30:06.000Z",
-          "wordCount": 7276,
+          "wordCount": 7482,
           "title": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
         }
