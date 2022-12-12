@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=uZQL8ujfCGk&feature=youtu.be",
+          "id": "https://vimeo.com/manage/videos/778950575",
           "author": null,
-          "description": "Ethereum staking, Metamask fork and more - The Daily Gwei Refuel #505 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=uZQL8ujfCGk&feature=youtu.be",
-          "publishedOn": "2022-12-12T15:00:03.000Z",
-          "wordCount": null,
-          "title": "Ethereum staking, Metamask fork and more - The Daily Gwei Refuel #505 - Ethereum Updates",
+          "description": "Vimeo",
+          "link": "https://vimeo.com/manage/videos/778950575",
+          "publishedOn": "2022-12-12T17:00:03.000Z",
+          "wordCount": 1550,
+          "title": "Vimeo",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/osmosis-labs/osmosis/blob/fa9293fa9267b1c7a95f645bcc092a8ad4cc03bc/x/gamm/pool-models/stableswap/README.md",
+          "author": null,
+          "description": "osmosis/README.md at fa9293fa9267b1c7a95f645bcc092a8ad4cc03bc · osmosis-labs/osmosis",
+          "link": "https://github.com/osmosis-labs/osmosis/blob/fa9293fa9267b1c7a95f645bcc092a8ad4cc03bc/x/gamm/pool-models/stableswap/README.md",
+          "publishedOn": "2022-12-12T17:00:03.000Z",
+          "wordCount": 4593,
+          "title": "osmosis/README.md at fa9293fa9267b1c7a95f645bcc092a8ad4cc03bc · osmosis-labs/osmosis",
+          "imageUrl": "https://opengraph.githubassets.com/a4513641f18a4e277549c6e8ad46f57cf73f78eb33df1c84a5890933c046b2cb/osmosis-labs/osmosis"
         },
         {
           "id": "https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/",
@@ -21,9 +31,19 @@
           "description": "Exclusive: U.S. Justice Dept is split over charging Binance as crypto world falters, sources say",
           "link": "https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/",
           "publishedOn": "2022-12-12T15:00:03.000Z",
-          "wordCount": 8497,
+          "wordCount": 8501,
           "title": "Exclusive: U.S. Justice Dept is split over charging Binance as crypto world falters, sources say",
           "imageUrl": "https://www.reuters.com/resizer/PZ0gp-L-Yly_HCMs9Dk1KxiNRWI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3RKSG4YYOFJIDLFKKSCFCMWJWQ.jpg"
+        },
+        {
+          "id": "https://usdd.io/",
+          "author": null,
+          "description": "USDD | Decentralized Stablecoin Protocol | 去中心化稳定币协议",
+          "link": "https://usdd.io/",
+          "publishedOn": "2022-12-12T14:00:04.000Z",
+          "wordCount": 82,
+          "title": "USDD | Decentralized Stablecoin Protocol | 去中心化稳定币协议",
+          "imageUrl": "/logo.png"
         },
         {
           "id": "https://www.rightclicksave.com/article/how-many-nfts-are-actually-on-the-blockchain",
@@ -66,6 +86,16 @@
           "imageUrl": "og-image.png"
         },
         {
+          "id": "https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/",
+          "author": null,
+          "description": "U.S. to announce fusion energy ‘breakthrough’",
+          "link": "https://www.washingtonpost.com/business/2022/12/11/fusion-nuclear-energy-breakthrough/",
+          "publishedOn": "2022-12-12T07:00:02.000Z",
+          "wordCount": 8710,
+          "title": "U.S. to announce fusion energy ‘breakthrough’",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ED7VMVT6YEI6ZDGIW2LFMS5HSY.jpg&w=1440"
+        },
+        {
           "id": "https://vitalik.eth.limo/general/2022/12/05/excited.html",
           "author": null,
           "description": "What in the Ethereum application ecosystem excites me",
@@ -101,7 +131,7 @@
           "description": "The Four Horsemen of the Cryptocalypse",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
           "publishedOn": "2022-12-12T01:30:05.000Z",
-          "wordCount": 25083,
+          "wordCount": 25061,
           "title": "The Four Horsemen of the Cryptocalypse",
           "imageUrl": "https://www.coindesk.com/resizer/gO2ABcnnEAj1DeMjh9wLQmshmpA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEUVMG6PDJAB5LLOHQOFF5G3PI.png"
         },
@@ -116,16 +146,6 @@
           "imageUrl": "https://opengraph.githubassets.com/8f22526cebb7adb7a96dd947bd37e38cacc2ecc8ea1a394d6e6f881e489ff35c/MetaMask/metamask-extension/pull/16767"
         },
         {
-          "id": "https://simbro.medium.com/mev-driven-centralization-in-ethereum-part-2-97e4cb612e69",
-          "author": null,
-          "description": "MEV Driven Centralization in Ethereum: Part 2",
-          "link": "https://simbro.medium.com/mev-driven-centralization-in-ethereum-part-2-97e4cb612e69",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 10502,
-          "title": "MEV Driven Centralization in Ethereum: Part 2",
-          "imageUrl": "https://miro.medium.com/max/1200/0*_nKoUma7fInCmClg"
-        },
-        {
           "id": "https://github.com/orgs/solana-labs/projects/4",
           "author": null,
           "description": "Build software better, together",
@@ -134,16 +154,6 @@
           "wordCount": 390,
           "title": "Build software better, together",
           "imageUrl": "https://github.githubassets.com/images/modules/open_graph/github-logo.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/chips-center-stage-businesses-manage-risks-and-countries-manage-rivalries",
-          "author": null,
-          "description": "Chips Take Center-Stage As Businesses Manage Risks And Countries Manage Rivalries  | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/chips-center-stage-businesses-manage-risks-and-countries-manage-rivalries",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 1067,
-          "title": "Chips Take Center-Stage As Businesses Manage Risks And Countries Manage Rivalries  | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7",
@@ -164,16 +174,6 @@
           "wordCount": 6860,
           "title": "Cash crops: Dutch use bitcoin mining to grow tulips",
           "imageUrl": "https://s.rfi.fr/media/display/d7c816d4-7916-11ed-99cb-005056bf30b7/w:1280/p:16x9/c52d62aaf370a2807ed1b7cd9942c285ffbce146.jpg"
-        },
-        {
-          "id": "https://doseofdefi.substack.com/p/mevs-new-chapter-beyond-ethereums?utm_source=twitter&utm_campaign=auto_share",
-          "author": null,
-          "description": "MEV's new chapter: Beyond Ethereum's borders",
-          "link": "https://doseofdefi.substack.com/p/mevs-new-chapter-beyond-ethereums?utm_source=twitter&utm_campaign=auto_share",
-          "publishedOn": "2022-12-11T18:00:04.000Z",
-          "wordCount": 4316,
-          "title": "MEV's new chapter: Beyond Ethereum's borders",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c6aa25a-b95d-4cad-a500-c219f1bfa04c_1240x550.png"
         },
         {
           "id": "https://carmelitegothic.com/cnc-stone-carving/",
