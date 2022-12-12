@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=izkKtN5dtig",
+          "author": null,
+          "description": "Welcome to Advanced Trading on Coinbase",
+          "link": "https://www.youtube.com/watch?v=izkKtN5dtig",
+          "publishedOn": "2022-12-12T02:00:05.000Z",
+          "wordCount": null,
+          "title": "Welcome to Advanced Trading on Coinbase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wTtHKqZyUA8",
+          "author": null,
+          "description": "EXCLUSIVE: Liver King On Steroids, Joe Rogan, and Billionaire Status",
+          "link": "https://www.youtube.com/watch?v=wTtHKqZyUA8",
+          "publishedOn": "2022-12-12T02:00:05.000Z",
+          "wordCount": null,
+          "title": "EXCLUSIVE: Liver King On Steroids, Joe Rogan, and Billionaire Status",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
           "author": null,
           "description": "The Four Horsemen of the Cryptocalypse",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
           "publishedOn": "2022-12-12T01:30:05.000Z",
-          "wordCount": 25210,
+          "wordCount": 25151,
           "title": "The Four Horsemen of the Cryptocalypse",
           "imageUrl": "https://www.coindesk.com/resizer/gO2ABcnnEAj1DeMjh9wLQmshmpA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEUVMG6PDJAB5LLOHQOFF5G3PI.png"
         },
@@ -21,7 +41,7 @@
           "description": "GitHub - Canto-Network/Canto at v4.0.0",
           "link": "https://github.com/Canto-Network/Canto/tree/v4.0.0",
           "publishedOn": "2022-12-12T01:00:02.000Z",
-          "wordCount": 1385,
+          "wordCount": 1211,
           "title": "GitHub - Canto-Network/Canto at v4.0.0",
           "imageUrl": "https://opengraph.githubassets.com/99acbbab5d14821478e6d9cc3d13bede288315841a247fdf7a7e67579c925c54/Canto-Network/Canto"
         },
@@ -33,16 +53,6 @@
           "publishedOn": "2022-12-12T01:00:02.000Z",
           "wordCount": null,
           "title": "The Snowman - Walking In The Air",
-          "imageUrl": null
-        },
-        {
-          "id": "https://rarity.tools/",
-          "author": null,
-          "description": "rarity.tools",
-          "link": "https://rarity.tools/",
-          "publishedOn": "2022-12-12T00:00:08.000Z",
-          "wordCount": 39,
-          "title": "rarity.tools",
           "imageUrl": null
         },
         {
@@ -64,16 +74,6 @@
           "wordCount": 10502,
           "title": "MEV Driven Centralization in Ethereum: Part 2",
           "imageUrl": "https://miro.medium.com/max/1200/0*_nKoUma7fInCmClg"
-        },
-        {
-          "id": "https://github.com/orgs/solana-labs/projects/4",
-          "author": null,
-          "description": "Build software better, together",
-          "link": "https://github.com/orgs/solana-labs/projects/4",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 390,
-          "title": "Build software better, together",
-          "imageUrl": "https://github.githubassets.com/images/modules/open_graph/github-logo.png"
         },
         {
           "id": "https://bitcoinmagazine.com/legal/eu-to-force-crypto-reports-of-user-holdings",
@@ -111,7 +111,7 @@
           "description": "MEV's new chapter: Beyond Ethereum's borders",
           "link": "https://doseofdefi.substack.com/p/mevs-new-chapter-beyond-ethereums?utm_source=twitter&utm_campaign=auto_share",
           "publishedOn": "2022-12-11T18:00:04.000Z",
-          "wordCount": 4316,
+          "wordCount": 4522,
           "title": "MEV's new chapter: Beyond Ethereum's borders",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c6aa25a-b95d-4cad-a500-c219f1bfa04c_1240x550.png"
         },
@@ -121,7 +121,7 @@
           "description": "r/ethfinance - Comment by u/Stobie on ”Daily General Discussion - December 10, 2022”",
           "link": "https://www.reddit.com/r/ethfinance/comments/zhkjjk/comment/izn3rn1/",
           "publishedOn": "2022-12-11T17:00:02.000Z",
-          "wordCount": 17830,
+          "wordCount": 17829,
           "title": "r/ethfinance - Comment by u/Stobie on ”Daily General Discussion - December 10, 2022”",
           "imageUrl": "https://external-preview.redd.it/rDtf2HlOkCY9eLTRpP6EbfGDCTrWAEF2i2kI-eHRyU0.jpg?auto=webp&s=d76fddd62a5cf13b45b7e29819a85b4aaf6caf4d"
         },
@@ -181,9 +181,9 @@
           "description": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
           "link": "https://github.com/0xngmi/metamask-extension/tree/Version-v10.22.23",
           "publishedOn": "2022-12-11T03:00:04.000Z",
-          "wordCount": 1651,
+          "wordCount": 2030,
           "title": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
-          "imageUrl": "https://opengraph.githubassets.com/1b2db6da2245ff825a9968fee2a4fc6c2a9a98ab8e4623f528691eea9cf633b5/0xngmi/metamask-extension"
+          "imageUrl": "https://opengraph.githubassets.com/8e9b532cab71de25b5e09a4f782fa339edafaf4a34838070e2bfd6bb56042883/0xngmi/metamask-extension"
         },
         {
           "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
