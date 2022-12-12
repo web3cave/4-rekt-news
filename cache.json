@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://meridian.mercury.com/",
+          "author": null,
+          "description": "Meridian | A Magazine by Mercury",
+          "link": "https://meridian.mercury.com/",
+          "publishedOn": "2022-12-12T20:30:02.000Z",
+          "wordCount": 32047,
+          "title": "Meridian | A Magazine by Mercury",
+          "imageUrl": "https://cdn.sanity.io/images/dam1mtb1/production/c244817cb092aa4dcf49cbd2b6ee36b0d6ac6618-1120x628.png?rect=0,22,1120,585&w=1200&h=627&fit=max&auto=format"
+        },
+        {
           "id": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "author": null,
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
@@ -26,12 +36,22 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
         },
         {
+          "id": "https://www.youtube.com/watch?v=yWp4fq9pH88&feature=youtu.be",
+          "author": null,
+          "description": "Felix Zulauf Webinar with Arthur Hayes and Moderator Laura Shin Recorded November 29, 2022",
+          "link": "https://www.youtube.com/watch?v=yWp4fq9pH88&feature=youtu.be",
+          "publishedOn": "2022-12-12T19:30:05.000Z",
+          "wordCount": null,
+          "title": "Felix Zulauf Webinar with Arthur Hayes and Moderator Laura Shin Recorded November 29, 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://nymag.com/intelligencer/2022/12/5-takeaways-from-three-arrows-capitals-bankruptcy-hearing.html",
           "author": null,
           "description": "5 Takeaways From Three Arrows Capital’s New York Bankruptcy Hearing",
           "link": "https://nymag.com/intelligencer/2022/12/5-takeaways-from-three-arrows-capitals-bankruptcy-hearing.html",
           "publishedOn": "2022-12-12T19:00:02.000Z",
-          "wordCount": 29315,
+          "wordCount": 29319,
           "title": "5 Takeaways From Three Arrows Capital’s New York Bankruptcy Hearing",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/454/d9e/b8784859ba469ae1e804a7f1c8a3da65a8-GettyImages-526668164.1x.rsocial.w1200.jpg"
         },
@@ -61,7 +81,7 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-12-12T19:00:02.000Z",
-          "wordCount": 36782,
+          "wordCount": 36786,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
         },
@@ -74,6 +94,16 @@
           "wordCount": 2714,
           "title": "Stader x Ethereum: Our Vision",
           "imageUrl": "https://miro.medium.com/max/1200/1*UugBx2TUsB49JWmpAFWOtg.png"
+        },
+        {
+          "id": "https://vimeo.com/manage/videos/778950575",
+          "author": null,
+          "description": "Vimeo",
+          "link": "https://vimeo.com/manage/videos/778950575",
+          "publishedOn": "2022-12-12T17:00:03.000Z",
+          "wordCount": 1544,
+          "title": "Vimeo",
+          "imageUrl": null
         },
         {
           "id": "https://www.reuters.com/markets/us/us-justice-dept-is-split-over-charging-binance-crypto-world-falters-sources-2022-12-12/",
@@ -136,16 +166,6 @@
           "imageUrl": "https://opengraph.githubassets.com/9abacd924045bbb0321a5adbc7e68be9cbb9a983913ec05809e8e27a1b4bbc60/ethereum/pm/issues/450"
         },
         {
-          "id": "https://vitalik.eth.limo/general/2022/12/05/excited.html",
-          "author": null,
-          "description": "What in the Ethereum application ecosystem excites me",
-          "link": "https://vitalik.eth.limo/general/2022/12/05/excited.html",
-          "publishedOn": "2022-12-12T05:00:02.000Z",
-          "wordCount": 5766,
-          "title": "What in the Ethereum application ecosystem excites me",
-          "imageUrl": null
-        },
-        {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.mowd.157028/gov.uscourts.mowd.157028.80.0.pdf",
           "author": null,
           "description": "[PDF] gov.uscourts.mowd.157028.80.0.pdf",
@@ -161,19 +181,9 @@
           "description": "The Four Horsemen of the Cryptocalypse",
           "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
           "publishedOn": "2022-12-12T01:30:05.000Z",
-          "wordCount": 19367,
+          "wordCount": 20030,
           "title": "The Four Horsemen of the Cryptocalypse",
           "imageUrl": "https://www.coindesk.com/resizer/gO2ABcnnEAj1DeMjh9wLQmshmpA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEUVMG6PDJAB5LLOHQOFF5G3PI.png"
-        },
-        {
-          "id": "https://github.com/MetaMask/metamask-extension/pull/16767",
-          "author": null,
-          "description": "Privacy - Allow users to set a custom RPC from the onboarding process by darkwing · Pull Request #16767 ·...",
-          "link": "https://github.com/MetaMask/metamask-extension/pull/16767",
-          "publishedOn": "2022-12-12T00:00:08.000Z",
-          "wordCount": 1538,
-          "title": "Privacy - Allow users to set a custom RPC from the onboarding process by darkwing · Pull Request #16767 ·...",
-          "imageUrl": "https://opengraph.githubassets.com/8f22526cebb7adb7a96dd947bd37e38cacc2ecc8ea1a394d6e6f881e489ff35c/MetaMask/metamask-extension/pull/16767"
         },
         {
           "id": "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7",
@@ -181,7 +191,7 @@
           "description": "US scientists boost clean power hopes with fusion energy breakthrough",
           "link": "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7",
           "publishedOn": "2022-12-11T19:30:04.000Z",
-          "wordCount": 1606,
+          "wordCount": 1605,
           "title": "US scientists boost clean power hopes with fusion energy breakthrough",
           "imageUrl": null
         },
@@ -194,16 +204,6 @@
           "wordCount": null,
           "title": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/",
-          "author": null,
-          "description": "Anti-money laundering: Council agrees its position on a strengthened rulebook",
-          "link": "https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/",
-          "publishedOn": "2022-12-10T15:00:02.000Z",
-          "wordCount": 1713,
-          "title": "Anti-money laundering: Council agrees its position on a strengthened rulebook",
-          "imageUrl": "https://www.consilium.europa.eu/media/60608/20221207-anti-money-laundering-press-release.png"
         }
       ]
     }
