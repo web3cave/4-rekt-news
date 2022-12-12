@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
+          "author": null,
+          "description": "The Four Horsemen of the Cryptocalypse",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/05/do-kwon-su-zhu-alex-mashinsky-stephen-ehrlich-most-influential-2022/",
+          "publishedOn": "2022-12-12T01:30:05.000Z",
+          "wordCount": 25210,
+          "title": "The Four Horsemen of the Cryptocalypse",
+          "imageUrl": "https://www.coindesk.com/resizer/gO2ABcnnEAj1DeMjh9wLQmshmpA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEUVMG6PDJAB5LLOHQOFF5G3PI.png"
+        },
+        {
+          "id": "https://github.com/Canto-Network/Canto/tree/v4.0.0",
+          "author": null,
+          "description": "GitHub - Canto-Network/Canto at v4.0.0",
+          "link": "https://github.com/Canto-Network/Canto/tree/v4.0.0",
+          "publishedOn": "2022-12-12T01:00:02.000Z",
+          "wordCount": 1385,
+          "title": "GitHub - Canto-Network/Canto at v4.0.0",
+          "imageUrl": "https://opengraph.githubassets.com/99acbbab5d14821478e6d9cc3d13bede288315841a247fdf7a7e67579c925c54/Canto-Network/Canto"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=upH1QZU4Z0Y&feature=youtu.be",
+          "author": null,
+          "description": "The Snowman - Walking In The Air",
+          "link": "https://www.youtube.com/watch?v=upH1QZU4Z0Y&feature=youtu.be",
+          "publishedOn": "2022-12-12T01:00:02.000Z",
+          "wordCount": null,
+          "title": "The Snowman - Walking In The Air",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rarity.tools/",
+          "author": null,
+          "description": "rarity.tools",
+          "link": "https://rarity.tools/",
+          "publishedOn": "2022-12-12T00:00:08.000Z",
+          "wordCount": 39,
+          "title": "rarity.tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/MetaMask/metamask-extension/pull/16767",
+          "author": null,
+          "description": "Privacy - Allow users to set a custom RPC from the onboarding process by darkwing · Pull Request #16767 ·...",
+          "link": "https://github.com/MetaMask/metamask-extension/pull/16767",
+          "publishedOn": "2022-12-12T00:00:08.000Z",
+          "wordCount": 1538,
+          "title": "Privacy - Allow users to set a custom RPC from the onboarding process by darkwing · Pull Request #16767 ·...",
+          "imageUrl": "https://opengraph.githubassets.com/8f22526cebb7adb7a96dd947bd37e38cacc2ecc8ea1a394d6e6f881e489ff35c/MetaMask/metamask-extension/pull/16767"
+        },
+        {
           "id": "https://simbro.medium.com/mev-driven-centralization-in-ethereum-part-2-97e4cb612e69",
           "author": null,
           "description": "MEV Driven Centralization in Ethereum: Part 2",
@@ -16,16 +66,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*_nKoUma7fInCmClg"
         },
         {
-          "id": "https://www.aimi.fm/",
-          "author": null,
-          "description": "Aimi.fm",
-          "link": "https://www.aimi.fm/",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 488,
-          "title": "Aimi.fm",
-          "imageUrl": "https://d3k85nwvn5w8cq.cloudfront.net/images/rectangle-2-v2022-11-28.png"
-        },
-        {
           "id": "https://github.com/orgs/solana-labs/projects/4",
           "author": null,
           "description": "Build software better, together",
@@ -34,26 +74,6 @@
           "wordCount": 390,
           "title": "Build software better, together",
           "imageUrl": "https://github.githubassets.com/images/modules/open_graph/github-logo.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/chips-center-stage-businesses-manage-risks-and-countries-manage-rivalries",
-          "author": null,
-          "description": "Chips Take Center-Stage As Businesses Manage Risks And Countries Manage Rivalries  | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/chips-center-stage-businesses-manage-risks-and-countries-manage-rivalries",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 1067,
-          "title": "Chips Take Center-Stage As Businesses Manage Risks And Countries Manage Rivalries  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/technology/morgan-stanley-what-will-drive-next-phase-esg-research",
-          "author": null,
-          "description": "Morgan Stanley On What Will Drive The Next Phase Of ESG Research | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/morgan-stanley-what-will-drive-next-phase-esg-research",
-          "publishedOn": "2022-12-11T23:00:03.000Z",
-          "wordCount": 1293,
-          "title": "Morgan Stanley On What Will Drive The Next Phase Of ESG Research | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://bitcoinmagazine.com/legal/eu-to-force-crypto-reports-of-user-holdings",
@@ -71,7 +91,7 @@
           "description": "US scientists boost clean power hopes with fusion energy breakthrough",
           "link": "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7",
           "publishedOn": "2022-12-11T19:30:04.000Z",
-          "wordCount": 1635,
+          "wordCount": 1636,
           "title": "US scientists boost clean power hopes with fusion energy breakthrough",
           "imageUrl": null
         },
@@ -101,7 +121,7 @@
           "description": "r/ethfinance - Comment by u/Stobie on ”Daily General Discussion - December 10, 2022”",
           "link": "https://www.reddit.com/r/ethfinance/comments/zhkjjk/comment/izn3rn1/",
           "publishedOn": "2022-12-11T17:00:02.000Z",
-          "wordCount": 17829,
+          "wordCount": 17830,
           "title": "r/ethfinance - Comment by u/Stobie on ”Daily General Discussion - December 10, 2022”",
           "imageUrl": "https://external-preview.redd.it/rDtf2HlOkCY9eLTRpP6EbfGDCTrWAEF2i2kI-eHRyU0.jpg?auto=webp&s=d76fddd62a5cf13b45b7e29819a85b4aaf6caf4d"
         },
@@ -114,16 +134,6 @@
           "wordCount": null,
           "title": "The Daily Gwei AMA Series #16 - 11th of December, 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/sartoshi.eth/LFPG-0kOU1IIHBKw8d4SthlCwEpQZMtwmv4YgBQ1pL4",
-          "author": null,
-          "description": "sartoshi_rip",
-          "link": "https://mirror.xyz/sartoshi.eth/LFPG-0kOU1IIHBKw8d4SthlCwEpQZMtwmv4YgBQ1pL4",
-          "publishedOn": "2022-12-11T17:00:02.000Z",
-          "wordCount": 1740,
-          "title": "sartoshi_rip",
-          "imageUrl": "https://mirror-media.imgix.net/nft/qvNfGxXSzgW_gEakNkmGN.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://www.youtube.com/watch?v=xWZYYWzGDP8",
@@ -141,7 +151,7 @@
           "description": "Binance locks withdrawals for some accounts amid what CEO calls 'just market behavior'",
           "link": "https://www.theblock.co/post/193926/binance-locked-withdrawals-just-market-behavior?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-11T14:00:03.000Z",
-          "wordCount": 60590,
+          "wordCount": 61511,
           "title": "Binance locks withdrawals for some accounts amid what CEO calls 'just market behavior'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221110_Binance-1200x675.jpg"
         },
@@ -166,16 +176,6 @@
           "imageUrl": "https://carmelitegothic.com/wp-content/uploads/2022/05/carmelite-gothic-cnc1.jpg"
         },
         {
-          "id": "https://www.notonlyowner.com/research/message-traps-in-the-arbitrum-bridge",
-          "author": null,
-          "description": "Notonlyowner | Message traps in the Arbitrum bridge",
-          "link": "https://www.notonlyowner.com/research/message-traps-in-the-arbitrum-bridge",
-          "publishedOn": "2022-12-11T05:00:03.000Z",
-          "wordCount": 2948,
-          "title": "Notonlyowner | Message traps in the Arbitrum bridge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/0xngmi/metamask-extension/tree/Version-v10.22.23",
           "author": null,
           "description": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
@@ -183,7 +183,7 @@
           "publishedOn": "2022-12-11T03:00:04.000Z",
           "wordCount": 1651,
           "title": "GitHub - 0xngmi/metamask-extension at Version-v10.22.23",
-          "imageUrl": "https://opengraph.githubassets.com/77f4fd6d8332d138890a770c48eb3975866530e40e57eb1500cffe24f054889f/0xngmi/metamask-extension"
+          "imageUrl": "https://opengraph.githubassets.com/1b2db6da2245ff825a9968fee2a4fc6c2a9a98ab8e4623f528691eea9cf633b5/0xngmi/metamask-extension"
         },
         {
           "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
