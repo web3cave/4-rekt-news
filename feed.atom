@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-13T03:26:42.782Z</id>
+    <id>urn:2022-12-13T04:23:39.149Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-13T03:26:42.782Z</updated>
+    <updated>2022-12-13T04:23:39.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,6 +126,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The CoW has no limits 📈]]></title>
+        <id>https://cow-protocol.medium.com/342e7eae8794</id>
+        <link href="https://cow-protocol.medium.com/342e7eae8794"/>
+        <updated>2022-12-12T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The CoW has no limits 📈]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vimeo]]></title>
         <id>https://vimeo.com/manage/videos/778950575</id>
         <link href="https://vimeo.com/manage/videos/778950575"/>
@@ -156,11 +166,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Client Diversity | Ethereum]]></title>
-        <id>https://clientdiversity.org/</id>
-        <link href="https://clientdiversity.org/"/>
-        <updated>2022-12-12T12:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Client Diversity | Ethereum]]></summary>
+        <title type="html"><![CDATA[KZG Summoning Ceremony]]></title>
+        <id>https://ceremony.ethereum.org/</id>
+        <link href="https://ceremony.ethereum.org/"/>
+        <updated>2022-12-12T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[KZG Summoning Ceremony]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -171,16 +181,6 @@
         <link href="https://notes.ethereum.org/@CarlBeek/kzg_ceremony_timelines"/>
         <updated>2022-12-12T11:00:01.000Z</updated>
         <summary type="html"><![CDATA[Ethereum Summoning Ceremony Timelines - HackMD]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KZG Summoning Ceremony]]></title>
-        <id>https://ceremony.ethereum.org/</id>
-        <link href="https://ceremony.ethereum.org/"/>
-        <updated>2022-12-12T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[KZG Summoning Ceremony]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
