@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fKy186iG-dI",
+          "author": null,
+          "description": "Crypto in 2022: CONTAGION and FRAUD",
+          "link": "https://www.youtube.com/watch?v=fKy186iG-dI",
+          "publishedOn": "2022-12-13T19:00:03.000Z",
+          "wordCount": null,
+          "title": "Crypto in 2022: CONTAGION and FRAUD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sec.gov/news/speech/peirce-remarks-american-enterprise-institute-120722",
           "author": null,
           "description": "SEC.gov | It’s Not Just Scope 3: Remarks at the American Enterprise Institute",
@@ -21,7 +31,7 @@
           "description": "US scientists boost clean power hopes with fusion energy breakthrough",
           "link": "https://www.ft.com/content/4b6f0fab-66ef-4e33-adec-cfc345589dc7",
           "publishedOn": "2022-12-13T17:00:03.000Z",
-          "wordCount": 1631,
+          "wordCount": 1627,
           "title": "US scientists boost clean power hopes with fusion energy breakthrough",
           "imageUrl": null
         },
@@ -41,7 +51,7 @@
           "description": "Keeping Up with the Bankman-Frieds",
           "link": "https://puck.news/keeping-up-with-the-bankman-frieds/",
           "publishedOn": "2022-12-13T16:30:02.000Z",
-          "wordCount": 3811,
+          "wordCount": 3810,
           "title": "Keeping Up with the Bankman-Frieds",
           "imageUrl": "https://puck.news/wp-content/uploads/2022/06/GettyImages-1240624212-scaled-e1655242092157.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/",
           "publishedOn": "2022-12-13T11:00:03.000Z",
-          "wordCount": 10176,
+          "wordCount": 9448,
           "title": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63981f993dfa3216827ab5dd/0x0.jpg?format=jpg&crop=1099,619,x0,y63,safe&width=1200"
-        },
-        {
-          "id": "https://www.theblock.co/post/194398/binance-ceo-usdc-outflow?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Binance CEO addresses USDC outflows: 'feel free to withdraw any other stablecoin'",
-          "link": "https://www.theblock.co/post/194398/binance-ceo-usdc-outflow?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-12-13T11:00:03.000Z",
-          "wordCount": 64731,
-          "title": "Binance CEO addresses USDC outflows: 'feel free to withdraw any other stablecoin'",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221110_Binance2-1200x675.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=6x7s5oZk_fo&feature=youtu.be",
@@ -171,7 +171,7 @@
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "link": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "publishedOn": "2022-12-12T19:30:05.000Z",
-          "wordCount": 7482,
+          "wordCount": 7276,
           "title": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
         },
@@ -181,7 +181,7 @@
           "description": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "link": "https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html",
           "publishedOn": "2022-12-12T19:00:02.000Z",
-          "wordCount": 36727,
+          "wordCount": 36719,
           "title": "The Crypto Geniuses Who Vaporized a Trillion Dollars",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/5ee/06f/f13a5fd48a508a37a64b0dedfcdbd004ac-3AC-lede.1x.rsocial.w1200.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "The CoW has no limits 📈",
           "link": "https://cow-protocol.medium.com/the-cow-has-no-limits-342e7eae8794",
           "publishedOn": "2022-12-12T17:30:05.000Z",
-          "wordCount": 2842,
+          "wordCount": 2570,
           "title": "The CoW has no limits 📈",
           "imageUrl": "https://miro.medium.com/max/1200/1*X2AAhIEm3j1stD85d6W12Q.png"
         },
