@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/news/press-release/2022-218",
+          "author": null,
+          "description": "SEC.gov | SEC Awards More Than $20 Million to Whistleblower",
+          "link": "https://www.sec.gov/news/press-release/2022-218",
+          "publishedOn": "2022-12-13T23:00:02.000Z",
+          "wordCount": 1551,
+          "title": "SEC.gov | SEC Awards More Than $20 Million to Whistleblower",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.meetup.com/sf-ethereum-developers/events/290178548/",
           "author": null,
           "description": "Rai with Ameen Soleimani + SKALE + Year in Review Panel, Tue, Dec 13, 2022, 5:30 PM   | Meetup",
@@ -56,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/c/UnchainedPodcast",
+          "author": null,
+          "description": "Unchained Podcast - YouTube",
+          "link": "https://www.youtube.com/c/UnchainedPodcast",
+          "publishedOn": "2022-12-13T19:30:05.000Z",
+          "wordCount": 7093,
+          "title": "Unchained Podcast - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/XwJuXQ1tAnbsPIiGNnQNNVHsg7Eo4RTUJKY0ZRF9RJUq0GQc1v6gDKm_o7-4NZOGxfNmR8bs=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fKy186iG-dI",
           "author": null,
           "description": "Crypto in 2022: CONTAGION and FRAUD",
@@ -86,10 +106,10 @@
           "imageUrl": "https://puck.news/wp-content/uploads/2022/06/GettyImages-1240624212-scaled-e1655242092157.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=rWAnrigAO3I&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=rWAnrigAO3I",
           "author": null,
           "description": "Investigating the Collapse of FTX, Part I (EventID=115246)",
-          "link": "https://www.youtube.com/watch?v=rWAnrigAO3I&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=rWAnrigAO3I",
           "publishedOn": "2022-12-13T16:30:02.000Z",
           "wordCount": null,
           "title": "Investigating the Collapse of FTX, Part I (EventID=115246)",
@@ -146,26 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://variant.fund/articles/investing-in-dimo-the-user-owned-mobility-network/",
-          "author": null,
-          "description": "Investing in DIMO: The User-Owned Mobility Network – Variant",
-          "link": "https://variant.fund/articles/investing-in-dimo-the-user-owned-mobility-network/",
-          "publishedOn": "2022-12-13T03:00:03.000Z",
-          "wordCount": 1595,
-          "title": "Investing in DIMO: The User-Owned Mobility Network – Variant",
-          "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
-        },
-        {
-          "id": "https://ethereumnodes.com/",
-          "author": null,
-          "description": "Ethereum Nodes",
-          "link": "https://ethereumnodes.com/",
-          "publishedOn": "2022-12-12T23:30:05.000Z",
-          "wordCount": 1045,
-          "title": "Ethereum Nodes",
-          "imageUrl": "https://ethereumnodes.com/api/screenshot"
-        },
-        {
           "id": "https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-rayj-20221213.pdf",
           "author": null,
           "description": "[PDF] hhrg-117-ba00-wstate-rayj-20221213.pdf",
@@ -191,7 +191,7 @@
           "description": "The CoW has no limits 📈",
           "link": "https://cow-protocol.medium.com/the-cow-has-no-limits-342e7eae8794",
           "publishedOn": "2022-12-12T17:30:05.000Z",
-          "wordCount": 2842,
+          "wordCount": 2570,
           "title": "The CoW has no limits 📈",
           "imageUrl": "https://miro.medium.com/max/1200/1*X2AAhIEm3j1stD85d6W12Q.png"
         },
