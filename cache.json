@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h2GHH1bUGWI&feature=youtu.be",
+          "author": null,
+          "description": "Everything You Need to Know About DAO Treasury Management with Tally x 1kx",
+          "link": "https://www.youtube.com/watch?v=h2GHH1bUGWI&feature=youtu.be",
+          "publishedOn": "2022-12-14T20:00:07.000Z",
+          "wordCount": null,
+          "title": "Everything You Need to Know About DAO Treasury Management with Tally x 1kx",
+          "imageUrl": null
+        },
+        {
+          "id": "https://assets.stacks.co/sbtc.pdf",
+          "author": null,
+          "description": "[PDF] sbtc.pdf",
+          "link": "https://assets.stacks.co/sbtc.pdf",
+          "publishedOn": "2022-12-14T19:00:03.000Z",
+          "wordCount": 6623,
+          "title": "[PDF] sbtc.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nobsbitcoin.com/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/",
           "author": null,
           "description": "The Digital Asset Anti-Money Laundering Act Announced Today in US Senate: Requires Devs to Register Identity and...",
@@ -51,7 +71,7 @@
           "description": "Crypto Crash: Why the FTX Bubble Burst and the Harm to Consumers | United States Committee on Banking, Housing, and...",
           "link": "https://www.banking.senate.gov/hearings/crypto-crash-why-the-ftx-bubble-burst-and-the-harm-to-consumers",
           "publishedOn": "2022-12-14T16:30:03.000Z",
-          "wordCount": 1957,
+          "wordCount": 1948,
           "title": "Crypto Crash: Why the FTX Bubble Burst and the Harm to Consumers | United States Committee on Banking, Housing, and...",
           "imageUrl": "https://www.banking.senate.gov/themes/banking/images/sharelogo.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "The rise and fall of peer review",
           "link": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
           "publishedOn": "2022-12-14T15:00:03.000Z",
-          "wordCount": 8863,
+          "wordCount": 8857,
           "title": "The rise and fall of peer review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F24ab2184-c024-44c5-81cc-4bc14851b965_1762x1173.jpeg"
         },
@@ -121,7 +141,7 @@
           "description": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "link": "https://www.coindesk.com/business/2022/12/13/inside-sam-bankman-frieds-first-hearing-after-his-arrest/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2022-12-14T01:00:02.000Z",
-          "wordCount": 21462,
+          "wordCount": 21566,
           "title": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "imageUrl": "https://www.coindesk.com/resizer/Onjd0Qobae2ev_O7Ymtffea4mTM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AFNI2R64CREB5JQAEYI7TMDXYI.jpg"
         },
@@ -134,6 +154,16 @@
           "wordCount": 7236,
           "title": "TEE-based Smart Contracts and Sealing Pitfalls",
           "imageUrl": "https://miro.medium.com/max/1200/1*2XGZjtvxJCUKDVQZk7vllg.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Mq4oBCF78fk&feature=youtu.be",
+          "author": null,
+          "description": "The Chopping Block LIVE!",
+          "link": "https://www.youtube.com/watch?v=Mq4oBCF78fk&feature=youtu.be",
+          "publishedOn": "2022-12-14T01:00:02.000Z",
+          "wordCount": null,
+          "title": "The Chopping Block LIVE!",
+          "imageUrl": null
         },
         {
           "id": "https://www.sec.gov/news/press-release/2022-218",
@@ -151,7 +181,7 @@
           "description": "Exclusive: How a secret software change allowed FTX to use client money",
           "link": "https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/",
           "publishedOn": "2022-12-13T23:00:02.000Z",
-          "wordCount": 6290,
+          "wordCount": 6261,
           "title": "Exclusive: How a secret software change allowed FTX to use client money",
           "imageUrl": "https://www.reuters.com/resizer/8gBJEoCC1GaxZoMG3GaQ4KhbQz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQEXMEIJYNM3JBMME5F3VPBWVU.jpg"
         },
@@ -173,36 +203,6 @@
           "publishedOn": "2022-12-13T20:00:05.000Z",
           "wordCount": 20595,
           "title": "[PDF] gov.uscourts.cand.404947.1.0.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://open.spotify.com/episode/2xEABrLTv97v829xWIZzDL?si=5aa02070e48a499d",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/2xEABrLTv97v829xWIZzDL?si=5aa02070e48a499d",
-          "publishedOn": "2022-12-13T19:00:03.000Z",
-          "wordCount": 307,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a3f6f7e545d7dc62fb1f4fded"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A_d_NtsyDtE&feature=youtu.be",
-          "author": null,
-          "description": "The Crypto Wallet War is coming | E08",
-          "link": "https://www.youtube.com/watch?v=A_d_NtsyDtE&feature=youtu.be",
-          "publishedOn": "2022-12-13T19:00:03.000Z",
-          "wordCount": null,
-          "title": "The Crypto Wallet War is coming | E08",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf",
-          "author": null,
-          "description": "[PDF] comp-pr2022-219.pdf",
-          "link": "https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf",
-          "publishedOn": "2022-12-13T12:30:02.000Z",
-          "wordCount": 7821,
-          "title": "[PDF] comp-pr2022-219.pdf",
           "imageUrl": null
         }
       ]
