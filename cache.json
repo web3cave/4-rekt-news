@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=h2GHH1bUGWI&feature=youtu.be",
-          "author": null,
-          "description": "Everything You Need to Know About DAO Treasury Management with Tally x 1kx",
-          "link": "https://www.youtube.com/watch?v=h2GHH1bUGWI&feature=youtu.be",
-          "publishedOn": "2022-12-14T20:00:07.000Z",
-          "wordCount": null,
-          "title": "Everything You Need to Know About DAO Treasury Management with Tally x 1kx",
-          "imageUrl": null
-        },
-        {
           "id": "https://assets.stacks.co/sbtc.pdf",
           "author": null,
           "description": "[PDF] sbtc.pdf",
@@ -91,9 +81,19 @@
           "description": "The rise and fall of peer review",
           "link": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
           "publishedOn": "2022-12-14T15:00:03.000Z",
-          "wordCount": 8857,
+          "wordCount": 8861,
           "title": "The rise and fall of peer review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F24ab2184-c024-44c5-81cc-4bc14851b965_1762x1173.jpeg"
+        },
+        {
+          "id": "https://www.piratewires.com/p/the-fifth-estate",
+          "author": null,
+          "description": "The Fifth Estate",
+          "link": "https://www.piratewires.com/p/the-fifth-estate",
+          "publishedOn": "2022-12-14T12:00:05.000Z",
+          "wordCount": 5939,
+          "title": "The Fifth Estate",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F129f5f92-6608-439b-9eb1-7b6cda416b94_1200x628.jpeg"
         },
         {
           "id": "https://arstechnica.com/gadgets/2022/12/report-apple-engineers-are-working-on-third-party-app-store-support-in-ios/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social",
@@ -116,6 +116,26 @@
           "imageUrl": "https://miro.medium.com/max/1200/0*w0294U_3lCjowk4t"
         },
         {
+          "id": "https://newsletter.banklesshq.com/p/is-web3-bad-for-the-world",
+          "author": null,
+          "description": "Is Web3 Bad for the World?",
+          "link": "https://newsletter.banklesshq.com/p/is-web3-bad-for-the-world",
+          "publishedOn": "2022-12-14T07:00:03.000Z",
+          "wordCount": 6006,
+          "title": "Is Web3 Bad for the World?",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55858eb-733f-4347-8ff7-f0e5d771238f_2024x1139.jpeg"
+        },
+        {
+          "id": "https://app.aura.finance/",
+          "author": null,
+          "description": "Aura Finance",
+          "link": "https://app.aura.finance/",
+          "publishedOn": "2022-12-14T03:30:04.000Z",
+          "wordCount": 61,
+          "title": "Aura Finance",
+          "imageUrl": null
+        },
+        {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.1899118/gov.uscourts.txsd.1899118.1.0.pdf",
           "author": null,
           "description": "[PDF] gov.uscourts.txsd.1899118.1.0.pdf",
@@ -136,16 +156,6 @@
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/668/283/original/issue_image_1503112.jpg?1670939808"
         },
         {
-          "id": "https://www.coindesk.com/business/2022/12/13/inside-sam-bankman-frieds-first-hearing-after-his-arrest/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
-          "author": null,
-          "description": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
-          "link": "https://www.coindesk.com/business/2022/12/13/inside-sam-bankman-frieds-first-hearing-after-his-arrest/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
-          "publishedOn": "2022-12-14T01:00:02.000Z",
-          "wordCount": 21566,
-          "title": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
-          "imageUrl": "https://www.coindesk.com/resizer/Onjd0Qobae2ev_O7Ymtffea4mTM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AFNI2R64CREB5JQAEYI7TMDXYI.jpg"
-        },
-        {
           "id": "https://medium.com/initc3org/tee-based-smart-contracts-and-sealing-pitfalls-eccd5d751329",
           "author": null,
           "description": "TEE-based Smart Contracts and Sealing Pitfalls",
@@ -154,16 +164,6 @@
           "wordCount": 7236,
           "title": "TEE-based Smart Contracts and Sealing Pitfalls",
           "imageUrl": "https://miro.medium.com/max/1200/1*2XGZjtvxJCUKDVQZk7vllg.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mq4oBCF78fk&feature=youtu.be",
-          "author": null,
-          "description": "The Chopping Block LIVE!",
-          "link": "https://www.youtube.com/watch?v=Mq4oBCF78fk&feature=youtu.be",
-          "publishedOn": "2022-12-14T01:00:02.000Z",
-          "wordCount": null,
-          "title": "The Chopping Block LIVE!",
-          "imageUrl": null
         },
         {
           "id": "https://www.sec.gov/news/press-release/2022-218",
@@ -181,7 +181,7 @@
           "description": "Exclusive: How a secret software change allowed FTX to use client money",
           "link": "https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/",
           "publishedOn": "2022-12-13T23:00:02.000Z",
-          "wordCount": 6261,
+          "wordCount": 6356,
           "title": "Exclusive: How a secret software change allowed FTX to use client money",
           "imageUrl": "https://www.reuters.com/resizer/8gBJEoCC1GaxZoMG3GaQ4KhbQz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQEXMEIJYNM3JBMME5F3VPBWVU.jpg"
         },
