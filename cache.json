@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ufo.mirror.xyz/",
+          "author": null,
+          "description": "UFO",
+          "link": "https://ufo.mirror.xyz/",
+          "publishedOn": "2022-12-14T17:30:05.000Z",
+          "wordCount": 3179,
+          "title": "UFO",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/JKK34ERT9-mxOkdNokUAU.jpeg?height=500&width=1500&h=500&w=1500&auto=compress"
+        },
+        {
           "id": "https://www.warren.senate.gov/imo/media/doc/DAAML%20Act%20of%202022.pdf",
           "author": null,
           "description": "[PDF] DAAML Act of 2022.pdf",
@@ -34,6 +44,16 @@
           "wordCount": 1426,
           "title": "The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self...",
           "imageUrl": "https://www.coincenter.org/app/uploads/2022/03/congress-sanctions.jpeg"
+        },
+        {
+          "id": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
+          "author": null,
+          "description": "The rise and fall of peer review",
+          "link": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
+          "publishedOn": "2022-12-14T15:00:03.000Z",
+          "wordCount": 8863,
+          "title": "The rise and fall of peer review",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F24ab2184-c024-44c5-81cc-4bc14851b965_1762x1173.jpeg"
         },
         {
           "id": "https://arstechnica.com/gadgets/2022/12/report-apple-engineers-are-working-on-third-party-app-store-support-in-ios/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social",
@@ -81,7 +101,7 @@
           "description": "a native internet protocol for social media",
           "link": "https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112",
           "publishedOn": "2022-12-14T01:00:03.000Z",
-          "wordCount": 2483,
+          "wordCount": 2183,
           "title": "a native internet protocol for social media",
           "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/668/283/original/issue_image_1503112.jpg?1670939808"
         },
@@ -91,7 +111,7 @@
           "description": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "link": "https://www.coindesk.com/business/2022/12/13/inside-sam-bankman-frieds-first-hearing-after-his-arrest/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2022-12-14T01:00:02.000Z",
-          "wordCount": 21382,
+          "wordCount": 21488,
           "title": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "imageUrl": "https://www.coindesk.com/resizer/Onjd0Qobae2ev_O7Ymtffea4mTM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AFNI2R64CREB5JQAEYI7TMDXYI.jpg"
         },
@@ -131,7 +151,7 @@
           "description": "Exclusive: How a secret software change allowed FTX to use client money",
           "link": "https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/",
           "publishedOn": "2022-12-13T23:00:02.000Z",
-          "wordCount": 6285,
+          "wordCount": 6105,
           "title": "Exclusive: How a secret software change allowed FTX to use client money",
           "imageUrl": "https://www.reuters.com/resizer/8gBJEoCC1GaxZoMG3GaQ4KhbQz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQEXMEIJYNM3JBMME5F3VPBWVU.jpg"
         },
@@ -153,16 +173,6 @@
           "publishedOn": "2022-12-13T20:00:05.000Z",
           "wordCount": 20595,
           "title": "[PDF] gov.uscourts.cand.404947.1.0.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pcm8zcEh42U&feature=youtu.be",
-          "author": null,
-          "description": "Live Coverage: U.S. House Committee Holds Hearing on FTX Collapse",
-          "link": "https://www.youtube.com/watch?v=Pcm8zcEh42U&feature=youtu.be",
-          "publishedOn": "2022-12-13T19:30:05.000Z",
-          "wordCount": null,
-          "title": "Live Coverage: U.S. House Committee Holds Hearing on FTX Collapse",
           "imageUrl": null
         },
         {
@@ -194,16 +204,6 @@
           "wordCount": 7821,
           "title": "[PDF] comp-pr2022-219.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/",
-          "author": null,
-          "description": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
-          "link": "https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/",
-          "publishedOn": "2022-12-13T11:00:03.000Z",
-          "wordCount": 9448,
-          "title": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63981f993dfa3216827ab5dd/0x0.jpg?format=jpg&crop=1099,619,x0,y63,safe&width=1200"
         }
       ]
     }
