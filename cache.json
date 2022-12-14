@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.1899118/gov.uscourts.txsd.1899118.1.0.pdf",
+          "author": null,
+          "description": "[PDF] gov.uscourts.txsd.1899118.1.0.pdf",
+          "link": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.1899118/gov.uscourts.txsd.1899118.1.0.pdf",
+          "publishedOn": "2022-12-14T01:30:04.000Z",
+          "wordCount": 29741,
+          "title": "[PDF] gov.uscourts.txsd.1899118.1.0.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/indictment-c5d38d97-6e6a-49e1-9b41-5670f24bce6d.pdf",
           "author": null,
           "description": "[PDF] indictment-c5d38d97-6e6a-49e1-9b41-5670f24bce6d.pdf",
@@ -21,7 +31,7 @@
           "description": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "link": "https://www.coindesk.com/business/2022/12/13/inside-sam-bankman-frieds-first-hearing-after-his-arrest/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2022-12-14T01:00:02.000Z",
-          "wordCount": 21354,
+          "wordCount": 21337,
           "title": "Inside Sam Bankman-Fried's First Bahamas Court Hearing After His Arrest",
           "imageUrl": "https://www.coindesk.com/resizer/Onjd0Qobae2ev_O7Ymtffea4mTM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AFNI2R64CREB5JQAEYI7TMDXYI.jpg"
         },
@@ -61,7 +71,7 @@
           "description": "Exclusive: How a secret software change allowed FTX to use client money",
           "link": "https://www.reuters.com/technology/how-secret-software-change-allowed-ftx-use-client-money-2022-12-13/",
           "publishedOn": "2022-12-13T23:00:02.000Z",
-          "wordCount": 6399,
+          "wordCount": 6535,
           "title": "Exclusive: How a secret software change allowed FTX to use client money",
           "imageUrl": "https://www.reuters.com/resizer/8gBJEoCC1GaxZoMG3GaQ4KhbQz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQEXMEIJYNM3JBMME5F3VPBWVU.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Exclusive Transcript: The Full Testimony Bankman-Fried Planned To Give To Congress",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/?sh=bc0a9103c474",
           "publishedOn": "2022-12-13T21:00:02.000Z",
-          "wordCount": 9274,
+          "wordCount": 9448,
           "title": "Exclusive Transcript: The Full Testimony Bankman-Fried Planned To Give To Congress",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63981f993dfa3216827ab5dd/0x0.jpg?format=jpg&crop=1099,619,x0,y63,safe&width=1200"
         },
@@ -171,7 +181,7 @@
           "description": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
           "link": "https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/",
           "publishedOn": "2022-12-13T11:00:03.000Z",
-          "wordCount": 10176,
+          "wordCount": 9448,
           "title": "Exclusive Transcript: The Full Testimony SBF Planned To Give To Congress",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63981f993dfa3216827ab5dd/0x0.jpg?format=jpg&crop=1099,619,x0,y63,safe&width=1200"
         },
@@ -191,19 +201,9 @@
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "link": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "publishedOn": "2022-12-12T19:30:05.000Z",
-          "wordCount": 7482,
+          "wordCount": 7276,
           "title": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
-        },
-        {
-          "id": "https://ceremony.ethereum.org/",
-          "author": null,
-          "description": "KZG Summoning Ceremony",
-          "link": "https://ceremony.ethereum.org/",
-          "publishedOn": "2022-12-12T11:00:01.000Z",
-          "wordCount": 25,
-          "title": "KZG Summoning Ceremony",
-          "imageUrl": "og-image.png"
         }
       ]
     }
