@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/2210.10601",
+          "author": null,
+          "description": "Diamonds are Forever, Loss-Versus-Rebalancing is Not",
+          "link": "https://arxiv.org/abs/2210.10601",
+          "publishedOn": "2022-12-15T09:00:03.000Z",
+          "wordCount": 644,
+          "title": "Diamonds are Forever, Loss-Versus-Rebalancing is Not",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/musk-unexpectedly-sells-36-billion-tesla-stock-last-3-days",
           "author": null,
           "description": "Musk Unexpectedly Sells $3.6 Billion In Tesla Stock In Last 3 Days | ZeroHedge",
@@ -21,7 +31,7 @@
           "description": "The decentralized CEO",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=social.tw",
           "publishedOn": "2022-12-15T05:00:03.000Z",
-          "wordCount": 1930,
+          "wordCount": 1927,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -31,7 +41,7 @@
           "description": "Sens. Warren and Marshall introduce new money-laundering legislation for crypto",
           "link": "https://cointelegraph.com/news/sens-warren-and-marshall-introduce-new-money-laundering-legislation-for-crypto",
           "publishedOn": "2022-12-15T01:30:05.000Z",
-          "wordCount": 16187,
+          "wordCount": 16237,
           "title": "Sens. Warren and Marshall introduce new money-laundering legislation for crypto",
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/4cf1edc3-27e4-45c3-abd4-958d0e689d32.jpg"
         },
@@ -83,7 +93,7 @@
           "publishedOn": "2022-12-14T22:00:05.000Z",
           "wordCount": 2668,
           "title": "Buttrfly",
-          "imageUrl": "https://lh4.googleusercontent.com/iW17DiuXOYaZV4ZZYj4hhdybQakGMnhNY8L8LzephDU1datNbZG0BISNzND88fyzX1koYfsjgwECUXwFGJgaxw=w1280"
+          "imageUrl": "https://lh5.googleusercontent.com/2FQV66KlhYJiGkubEKD_FmDQI9SnmA4lmUu9PyLMPELFFPtWhJCtPiezdNIsY7LFa1DapPD_BSen1RZyJMILXS6xQcR69NXgfr8c5kxZhNILVSv5OD_UA1FeoNAkcv8t4NuZNCRNhg=w1280"
         },
         {
           "id": "https://cointelegraph.com/news/gemini-allegedly-suffers-data-breach-5-7-million-emails-leaked",
@@ -91,7 +101,7 @@
           "description": "Gemini allegedly suffered data breach; 5.7 million emails leaked",
           "link": "https://cointelegraph.com/news/gemini-allegedly-suffers-data-breach-5-7-million-emails-leaked",
           "publishedOn": "2022-12-14T21:00:02.000Z",
-          "wordCount": 15764,
+          "wordCount": 15763,
           "title": "Gemini allegedly suffered data breach; 5.7 million emails leaked",
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/04ad0c14-1a25-42e4-8d91-77c6f0650386.jpg"
         },
@@ -133,7 +143,7 @@
           "publishedOn": "2022-12-14T18:30:02.000Z",
           "wordCount": 797,
           "title": "GitHub - m1guelpf/plz-cli: Copilot for your terminal",
-          "imageUrl": "https://opengraph.githubassets.com/6abd4134c6c918cb0b04dc258eb76b1365bcdcc50861c72cee120e6aa820c13c/m1guelpf/plz-cli"
+          "imageUrl": "https://opengraph.githubassets.com/c34297d2eba2950b187c5549c19b57c507af769595bfa830392ff87e4793b4a3/m1guelpf/plz-cli"
         },
         {
           "id": "https://ufo.mirror.xyz/",
@@ -194,16 +204,6 @@
           "wordCount": 5933,
           "title": "The Fifth Estate",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F129f5f92-6608-439b-9eb1-7b6cda416b94_1200x628.jpeg"
-        },
-        {
-          "id": "https://github.com/nostr-protocol/nostr",
-          "author": null,
-          "description": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
-          "link": "https://github.com/nostr-protocol/nostr",
-          "publishedOn": "2022-12-14T10:00:07.000Z",
-          "wordCount": 2518,
-          "title": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
-          "imageUrl": "https://opengraph.githubassets.com/24e99ed46c6fa913807941213eb6f6496d3c6527071b3dde2e736db325f96575/nostr-protocol/nostr"
         }
       ]
     }
