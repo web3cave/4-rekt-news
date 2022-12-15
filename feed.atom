@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T05:17:44.801Z</id>
+    <id>urn:2022-12-15T06:24:22.615Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T05:17:44.801Z</updated>
+    <updated>2022-12-15T06:24:22.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,16 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sensthesia by Zeblocks]]></title>
-        <id>https://mint.zeblocks.com/</id>
-        <link href="https://mint.zeblocks.com/"/>
-        <updated>2022-12-14T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Sensthesia by Zeblocks]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Buttrfly]]></title>
         <id>https://www.buttrfly.app/</id>
         <link href="https://www.buttrfly.app/"/>
@@ -131,6 +121,16 @@
         <link href="https://assets.stacks.co/sbtc.pdf"/>
         <updated>2022-12-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[[PDF] sbtc.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - m1guelpf/plz-cli: Copilot for your terminal]]></title>
+        <id>https://github.com/m1guelpf/plz-cli</id>
+        <link href="https://github.com/m1guelpf/plz-cli"/>
+        <updated>2022-12-14T18:30:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - m1guelpf/plz-cli: Copilot for your terminal]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
