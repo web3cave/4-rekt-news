@@ -41,7 +41,7 @@
           "description": "The ENS Foundation - ENS Documentation",
           "link": "https://docs.ens.domains/v/governance/the-ens-foundation",
           "publishedOn": "2022-12-16T03:00:03.000Z",
-          "wordCount": 1662,
+          "wordCount": 1666,
           "title": "The ENS Foundation - ENS Documentation",
           "imageUrl": null
         },
@@ -111,7 +111,7 @@
           "description": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "link": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
           "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 8693,
+          "wordCount": 8305,
           "title": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/Aztec_16_9_Encrypted_Ethereum.jpg"
         },
@@ -151,7 +151,7 @@
           "description": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "link": "https://www.theblock.co/post/194878/qcp-capital-ftx-exposure",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 61354,
+          "wordCount": 61890,
           "title": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -166,24 +166,34 @@
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/Coins-Ethereum-10.jpg?resize=1200,600"
         },
         {
+          "id": "https://zk.money/",
+          "author": null,
+          "description": "zk.money",
+          "link": "https://zk.money/",
+          "publishedOn": "2022-12-15T21:00:02.000Z",
+          "wordCount": 10,
+          "title": "zk.money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.washingtonpost.com/politics/2022/12/14/abortion-pills-bans-dobbs-roe/",
+          "author": null,
+          "description": "Antiabortion movement sets sights on putting people in jail",
+          "link": "https://www.washingtonpost.com/politics/2022/12/14/abortion-pills-bans-dobbs-roe/",
+          "publishedOn": "2022-12-15T19:00:02.000Z",
+          "wordCount": 11307,
+          "title": "Antiabortion movement sets sights on putting people in jail",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OYA72GRZXZTRW3P2EONSVM3WPU.JPG&w=1440"
+        },
+        {
           "id": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "author": null,
           "description": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "link": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 3580,
+          "wordCount": 3579,
           "title": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/united-nations-crypto-donations-ukraine-refugees-e1671051861934.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://www.theblock.co/post/195314/microsoft-prohibits-crypto-mining-on-online-services-without-permission?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Microsoft prohibits crypto mining on online services without permission",
-          "link": "https://www.theblock.co/post/195314/microsoft-prohibits-crypto-mining-on-online-services-without-permission?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 61002,
-          "title": "Microsoft prohibits crypto mining on online services without permission",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/microsoft-3-1200x675.jpg"
         },
         {
           "id": "https://redphone.substack.com/p/69-theses-for-2023",
@@ -194,16 +204,6 @@
           "wordCount": 1571,
           "title": "69 Theses for 2023",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
-        },
-        {
-          "id": "https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/",
-          "author": null,
-          "description": "The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self...",
-          "link": "https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/",
-          "publishedOn": "2022-12-14T16:30:02.000Z",
-          "wordCount": 1426,
-          "title": "The Digital Asset Anti-Money Laundering Act is an opportunistic, unconstitutional assault on cryptocurrency self...",
-          "imageUrl": "https://www.coincenter.org/app/uploads/2022/03/congress-sanctions.jpeg"
         }
       ]
     }
