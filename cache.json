@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.riffusion.com/about",
+          "author": null,
+          "description": "Riffusion",
+          "link": "https://www.riffusion.com/about",
+          "publishedOn": "2022-12-16T01:00:04.000Z",
+          "wordCount": 1489,
+          "title": "Riffusion",
+          "imageUrl": "https://i.imgur.com/fywZpQ7.jpeg"
+        },
+        {
           "id": "https://www.euler.finance/blog/researching-euler",
           "author": null,
           "description": "Researching Euler",
@@ -16,6 +26,16 @@
           "imageUrl": "https://euler-finance.ghost.io/content/images/2022/12/Screenshot-2022-12-06-at-5.11.06-PM.png"
         },
         {
+          "id": "https://a16zcrypto.com/big-ideas-2023/",
+          "author": null,
+          "description": "A few of the things we’re excited about in crypto",
+          "link": "https://a16zcrypto.com/big-ideas-2023/",
+          "publishedOn": "2022-12-15T21:30:06.000Z",
+          "wordCount": 2325,
+          "title": "A few of the things we’re excited about in crypto",
+          "imageUrl": null
+        },
+        {
           "id": "https://venturebeat.com/games/futureverse-merges-8-web3-companies-to-create-an-open-metaverse-ecosystem/",
           "author": null,
           "description": "Futureverse merges 8 Web3 companies to create an open metaverse ecosystem",
@@ -24,16 +44,6 @@
           "wordCount": 3708,
           "title": "Futureverse merges 8 Web3 companies to create an open metaverse ecosystem",
           "imageUrl": "https://venturebeat.com/wp-content/uploads/2022/12/futureverse.jpg?w=1200&strip=all"
-        },
-        {
-          "id": "https://www.inclusion.watch/",
-          "author": null,
-          "description": "inclusion.watch",
-          "link": "https://www.inclusion.watch/",
-          "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 34,
-          "title": "inclusion.watch",
-          "imageUrl": null
         },
         {
           "id": "https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0",
@@ -56,6 +66,16 @@
           "imageUrl": "https://images.toruswallet.io/torus_full_logo.png"
         },
         {
+          "id": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
+          "author": null,
+          "description": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
+          "link": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
+          "publishedOn": "2022-12-15T21:00:03.000Z",
+          "wordCount": 9522,
+          "title": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/Aztec_16_9_Encrypted_Ethereum.jpg"
+        },
+        {
           "id": "https://fragmentsnft.xyz/",
           "author": null,
           "description": "Fragments",
@@ -63,26 +83,6 @@
           "publishedOn": "2022-12-15T21:00:03.000Z",
           "wordCount": 60,
           "title": "Fragments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://a16zcrypto.com/investing-in-aztec/",
-          "author": null,
-          "description": "Investing in Aztec",
-          "link": "https://a16zcrypto.com/investing-in-aztec/",
-          "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 1674,
-          "title": "Investing in Aztec",
-          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2022/12/AZTEC4.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I4cDAqeEmpU&t=20s",
-          "author": null,
-          "description": "Powers of Tau - Round 41",
-          "link": "https://www.youtube.com/watch?v=I4cDAqeEmpU&t=20s",
-          "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Powers of Tau - Round 41",
           "imageUrl": null
         },
         {
@@ -111,7 +111,7 @@
           "description": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "link": "https://www.theblock.co/post/194878/qcp-capital-ftx-exposure",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 60686,
+          "wordCount": 60969,
           "title": "Crypto trading firm QCP Capital has at least $97 million stuck on FTX: Sources",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220321_FTX_Crypto_Takeover-1200x675.png"
         },
@@ -121,7 +121,7 @@
           "description": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "link": "https://fortune.com/crypto/2022/12/15/blocknative-raises-15-million-to-provide-global-infrastructure-ethereum/?xid=soc_socialflow_twitter_FORTUNE&utm_medium=social&utm_source=twitter.com&utm_campaign=fortunemagazine",
           "publishedOn": "2022-12-15T21:00:02.000Z",
-          "wordCount": 3527,
+          "wordCount": 3515,
           "title": "Blocknative raises $15 million to provide global infrastructure to Ethereum",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/Coins-Ethereum-10.jpg?resize=1200,600"
         },
@@ -151,7 +151,7 @@
           "description": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "link": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 3615,
+          "wordCount": 3603,
           "title": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/united-nations-crypto-donations-ukraine-refugees-e1671051861934.jpg?resize=1200,600"
         },
@@ -161,7 +161,7 @@
           "description": "Microsoft prohibits crypto mining on online services without permission",
           "link": "https://www.theblock.co/post/195314/microsoft-prohibits-crypto-mining-on-online-services-without-permission?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 60331,
+          "wordCount": 60614,
           "title": "Microsoft prohibits crypto mining on online services without permission",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/microsoft-3-1200x675.jpg"
         },
