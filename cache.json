@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://polygon.technology/blog/its-not-a-race-auditing-polygon-zkevm",
+          "author": null,
+          "description": "It’s Not a Race: Auditing Polygon zkEVM — Polygon | Blog",
+          "link": "https://polygon.technology/blog/its-not-a-race-auditing-polygon-zkevm",
+          "publishedOn": "2022-12-16T20:00:05.000Z",
+          "wordCount": 13187,
+          "title": "It’s Not a Race: Auditing Polygon zkEVM — Polygon | Blog",
+          "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2022/12/Auditing-Polygon-zkEVM-scaled.jpg"
+        },
+        {
           "id": "https://duneninja.com/",
           "author": null,
           "description": "Dune Ninja 🥷🏼",
@@ -24,6 +34,16 @@
           "wordCount": 1510,
           "title": "Santa.FM",
           "imageUrl": "https://santa.fm/images/social_share.png"
+        },
+        {
+          "id": "https://www.jumpnews.xyz/",
+          "author": null,
+          "description": "JUMP NEWS",
+          "link": "https://www.jumpnews.xyz/",
+          "publishedOn": "2022-12-16T19:00:02.000Z",
+          "wordCount": 367,
+          "title": "JUMP NEWS",
+          "imageUrl": "https://storage.googleapis.com/media-bucket-clients/jump-lander-page/img/jump-og.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=u_67F-M_36E&feature=youtu.be",
@@ -71,7 +91,7 @@
           "description": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
           "link": "https://nypost.com/2022/12/14/sam-bankman-frieds-ex-caroline-ellison-likely-works-with-feds/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
           "publishedOn": "2022-12-16T05:00:02.000Z",
-          "wordCount": 19164,
+          "wordCount": 19431,
           "title": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
           "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/12/caroline-ellison-turned-against-bankman-fried-comp-1.jpg?quality=75&strip=all&w=1024"
         },
@@ -101,7 +121,7 @@
           "description": "The ENS Foundation - ENS Documentation",
           "link": "https://docs.ens.domains/v/governance/the-ens-foundation",
           "publishedOn": "2022-12-16T03:00:03.000Z",
-          "wordCount": 1666,
+          "wordCount": 1662,
           "title": "The ENS Foundation - ENS Documentation",
           "imageUrl": null
         },
@@ -136,16 +156,6 @@
           "imageUrl": "https://venturebeat.com/wp-content/uploads/2022/12/futureverse.jpg?w=1200&strip=all"
         },
         {
-          "id": "https://polygon.tor.us/",
-          "author": null,
-          "description": "Torus Wallet",
-          "link": "https://polygon.tor.us/",
-          "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 453,
-          "title": "Torus Wallet",
-          "imageUrl": "https://images.toruswallet.io/torus_full_logo.png"
-        },
-        {
           "id": "https://bonfire.mirror.xyz/67apTq1N-M9IQybIJCXsIv04-s8txuFYSuZJqP1kWpk",
           "author": null,
           "description": "The Bonfire is Open to All!",
@@ -154,16 +164,6 @@
           "wordCount": 2387,
           "title": "The Bonfire is Open to All!",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/2MFC5R35ZapxZUF_0JHUf.png?height=598&width=1195&h=598&w=1195&auto=compress"
-        },
-        {
-          "id": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
-          "author": null,
-          "description": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
-          "link": "https://techcrunch.com/2022/12/15/aztec-network-takes-on-encrypted-blockchains-with-100m-round-led-by-a16z/",
-          "publishedOn": "2022-12-15T21:00:03.000Z",
-          "wordCount": 6408,
-          "title": "Aztec Network takes on encrypted blockchains with $100M round led by a16z",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/Aztec_16_9_Encrypted_Ethereum.jpg"
         },
         {
           "id": "https://fragmentsnft.xyz/",
@@ -191,7 +191,7 @@
           "description": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "link": "https://fortune.com/crypto/2022/12/15/un-crypto-aid-ukrainian-refugees-stablecoin-usdc-stellar/",
           "publishedOn": "2022-12-15T15:00:03.000Z",
-          "wordCount": 3575,
+          "wordCount": 3583,
           "title": "UN to send displaced Ukrainians USDC to convert into local currencies",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2022/12/united-nations-crypto-donations-ukraine-refugees-e1671051861934.jpg?resize=1200,600"
         },
