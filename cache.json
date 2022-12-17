@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://en.m.wikipedia.org/wiki/Loaded_question",
+          "author": null,
+          "description": "Loaded question - Wikipedia",
+          "link": "https://en.m.wikipedia.org/wiki/Loaded_question",
+          "publishedOn": "2022-12-17T05:00:03.000Z",
+          "wordCount": 972,
+          "title": "Loaded question - Wikipedia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.radicalxchange.org/media/blog/2018-11-26-4m9b8b/",
+          "author": null,
+          "description": "Central Planning As Overfitting",
+          "link": "https://www.radicalxchange.org/media/blog/2018-11-26-4m9b8b/",
+          "publishedOn": "2022-12-17T04:30:03.000Z",
+          "wordCount": 3459,
+          "title": "Central Planning As Overfitting",
+          "imageUrl": "https://www.radicalxchange.org/images/logos/open-graph-logo.png"
+        },
+        {
           "id": "https://99bitcoins.com/bitcoin-obituaries/",
           "author": null,
           "description": "Bitcoin Obituaries - \"Bitcoin is Dead\" Declared 400+ Times",
@@ -41,9 +61,19 @@
           "description": "DefiLlama",
           "link": "https://defillama.com/raises?investor=Digital+Currency+Group&investor=DCG",
           "publishedOn": "2022-12-17T01:00:02.000Z",
-          "wordCount": 6815,
+          "wordCount": 6836,
           "title": "DefiLlama",
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
+          "id": "https://mhonkasalo.substack.com/p/diary-of-an-over-obsessed-ultrasoundmoney",
+          "author": null,
+          "description": "Diary of an over obsessed ultrasound.money user",
+          "link": "https://mhonkasalo.substack.com/p/diary-of-an-over-obsessed-ultrasoundmoney",
+          "publishedOn": "2022-12-16T22:30:02.000Z",
+          "wordCount": 2887,
+          "title": "Diary of an over obsessed ultrasound.money user",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb36884c8-06ea-44bb-85b4-9f334e918988_829x453.png"
         },
         {
           "id": "https://jambophone.xyz/",
@@ -131,39 +161,9 @@
           "description": "Play Axie DoLL: A Community-Built Game on App.axie!",
           "link": "https://axie.substack.com/p/axiedoll",
           "publishedOn": "2022-12-16T11:00:02.000Z",
-          "wordCount": 2141,
+          "wordCount": 2347,
           "title": "Play Axie DoLL: A Community-Built Game on App.axie!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8524cdb-2e27-4270-99f1-cb9a69cfdec8_2880x1800.png"
-        },
-        {
-          "id": "https://nypost.com/2022/12/14/sam-bankman-frieds-ex-caroline-ellison-likely-works-with-feds/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
-          "author": null,
-          "description": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
-          "link": "https://nypost.com/2022/12/14/sam-bankman-frieds-ex-caroline-ellison-likely-works-with-feds/?utm_source=NYPTwitter&utm_campaign=SocialFlow&utm_medium=SocialFlow",
-          "publishedOn": "2022-12-16T05:00:02.000Z",
-          "wordCount": 19315,
-          "title": "Caroline Ellison likely working with feds against Sam Bankman-Fried",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/12/caroline-ellison-turned-against-bankman-fried-comp-1.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-          "id": "https://quest.philand.xyz/",
-          "author": null,
-          "description": "Phi Quest",
-          "link": "https://quest.philand.xyz/",
-          "publishedOn": "2022-12-16T03:30:05.000Z",
-          "wordCount": 437,
-          "title": "Phi Quest",
-          "imageUrl": "/og.png"
-        },
-        {
-          "id": "https://land.philand.xyz/",
-          "author": null,
-          "description": "Phi Land",
-          "link": "https://land.philand.xyz/",
-          "publishedOn": "2022-12-16T03:30:05.000Z",
-          "wordCount": 141,
-          "title": "Phi Land",
-          "imageUrl": "/og.png"
         },
         {
           "id": "https://www.riffusion.com/about",
@@ -201,7 +201,7 @@
           "description": "69 Theses for 2023",
           "link": "https://redphone.substack.com/p/69-theses-for-2023",
           "publishedOn": "2022-12-15T07:30:06.000Z",
-          "wordCount": 1536,
+          "wordCount": 1742,
           "title": "69 Theses for 2023",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
         }
