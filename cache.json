@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://testflight.apple.com/join/4bbpvn9a",
+          "author": null,
+          "description": "Join the Light Wallet beta",
+          "link": "https://testflight.apple.com/join/4bbpvn9a",
+          "publishedOn": "2022-12-17T22:30:02.000Z",
+          "wordCount": 3131,
+          "title": "Join the Light Wallet beta",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/83/05/f4830508-9908-c5d4-a4c0-a02287578f70/AppIcon-Prod-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+        },
+        {
           "id": "https://www.gemini.com/earn",
           "author": null,
           "description": "Gemini Earn Updates - Transparency Builds Trust | Gemini",
@@ -21,9 +31,9 @@
           "description": "Opinion | The Ideal of Democracy in a Jewish State Is in Jeopardy",
           "link": "https://www.nytimes.com/2022/12/17/opinion/israel-netanyahu.html?smtyp=cur&smid=tw-nytopinion",
           "publishedOn": "2022-12-17T21:00:02.000Z",
-          "wordCount": 5160,
+          "wordCount": null,
           "title": "Opinion | The Ideal of Democracy in a Jewish State Is in Jeopardy",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/17/opinion/17israel/17israel-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=_bDXXWQxK38&feature=youtu.be",
@@ -54,6 +64,16 @@
           "wordCount": 3157,
           "title": "Escobar: Xi Of Arabia & The PetroYuan Drive | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/humanizing-the-singularity/at-the-turning-point-how-crypto-interacts-with-real-world-assets-b4bf3c4b217c",
+          "author": null,
+          "description": "At the Turning Point — How Crypto Interacts with Real World Assets",
+          "link": "https://medium.com/humanizing-the-singularity/at-the-turning-point-how-crypto-interacts-with-real-world-assets-b4bf3c4b217c",
+          "publishedOn": "2022-12-17T18:00:05.000Z",
+          "wordCount": 8144,
+          "title": "At the Turning Point — How Crypto Interacts with Real World Assets",
+          "imageUrl": "https://miro.medium.com/max/1200/1*xl2QuVbFE8qUaeeScLpr9A.png"
         },
         {
           "id": "https://www.nostr.directory/",
@@ -166,16 +186,6 @@
           "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
-          "id": "https://www.semafor.com/article/12/16/2022/elon-musks-team-is-seeking-new-investors-for-twitter",
-          "author": null,
-          "description": "Elon Musk's team is seeking new investors for Twitter | Semafor",
-          "link": "https://www.semafor.com/article/12/16/2022/elon-musks-team-is-seeking-new-investors-for-twitter",
-          "publishedOn": "2022-12-16T23:30:04.000Z",
-          "wordCount": 1328,
-          "title": "Elon Musk's team is seeking new investors for Twitter | Semafor",
-          "imageUrl": "https://img.semafor.com/e0a2dd416caf4bf1de1819c9f6f983678d07c021-1378x942.png?rect=0,110,1378,723&w=1200&h=630&q=85&auto=format"
-        },
-        {
           "id": "https://mhonkasalo.substack.com/p/diary-of-an-over-obsessed-ultrasoundmoney",
           "author": null,
           "description": "Diary of an over obsessed ultrasound.money user",
@@ -194,16 +204,6 @@
           "wordCount": 1566,
           "title": "Santa.FM",
           "imageUrl": "https://santa.fm/images/social_share.png"
-        },
-        {
-          "id": "https://a16zcrypto.com/big-ideas-2023/",
-          "author": null,
-          "description": "A few of the things we’re excited about in crypto",
-          "link": "https://a16zcrypto.com/big-ideas-2023/",
-          "publishedOn": "2022-12-15T21:30:06.000Z",
-          "wordCount": 2325,
-          "title": "A few of the things we’re excited about in crypto",
-          "imageUrl": null
         }
       ]
     }
