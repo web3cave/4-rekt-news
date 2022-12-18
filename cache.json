@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lwn.net/Articles/910762/",
+          "author": null,
+          "description": "A first look at Rust in the 6.1 kernel [LWN.net]",
+          "link": "https://lwn.net/Articles/910762/",
+          "publishedOn": "2022-12-18T18:00:05.000Z",
+          "wordCount": 5406,
+          "title": "A first look at Rust in the 6.1 kernel [LWN.net]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/",
+          "author": null,
+          "description": "[GIT PULL] Rust for 6.2 - ojeda",
+          "link": "https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/",
+          "publishedOn": "2022-12-18T18:00:04.000Z",
+          "wordCount": 811,
+          "title": "[GIT PULL] Rust for 6.2 - ojeda",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2feTmaguqhU&feature=youtu.be",
           "author": null,
           "description": "Kevin O'Leary responds to criticism from Binance CEO Zhao: His accusations against me are a lie",
@@ -53,26 +73,6 @@
           "publishedOn": "2022-12-18T17:00:04.000Z",
           "wordCount": 1995,
           "title": "Two-Thirds Of Voters Believe Social Media Engaged In Politically-Motivated Censorship, Demand Congressional Action;...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/russia-erecting-protective-dome-largest-ukrainian-nuclear-plant",
-          "author": null,
-          "description": "Russia Erecting Protective Dome At Largest Ukrainian Nuclear Plant | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/russia-erecting-protective-dome-largest-ukrainian-nuclear-plant",
-          "publishedOn": "2022-12-18T17:00:04.000Z",
-          "wordCount": 862,
-          "title": "Russia Erecting Protective Dome At Largest Ukrainian Nuclear Plant | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://eips.ethereum.org/",
-          "author": null,
-          "description": "Home | Ethereum Improvement Proposals",
-          "link": "https://eips.ethereum.org/",
-          "publishedOn": "2022-12-18T17:00:04.000Z",
-          "wordCount": 728,
-          "title": "Home | Ethereum Improvement Proposals",
           "imageUrl": null
         },
         {
@@ -136,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&utm_medium=social&utm_campaign=auto",
-          "author": null,
-          "description": "Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt",
-          "link": "https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&utm_medium=social&utm_campaign=auto",
-          "publishedOn": "2022-12-18T04:00:04.000Z",
-          "wordCount": 7807,
-          "title": "Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/elon-vitalik-gID_4.jpeg@png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=B0II7StvF8w&feature=youtu.be",
           "author": null,
           "description": "The Chopping Block: Was FTX a Scam From the Very Beginning? - Ep. 433",
@@ -154,6 +144,16 @@
           "wordCount": null,
           "title": "The Chopping Block: Was FTX a Scam From the Very Beginning? - Ep. 433",
           "imageUrl": null
+        },
+        {
+          "id": "https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+          "author": null,
+          "description": "Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt",
+          "link": "https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+          "publishedOn": "2022-12-18T04:00:04.000Z",
+          "wordCount": 7807,
+          "title": "Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/elon-vitalik-gID_4.jpeg@png"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/shadowy-us-spy-firm-promises-surveil-crypto-users-highest-bidder",

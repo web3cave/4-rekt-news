@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T17:14:49.738Z</id>
+    <id>urn:2022-12-18T18:20:19.611Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-18T17:14:49.738Z</updated>
+    <updated>2022-12-18T18:20:19.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A first look at Rust in the 6.1 kernel [LWN.net]]]></title>
+        <id>https://lwn.net/Articles/910762/</id>
+        <link href="https://lwn.net/Articles/910762/"/>
+        <updated>2022-12-18T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[A first look at Rust in the 6.1 kernel [LWN.net]]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[GIT PULL] Rust for 6.2 - ojeda]]></title>
+        <id>https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/</id>
+        <link href="https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/"/>
+        <updated>2022-12-18T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[[GIT PULL] Rust for 6.2 - ojeda]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kevin O'Leary responds to criticism from Binance CEO Zhao: His accusations against me are a lie]]></title>
         <id>https://www.youtube.com/watch?v=2feTmaguqhU&amp;feature=youtu.be</id>
@@ -51,26 +71,6 @@
         <link href="https://www.zerohedge.com/political/two-thirds-voters-believe-social-media-engaged-politically-motivated-censorship-demand"/>
         <updated>2022-12-18T17:00:04.000Z</updated>
         <summary type="html"><![CDATA[Two-Thirds Of Voters Believe Social Media Engaged In Politically-Motivated Censorship, Demand Congressional Action;...]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Erecting Protective Dome At Largest Ukrainian Nuclear Plant | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/geopolitical/russia-erecting-protective-dome-largest-ukrainian-nuclear-plant</id>
-        <link href="https://www.zerohedge.com/geopolitical/russia-erecting-protective-dome-largest-ukrainian-nuclear-plant"/>
-        <updated>2022-12-18T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Russia Erecting Protective Dome At Largest Ukrainian Nuclear Plant | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home | Ethereum Improvement Proposals]]></title>
-        <id>https://eips.ethereum.org/</id>
-        <link href="https://eips.ethereum.org/"/>
-        <updated>2022-12-18T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Home | Ethereum Improvement Proposals]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,21 +136,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt]]></title>
-        <id>https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=auto</id>
-        <link href="https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=auto"/>
-        <updated>2022-12-18T04:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Chopping Block: Was FTX a Scam From the Very Beginning? - Ep. 433]]></title>
         <id>https://www.youtube.com/watch?v=B0II7StvF8w&amp;feature=youtu.be</id>
         <link href="https://www.youtube.com/watch?v=B0II7StvF8w&amp;feature=youtu.be"/>
         <updated>2022-12-18T04:00:04.000Z</updated>
         <summary type="html"><![CDATA[The Chopping Block: Was FTX a Scam From the Very Beginning? - Ep. 433]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt]]></title>
+        <id>https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=auto</id>
+        <link href="https://decrypt.co/117465/ethereum-vitalik-buterin-elon-musk-bans-twitter-authoritarianism?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=auto"/>
+        <updated>2022-12-18T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Founder Vitalik Buterin: Elon Musk Bans Put Twitter on 'Path to Authoritarianism' - Decrypt]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
