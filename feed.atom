@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T05:15:35.040Z</id>
+    <id>urn:2022-12-18T06:21:07.006Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-18T05:15:35.040Z</updated>
+    <updated>2022-12-18T06:21:07.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,6 +41,16 @@
         <link href="https://www.intothebytecode.xyz/dwr-farcaster/"/>
         <updated>2022-12-18T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Dan Romero: Farcaster, building a decentralized social network]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gates, Bezos Invest In Australian-Designed Brain Implant | ZeroHedge]]></title>
+        <id>https://www.zerohedge.com/technology/gates-bezos-invest-australian-designed-brain-implant</id>
+        <link href="https://www.zerohedge.com/technology/gates-bezos-invest-australian-designed-brain-implant"/>
+        <updated>2022-12-18T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Gates, Bezos Invest In Australian-Designed Brain Implant | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -161,16 +171,6 @@
         <link href="https://blog.lopp.net/2022-bitcoin-node-performance-tests/"/>
         <updated>2022-12-17T16:00:04.000Z</updated>
         <summary type="html"><![CDATA[2022 Bitcoin Node Performance Tests]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos-SDK & IBC Vulnerability Retrospective: Security Advisories Dragonberry and Elderflower (October 2022)]]></title>
-        <id>https://forum.cosmos.network/t/cosmos-sdk-ibc-vulnerability-retrospective-security-advisories-dragonberry-and-elderflower-october-2022/8735</id>
-        <link href="https://forum.cosmos.network/t/cosmos-sdk-ibc-vulnerability-retrospective-security-advisories-dragonberry-and-elderflower-october-2022/8735"/>
-        <updated>2022-12-17T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos-SDK & IBC Vulnerability Retrospective: Security Advisories Dragonberry and Elderflower (October 2022)]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
