@@ -6,24 +6,114 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HXNbgI-N6qM",
+          "id": "https://blog.linkedin.com/2012/06/29/sharing-on-linkedin-twitter",
           "author": null,
-          "description": "Infinity Pool - Official Trailer (2023) Alexander Skarsgård, Mia Goth",
-          "link": "https://www.youtube.com/watch?v=HXNbgI-N6qM",
-          "publishedOn": "2022-12-18T22:00:04.000Z",
-          "wordCount": null,
-          "title": "Infinity Pool - Official Trailer (2023) Alexander Skarsgård, Mia Goth",
+          "description": "Sharing Professional Content on LinkedIn and Twitter",
+          "link": "https://blog.linkedin.com/2012/06/29/sharing-on-linkedin-twitter",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 513,
+          "title": "Sharing Professional Content on LinkedIn and Twitter",
           "imageUrl": null
         },
         {
-          "id": "https://www.330.ai/",
+          "id": "https://blog.twitter.com/developer/en_us/a/2012/changes-coming-to-twitter-api",
           "author": null,
-          "description": "Blockade Games | 330AI",
-          "link": "https://www.330.ai/",
-          "publishedOn": "2022-12-18T21:00:04.000Z",
-          "wordCount": 5706,
-          "title": "Blockade Games | 330AI",
-          "imageUrl": "https://static.wixstatic.com/media/2b91c3_e850c341f3dc48b9bd146efcab1850b0%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2b91c3_e850c341f3dc48b9bd146efcab1850b0%7Emv2.jpg"
+          "description": "Changes coming in Version 1.1 of the Twitter API",
+          "link": "https://blog.twitter.com/developer/en_us/a/2012/changes-coming-to-twitter-api",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 1790,
+          "title": "Changes coming in Version 1.1 of the Twitter API",
+          "imageUrl": "https://cdn.cms-twdigitalassets.com/content/dam/blog-twitter/developer/en_us/main-template-assets/developer-blog-share.jpg.twimg.768.jpg"
+        },
+        {
+          "id": "https://gov.gitcoin.co/",
+          "author": null,
+          "description": "Gitcoin Governance",
+          "link": "https://gov.gitcoin.co/",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 175,
+          "title": "Gitcoin Governance",
+          "imageUrl": "https://gov.gitcoin.co/uploads/db4391/original/1X/d6503c3e8f849859f29987d8816cd515c34b04f0.png"
+        },
+        {
+          "id": "https://www.getrevue.co/profile/raoulgmi/issues/optimism-for-2023-the-gmi-top-5-charts-that-make-you-go-hmmm-1499840",
+          "author": null,
+          "description": "Optimism for 2023: The GMI Top 5 Charts That Make You Go Hmmm...",
+          "link": "https://www.getrevue.co/profile/raoulgmi/issues/optimism-for-2023-the-gmi-top-5-charts-that-make-you-go-hmmm-1499840",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 1944,
+          "title": "Optimism for 2023: The GMI Top 5 Charts That Make You Go Hmmm...",
+          "imageUrl": "https://s3.amazonaws.com/revue/issue_images/images/000/671/146/original/issue_image_1499840.jpg?1671393080"
+        },
+        {
+          "id": "https://www.farcaster.xyz/",
+          "author": null,
+          "description": "Farcaster",
+          "link": "https://www.farcaster.xyz/",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 122,
+          "title": "Farcaster",
+          "imageUrl": "https://www.farcaster.xyz/img/opengraph.png"
+        },
+        {
+          "id": "https://github.com/mastodon/mastodon/issues/12423",
+          "author": null,
+          "description": "Support Post Migration · Issue #12423 · mastodon/mastodon",
+          "link": "https://github.com/mastodon/mastodon/issues/12423",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 9672,
+          "title": "Support Post Migration · Issue #12423 · mastodon/mastodon",
+          "imageUrl": "https://opengraph.githubassets.com/bd8ed666cf15e621e60bed37ef94af4aae9fdf1aa35214ccb9709827f941c7f4/mastodon/mastodon/issues/12423"
+        },
+        {
+          "id": "https://github.com/farcasterxyz/protocol#23-recovery",
+          "author": null,
+          "description": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
+          "link": "https://github.com/farcasterxyz/protocol#23-recovery",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 7813,
+          "title": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
+          "imageUrl": "https://opengraph.githubassets.com/0a3eaf55ca01796fa4c7c65e038d12d2d3551edcd51694796158327108d290de/farcasterxyz/protocol"
+        },
+        {
+          "id": "https://www.zerohedge.com/energy/nuclear-fusion-incinerates-climate-crazies",
+          "author": null,
+          "description": "Nuclear Fusion Incinerates Climate Crazies | ZeroHedge",
+          "link": "https://www.zerohedge.com/energy/nuclear-fusion-incinerates-climate-crazies",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 2559,
+          "title": "Nuclear Fusion Incinerates Climate Crazies | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/el-paso-mayor-finally-declares-state-emergency-after-mass-invasion-migrants",
+          "author": null,
+          "description": "El Paso Mayor Finally Declares State Of Emergency After Mass Invasion Of Migrants | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/el-paso-mayor-finally-declares-state-emergency-after-mass-invasion-migrants",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 1750,
+          "title": "El Paso Mayor Finally Declares State Of Emergency After Mass Invasion Of Migrants | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/why-policy-mistake-will-be-worse-last",
+          "author": null,
+          "description": "Why This Policy Mistake Will Be Worse Than The Last | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/why-policy-mistake-will-be-worse-last",
+          "publishedOn": "2022-12-18T23:00:02.000Z",
+          "wordCount": 5075,
+          "title": "Why This Policy Mistake Will Be Worse Than The Last | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-137",
+          "author": null,
+          "description": "EIP-137: Ethereum Domain Name Service - Specification",
+          "link": "https://eips.ethereum.org/EIPS/eip-137",
+          "publishedOn": "2022-12-18T22:30:04.000Z",
+          "wordCount": 2481,
+          "title": "EIP-137: Ethereum Domain Name Service - Specification",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/russia-shows-nuclear-icbm-mobile-launcher-response-looming-us-patriots-ukraine",
@@ -36,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/tea-party-fifteen-years-later",
-          "author": null,
-          "description": "The Tea Party, Fifteen Years Later | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/tea-party-fifteen-years-later",
-          "publishedOn": "2022-12-18T21:00:04.000Z",
-          "wordCount": 2813,
-          "title": "The Tea Party, Fifteen Years Later | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/nostr-protocol/nostr",
           "author": null,
           "description": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
@@ -53,7 +133,7 @@
           "publishedOn": "2022-12-18T21:00:03.000Z",
           "wordCount": 2517,
           "title": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
-          "imageUrl": "https://opengraph.githubassets.com/2298d309524d804127a322d6a850ac644007f4fed9b256a18c60c79c78766517/nostr-protocol/nostr"
+          "imageUrl": "https://opengraph.githubassets.com/b12f8fc03befc3673fa69ff45569dc9024c51600de5c1b22fb1ea74eea734dee/nostr-protocol/nostr"
         },
         {
           "id": "https://www.zerohedge.com/markets/return-quant-investing",
@@ -84,76 +164,6 @@
           "wordCount": 679,
           "title": "Promotion of Alternative Social Platforms Policy | Twitter Help",
           "imageUrl": "https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/logos/htc-summary-card.jpg.twimg.768.jpg"
-        },
-        {
-          "id": "https://www.reddit.com/r/rust/comments/zllfvw/the_illusion_of_slow_development_speed_in_rust/",
-          "author": null,
-          "description": "r/rust - the illusion of slow development speed in Rust",
-          "link": "https://www.reddit.com/r/rust/comments/zllfvw/the_illusion_of_slow_development_speed_in_rust/",
-          "publishedOn": "2022-12-18T19:00:04.000Z",
-          "wordCount": 22503,
-          "title": "r/rust - the illusion of slow development speed in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2kV3IJcFRX8",
-          "author": null,
-          "description": "POSSESSOR Teaser - Red Band",
-          "link": "https://www.youtube.com/watch?v=2kV3IJcFRX8",
-          "publishedOn": "2022-12-18T19:00:04.000Z",
-          "wordCount": null,
-          "title": "POSSESSOR Teaser - Red Band",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/death-toll-peru-protests-tops-20-coup-government-extends-castillos-jail-term",
-          "author": null,
-          "description": "Over 20 Protest Deaths In Peru As 'Coup' Government Extends Castillo's Jail Term | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/death-toll-peru-protests-tops-20-coup-government-extends-castillos-jail-term",
-          "publishedOn": "2022-12-18T19:00:04.000Z",
-          "wordCount": 1955,
-          "title": "Over 20 Protest Deaths In Peru As 'Coup' Government Extends Castillo's Jail Term | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/notorious-washington-post-doxxer-taylor-lorenz-suspended-twitter",
-          "author": null,
-          "description": "Notorious Washington Post Doxxer Taylor Lorenz Suspended From Twitter | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/notorious-washington-post-doxxer-taylor-lorenz-suspended-twitter",
-          "publishedOn": "2022-12-18T19:00:04.000Z",
-          "wordCount": 1558,
-          "title": "Notorious Washington Post Doxxer Taylor Lorenz Suspended From Twitter | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/why-central-banks-will-choose-recession-over-inflation",
-          "author": null,
-          "description": "Why Central Banks Will Choose Recession Over Inflation | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/why-central-banks-will-choose-recession-over-inflation",
-          "publishedOn": "2022-12-18T19:00:04.000Z",
-          "wordCount": 2022,
-          "title": "Why Central Banks Will Choose Recession Over Inflation | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lwn.net/Articles/910762/",
-          "author": null,
-          "description": "A first look at Rust in the 6.1 kernel [LWN.net]",
-          "link": "https://lwn.net/Articles/910762/",
-          "publishedOn": "2022-12-18T18:00:05.000Z",
-          "wordCount": 5408,
-          "title": "A first look at Rust in the 6.1 kernel [LWN.net]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/",
-          "author": null,
-          "description": "[GIT PULL] Rust for 6.2 - ojeda",
-          "link": "https://lore.kernel.org/rust-for-linux/20221211005609.270457-1-ojeda@kernel.org/",
-          "publishedOn": "2022-12-18T18:00:04.000Z",
-          "wordCount": 811,
-          "title": "[GIT PULL] Rust for 6.2 - ojeda",
-          "imageUrl": null
         },
         {
           "id": "https://news.artnet.com/news-pro/ryan-zurrer-interview-2225682#.Y57o-pFdWSk.twitter",
@@ -194,16 +204,6 @@
           "wordCount": 4490,
           "title": "[PDF] Coinbase-response-to-FSB-cryptoasset-recommendations_Dec2022.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.gemini.com/earn",
-          "author": null,
-          "description": "Gemini Earn Updates - Transparency Builds Trust | Gemini",
-          "link": "https://www.gemini.com/earn",
-          "publishedOn": "2022-12-17T21:30:04.000Z",
-          "wordCount": 4069,
-          "title": "Gemini Earn Updates - Transparency Builds Trust | Gemini",
-          "imageUrl": "https://www.gemini.com/static/images/og.png"
         }
       ]
     }
