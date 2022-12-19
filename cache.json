@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://etherscan.deth.net/",
+          "author": null,
+          "description": "DethCode",
+          "link": "https://etherscan.deth.net/",
+          "publishedOn": "2022-12-19T09:00:03.000Z",
+          "wordCount": 25,
+          "title": "DethCode",
+          "imageUrl": null
+        },
+        {
           "id": "https://itcommunity.stanford.edu/ehli",
           "author": null,
           "description": "Elimination of Harmful Language Initiative | IT Community",
@@ -23,16 +33,6 @@
           "publishedOn": "2022-12-19T07:00:03.000Z",
           "wordCount": 1770,
           "title": "Texas Places Military On Standby In Preparation For Surge Of Illegal Immigrants | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/aussies-bust-men-smuggling-65-lbs-meth-inside-3d-printers",
-          "author": null,
-          "description": "Aussies Bust Men Smuggling 65 Lbs Of Meth Inside 3D Printers | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/aussies-bust-men-smuggling-65-lbs-meth-inside-3d-printers",
-          "publishedOn": "2022-12-19T07:00:03.000Z",
-          "wordCount": 991,
-          "title": "Aussies Bust Men Smuggling 65 Lbs Of Meth Inside 3D Printers | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -141,7 +141,7 @@
           "description": "The decentralized CEO",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=social.tw",
           "publishedOn": "2022-12-19T01:00:03.000Z",
-          "wordCount": 2304,
+          "wordCount": 2245,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -163,7 +163,7 @@
           "publishedOn": "2022-12-18T21:00:03.000Z",
           "wordCount": 2517,
           "title": "GitHub - nostr-protocol/nostr: a truly censorship-resistant alternative to Twitter that has a chance of working",
-          "imageUrl": "https://opengraph.githubassets.com/273096a94ea053957b9d04ada84a85292eae97bd4678ee33f027755ceedfbe11/nostr-protocol/nostr"
+          "imageUrl": "https://opengraph.githubassets.com/f37d0445fa02ad3b5d2f205f483407f246f93f03d016f446f53ccf0c18500dd4/nostr-protocol/nostr"
         },
         {
           "id": "https://www.nostr.directory/",
