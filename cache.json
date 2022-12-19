@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x2e09-0x57",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x57",
+          "publishedOn": "2022-12-19T16:00:05.000Z",
+          "wordCount": 135,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations",
+          "author": null,
+          "description": "Fortnite Video Game Maker Epic Games to Pay More Than Half a Billion Dollars over FTC Allegations of Privacy...",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2022/12/fortnite-video-game-maker-epic-games-pay-more-half-billion-dollars-over-ftc-allegations",
+          "publishedOn": "2022-12-19T15:30:04.000Z",
+          "wordCount": 3051,
+          "title": "Fortnite Video Game Maker Epic Games to Pay More Than Half a Billion Dollars over FTC Allegations of Privacy...",
+          "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg"
+        },
+        {
           "id": "https://www.theblock.co/post/196216/binance-us-buy-voyager-assets?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Binance.US agrees to buy Voyager's assets",
           "link": "https://www.theblock.co/post/196216/binance-us-buy-voyager-assets?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-19T15:00:03.000Z",
-          "wordCount": 62964,
+          "wordCount": 62650,
           "title": "Binance.US agrees to buy Voyager's assets",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2018/09/hiring-handshake-2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/196193/grayscale-gbtc-etf-return-capital?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Grayscale may return some capital to investors if GBTC's ETF dreams fail: WSJ",
-          "link": "https://www.theblock.co/post/196193/grayscale-gbtc-etf-return-capital?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2022-12-19T15:00:03.000Z",
-          "wordCount": 63122,
-          "title": "Grayscale may return some capital to investors if GBTC's ETF dreams fail: WSJ",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/11/grayscale-logo-2-1200x675.jpg"
         },
         {
           "id": "https://app.aave.com/governance/",
@@ -43,16 +53,6 @@
           "publishedOn": "2022-12-19T15:00:03.000Z",
           "wordCount": 1565,
           "title": "Binance To Acquire Voyager Digital Crypto Assets For $1 Billion | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/peter-schiff-game-has-changed",
-          "author": null,
-          "description": "Peter Schiff: The Game Has Changed | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/peter-schiff-game-has-changed",
-          "publishedOn": "2022-12-19T15:00:03.000Z",
-          "wordCount": 1883,
-          "title": "Peter Schiff: The Game Has Changed | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -121,7 +121,7 @@
           "description": "Ren Protocol's imminent shutdown likely, $15 million still at risk",
           "link": "https://www.theblock.co/post/196040/ren-protocol-shutdown-likely",
           "publishedOn": "2022-12-19T13:00:03.000Z",
-          "wordCount": 63000,
+          "wordCount": 62700,
           "title": "Ren Protocol's imminent shutdown likely, $15 million still at risk",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/03/20220309_Hacking_Dollar-1200x675.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "If Grayscale’s Bitcoin ETF Dreams Fail, Firm May Try a Tender Offer, CEO Says",
           "link": "https://www.wsj.com/articles/if-grayscales-bitcoin-etf-dreams-fail-firm-may-try-a-tender-offer-ceo-says-11671428078?siteid=yhoof2&yptr=yahoo",
           "publishedOn": "2022-12-19T12:00:04.000Z",
-          "wordCount": 7444,
+          "wordCount": 7441,
           "title": "If Grayscale’s Bitcoin ETF Dreams Fail, Firm May Try a Tender Offer, CEO Says",
           "imageUrl": "https://images.wsj.net/im-688098/social"
         },
