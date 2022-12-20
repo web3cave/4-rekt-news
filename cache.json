@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://jup.ag/",
+          "author": null,
+          "description": "Jupiter Aggregator",
+          "link": "https://jup.ag/",
+          "publishedOn": "2022-12-20T19:30:05.000Z",
+          "wordCount": 2665,
+          "title": "Jupiter Aggregator",
+          "imageUrl": "https://jup.ag/images/site-meta/twitter-card.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z4uymBxErns&feature=youtu.be",
+          "author": null,
+          "description": "2022 in Review + How Cobie and Chris Burniske Are Playing the New Year - Ep. 434",
+          "link": "https://www.youtube.com/watch?v=Z4uymBxErns&feature=youtu.be",
+          "publishedOn": "2022-12-20T19:30:04.000Z",
+          "wordCount": null,
+          "title": "2022 in Review + How Cobie and Chris Burniske Are Playing the New Year - Ep. 434",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nostr.directory/",
           "author": null,
           "description": "Nostr public keys of Twitter Accounts",
@@ -83,7 +103,7 @@
           "publishedOn": "2022-12-20T08:30:02.000Z",
           "wordCount": 3540,
           "title": "GitHub - OffcierCia/Crypto-OpSec-SelfGuard-RoadMap: Here we collect and discuss the best DeFi,Blockchain and...",
-          "imageUrl": "https://opengraph.githubassets.com/48cdcaf58322f92776f59786e1904d2984a717a1ed46a75236fd3322e05b3aca/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap"
+          "imageUrl": "https://opengraph.githubassets.com/ab1a46713c05c945f4044758b57ab77f40d6f73c4494d6455a088dcab8c67722/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap"
         },
         {
           "id": "https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s",
@@ -116,26 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/rhode-island-ban-high-capacity-firearm-magazines-constitutional-judge",
-          "author": null,
-          "description": "Rhode Island Ban On High-Capacity Firearm Magazines Is Constitutional: Judge | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/rhode-island-ban-high-capacity-firearm-magazines-constitutional-judge",
-          "publishedOn": "2022-12-20T05:00:02.000Z",
-          "wordCount": 1723,
-          "title": "Rhode Island Ban On High-Capacity Firearm Magazines Is Constitutional: Judge | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/sam-bankman-fried-appears-in-bahamas-court-amid-confusion-over-next-steps-11671467244?mod=hp_lead_pos1",
-          "author": null,
-          "description": "Sam Bankman-Fried’s Lawyers Hash Out His Transfer to U.S. After Confusion in Court",
-          "link": "https://www.wsj.com/articles/sam-bankman-fried-appears-in-bahamas-court-amid-confusion-over-next-steps-11671467244?mod=hp_lead_pos1",
-          "publishedOn": "2022-12-20T03:00:03.000Z",
-          "wordCount": 8377,
-          "title": "Sam Bankman-Fried’s Lawyers Hash Out His Transfer to U.S. After Confusion in Court",
-          "imageUrl": "https://images.wsj.net/im-688809/social"
-        },
-        {
           "id": "https://www.tomscott.com/corrections/firemarks/",
           "author": null,
           "description": "Did Insurance Fire Brigades let uninsured buildings burn?",
@@ -161,7 +161,7 @@
           "description": "SPECIAL REPORT-Binance's books are a black box, filings show, as crypto giant tries to rally confidence",
           "link": "https://www.reuters.com/article/fintech-crypto-binance-transparency-idAFL8N3392RD",
           "publishedOn": "2022-12-19T23:30:06.000Z",
-          "wordCount": 16506,
+          "wordCount": 16511,
           "title": "SPECIAL REPORT-Binance's books are a black box, filings show, as crypto giant tries to rally confidence",
           "imageUrl": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         },
@@ -191,7 +191,7 @@
           "description": "FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M",
           "link": "https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial&utm_source=twitter",
           "publishedOn": "2022-12-19T22:30:02.000Z",
-          "wordCount": 22343,
+          "wordCount": 22531,
           "title": "FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M",
           "imageUrl": "https://www.coindesk.com/resizer/GlZ7q_pHAMlUPzP06egYcxiigEI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FNRTCD54PZFFRM4EA3WX6IWLPI.jpg"
         },
