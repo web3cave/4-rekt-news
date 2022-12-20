@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T17:15:57.033Z</id>
+    <id>urn:2022-12-20T18:22:11.696Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-20T17:15:57.033Z</updated>
+    <updated>2022-12-20T18:22:11.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[Nostr public keys of Twitter Accounts]]></title>
+        <id>https://www.nostr.directory/</id>
+        <link href="https://www.nostr.directory/"/>
+        <updated>2022-12-20T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Nostr public keys of Twitter Accounts]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Running Geth within SGX: Our Experience, Learnings and Code | Flashbots]]></title>
-        <id>https://writings.flashbots.net/geth-inside-sgx/</id>
-        <link href="https://writings.flashbots.net/geth-inside-sgx/"/>
+        <id>https://collective.flashbots.net/t/running-geth-within-sgx-our-experience-learnings-and-code-flashbots/938</id>
+        <link href="https://collective.flashbots.net/t/running-geth-within-sgx-our-experience-learnings-and-code-flashbots/938"/>
         <updated>2022-12-20T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Running Geth within SGX: Our Experience, Learnings and Code | Flashbots]]></summary>
         <author>
@@ -156,16 +166,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M]]></title>
-        <id>https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_content=editorial&amp;utm_source=twitter</id>
-        <link href="https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_content=editorial&amp;utm_source=twitter"/>
-        <updated>2022-12-19T22:30:02.000Z</updated>
-        <summary type="html"><![CDATA[FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pods Raises $5.6M to Create Structured Products for Crypto Assets]]></title>
         <id>https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&amp;source=social.tw</id>
         <link href="https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&amp;source=social.tw"/>
@@ -176,21 +176,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a16z crypto funds still have billions to deploy, says co-founder Chris Dixon]]></title>
-        <id>https://www.theblock.co/post/196252/a16z-crypto-funds-still-have-billions-to-deploy-says-co-founder-chris-dixon?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/196252/a16z-crypto-funds-still-have-billions-to-deploy-says-co-founder-chris-dixon?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2022-12-19T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[a16z crypto funds still have billions to deploy, says co-founder Chris Dixon]]></summary>
+        <title type="html"><![CDATA[FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M]]></title>
+        <id>https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_content=editorial&amp;utm_source=twitter</id>
+        <link href="https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_content=editorial&amp;utm_source=twitter"/>
+        <updated>2022-12-19T22:30:02.000Z</updated>
+        <summary type="html"><![CDATA[FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KZG Ceremony Grant Round | Ethereum Foundation Blog]]></title>
-        <id>https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round</id>
-        <link href="https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round"/>
+        <title type="html"><![CDATA[a16z crypto funds still have billions to deploy, says co-founder Chris Dixon]]></title>
+        <id>https://www.theblock.co/post/196252/a16z-crypto-funds-still-have-billions-to-deploy-says-co-founder-chris-dixon?utm_source=twitter&amp;utm_medium=social</id>
+        <link href="https://www.theblock.co/post/196252/a16z-crypto-funds-still-have-billions-to-deploy-says-co-founder-chris-dixon?utm_source=twitter&amp;utm_medium=social"/>
         <updated>2022-12-19T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[KZG Ceremony Grant Round | Ethereum Foundation Blog]]></summary>
+        <summary type="html"><![CDATA[a16z crypto funds still have billions to deploy, says co-founder Chris Dixon]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://writings.flashbots.net/geth-inside-sgx/",
+          "id": "https://www.nostr.directory/",
+          "author": null,
+          "description": "Nostr public keys of Twitter Accounts",
+          "link": "https://www.nostr.directory/",
+          "publishedOn": "2022-12-20T18:00:05.000Z",
+          "wordCount": 336,
+          "title": "Nostr public keys of Twitter Accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collective.flashbots.net/t/running-geth-within-sgx-our-experience-learnings-and-code-flashbots/938",
           "author": null,
           "description": "Running Geth within SGX: Our Experience, Learnings and Code | Flashbots",
-          "link": "https://writings.flashbots.net/geth-inside-sgx/",
+          "link": "https://collective.flashbots.net/t/running-geth-within-sgx-our-experience-learnings-and-code-flashbots/938",
           "publishedOn": "2022-12-20T17:00:03.000Z",
-          "wordCount": 981,
+          "wordCount": 219,
           "title": "Running Geth within SGX: Our Experience, Learnings and Code | Flashbots",
-          "imageUrl": "https://writings.flashbots.net/img/posts/sgx-og.jpg"
+          "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/0e6dc282ada072db24b801c9613972ee47e96dac.jpeg"
         },
         {
           "id": "https://www.theblock.co/post/196489/blockfi-seeks-reopen-withdrawals",
@@ -51,7 +61,7 @@
           "description": "Rep. Tom Emmer (R-MN) on FTX, the SEC, and the House Crypto agenda for 2023 (EP.382) [TRANSCRIPT] - On the Brink Podcast",
           "link": "https://onthebrink-podcast.com/emmer-dec22/",
           "publishedOn": "2022-12-20T15:30:05.000Z",
-          "wordCount": 9810,
+          "wordCount": 9812,
           "title": "Rep. Tom Emmer (R-MN) on FTX, the SEC, and the House Crypto agenda for 2023 (EP.382) [TRANSCRIPT] - On the Brink Podcast",
           "imageUrl": "https://onthebrink-podcast.com/wp-content/uploads/emmer_2_otb.png"
         },
@@ -151,8 +161,18 @@
           "description": "Pods Raises $5.6MM to Create Structured Products for Crypto Assets",
           "link": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=4753069e520f",
           "publishedOn": "2022-12-19T23:00:02.000Z",
-          "wordCount": 1938,
+          "wordCount": 2285,
           "title": "Pods Raises $5.6MM to Create Structured Products for Crypto Assets",
+          "imageUrl": "https://miro.medium.com/max/1200/1*g0Rt5xU2dNuqrOoTATGLKw.png"
+        },
+        {
+          "id": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
+          "author": null,
+          "description": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
+          "link": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
+          "publishedOn": "2022-12-19T22:30:02.000Z",
+          "wordCount": 2285,
+          "title": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
           "imageUrl": "https://miro.medium.com/max/1200/1*g0Rt5xU2dNuqrOoTATGLKw.png"
         },
         {
@@ -161,19 +181,9 @@
           "description": "FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M",
           "link": "https://www.coindesk.com/business/2022/12/19/ftxs-bankman-fried-gave-ex-jane-street-traders-who-formed-modulo-capital-400m/?utm_term=organic&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial&utm_source=twitter",
           "publishedOn": "2022-12-19T22:30:02.000Z",
-          "wordCount": 22323,
+          "wordCount": 22409,
           "title": "FTX’s Bankman-Fried Gave Ex-Jane Street Traders Who Formed Modulo Capital $400M",
           "imageUrl": "https://www.coindesk.com/resizer/GlZ7q_pHAMlUPzP06egYcxiigEI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FNRTCD54PZFFRM4EA3WX6IWLPI.jpg"
-        },
-        {
-          "id": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
-          "author": null,
-          "description": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
-          "link": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
-          "publishedOn": "2022-12-19T22:30:02.000Z",
-          "wordCount": 1938,
-          "title": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
-          "imageUrl": "https://miro.medium.com/max/1200/1*g0Rt5xU2dNuqrOoTATGLKw.png"
         },
         {
           "id": "https://www.theblock.co/post/196252/a16z-crypto-funds-still-have-billions-to-deploy-says-co-founder-chris-dixon?utm_source=twitter&utm_medium=social",
@@ -184,16 +194,6 @@
           "wordCount": 60747,
           "title": "a16z crypto funds still have billions to deploy, says co-founder Chris Dixon",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/05/20200518_Andreessen_horowitz-daily-1200x675.jpg"
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round",
-          "author": null,
-          "description": "KZG Ceremony Grant Round | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round",
-          "publishedOn": "2022-12-19T21:00:02.000Z",
-          "wordCount": 1510,
-          "title": "KZG Ceremony Grant Round | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_7d22bc5d7be9c0d5d8f50161734559ae.png"
         },
         {
           "id": "https://news.yuga.com/daniel-alegre-new-yuga-ceo",
