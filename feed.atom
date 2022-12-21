@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T02:38:00.628Z</id>
+    <id>urn:2022-12-21T03:21:12.958Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T02:38:00.628Z</updated>
+    <updated>2022-12-21T03:21:12.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Experiments in DAO governance]]></title>
+        <id>https://linda.mirror.xyz/kZHqJdvMD6OWk8-c3SF-oBJFFX_JrAPkhhB8iJKNM60</id>
+        <link href="https://linda.mirror.xyz/kZHqJdvMD6OWk8-c3SF-oBJFFX_JrAPkhhB8iJKNM60"/>
+        <updated>2022-12-21T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Experiments in DAO governance]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing the 2023 ETHGlobal Season]]></title>
         <id>https://ethglobal.medium.com/announcing-the-2023-ethglobal-season-3cc1960de7b4</id>
@@ -81,16 +91,6 @@
         <link href="https://download.lighthouse.world/Road-to-Interop.pdf"/>
         <updated>2022-12-20T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[[PDF] Road-to-Interop.pdf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr public keys of Twitter Accounts]]></title>
-        <id>https://www.nostr.directory/</id>
-        <link href="https://www.nostr.directory/"/>
-        <updated>2022-12-20T18:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Nostr public keys of Twitter Accounts]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
