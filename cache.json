@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://public.zkevm-test.net/",
+          "author": null,
+          "description": "Polygon zkEVM Bridge",
+          "link": "https://public.zkevm-test.net/",
+          "publishedOn": "2022-12-21T21:00:02.000Z",
+          "wordCount": 19,
+          "title": "Polygon zkEVM Bridge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/gakonst/ethers-rs/pull/1940",
           "author": null,
           "description": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
@@ -31,9 +41,9 @@
           "description": "ethers-rs/examples at master · gakonst/ethers-rs",
           "link": "https://github.com/gakonst/ethers-rs/tree/master/examples",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 395,
+          "wordCount": 676,
           "title": "ethers-rs/examples at master · gakonst/ethers-rs",
-          "imageUrl": "https://opengraph.githubassets.com/9a5e658635aa3afac97b1622ac7896023f5b84a72be299b30b9c8bdb65138b8d/gakonst/ethers-rs"
+          "imageUrl": "https://opengraph.githubassets.com/e50eece90ab973abb11600783eccbd194cb88192af7e277d7eeac0ef3501b878/gakonst/ethers-rs"
         },
         {
           "id": "https://github.com/morpho-dao/morpho-v1",
@@ -44,6 +54,16 @@
           "wordCount": 1395,
           "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
+        },
+        {
+          "id": "https://santa.fm/",
+          "author": null,
+          "description": "Santa.FM",
+          "link": "https://santa.fm/",
+          "publishedOn": "2022-12-21T17:00:02.000Z",
+          "wordCount": 1566,
+          "title": "Santa.FM",
+          "imageUrl": "https://santa.fm/images/social_share.png"
         },
         {
           "id": "https://libertystreeteconomics.newyorkfed.org/2022/12/can-decentralized-finance-provide-more-protection-for-crypto-investors/",
@@ -61,9 +81,19 @@
           "description": "Publicly traded crypto miner Core Scientific files for Chapter 11 bankruptcy",
           "link": "https://www.theblock.co/post/196925/core-scientific-files-chapter-11-bankruptcy?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-21T15:00:02.000Z",
-          "wordCount": 63336,
+          "wordCount": 63157,
           "title": "Publicly traded crypto miner Core Scientific files for Chapter 11 bankruptcy",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221028_Core-Scientific-Bankruptcy-1200x675.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
+          "author": null,
+          "description": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
+          "link": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
+          "publishedOn": "2022-12-21T15:00:02.000Z",
+          "wordCount": 7480,
+          "title": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
+          "imageUrl": "https://images.wsj.net/im-688816/social"
         },
         {
           "id": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
@@ -71,7 +101,7 @@
           "description": "Here's What I Saw at an AI Hackathon",
           "link": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
           "publishedOn": "2022-12-21T14:30:02.000Z",
-          "wordCount": 2874,
+          "wordCount": 2859,
           "title": "Here's What I Saw at an AI Hackathon",
           "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2417/CA788540-A2CB-4DC3-AD60-F981625F1ABC.png"
         },
@@ -96,16 +126,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
         },
         {
-          "id": "https://linda.mirror.xyz/kZHqJdvMD6OWk8-c3SF-oBJFFX_JrAPkhhB8iJKNM60",
-          "author": null,
-          "description": "Experiments in DAO governance",
-          "link": "https://linda.mirror.xyz/kZHqJdvMD6OWk8-c3SF-oBJFFX_JrAPkhhB8iJKNM60",
-          "publishedOn": "2022-12-21T03:00:02.000Z",
-          "wordCount": 5179,
-          "title": "Experiments in DAO governance",
-          "imageUrl": "https://mirror-media.imgix.net/nft/zs72PUMrcjzdjzxsGrZGt.png?h=null&w=null&auto=compress"
-        },
-        {
           "id": "https://metaversal.banklesshq.com/p/exchanging-nft-gifts-with-santafm",
           "author": null,
           "description": "Exchanging NFT gifts with Santa.FM 🎀",
@@ -121,7 +141,7 @@
           "description": "Announcing the 2023 ETHGlobal Season",
           "link": "https://ethglobal.medium.com/announcing-the-2023-ethglobal-season-3cc1960de7b4",
           "publishedOn": "2022-12-21T01:00:02.000Z",
-          "wordCount": 2503,
+          "wordCount": 2846,
           "title": "Announcing the 2023 ETHGlobal Season",
           "imageUrl": "https://miro.medium.com/max/1200/1*-Eu95wrEy40c95_DotrMjg.png"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://uniswap.org/images/posts/web-fiat-on-ramp/banner.png"
         },
         {
-          "id": "https://app.uniswap.org/",
-          "author": null,
-          "description": "Uniswap Interface",
-          "link": "https://app.uniswap.org/",
-          "publishedOn": "2022-12-20T21:30:04.000Z",
-          "wordCount": 91,
-          "title": "Uniswap Interface",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Z4uymBxErns&feature=youtu.be",
           "author": null,
           "description": "2022 in Review + How Cobie and Chris Burniske Are Playing the New Year - Ep. 434",
@@ -173,16 +183,6 @@
           "publishedOn": "2022-12-20T19:30:04.000Z",
           "wordCount": null,
           "title": "2022 in Review + How Cobie and Chris Burniske Are Playing the New Year - Ep. 434",
-          "imageUrl": null
-        },
-        {
-          "id": "https://download.lighthouse.world/Road-to-Interop.pdf",
-          "author": null,
-          "description": "[PDF] Road-to-Interop.pdf",
-          "link": "https://download.lighthouse.world/Road-to-Interop.pdf",
-          "publishedOn": "2022-12-20T19:00:03.000Z",
-          "wordCount": 443826,
-          "title": "[PDF] Road-to-Interop.pdf",
           "imageUrl": null
         },
         {
