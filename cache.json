@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nostr.directory/",
+          "author": null,
+          "description": "Nostr public keys of Twitter Accounts",
+          "link": "https://www.nostr.directory/",
+          "publishedOn": "2022-12-21T08:30:02.000Z",
+          "wordCount": 337,
+          "title": "Nostr public keys of Twitter Accounts",
+          "imageUrl": null
+        },
+        {
           "id": "https://subconscious.substack.com/p/soulbinding-like-a-state",
           "author": null,
           "description": "Soulbinding Like a State",
           "link": "https://subconscious.substack.com/p/soulbinding-like-a-state",
           "publishedOn": "2022-12-21T07:00:03.000Z",
-          "wordCount": 6638,
+          "wordCount": 6432,
           "title": "Soulbinding Like a State",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
         },
@@ -41,7 +51,7 @@
           "description": "How to Onramp to Crypto without a CEX",
           "link": "https://newsletter.banklesshq.com/p/how-to-onramp-to-crypto-without-a",
           "publishedOn": "2022-12-21T01:00:02.000Z",
-          "wordCount": 5785,
+          "wordCount": 5579,
           "title": "How to Onramp to Crypto without a CEX",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2b77bea-8d62-4557-9a3b-cc368c75a77e_1890x1063.jpeg"
         },
@@ -71,7 +81,7 @@
           "description": "With Sam Bankman-Fried's Hedge Fund Gone, Crypto Trading Firm Wintermute Emerges",
           "link": "https://www.forbes.com/sites/jeffkauflin/2022/12/20/with-sam-bankman-frieds-hedge-fund-gone-crypto-trading-firm-wintermute-emerges/?sh=1101e51b2bbb",
           "publishedOn": "2022-12-20T21:00:02.000Z",
-          "wordCount": 12217,
+          "wordCount": 11676,
           "title": "With Sam Bankman-Fried's Hedge Fund Gone, Crypto Trading Firm Wintermute Emerges",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/639b712697e048b61a0b0e3f/0x0.jpg?format=jpg&width=1200"
         },
@@ -194,16 +204,6 @@
           "wordCount": 11393,
           "title": "Visa Proposal Would Bring Ethereum Users One Step Closer To Being Their Own Bank",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63a0c10de38cfddd6936e6c2/0x0.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
-          "author": null,
-          "description": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
-          "link": "https://blog.pods.finance/pods-raises-5-6m-to-create-structured-products-for-crypto-assets-867ee606f33e?gi=250db1b90f1b&source=social.tw",
-          "publishedOn": "2022-12-19T22:30:02.000Z",
-          "wordCount": 2285,
-          "title": "Pods Raises $5.6M to Create Structured Products for Crypto Assets",
-          "imageUrl": "https://miro.medium.com/max/1200/1*g0Rt5xU2dNuqrOoTATGLKw.png"
         }
       ]
     }
