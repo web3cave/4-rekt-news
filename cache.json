@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://collective.flashbots.net/t/mev-roast-privacy-january-11th-2023/935?u=alex",
+          "id": "https://github.com/gakonst/ethers-rs/pull/1940",
           "author": null,
-          "description": "MEV Roast- Privacy- January 11th, 2023",
-          "link": "https://collective.flashbots.net/t/mev-roast-privacy-january-11th-2023/935?u=alex",
-          "publishedOn": "2022-12-21T18:30:03.000Z",
-          "wordCount": 404,
-          "title": "MEV Roast- Privacy- January 11th, 2023",
-          "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
+          "description": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
+          "link": "https://github.com/gakonst/ethers-rs/pull/1940",
+          "publishedOn": "2022-12-21T19:30:04.000Z",
+          "wordCount": 2296,
+          "title": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
+          "imageUrl": "https://opengraph.githubassets.com/fd0f0ceb09e8c124a5edd106b0999a02343cc3b5fa47bfea2eb7c06869532e91/gakonst/ethers-rs/pull/1940"
         },
         {
-          "id": "https://www.wsj.com/articles/the-stanford-guide-to-acceptable-words-elimination-of-harmful-language-initiative-11671489552?mod=opinion_lead_pos2",
+          "id": "https://docs.rs/ethers/latest/ethers/",
           "author": null,
-          "description": "Opinion | The Stanford Guide to Acceptable Words",
-          "link": "https://www.wsj.com/articles/the-stanford-guide-to-acceptable-words-elimination-of-harmful-language-initiative-11671489552?mod=opinion_lead_pos2",
-          "publishedOn": "2022-12-21T18:00:05.000Z",
-          "wordCount": 7085,
-          "title": "Opinion | The Stanford Guide to Acceptable Words",
-          "imageUrl": "https://images.wsj.net/im-688776/social"
+          "description": "ethers - Rust",
+          "link": "https://docs.rs/ethers/latest/ethers/",
+          "publishedOn": "2022-12-21T19:30:04.000Z",
+          "wordCount": 675,
+          "title": "ethers - Rust",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/gakonst/ethers-rs/tree/master/examples",
+          "author": null,
+          "description": "ethers-rs/examples at master · gakonst/ethers-rs",
+          "link": "https://github.com/gakonst/ethers-rs/tree/master/examples",
+          "publishedOn": "2022-12-21T19:30:04.000Z",
+          "wordCount": 395,
+          "title": "ethers-rs/examples at master · gakonst/ethers-rs",
+          "imageUrl": "https://opengraph.githubassets.com/9a5e658635aa3afac97b1622ac7896023f5b84a72be299b30b9c8bdb65138b8d/gakonst/ethers-rs"
+        },
+        {
+          "id": "https://github.com/morpho-dao/morpho-v1",
+          "author": null,
+          "description": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
+          "link": "https://github.com/morpho-dao/morpho-v1",
+          "publishedOn": "2022-12-21T19:30:04.000Z",
+          "wordCount": 1395,
+          "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
+          "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
         },
         {
           "id": "https://libertystreeteconomics.newyorkfed.org/2022/12/can-decentralized-finance-provide-more-protection-for-crypto-investors/",
@@ -46,14 +66,14 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221028_Core-Scientific-Bankruptcy-1200x675.jpg"
         },
         {
-          "id": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
+          "id": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
           "author": null,
-          "description": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
-          "link": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
-          "publishedOn": "2022-12-21T15:00:02.000Z",
-          "wordCount": 7480,
-          "title": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
-          "imageUrl": "https://images.wsj.net/im-688816/social"
+          "description": "Here's What I Saw at an AI Hackathon",
+          "link": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
+          "publishedOn": "2022-12-21T14:30:02.000Z",
+          "wordCount": 2874,
+          "title": "Here's What I Saw at an AI Hackathon",
+          "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2417/CA788540-A2CB-4DC3-AD60-F981625F1ABC.png"
         },
         {
           "id": "https://academy.stakedao.org/",
@@ -71,9 +91,9 @@
           "description": "Soulbinding Like a State",
           "link": "https://subconscious.substack.com/p/soulbinding-like-a-state",
           "publishedOn": "2022-12-21T07:00:03.000Z",
-          "wordCount": null,
+          "wordCount": 6432,
           "title": "Soulbinding Like a State",
-          "imageUrl": null
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
         },
         {
           "id": "https://linda.mirror.xyz/kZHqJdvMD6OWk8-c3SF-oBJFFX_JrAPkhhB8iJKNM60",
@@ -91,9 +111,9 @@
           "description": "Exchanging NFT gifts with Santa.FM 🎀",
           "link": "https://metaversal.banklesshq.com/p/exchanging-nft-gifts-with-santafm",
           "publishedOn": "2022-12-21T03:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 3559,
           "title": "Exchanging NFT gifts with Santa.FM 🎀",
-          "imageUrl": null
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c001528-9ca1-404e-9d3e-36598ad92ca9_1600x793.png"
         },
         {
           "id": "https://ethglobal.medium.com/announcing-the-2023-ethglobal-season-3cc1960de7b4",
@@ -111,9 +131,9 @@
           "description": "How to Onramp to Crypto without a CEX",
           "link": "https://newsletter.banklesshq.com/p/how-to-onramp-to-crypto-without-a",
           "publishedOn": "2022-12-21T01:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 5579,
           "title": "How to Onramp to Crypto without a CEX",
-          "imageUrl": null
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2b77bea-8d62-4557-9a3b-cc368c75a77e_1890x1063.jpeg"
         },
         {
           "id": "https://app.icns.xyz/",
@@ -146,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.forbes.com/sites/jeffkauflin/2022/12/20/with-sam-bankman-frieds-hedge-fund-gone-crypto-trading-firm-wintermute-emerges/?sh=1101e51b2bbb",
-          "author": null,
-          "description": "With Sam Bankman-Fried's Hedge Fund Gone, Crypto Trading Firm Wintermute Emerges",
-          "link": "https://www.forbes.com/sites/jeffkauflin/2022/12/20/with-sam-bankman-frieds-hedge-fund-gone-crypto-trading-firm-wintermute-emerges/?sh=1101e51b2bbb",
-          "publishedOn": "2022-12-20T21:00:02.000Z",
-          "wordCount": 12149,
-          "title": "With Sam Bankman-Fried's Hedge Fund Gone, Crypto Trading Firm Wintermute Emerges",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/639b712697e048b61a0b0e3f/0x0.jpg?format=jpg&width=1200"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Z4uymBxErns&feature=youtu.be",
           "author": null,
           "description": "2022 in Review + How Cobie and Chris Burniske Are Playing the New Year - Ep. 434",
@@ -184,16 +194,6 @@
           "wordCount": 36,
           "title": "SCHELLING POINT DENVER",
           "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-twitter-card.jpg"
-        },
-        {
-          "id": "https://writings.flashbots.net/geth-inside-sgx/",
-          "author": null,
-          "description": "Running Geth within SGX: Our Experience, Learnings and Code | Flashbots",
-          "link": "https://writings.flashbots.net/geth-inside-sgx/",
-          "publishedOn": "2022-12-20T17:00:03.000Z",
-          "wordCount": 981,
-          "title": "Running Geth within SGX: Our Experience, Learnings and Code | Flashbots",
-          "imageUrl": "https://writings.flashbots.net/img/posts/sgx-og.jpg"
         },
         {
           "id": "https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe",
