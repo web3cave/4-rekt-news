@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=theses_2023&v=oStI7jVPkXM&feature=youtu.be",
+          "author": null,
+          "description": "Theses 2023 Fireside Chat with Balaji Srinivasan and Ryan Selkis",
+          "link": "https://www.youtube.com/watch?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=theses_2023&v=oStI7jVPkXM&feature=youtu.be",
+          "publishedOn": "2022-12-22T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Theses 2023 Fireside Chat with Balaji Srinivasan and Ryan Selkis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Sovereign-Labs/sovereign-sdk",
+          "author": null,
+          "description": "GitHub - Sovereign-Labs/sovereign-sdk",
+          "link": "https://github.com/Sovereign-Labs/sovereign-sdk",
+          "publishedOn": "2022-12-22T01:00:02.000Z",
+          "wordCount": 497,
+          "title": "GitHub - Sovereign-Labs/sovereign-sdk",
+          "imageUrl": "https://opengraph.githubassets.com/48dc8d13349fe26577cd5db6ded55e8ace41e24fde67f1deff2c95b2287a00a2/Sovereign-Labs/sovereign-sdk"
+        },
+        {
+          "id": "https://gist.github.com/jameswenzel/86d2e1a524ffc66eb424770f74165a49",
+          "author": null,
+          "description": "Helper functions for interacting with chains and Foundry tests. Source from .zshrc etc",
+          "link": "https://gist.github.com/jameswenzel/86d2e1a524ffc66eb424770f74165a49",
+          "publishedOn": "2022-12-22T01:00:02.000Z",
+          "wordCount": 1483,
+          "title": "Helper functions for interacting with chains and Foundry tests. Source from .zshrc etc",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
+          "id": "https://tokyo.ethglobal.com/",
+          "author": null,
+          "description": "ETHGlobal Tokyo",
+          "link": "https://tokyo.ethglobal.com/",
+          "publishedOn": "2022-12-21T23:30:04.000Z",
+          "wordCount": 13,
+          "title": "ETHGlobal Tokyo",
+          "imageUrl": null
+        },
+        {
           "id": "https://updates.kickstarter.com/ai-current-thinking/",
           "author": null,
           "description": "Our Current Thinking on the Use of AI-Generated Image Software and AI Art",
@@ -51,9 +91,9 @@
           "description": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
           "link": "https://github.com/gakonst/ethers-rs/pull/1940",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 2347,
+          "wordCount": 2314,
           "title": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
-          "imageUrl": "https://opengraph.githubassets.com/8407ac3686dda6203fe40c05c893865b5627f5c1c1c3862aefb4beb38b782595/gakonst/ethers-rs/pull/1940"
+          "imageUrl": "https://opengraph.githubassets.com/25a4847bad9ce1f7a3e7b48935f716bf6f053730b039b5eaf40979ee15811d1a/gakonst/ethers-rs/pull/1940"
         },
         {
           "id": "https://docs.rs/ethers/latest/ethers/",
@@ -81,19 +121,9 @@
           "description": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "link": "https://github.com/morpho-dao/morpho-v1",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 1395,
+          "wordCount": 1600,
           "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
-        },
-        {
-          "id": "https://santa.fm/",
-          "author": null,
-          "description": "Santa.FM",
-          "link": "https://santa.fm/",
-          "publishedOn": "2022-12-21T17:00:02.000Z",
-          "wordCount": 1804,
-          "title": "Santa.FM",
-          "imageUrl": "https://santa.fm/images/social_share.png"
         },
         {
           "id": "https://libertystreeteconomics.newyorkfed.org/2022/12/can-decentralized-finance-provide-more-protection-for-crypto-investors/",
@@ -111,7 +141,7 @@
           "description": "Publicly traded crypto miner Core Scientific files for Chapter 11 bankruptcy",
           "link": "https://www.theblock.co/post/196925/core-scientific-files-chapter-11-bankruptcy?utm_source=twitter&utm_medium=social",
           "publishedOn": "2022-12-21T15:00:02.000Z",
-          "wordCount": 62465,
+          "wordCount": 61666,
           "title": "Publicly traded crypto miner Core Scientific files for Chapter 11 bankruptcy",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221028_Core-Scientific-Bankruptcy-1200x675.jpg"
         },
@@ -121,7 +151,7 @@
           "description": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
           "link": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
           "publishedOn": "2022-12-21T15:00:02.000Z",
-          "wordCount": 7463,
+          "wordCount": 7444,
           "title": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
           "imageUrl": "https://images.wsj.net/im-688816/social"
         },
@@ -131,7 +161,7 @@
           "description": "Here's What I Saw at an AI Hackathon",
           "link": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
           "publishedOn": "2022-12-21T14:30:02.000Z",
-          "wordCount": 2861,
+          "wordCount": 2939,
           "title": "Here's What I Saw at an AI Hackathon",
           "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2417/CA788540-A2CB-4DC3-AD60-F981625F1ABC.png"
         },
@@ -151,7 +181,7 @@
           "description": "Soulbinding Like a State",
           "link": "https://subconscious.substack.com/p/soulbinding-like-a-state",
           "publishedOn": "2022-12-21T07:00:03.000Z",
-          "wordCount": 6432,
+          "wordCount": 6431,
           "title": "Soulbinding Like a State",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
         },
@@ -166,16 +196,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*-Eu95wrEy40c95_DotrMjg.png"
         },
         {
-          "id": "https://app.icns.xyz/",
-          "author": null,
-          "description": "Interchain Name Service",
-          "link": "https://app.icns.xyz/",
-          "publishedOn": "2022-12-20T23:30:04.000Z",
-          "wordCount": 224,
-          "title": "Interchain Name Service",
-          "imageUrl": "https://app.icns.xyz/images/og-image.jpg"
-        },
-        {
           "id": "https://uniswap.org/blog/web-fiat-on-ramp",
           "author": null,
           "description": "Buy crypto with your card or bank account",
@@ -184,26 +204,6 @@
           "wordCount": 1802,
           "title": "Buy crypto with your card or bank account",
           "imageUrl": "https://uniswap.org/images/posts/web-fiat-on-ramp/banner.png"
-        },
-        {
-          "id": "https://schellingpoint.gitcoin.co/",
-          "author": null,
-          "description": "SCHELLING POINT DENVER",
-          "link": "https://schellingpoint.gitcoin.co/",
-          "publishedOn": "2022-12-20T17:30:04.000Z",
-          "wordCount": 36,
-          "title": "SCHELLING POINT DENVER",
-          "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-twitter-card.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe",
-          "author": null,
-          "description": "Columbia CryptoEconomics - YouTube",
-          "link": "https://www.youtube.com/playlist?list=PLpktWkixc1gUqkyc1-iE6TT0RWQTBJELe",
-          "publishedOn": "2022-12-20T12:00:04.000Z",
-          "wordCount": 1679,
-          "title": "Columbia CryptoEconomics - YouTube",
-          "imageUrl": "https://i.ytimg.com/vi/175fuv2RJUo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBKg8Z6TcaAfqYAaUcjmle8kZ85Yg&days_since_epoch=19347"
         }
       ]
     }
