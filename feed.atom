@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-22T14:16:32.009Z</id>
+    <id>urn:2022-12-22T15:19:43.087Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-22T14:16:32.009Z</updated>
+    <updated>2022-12-22T15:19:43.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Santa.FM]]></title>
+        <id>https://santa.fm/</id>
+        <link href="https://santa.fm/"/>
+        <updated>2022-12-22T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Santa.FM]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Axie Passed Google Play Store Review!]]></title>
         <id>https://axie.substack.com/p/googleplaystore</id>
@@ -71,6 +81,16 @@
         <link href="https://www.sec.gov/news/press-release/2022-234"/>
         <updated>2022-12-22T03:30:04.000Z</updated>
         <summary type="html"><![CDATA[SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDVMM by Yuga Labs]]></title>
+        <id>https://mdvmm.xyz/</id>
+        <link href="https://mdvmm.xyz/"/>
+        <updated>2022-12-22T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[MDVMM by Yuga Labs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -146,41 +166,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀]]></title>
+        <id>https://google.github.io/comprehensive-rust/</id>
+        <link href="https://google.github.io/comprehensive-rust/"/>
+        <updated>2022-12-21T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.]]></title>
         <id>https://github.com/morpho-dao/morpho-v1</id>
         <link href="https://github.com/morpho-dao/morpho-v1"/>
         <updated>2022-12-21T19:30:04.000Z</updated>
         <summary type="html"><![CDATA[GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs]]></title>
-        <id>https://github.com/gakonst/ethers-rs/pull/1940</id>
-        <link href="https://github.com/gakonst/ethers-rs/pull/1940"/>
-        <updated>2022-12-21T19:30:04.000Z</updated>
-        <summary type="html"><![CDATA[refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ethers - Rust]]></title>
-        <id>https://docs.rs/ethers/latest/ethers/</id>
-        <link href="https://docs.rs/ethers/latest/ethers/"/>
-        <updated>2022-12-21T19:30:04.000Z</updated>
-        <summary type="html"><![CDATA[ethers - Rust]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ethers-rs/examples at master · gakonst/ethers-rs]]></title>
-        <id>https://github.com/gakonst/ethers-rs/tree/master/examples</id>
-        <link href="https://github.com/gakonst/ethers-rs/tree/master/examples"/>
-        <updated>2022-12-21T19:30:04.000Z</updated>
-        <summary type="html"><![CDATA[ethers-rs/examples at master · gakonst/ethers-rs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

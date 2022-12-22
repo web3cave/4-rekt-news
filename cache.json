@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://santa.fm/",
+          "author": null,
+          "description": "Santa.FM",
+          "link": "https://santa.fm/",
+          "publishedOn": "2022-12-22T15:00:02.000Z",
+          "wordCount": 1804,
+          "title": "Santa.FM",
+          "imageUrl": "https://santa.fm/images/social_share.png"
+        },
+        {
           "id": "https://axie.substack.com/p/googleplaystore",
           "author": null,
           "description": "Axie Passed Google Play Store Review!",
           "link": "https://axie.substack.com/p/googleplaystore",
           "publishedOn": "2022-12-22T11:00:02.000Z",
-          "wordCount": 1515,
+          "wordCount": 1512,
           "title": "Axie Passed Google Play Store Review!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758fe981-a81b-4444-86ad-13a785c751ed_2000x837.png"
         },
@@ -31,7 +41,7 @@
           "description": "Caroline Ellison Plea Agreement: $250,000 Bail, Surrender of Travel Documents, Forfeiture of Assets",
           "link": "https://www.coindesk.com/business/2022/12/22/caroline-ellison-plea-agreement-250000-bail-surrender-of-travel-documents-forfeiture-of-assets/?utm_campaign=coindesk_main&utm_term=organic&utm_medium=social&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2022-12-22T08:00:05.000Z",
-          "wordCount": 20652,
+          "wordCount": 20492,
           "title": "Caroline Ellison Plea Agreement: $250,000 Bail, Surrender of Travel Documents, Forfeiture of Assets",
           "imageUrl": "https://www.coindesk.com/resizer/fircCy2_9yj-ywVqqGkNmcbb-9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y6UVCBTWAFCXNH4DF2CH4BTQKI.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
           "link": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
           "publishedOn": "2022-12-22T04:00:04.000Z",
-          "wordCount": 58864,
+          "wordCount": 59189,
           "title": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX2-1200x675.jpg"
         },
@@ -61,9 +71,9 @@
           "description": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
           "link": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
           "publishedOn": "2022-12-22T03:30:04.000Z",
-          "wordCount": 6666,
+          "wordCount": null,
           "title": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/21/multimedia/21ftx-charges-1-d02b/21ftx-charges-1-d02b-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.sec.gov/news/press-release/2022-234",
@@ -74,6 +84,16 @@
           "wordCount": 2241,
           "title": "SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX",
           "imageUrl": null
+        },
+        {
+          "id": "https://mdvmm.xyz/",
+          "author": null,
+          "description": "MDVMM by Yuga Labs",
+          "link": "https://mdvmm.xyz/",
+          "publishedOn": "2022-12-22T03:00:02.000Z",
+          "wordCount": 4,
+          "title": "MDVMM by Yuga Labs",
+          "imageUrl": "/images/share-fb.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=theses_2023&v=oStI7jVPkXM&feature=youtu.be",
@@ -146,44 +166,24 @@
           "imageUrl": "https://y6n5x3v5.rocketcdn.me/wp-content/uploads/2022/12/amr-serag-7GLsZZ0qBIk-unsplash.jpg"
         },
         {
+          "id": "https://google.github.io/comprehensive-rust/",
+          "author": null,
+          "description": "Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀",
+          "link": "https://google.github.io/comprehensive-rust/",
+          "publishedOn": "2022-12-21T20:00:05.000Z",
+          "wordCount": 842,
+          "title": "Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/morpho-dao/morpho-v1",
           "author": null,
           "description": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "link": "https://github.com/morpho-dao/morpho-v1",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 1395,
+          "wordCount": 1600,
           "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
-        },
-        {
-          "id": "https://github.com/gakonst/ethers-rs/pull/1940",
-          "author": null,
-          "description": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
-          "link": "https://github.com/gakonst/ethers-rs/pull/1940",
-          "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 2517,
-          "title": "refactor: examples by 0xMelkor · Pull Request #1940 · gakonst/ethers-rs",
-          "imageUrl": "https://opengraph.githubassets.com/53c41073289d36d02e6a67cf4e5a2c23113bb9052bae42c6dc519416c553d727/gakonst/ethers-rs/pull/1940"
-        },
-        {
-          "id": "https://docs.rs/ethers/latest/ethers/",
-          "author": null,
-          "description": "ethers - Rust",
-          "link": "https://docs.rs/ethers/latest/ethers/",
-          "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 675,
-          "title": "ethers - Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/gakonst/ethers-rs/tree/master/examples",
-          "author": null,
-          "description": "ethers-rs/examples at master · gakonst/ethers-rs",
-          "link": "https://github.com/gakonst/ethers-rs/tree/master/examples",
-          "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 365,
-          "title": "ethers-rs/examples at master · gakonst/ethers-rs",
-          "imageUrl": "https://opengraph.githubassets.com/61d11a2ccef803c94d9064e26195828e53ff9afd3a71faffb4bb0f7fcea62a6b/gakonst/ethers-rs"
         },
         {
           "id": "https://libertystreeteconomics.newyorkfed.org/2022/12/can-decentralized-finance-provide-more-protection-for-crypto-investors/",
