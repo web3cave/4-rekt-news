@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
+          "author": null,
+          "description": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
+          "link": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
+          "publishedOn": "2022-12-22T04:00:04.000Z",
+          "wordCount": 59782,
+          "title": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX2-1200x675.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
+          "author": null,
+          "description": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
+          "link": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
+          "publishedOn": "2022-12-22T03:30:04.000Z",
+          "wordCount": null,
+          "title": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2022-234",
+          "author": null,
+          "description": "SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX",
+          "link": "https://www.sec.gov/news/press-release/2022-234",
+          "publishedOn": "2022-12-22T03:30:04.000Z",
+          "wordCount": 2241,
+          "title": "SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=theses_2023&v=oStI7jVPkXM&feature=youtu.be",
           "author": null,
           "description": "Theses 2023 Fireside Chat with Balaji Srinivasan and Ryan Selkis",
@@ -64,16 +94,6 @@
           "wordCount": 404,
           "title": "MEV Roast- Privacy- January 11th, 2023",
           "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
-        },
-        {
-          "id": "https://fiftyyears.com/spinout",
-          "author": null,
-          "description": "Spinout Playbook — Fifty Years",
-          "link": "https://fiftyyears.com/spinout",
-          "publishedOn": "2022-12-21T21:30:04.000Z",
-          "wordCount": 11401,
-          "title": "Spinout Playbook — Fifty Years",
-          "imageUrl": "http://static1.squarespace.com/static/57794de3f7e0ab3baff27ef0/t/63a24e3e3af99717ba6e8897/1671581250722/spinout_Ln.png?format=1500w"
         },
         {
           "id": "https://public.zkevm-test.net/",
@@ -146,16 +166,6 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221028_Core-Scientific-Bankruptcy-1200x675.jpg"
         },
         {
-          "id": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
-          "author": null,
-          "description": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
-          "link": "https://www.wsj.com/articles/crypto-giant-binance-offers-little-transparency-after-ftx-collapse-11671624657?mod=Searchresults_pos1&page=1",
-          "publishedOn": "2022-12-21T15:00:02.000Z",
-          "wordCount": 7447,
-          "title": "Crypto Giant Binance Offers Little Transparency After FTX Collapse",
-          "imageUrl": "https://images.wsj.net/im-688816/social"
-        },
-        {
           "id": "https://every.to/superorganizers/the-knee-of-the-exponential-curve",
           "author": null,
           "description": "Here's What I Saw at an AI Hackathon",
@@ -181,7 +191,7 @@
           "description": "Soulbinding Like a State",
           "link": "https://subconscious.substack.com/p/soulbinding-like-a-state",
           "publishedOn": "2022-12-21T07:00:03.000Z",
-          "wordCount": 6638,
+          "wordCount": 6432,
           "title": "Soulbinding Like a State",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c7a067a-eaeb-4401-99c9-d619bc2e8329_805x604.jpeg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 2846,
           "title": "Announcing the 2023 ETHGlobal Season",
           "imageUrl": "https://miro.medium.com/max/1200/1*-Eu95wrEy40c95_DotrMjg.png"
-        },
-        {
-          "id": "https://uniswap.org/blog/web-fiat-on-ramp",
-          "author": null,
-          "description": "Buy crypto with your card or bank account",
-          "link": "https://uniswap.org/blog/web-fiat-on-ramp",
-          "publishedOn": "2022-12-20T23:00:02.000Z",
-          "wordCount": 1802,
-          "title": "Buy crypto with your card or bank account",
-          "imageUrl": "https://uniswap.org/images/posts/web-fiat-on-ramp/banner.png"
         }
       ]
     }
