@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.syncracy.io/",
+          "author": null,
+          "description": "Syncracy Capital",
+          "link": "https://www.syncracy.io/",
+          "publishedOn": "2022-12-23T03:00:03.000Z",
+          "wordCount": 794,
+          "title": "Syncracy Capital",
+          "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/t/63a4f92deaff4244ac03eec8/1671756077174/Snycracy_WebLogo.png?format=1500w"
+        },
+        {
+          "id": "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
+          "author": null,
+          "description": "Notice of Recent Security Incident - The LastPass Blog",
+          "link": "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/",
+          "publishedOn": "2022-12-23T03:00:02.000Z",
+          "wordCount": 3218,
+          "title": "Notice of Recent Security Incident - The LastPass Blog",
+          "imageUrl": "https://blog.lastpass.com/wp-content/uploads/sites/20/2022/08/iStock-621574390-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=htuY3hOgQGM&feature=youtu.be",
+          "author": null,
+          "description": "Notorious Threadooor Adam Cochran explains his Crypto Shopping and Shorting List",
+          "link": "https://www.youtube.com/watch?v=htuY3hOgQGM&feature=youtu.be",
+          "publishedOn": "2022-12-23T03:00:02.000Z",
+          "wordCount": null,
+          "title": "Notorious Threadooor Adam Cochran explains his Crypto Shopping and Shorting List",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.axios.com/2022/12/22/coinbase-brian-armstrong-ftx-defi-regulation",
           "author": null,
           "description": "Coinbase CEO Brian Armstrong talks FTX, crypto regulation and DeFi",
@@ -64,16 +94,6 @@
           "wordCount": null,
           "title": "The Death of Decentralization in SMTP  | Plan ₿ Forum 2022 | Lugano",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.curio.gg/introducing-treaty/",
-          "author": null,
-          "description": "Introducing Treaty",
-          "link": "https://blog.curio.gg/introducing-treaty/",
-          "publishedOn": "2022-12-22T19:00:02.000Z",
-          "wordCount": 1442,
-          "title": "Introducing Treaty",
-          "imageUrl": "https://blog.curio.gg/content/images/2022/12/asdf-1.png"
         },
         {
           "id": "https://open.spotify.com/episode/0FERd91KNoTPEWqXRikSL3?si=f21d895ab6e14d84",
@@ -146,26 +166,6 @@
           "imageUrl": "https://www.cftc.gov/sites/default/files/CFTC-OB-Photo-200113-Press-6.jpg"
         },
         {
-          "id": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
-          "author": null,
-          "description": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
-          "link": "https://www.theblock.co/post/197342/bankman-fried-in-fbi-custody-ellison-wang-plead-guilty-and-are-cooperating",
-          "publishedOn": "2022-12-22T04:00:04.000Z",
-          "wordCount": 59848,
-          "title": "Bankman-Fried in FBI custody, Ellison, Wang plead guilty and are cooperating",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_FTX2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
-          "author": null,
-          "description": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
-          "link": "https://www.nytimes.com/2022/12/21/technology/ftx-fraud-guilty-pleas.html?smid=tw-share",
-          "publishedOn": "2022-12-22T03:30:04.000Z",
-          "wordCount": 6695,
-          "title": "Two Executives in Sam Bankman-Fried’s Crypto Empire Plead Guilty to Fraud",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/21/multimedia/21ftx-charges-1-d02b/21ftx-charges-1-d02b-facebookJumbo.jpg"
-        },
-        {
           "id": "https://www.sec.gov/news/press-release/2022-234",
           "author": null,
           "description": "SEC.gov | SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX",
@@ -181,9 +181,9 @@
           "description": "MDVMM by Yuga Labs",
           "link": "https://mdvmm.xyz/",
           "publishedOn": "2022-12-22T03:00:02.000Z",
-          "wordCount": 4,
+          "wordCount": null,
           "title": "MDVMM by Yuga Labs",
-          "imageUrl": "/images/share-fb.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=oStI7jVPkXM",
@@ -201,7 +201,7 @@
           "description": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "link": "https://github.com/morpho-dao/morpho-v1",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 1578,
+          "wordCount": 1600,
           "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
         }
