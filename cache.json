@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.axios.com/2022/12/22/coinbase-brian-armstrong-ftx-defi-regulation",
+          "author": null,
+          "description": "Coinbase CEO Brian Armstrong talks FTX, crypto regulation and DeFi",
+          "link": "https://www.axios.com/2022/12/22/coinbase-brian-armstrong-ftx-defi-regulation",
+          "publishedOn": "2022-12-23T01:30:04.000Z",
+          "wordCount": 3920,
+          "title": "Coinbase CEO Brian Armstrong talks FTX, crypto regulation and DeFi",
+          "imageUrl": "https://images.axios.com/kQl1R36uvkx0JnUikR3k-ZwyNbM=/0x0:1920x1080/1366x768/2022/12/21/1671656930880.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Tjk2HVd8WDs&feature=youtu.be",
+          "author": null,
+          "description": "SBF extradited to the U.S, Optimism Bedrock and more - The Daily Gwei Refuel #512 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=Tjk2HVd8WDs&feature=youtu.be",
+          "publishedOn": "2022-12-23T01:30:04.000Z",
+          "wordCount": null,
+          "title": "SBF extradited to the U.S, Optimism Bedrock and more - The Daily Gwei Refuel #512 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ethereum.org/en/",
+          "author": null,
+          "description": "Home | ethereum.org",
+          "link": "https://ethereum.org/en/",
+          "publishedOn": "2022-12-23T01:30:04.000Z",
+          "wordCount": 3111,
+          "title": "Home | ethereum.org",
+          "imageUrl": "https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WGL7jxPZuDM",
           "author": null,
           "description": "Crypto Thesis for 2023 | Ryan Selkis",
@@ -16,44 +46,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/ice-prepares-release-illegal-immigrants-tennessee",
-          "author": null,
-          "description": "ICE Prepares To Release Illegal Immigrants In Tennessee | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/ice-prepares-release-illegal-immigrants-tennessee",
-          "publishedOn": "2022-12-22T23:00:03.000Z",
-          "wordCount": 2167,
-          "title": "ICE Prepares To Release Illegal Immigrants In Tennessee | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/sam-bankman-fried-to-make-first-appearance-in-u-s-court-11671730216",
-          "author": null,
-          "description": "Sam Bankman-Fried to Be Released on $250 Million Bond",
-          "link": "https://www.wsj.com/articles/sam-bankman-fried-to-make-first-appearance-in-u-s-court-11671730216",
-          "publishedOn": "2022-12-22T21:00:02.000Z",
-          "wordCount": 7756,
-          "title": "Sam Bankman-Fried to Be Released on $250 Million Bond",
-          "imageUrl": "https://images.wsj.net/im-690522/social"
-        },
-        {
           "id": "https://www.cnbc.com/2022/12/22/ftx-founder-sam-bankman-fried-to-be-released-on-250-million-bail.html",
           "author": null,
           "description": "FTX founder Sam Bankman-Fried to be released on $250 million bail, will live with his parents",
           "link": "https://www.cnbc.com/2022/12/22/ftx-founder-sam-bankman-fried-to-be-released-on-250-million-bail.html",
           "publishedOn": "2022-12-22T20:00:05.000Z",
-          "wordCount": 17389,
+          "wordCount": 17388,
           "title": "FTX founder Sam Bankman-Fried to be released on $250 million bail, will live with his parents",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107169989-1671666602093-gettyimages-1451152696-029a6648_9afdcfb2-7d82-4df2-ab6f-d8cd93d45c54.jpeg?v=1671734197&w=1920&h=1080"
-        },
-        {
-          "id": "https://orb.ac/",
-          "author": null,
-          "description": "ORB: Decentralized Social Media App",
-          "link": "https://orb.ac/",
-          "publishedOn": "2022-12-22T19:30:06.000Z",
-          "wordCount": 277,
-          "title": "ORB: Decentralized Social Media App",
-          "imageUrl": "https://orb.ac/images/preview.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=_-eqkiJMnUc",
@@ -121,7 +121,7 @@
           "description": "Axie Passed Google Play Store Review!",
           "link": "https://axie.substack.com/p/googleplaystore",
           "publishedOn": "2022-12-22T11:00:02.000Z",
-          "wordCount": 1582,
+          "wordCount": 1788,
           "title": "Axie Passed Google Play Store Review!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758fe981-a81b-4444-86ad-13a785c751ed_2000x837.png"
         },
@@ -201,7 +201,7 @@
           "description": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "link": "https://github.com/morpho-dao/morpho-v1",
           "publishedOn": "2022-12-21T19:30:04.000Z",
-          "wordCount": 1600,
+          "wordCount": 1578,
           "title": "GitHub - morpho-dao/morpho-v1: Core contracts of Morpho's protocol V1.",
           "imageUrl": "https://repository-images.githubusercontent.com/384546699/9dfb8888-d87f-4e03-93bf-7c09baa2134a"
         }
