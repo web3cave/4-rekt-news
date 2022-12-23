@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T18:21:47.843Z</id>
+    <id>urn:2022-12-23T19:14:11.115Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T18:21:47.843Z</updated>
+    <updated>2022-12-23T19:14:11.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Santa.FM]]></title>
+        <id>https://santa.fm/</id>
+        <link href="https://santa.fm/"/>
+        <updated>2022-12-23T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Santa.FM]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freeport LNG Announces Another Delay, Sending US NatGas Prices Lower | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/commodities/freeport-lng-announces-another-delay-sending-us-natgas-prices-lower</id>
         <link href="https://www.zerohedge.com/commodities/freeport-lng-announces-another-delay-sending-us-natgas-prices-lower"/>
         <updated>2022-12-23T18:00:04.000Z</updated>
         <summary type="html"><![CDATA[Freeport LNG Announces Another Delay, Sending US NatGas Prices Lower | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMich Inflation Expectations Tumble To 18-Month Lows | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/personal-finance/umich-inflation-expectations-tumble-18-month-lows</id>
-        <link href="https://www.zerohedge.com/personal-finance/umich-inflation-expectations-tumble-18-month-lows"/>
-        <updated>2022-12-23T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[UMich Inflation Expectations Tumble To 18-Month Lows | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,6 +136,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Billing - The Graph Docs]]></title>
+        <id>https://thegraph.com/docs/en/billing/</id>
+        <link href="https://thegraph.com/docs/en/billing/"/>
+        <updated>2022-12-23T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Billing - The Graph Docs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages]]></title>
         <id>https://github.com/spalladino/zkp-tests</id>
         <link href="https://github.com/spalladino/zkp-tests"/>
@@ -181,16 +191,6 @@
         <link href="https://www.cnbc.com/2022/12/22/ftx-founder-sam-bankman-fried-to-be-released-on-250-million-bail.html"/>
         <updated>2022-12-22T20:00:05.000Z</updated>
         <summary type="html"><![CDATA[FTX founder Sam Bankman-Fried to be released on $250 million bail, will live with his parents]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Treaty]]></title>
-        <id>https://blog.curio.gg/introducing-treaty/</id>
-        <link href="https://blog.curio.gg/introducing-treaty/"/>
-        <updated>2022-12-22T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Treaty]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://santa.fm/",
+          "author": null,
+          "description": "Santa.FM",
+          "link": "https://santa.fm/",
+          "publishedOn": "2022-12-23T19:00:02.000Z",
+          "wordCount": 1804,
+          "title": "Santa.FM",
+          "imageUrl": "https://santa.fm/images/social_share.png"
+        },
+        {
           "id": "https://www.zerohedge.com/commodities/freeport-lng-announces-another-delay-sending-us-natgas-prices-lower",
           "author": null,
           "description": "Freeport LNG Announces Another Delay, Sending US NatGas Prices Lower | ZeroHedge",
@@ -13,16 +23,6 @@
           "publishedOn": "2022-12-23T18:00:04.000Z",
           "wordCount": 697,
           "title": "Freeport LNG Announces Another Delay, Sending US NatGas Prices Lower | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/umich-inflation-expectations-tumble-18-month-lows",
-          "author": null,
-          "description": "UMich Inflation Expectations Tumble To 18-Month Lows | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/umich-inflation-expectations-tumble-18-month-lows",
-          "publishedOn": "2022-12-23T18:00:04.000Z",
-          "wordCount": 541,
-          "title": "UMich Inflation Expectations Tumble To 18-Month Lows | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -61,7 +61,7 @@
           "description": "FTX US auditor Armanino defends work for failed crypto exchange",
           "link": "https://www.ft.com/content/42087255-92ad-45b7-b5ad-3b8457e0c1f8",
           "publishedOn": "2022-12-23T15:00:02.000Z",
-          "wordCount": 1603,
+          "wordCount": 1604,
           "title": "FTX US auditor Armanino defends work for failed crypto exchange",
           "imageUrl": null
         },
@@ -91,9 +91,9 @@
           "description": "Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws",
           "link": "https://www.nytimes.com/2022/12/22/business/gary-gensler-sec-crypto.html",
           "publishedOn": "2022-12-23T06:00:04.000Z",
-          "wordCount": 5029,
+          "wordCount": null,
           "title": "Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws",
-          "imageUrl": "https://static01.nyt.com/images/2022/12/22/multimedia/22Gensler-Crypto-01-1-c1f7/22Gensler-Crypto-01-1-c1f7-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://news.artnet.com/market/nft-marketplace-opensea-delisting-cuban-artists-us-sanctions-2235440",
@@ -136,6 +136,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://thegraph.com/docs/en/billing/",
+          "author": null,
+          "description": "Billing - The Graph Docs",
+          "link": "https://thegraph.com/docs/en/billing/",
+          "publishedOn": "2022-12-23T03:00:02.000Z",
+          "wordCount": 2763,
+          "title": "Billing - The Graph Docs",
+          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-website.jpg"
+        },
+        {
           "id": "https://github.com/spalladino/zkp-tests",
           "author": null,
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
@@ -143,7 +153,7 @@
           "publishedOn": "2022-12-23T03:00:02.000Z",
           "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/3845583ce10ed887414c567d32516e00f58ff5f5d896ac4c962de4fe3fb5a358/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/05076cd6fc5ed5e287d76a1d450a13b15c5c5952527ad9d2d95fb4407637e320/spalladino/zkp-tests"
         },
         {
           "id": "https://ethereum.org/en/",
@@ -184,16 +194,6 @@
           "wordCount": 17785,
           "title": "FTX founder Sam Bankman-Fried to be released on $250 million bail, will live with his parents",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107169989-1671666602093-gettyimages-1451152696-029a6648_9afdcfb2-7d82-4df2-ab6f-d8cd93d45c54.jpeg?v=1671734197&w=1920&h=1080"
-        },
-        {
-          "id": "https://blog.curio.gg/introducing-treaty/",
-          "author": null,
-          "description": "Introducing Treaty",
-          "link": "https://blog.curio.gg/introducing-treaty/",
-          "publishedOn": "2022-12-22T19:00:02.000Z",
-          "wordCount": 1442,
-          "title": "Introducing Treaty",
-          "imageUrl": "https://blog.curio.gg/content/images/2022/12/asdf-1.png"
         },
         {
           "id": "https://www.newhere.xyz/mint",
