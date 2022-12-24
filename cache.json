@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://pepe.wtf/",
+          "author": null,
+          "description": "Pepe.wtf",
+          "link": "https://pepe.wtf/",
+          "publishedOn": "2022-12-24T15:00:02.000Z",
+          "wordCount": 1275,
+          "title": "Pepe.wtf",
+          "imageUrl": "https://pepe.wtf/cover.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nVvWFCQyPXA&feature=youtu.be",
+          "author": null,
+          "description": "Trump Supporters Use Battering Ram to Storm US Capitol",
+          "link": "https://www.youtube.com/watch?v=nVvWFCQyPXA&feature=youtu.be",
+          "publishedOn": "2022-12-24T13:30:04.000Z",
+          "wordCount": null,
+          "title": "Trump Supporters Use Battering Ram to Storm US Capitol",
+          "imageUrl": null
+        },
+        {
           "id": "https://zkasino.medium.com/zkasino-pre-audit-by-chatgpt-89969730cc79",
           "author": null,
           "description": "ZKasino pre-audit by ChatGPT",
@@ -21,7 +41,7 @@
           "description": "geb-data-science/controller_monitoring.png at master · reflexer-labs/geb-data-science",
           "link": "https://github.com/reflexer-labs/geb-data-science/blob/master/controller/output/controller_monitoring.png",
           "publishedOn": "2022-12-24T11:00:03.000Z",
-          "wordCount": 373,
+          "wordCount": 358,
           "title": "geb-data-science/controller_monitoring.png at master · reflexer-labs/geb-data-science",
           "imageUrl": "https://opengraph.githubassets.com/83d7a4f9dc3402dbee26ecaaaec178358a2209dee899493e4b6202900e014f68/reflexer-labs/geb-data-science"
         },
@@ -76,26 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/technology/scientists-develop-gelatinous-robots-crawl-through-human-body-deliver-medical-payloads",
-          "author": null,
-          "description": "Scientists Develop Gelatinous Robots To Crawl Through Human Body To Deliver Medical Payloads, Diagnose Illnesses |...",
-          "link": "https://www.zerohedge.com/technology/scientists-develop-gelatinous-robots-crawl-through-human-body-deliver-medical-payloads",
-          "publishedOn": "2022-12-24T07:00:02.000Z",
-          "wordCount": 1507,
-          "title": "Scientists Develop Gelatinous Robots To Crawl Through Human Body To Deliver Medical Payloads, Diagnose Illnesses |...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yvEWNlcefAw&feature=youtu.be",
-          "author": null,
-          "description": "Talk Dirty - Vintage Klezmer Jason Derulo Cover (w/ Rap in Yiddish) feat. Robyn Adele Anderson",
-          "link": "https://www.youtube.com/watch?v=yvEWNlcefAw&feature=youtu.be",
-          "publishedOn": "2022-12-24T05:00:03.000Z",
-          "wordCount": null,
-          "title": "Talk Dirty - Vintage Klezmer Jason Derulo Cover (w/ Rap in Yiddish) feat. Robyn Adele Anderson",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/covid-19/chinas-post-zero-covid-surge-infecting-37-million-people-day",
           "author": null,
           "description": "China's Post-Zero-COVID Surge Is Infecting 37 Million People Per Day | ZeroHedge",
@@ -121,7 +121,7 @@
           "description": "69 Theses for 2023",
           "link": "https://redphone.substack.com/p/69-theses-for-2023",
           "publishedOn": "2022-12-24T03:00:04.000Z",
-          "wordCount": 1536,
+          "wordCount": 1742,
           "title": "69 Theses for 2023",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
         },
@@ -153,7 +153,7 @@
           "publishedOn": "2022-12-24T03:00:03.000Z",
           "wordCount": 515,
           "title": "GitHub - ethereum/pos-evolution: Evolution of the Ethereum Proof-of-Stake Consensus Protocol",
-          "imageUrl": "https://opengraph.githubassets.com/15466584c120e1531ed988dd899d3699113de7f56944c0ae9bf584c3ce8a7446/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/a325a3e628febd921684218ec207d00ab86d3c4b07aaca5e9fcd1968e6105563/ethereum/pos-evolution"
         },
         {
           "id": "https://www.freecodecamp.org/news/solana-curriculum/",
@@ -191,7 +191,7 @@
           "description": "The International Chess Federation Brings Chess into Web3 on Avalanche",
           "link": "https://medium.com/avalancheavax/the-international-chess-federation-brings-chess-into-web3-on-avalanche-5720f9ceb23",
           "publishedOn": "2022-12-23T16:00:05.000Z",
-          "wordCount": 2150,
+          "wordCount": 2482,
           "title": "The International Chess Federation Brings Chess into Web3 on Avalanche",
           "imageUrl": "https://miro.medium.com/max/1200/1*zkNrehxsMYC_GQLeiMZa8g.png"
         },
