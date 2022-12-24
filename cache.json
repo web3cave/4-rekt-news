@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=26175655",
+          "author": null,
+          "description": "George Hotz, Forked ethereum, pre-mined 25M coins to a personal wallet | Hacker News",
+          "link": "https://news.ycombinator.com/item?id=26175655",
+          "publishedOn": "2022-12-24T02:00:05.000Z",
+          "wordCount": 299,
+          "title": "George Hotz, Forked ethereum, pre-mined 25M coins to a personal wallet | Hacker News",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cheapeth.org/",
+          "author": null,
+          "description": "cheapETH",
+          "link": "https://cheapeth.org/",
+          "publishedOn": "2022-12-24T02:00:05.000Z",
+          "wordCount": 670,
+          "title": "cheapETH",
+          "imageUrl": "https://cheapeth.org/images/logo.png"
+        },
+        {
+          "id": "https://economictimes.indiatimes.com/news/international/us/us-court-grants-bail-to-ftx-founder-sam-bankman-fried-on-250-million-bond/articleshow/96463565.cms",
+          "author": null,
+          "description": "US court grants bail to FTX founder Sam Bankman-Fried on $250 million bond",
+          "link": "https://economictimes.indiatimes.com/news/international/us/us-court-grants-bail-to-ftx-founder-sam-bankman-fried-on-250-million-bond/articleshow/96463565.cms",
+          "publishedOn": "2022-12-24T02:00:05.000Z",
+          "wordCount": 6009,
+          "title": "US court grants bail to FTX founder Sam Bankman-Fried on $250 million bond",
+          "imageUrl": "https://img.etimg.com/thumb/msid-96463613,width-1070,height-580,imgsize-8566,overlay-economictimes/photo.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/covid-19/fda-approves-monoclonal-antibody-treat-covid-19-first-time",
+          "author": null,
+          "description": "FDA Approves Monoclonal Antibody To Treat COVID-19 For First Time | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/fda-approves-monoclonal-antibody-treat-covid-19-first-time",
+          "publishedOn": "2022-12-24T02:00:05.000Z",
+          "wordCount": 936,
+          "title": "FDA Approves Monoclonal Antibody To Treat COVID-19 For First Time | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/crypto/im-truly-sorry-what-i-did-sbfs-girlfriend-confirms-they-conspired-steal-ftx-customers",
           "author": null,
           "description": "\"I'm Truly Sorry For What I Did\" - SBF's Girlfriend Confirms They Conspired To Steal From FTX Customers | ZeroHedge",
@@ -56,16 +96,6 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
         },
         {
-          "id": "https://thechainsaw.com/defi/crypto/sbf-released-on-bond-not-bail/",
-          "author": null,
-          "description": "There's a Difference: SBF Was Released on 'Bond' not Bail",
-          "link": "https://thechainsaw.com/defi/crypto/sbf-released-on-bond-not-bail/",
-          "publishedOn": "2022-12-23T19:30:04.000Z",
-          "wordCount": 2773,
-          "title": "There's a Difference: SBF Was Released on 'Bond' not Bail",
-          "imageUrl": "https://thechainsaw.com/wp-content/uploads/2022/12/gettyimages-1245786421.jpg"
-        },
-        {
           "id": "https://santa.fm/",
           "author": null,
           "description": "Santa.FM",
@@ -91,7 +121,7 @@
           "description": "The International Chess Federation Brings Chess into Web3 on Avalanche",
           "link": "https://medium.com/avalancheavax/the-international-chess-federation-brings-chess-into-web3-on-avalanche-5720f9ceb23",
           "publishedOn": "2022-12-23T16:00:05.000Z",
-          "wordCount": 2349,
+          "wordCount": 2373,
           "title": "The International Chess Federation Brings Chess into Web3 on Avalanche",
           "imageUrl": "https://miro.medium.com/max/1200/1*zkNrehxsMYC_GQLeiMZa8g.png"
         },
@@ -101,18 +131,8 @@
           "description": "FTX US auditor Armanino defends work for failed crypto exchange",
           "link": "https://www.ft.com/content/42087255-92ad-45b7-b5ad-3b8457e0c1f8",
           "publishedOn": "2022-12-23T15:00:02.000Z",
-          "wordCount": 1607,
+          "wordCount": 1612,
           "title": "FTX US auditor Armanino defends work for failed crypto exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://fsinsight.com/our-services/",
-          "author": null,
-          "description": "Our Services",
-          "link": "https://fsinsight.com/our-services/",
-          "publishedOn": "2022-12-23T11:00:03.000Z",
-          "wordCount": 4963,
-          "title": "Our Services",
           "imageUrl": null
         },
         {
@@ -141,9 +161,9 @@
           "description": "Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws",
           "link": "https://www.nytimes.com/2022/12/22/business/gary-gensler-sec-crypto.html",
           "publishedOn": "2022-12-23T06:00:04.000Z",
-          "wordCount": null,
+          "wordCount": 5029,
           "title": "Even After FTX, S.E.C. Chair Sees No Need for New Crypto Laws",
-          "imageUrl": null
+          "imageUrl": "https://static01.nyt.com/images/2022/12/22/multimedia/22Gensler-Crypto-01-1-c1f7/22Gensler-Crypto-01-1-c1f7-facebookJumbo.jpg"
         },
         {
           "id": "https://news.artnet.com/market/nft-marketplace-opensea-delisting-cuban-artists-us-sanctions-2235440",
@@ -176,16 +196,6 @@
           "imageUrl": "https://blog.lastpass.com/wp-content/uploads/sites/20/2022/08/iStock-621574390-1-scaled.jpg"
         },
         {
-          "id": "https://thegraph.com/docs/en/billing/",
-          "author": null,
-          "description": "Billing - The Graph Docs",
-          "link": "https://thegraph.com/docs/en/billing/",
-          "publishedOn": "2022-12-23T03:00:02.000Z",
-          "wordCount": 2763,
-          "title": "Billing - The Graph Docs",
-          "imageUrl": "https://storage.googleapis.com/graph-website/seo/graph-website.jpg"
-        },
-        {
           "id": "https://blog.fleek.co/posts/introducing-nfas-non-fungible-apps/",
           "author": null,
           "description": "Introducing NFA’s: Non-Fungible Apps - Fleek Blog",
@@ -194,16 +204,6 @@
           "wordCount": 1839,
           "title": "Introducing NFA’s: Non-Fungible Apps - Fleek Blog",
           "imageUrl": "https://storageapi.fleek.one/fleek-team-bucket/thumbnails/fleekxyz-nfa-thumb.png"
-        },
-        {
-          "id": "https://www.newhere.xyz/",
-          "author": null,
-          "description": "New Here",
-          "link": "https://www.newhere.xyz/",
-          "publishedOn": "2022-12-22T03:30:04.000Z",
-          "wordCount": 4543,
-          "title": "New Here",
-          "imageUrl": "https://www.newhere.xyz/backgrounds/og.png"
         }
       ]
     }
