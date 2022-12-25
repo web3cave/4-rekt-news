@@ -6,6 +6,86 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://tornadocash.3th.ws/",
+          "author": null,
+          "description": "Tornado.Cash",
+          "link": "https://tornadocash.3th.ws/",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 44,
+          "title": "Tornado.Cash",
+          "imageUrl": "https://tornado.cash/tw.png"
+        },
+        {
+          "id": "https://www.rainbowkit.com/",
+          "author": null,
+          "description": "RainbowKit",
+          "link": "https://www.rainbowkit.com/",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 615,
+          "title": "RainbowKit",
+          "imageUrl": "https://rainbowkit.com/social/default.png"
+        },
+        {
+          "id": "https://testflight.apple.com/join/4bbpvn9a",
+          "author": null,
+          "description": "Join the Light Wallet beta",
+          "link": "https://testflight.apple.com/join/4bbpvn9a",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 3131,
+          "title": "Join the Light Wallet beta",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/83/05/f4830508-9908-c5d4-a4c0-a02287578f70/AppIcon-Prod-0-1x_U007emarketing-0-7-0-85-220.png/1920x1080bb-80.png"
+        },
+        {
+          "id": "https://www.statista.com/statistics/1093781/distribution-of-googles-revenues-by-segment/",
+          "author": null,
+          "description": "Google: distribution of revenue by segment 2021 | Statista",
+          "link": "https://www.statista.com/statistics/1093781/distribution-of-googles-revenues-by-segment/",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 3085,
+          "title": "Google: distribution of revenue by segment 2021 | Statista",
+          "imageUrl": "https://cdn.statcdn.com/Statistic/1090000/1093781-blank-355.png"
+        },
+        {
+          "id": "https://nostr.directory/",
+          "author": null,
+          "description": "Nostr public keys of Twitter Accounts",
+          "link": "https://nostr.directory/",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 343,
+          "title": "Nostr public keys of Twitter Accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/israelis-netanyahu-vows-seek-normalization-saudi-arabia",
+          "author": null,
+          "description": "Israel's Netanyahu Vows To Seek Normalization With Saudi Arabia | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/israelis-netanyahu-vows-seek-normalization-saudi-arabia",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 1073,
+          "title": "Israel's Netanyahu Vows To Seek Normalization With Saudi Arabia | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/pentagon-considers-training-ukrainians-patriot-missiles-inside-us",
+          "author": null,
+          "description": "Pentagon Considers Training Ukrainians On Patriot Missiles Inside The US | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/pentagon-considers-training-ukrainians-patriot-missiles-inside-us",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 838,
+          "title": "Pentagon Considers Training Ukrainians On Patriot Missiles Inside The US | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/personal-finance/americans-wont-let-2022-ruin-perfectly-fine-christmas",
+          "author": null,
+          "description": "Americans Won't Let 2022 Ruin A Perfectly Fine Christmas | ZeroHedge",
+          "link": "https://www.zerohedge.com/personal-finance/americans-wont-let-2022-ruin-perfectly-fine-christmas",
+          "publishedOn": "2022-12-25T01:00:02.000Z",
+          "wordCount": 560,
+          "title": "Americans Won't Let 2022 Ruin A Perfectly Fine Christmas | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/new-cold-war-has-begun",
           "author": null,
           "description": "The New Cold War Has Begun | ZeroHedge",
@@ -46,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://michaelshellenberger.substack.com/p/climate-alarmism-behind-christmas",
-          "author": null,
-          "description": "Climate Alarmism Behind Christmas Energy Shortages",
-          "link": "https://michaelshellenberger.substack.com/p/climate-alarmism-behind-christmas",
-          "publishedOn": "2022-12-24T21:30:04.000Z",
-          "wordCount": 2887,
-          "title": "Climate Alarmism Behind Christmas Energy Shortages",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5281096b-afc1-451b-b91c-ee6a804672eb_3125x2443.jpeg"
-        },
-        {
           "id": "https://www.zerohedge.com/commodities/natgas-production-collapses-deep-freeze-paralyzes-us",
           "author": null,
           "description": "NatGas Production Collapses As Deep Freeze Paralyzes US  | ZeroHedge",
@@ -83,7 +153,7 @@
           "publishedOn": "2022-12-24T19:30:04.000Z",
           "wordCount": 14975,
           "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/4c8f4cf805a1641dae87d0748f1a754d8f6f46c02e591ae146dfb7918335ccb2/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/b026dc7800f313e83e8c87986c8bab860244e43fc9c40c9863fc023543223377/ethereum/pos-evolution"
         },
         {
           "id": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
@@ -91,7 +161,7 @@
           "description": "Faithless lead singer Maxi Jazz dies aged 65",
           "link": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
           "publishedOn": "2022-12-24T19:00:02.000Z",
-          "wordCount": 4248,
+          "wordCount": 4184,
           "title": "Faithless lead singer Maxi Jazz dies aged 65",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/307C/production/_128121421_7373e747ac6873bd03a9037823e7d17667225b14.jpg"
         },
@@ -126,26 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/drduh/YubiKey-Guide",
-          "author": null,
-          "description": "GitHub - drduh/YubiKey-Guide: Guide to using YubiKey for GPG and SSH",
-          "link": "https://github.com/drduh/YubiKey-Guide",
-          "publishedOn": "2022-12-24T07:30:05.000Z",
-          "wordCount": 15439,
-          "title": "GitHub - drduh/YubiKey-Guide: Guide to using YubiKey for GPG and SSH",
-          "imageUrl": "https://opengraph.githubassets.com/97b4743d4f15176384b9e393a8cec8c7cb8db07480f2d392c8917e10710b40f2/drduh/YubiKey-Guide"
-        },
-        {
-          "id": "https://www.passwordstore.org/",
-          "author": null,
-          "description": "Pass: The Standard Unix Password Manager",
-          "link": "https://www.passwordstore.org/",
-          "publishedOn": "2022-12-24T07:30:05.000Z",
-          "wordCount": 1503,
-          "title": "Pass: The Standard Unix Password Manager",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/covid-19/chinas-post-zero-covid-surge-infecting-37-million-people-day",
           "author": null,
           "description": "China's Post-Zero-COVID Surge Is Infecting 37 Million People Per Day | ZeroHedge",
@@ -153,56 +203,6 @@
           "publishedOn": "2022-12-24T05:00:03.000Z",
           "wordCount": 1395,
           "title": "China's Post-Zero-COVID Surge Is Infecting 37 Million People Per Day | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://redphone.substack.com/p/69-theses-for-2023",
-          "author": null,
-          "description": "69 Theses for 2023",
-          "link": "https://redphone.substack.com/p/69-theses-for-2023",
-          "publishedOn": "2022-12-24T03:00:04.000Z",
-          "wordCount": 1742,
-          "title": "69 Theses for 2023",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93400d3f-1fa7-4d8c-958e-1eb00a0188e6_1664x1157.png"
-        },
-        {
-          "id": "https://protectpublicstrust.org/wp-content/uploads/2022/12/23-00051-FOIA-Records-for-Release.pdf",
-          "author": null,
-          "description": "[PDF] 23-00051-FOIA-Records-for-Release.pdf",
-          "link": "https://protectpublicstrust.org/wp-content/uploads/2022/12/23-00051-FOIA-Records-for-Release.pdf",
-          "publishedOn": "2022-12-24T03:00:03.000Z",
-          "wordCount": 11355,
-          "title": "[PDF] 23-00051-FOIA-Records-for-Release.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=social.tw",
-          "author": null,
-          "description": "Fantom in review",
-          "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=social.tw",
-          "publishedOn": "2022-12-24T03:00:03.000Z",
-          "wordCount": 1627,
-          "title": "Fantom in review",
-          "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
-        },
-        {
-          "id": "https://github.com/ethereum/pos-evolution",
-          "author": null,
-          "description": "GitHub - ethereum/pos-evolution: Evolution of the Ethereum Proof-of-Stake Consensus Protocol",
-          "link": "https://github.com/ethereum/pos-evolution",
-          "publishedOn": "2022-12-24T03:00:03.000Z",
-          "wordCount": 515,
-          "title": "GitHub - ethereum/pos-evolution: Evolution of the Ethereum Proof-of-Stake Consensus Protocol",
-          "imageUrl": "https://opengraph.githubassets.com/4c8f4cf805a1641dae87d0748f1a754d8f6f46c02e591ae146dfb7918335ccb2/ethereum/pos-evolution"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9B13IUpGWqg&feature=youtu.be",
-          "author": null,
-          "description": "Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge - Ep. 435",
-          "link": "https://www.youtube.com/watch?v=9B13IUpGWqg&feature=youtu.be",
-          "publishedOn": "2022-12-23T17:00:02.000Z",
-          "wordCount": null,
-          "title": "Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge - Ep. 435",
           "imageUrl": null
         }
       ]
