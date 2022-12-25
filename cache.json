@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/my-christmas-gift-greta",
+          "author": null,
+          "description": "My Christmas Gift To Greta | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/my-christmas-gift-greta",
+          "publishedOn": "2022-12-25T23:00:04.000Z",
+          "wordCount": 3706,
+          "title": "My Christmas Gift To Greta | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/putin-100-sure-us-supplied-patriot-systems-will-be-destroyed-ukraine",
           "author": null,
           "description": "Putin 100% Sure US-Supplied Patriot Systems Will Be Destroyed In Ukraine | ZeroHedge",
@@ -96,16 +106,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=wbbbZv1VaVM&feature=youtu.be",
-          "author": null,
-          "description": "DEVCON1: Panel: Standardization",
-          "link": "https://www.youtube.com/watch?v=wbbbZv1VaVM&feature=youtu.be",
-          "publishedOn": "2022-12-25T18:30:02.000Z",
-          "wordCount": null,
-          "title": "DEVCON1: Panel: Standardization",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/1inch/farming",
           "author": null,
           "description": "GitHub - 1inch/farming",
@@ -123,7 +123,7 @@
           "publishedOn": "2022-12-25T17:00:02.000Z",
           "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/f9777cb12a13e8c0cae350b532ffcd5a550602df60e4228058a6d2b5c5242661/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/757951b6a3a6914ee6a6f07089ca9bee642445ccd9efad41e53f02da8d9342e0/spalladino/zkp-tests"
         },
         {
           "id": "https://santa.fm/",
@@ -161,7 +161,7 @@
           "description": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
           "link": "https://github.com/m1guelpf/lil-docker",
           "publishedOn": "2022-12-25T07:30:06.000Z",
-          "wordCount": 929,
+          "wordCount": 965,
           "title": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
           "imageUrl": "https://opengraph.githubassets.com/01e4a7018e1a7cb49aae63859e46399f088702024294ce1c90232d54a5409f47/m1guelpf/lil-docker"
         },
