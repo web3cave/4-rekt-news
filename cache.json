@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/war-christmas-war-america",
+          "author": null,
+          "description": "The War On Christmas Is A War On America | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/war-christmas-war-america",
+          "publishedOn": "2022-12-25T07:00:02.000Z",
+          "wordCount": 1655,
+          "title": "The War On Christmas Is A War On America | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/weather/visualizing-how-snowflakes-are-formed",
+          "author": null,
+          "description": "Visualizing How Snowflakes Are Formed | ZeroHedge",
+          "link": "https://www.zerohedge.com/weather/visualizing-how-snowflakes-are-formed",
+          "publishedOn": "2022-12-25T07:00:02.000Z",
+          "wordCount": 1234,
+          "title": "Visualizing How Snowflakes Are Formed | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/contracts/L1/OptimismPortal.sol#L160-L344",
           "author": null,
           "description": "optimism/OptimismPortal.sol at develop · ethereum-optimism/optimism",
@@ -13,7 +33,7 @@
           "publishedOn": "2022-12-25T05:30:04.000Z",
           "wordCount": 2577,
           "title": "optimism/OptimismPortal.sol at develop · ethereum-optimism/optimism",
-          "imageUrl": "https://opengraph.githubassets.com/9597e13120ff9aa0604266e1cc4698f58a5bdbbe3340c435bfb8ed3e33e2d638/ethereum-optimism/optimism"
+          "imageUrl": "https://opengraph.githubassets.com/1e81260070f4e6a6168e6d6b7c42d92f9be3f5e48fcc396cafbf4c9cdfc11c5b/ethereum-optimism/optimism"
         },
         {
           "id": "https://www.zerohedge.com/political/youd-better-watch-out-surveillance-state-making-list-and-youre-it",
@@ -33,6 +53,16 @@
           "publishedOn": "2022-12-25T05:00:03.000Z",
           "wordCount": 765,
           "title": "Where Price Hikes Are Causing More Stress This Christmas | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=INpfGVK5-nY&feature=youtu.be",
+          "author": null,
+          "description": "In full: Bank of England on Crypto crisis",
+          "link": "https://www.youtube.com/watch?v=INpfGVK5-nY&feature=youtu.be",
+          "publishedOn": "2022-12-25T05:00:03.000Z",
+          "wordCount": null,
+          "title": "In full: Bank of England on Crypto crisis",
           "imageUrl": null
         },
         {
@@ -106,14 +136,14 @@
           "imageUrl": "https://tornado.cash/tw.png"
         },
         {
-          "id": "https://www.rainbowkit.com/",
+          "id": "https://nostr.directory/",
           "author": null,
-          "description": "RainbowKit",
-          "link": "https://www.rainbowkit.com/",
+          "description": "Nostr public keys of Twitter Accounts",
+          "link": "https://nostr.directory/",
           "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 615,
-          "title": "RainbowKit",
-          "imageUrl": "https://rainbowkit.com/social/default.png"
+          "wordCount": 343,
+          "title": "Nostr public keys of Twitter Accounts",
+          "imageUrl": null
         },
         {
           "id": "https://www.statista.com/statistics/1093781/distribution-of-googles-revenues-by-segment/",
@@ -126,36 +156,6 @@
           "imageUrl": "https://cdn.statcdn.com/Statistic/1090000/1093781-blank-355.png"
         },
         {
-          "id": "https://nostr.directory/",
-          "author": null,
-          "description": "Nostr public keys of Twitter Accounts",
-          "link": "https://nostr.directory/",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 343,
-          "title": "Nostr public keys of Twitter Accounts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/israelis-netanyahu-vows-seek-normalization-saudi-arabia",
-          "author": null,
-          "description": "Israel's Netanyahu Vows To Seek Normalization With Saudi Arabia | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/israelis-netanyahu-vows-seek-normalization-saudi-arabia",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 1073,
-          "title": "Israel's Netanyahu Vows To Seek Normalization With Saudi Arabia | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/pentagon-considers-training-ukrainians-patriot-missiles-inside-us",
-          "author": null,
-          "description": "Pentagon Considers Training Ukrainians On Patriot Missiles Inside The US | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/pentagon-considers-training-ukrainians-patriot-missiles-inside-us",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 838,
-          "title": "Pentagon Considers Training Ukrainians On Patriot Missiles Inside The US | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
           "author": null,
           "description": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
@@ -163,7 +163,7 @@
           "publishedOn": "2022-12-24T19:30:04.000Z",
           "wordCount": 14975,
           "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/dfbbcd33167acd474d11780d69ef85f3869fe43428c97cfabc4b248bf8ff7ea3/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/554d3baa89e11e337e8e489fbefc2a243d74b85e89925e1215f01185df2d755c/ethereum/pos-evolution"
         },
         {
           "id": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
@@ -171,7 +171,7 @@
           "description": "Faithless lead singer Maxi Jazz dies aged 65",
           "link": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
           "publishedOn": "2022-12-24T19:00:02.000Z",
-          "wordCount": 4180,
+          "wordCount": 4176,
           "title": "Faithless lead singer Maxi Jazz dies aged 65",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/307C/production/_128121421_7373e747ac6873bd03a9037823e7d17667225b14.jpg"
         },
