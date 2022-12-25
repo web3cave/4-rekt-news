@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rtmag.co.il/english/we-can%E2%80%99t-locate-a-signed-agreement-with-pfizer-did-the-netanyahu-government-and-the-israeli-moh-mislead-the-israeli-public-and-the-world-new-documents-reveal-%E2%80%93-the-deal-between-israel-and-pfizer-was-signed-before-their-covid-19-vaccine-even-received-emergency-use-authorization-from-the-fda",
+          "author": null,
+          "description": "\"We can’t locate a signed agreement with Pfizer\": Did the Netanyahu go",
+          "link": "https://rtmag.co.il/english/we-can%E2%80%99t-locate-a-signed-agreement-with-pfizer-did-the-netanyahu-government-and-the-israeli-moh-mislead-the-israeli-public-and-the-world-new-documents-reveal-%E2%80%93-the-deal-between-israel-and-pfizer-was-signed-before-their-covid-19-vaccine-even-received-emergency-use-authorization-from-the-fda",
+          "publishedOn": "2022-12-25T20:00:04.000Z",
+          "wordCount": 6497,
+          "title": "\"We can’t locate a signed agreement with Pfizer\": Did the Netanyahu go",
+          "imageUrl": "https://rtmag.co.il/images/WhatsApp_Image_2022-12-24_at_12.07.10.jpeg#joomlaImage://local-images/WhatsApp_Image_2022-12-24_at_12.07.10.jpeg?width=1220&height=691"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/department-homeland-security-issues-christmas-warning-illegal-immigrants",
+          "author": null,
+          "description": "Department Of Homeland Security Issues Christmas Warning To Illegal Immigrants | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/department-homeland-security-issues-christmas-warning-illegal-immigrants",
+          "publishedOn": "2022-12-25T19:30:04.000Z",
+          "wordCount": 1674,
+          "title": "Department Of Homeland Security Issues Christmas Warning To Illegal Immigrants | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wbbbZv1VaVM&feature=youtu.be",
           "author": null,
           "description": "DEVCON1: Panel: Standardization",
@@ -23,7 +43,7 @@
           "publishedOn": "2022-12-25T18:00:03.000Z",
           "wordCount": 1327,
           "title": "GitHub - 1inch/farming",
-          "imageUrl": "https://opengraph.githubassets.com/c6398d2d5b7fff9b9ed8a03bab2724009becec4b645092551efb4a1780932828/1inch/farming"
+          "imageUrl": "https://opengraph.githubassets.com/b6c1e981aac2ee8be416fe1ac231b1d8013050ce46047a3820a66a5e9ff79f5d/1inch/farming"
         },
         {
           "id": "https://github.com/spalladino/zkp-tests",
@@ -31,9 +51,9 @@
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "link": "https://github.com/spalladino/zkp-tests",
           "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 765,
+          "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/deaa21a3a3776c55d8733a86552e11b701ebd27f0357e1fada5351eb0a609193/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/f9777cb12a13e8c0cae350b532ffcd5a550602df60e4228058a6d2b5c5242661/spalladino/zkp-tests"
         },
         {
           "id": "https://santa.fm/",
@@ -146,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/m1guelpf/lil-docker",
-          "author": null,
-          "description": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
-          "link": "https://github.com/m1guelpf/lil-docker",
-          "publishedOn": "2022-12-25T07:30:06.000Z",
-          "wordCount": 929,
-          "title": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
-          "imageUrl": "https://opengraph.githubassets.com/c28c87bcb7923417c450c07ab0d0e9f338ed1bff23931c25ca78fd6f796cc39a/m1guelpf/lil-docker"
-        },
-        {
           "id": "https://explorer.btc.com/",
           "author": null,
           "description": "BTC.com Professional Data Service for Global Blockchain Enthusiasts",
@@ -176,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=EDt9Fd53yCo&t=3093s",
-          "author": null,
-          "description": "MacroVoices #355 Mark Nelson: Understanding All Things Nuclear",
-          "link": "https://www.youtube.com/watch?v=EDt9Fd53yCo&t=3093s",
-          "publishedOn": "2022-12-25T04:00:06.000Z",
-          "wordCount": null,
-          "title": "MacroVoices #355 Mark Nelson: Understanding All Things Nuclear",
-          "imageUrl": null
-        },
-        {
           "id": "https://nostr.directory/",
           "author": null,
           "description": "Nostr public keys of Twitter Accounts",
@@ -201,9 +201,9 @@
           "description": "Tornado.Cash",
           "link": "https://tornadocash.3th.ws/",
           "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 44,
           "title": "Tornado.Cash",
-          "imageUrl": null
+          "imageUrl": "https://tornado.cash/tw.png"
         }
       ]
     }
