@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wbbbZv1VaVM&feature=youtu.be",
+          "author": null,
+          "description": "DEVCON1: Panel: Standardization",
+          "link": "https://www.youtube.com/watch?v=wbbbZv1VaVM&feature=youtu.be",
+          "publishedOn": "2022-12-25T18:30:02.000Z",
+          "wordCount": null,
+          "title": "DEVCON1: Panel: Standardization",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/1inch/farming",
           "author": null,
           "description": "GitHub - 1inch/farming",
@@ -21,9 +31,9 @@
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "link": "https://github.com/spalladino/zkp-tests",
           "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 833,
+          "wordCount": 765,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/caaed9967a6793efd420c4c2b13ae48ac4047dfc8382f12f6d31901a3c56ae8f/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/deaa21a3a3776c55d8733a86552e11b701ebd27f0357e1fada5351eb0a609193/spalladino/zkp-tests"
         },
         {
           "id": "https://santa.fm/",
@@ -106,6 +116,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=VexrmTacOAA&feature=youtu.be",
+          "author": null,
+          "description": "Interview with Lee Kuan Yew",
+          "link": "https://www.youtube.com/watch?v=VexrmTacOAA&feature=youtu.be",
+          "publishedOn": "2022-12-25T15:00:02.000Z",
+          "wordCount": null,
+          "title": "Interview with Lee Kuan Yew",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/number-superyachts-caribbean-double-rich-enjoy-lavish-year-end-parties",
           "author": null,
           "description": "Number Of Superyachts In Caribbean Double As Rich Enjoy Lavish Year-End Parties | ZeroHedge",
@@ -126,24 +146,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/war-christmas-war-america",
+          "id": "https://github.com/m1guelpf/lil-docker",
           "author": null,
-          "description": "The War On Christmas Is A War On America | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/war-christmas-war-america",
-          "publishedOn": "2022-12-25T07:00:02.000Z",
-          "wordCount": 1655,
-          "title": "The War On Christmas Is A War On America | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/visualizing-how-snowflakes-are-formed",
-          "author": null,
-          "description": "Visualizing How Snowflakes Are Formed | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/visualizing-how-snowflakes-are-formed",
-          "publishedOn": "2022-12-25T07:00:02.000Z",
-          "wordCount": 1234,
-          "title": "Visualizing How Snowflakes Are Formed | ZeroHedge",
-          "imageUrl": null
+          "description": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
+          "link": "https://github.com/m1guelpf/lil-docker",
+          "publishedOn": "2022-12-25T07:30:06.000Z",
+          "wordCount": 929,
+          "title": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
+          "imageUrl": "https://opengraph.githubassets.com/c28c87bcb7923417c450c07ab0d0e9f338ed1bff23931c25ca78fd6f796cc39a/m1guelpf/lil-docker"
         },
         {
           "id": "https://explorer.btc.com/",
@@ -166,23 +176,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/contracts/L1/OptimismPortal.sol#L160-L344",
+          "id": "https://www.youtube.com/watch?v=EDt9Fd53yCo&t=3093s",
           "author": null,
-          "description": "optimism/OptimismPortal.sol at develop · ethereum-optimism/optimism",
-          "link": "https://github.com/ethereum-optimism/optimism/blob/develop/packages/contracts-bedrock/contracts/L1/OptimismPortal.sol#L160-L344",
-          "publishedOn": "2022-12-25T05:30:04.000Z",
-          "wordCount": 2577,
-          "title": "optimism/OptimismPortal.sol at develop · ethereum-optimism/optimism",
-          "imageUrl": "https://opengraph.githubassets.com/cb2de4770efefa55e053cc8fd57df69e5e74ff2ffdcdc6d9475cd4b35821b2a3/ethereum-optimism/optimism"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/youd-better-watch-out-surveillance-state-making-list-and-youre-it",
-          "author": null,
-          "description": "You’d Better Watch Out: The Surveillance State Is Making a List, And You’re On It | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/youd-better-watch-out-surveillance-state-making-list-and-youre-it",
-          "publishedOn": "2022-12-25T05:00:03.000Z",
-          "wordCount": 3954,
-          "title": "You’d Better Watch Out: The Surveillance State Is Making a List, And You’re On It | ZeroHedge",
+          "description": "MacroVoices #355 Mark Nelson: Understanding All Things Nuclear",
+          "link": "https://www.youtube.com/watch?v=EDt9Fd53yCo&t=3093s",
+          "publishedOn": "2022-12-25T04:00:06.000Z",
+          "wordCount": null,
+          "title": "MacroVoices #355 Mark Nelson: Understanding All Things Nuclear",
           "imageUrl": null
         },
         {
@@ -201,9 +201,9 @@
           "description": "Tornado.Cash",
           "link": "https://tornadocash.3th.ws/",
           "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 44,
+          "wordCount": null,
           "title": "Tornado.Cash",
-          "imageUrl": "https://tornado.cash/tw.png"
+          "imageUrl": null
         }
       ]
     }
