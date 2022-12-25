@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/stanford-tree-mascot-suspended-11671720777",
+          "author": null,
+          "description": "‘Stanford Hates Fun’: Students Revolt After Tree Mascot Suspension",
+          "link": "https://www.wsj.com/articles/stanford-tree-mascot-suspended-11671720777",
+          "publishedOn": "2022-12-25T07:30:06.000Z",
+          "wordCount": 7085,
+          "title": "‘Stanford Hates Fun’: Students Revolt After Tree Mascot Suspension",
+          "imageUrl": "https://images.wsj.net/im-690060/social"
+        },
+        {
           "id": "https://www.zerohedge.com/political/war-christmas-war-america",
           "author": null,
           "description": "The War On Christmas Is A War On America | ZeroHedge",
@@ -146,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.statista.com/statistics/1093781/distribution-of-googles-revenues-by-segment/",
-          "author": null,
-          "description": "Google: distribution of revenue by segment 2021 | Statista",
-          "link": "https://www.statista.com/statistics/1093781/distribution-of-googles-revenues-by-segment/",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 3085,
-          "title": "Google: distribution of revenue by segment 2021 | Statista",
-          "imageUrl": "https://cdn.statcdn.com/Statistic/1090000/1093781-blank-355.png"
-        },
-        {
           "id": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
           "author": null,
           "description": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
@@ -163,7 +163,7 @@
           "publishedOn": "2022-12-24T19:30:04.000Z",
           "wordCount": 14975,
           "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/554d3baa89e11e337e8e489fbefc2a243d74b85e89925e1215f01185df2d755c/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/4212f1d67f8937f1753068105ab6a0fb87d39089ac60219344f1a7e359d2b7ea/ethereum/pos-evolution"
         },
         {
           "id": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
@@ -171,7 +171,7 @@
           "description": "Faithless lead singer Maxi Jazz dies aged 65",
           "link": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
           "publishedOn": "2022-12-24T19:00:02.000Z",
-          "wordCount": 4176,
+          "wordCount": 4198,
           "title": "Faithless lead singer Maxi Jazz dies aged 65",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/307C/production/_128121421_7373e747ac6873bd03a9037823e7d17667225b14.jpg"
         },
