@@ -6,6 +6,66 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/spalladino/zkp-tests",
+          "author": null,
+          "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
+          "link": "https://github.com/spalladino/zkp-tests",
+          "publishedOn": "2022-12-25T17:00:02.000Z",
+          "wordCount": 833,
+          "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
+          "imageUrl": "https://opengraph.githubassets.com/5231f7891733feb6af49ead9d5cb11e768ce71994c6249300809438553e522bf/spalladino/zkp-tests"
+        },
+        {
+          "id": "https://santa.fm/",
+          "author": null,
+          "description": "Santa.FM",
+          "link": "https://santa.fm/",
+          "publishedOn": "2022-12-25T17:00:02.000Z",
+          "wordCount": 1804,
+          "title": "Santa.FM",
+          "imageUrl": "https://santa.fm/images/social_share.png"
+        },
+        {
+          "id": "https://www.thisisnouns.wtf/",
+          "author": null,
+          "description": "This is Nouns",
+          "link": "https://www.thisisnouns.wtf/",
+          "publishedOn": "2022-12-25T17:00:02.000Z",
+          "wordCount": 242,
+          "title": "This is Nouns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia",
+          "author": null,
+          "description": "Putin \"Ready\" To Negotiate End To Ukraine War, But West Wants To \"Tear Apart\" Russia | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/putin-ready-negotiate-end-ukraine-war-west-wants-tear-apart-russia",
+          "publishedOn": "2022-12-25T17:00:02.000Z",
+          "wordCount": 1237,
+          "title": "Putin \"Ready\" To Negotiate End To Ukraine War, But West Wants To \"Tear Apart\" Russia | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gen.art/",
+          "author": null,
+          "description": "GEN.ART",
+          "link": "https://gen.art/",
+          "publishedOn": "2022-12-25T17:00:02.000Z",
+          "wordCount": 78,
+          "title": "GEN.ART",
+          "imageUrl": "/twitter-card.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/kari-lake-loses-arizona-election-appeal-vows-appeal",
+          "author": null,
+          "description": "Kari Lake Loses Arizona Election Appeal, Vows To Appeal | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/kari-lake-loses-arizona-election-appeal-vows-appeal",
+          "publishedOn": "2022-12-25T16:30:02.000Z",
+          "wordCount": 1327,
+          "title": "Kari Lake Loses Arizona Election Appeal, Vows To Appeal | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/197861/bitcoin-mining-hashrate-declines-more-than-30-amid-americas-big-winter-storm",
           "author": null,
           "description": "Bitcoin mining hashrate plunges more than 30% amid America's big winter storm",
@@ -126,46 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/where-price-hikes-are-causing-more-stress-christmas",
-          "author": null,
-          "description": "Where Price Hikes Are Causing More Stress This Christmas | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/where-price-hikes-are-causing-more-stress-christmas",
-          "publishedOn": "2022-12-25T05:00:03.000Z",
-          "wordCount": 765,
-          "title": "Where Price Hikes Are Causing More Stress This Christmas | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=INpfGVK5-nY&feature=youtu.be",
-          "author": null,
-          "description": "In full: Bank of England on Crypto crisis",
-          "link": "https://www.youtube.com/watch?v=INpfGVK5-nY&feature=youtu.be",
-          "publishedOn": "2022-12-25T05:00:03.000Z",
-          "wordCount": null,
-          "title": "In full: Bank of England on Crypto crisis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/ukrainian-narrative-continues-morph-ugly",
-          "author": null,
-          "description": "Ukrainian Narrative Continues To Morph Ugly | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/ukrainian-narrative-continues-morph-ugly",
-          "publishedOn": "2022-12-25T03:30:04.000Z",
-          "wordCount": 2834,
-          "title": "Ukrainian Narrative Continues To Morph Ugly | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/most-desired-christmas-gifts-us",
-          "author": null,
-          "description": "The Most Desired Christmas Gifts In The US | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/most-desired-christmas-gifts-us",
-          "publishedOn": "2022-12-25T03:00:04.000Z",
-          "wordCount": 636,
-          "title": "The Most Desired Christmas Gifts In The US | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://nostr.directory/",
           "author": null,
           "description": "Nostr public keys of Twitter Accounts",
@@ -184,26 +204,6 @@
           "wordCount": 44,
           "title": "Tornado.Cash",
           "imageUrl": "https://tornado.cash/tw.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?t=3485&v=hdHYOpl16H4&feature=youtu.be",
-          "author": null,
-          "description": "Cypto's 2022 Wrap Up with Sergito",
-          "link": "https://www.youtube.com/watch?t=3485&v=hdHYOpl16H4&feature=youtu.be",
-          "publishedOn": "2022-12-24T20:00:05.000Z",
-          "wordCount": null,
-          "title": "Cypto's 2022 Wrap Up with Sergito",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
-          "author": null,
-          "description": "Faithless lead singer Maxi Jazz dies aged 65",
-          "link": "https://www.bbc.co.uk/news/entertainment-arts-64087315",
-          "publishedOn": "2022-12-24T19:00:02.000Z",
-          "wordCount": 4222,
-          "title": "Faithless lead singer Maxi Jazz dies aged 65",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/307C/production/_128121421_7373e747ac6873bd03a9037823e7d17667225b14.jpg"
         }
       ]
     }
