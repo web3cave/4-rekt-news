@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/putin-100-sure-us-supplied-patriot-systems-will-be-destroyed-ukraine",
+          "author": null,
+          "description": "Putin 100% Sure US-Supplied Patriot Systems Will Be Destroyed In Ukraine | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/putin-100-sure-us-supplied-patriot-systems-will-be-destroyed-ukraine",
+          "publishedOn": "2022-12-25T21:30:03.000Z",
+          "wordCount": 837,
+          "title": "Putin 100% Sure US-Supplied Patriot Systems Will Be Destroyed In Ukraine | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/what-tell-your-family-xmas-dinner-table-about-what-happened-crypto-year",
           "author": null,
           "description": "What To Tell Your Family At The Xmas Dinner Table About What Happened In Crypto This Year | ZeroHedge",
@@ -111,7 +121,7 @@
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "link": "https://github.com/spalladino/zkp-tests",
           "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 765,
+          "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "imageUrl": "https://opengraph.githubassets.com/f9777cb12a13e8c0cae350b532ffcd5a550602df60e4228058a6d2b5c5242661/spalladino/zkp-tests"
         },
@@ -153,7 +163,7 @@
           "publishedOn": "2022-12-25T07:30:06.000Z",
           "wordCount": 929,
           "title": "GitHub - m1guelpf/lil-docker: An intentionally-limited Rust implementation of the Docker runtime with no external...",
-          "imageUrl": "https://opengraph.githubassets.com/c28c87bcb7923417c450c07ab0d0e9f338ed1bff23931c25ca78fd6f796cc39a/m1guelpf/lil-docker"
+          "imageUrl": "https://opengraph.githubassets.com/01e4a7018e1a7cb49aae63859e46399f088702024294ce1c90232d54a5409f47/m1guelpf/lil-docker"
         },
         {
           "id": "https://explorer.btc.com/",
@@ -194,16 +204,6 @@
           "wordCount": 343,
           "title": "Nostr public keys of Twitter Accounts",
           "imageUrl": null
-        },
-        {
-          "id": "https://tornadocash.3th.ws/",
-          "author": null,
-          "description": "Tornado.Cash",
-          "link": "https://tornadocash.3th.ws/",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 44,
-          "title": "Tornado.Cash",
-          "imageUrl": "https://tornado.cash/tw.png"
         }
       ]
     }
