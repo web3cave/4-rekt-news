@@ -6,12 +6,62 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/hananbeer/sqlidity/",
+          "author": null,
+          "description": "GitHub - hananbeer/sqlidity: SQL on chain",
+          "link": "https://github.com/hananbeer/sqlidity/",
+          "publishedOn": "2022-12-26T15:00:03.000Z",
+          "wordCount": 747,
+          "title": "GitHub - hananbeer/sqlidity: SQL on chain",
+          "imageUrl": "https://opengraph.githubassets.com/4adca502641be4526c8ab3e05ba3f4818650786e92308ec73c5bdea8888bd682/hananbeer/sqlidity"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Rvc-Snfh5o&feature=youtu.be",
+          "author": null,
+          "description": "100 days since The Merge, Rocket Pool chat and more - The Daily Gwei Refuel #513 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=-Rvc-Snfh5o&feature=youtu.be",
+          "publishedOn": "2022-12-26T15:00:03.000Z",
+          "wordCount": null,
+          "title": "100 days since The Merge, Rocket Pool chat and more - The Daily Gwei Refuel #513 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/three-power-substations-attacked-washington-state-christmas-day",
+          "author": null,
+          "description": "Three Power Substations Attacked In Washington State On Christmas Day | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/three-power-substations-attacked-washington-state-christmas-day",
+          "publishedOn": "2022-12-26T15:00:03.000Z",
+          "wordCount": 665,
+          "title": "Three Power Substations Attacked In Washington State On Christmas Day | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/swiss-government-rejects-third-gender-option-official-records",
+          "author": null,
+          "description": "Swiss Government Rejects Third-Gender Option On Official Records  | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/swiss-government-rejects-third-gender-option-official-records",
+          "publishedOn": "2022-12-26T15:00:03.000Z",
+          "wordCount": 739,
+          "title": "Swiss Government Rejects Third-Gender Option On Official Records  | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/why-you-need-start-paying-attention-twitter-files",
+          "author": null,
+          "description": "Why You Need To Start Paying Attention To The 'Twitter Files' | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/why-you-need-start-paying-attention-twitter-files",
+          "publishedOn": "2022-12-26T15:00:03.000Z",
+          "wordCount": 1509,
+          "title": "Why You Need To Start Paying Attention To The 'Twitter Files' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/197808/larry-cermak-unpacks-the-block-researchs-2023-digital-asset-outlook-report",
           "author": null,
           "description": "Larry Cermak unpacks The Block Research's 2023 Digital Asset Outlook Report",
           "link": "https://www.theblock.co/post/197808/larry-cermak-unpacks-the-block-researchs-2023-digital-asset-outlook-report",
           "publishedOn": "2022-12-26T13:00:03.000Z",
-          "wordCount": 58350,
+          "wordCount": 61082,
           "title": "Larry Cermak unpacks The Block Research's 2023 Digital Asset Outlook Report",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221222_TheScoop_LarryCermak_16x9-1200x675.jpg"
         },
@@ -23,7 +73,7 @@
           "publishedOn": "2022-12-26T13:00:02.000Z",
           "wordCount": 14968,
           "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/a86d8ef0ab3d6e1e54a9d37c78d78a909e3237db40317e6b95d57ae97e6ff99b/ethereum/pos-evolution"
+          "imageUrl": "https://opengraph.githubassets.com/75bcb580e91e532637b06c6c275622d41958354d7bb12a1efdd8c0dc8e5d6800/ethereum/pos-evolution"
         },
         {
           "id": "https://sendfox.com/noah/c/rlvdnz/2023-goals",
@@ -34,6 +84,16 @@
           "wordCount": 557,
           "title": "2023 goals - Noah Kagan's email newsletter",
           "imageUrl": "https://sendfoxprod.b-cdn.net/media/NszwJ0cEZfwQ8TmDDesnDxF3qbHxu1TYoIH14zuh332"
+        },
+        {
+          "id": "https://www.sardine.ai/",
+          "author": null,
+          "description": "Sardine | Safer, Faster Payments",
+          "link": "https://www.sardine.ai/",
+          "publishedOn": "2022-12-26T11:30:04.000Z",
+          "wordCount": 930,
+          "title": "Sardine | Safer, Faster Payments",
+          "imageUrl": "https://imagedelivery.net/sRMYvZM9w4YjSr5fLydktQ/7ccf7fa9-b60f-451a-a2bb-c61d2946ec00/public"
         },
         {
           "id": "https://statoshi.info/",
@@ -61,9 +121,9 @@
           "description": "foundry/chisel at master · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/tree/master/chisel",
           "publishedOn": "2022-12-26T09:00:02.000Z",
-          "wordCount": 1308,
+          "wordCount": 1372,
           "title": "foundry/chisel at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/a3cd4df89ea095cb22d27a4f115ea5964bdd509ad809368f8d3993220b185fd0/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/957e1651ec5e6756a0456935ca6466d2ae74c01207713a2e1a9d867e08224b5e/foundry-rs/foundry"
         },
         {
           "id": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=social.tw",
@@ -86,73 +146,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/covid-19/crematory-overrun-beijings-southeastern-district-burning-150-bodies-daily-reports",
+          "id": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
           "author": null,
-          "description": "Crematory Overrun In Beijing's Southeastern District, Burning 150 Bodies Daily: Reports | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/crematory-overrun-beijings-southeastern-district-burning-150-bodies-daily-reports",
-          "publishedOn": "2022-12-26T07:00:02.000Z",
-          "wordCount": 1214,
-          "title": "Crematory Overrun In Beijing's Southeastern District, Burning 150 Bodies Daily: Reports | ZeroHedge",
-          "imageUrl": null
+          "description": "Derinkuyu underground city - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+          "publishedOn": "2022-12-26T01:30:04.000Z",
+          "wordCount": 2718,
+          "title": "Derinkuyu underground city - Wikipedia",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg/1200px-Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg"
         },
         {
-          "id": "https://www.zerohedge.com/technology/google-execs-declare-code-red-over-revolutionary-new-chat-bot",
+          "id": "https://wallet.near.org/",
           "author": null,
-          "description": "Google Execs Declare \"Code Red\" Over Revolutionary New Chat Bot | ZeroHedge",
-          "link": "https://www.zerohedge.com/technology/google-execs-declare-code-red-over-revolutionary-new-chat-bot",
-          "publishedOn": "2022-12-26T07:00:02.000Z",
-          "wordCount": 1633,
-          "title": "Google Execs Declare \"Code Red\" Over Revolutionary New Chat Bot | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/dave-collums-2022-year-review-part-2-war-ukraine-how-does-it-end",
-          "author": null,
-          "description": "Dave Collum's 2022 Year In Review, Part 2: The War In Ukraine & How Does It End? | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/dave-collums-2022-year-review-part-2-war-ukraine-how-does-it-end",
-          "publishedOn": "2022-12-26T04:30:02.000Z",
-          "wordCount": 27800,
-          "title": "Dave Collum's 2022 Year In Review, Part 2: The War In Ukraine & How Does It End? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://codecrafters.io/",
-          "author": null,
-          "description": "The Software Pro's Best Kept Secret.",
-          "link": "https://codecrafters.io/",
-          "publishedOn": "2022-12-26T04:30:02.000Z",
-          "wordCount": 2052,
-          "title": "The Software Pro's Best Kept Secret.",
-          "imageUrl": "https://codecrafters.io/landing/images/og-index.jpg"
-        },
-        {
-          "id": "https://blog.nbatopshot.com/posts/12-days-of-hoopsmas?utm_source=twitter&utm_medium=social&utm_campaign=hoopsmas",
-          "author": null,
-          "description": "Celebrate The 12 Days of Hoopsmas on NBA Top Shot | NBA Top Shot Blog",
-          "link": "https://blog.nbatopshot.com/posts/12-days-of-hoopsmas?utm_source=twitter&utm_medium=social&utm_campaign=hoopsmas",
-          "publishedOn": "2022-12-26T04:00:04.000Z",
-          "wordCount": 805,
-          "title": "Celebrate The 12 Days of Hoopsmas on NBA Top Shot | NBA Top Shot Blog",
-          "imageUrl": "https://assets-global.website-files.com/5ea7adb57f49ec96cb312e21/639b28e64a19b1030fa32c01_12DaysOfHoopsmas_Blog_Email_1500x973%20(1)%20(1).png"
-        },
-        {
-          "id": "https://polygonscan.com/token/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
-          "author": null,
-          "description": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
-          "link": "https://polygonscan.com/token/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
-          "publishedOn": "2022-12-26T04:00:04.000Z",
-          "wordCount": 6106,
-          "title": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
-          "imageUrl": "https://polygonscan.com/images/brandassets/PolygonScan-logo-circle.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/drowning-new-cases-china-finally-stops-releasing-daily-fabricated-covid-data",
-          "author": null,
-          "description": "Drowning In New Cases, China Finally Stops Releasing Daily Fabricated Covid \"Data\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/drowning-new-cases-china-finally-stops-releasing-daily-fabricated-covid-data",
-          "publishedOn": "2022-12-26T03:00:02.000Z",
-          "wordCount": 1510,
-          "title": "Drowning In New Cases, China Finally Stops Releasing Daily Fabricated Covid \"Data\" | ZeroHedge",
+          "description": "NEAR Wallet",
+          "link": "https://wallet.near.org/",
+          "publishedOn": "2022-12-25T21:00:02.000Z",
+          "wordCount": 13,
+          "title": "NEAR Wallet",
           "imageUrl": null
         },
         {
@@ -171,19 +181,9 @@
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "link": "https://github.com/spalladino/zkp-tests",
           "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 765,
+          "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "imageUrl": "https://opengraph.githubassets.com/f70e5cfd31abc3ab57255379fb1a33b17ec3ac413cd4b43b4cf50c31eb98a98d/spalladino/zkp-tests"
-        },
-        {
-          "id": "https://santa.fm/",
-          "author": null,
-          "description": "Santa.FM",
-          "link": "https://santa.fm/",
-          "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 1804,
-          "title": "Santa.FM",
-          "imageUrl": "https://santa.fm/images/social_share.png"
         },
         {
           "id": "https://www.thisisnouns.wtf/",
