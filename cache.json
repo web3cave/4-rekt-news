@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://statoshi.info/",
+          "author": null,
+          "description": "Grafana",
+          "link": "https://statoshi.info/",
+          "publishedOn": "2022-12-26T11:00:02.000Z",
+          "wordCount": 626,
+          "title": "Grafana",
+          "imageUrl": null
+        },
+        {
           "id": "https://facultygovernance.mit.edu/sites/default/files/reports/2022-09_Final_Report_of_the_Ad_Hoc_Working_Group_on_Free_Expression.pdf",
           "author": null,
           "description": "[PDF] 2022-09_Final_Report_of_the_Ad_Hoc_Working_Group_on_Free_Expression.pdf",
@@ -21,9 +31,9 @@
           "description": "foundry/chisel at master · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/tree/master/chisel",
           "publishedOn": "2022-12-26T09:00:02.000Z",
-          "wordCount": 1372,
+          "wordCount": 1351,
           "title": "foundry/chisel at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/8d395cafeb76c1ac96faee19c3d2732ab7f5263fe8980043080b5d3821738b82/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/399f055dd46f758ede9af3c24f5756e4eb71d8e6ff3f720e36db75d893363f54/foundry-rs/foundry"
         },
         {
           "id": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=social.tw",
@@ -91,7 +101,7 @@
           "description": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
           "link": "https://polygonscan.com/token/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
           "publishedOn": "2022-12-26T04:00:04.000Z",
-          "wordCount": 6106,
+          "wordCount": 6088,
           "title": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
           "imageUrl": "https://polygonscan.com/images/brandassets/PolygonScan-logo-circle.jpg"
         },
@@ -146,22 +156,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/san-francisco-businesses-demand-tax-refund-over-drugs-crime-homelessness-crisis",
-          "author": null,
-          "description": "San Francisco Businesses Demand Tax Refund Over Drugs, Crime, & Homelessness Crisis | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/san-francisco-businesses-demand-tax-refund-over-drugs-crime-homelessness-crisis",
-          "publishedOn": "2022-12-26T01:00:02.000Z",
-          "wordCount": 1786,
-          "title": "San Francisco Businesses Demand Tax Refund Over Drugs, Crime, & Homelessness Crisis | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/1inch/farming",
           "author": null,
           "description": "GitHub - 1inch/farming",
           "link": "https://github.com/1inch/farming",
           "publishedOn": "2022-12-25T18:00:03.000Z",
-          "wordCount": 1316,
+          "wordCount": 1327,
           "title": "GitHub - 1inch/farming",
           "imageUrl": "https://opengraph.githubassets.com/6e502c61dd3e1b4044cb2488a97fe93e362c8359c1ec5d44c6c9d30c8f247515/1inch/farming"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2022-12-25T17:00:02.000Z",
           "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/8f628d631c86c19de0b935bd70f173c453e0105dbf2d52ca943cdc463f848b04/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/72cc27399d7b532ab37cd535651b773fd269fc8e1c329cd0d57b87d8c16b9779/spalladino/zkp-tests"
         },
         {
           "id": "https://santa.fm/",
@@ -196,10 +196,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?t=1659&v=9B13IUpGWqg&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=9B13IUpGWqg&t=4273s&ab_channel=UnchainedPodcast",
           "author": null,
           "description": "Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge - Ep. 435",
-          "link": "https://www.youtube.com/watch?t=1659&v=9B13IUpGWqg&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=9B13IUpGWqg&t=4273s&ab_channel=UnchainedPodcast",
           "publishedOn": "2022-12-25T12:00:04.000Z",
           "wordCount": null,
           "title": "Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge - Ep. 435",
