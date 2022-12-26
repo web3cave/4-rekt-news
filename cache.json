@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/los-angeles-county-follows-city-extends-covid-era-eviction-moratorium",
+          "author": null,
+          "description": "Los Angeles County Follows City, Extends COVID-Era Eviction Moratorium | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/los-angeles-county-follows-city-extends-covid-era-eviction-moratorium",
+          "publishedOn": "2022-12-26T02:30:03.000Z",
+          "wordCount": 1530,
+          "title": "Los Angeles County Follows City, Extends COVID-Era Eviction Moratorium | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+          "author": null,
+          "description": "Derinkuyu underground city - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+          "publishedOn": "2022-12-26T01:30:04.000Z",
+          "wordCount": 2718,
+          "title": "Derinkuyu underground city - Wikipedia",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg/1200px-Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/political/san-francisco-businesses-demand-tax-refund-over-drugs-crime-homelessness-crisis",
           "author": null,
           "description": "San Francisco Businesses Demand Tax Refund Over Drugs, Crime, & Homelessness Crisis | ZeroHedge",
@@ -24,16 +44,6 @@
           "wordCount": 4786,
           "title": "Bank of America's Guide How To Talk To Your Family About The Economy Over The Holidays | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.githubunwrapped.com/",
-          "author": null,
-          "description": "Your coding year in review - #GitHubUnwrapped 2022",
-          "link": "https://www.githubunwrapped.com/",
-          "publishedOn": "2022-12-26T01:00:02.000Z",
-          "wordCount": 40,
-          "title": "Your coding year in review - #GitHubUnwrapped 2022",
-          "imageUrl": "https://www.githubunwrapped.com/flash.png"
         },
         {
           "id": "https://www.zerohedge.com/political/three-busloads-migrants-dropped-vp-harris-home-christmas-eve",
@@ -96,16 +106,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/22-memes-help-get-you-through-christmas",
-          "author": null,
-          "description": "22 Memes To Help Get You Through Christmas | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/22-memes-help-get-you-through-christmas",
-          "publishedOn": "2022-12-25T21:00:02.000Z",
-          "wordCount": 1067,
-          "title": "22 Memes To Help Get You Through Christmas | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://pooltogether.santa.fm/",
           "author": null,
           "description": "Santa.FM | PoolTogether",
@@ -131,9 +131,9 @@
           "description": "GitHub - 1inch/farming",
           "link": "https://github.com/1inch/farming",
           "publishedOn": "2022-12-25T18:00:03.000Z",
-          "wordCount": 1219,
+          "wordCount": 1327,
           "title": "GitHub - 1inch/farming",
-          "imageUrl": "https://opengraph.githubassets.com/b6c1e981aac2ee8be416fe1ac231b1d8013050ce46047a3820a66a5e9ff79f5d/1inch/farming"
+          "imageUrl": "https://opengraph.githubassets.com/6e502c61dd3e1b4044cb2488a97fe93e362c8359c1ec5d44c6c9d30c8f247515/1inch/farming"
         },
         {
           "id": "https://github.com/spalladino/zkp-tests",
@@ -143,7 +143,7 @@
           "publishedOn": "2022-12-25T17:00:02.000Z",
           "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
-          "imageUrl": "https://opengraph.githubassets.com/8c49f9316c5b100d4938f8d63e3155766e3aa674221905ba05f56f94c0592544/spalladino/zkp-tests"
+          "imageUrl": "https://opengraph.githubassets.com/747e105cd3e59c834076229f9da79afee5872be7c65f0840a15c749aceb6d253/spalladino/zkp-tests"
         },
         {
           "id": "https://santa.fm/",
@@ -181,7 +181,7 @@
           "description": "BTC.com Professional Data Service for Global Blockchain Enthusiasts",
           "link": "https://explorer.btc.com/",
           "publishedOn": "2022-12-25T07:00:02.000Z",
-          "wordCount": 1697,
+          "wordCount": 1695,
           "title": "BTC.com Professional Data Service for Global Blockchain Enthusiasts",
           "imageUrl": null
         },
