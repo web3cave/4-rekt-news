@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/197808/larry-cermak-unpacks-the-block-researchs-2023-digital-asset-outlook-report",
+          "author": null,
+          "description": "Larry Cermak unpacks The Block Research's 2023 Digital Asset Outlook Report",
+          "link": "https://www.theblock.co/post/197808/larry-cermak-unpacks-the-block-researchs-2023-digital-asset-outlook-report",
+          "publishedOn": "2022-12-26T13:00:03.000Z",
+          "wordCount": 58350,
+          "title": "Larry Cermak unpacks The Block Research's 2023 Digital Asset Outlook Report",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221222_TheScoop_LarryCermak_16x9-1200x675.jpg"
+        },
+        {
+          "id": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
+          "author": null,
+          "description": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
+          "link": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
+          "publishedOn": "2022-12-26T13:00:02.000Z",
+          "wordCount": 14968,
+          "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
+          "imageUrl": "https://opengraph.githubassets.com/a86d8ef0ab3d6e1e54a9d37c78d78a909e3237db40317e6b95d57ae97e6ff99b/ethereum/pos-evolution"
+        },
+        {
+          "id": "https://sendfox.com/noah/c/rlvdnz/2023-goals",
+          "author": null,
+          "description": "2023 goals - Noah Kagan's email newsletter",
+          "link": "https://sendfox.com/noah/c/rlvdnz/2023-goals",
+          "publishedOn": "2022-12-26T13:00:02.000Z",
+          "wordCount": 557,
+          "title": "2023 goals - Noah Kagan's email newsletter",
+          "imageUrl": "https://sendfoxprod.b-cdn.net/media/NszwJ0cEZfwQ8TmDDesnDxF3qbHxu1TYoIH14zuh332"
+        },
+        {
           "id": "https://statoshi.info/",
           "author": null,
           "description": "Grafana",
@@ -31,9 +61,9 @@
           "description": "foundry/chisel at master · foundry-rs/foundry",
           "link": "https://github.com/foundry-rs/foundry/tree/master/chisel",
           "publishedOn": "2022-12-26T09:00:02.000Z",
-          "wordCount": 1308,
+          "wordCount": 1372,
           "title": "foundry/chisel at master · foundry-rs/foundry",
-          "imageUrl": "https://opengraph.githubassets.com/8b508d6abc5dbfeded0b1ac5104f3ec9b04bbe6729284a3f5029e41907d6c32d/foundry-rs/foundry"
+          "imageUrl": "https://opengraph.githubassets.com/125e80fed136615f7f0cc1c517bc299eb85cf0b0036e6f42e589691d9c5b2685/foundry-rs/foundry"
         },
         {
           "id": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=social.tw",
@@ -116,16 +146,6 @@
           "imageUrl": "https://polygonscan.com/images/brandassets/PolygonScan-logo-circle.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=z14aRFGaDMQ",
-          "author": null,
-          "description": "【A week of husband lunch boxes】#43 / Oyakodon",
-          "link": "https://www.youtube.com/watch?v=z14aRFGaDMQ",
-          "publishedOn": "2022-12-26T03:00:03.000Z",
-          "wordCount": null,
-          "title": "【A week of husband lunch boxes】#43 / Oyakodon",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/markets/drowning-new-cases-china-finally-stops-releasing-daily-fabricated-covid-data",
           "author": null,
           "description": "Drowning In New Cases, China Finally Stops Releasing Daily Fabricated Covid \"Data\" | ZeroHedge",
@@ -133,26 +153,6 @@
           "publishedOn": "2022-12-26T03:00:02.000Z",
           "wordCount": 1510,
           "title": "Drowning In New Cases, China Finally Stops Releasing Daily Fabricated Covid \"Data\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/los-angeles-county-follows-city-extends-covid-era-eviction-moratorium",
-          "author": null,
-          "description": "Los Angeles County Follows City, Extends COVID-Era Eviction Moratorium | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/los-angeles-county-follows-city-extends-covid-era-eviction-moratorium",
-          "publishedOn": "2022-12-26T02:30:03.000Z",
-          "wordCount": 1530,
-          "title": "Los Angeles County Follows City, Extends COVID-Era Eviction Moratorium | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wallet.near.org/",
-          "author": null,
-          "description": "NEAR Wallet",
-          "link": "https://wallet.near.org/",
-          "publishedOn": "2022-12-25T21:00:02.000Z",
-          "wordCount": 13,
-          "title": "NEAR Wallet",
           "imageUrl": null
         },
         {
@@ -171,7 +171,7 @@
           "description": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "link": "https://github.com/spalladino/zkp-tests",
           "publishedOn": "2022-12-25T17:00:02.000Z",
-          "wordCount": 765,
+          "wordCount": 833,
           "title": "GitHub - spalladino/zkp-tests: Playing with zero-knowledge proof languages",
           "imageUrl": "https://opengraph.githubassets.com/f70e5cfd31abc3ab57255379fb1a33b17ec3ac413cd4b43b4cf50c31eb98a98d/spalladino/zkp-tests"
         },
