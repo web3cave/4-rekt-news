@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/my-christmas-gift-greta",
+          "author": null,
+          "description": "My Christmas Gift To Greta | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/my-christmas-gift-greta",
+          "publishedOn": "2022-12-26T06:00:07.000Z",
+          "wordCount": 3706,
+          "title": "My Christmas Gift To Greta | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/dave-collums-2022-year-review-part-2-war-ukraine-how-does-it-end",
           "author": null,
           "description": "Dave Collum's 2022 Year In Review, Part 2: The War In Ukraine & How Does It End? | ZeroHedge",
@@ -41,7 +51,7 @@
           "description": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
           "link": "https://polygonscan.com/token/0xa9536b9c75a9e0fae3b56a96ac8edf76abc91978",
           "publishedOn": "2022-12-26T04:00:04.000Z",
-          "wordCount": 6106,
+          "wordCount": 6088,
           "title": "Polygon Ecosystem Index (PECO) Token Tracker | PolygonScan",
           "imageUrl": "https://polygonscan.com/images/brandassets/PolygonScan-logo-circle.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "Three Things #49: December 25, 2022",
           "link": "https://rettig.substack.com/p/three-things-49-december-25-2022?utm_source=twitter&sd=pf",
           "publishedOn": "2022-12-26T03:00:03.000Z",
-          "wordCount": 5972,
+          "wordCount": 6178,
           "title": "Three Things #49: December 25, 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc214c9c4-8ccd-4c92-b6db-2de733591c6e_768x768.jpeg"
         },
@@ -96,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+          "author": null,
+          "description": "Derinkuyu underground city - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+          "publishedOn": "2022-12-26T01:30:04.000Z",
+          "wordCount": 2718,
+          "title": "Derinkuyu underground city - Wikipedia",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg/1200px-Derinkuyu_Underground_City_9843_Nevit_Enhancer.jpg"
+        },
+        {
           "id": "https://www.zerohedge.com/political/san-francisco-businesses-demand-tax-refund-over-drugs-crime-homelessness-crisis",
           "author": null,
           "description": "San Francisco Businesses Demand Tax Refund Over Drugs, Crime, & Homelessness Crisis | ZeroHedge",
@@ -126,12 +146,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://wallet.near.org/",
+          "author": null,
+          "description": "NEAR Wallet",
+          "link": "https://wallet.near.org/",
+          "publishedOn": "2022-12-25T21:00:02.000Z",
+          "wordCount": 13,
+          "title": "NEAR Wallet",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/1inch/farming",
           "author": null,
           "description": "GitHub - 1inch/farming",
           "link": "https://github.com/1inch/farming",
           "publishedOn": "2022-12-25T18:00:03.000Z",
-          "wordCount": 1327,
+          "wordCount": 1208,
           "title": "GitHub - 1inch/farming",
           "imageUrl": "https://opengraph.githubassets.com/6e502c61dd3e1b4044cb2488a97fe93e362c8359c1ec5d44c6c9d30c8f247515/1inch/farming"
         },
@@ -173,36 +203,6 @@
           "publishedOn": "2022-12-25T12:00:04.000Z",
           "wordCount": null,
           "title": "Martin Shkreli Explains Why Sam Bankman-Fried Got Lucky With His Judge - Ep. 435",
-          "imageUrl": null
-        },
-        {
-          "id": "https://explorer.btc.com/",
-          "author": null,
-          "description": "BTC.com Professional Data Service for Global Blockchain Enthusiasts",
-          "link": "https://explorer.btc.com/",
-          "publishedOn": "2022-12-25T07:00:02.000Z",
-          "wordCount": 1697,
-          "title": "BTC.com Professional Data Service for Global Blockchain Enthusiasts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://btc.com/",
-          "author": null,
-          "description": "BTC.com First website for blockchainers",
-          "link": "https://btc.com/",
-          "publishedOn": "2022-12-25T07:00:02.000Z",
-          "wordCount": 5251,
-          "title": "BTC.com First website for blockchainers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nostr.directory/",
-          "author": null,
-          "description": "Nostr public keys of Twitter Accounts",
-          "link": "https://nostr.directory/",
-          "publishedOn": "2022-12-25T01:00:02.000Z",
-          "wordCount": 343,
-          "title": "Nostr public keys of Twitter Accounts",
           "imageUrl": null
         }
       ]
