@@ -6,23 +6,53 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://hito.xyz/",
+          "id": "https://votemarket.stakedao.org/",
           "author": null,
-          "description": "Hito. Your Crypto Wallet",
-          "link": "https://hito.xyz/",
-          "publishedOn": "2022-12-27T11:00:03.000Z",
-          "wordCount": 875,
-          "title": "Hito. Your Crypto Wallet",
-          "imageUrl": "https://hito.xyz/img/preview.png"
+          "description": "Stake DAO | Votemarket",
+          "link": "https://votemarket.stakedao.org/",
+          "publishedOn": "2022-12-27T13:00:03.000Z",
+          "wordCount": 1777,
+          "title": "Stake DAO | Votemarket",
+          "imageUrl": null
         },
         {
-          "id": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+          "id": "https://zeeprime.capital/a-lot-of-on-chain-options-but-few-to-exercise-a-deep-dive-into-defi-option-protocols",
           "author": null,
-          "description": "Work with the garage door up",
-          "link": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-          "publishedOn": "2022-12-27T11:00:03.000Z",
-          "wordCount": 1458,
-          "title": "Work with the garage door up",
+          "description": "A Lot Of On-Chain Options, But Few To Exercise",
+          "link": "https://zeeprime.capital/a-lot-of-on-chain-options-but-few-to-exercise-a-deep-dive-into-defi-option-protocols",
+          "publishedOn": "2022-12-27T13:00:03.000Z",
+          "wordCount": 13357,
+          "title": "A Lot Of On-Chain Options, But Few To Exercise",
+          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zeeprime_option_thesis_0a771cf323/zeeprime_option_thesis_0a771cf323.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/commodities/japan-extract-rare-earths-seabed-starting-2024",
+          "author": null,
+          "description": "Japan To Extract Rare Earths From Seabed Starting 2024 | ZeroHedge",
+          "link": "https://www.zerohedge.com/commodities/japan-extract-rare-earths-seabed-starting-2024",
+          "publishedOn": "2022-12-27T13:00:03.000Z",
+          "wordCount": 1349,
+          "title": "Japan To Extract Rare Earths From Seabed Starting 2024 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/commodities/christmas-grid-chaos-rolling-blackouts-could-bring-light-transportable-nuclear-power",
+          "author": null,
+          "description": "Christmas Grid Chaos And Blackouts Could Bring Light To Transportable Nuke Plants | ZeroHedge",
+          "link": "https://www.zerohedge.com/commodities/christmas-grid-chaos-rolling-blackouts-could-bring-light-transportable-nuclear-power",
+          "publishedOn": "2022-12-27T13:00:03.000Z",
+          "wordCount": 1134,
+          "title": "Christmas Grid Chaos And Blackouts Could Bring Light To Transportable Nuke Plants | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/us-china-struggle-dr-congo-resources-intensifies",
+          "author": null,
+          "description": "US-China Struggle For DR Congo Resources Intensifies | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/us-china-struggle-dr-congo-resources-intensifies",
+          "publishedOn": "2022-12-27T13:00:03.000Z",
+          "wordCount": 5557,
+          "title": "US-China Struggle For DR Congo Resources Intensifies | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -66,26 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-can-china-help-brazil-restart-its-global-soft-power",
-          "author": null,
-          "description": "Escobar: Can China Help Brazil Restart Its Global Soft Power? | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-can-china-help-brazil-restart-its-global-soft-power",
-          "publishedOn": "2022-12-27T11:00:03.000Z",
-          "wordCount": 4663,
-          "title": "Escobar: Can China Help Brazil Restart Its Global Soft Power? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/university-idaho-professor-sues-tiktok-personality-who-linked-her-student-murders",
-          "author": null,
-          "description": "University Of Idaho Professor Sues TikTok Personality Who Linked Her To Student Murders | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/university-idaho-professor-sues-tiktok-personality-who-linked-her-student-murders",
-          "publishedOn": "2022-12-27T11:00:03.000Z",
-          "wordCount": 1346,
-          "title": "University Of Idaho Professor Sues TikTok Personality Who Linked Her To Student Murders | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.nobsbitcoin.com/twitter-data-breach-400m-accounts-compromised/",
           "author": null,
           "description": "Twitter Data Breach: Private Data for 400M Users Posted for Sale Including Phone Numbers",
@@ -96,14 +106,14 @@
           "imageUrl": "https://www.nobsbitcoin.com/content/images/2022/12/twitterdatabreach.webp"
         },
         {
-          "id": "https://franknielsen.github.io/Divergence/index.html",
+          "id": "https://www.latimes.com/politics/story/2022-12-26/sam-bankman-fried-cftc-sec-revolving-door",
           "author": null,
-          "description": "Frank Nielsen | Divergences (dissimilarities, diversities, affinities)",
-          "link": "https://franknielsen.github.io/Divergence/index.html",
-          "publishedOn": "2022-12-27T06:30:37.000Z",
-          "wordCount": 806,
-          "title": "Frank Nielsen | Divergences (dissimilarities, diversities, affinities)",
-          "imageUrl": null
+          "description": "Emails reveal Sam Bankman-Fried's courtship of federal regulators",
+          "link": "https://www.latimes.com/politics/story/2022-12-26/sam-bankman-fried-cftc-sec-revolving-door",
+          "publishedOn": "2022-12-27T01:30:04.000Z",
+          "wordCount": 4930,
+          "title": "Emails reveal Sam Bankman-Fried's courtship of federal regulators",
+          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/ebe5ec2/2147483647/strip/true/crop/2364x1241+0+167/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2F40%2F8f79a6904885aaeed7e85cccfaee%2Fcorrection-ftx-bankman-fried-new-york-12375.jpg"
         },
         {
           "id": "https://github.com/oxfeeefeee/goscript",
@@ -186,22 +196,12 @@
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
         {
-          "id": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
-          "author": null,
-          "description": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "link": "https://github.com/ethereum/pos-evolution/blob/master/pos-evolution.md",
-          "publishedOn": "2022-12-26T13:00:02.000Z",
-          "wordCount": 14968,
-          "title": "pos-evolution/pos-evolution.md at master · ethereum/pos-evolution",
-          "imageUrl": "https://opengraph.githubassets.com/db95e456fcb04967a0425bd2e9a41bdbe9732f39970127237d94edc71956c39f/ethereum/pos-evolution"
-        },
-        {
           "id": "https://www.theblock.co/post/197892/top-solana-nft-projects-degods-y00ts-are-headed-to-ethereum-and-polygon",
           "author": null,
           "description": "Top Solana NFT projects DeGods & y00ts are headed to Ethereum and Polygon",
           "link": "https://www.theblock.co/post/197892/top-solana-nft-projects-degods-y00ts-are-headed-to-ethereum-and-polygon",
           "publishedOn": "2022-12-26T12:30:03.000Z",
-          "wordCount": 61184,
+          "wordCount": 61757,
           "title": "Top Solana NFT projects DeGods & y00ts are headed to Ethereum and Polygon",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/04/plane-2909850_1920-1080x675.jpg"
         }
