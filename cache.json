@@ -6,12 +6,82 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://btc.com/stats/pool?pool_mode=week",
+          "author": null,
+          "description": "Pool Stats - BTC.com",
+          "link": "https://btc.com/stats/pool?pool_mode=week",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 978,
+          "title": "Pool Stats - BTC.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=33841672",
+          "author": null,
+          "description": "ChatGPT produces made-up nonexistent references | Hacker News",
+          "link": "https://news.ycombinator.com/item?id=33841672",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 12103,
+          "title": "ChatGPT produces made-up nonexistent references | Hacker News",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html?smid=tw-share",
+          "author": null,
+          "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
+          "link": "https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html?smid=tw-share",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Opinion | The Signal App and the Danger of Privacy at All Costs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/crypto/sam-bankman-frieds-nervous-family-hires-armed-guards-locks-down-neighborhood-street-amid",
+          "author": null,
+          "description": "Sam Bankman-Fried's 'Nervous' Parents Hire Armed Guards Amid Death Threats | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/sam-bankman-frieds-nervous-family-hires-armed-guards-locks-down-neighborhood-street-amid",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 928,
+          "title": "Sam Bankman-Fried's 'Nervous' Parents Hire Armed Guards Amid Death Threats | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/even-ai-suspicious-military-industrial-complex",
+          "author": null,
+          "description": "Even AI Is Suspicious Of The Military-Industrial Complex | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/even-ai-suspicious-military-industrial-complex",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 2136,
+          "title": "Even AI Is Suspicious Of The Military-Industrial Complex | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/2023-when-qt-could-really-begin-bite",
+          "author": null,
+          "description": "2023 Is When QT Could Really Begin To Bite | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/2023-when-qt-could-really-begin-bite",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 1145,
+          "title": "2023 Is When QT Could Really Begin To Bite | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/5y-treasury-auction-sees-solid-demand-slight-tail",
+          "author": null,
+          "description": "5Y Treasury Auction Sees Solid Demand, Slight Tail | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/5y-treasury-auction-sees-solid-demand-slight-tail",
+          "publishedOn": "2022-12-28T21:00:03.000Z",
+          "wordCount": 631,
+          "title": "5Y Treasury Auction Sees Solid Demand, Slight Tail | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reuters.com/legal/sam-bankman-fried-enter-plea-ftx-fraud-case-2022-12-28/",
           "author": null,
           "description": "Sam Bankman-Fried to enter plea in FTX fraud case",
           "link": "https://www.reuters.com/legal/sam-bankman-fried-enter-plea-ftx-fraud-case-2022-12-28/",
           "publishedOn": "2022-12-28T20:00:05.000Z",
-          "wordCount": 5191,
+          "wordCount": 5227,
           "title": "Sam Bankman-Fried to enter plea in FTX fraud case",
           "imageUrl": "https://www.reuters.com/resizer/-hBFfqJ4Ewz0Lms6EKkr_uo4lPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LHIBZOUVNBOFRAQHLXJEBMH67E.jpg"
         },
@@ -31,19 +101,9 @@
           "description": "Gemini, Winklevoss twins facing potential class action from investors",
           "link": "https://www.theblock.co/post/198213/gemini-winklevoss-twins-facing-potential-class-action-from-investors",
           "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 60309,
+          "wordCount": 60692,
           "title": "Gemini, Winklevoss twins facing potential class action from investors",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/Winklevoss-1-1200x675.jpg"
-        },
-        {
-          "id": "https://core.ac.uk/download/pdf/71459318.pdf",
-          "author": null,
-          "description": "[PDF] 71459318.pdf",
-          "link": "https://core.ac.uk/download/pdf/71459318.pdf",
-          "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 40031,
-          "title": "[PDF] 71459318.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://www.nbcnews.com/tech/crypto/north-dimension-ftx-bankman-fried-rcna63175",
@@ -66,52 +126,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/lavrov-says-pentagon-threatening-assassinate-putin",
-          "author": null,
-          "description": "Lavrov Says Pentagon Threatening To Assassinate Putin | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/lavrov-says-pentagon-threatening-assassinate-putin",
-          "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 1162,
-          "title": "Lavrov Says Pentagon Threatening To Assassinate Putin | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/cost-easy-money-now-coming-due",
-          "author": null,
-          "description": "The Cost Of Easy Money Is Now Coming Due | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/cost-easy-money-now-coming-due",
-          "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 2018,
-          "title": "The Cost Of Easy Money Is Now Coming Due | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid",
-          "author": null,
-          "description": "\"Extremely Irresponsible\" China Reopens Borders, Milan Sees 50% Of Arrivals Infected With COVID | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/extremely-irresponsible-china-reopens-borders-milan-sees-50-arrivals-infected-covid",
-          "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 1287,
-          "title": "\"Extremely Irresponsible\" China Reopens Borders, Milan Sees 50% Of Arrivals Infected With COVID | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/energy/texas-refineries-could-take-two-weeks-fully-restore-operations-after-storm",
-          "author": null,
-          "description": "Texas Refineries Could Take Two Weeks To Fully Restore Operations After Storm | ZeroHedge",
-          "link": "https://www.zerohedge.com/energy/texas-refineries-could-take-two-weeks-fully-restore-operations-after-storm",
-          "publishedOn": "2022-12-28T19:00:02.000Z",
-          "wordCount": 900,
-          "title": "Texas Refineries Could Take Two Weeks To Fully Restore Operations After Storm | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
           "author": null,
           "description": "The rise and fall of peer review",
           "link": "https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review",
           "publishedOn": "2022-12-28T18:00:04.000Z",
-          "wordCount": 9041,
+          "wordCount": 8835,
           "title": "The rise and fall of peer review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F24ab2184-c024-44c5-81cc-4bc14851b965_1762x1173.jpeg"
         },
@@ -131,7 +151,7 @@
           "description": "StarkWare Session – StarkWare Session",
           "link": "https://starkwaresessions.co/",
           "publishedOn": "2022-12-28T13:00:02.000Z",
-          "wordCount": 543,
+          "wordCount": 680,
           "title": "StarkWare Session – StarkWare Session",
           "imageUrl": null
         },
@@ -141,7 +161,7 @@
           "description": "Fauci Argued Benefits of Gain-of-Function Research Outweighed Pandemic Risk in 2012 Paper",
           "link": "https://news.yahoo.com/fauci-argued-benefits-gain-function-185934217.html",
           "publishedOn": "2022-12-28T10:30:02.000Z",
-          "wordCount": 14106,
+          "wordCount": 14134,
           "title": "Fauci Argued Benefits of Gain-of-Function Research Outweighed Pandemic Risk in 2012 Paper",
           "imageUrl": "https://media.zenfs.com/en/the_national_review_738/e9a5071e6b9b7d69a779e4c6b951ca75"
         },
@@ -151,19 +171,9 @@
           "description": "Axie Land Alpha!",
           "link": "https://axie.substack.com/p/homeland",
           "publishedOn": "2022-12-28T09:30:04.000Z",
-          "wordCount": 3130,
+          "wordCount": 2924,
           "title": "Axie Land Alpha!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd77d90bd-d561-4a41-83c8-0d892e4b724a_1600x938.png"
-        },
-        {
-          "id": "https://defillama.com/chains",
-          "author": null,
-          "description": "DefiLlama",
-          "link": "https://defillama.com/chains",
-          "publishedOn": "2022-12-28T07:00:02.000Z",
-          "wordCount": 1651,
-          "title": "DefiLlama",
-          "imageUrl": "https://og-cards-chi.vercel.app/default.jpeg?theme=dark&valueHeader=Total+Value+Locked&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/fighting-psyopcracy",
@@ -193,16 +203,6 @@
           "publishedOn": "2022-12-27T23:30:04.000Z",
           "wordCount": 5908,
           "title": "[PDF] gov.uscourts.nysd.591629.1.0.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
-          "author": null,
-          "description": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
-          "link": "https://www.youtube.com/watch?v=oEKSz4A3I2Q",
-          "publishedOn": "2022-12-27T23:30:04.000Z",
-          "wordCount": null,
-          "title": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
           "imageUrl": null
         }
       ]
