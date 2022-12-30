@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gource.io/",
+          "author": null,
+          "description": "Gource - a software version control visualization tool",
+          "link": "https://gource.io/",
+          "publishedOn": "2022-12-30T18:30:03.000Z",
+          "wordCount": 1084,
+          "title": "Gource - a software version control visualization tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/rotki/rotki/blob/develop/tools/gource/run_gource.sh",
+          "author": null,
+          "description": "rotki/run_gource.sh at develop · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/blob/develop/tools/gource/run_gource.sh",
+          "publishedOn": "2022-12-30T18:30:03.000Z",
+          "wordCount": 493,
+          "title": "rotki/run_gource.sh at develop · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/0b6016592ae4ada8814aa50eb0a2b96b72cf076a53334c05950033c12b43f2bf/rotki/rotki"
+        },
+        {
+          "id": "https://disperse.app/",
+          "author": null,
+          "description": "disperse",
+          "link": "https://disperse.app/",
+          "publishedOn": "2022-12-30T18:30:03.000Z",
+          "wordCount": 3,
+          "title": "disperse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tI3dIclOlA4",
+          "author": null,
+          "description": "rotki code contributors 2022/01-2022/12/02",
+          "link": "https://www.youtube.com/watch?v=tI3dIclOlA4",
+          "publishedOn": "2022-12-30T18:30:02.000Z",
+          "wordCount": null,
+          "title": "rotki code contributors 2022/01-2022/12/02",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/@davidmarcus/out-with-speculators-in-with-builders-1b6075e2111b",
           "author": null,
           "description": "Out with speculators, in with builders",
@@ -21,7 +61,7 @@
           "description": "GitHub - avaneev/prvhash: PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness...",
           "link": "https://github.com/avaneev/prvhash#proof_math_is_engineered",
           "publishedOn": "2022-12-30T17:00:03.000Z",
-          "wordCount": 7960,
+          "wordCount": 7826,
           "title": "GitHub - avaneev/prvhash: PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness...",
           "imageUrl": "https://repository-images.githubusercontent.com/286408909/21fc5700-ee19-11ea-9c83-d97ff68430af"
         },
@@ -33,26 +73,6 @@
           "publishedOn": "2022-12-30T17:00:03.000Z",
           "wordCount": 2000,
           "title": "Blain: The Markets Are Full Of Idiots... Listen To Them | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/top-500-richest-people-world-lost-14-trillion-2022",
-          "author": null,
-          "description": "The Top 500 Richest People In The World Lost $1.4 Trillion In 2022 | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/top-500-richest-people-world-lost-14-trillion-2022",
-          "publishedOn": "2022-12-30T17:00:03.000Z",
-          "wordCount": 1086,
-          "title": "The Top 500 Richest People In The World Lost $1.4 Trillion In 2022 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/ftx-founder-reportedly-cashes-out-684k-after-being-released-bail",
-          "author": null,
-          "description": "FTX Founder Reportedly Cashes Out $684K After Being Released On Bail | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/ftx-founder-reportedly-cashes-out-684k-after-being-released-bail",
-          "publishedOn": "2022-12-30T17:00:03.000Z",
-          "wordCount": 1469,
-          "title": "FTX Founder Reportedly Cashes Out $684K After Being Released On Bail | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -126,34 +146,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Rla78SheghM&feature=youtu.be",
-          "author": null,
-          "description": "Ethereum's big 2022, Distinguishing zkEVMs and more - The Daily Gwei Refuel #514 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=Rla78SheghM&feature=youtu.be",
-          "publishedOn": "2022-12-30T15:00:03.000Z",
-          "wordCount": null,
-          "title": "Ethereum's big 2022, Distinguishing zkEVMs and more - The Daily Gwei Refuel #514 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
           "id": "https://newsletter.banklesshq.com/p/the-l2-year-in-review",
           "author": null,
           "description": "The L2 Year in Review",
           "link": "https://newsletter.banklesshq.com/p/the-l2-year-in-review",
           "publishedOn": "2022-12-30T15:00:02.000Z",
-          "wordCount": 5326,
+          "wordCount": 5328,
           "title": "The L2 Year in Review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeec5232-3007-4562-adec-a83e63945b09_1890x1063.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/futures-slide-final-trading-day-2022",
-          "author": null,
-          "description": "Futures Slide On Final Trading Day Of 2022 | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/futures-slide-final-trading-day-2022",
-          "publishedOn": "2022-12-30T14:00:05.000Z",
-          "wordCount": 3058,
-          "title": "Futures Slide On Final Trading Day Of 2022 | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://writing.ry.sh/the-year-solana-blew-up-6d50cccb4615?gi=c4cb4668a2c5",
@@ -176,16 +176,6 @@
           "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=8ea3fac8"
         },
         {
-          "id": "https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html",
-          "author": null,
-          "description": "Documents Reveal N.S.A. Campaign Against Encryption",
-          "link": "https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html",
-          "publishedOn": "2022-12-30T01:00:02.000Z",
-          "wordCount": 2059,
-          "title": "Documents Reveal N.S.A. Campaign Against Encryption",
-          "imageUrl": "https://static01.nyt.com/images/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption-promo/documents-reveal-nsa-campaign-against-encryption-promo-superJumbo.png"
-        },
-        {
           "id": "https://medium.com/@nic__carter/the-status-of-proof-of-reserve-as-of-year-end-2022-48120159377c",
           "author": null,
           "description": "The Status of Proof of Reserve as of Year End 2022",
@@ -204,6 +194,16 @@
           "wordCount": 2577,
           "title": "Andrew Tate’s luxury villa reportedly raided by armed police in Romania - Dexerto",
           "imageUrl": "https://editors.dexerto.com/wp-content/uploads/2022/09/28/andrew-tate-reportedly-seeking-two-warm-up-matches-before-logan-paul-fight.jpg"
+        },
+        {
+          "id": "https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22",
+          "author": null,
+          "description": "EF-Supported Teams: Research & Development Roundup | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22",
+          "publishedOn": "2022-12-29T19:00:02.000Z",
+          "wordCount": 12251,
+          "title": "EF-Supported Teams: Research & Development Roundup | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_843f550fb00a32fd6183815b56f14d44.jpg"
         }
       ]
     }
