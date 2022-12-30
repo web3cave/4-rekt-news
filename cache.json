@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bitcointalk.org/index.php?topic=47417.0",
+          "author": null,
+          "description": "[ANN] Litecoin - a lite version of Bitcoin. Launched!",
+          "link": "https://bitcointalk.org/index.php?topic=47417.0",
+          "publishedOn": "2022-12-30T19:30:05.000Z",
+          "wordCount": 6963,
+          "title": "[ANN] Litecoin - a lite version of Bitcoin. Launched!",
+          "imageUrl": null
+        },
+        {
           "id": "https://gource.io/",
           "author": null,
           "description": "Gource - a software version control visualization tool",
@@ -21,7 +31,7 @@
           "description": "rotki/run_gource.sh at develop · rotki/rotki",
           "link": "https://github.com/rotki/rotki/blob/develop/tools/gource/run_gource.sh",
           "publishedOn": "2022-12-30T18:30:03.000Z",
-          "wordCount": 493,
+          "wordCount": 472,
           "title": "rotki/run_gource.sh at develop · rotki/rotki",
           "imageUrl": "https://opengraph.githubassets.com/0b6016592ae4ada8814aa50eb0a2b96b72cf076a53334c05950033c12b43f2bf/rotki/rotki"
         },
@@ -54,26 +64,6 @@
           "wordCount": 3770,
           "title": "Out with speculators, in with builders",
           "imageUrl": "https://miro.medium.com/max/1200/1*7_uyPY-NT4Whq7TuNZavhA.png"
-        },
-        {
-          "id": "https://github.com/avaneev/prvhash#proof_math_is_engineered",
-          "author": null,
-          "description": "GitHub - avaneev/prvhash: PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness...",
-          "link": "https://github.com/avaneev/prvhash#proof_math_is_engineered",
-          "publishedOn": "2022-12-30T17:00:03.000Z",
-          "wordCount": 7826,
-          "title": "GitHub - avaneev/prvhash: PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness...",
-          "imageUrl": "https://repository-images.githubusercontent.com/286408909/21fc5700-ee19-11ea-9c83-d97ff68430af"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/blain-markets-are-full-idiots-listen-them",
-          "author": null,
-          "description": "Blain: The Markets Are Full Of Idiots... Listen To Them | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/blain-markets-are-full-idiots-listen-them",
-          "publishedOn": "2022-12-30T17:00:03.000Z",
-          "wordCount": 2000,
-          "title": "Blain: The Markets Are Full Of Idiots... Listen To Them | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://newsletter.banklesshq.com/p/the-decentralized-identity-revolution",
@@ -126,13 +116,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/commodities/farmers-celebrate-ag-boom-sends-incomes-soaring",
+          "id": "https://www.youtube.com/watch?v=5cSc_s9F4MY&feature=youtu.be",
           "author": null,
-          "description": "Farmers Celebrate As Ag Boom Sends Incomes Soaring | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/farmers-celebrate-ag-boom-sends-incomes-soaring",
+          "description": "Angel Gomez, Head of Sales & Growth of BANXA l Hash It Out with Toya Zhang - Episode 7",
+          "link": "https://www.youtube.com/watch?v=5cSc_s9F4MY&feature=youtu.be",
           "publishedOn": "2022-12-30T17:00:02.000Z",
-          "wordCount": 681,
-          "title": "Farmers Celebrate As Ag Boom Sends Incomes Soaring | ZeroHedge",
+          "wordCount": null,
+          "title": "Angel Gomez, Head of Sales & Growth of BANXA l Hash It Out with Toya Zhang - Episode 7",
           "imageUrl": null
         },
         {
@@ -154,6 +144,16 @@
           "wordCount": 5328,
           "title": "The L2 Year in Review",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeec5232-3007-4562-adec-a83e63945b09_1890x1063.jpeg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2212.03827",
+          "author": null,
+          "description": "Discovering Latent Knowledge in Language Models Without Supervision",
+          "link": "https://arxiv.org/abs/2212.03827",
+          "publishedOn": "2022-12-30T14:30:03.000Z",
+          "wordCount": 644,
+          "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+          "imageUrl": null
         },
         {
           "id": "https://writing.ry.sh/the-year-solana-blew-up-6d50cccb4615?gi=c4cb4668a2c5",
@@ -191,7 +191,7 @@
           "description": "Andrew Tate’s luxury villa reportedly raided by armed police in Romania - Dexerto",
           "link": "https://www.dexerto.com/entertainment/andrew-tates-luxury-villa-reportedly-raided-by-armed-police-in-romania-2019584/",
           "publishedOn": "2022-12-29T21:30:04.000Z",
-          "wordCount": 2577,
+          "wordCount": 2748,
           "title": "Andrew Tate’s luxury villa reportedly raided by armed police in Romania - Dexerto",
           "imageUrl": "https://editors.dexerto.com/wp-content/uploads/2022/09/28/andrew-tate-reportedly-seeking-two-warm-up-matches-before-logan-paul-fight.jpg"
         },
