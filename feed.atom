@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-31T09:15:58.169Z</id>
+    <id>urn:2022-12-31T10:17:38.017Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-31T09:15:58.169Z</updated>
+    <updated>2022-12-31T10:17:38.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[array - Rust]]></title>
+        <id>https://doc.rust-lang.org/std/primitive.array.html#method.split_array_mut</id>
+        <link href="https://doc.rust-lang.org/std/primitive.array.html#method.split_array_mut"/>
+        <updated>2022-12-31T09:30:04.000Z</updated>
+        <summary type="html"><![CDATA[array - Rust]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi To Widen Gap With CeFi After Stormy Year - The Defiant]]></title>
         <id>https://thedefiant.io/cefi-vs-defi</id>
@@ -31,16 +41,6 @@
         <link href="https://www.citysurfproject.com/"/>
         <updated>2022-12-31T07:00:02.000Z</updated>
         <summary type="html"><![CDATA[City Surf Project – Making Waves, One Life at a Time]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Money Movers]]></title>
-        <id>https://money-movers.info/</id>
-        <link href="https://money-movers.info/"/>
-        <updated>2022-12-31T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Money Movers]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
