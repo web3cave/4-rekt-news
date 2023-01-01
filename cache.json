@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://scribepod.substack.com/p/scribepod-1",
+          "author": null,
+          "description": "Scribepod 1",
+          "link": "https://scribepod.substack.com/p/scribepod-1",
+          "publishedOn": "2023-01-01T10:00:04.000Z",
+          "wordCount": 1871,
+          "title": "Scribepod 1",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d93efd8-ea70-432b-b7f9-59eab138628a_1152x832.png"
+        },
+        {
           "id": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
           "author": null,
           "description": "Latest Week in Ethereum News",
@@ -111,7 +121,7 @@
           "description": "Mimbres School | creating A crowdfunded university | Patreon",
           "link": "https://www.patreon.com/MimbresSchool",
           "publishedOn": "2023-01-01T01:00:02.000Z",
-          "wordCount": 4923,
+          "wordCount": 4814,
           "title": "Mimbres School | creating A crowdfunded university | Patreon",
           "imageUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1700306/2819d4f70e174127905cea8c1787a260/eyJ3Ijo5NjAsIndlIjoxfQ==/4.jpg?token-time=1675468800&token-hash=efq_JFX4WGjPaOlHsljmDc08lK3Jt73c_FuaIf5qn3M%3D"
         },
@@ -136,24 +146,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/energy/10-most-influential-figures-history-oil",
+          "id": "https://starwarslivinghistory.com/",
           "author": null,
-          "description": "The 10 Most Influential Figures In The History Of Oil | ZeroHedge",
-          "link": "https://www.zerohedge.com/energy/10-most-influential-figures-history-oil",
+          "description": "Living History in the Star Wars Galaxy",
+          "link": "https://starwarslivinghistory.com/",
           "publishedOn": "2022-12-31T23:00:02.000Z",
-          "wordCount": 5995,
-          "title": "The 10 Most Influential Figures In The History Of Oil | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/sayajin-labs/kakarot",
-          "author": null,
-          "description": "GitHub - sayajin-labs/kakarot: ZK-EVM type 3 written in Cairo, leveraging STARK proof system.",
-          "link": "https://github.com/sayajin-labs/kakarot",
-          "publishedOn": "2022-12-31T23:00:02.000Z",
-          "wordCount": 1586,
-          "title": "GitHub - sayajin-labs/kakarot: ZK-EVM type 3 written in Cairo, leveraging STARK proof system.",
-          "imageUrl": "https://opengraph.githubassets.com/4e579d447964ebaa0e7dea9d4e48136fff6b9f137663685eb86ed7428358b22f/sayajin-labs/kakarot"
+          "wordCount": 5564,
+          "title": "Living History in the Star Wars Galaxy",
+          "imageUrl": "https://starwarslivinghistory.files.wordpress.com/2017/08/cropped-siteicon.jpg?w=200"
         },
         {
           "id": "https://www.zerohedge.com/political/heres-list-biden-tax-hikes-which-take-effect-jan-1",

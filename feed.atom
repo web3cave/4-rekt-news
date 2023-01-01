@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T09:16:39.189Z</id>
+    <id>urn:2023-01-01T10:18:23.174Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-01T09:16:39.189Z</updated>
+    <updated>2023-01-01T10:18:23.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scribepod 1]]></title>
+        <id>https://scribepod.substack.com/p/scribepod-1</id>
+        <link href="https://scribepod.substack.com/p/scribepod-1"/>
+        <updated>2023-01-01T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Scribepod 1]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest Week in Ethereum News]]></title>
         <id>https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/</id>
@@ -136,21 +146,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 10 Most Influential Figures In The History Of Oil | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/energy/10-most-influential-figures-history-oil</id>
-        <link href="https://www.zerohedge.com/energy/10-most-influential-figures-history-oil"/>
+        <title type="html"><![CDATA[Living History in the Star Wars Galaxy]]></title>
+        <id>https://starwarslivinghistory.com/</id>
+        <link href="https://starwarslivinghistory.com/"/>
         <updated>2022-12-31T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[The 10 Most Influential Figures In The History Of Oil | ZeroHedge]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - sayajin-labs/kakarot: ZK-EVM type 3 written in Cairo, leveraging STARK proof system.]]></title>
-        <id>https://github.com/sayajin-labs/kakarot</id>
-        <link href="https://github.com/sayajin-labs/kakarot"/>
-        <updated>2022-12-31T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - sayajin-labs/kakarot: ZK-EVM type 3 written in Cairo, leveraging STARK proof system.]]></summary>
+        <summary type="html"><![CDATA[Living History in the Star Wars Galaxy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
