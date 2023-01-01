@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://tailscale.com/blog/how-nat-traversal-works/",
+          "author": null,
+          "description": "How NAT traversal works",
+          "link": "https://tailscale.com/blog/how-nat-traversal-works/",
+          "publishedOn": "2023-01-01T17:30:04.000Z",
+          "wordCount": 9117,
+          "title": "How NAT traversal works",
+          "imageUrl": "https://tailscale.com/blog/how-nat-traversal-works/social.png"
+        },
+        {
           "id": "https://www.nber.org/papers/w30795",
           "author": null,
           "description": "In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures",
@@ -121,19 +131,9 @@
           "description": "Kim calls for 'exponential increase' of N. Korea's nuclear arsenal",
           "link": "https://www.france24.com/en/live-news/20230101-kim-calls-for-exponential-increase-of-n-korea-s-nuclear-arsenal",
           "publishedOn": "2023-01-01T11:00:04.000Z",
-          "wordCount": null,
+          "wordCount": 8336,
           "title": "Kim calls for 'exponential increase' of N. Korea's nuclear arsenal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
-          "author": null,
-          "description": "Latest Week in Ethereum News",
-          "link": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
-          "publishedOn": "2023-01-01T09:00:02.000Z",
-          "wordCount": 1628,
-          "title": "Latest Week in Ethereum News",
-          "imageUrl": "https://weekinethereumnews.com/wp-content/uploads/2021/06/hardhatsquare.png"
+          "imageUrl": "https://s.france24.com/media/display/ab283bea-8974-11ed-89da-005056bfb2b6/w:1280/p:16x9/3f31698dc54719e806c482b0d1d4a43a9d2b770a.jpg"
         },
         {
           "id": "https://www.decential.io/features/decentials-2022-year-end-web3-rewind",

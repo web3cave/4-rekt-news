@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T17:15:01.204Z</id>
+    <id>urn:2023-01-01T18:21:06.656Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-01T17:15:01.204Z</updated>
+    <updated>2023-01-01T18:21:06.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How NAT traversal works]]></title>
+        <id>https://tailscale.com/blog/how-nat-traversal-works/</id>
+        <link href="https://tailscale.com/blog/how-nat-traversal-works/"/>
+        <updated>2023-01-01T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[How NAT traversal works]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures]]></title>
         <id>https://www.nber.org/papers/w30795</id>
@@ -121,16 +131,6 @@
         <link href="https://www.france24.com/en/live-news/20230101-kim-calls-for-exponential-increase-of-n-korea-s-nuclear-arsenal"/>
         <updated>2023-01-01T11:00:04.000Z</updated>
         <summary type="html"><![CDATA[Kim calls for 'exponential increase' of N. Korea's nuclear arsenal]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Week in Ethereum News]]></title>
-        <id>https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/</id>
-        <link href="https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/"/>
-        <updated>2023-01-01T09:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Latest Week in Ethereum News]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
