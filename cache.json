@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.thisisnouns.wtf/",
+          "author": null,
+          "description": "This is Nouns",
+          "link": "https://www.thisisnouns.wtf/",
+          "publishedOn": "2023-01-01T22:30:03.000Z",
+          "wordCount": 242,
+          "title": "This is Nouns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qZ3AsDIMm9s&feature=youtu.be",
+          "author": null,
+          "description": "How to Read Fewer Books and Get Wiser",
+          "link": "https://www.youtube.com/watch?v=qZ3AsDIMm9s&feature=youtu.be",
+          "publishedOn": "2023-01-01T22:30:03.000Z",
+          "wordCount": null,
+          "title": "How to Read Fewer Books and Get Wiser",
+          "imageUrl": null
+        },
+        {
           "id": "https://mises.org/wire/why-marx-loved-central-banks",
           "author": null,
           "description": "Why Marx Loved Central Banks | Thorsten Polleit",
           "link": "https://mises.org/wire/why-marx-loved-central-banks",
           "publishedOn": "2023-01-01T21:00:02.000Z",
-          "wordCount": 2898,
+          "wordCount": 2894,
           "title": "Why Marx Loved Central Banks | Thorsten Polleit",
           "imageUrl": "https://cdn.mises.org/styles/social_media_1200_x_1200/s3/entralbank.PNG?itok=c89VtiUL"
         },
@@ -94,16 +114,6 @@
           "wordCount": 4017,
           "title": "Bitcoin 2022 Annual Review",
           "imageUrl": "https://blog.lopp.net/content/images/2022/12/bitcoin-timepiece.png"
-        },
-        {
-          "id": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.591629/gov.uscourts.nysd.591629.1.0.pdf",
-          "author": null,
-          "description": "[PDF] gov.uscourts.nysd.591629.1.0.pdf",
-          "link": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.591629/gov.uscourts.nysd.591629.1.0.pdf",
-          "publishedOn": "2023-01-01T19:00:02.000Z",
-          "wordCount": 5908,
-          "title": "[PDF] gov.uscourts.nysd.591629.1.0.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/markets/its-new-era",
@@ -194,16 +204,6 @@
           "wordCount": 1251,
           "title": "Hey! Chief Architect at Storj here. Data on Storj is by default end-to-end encry... | Hacker News",
           "imageUrl": null
-        },
-        {
-          "id": "https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571",
-          "author": null,
-          "description": "Proposed milestones for rollups taking off training wheels",
-          "link": "https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571",
-          "publishedOn": "2022-12-31T17:00:02.000Z",
-          "wordCount": 2329,
-          "title": "Proposed milestones for rollups taking off training wheels",
-          "imageUrl": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/32b968b9a84576383732c858c6d93d4b5b73c3f3_2_1024x535.png"
         }
       ]
     }
