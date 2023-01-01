@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nber.org/papers/w30795",
+          "author": null,
+          "description": "In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures",
+          "link": "https://www.nber.org/papers/w30795",
+          "publishedOn": "2023-01-01T16:30:05.000Z",
+          "wordCount": 1977,
+          "title": "In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures",
+          "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
+        },
+        {
           "id": "https://showerthoughts.substack.com/p/three-underrated-product-trends-2022",
           "author": null,
           "description": "Three underrated product trends: 2022 recap and 2023 predictions",
           "link": "https://showerthoughts.substack.com/p/three-underrated-product-trends-2022",
           "publishedOn": "2023-01-01T16:00:04.000Z",
-          "wordCount": 3678,
+          "wordCount": 3684,
           "title": "Three underrated product trends: 2022 recap and 2023 predictions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22a51d7a-f7e1-4ccd-9c05-6a7e07f4e57d_1600x576.png"
         },
@@ -81,7 +91,7 @@
           "description": "2022 Year in Review",
           "link": "https://stepfinance.medium.com/2022-year-in-review-76198c1aeedb",
           "publishedOn": "2023-01-01T13:00:02.000Z",
-          "wordCount": 3013,
+          "wordCount": 3029,
           "title": "2022 Year in Review",
           "imageUrl": "https://miro.medium.com/max/1200/1*p40ht2cguxGeRT09bQwRdA.jpeg"
         },
@@ -111,9 +121,9 @@
           "description": "Kim calls for 'exponential increase' of N. Korea's nuclear arsenal",
           "link": "https://www.france24.com/en/live-news/20230101-kim-calls-for-exponential-increase-of-n-korea-s-nuclear-arsenal",
           "publishedOn": "2023-01-01T11:00:04.000Z",
-          "wordCount": 8336,
+          "wordCount": null,
           "title": "Kim calls for 'exponential increase' of N. Korea's nuclear arsenal",
-          "imageUrl": "https://s.france24.com/media/display/ab283bea-8974-11ed-89da-005056bfb2b6/w:1280/p:16x9/3f31698dc54719e806c482b0d1d4a43a9d2b770a.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
@@ -156,26 +166,6 @@
           "imageUrl": ""
         },
         {
-          "id": "https://www.zerohedge.com/markets/laid-silicon-valley-workers-panic-sell-start-shares-valuations-crash",
-          "author": null,
-          "description": "Laid-Off Silicon Valley Workers Panic Sell Start-Up Shares As Valuations Crash | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/laid-silicon-valley-workers-panic-sell-start-shares-valuations-crash",
-          "publishedOn": "2023-01-01T02:00:04.000Z",
-          "wordCount": 1205,
-          "title": "Laid-Off Silicon Valley Workers Panic Sell Start-Up Shares As Valuations Crash | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9us3KP2Turs",
-          "author": null,
-          "description": "Arthur Baker And The Backbeat Disciples Feat. Al Green - The Message Is Love (1989)",
-          "link": "https://www.youtube.com/watch?v=9us3KP2Turs",
-          "publishedOn": "2023-01-01T01:30:04.000Z",
-          "wordCount": null,
-          "title": "Arthur Baker And The Backbeat Disciples Feat. Al Green - The Message Is Love (1989)",
-          "imageUrl": null
-        },
-        {
           "id": "https://lexfridman.com/reading-list/",
           "author": null,
           "description": "Reading List - Lex Fridman",
@@ -194,6 +184,16 @@
           "wordCount": 1236,
           "title": "Hey! Chief Architect at Storj here. Data on Storj is by default end-to-end encry... | Hacker News",
           "imageUrl": null
+        },
+        {
+          "id": "https://beaconcha.in/",
+          "author": null,
+          "description": "Open Source Ethereum Blockchain Explorer - beaconcha.in - 2022",
+          "link": "https://beaconcha.in/",
+          "publishedOn": "2023-01-01T00:00:04.000Z",
+          "wordCount": 2367,
+          "title": "Open Source Ethereum Blockchain Explorer - beaconcha.in - 2022",
+          "imageUrl": "https://beaconcha.in/img/logo.png"
         },
         {
           "id": "https://ethereum-magicians.org/t/proposed-milestones-for-rollups-taking-off-training-wheels/11571",
