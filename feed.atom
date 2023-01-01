@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-01T05:16:06.644Z</id>
+    <id>urn:2023-01-01T06:21:49.553Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-01T05:16:06.644Z</updated>
+    <updated>2023-01-01T06:21:49.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.theblock.co/post/198625/bored-ape-yacht-club-ends-2022-with-69-eth-floor-price"/>
         <updated>2023-01-01T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[Bored Ape Yacht Club ends 2022 at $83,000 floor price]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading List - Lex Fridman]]></title>
+        <id>https://lexfridman.com/reading-list/</id>
+        <link href="https://lexfridman.com/reading-list/"/>
+        <updated>2023-01-01T01:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Reading List - Lex Fridman]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,16 +131,6 @@
         <link href="https://github.com/sayajin-labs/kakarot"/>
         <updated>2022-12-31T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[GitHub - sayajin-labs/kakarot: ZK-EVM type 3 written in Cairo, leveraging STARK proof system.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living History in the Star Wars Galaxy]]></title>
-        <id>https://starwarslivinghistory.com/</id>
-        <link href="https://starwarslivinghistory.com/"/>
-        <updated>2022-12-31T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Living History in the Star Wars Galaxy]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
