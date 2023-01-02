@@ -6,6 +6,76 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://testnet.wagmi.fund/",
+          "author": null,
+          "description": "WAGMI Fund",
+          "link": "https://testnet.wagmi.fund/",
+          "publishedOn": "2023-01-02T19:00:03.000Z",
+          "wordCount": 131,
+          "title": "WAGMI Fund",
+          "imageUrl": "/og.jpeg"
+        },
+        {
+          "id": "https://nouns.build/",
+          "author": null,
+          "description": "Nouns your ideas",
+          "link": "https://nouns.build/",
+          "publishedOn": "2023-01-02T19:00:03.000Z",
+          "wordCount": 387,
+          "title": "Nouns your ideas",
+          "imageUrl": "https://nouns.build/social-preview.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/quake-prediction-says-signal-just-hit-warns-potential-big-earthquake-san-francisco-la",
+          "author": null,
+          "description": "Quake Prediction Says \"Signal Just Hit,\" Warns Of Potential Big Earthquake From San Francisco To LA | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/quake-prediction-says-signal-just-hit-warns-potential-big-earthquake-san-francisco-la",
+          "publishedOn": "2023-01-02T19:00:03.000Z",
+          "wordCount": 664,
+          "title": "Quake Prediction Says \"Signal Just Hit,\" Warns Of Potential Big Earthquake From San Francisco To LA | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/@magnetmoneyshow",
+          "author": null,
+          "description": "Magnet Money - YouTube",
+          "link": "https://www.youtube.com/@magnetmoneyshow",
+          "publishedOn": "2023-01-02T19:00:03.000Z",
+          "wordCount": 939,
+          "title": "Magnet Money - YouTube",
+          "imageUrl": "https://yt3.ggpht.com/JR3riiaFAZjbiaawIruYk0JFOD2Bvcc_5txFI9O4FHaJR4W4TTR_P2NyvnWjmk6l_lntqEmxg7E=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/wait-second-merkel-did-what",
+          "author": null,
+          "description": "Wait A Second! Merkel Did What? | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/wait-second-merkel-did-what",
+          "publishedOn": "2023-01-02T19:00:02.000Z",
+          "wordCount": 2606,
+          "title": "Wait A Second! Merkel Did What? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jpg.space/",
+          "author": null,
+          "description": "JPG",
+          "link": "https://jpg.space/",
+          "publishedOn": "2023-01-02T19:00:02.000Z",
+          "wordCount": 186,
+          "title": "JPG",
+          "imageUrl": "https://api.jpg.space/opengraph.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/juan-guaido-ousted-venezuelan-opposition-interim-president",
+          "author": null,
+          "description": "Juan Guaido Ousted By Venezuelan Opposition As 'Interim President' | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/juan-guaido-ousted-venezuelan-opposition-interim-president",
+          "publishedOn": "2023-01-02T18:30:02.000Z",
+          "wordCount": 1077,
+          "title": "Juan Guaido Ousted By Venezuelan Opposition As 'Interim President' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://ir.tesla.com/press-release/tesla-vehicle-production-deliveries-and-date-financial-results-webcast-fourth-quarter",
           "author": null,
           "description": "Tesla Vehicle Production & Deliveries and Date for Financial Results & Webcast for Fourth Quarter 2022 | Tesla...",
@@ -31,7 +101,7 @@
           "description": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "link": "https://www.amazon.com/How-World-Really-Works-Science/dp/0593297067?tag=ttrvin-20",
           "publishedOn": "2023-01-02T17:00:02.000Z",
-          "wordCount": 29302,
+          "wordCount": null,
           "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "imageUrl": null
         },
@@ -44,86 +114,6 @@
           "wordCount": 15491,
           "title": "r/agi - ChatGPT and search - not ready for prime time",
           "imageUrl": "https://external-preview.redd.it/B3csL2h4sCIQ8C39dKt4S1rmdWbFlAsiCfhhRQppJE8.jpg?auto=webp&s=49d42c4de7638ec5cfc07031ee8cc2d5e462157f"
-        },
-        {
-          "id": "https://www.federalreserve.gov/econres/notes/feds-notes/an-analysis-of-the-interest-rate-risk-of-the-federal-reserves-balance-sheet-part-2-20220715.html",
-          "author": null,
-          "description": "An Analysis of the Interest Rate Risk of the Federal Reserve’s Balance Sheet, Part 2: Projections under Alternative...",
-          "link": "https://www.federalreserve.gov/econres/notes/feds-notes/an-analysis-of-the-interest-rate-risk-of-the-federal-reserves-balance-sheet-part-2-20220715.html",
-          "publishedOn": "2023-01-02T16:00:05.000Z",
-          "wordCount": 3486,
-          "title": "An Analysis of the Interest Rate Risk of the Federal Reserve’s Balance Sheet, Part 2: Projections under Alternative...",
-          "imageUrl": "/econres/notes/Social_Default_Image.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7_p38qpjbSw&feature=youtu.be",
-          "author": null,
-          "description": "Beacon Chain withdrawals, Recapping 2022 and more - The Daily Gwei Refuel #515 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=7_p38qpjbSw&feature=youtu.be",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": null,
-          "title": "Beacon Chain withdrawals, Recapping 2022 and more - The Daily Gwei Refuel #515 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure?time=1970..latest&country=USA~JPN~ESP~CAN",
-          "author": null,
-          "description": "Life expectancy vs. health expenditure",
-          "link": "https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure?time=1970..latest&country=USA~JPN~ESP~CAN",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 1260,
-          "title": "Life expectancy vs. health expenditure",
-          "imageUrl": "https://ourworldindata.org/default-grapher-thumbnail.png"
-        },
-        {
-          "id": "https://pomp.substack.com/p/empire-state-of-mind-pomps-notes",
-          "author": null,
-          "description": "Empire State of Mind -- Pomp's Notes",
-          "link": "https://pomp.substack.com/p/empire-state-of-mind-pomps-notes",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 4722,
-          "title": "Empire State of Mind -- Pomp's Notes",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F026f90ff-f8cf-4335-9ce9-0f5e119a1e74_1536x2048.jpeg"
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/why-bitcoin-ban-eu-likely-and-stupid",
-          "author": null,
-          "description": "Why A Bitcoin Ban In The EU Is Likely... And Stupid | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/why-bitcoin-ban-eu-likely-and-stupid",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 3934,
-          "title": "Why A Bitcoin Ban In The EU Is Likely... And Stupid | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/after-100000-migrants-arrive-2022-italy-set-take-action-against-ngo-ferry-boats",
-          "author": null,
-          "description": "After 100,000 Migrants Arrive In 2022, Italy Set To Take Action Against NGO Ferry Boats | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/after-100000-migrants-arrive-2022-italy-set-take-action-against-ngo-ferry-boats",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 2280,
-          "title": "After 100,000 Migrants Arrive In 2022, Italy Set To Take Action Against NGO Ferry Boats | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/high-cost-blowing-world-ukraine-2023-ndaa",
-          "author": null,
-          "description": "The High Cost Of Blowing Up The World: Ukraine & The 2023 NDAA | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/high-cost-blowing-world-ukraine-2023-ndaa",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 3322,
-          "title": "The High Cost Of Blowing Up The World: Ukraine & The 2023 NDAA | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ft.com/content/9b536b78-40a2-4364-b43f-0afade95c008",
-          "author": null,
-          "description": "Commodities trading boom raises fear of big losses among retail investors",
-          "link": "https://www.ft.com/content/9b536b78-40a2-4364-b43f-0afade95c008",
-          "publishedOn": "2023-01-02T15:00:02.000Z",
-          "wordCount": 1588,
-          "title": "Commodities trading boom raises fear of big losses among retail investors",
-          "imageUrl": null
         },
         {
           "id": "https://blog.lopp.net/bitcoin-2022-annual-review/",
@@ -144,6 +134,16 @@
           "wordCount": 1330,
           "title": "These Are The Security Features Of American Money | ZeroHedge",
           "imageUrl": null
+        },
+        {
+          "id": "https://ceremony.ethereum.org/",
+          "author": null,
+          "description": "KZG Summoning Ceremony",
+          "link": "https://ceremony.ethereum.org/",
+          "publishedOn": "2023-01-02T13:00:03.000Z",
+          "wordCount": 25,
+          "title": "KZG Summoning Ceremony",
+          "imageUrl": "https://ceremony.ethereum.org/og-image.png"
         },
         {
           "id": "https://www.virtualhumans.org/article/the-most-followed-virtual-influencers-of-2022",
