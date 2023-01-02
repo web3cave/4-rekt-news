@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/bitcoin-2022-annual-review/",
+          "author": null,
+          "description": "Bitcoin 2022 Annual Review",
+          "link": "https://blog.lopp.net/bitcoin-2022-annual-review/",
+          "publishedOn": "2023-01-02T13:30:03.000Z",
+          "wordCount": 4017,
+          "title": "Bitcoin 2022 Annual Review",
+          "imageUrl": "https://blog.lopp.net/content/images/2022/12/bitcoin-timepiece.png"
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/these-are-security-features-american-money",
           "author": null,
           "description": "These Are The Security Features Of American Money | ZeroHedge",
@@ -41,7 +51,7 @@
           "description": "Episode 2503 - Camouflet - A Papule Katydid Detective Story",
           "link": "https://vimeo.com/785556122/44f117eec4",
           "publishedOn": "2023-01-02T11:00:02.000Z",
-          "wordCount": 3861,
+          "wordCount": 3849,
           "title": "Episode 2503 - Camouflet - A Papule Katydid Detective Story",
           "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1578832557-c35aae7ea5324c4296f101597a74286d4fb89b184c7585a0112589d82fa18a91-d_1280x1280&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
         },
@@ -71,7 +81,7 @@
           "description": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "link": "https://www.amazon.com/How-World-Really-Works-Science/dp/0593297067?tag=ttrvin-20",
           "publishedOn": "2023-01-02T09:30:07.000Z",
-          "wordCount": 34785,
+          "wordCount": null,
           "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "imageUrl": null
         },
@@ -116,6 +126,16 @@
           "imageUrl": "https://zengo.com/wp-content/uploads/2019/06/Guaranteed-Access-2-scaled.jpg"
         },
         {
+          "id": "https://idlewords.com/2023/1/why_not_mars.htm",
+          "author": null,
+          "description": "Why Not Mars (Idle Words)",
+          "link": "https://idlewords.com/2023/1/why_not_mars.htm",
+          "publishedOn": "2023-01-02T08:00:04.000Z",
+          "wordCount": 8352,
+          "title": "Why Not Mars (Idle Words)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/covid-19/how-china-changed-its-zero-covid-policy-zero-non-covid-policy",
           "author": null,
           "description": "How China Changed Its Zero-COVID Policy To A 'Zero Non-COVID' Policy | ZeroHedge",
@@ -146,26 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/economics/top-heavy-visualizing-every-countrys-share-global-economy",
-          "author": null,
-          "description": "Top Heavy: Visualizing Every Country's Share Of The Global Economy | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/top-heavy-visualizing-every-countrys-share-global-economy",
-          "publishedOn": "2023-01-02T05:00:02.000Z",
-          "wordCount": 918,
-          "title": "Top Heavy: Visualizing Every Country's Share Of The Global Economy | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working",
-          "author": null,
-          "description": "Why crontab scripts are not working?",
-          "link": "https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working",
-          "publishedOn": "2023-01-02T05:00:02.000Z",
-          "wordCount": 8762,
-          "title": "Why crontab scripts are not working?",
-          "imageUrl": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955"
-        },
-        {
           "id": "https://www.thisisnouns.wtf/",
           "author": null,
           "description": "This is Nouns",
@@ -191,7 +191,7 @@
           "description": "Three underrated product trends: 2022 recap and 2023 predictions",
           "link": "https://showerthoughts.substack.com/p/three-underrated-product-trends-2022",
           "publishedOn": "2023-01-01T16:00:04.000Z",
-          "wordCount": 3925,
+          "wordCount": 3719,
           "title": "Three underrated product trends: 2022 recap and 2023 predictions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22a51d7a-f7e1-4ccd-9c05-6a7e07f4e57d_1600x576.png"
         },
