@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ourworldindata.org/calorie-supply-sources",
+          "author": null,
+          "description": "Daily calorie supply: Data sources and definitions",
+          "link": "https://ourworldindata.org/calorie-supply-sources",
+          "publishedOn": "2023-01-02T10:00:04.000Z",
+          "wordCount": 1426,
+          "title": "Daily calorie supply: Data sources and definitions",
+          "imageUrl": "https://ourworldindata.org/default-thumbnail.jpg"
+        },
+        {
+          "id": "https://wtfhappenedin1971.com/",
+          "author": null,
+          "description": "WTF Happened In 1971?",
+          "link": "https://wtfhappenedin1971.com/",
+          "publishedOn": "2023-01-02T09:30:07.000Z",
+          "wordCount": 1496,
+          "title": "WTF Happened In 1971?",
+          "imageUrl": "https://wtfhappenedin1971home.files.wordpress.com/2022/10/home-prices-amsterdam.png"
+        },
+        {
+          "id": "https://www.amazon.com/How-World-Really-Works-Science/dp/0593297067?tag=ttrvin-20",
+          "author": null,
+          "description": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
+          "link": "https://www.amazon.com/How-World-Really-Works-Science/dp/0593297067?tag=ttrvin-20",
+          "publishedOn": "2023-01-02T09:30:07.000Z",
+          "wordCount": null,
+          "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2207.08392",
+          "author": null,
+          "description": "Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities",
+          "link": "https://arxiv.org/abs/2207.08392",
+          "publishedOn": "2023-01-02T09:30:07.000Z",
+          "wordCount": 626,
+          "title": "Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eprint.iacr.org/2013/881.pdf",
+          "author": null,
+          "description": "[PDF] 881.pdf",
+          "link": "https://eprint.iacr.org/2013/881.pdf",
+          "publishedOn": "2023-01-02T09:30:07.000Z",
+          "wordCount": 5273,
+          "title": "[PDF] 881.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualhumans.org/article/the-most-followed-virtual-influencers-of-2022",
           "author": null,
           "description": "The Most-Followed Virtual Influencers of 2022",
@@ -34,16 +84,6 @@
           "wordCount": 1780,
           "title": "How China Changed Its Zero-COVID Policy To A 'Zero Non-COVID' Policy | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/bramcohen/benchmark_spaces",
-          "author": null,
-          "description": "GitHub - bramcohen/benchmark_spaces: Benchmarks of how well different two dimensional spaces work for clustering...",
-          "link": "https://github.com/bramcohen/benchmark_spaces",
-          "publishedOn": "2023-01-02T06:30:02.000Z",
-          "wordCount": 830,
-          "title": "GitHub - bramcohen/benchmark_spaces: Benchmarks of how well different two dimensional spaces work for clustering...",
-          "imageUrl": "https://opengraph.githubassets.com/59b9f4da0e5f501b873ea8f727c7c23fe6ad9de1f362f675459c33da8c2e2244/bramcohen/benchmark_spaces"
         },
         {
           "id": "https://www.youtube.com/watch?v=tek8-LtMgss",
@@ -106,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working",
-          "author": null,
-          "description": "Why crontab scripts are not working?",
-          "link": "https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working",
-          "publishedOn": "2023-01-02T05:00:02.000Z",
-          "wordCount": 8746,
-          "title": "Why crontab scripts are not working?",
-          "imageUrl": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955"
-        },
-        {
           "id": "https://www.zerohedge.com/technology/israel-has-worlds-highest-digital-quality-life-2022-usa-only-12th",
           "author": null,
           "description": "Israel Has The World's Highest Digital Quality Of Life In 2022, USA Only 12th | ZeroHedge",
@@ -136,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://bruno.substack.com/p/kneejerk-93-129-180",
-          "author": null,
-          "description": "Kneejerk 93 - 129 / 180",
-          "link": "https://bruno.substack.com/p/kneejerk-93-129-180",
-          "publishedOn": "2023-01-02T02:30:03.000Z",
-          "wordCount": 2694,
-          "title": "Kneejerk 93 - 129 / 180",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ffd2e89-a33e-4d00-88ca-c4b14581642f_256x256"
-        },
-        {
           "id": "https://www.thisisnouns.wtf/",
           "author": null,
           "description": "This is Nouns",
@@ -154,26 +174,6 @@
           "wordCount": 242,
           "title": "This is Nouns",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22",
-          "author": null,
-          "description": "EF-Supported Teams: Research & Development Roundup | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2022/12/29/supported-teams-roundup-22",
-          "publishedOn": "2023-01-01T21:00:02.000Z",
-          "wordCount": 12251,
-          "title": "EF-Supported Teams: Research & Development Roundup | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_843f550fb00a32fd6183815b56f14d44.jpg"
-        },
-        {
-          "id": "https://www.nber.org/papers/w30795",
-          "author": null,
-          "description": "In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures",
-          "link": "https://www.nber.org/papers/w30795",
-          "publishedOn": "2023-01-01T16:30:05.000Z",
-          "wordCount": 1977,
-          "title": "In-Person Schooling and Youth Suicide: Evidence from School Calendars and Pandemic School Closures",
-          "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
         },
         {
           "id": "https://showerthoughts.substack.com/p/three-underrated-product-trends-2022",
