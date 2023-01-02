@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/personal-finance/these-are-security-features-american-money",
+          "author": null,
+          "description": "These Are The Security Features Of American Money | ZeroHedge",
+          "link": "https://www.zerohedge.com/personal-finance/these-are-security-features-american-money",
+          "publishedOn": "2023-01-02T13:00:03.000Z",
+          "wordCount": 1330,
+          "title": "These Are The Security Features Of American Money | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ceremony.ethereum.org/",
+          "author": null,
+          "description": "KZG Summoning Ceremony",
+          "link": "https://ceremony.ethereum.org/",
+          "publishedOn": "2023-01-02T13:00:03.000Z",
+          "wordCount": 25,
+          "title": "KZG Summoning Ceremony",
+          "imageUrl": "https://ceremony.ethereum.org/og-image.png"
+        },
+        {
+          "id": "https://www.eip4844.com/",
+          "author": null,
+          "description": "EIP-4844: Shard Blob Transactions",
+          "link": "https://www.eip4844.com/",
+          "publishedOn": "2023-01-02T13:00:03.000Z",
+          "wordCount": 796,
+          "title": "EIP-4844: Shard Blob Transactions",
+          "imageUrl": "https://www.eip4844.com/images/square-logo.png?v=2"
+        },
+        {
           "id": "https://vimeo.com/785556122/44f117eec4",
           "author": null,
           "description": "Episode 2503 - Camouflet - A Papule Katydid Detective Story",
           "link": "https://vimeo.com/785556122/44f117eec4",
           "publishedOn": "2023-01-02T11:00:02.000Z",
-          "wordCount": 3852,
+          "wordCount": 3861,
           "title": "Episode 2503 - Camouflet - A Papule Katydid Detective Story",
           "imageUrl": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1578832557-c35aae7ea5324c4296f101597a74286d4fb89b184c7585a0112589d82fa18a91-d_1280x1280&src1=https%3A%2F%2Ff.vimeocdn.com%2Fimages_v6%2Fshare%2Fplay_icon_overlay.png"
         },
@@ -41,7 +71,7 @@
           "description": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "link": "https://www.amazon.com/How-World-Really-Works-Science/dp/0593297067?tag=ttrvin-20",
           "publishedOn": "2023-01-02T09:30:07.000Z",
-          "wordCount": 34181,
+          "wordCount": 34785,
           "title": "How the World Really Works: The Science Behind How We Got Here and Where We're Going: Smil, Vaclav",
           "imageUrl": null
         },
@@ -116,36 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://rettig.substack.com/p/three-things-50-january-1-2023?utm_source=twitter&sd=pf",
-          "author": null,
-          "description": "Three Things #50: January 1, 2023",
-          "link": "https://rettig.substack.com/p/three-things-50-january-1-2023?utm_source=twitter&sd=pf",
-          "publishedOn": "2023-01-02T05:00:03.000Z",
-          "wordCount": 6301,
-          "title": "Three Things #50: January 1, 2023",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4b392eb-c8e0-403f-9104-903219256d1c_512x512.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/fauci-fibbed-day-everything-changed",
-          "author": null,
-          "description": "Fauci Fibbed On The Day Everything Changed | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/fauci-fibbed-day-everything-changed",
-          "publishedOn": "2023-01-02T05:00:03.000Z",
-          "wordCount": 3385,
-          "title": "Fauci Fibbed On The Day Everything Changed | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/twitter-sued-not-paying-san-fran-office-rent-some-workers-bring-their-own-toilet-paper",
-          "author": null,
-          "description": "Twitter Sued For Not Paying San Fran Office Rent As Some Workers Bring Their Own Toilet Paper | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/twitter-sued-not-paying-san-fran-office-rent-some-workers-bring-their-own-toilet-paper",
-          "publishedOn": "2023-01-02T05:00:03.000Z",
-          "wordCount": 1437,
-          "title": "Twitter Sued For Not Paying San Fran Office Rent As Some Workers Bring Their Own Toilet Paper | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/economics/top-heavy-visualizing-every-countrys-share-global-economy",
           "author": null,
           "description": "Top Heavy: Visualizing Every Country's Share Of The Global Economy | ZeroHedge",
@@ -161,7 +161,7 @@
           "description": "Why crontab scripts are not working?",
           "link": "https://askubuntu.com/questions/23009/why-crontab-scripts-are-not-working",
           "publishedOn": "2023-01-02T05:00:02.000Z",
-          "wordCount": 8752,
+          "wordCount": 8762,
           "title": "Why crontab scripts are not working?",
           "imageUrl": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955"
         },
@@ -191,7 +191,7 @@
           "description": "Three underrated product trends: 2022 recap and 2023 predictions",
           "link": "https://showerthoughts.substack.com/p/three-underrated-product-trends-2022",
           "publishedOn": "2023-01-01T16:00:04.000Z",
-          "wordCount": 3719,
+          "wordCount": 3925,
           "title": "Three underrated product trends: 2022 recap and 2023 predictions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22a51d7a-f7e1-4ccd-9c05-6a7e07f4e57d_1600x576.png"
         },
