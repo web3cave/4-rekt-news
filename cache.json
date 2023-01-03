@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=GjMgFlhRY4A&feature=youtu.be",
-          "author": null,
-          "description": "I met SBF at his parents' house",
-          "link": "https://www.youtube.com/watch?v=GjMgFlhRY4A&feature=youtu.be",
-          "publishedOn": "2023-01-03T10:00:05.000Z",
-          "wordCount": null,
-          "title": "I met SBF at his parents' house",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/markets/have-we-seen-peak-pax-americana",
           "author": null,
           "description": "Have We Seen A Peak In Pax Americana | ZeroHedge",
@@ -61,7 +51,7 @@
           "description": "KurdDAO - Stand For Kurdish Freedom",
           "link": "https://kurddao.org/",
           "publishedOn": "2023-01-03T02:00:05.000Z",
-          "wordCount": null,
+          "wordCount": 748,
           "title": "KurdDAO - Stand For Kurdish Freedom",
           "imageUrl": null
         },
@@ -166,12 +156,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://jpg.space/",
+          "author": null,
+          "description": "JPG",
+          "link": "https://jpg.space/",
+          "publishedOn": "2023-01-02T19:00:02.000Z",
+          "wordCount": 186,
+          "title": "JPG",
+          "imageUrl": "https://api.jpg.space/opengraph.jpg"
+        },
+        {
           "id": "https://www.reddit.com/r/agi/comments/zz68ng/chatgpt_and_search_not_ready_for_prime_time/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
           "author": null,
           "description": "r/agi - ChatGPT and search - not ready for prime time",
           "link": "https://www.reddit.com/r/agi/comments/zz68ng/chatgpt_and_search_not_ready_for_prime_time/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
           "publishedOn": "2023-01-02T16:00:05.000Z",
-          "wordCount": 15924,
+          "wordCount": 15925,
           "title": "r/agi - ChatGPT and search - not ready for prime time",
           "imageUrl": "https://external-preview.redd.it/B3csL2h4sCIQ8C39dKt4S1rmdWbFlAsiCfhhRQppJE8.jpg?auto=webp&s=49d42c4de7638ec5cfc07031ee8cc2d5e462157f"
         },
