@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20221214.pdf",
+          "author": null,
+          "description": "[PDF] fomcminutes20221214.pdf",
+          "link": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20221214.pdf",
+          "publishedOn": "2023-01-04T20:00:07.000Z",
+          "wordCount": 8054,
+          "title": "[PDF] fomcminutes20221214.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf",
+          "author": null,
+          "description": "[PDF] 1174901042380000000067.pdf",
+          "link": "https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf",
+          "publishedOn": "2023-01-04T20:00:06.000Z",
+          "wordCount": 18196,
+          "title": "[PDF] 1174901042380000000067.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/humanizing-the-singularity/at-the-turning-point-how-crypto-interacts-with-real-world-assets-b4bf3c4b217c",
           "author": null,
           "description": "At the Turning Point — How Crypto Interacts with Real World Assets",
@@ -76,16 +96,6 @@
           "imageUrl": "https://images.axios.com/9nYVTseBkz9zPcFgg86teELSh0M=/0x0:1365x768/1366x768/2022/12/31/1672512392754.jpg"
         },
         {
-          "id": "https://github.com/AstariaXYZ/astaria-core/releases/tag/v0.0.7-rc",
-          "author": null,
-          "description": "Release Release Candidate for C4 audit · AstariaXYZ/astaria-core",
-          "link": "https://github.com/AstariaXYZ/astaria-core/releases/tag/v0.0.7-rc",
-          "publishedOn": "2023-01-04T01:30:04.000Z",
-          "wordCount": 306,
-          "title": "Release Release Candidate for C4 audit · AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/f4397424e9a836f036198e5241c28dd1b8c85f25d3d6fb8720390a15add79bc2/AstariaXYZ/astaria-core/releases/tag/v0.0.7-rc"
-        },
-        {
           "id": "https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2a.pdf",
           "author": null,
           "description": "[PDF] nr-occ-2021-2a.pdf",
@@ -146,22 +156,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://hardware.slashdot.org/story/22/12/30/0959239/desktop-gpu-sales-hit-20-year-low?utm_source=slashdot&utm_medium=twitter",
-          "author": null,
-          "description": "Desktop GPU Sales Hit 20-Year Low - Slashdot",
-          "link": "https://hardware.slashdot.org/story/22/12/30/0959239/desktop-gpu-sales-hit-20-year-low?utm_source=slashdot&utm_medium=twitter",
-          "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 13879,
-          "title": "Desktop GPU Sales Hit 20-Year Low - Slashdot",
-          "imageUrl": "https://a.fsdn.com/sd/topics/hardware_64.png"
-        },
-        {
           "id": "https://parsec.substack.com/p/onchain-markets-in-2022",
           "author": null,
           "description": "Onchain Markets in 2022",
           "link": "https://parsec.substack.com/p/onchain-markets-in-2022",
           "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 4946,
+          "wordCount": 4740,
           "title": "Onchain Markets in 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0952d2ce-0670-4234-bc41-40bcef95ada3_1076x554.png"
         },
@@ -181,7 +181,7 @@
           "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "link": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
           "publishedOn": "2023-01-03T20:30:02.000Z",
-          "wordCount": 4472,
+          "wordCount": 4520,
           "title": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "imageUrl": "https://web.archive.org/web/20230101194846im_/https://static01.nyt.com/images/2023/01/03/multimedia/28blackman_1-1-ee7d/28blackman_1-1-ee7d-facebookJumbo.jpg"
         },
@@ -191,9 +191,9 @@
           "description": "GitHub - AstariaXYZ/astaria-core",
           "link": "https://github.com/AstariaXYZ/astaria-core",
           "publishedOn": "2023-01-03T19:00:02.000Z",
-          "wordCount": 1204,
+          "wordCount": 998,
           "title": "GitHub - AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/0f6291e7d211ec0fa9e4ab120fb4142dfe1e3621f96d009437eabb094c4042d4/AstariaXYZ/astaria-core"
+          "imageUrl": "https://opengraph.githubassets.com/2c96fa4f234455ceef008c4f9e3707079dcb0f05e1b3647f6702b6af7ad2fef9/AstariaXYZ/astaria-core"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
@@ -201,7 +201,7 @@
           "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21165,
+          "wordCount": 21608,
           "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
         }
