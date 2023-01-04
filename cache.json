@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
+          "author": null,
+          "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
+          "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
+          "publishedOn": "2023-01-04T15:30:04.000Z",
+          "wordCount": 4739,
+          "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
+          "imageUrl": "https://static01.nyt.com/images/2023/01/04/multimedia/04coinbase-1-1-ca2a/04coinbase-1-1-ca2a-facebookJumbo.jpg"
+        },
+        {
           "id": "https://shop.ledger.com/?r=1679b870be97",
           "author": null,
           "description": "Ledger - Home of the first and only certified Hardware wallets",
           "link": "https://shop.ledger.com/?r=1679b870be97",
           "publishedOn": "2023-01-04T13:00:02.000Z",
-          "wordCount": 5881,
+          "wordCount": 5882,
           "title": "Ledger - Home of the first and only certified Hardware wallets",
           "imageUrl": "https://cdn.shopify.com/s/files/1/2974/4858/files/opengraphh_200x.png?v=1671012004"
         },
@@ -91,9 +101,9 @@
           "description": "Spotify",
           "link": "https://open.spotify.com/episode/1pcceOKsOJhMMcu5mmmlRF?si=e79d62db5e30430a",
           "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 589,
+          "wordCount": null,
           "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a3f6f7e545d7dc62fb1f4fded"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=lN-ggBa6_yM&feature=youtu.be",
@@ -131,7 +141,7 @@
           "description": "Onchain Markets in 2022",
           "link": "https://parsec.substack.com/p/onchain-markets-in-2022",
           "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 4740,
+          "wordCount": 4946,
           "title": "Onchain Markets in 2022",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0952d2ce-0670-4234-bc41-40bcef95ada3_1076x554.png"
         },
@@ -151,7 +161,7 @@
           "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "link": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
           "publishedOn": "2023-01-03T20:30:02.000Z",
-          "wordCount": 4520,
+          "wordCount": 4472,
           "title": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "imageUrl": "https://web.archive.org/web/20230101194846im_/https://static01.nyt.com/images/2023/01/03/multimedia/28blackman_1-1-ee7d/28blackman_1-1-ee7d-facebookJumbo.jpg"
         },
@@ -171,7 +181,7 @@
           "description": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "link": "https://astralcodexten.substack.com/p/why-im-less-than-infinitely-hostile",
           "publishedOn": "2023-01-03T19:00:02.000Z",
-          "wordCount": 7274,
+          "wordCount": 7480,
           "title": "Why I'm Less Than Infinitely Hostile To Cryptocurrency",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2dc04f4-44c5-4713-bdea-4b5e7e677d88_697x282.png"
         },
@@ -183,7 +193,7 @@
           "publishedOn": "2023-01-03T19:00:02.000Z",
           "wordCount": 1204,
           "title": "GitHub - AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/7250f799e970cf90d2f8f3a6d0e31dc0eb06b29ef53e07d91041fa41081535a0/AstariaXYZ/astaria-core"
+          "imageUrl": "https://opengraph.githubassets.com/e641c538c1e5733a6e98200e1d0a1599ef2c88d8b064963f5b145be5c0245d32/AstariaXYZ/astaria-core"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
@@ -191,19 +201,9 @@
           "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21676,
+          "wordCount": 21593,
           "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
-        },
-        {
-          "id": "https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI/m/XdksCA1TR_QJ",
-          "author": null,
-          "description": "LINUX is obsolete",
-          "link": "https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI/m/XdksCA1TR_QJ",
-          "publishedOn": "2023-01-03T01:30:05.000Z",
-          "wordCount": 70587,
-          "title": "LINUX is obsolete",
-          "imageUrl": null
         }
       ]
     }
