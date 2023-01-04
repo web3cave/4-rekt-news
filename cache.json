@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum-magicians.org/t/eip-add-precompile-for-blake2s-blake3/12407",
+          "author": null,
+          "description": "EIP #?: add precompile for Blake2s/Blake3",
+          "link": "https://ethereum-magicians.org/t/eip-add-precompile-for-blake2s-blake3/12407",
+          "publishedOn": "2023-01-04T21:00:03.000Z",
+          "wordCount": 453,
+          "title": "EIP #?: add precompile for Blake2s/Blake3",
+          "imageUrl": "https://ethereum-magicians.org/uploads/default/original/2X/2/22a2815aa745f9a36a2cbcafa19b33a0183b95f6.png"
+        },
+        {
+          "id": "https://www.bankless.com/disclosures",
+          "author": null,
+          "description": "Disclosures | Bankless",
+          "link": "https://www.bankless.com/disclosures",
+          "publishedOn": "2023-01-04T21:00:03.000Z",
+          "wordCount": 331,
+          "title": "Disclosures | Bankless",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.premint.xyz/basedheads/",
+          "author": null,
+          "description": "The BasedHeads | PREMINT",
+          "link": "https://www.premint.xyz/basedheads/",
+          "publishedOn": "2023-01-04T21:00:03.000Z",
+          "wordCount": 2094,
+          "title": "The BasedHeads | PREMINT",
+          "imageUrl": "https://premint.imgix.net/https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fpremint%2Fuploads%2Fimages%2Fd996fbf3-0447-44e8-88a5-661cd1a6595b.png?fill=blur&fit=fill&h=628&mark=https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fpremint%2Fuploads%2Fimages%2F3957c1e0-dc26-4c40-90ae-80ef4c014886.png&mark-w=320&w=1200&s=b3b21b6272db17652f33ce10660a0fa4"
+        },
+        {
+          "id": "https://xn--2-umb.com/23/pc-bench/index.html",
+          "author": null,
+          "description": "Math & Engineering",
+          "link": "https://xn--2-umb.com/23/pc-bench/index.html",
+          "publishedOn": "2023-01-04T21:00:03.000Z",
+          "wordCount": 1440,
+          "title": "Math & Engineering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20221214.pdf",
           "author": null,
           "description": "[PDF] fomcminutes20221214.pdf",
@@ -41,9 +81,9 @@
           "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
           "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
           "publishedOn": "2023-01-04T15:30:04.000Z",
-          "wordCount": null,
+          "wordCount": 4775,
           "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
-          "imageUrl": null
+          "imageUrl": "https://static01.nyt.com/images/2023/01/04/multimedia/04coinbase-1-1-ca2a/04coinbase-1-1-ca2a-facebookJumbo.jpg"
         },
         {
           "id": "https://shop.ledger.com/?r=1679b870be97",
@@ -106,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25",
-          "author": null,
-          "description": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
-          "link": "https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25",
-          "publishedOn": "2023-01-04T00:00:05.000Z",
-          "wordCount": 3566,
-          "title": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
-          "imageUrl": "https://miro.medium.com/max/1200/1*bk-2NFIRnwUJixNNC3sWdw.png"
-        },
-        {
           "id": "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230103a1.pdf",
           "author": null,
           "description": "[PDF] bcreg20230103a1.pdf",
@@ -134,36 +164,6 @@
           "wordCount": 475,
           "title": "TwitLonger — When you talk too much for Twitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://open.spotify.com/episode/1pcceOKsOJhMMcu5mmmlRF?si=e79d62db5e30430a",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/1pcceOKsOJhMMcu5mmmlRF?si=e79d62db5e30430a",
-          "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 589,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a3f6f7e545d7dc62fb1f4fded"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lN-ggBa6_yM&feature=youtu.be",
-          "author": null,
-          "description": "Why Crypto Data and Crypto + AI are Massive Opportunities for Crypto Startups | E09",
-          "link": "https://www.youtube.com/watch?v=lN-ggBa6_yM&feature=youtu.be",
-          "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": null,
-          "title": "Why Crypto Data and Crypto + AI are Massive Opportunities for Crypto Startups | E09",
-          "imageUrl": null
-        },
-        {
-          "id": "https://parsec.substack.com/p/onchain-markets-in-2022",
-          "author": null,
-          "description": "Onchain Markets in 2022",
-          "link": "https://parsec.substack.com/p/onchain-markets-in-2022",
-          "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 4740,
-          "title": "Onchain Markets in 2022",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0952d2ce-0670-4234-bc41-40bcef95ada3_1076x554.png"
         },
         {
           "id": "https://www.innercitypress.com/sdny12cryptoftxsbficp010323.html",
@@ -193,7 +193,7 @@
           "publishedOn": "2023-01-03T19:00:02.000Z",
           "wordCount": 998,
           "title": "GitHub - AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/2c96fa4f234455ceef008c4f9e3707079dcb0f05e1b3647f6702b6af7ad2fef9/AstariaXYZ/astaria-core"
+          "imageUrl": "https://opengraph.githubassets.com/fbb269629d0e05d8d8af0ce30d8b34665fa4a93d12f146f8449fe7f3c43a1a4b/AstariaXYZ/astaria-core"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
@@ -201,7 +201,7 @@
           "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21608,
+          "wordCount": 21628,
           "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
         }
