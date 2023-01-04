@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T11:15:26.733Z</id>
+    <id>urn:2023-01-04T12:35:32.020Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T11:15:26.733Z</updated>
+    <updated>2023-01-04T12:35:32.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stripe Climate]]></title>
+        <id>https://stripe.com/en-pt/climate</id>
+        <link href="https://stripe.com/en-pt/climate"/>
+        <updated>2023-01-04T11:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Stripe Climate]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zcash Ecosystem Security Overview]]></title>
         <id>https://zecsec.com/overview/</id>
@@ -143,16 +153,6 @@
         <link href="https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html"/>
         <updated>2023-01-03T20:30:02.000Z</updated>
         <summary type="html"><![CDATA[Opinion | The Signal App and the Danger of Privacy at All Costs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankman-Fried Asks Judge To Hide Identities Of Bail Guarantors | ZeroHedge]]></title>
-        <id>https://www.zerohedge.com/markets/bankman-fried-asks-judge-hide-identities-bail-guarantors</id>
-        <link href="https://www.zerohedge.com/markets/bankman-fried-asks-judge-hide-identities-bail-guarantors"/>
-        <updated>2023-01-03T20:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Bankman-Fried Asks Judge To Hide Identities Of Bail Guarantors | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
