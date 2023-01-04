@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-04T13:24:27.128Z</id>
+    <id>urn:2023-01-04T14:18:34.177Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-04T13:24:27.128Z</updated>
+    <updated>2023-01-04T14:18:34.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://shop.ledger.com/?r=1679b870be97"/>
         <updated>2023-01-04T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[Ledger - Home of the first and only certified Hardware wallets]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Climate]]></title>
-        <id>https://stripe.com/en-pt/climate</id>
-        <link href="https://stripe.com/en-pt/climate"/>
-        <updated>2023-01-04T11:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Stripe Climate]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -131,6 +121,16 @@
         <link href="https://www.youtube.com/watch?v=jo1ZuhuCVZE&amp;feature=youtu.be"/>
         <updated>2023-01-03T23:00:04.000Z</updated>
         <summary type="html"><![CDATA[Are NFTs Securities? with Securities Lawyer Brian Frye]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onchain Markets in 2022]]></title>
+        <id>https://parsec.substack.com/p/onchain-markets-in-2022</id>
+        <link href="https://parsec.substack.com/p/onchain-markets-in-2022"/>
+        <updated>2023-01-03T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Onchain Markets in 2022]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
