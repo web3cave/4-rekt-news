@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://reason.com/2023/01/04/interview-libertarian-former-rep-justin-amash-is-willing-to-serve-as-compromise-house-speaker/",
+          "author": null,
+          "description": "Interview: Libertarian Former Rep. Justin Amash Is Willing to Serve as Compromise House Speaker",
+          "link": "https://reason.com/2023/01/04/interview-libertarian-former-rep-justin-amash-is-willing-to-serve-as-compromise-house-speaker/",
+          "publishedOn": "2023-01-04T22:00:05.000Z",
+          "wordCount": 1797,
+          "title": "Interview: Libertarian Former Rep. Justin Amash Is Willing to Serve as Compromise House Speaker",
+          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/01/rollcallpix127485-scaled.jpg"
+        },
+        {
           "id": "https://ethereum-magicians.org/t/eip-add-precompile-for-blake2s-blake3/12407",
           "author": null,
           "description": "EIP #?: add precompile for Blake2s/Blake3",
@@ -46,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://public.zkevm-test.net/",
+          "author": null,
+          "description": "Polygon zkEVM Bridge",
+          "link": "https://public.zkevm-test.net/",
+          "publishedOn": "2023-01-04T21:00:03.000Z",
+          "wordCount": 19,
+          "title": "Polygon zkEVM Bridge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20221214.pdf",
           "author": null,
           "description": "[PDF] fomcminutes20221214.pdf",
@@ -81,7 +101,7 @@
           "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
           "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
           "publishedOn": "2023-01-04T15:30:04.000Z",
-          "wordCount": 4775,
+          "wordCount": 4777,
           "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
           "imageUrl": "https://static01.nyt.com/images/2023/01/04/multimedia/04coinbase-1-1-ca2a/04coinbase-1-1-ca2a-facebookJumbo.jpg"
         },
@@ -166,16 +186,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.innercitypress.com/sdny12cryptoftxsbficp010323.html",
-          "author": null,
-          "description": "FTX Bankman-Fried Wants Secrecy for Signers of $250 Million\n      Bond Unlike Other SDNY Defendants",
-          "link": "https://www.innercitypress.com/sdny12cryptoftxsbficp010323.html",
-          "publishedOn": "2023-01-03T21:00:03.000Z",
-          "wordCount": 614,
-          "title": "FTX Bankman-Fried Wants Secrecy for Signers of $250 Million\n      Bond Unlike Other SDNY Defendants",
-          "imageUrl": null
-        },
-        {
           "id": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
           "author": null,
           "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
@@ -186,22 +196,12 @@
           "imageUrl": "https://web.archive.org/web/20230101194846im_/https://static01.nyt.com/images/2023/01/03/multimedia/28blackman_1-1-ee7d/28blackman_1-1-ee7d-facebookJumbo.jpg"
         },
         {
-          "id": "https://github.com/AstariaXYZ/astaria-core",
-          "author": null,
-          "description": "GitHub - AstariaXYZ/astaria-core",
-          "link": "https://github.com/AstariaXYZ/astaria-core",
-          "publishedOn": "2023-01-03T19:00:02.000Z",
-          "wordCount": 998,
-          "title": "GitHub - AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/fbb269629d0e05d8d8af0ce30d8b34665fa4a93d12f146f8449fe7f3c43a1a4b/AstariaXYZ/astaria-core"
-        },
-        {
           "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "author": null,
           "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21628,
+          "wordCount": 21824,
           "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
         }
