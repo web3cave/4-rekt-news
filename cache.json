@@ -21,9 +21,9 @@
           "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
           "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
           "publishedOn": "2023-01-04T15:30:04.000Z",
-          "wordCount": 4759,
+          "wordCount": null,
           "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
-          "imageUrl": "https://static01.nyt.com/images/2023/01/04/multimedia/04coinbase-1-1-ca2a/04coinbase-1-1-ca2a-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://shop.ledger.com/?r=1679b870be97",
@@ -34,6 +34,16 @@
           "wordCount": 5882,
           "title": "Ledger - Home of the first and only certified Hardware wallets",
           "imageUrl": "https://cdn.shopify.com/s/files/1/2974/4858/files/opengraphh_200x.png?v=1671012004"
+        },
+        {
+          "id": "https://www.curta.wtf/",
+          "author": null,
+          "description": "Curta, a CTF protocol",
+          "link": "https://www.curta.wtf/",
+          "publishedOn": "2023-01-04T05:30:06.000Z",
+          "wordCount": 629,
+          "title": "Curta, a CTF protocol",
+          "imageUrl": "https://curta.waterfall.market/api/og?authors=9&puzzles=4&display=0"
         },
         {
           "id": "https://zecsec.com/overview/",
@@ -141,19 +151,9 @@
           "description": "Desktop GPU Sales Hit 20-Year Low - Slashdot",
           "link": "https://hardware.slashdot.org/story/22/12/30/0959239/desktop-gpu-sales-hit-20-year-low?utm_source=slashdot&utm_medium=twitter",
           "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": 13888,
+          "wordCount": 13879,
           "title": "Desktop GPU Sales Hit 20-Year Low - Slashdot",
           "imageUrl": "https://a.fsdn.com/sd/topics/hardware_64.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jo1ZuhuCVZE&feature=youtu.be",
-          "author": null,
-          "description": "Are NFTs Securities? with Securities Lawyer Brian Frye",
-          "link": "https://www.youtube.com/watch?v=jo1ZuhuCVZE&feature=youtu.be",
-          "publishedOn": "2023-01-03T23:00:04.000Z",
-          "wordCount": null,
-          "title": "Are NFTs Securities? with Securities Lawyer Brian Frye",
-          "imageUrl": null
         },
         {
           "id": "https://parsec.substack.com/p/onchain-markets-in-2022",
@@ -193,7 +193,7 @@
           "publishedOn": "2023-01-03T19:00:02.000Z",
           "wordCount": 1204,
           "title": "GitHub - AstariaXYZ/astaria-core",
-          "imageUrl": "https://opengraph.githubassets.com/f3b1fe63b804ef92ec132c90f8e11556dc1daaf7bb8961600edb1d816eb5f358/AstariaXYZ/astaria-core"
+          "imageUrl": "https://opengraph.githubassets.com/0f6291e7d211ec0fa9e4ab120fb4142dfe1e3621f96d009437eabb094c4042d4/AstariaXYZ/astaria-core"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
@@ -201,7 +201,7 @@
           "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
           "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21679,
+          "wordCount": 21165,
           "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
           "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
         }
