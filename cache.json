@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/199276/regulators-say-not-so-fast-to-binance-us-acquisition-of-voyager-digital",
+          "author": null,
+          "description": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
+          "link": "https://www.theblock.co/post/199276/regulators-say-not-so-fast-to-binance-us-acquisition-of-voyager-digital",
+          "publishedOn": "2023-01-05T01:30:04.000Z",
+          "wordCount": 70950,
+          "title": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/court-columns-1200x675.jpg"
+        },
+        {
+          "id": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "author": null,
+          "description": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "link": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "publishedOn": "2023-01-05T00:30:03.000Z",
+          "wordCount": 1189,
+          "title": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "imageUrl": "https://bitpay.com/blog/content/images/2022/04/make-lightning-network-payments-bitpay-1.jpg"
+        },
+        {
           "id": "https://reason.com/2023/01/04/interview-libertarian-former-rep-justin-amash-is-willing-to-serve-as-compromise-house-speaker/",
           "author": null,
           "description": "Interview: Libertarian Former Rep. Justin Amash Is Willing to Serve as Compromise House Speaker",
@@ -21,7 +41,7 @@
           "description": "EIP #?: add precompile for Blake2s/Blake3",
           "link": "https://ethereum-magicians.org/t/eip-add-precompile-for-blake2s-blake3/12407",
           "publishedOn": "2023-01-04T21:00:03.000Z",
-          "wordCount": 673,
+          "wordCount": 675,
           "title": "EIP #?: add precompile for Blake2s/Blake3",
           "imageUrl": "https://ethereum-magicians.org/uploads/default/original/2X/2/22a2815aa745f9a36a2cbcafa19b33a0183b95f6.png"
         },
@@ -101,19 +121,19 @@
           "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
           "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
           "publishedOn": "2023-01-04T15:30:04.000Z",
-          "wordCount": 4777,
+          "wordCount": null,
           "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
-          "imageUrl": "https://static01.nyt.com/images/2023/01/04/multimedia/04coinbase-1-1-ca2a/04coinbase-1-1-ca2a-facebookJumbo.jpg"
+          "imageUrl": null
         },
         {
-          "id": "https://shop.ledger.com/?r=1679b870be97",
+          "id": "https://tech.worldcoin.org/blog/4844-testimonial",
           "author": null,
-          "description": "Ledger - Home of the first and only certified Hardware wallets",
-          "link": "https://shop.ledger.com/?r=1679b870be97",
-          "publishedOn": "2023-01-04T13:00:02.000Z",
-          "wordCount": 5882,
-          "title": "Ledger - Home of the first and only certified Hardware wallets",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/2974/4858/files/opengraphh_200x.png?v=1671012004"
+          "description": "Why Worldcoin Is Contributing to EIP-4844 development | Tech blog • Worldcoin",
+          "link": "https://tech.worldcoin.org/blog/4844-testimonial",
+          "publishedOn": "2023-01-04T14:00:05.000Z",
+          "wordCount": 1647,
+          "title": "Why Worldcoin Is Contributing to EIP-4844 development | Tech blog • Worldcoin",
+          "imageUrl": "https://tech.worldcoin.org/images/blog/4844-testimonial/4844.png"
         },
         {
           "id": "https://www.curta.wtf/",
@@ -124,16 +144,6 @@
           "wordCount": 629,
           "title": "Curta, a CTF protocol",
           "imageUrl": "https://curta.waterfall.market/api/og?authors=9&puzzles=4&display=0"
-        },
-        {
-          "id": "https://zecsec.com/overview/",
-          "author": null,
-          "description": "Zcash Ecosystem Security Overview",
-          "link": "https://zecsec.com/overview/",
-          "publishedOn": "2023-01-04T03:00:02.000Z",
-          "wordCount": 2900,
-          "title": "Zcash Ecosystem Security Overview",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=XIBI1KzDmfM&feature=youtu.be",
@@ -191,19 +201,9 @@
           "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "link": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
           "publishedOn": "2023-01-03T20:30:02.000Z",
-          "wordCount": 4472,
+          "wordCount": 4520,
           "title": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "imageUrl": "https://web.archive.org/web/20230101194846im_/https://static01.nyt.com/images/2023/01/03/multimedia/28blackman_1-1-ee7d/28blackman_1-1-ee7d-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
-          "author": null,
-          "description": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
-          "link": "https://www.coindesk.com/policy/2023/01/03/sam-bankman-frieds-lawyers-ask-court-to-conceal-identities-of-250m-bail-co-signers/",
-          "publishedOn": "2023-01-03T17:00:04.000Z",
-          "wordCount": 21639,
-          "title": "Sam Bankman-Fried's Lawyers Ask Court to Conceal Identities of $250M Bail Co-Signers",
-          "imageUrl": "https://www.coindesk.com/resizer/3GhirPelUsE1j24KL52xcPmbP9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5P24I4UAZZCCJILBZTLPEEU3AA.jpg"
         }
       ]
     }
