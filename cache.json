@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://news.bitcoin.com/document-claims-alameda-ceo-caroline-ellisons-ftx-margin-position-was-negative-1-3b-in-may-2022/",
+          "id": "https://www.zerohedge.com/personal-finance/adp-reports-big-jump-jobs-december-wage-growth-plunges",
           "author": null,
-          "description": "Document Claims Alameda CEO Caroline Ellison’s FTX Margin Position Was Negative $1.3B in May 2022 – Bitcoin News",
-          "link": "https://news.bitcoin.com/document-claims-alameda-ceo-caroline-ellisons-ftx-margin-position-was-negative-1-3b-in-may-2022/",
-          "publishedOn": "2023-01-05T14:00:04.000Z",
-          "wordCount": 3986,
-          "title": "Document Claims Alameda CEO Caroline Ellison’s FTX Margin Position Was Negative $1.3B in May 2022 – Bitcoin News",
-          "imageUrl": "https://static.news.bitcoin.com/wp-content/uploads/2022/12/documentellison.jpg"
+          "description": "ADP Reports Big Jump In Jobs In December, Wage Growth Plunges | ZeroHedge",
+          "link": "https://www.zerohedge.com/personal-finance/adp-reports-big-jump-jobs-december-wage-growth-plunges",
+          "publishedOn": "2023-01-05T15:00:03.000Z",
+          "wordCount": 684,
+          "title": "ADP Reports Big Jump In Jobs In December, Wage Growth Plunges | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "author": null,
+          "description": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "link": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "publishedOn": "2023-01-05T14:30:03.000Z",
+          "wordCount": 1189,
+          "title": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "imageUrl": "https://bitpay.com/blog/content/images/2022/04/make-lightning-network-payments-bitpay-1.jpg"
         },
         {
           "id": "https://medium.datadriveninvestor.com/binance-built-a-blockchain-except-it-didnt-5759224ba7aa?gi=407d4349c750&source=social.tw",
@@ -56,12 +66,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.reuters.com/business/finance/ftxs-former-top-lawyer-aided-us-authorities-bankman-fried-case-2023-01-05/",
+          "author": null,
+          "description": "Exclusive: FTX's former top lawyer aided U.S. authorities in Bankman-Fried case",
+          "link": "https://www.reuters.com/business/finance/ftxs-former-top-lawyer-aided-us-authorities-bankman-fried-case-2023-01-05/",
+          "publishedOn": "2023-01-05T04:30:02.000Z",
+          "wordCount": 5982,
+          "title": "Exclusive: FTX's former top lawyer aided U.S. authorities in Bankman-Fried case",
+          "imageUrl": "https://www.reuters.com/resizer/LP_zx__446P1Tp5-Ib2AM0yIIw8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F33QZV5SCRKQ3JNOJTJJ6R5HFA.jpg"
+        },
+        {
           "id": "https://www.wsj.com/articles/celsius-network-wins-ownership-rights-to-customer-crypto-deposits-11672865422?st=wcm56hqanfcmoov&reflink=desktopwebshare_twitter",
           "author": null,
           "description": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "link": "https://www.wsj.com/articles/celsius-network-wins-ownership-rights-to-customer-crypto-deposits-11672865422?st=wcm56hqanfcmoov&reflink=desktopwebshare_twitter",
           "publishedOn": "2023-01-05T03:00:02.000Z",
-          "wordCount": 9139,
+          "wordCount": 9172,
           "title": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "imageUrl": "https://images.wsj.net/im-696965/social"
         },
@@ -81,7 +101,7 @@
           "description": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
           "link": "https://www.theblock.co/post/199276/regulators-say-not-so-fast-to-binance-us-acquisition-of-voyager-digital",
           "publishedOn": "2023-01-05T01:30:04.000Z",
-          "wordCount": 70513,
+          "wordCount": 72187,
           "title": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/court-columns-1200x675.jpg"
         },
@@ -176,32 +196,12 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*xl2QuVbFE8qUaeeScLpr9A.png"
         },
         {
-          "id": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
-          "author": null,
-          "description": "Coinbase Reaches $100 Million Settlement With New York Regulators",
-          "link": "https://www.nytimes.com/2023/01/04/business/coinbase-settlement-anti-money-laundering.html",
-          "publishedOn": "2023-01-04T15:30:04.000Z",
-          "wordCount": null,
-          "title": "Coinbase Reaches $100 Million Settlement With New York Regulators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.curta.wtf/",
-          "author": null,
-          "description": "Curta, a CTF protocol",
-          "link": "https://www.curta.wtf/",
-          "publishedOn": "2023-01-04T05:30:06.000Z",
-          "wordCount": 629,
-          "title": "Curta, a CTF protocol",
-          "imageUrl": "https://curta.waterfall.market/api/og?authors=9&puzzles=4&display=0"
-        },
-        {
           "id": "https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25",
           "author": null,
           "description": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
           "link": "https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25",
           "publishedOn": "2023-01-04T00:00:05.000Z",
-          "wordCount": 3566,
+          "wordCount": 3672,
           "title": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
           "imageUrl": "https://miro.medium.com/max/1200/1*bk-2NFIRnwUJixNNC3sWdw.png"
         }
