@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://open.spotify.com/episode/1xe6tVRTwDpotZ0KbR7PCm?si=2kQk8NltRDmbvvvVOcAeqA",
+          "id": "https://www.wsj.com/articles/celsius-co-founder-sued-by-new-york-attorney-general-11672931944?reflink=e2twmkts",
           "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/1xe6tVRTwDpotZ0KbR7PCm?si=2kQk8NltRDmbvvvVOcAeqA",
-          "publishedOn": "2023-01-05T16:00:05.000Z",
+          "description": "Celsius Co-Founder Sued by New York Attorney General",
+          "link": "https://www.wsj.com/articles/celsius-co-founder-sued-by-new-york-attorney-general-11672931944?reflink=e2twmkts",
+          "publishedOn": "2023-01-05T17:00:03.000Z",
+          "wordCount": 7590,
+          "title": "Celsius Co-Founder Sued by New York Attorney General",
+          "imageUrl": "https://images.wsj.net/im-697448/social"
+        },
+        {
+          "id": "https://github.com/VictorTaelin/HOC/blob/master/pitch/higher_order_company.pdf",
+          "author": null,
+          "description": "[PDF] HOC/higher_order_company.pdf at master · VictorTaelin/HOC",
+          "link": "https://github.com/VictorTaelin/HOC/blob/master/pitch/higher_order_company.pdf",
+          "publishedOn": "2023-01-05T17:00:03.000Z",
           "wordCount": 394,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a2de1e7ae8ab2cecfb00a3889"
+          "title": "[PDF] HOC/higher_order_company.pdf at master · VictorTaelin/HOC",
+          "imageUrl": "https://opengraph.githubassets.com/4e512c83a49547bcee608204d19a934df0ba4792af285694c95dc40f62f4b4b6/VictorTaelin/HOC"
         },
         {
           "id": "https://www.youtube.com/watch?v=2u5ZsCThRU0&feature=youtu.be",
@@ -31,19 +41,9 @@
           "description": "2023 Predictions: The Year of Web3 Pets",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/04/2023-predictions-the-year-of-web3-pets/?utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-05T15:30:05.000Z",
-          "wordCount": 25490,
+          "wordCount": 25538,
           "title": "2023 Predictions: The Year of Web3 Pets",
           "imageUrl": "https://www.coindesk.com/resizer/wGJSMG03z_rGYz7pyBEM7sI4UHA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LFUFYHUP7ZDZZHFSS4UJAQZMTA.png"
-        },
-        {
-          "id": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
-          "author": null,
-          "description": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
-          "link": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
-          "publishedOn": "2023-01-05T14:30:03.000Z",
-          "wordCount": 1189,
-          "title": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
-          "imageUrl": "https://bitpay.com/blog/content/images/2022/04/make-lightning-network-payments-bitpay-1.jpg"
         },
         {
           "id": "https://medium.datadriveninvestor.com/binance-built-a-blockchain-except-it-didnt-5759224ba7aa?gi=407d4349c750&source=social.tw",
@@ -91,7 +91,7 @@
           "description": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "link": "https://www.wsj.com/articles/celsius-network-wins-ownership-rights-to-customer-crypto-deposits-11672865422?st=wcm56hqanfcmoov&reflink=desktopwebshare_twitter",
           "publishedOn": "2023-01-05T03:00:02.000Z",
-          "wordCount": 9180,
+          "wordCount": 9150,
           "title": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "imageUrl": "https://images.wsj.net/im-696965/social"
         },
@@ -111,7 +111,7 @@
           "description": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
           "link": "https://www.theblock.co/post/199276/regulators-say-not-so-fast-to-binance-us-acquisition-of-voyager-digital",
           "publishedOn": "2023-01-05T01:30:04.000Z",
-          "wordCount": 72429,
+          "wordCount": 72136,
           "title": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/court-columns-1200x675.jpg"
         },
