@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.reuters.com/business/finance/ftxs-former-top-lawyer-aided-us-authorities-bankman-fried-case-2023-01-05/",
+          "author": null,
+          "description": "Exclusive: FTX's former top lawyer aided U.S. authorities in Bankman-Fried case",
+          "link": "https://www.reuters.com/business/finance/ftxs-former-top-lawyer-aided-us-authorities-bankman-fried-case-2023-01-05/",
+          "publishedOn": "2023-01-05T04:30:02.000Z",
+          "wordCount": 5668,
+          "title": "Exclusive: FTX's former top lawyer aided U.S. authorities in Bankman-Fried case",
+          "imageUrl": "https://www.reuters.com/resizer/LP_zx__446P1Tp5-Ib2AM0yIIw8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F33QZV5SCRKQ3JNOJTJJ6R5HFA.jpg"
+        },
+        {
           "id": "https://www.wsj.com/articles/celsius-network-wins-ownership-rights-to-customer-crypto-deposits-11672865422?st=wcm56hqanfcmoov&reflink=desktopwebshare_twitter",
           "author": null,
           "description": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "link": "https://www.wsj.com/articles/celsius-network-wins-ownership-rights-to-customer-crypto-deposits-11672865422?st=wcm56hqanfcmoov&reflink=desktopwebshare_twitter",
           "publishedOn": "2023-01-05T03:00:02.000Z",
-          "wordCount": 9129,
+          "wordCount": 9124,
           "title": "Celsius Network Wins Ownership Rights to Customer Crypto Deposits",
           "imageUrl": "https://images.wsj.net/im-696965/social"
         },
@@ -34,6 +44,16 @@
           "wordCount": 70947,
           "title": "Regulators say not so fast to Binance US acquisition of Voyager Digital",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/06/court-columns-1200x675.jpg"
+        },
+        {
+          "id": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "author": null,
+          "description": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "link": "https://bitpay.com/blog/bitpay-supports-lightning-network-payments/",
+          "publishedOn": "2023-01-05T00:30:03.000Z",
+          "wordCount": 1189,
+          "title": "BitPay Supports Lightning Network Payments: Accept & Make Fast, Cheap Transactions | BitPat",
+          "imageUrl": "https://bitpay.com/blog/content/images/2022/04/make-lightning-network-payments-bitpay-1.jpg"
         },
         {
           "id": "https://reason.com/2023/01/04/interview-libertarian-former-rep-justin-amash-is-willing-to-serve-as-compromise-house-speaker/",
@@ -71,7 +91,7 @@
           "description": "The BasedHeads | PREMINT",
           "link": "https://www.premint.xyz/basedheads/",
           "publishedOn": "2023-01-04T21:00:03.000Z",
-          "wordCount": 2094,
+          "wordCount": 2093,
           "title": "The BasedHeads | PREMINT",
           "imageUrl": "https://premint.imgix.net/https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fpremint%2Fuploads%2Fimages%2Fd996fbf3-0447-44e8-88a5-661cd1a6595b.png?fill=blur&fit=fill&h=628&mark=https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fpremint%2Fuploads%2Fimages%2F3957c1e0-dc26-4c40-90ae-80ef4c014886.png&mark-w=320&w=1200&s=b3b21b6272db17652f33ce10660a0fa4"
         },
@@ -156,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.axios.com/2023/01/03/wyre-shutdown-crypto-winter",
-          "author": null,
-          "description": "Wyre said to shut down as CEO admits company \"scaling back\"",
-          "link": "https://www.axios.com/2023/01/03/wyre-shutdown-crypto-winter",
-          "publishedOn": "2023-01-04T01:30:04.000Z",
-          "wordCount": 1251,
-          "title": "Wyre said to shut down as CEO admits company \"scaling back\"",
-          "imageUrl": "https://images.axios.com/9nYVTseBkz9zPcFgg86teELSh0M=/0x0:1365x768/1366x768/2022/12/31/1672512392754.jpg"
-        },
-        {
           "id": "https://medium.com/veridise/circom-pairing-a-million-dollar-zk-bug-caught-early-c5624b278f25",
           "author": null,
           "description": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
@@ -174,16 +184,6 @@
           "wordCount": 3566,
           "title": "Circom-Pairing: A Million-Dollar ZK Bug Caught Early",
           "imageUrl": "https://miro.medium.com/max/1200/1*bk-2NFIRnwUJixNNC3sWdw.png"
-        },
-        {
-          "id": "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230103a1.pdf",
-          "author": null,
-          "description": "[PDF] bcreg20230103a1.pdf",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230103a1.pdf",
-          "publishedOn": "2023-01-03T23:30:04.000Z",
-          "wordCount": 3604,
-          "title": "[PDF] bcreg20230103a1.pdf",
-          "imageUrl": null
         },
         {
           "id": "http://www.twitlonger.com/show/n_1ss7f8q",
@@ -201,7 +201,7 @@
           "description": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "link": "https://web.archive.org/web/20230101194846/https://www.nytimes.com/2022/12/28/opinion/jack-dorseys-twitter-signal-privacy.html",
           "publishedOn": "2023-01-03T20:30:02.000Z",
-          "wordCount": 4520,
+          "wordCount": 4472,
           "title": "Opinion | The Signal App and the Danger of Privacy at All Costs",
           "imageUrl": "https://web.archive.org/web/20230101194846im_/https://static01.nyt.com/images/2023/01/03/multimedia/28blackman_1-1-ee7d/28blackman_1-1-ee7d-facebookJumbo.jpg"
         }
