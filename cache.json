@@ -6,24 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3tToCWmKBug&t=1s",
+          "author": null,
+          "description": "Next Level Ethereum Scaling: The OP Stack!",
+          "link": "https://www.youtube.com/watch?v=3tToCWmKBug&t=1s",
+          "publishedOn": "2023-01-06T16:02:05.000Z",
+          "wordCount": null,
+          "title": "Next Level Ethereum Scaling: The OP Stack!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lenstube.xyz/watch/0x2e09-0x6c",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x6c",
+          "publishedOn": "2023-01-06T16:02:04.000Z",
+          "wordCount": 135,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://awarenessact.com/only-30-50-of-people-have-an-inner-monologue-and-suddenly-it-all-makes-sense/",
+          "author": null,
+          "description": "Only 30-50% of People Have An Inner Monologue, And Suddenly It All Makes Sense",
+          "link": "https://awarenessact.com/only-30-50-of-people-have-an-inner-monologue-and-suddenly-it-all-makes-sense/",
+          "publishedOn": "2023-01-06T15:30:07.000Z",
+          "wordCount": 1143,
+          "title": "Only 30-50% of People Have An Inner Monologue, And Suddenly It All Makes Sense",
+          "imageUrl": "https://awarenessact.com/wp-content/uploads/2022/12/shutterstock_1933038572-1024x612.jpg"
+        },
+        {
+          "id": "https://www.comp.xyz/t/compound-dsr-proposal/3856?u=monet-supply",
+          "author": null,
+          "description": "Compound DSR Proposal",
+          "link": "https://www.comp.xyz/t/compound-dsr-proposal/3856?u=monet-supply",
+          "publishedOn": "2023-01-06T15:30:07.000Z",
+          "wordCount": 724,
+          "title": "Compound DSR Proposal",
+          "imageUrl": "https://global.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/5c3ed2f078b4a24132b11274c65c69d86fefaa2d.png"
+        },
+        {
           "id": "https://www.theblock.co/post/199694/france-central-bank-crypto-licensing?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "French central banker pushes mandatory crypto firm licensing for 2023",
           "link": "https://www.theblock.co/post/199694/france-central-bank-crypto-licensing?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-06T14:00:06.000Z",
-          "wordCount": 72533,
+          "wordCount": 73150,
           "title": "French central banker pushes mandatory crypto firm licensing for 2023",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/07/france-flag-french-1200x675.jpg"
-        },
-        {
-          "id": "https://ny.chalkbeat.org/2023/1/3/23537987/nyc-schools-ban-chatgpt-writing-artificial-intelligence",
-          "author": null,
-          "description": "NYC blocks access to ChatGPT on school networks as cheating fears swirl",
-          "link": "https://ny.chalkbeat.org/2023/1/3/23537987/nyc-schools-ban-chatgpt-writing-artificial-intelligence",
-          "publishedOn": "2023-01-06T11:30:05.000Z",
-          "wordCount": 2208,
-          "title": "NYC blocks access to ChatGPT on school networks as cheating fears swirl",
-          "imageUrl": "https://chalkbeat.brightspotcdn.com/dims4/default/e990c94/2147483647/strip/true/crop/3543x2022+0+98/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F9EiZr8T9y7Wi-6hBrasuYAd8Dgw%3D%2F0x0%3A3543x2218%2F3543x2218%2Ffilters%3Afocal%281772x1109%3A1773x1110%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24334419%2FNYC_20230103_ChatGPT_GettyImages_001.JPG"
         },
         {
           "id": "https://nation3.kampsite.co/",
@@ -91,7 +121,7 @@
           "description": "Genesis Parent Company DCG Shutters Its Wealth Management Division",
           "link": "https://www.theinformation.com/articles/genesis-parent-company-dcg-shutters-its-wealth-management-division",
           "publishedOn": "2023-01-06T01:00:01.000Z",
-          "wordCount": 2170,
+          "wordCount": 2184,
           "title": "Genesis Parent Company DCG Shutters Its Wealth Management Division",
           "imageUrl": "https://tii.imgix.net/production/articles/9495/d5c1fd6c-b153-4cc9-8d83-5336c1164b02.png?fm=jpg&auto=compress&w=1200&frame=0"
         },
@@ -126,16 +156,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/avalanche-avax-gID_4.jpg@png"
         },
         {
-          "id": "https://invisible-nft.surge.sh/",
-          "author": null,
-          "description": "Ethereum App",
-          "link": "https://invisible-nft.surge.sh/",
-          "publishedOn": "2023-01-05T19:30:06.000Z",
-          "wordCount": 44,
-          "title": "Ethereum App",
-          "imageUrl": null
-        },
-        {
           "id": "https://members.delphidigital.io/reports/the-great-reset-navigating-crypto-in-2023?utm_campaign=year_ahead",
           "author": null,
           "description": "Delphi Digital",
@@ -144,16 +164,6 @@
           "wordCount": 199708,
           "title": "Delphi Digital",
           "imageUrl": "https://storage.googleapis.com/members-portal-bucket/uploads/2023/01/YE-Full-Report-The-Great-Reset-Cheryl.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/199416/vauld-rejects-nexos-final-acquisition-proposal-questions-companys-solvency",
-          "author": null,
-          "description": "Vauld rejects Nexo's 'final' acquisition proposal, questions company's solvency",
-          "link": "https://www.theblock.co/post/199416/vauld-rejects-nexos-final-acquisition-proposal-questions-companys-solvency",
-          "publishedOn": "2023-01-05T19:00:02.000Z",
-          "wordCount": 73203,
-          "title": "Vauld rejects Nexo's 'final' acquisition proposal, questions company's solvency",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220801_Vauld-2-1200x675.jpg"
         },
         {
           "id": "https://medium.com/l2beat/circumventing-layer-zero-5e9f652a5d3e",
@@ -184,16 +194,6 @@
           "wordCount": null,
           "title": "Execution Layer Meeting 152 [2023-01-05]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/celsius-co-founder-sued-by-new-york-attorney-general-11672931944?reflink=e2twmkts",
-          "author": null,
-          "description": "Celsius Co-Founder Sued by New York Attorney General",
-          "link": "https://www.wsj.com/articles/celsius-co-founder-sued-by-new-york-attorney-general-11672931944?reflink=e2twmkts",
-          "publishedOn": "2023-01-05T17:00:03.000Z",
-          "wordCount": 7683,
-          "title": "Celsius Co-Founder Sued by New York Attorney General",
-          "imageUrl": "https://images.wsj.net/im-697448/social"
         },
         {
           "id": "https://medium.datadriveninvestor.com/binance-built-a-blockchain-except-it-didnt-5759224ba7aa?gi=407d4349c750&source=social.tw",
