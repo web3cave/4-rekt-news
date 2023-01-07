@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/europe-mercy-qatar",
+          "author": null,
+          "description": "Europe At The Mercy Of Qatar? | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/europe-mercy-qatar",
+          "publishedOn": "2023-01-07T15:00:03.000Z",
+          "wordCount": 2269,
+          "title": "Europe At The Mercy Of Qatar? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/technology/big-tech-big-fines-0",
+          "author": null,
+          "description": "Big Tech, Big Fines | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/big-tech-big-fines-0",
+          "publishedOn": "2023-01-07T15:00:03.000Z",
+          "wordCount": 676,
+          "title": "Big Tech, Big Fines | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/thousands-killed-dozens-power-stations-hospitals-bombed-2022s-forgotten-war",
+          "author": null,
+          "description": "Thousands Killed, Dozens Of Power Stations & Hospitals Bombed In 2022's 'Forgotten War' | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/thousands-killed-dozens-power-stations-hospitals-bombed-2022s-forgotten-war",
+          "publishedOn": "2023-01-07T15:00:03.000Z",
+          "wordCount": 1472,
+          "title": "Thousands Killed, Dozens Of Power Stations & Hospitals Bombed In 2022's 'Forgotten War' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/foundry-rs/foundry-toolchain/pull/19",
+          "author": null,
+          "description": "Cache RPC responses by paulrberg · Pull Request #19 · foundry-rs/foundry-toolchain",
+          "link": "https://github.com/foundry-rs/foundry-toolchain/pull/19",
+          "publishedOn": "2023-01-07T15:00:03.000Z",
+          "wordCount": 929,
+          "title": "Cache RPC responses by paulrberg · Pull Request #19 · foundry-rs/foundry-toolchain",
+          "imageUrl": "https://opengraph.githubassets.com/85fd29e3dd28c92a6963fb4ad4ddd3a799ff64c4fc070e4adce6cdcd48179284/foundry-rs/foundry-toolchain/pull/19"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YR4KqDaIIOQ&feature=youtu.be",
+          "author": null,
+          "description": "Phish-Possum 5/17/92-Union College, Schenectady, NY",
+          "link": "https://www.youtube.com/watch?v=YR4KqDaIIOQ&feature=youtu.be",
+          "publishedOn": "2023-01-07T15:00:03.000Z",
+          "wordCount": null,
+          "title": "Phish-Possum 5/17/92-Union College, Schenectady, NY",
+          "imageUrl": null
+        },
+        {
           "id": "https://juno.finance/blog/Introducing-our-new-crypto-partner",
           "author": null,
           "description": "Introducing our new crypto partner",
@@ -14,36 +64,6 @@
           "wordCount": 3900,
           "title": "Introducing our new crypto partner",
           "imageUrl": "https://nuo-cms.s3.ap-southeast-1.amazonaws.com/image_e1d30777bf.png"
-        },
-        {
-          "id": "https://github.com/zobront/quickpoc",
-          "author": null,
-          "description": "GitHub - zobront/quickpoc: easy POC template generation from the command line",
-          "link": "https://github.com/zobront/quickpoc",
-          "publishedOn": "2023-01-07T12:00:06.000Z",
-          "wordCount": 841,
-          "title": "GitHub - zobront/quickpoc: easy POC template generation from the command line",
-          "imageUrl": "https://opengraph.githubassets.com/3d303ab092addd293743adc4b1719f40e5d9c7147cafac8be379e2621869ea1c/zobront/quickpoc"
-        },
-        {
-          "id": "https://github.com/foundry-rs/forge-std/releases/tag/v1.2.0",
-          "author": null,
-          "description": "Release Release v1.2.0 · foundry-rs/forge-std",
-          "link": "https://github.com/foundry-rs/forge-std/releases/tag/v1.2.0",
-          "publishedOn": "2023-01-07T12:00:06.000Z",
-          "wordCount": 537,
-          "title": "Release Release v1.2.0 · foundry-rs/forge-std",
-          "imageUrl": "https://opengraph.githubassets.com/298fee7c0c87e16d8591b00b1a8a150117771bcca29073e1878bd99e77373449/foundry-rs/forge-std/releases/tag/v1.2.0"
-        },
-        {
-          "id": "https://stackoverflow.com/questions/75031606/i-downloaded-random-mev-bot-source-code-from-internet-is-it-safe/75038946#75038946",
-          "author": null,
-          "description": "I downloaded random \"MEV bot\" source code from Internet. Is it Safe?",
-          "link": "https://stackoverflow.com/questions/75031606/i-downloaded-random-mev-bot-source-code-from-internet-is-it-safe/75038946#75038946",
-          "publishedOn": "2023-01-07T10:30:03.000Z",
-          "wordCount": 2995,
-          "title": "I downloaded random \"MEV bot\" source code from Internet. Is it Safe?",
-          "imageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
         },
         {
           "id": "https://www.mastercard.com/news/press/2023/january/mastercard-announces-web3-spotlight-program-to-develop-launch-emerging-musical-artists-in-the-digital-economy/",
@@ -56,16 +76,6 @@
           "imageUrl": "https://www.mastercard.com/news/media/vzijx1un/maa_graphic-v2.jpg"
         },
         {
-          "id": "https://pitch.yohei.me/",
-          "author": null,
-          "description": "Pitch Mini Yohei",
-          "link": "https://pitch.yohei.me/",
-          "publishedOn": "2023-01-07T09:00:03.000Z",
-          "wordCount": 178,
-          "title": "Pitch Mini Yohei",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.occ.treas.gov/news-issuances/news-releases/2023/nr-ia-2023-1a.pdf",
           "author": null,
           "description": "[PDF] nr-ia-2023-1a.pdf",
@@ -74,16 +84,6 @@
           "wordCount": 3597,
           "title": "[PDF] nr-ia-2023-1a.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/solana-labs/solana/issues/21270",
-          "author": null,
-          "description": "Implement `Pubkey::is_on_curve` for BPF · Issue #21270 · solana-labs/solana",
-          "link": "https://github.com/solana-labs/solana/issues/21270",
-          "publishedOn": "2023-01-07T05:00:03.000Z",
-          "wordCount": 862,
-          "title": "Implement `Pubkey::is_on_curve` for BPF · Issue #21270 · solana-labs/solana",
-          "imageUrl": "https://opengraph.githubassets.com/cec9841b05d62e05486b7c9c7dadbcad6b46a312409b690634ef1119548bbb83/solana-labs/solana/issues/21270"
         },
         {
           "id": "https://www.youtube.com/watch?v=xi5qjV-rZ8A&feature=youtu.be",
@@ -101,7 +101,7 @@
           "description": "Brother of Criminal Bitcoin Mixing CEO Pleads Guilty to Stealing 712 Bitcoins From IRS",
           "link": "https://www.coindesk.com/policy/2023/01/06/brother-of-criminal-bitcoin-mixing-ceo-pleads-guilty-to-stealing-712-bitcoins-from-irs/",
           "publishedOn": "2023-01-06T23:30:06.000Z",
-          "wordCount": 21329,
+          "wordCount": 21250,
           "title": "Brother of Criminal Bitcoin Mixing CEO Pleads Guilty to Stealing 712 Bitcoins From IRS",
           "imageUrl": "https://www.coindesk.com/resizer/Z1VpVFHRfU5lOJPR4RSdk9zRNew=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MNGAHRZTFVAXRGURKQU56TORB4.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "GitHub - xmtp/example-notification-server-go: Example push notification server, written in Golang",
           "link": "https://github.com/xmtp/example-notification-server-go",
           "publishedOn": "2023-01-06T22:30:02.000Z",
-          "wordCount": 1338,
+          "wordCount": 1462,
           "title": "GitHub - xmtp/example-notification-server-go: Example push notification server, written in Golang",
           "imageUrl": "https://opengraph.githubassets.com/b4d10f98b8a028d9ea7c1de9d616d7ae5f0e208598ac16f66c9bff42728f255c/xmtp/example-notification-server-go"
         },
@@ -141,7 +141,7 @@
           "description": "Solana vs. Polygon: A Developer’s Perspective",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/06/solana-vs-polygon-a-developers-perspective/",
           "publishedOn": "2023-01-06T22:00:07.000Z",
-          "wordCount": 24981,
+          "wordCount": 24905,
           "title": "Solana vs. Polygon: A Developer’s Perspective",
           "imageUrl": "https://www.coindesk.com/resizer/QQoxDd-YlcR5jNeVQ3ow70Xg7ww=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4VCYNRJAK5D3PEFIROGRTWMSYY.jpg"
         },
