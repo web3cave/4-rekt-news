@@ -6,6 +6,76 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=28584738",
+          "author": null,
+          "description": "Serving Netflix Video at 400Gb/s on FreeBSD [pdf] | Hacker News",
+          "link": "https://news.ycombinator.com/item?id=28584738",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 15231,
+          "title": "Serving Netflix Video at 400Gb/s on FreeBSD [pdf] | Hacker News",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/105we3l/production_twitter_on_one_machine_100gbps_nics/",
+          "author": null,
+          "description": "r/programming - Production Twitter on One Machine: 100Gbps NICs and NVMe are fast",
+          "link": "https://www.reddit.com/r/programming/comments/105we3l/production_twitter_on_one_machine_100gbps_nics/",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 18148,
+          "title": "r/programming - Production Twitter on One Machine: 100Gbps NICs and NVMe are fast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://steamcommunity.com/app/1688750",
+          "author": null,
+          "description": "Steam Community :: DAN☆SING",
+          "link": "https://steamcommunity.com/app/1688750",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 980,
+          "title": "Steam Community :: DAN☆SING",
+          "imageUrl": "https://community.akamai.steamstatic.com/public/shared/images/responsive/share_steam_logo.png"
+        },
+        {
+          "id": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
+          "author": null,
+          "description": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
+          "link": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 590,
+          "title": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
+          "imageUrl": "https://opengraph.githubassets.com/f34982de63146c20e3aac5e376b39aee337bdcd1c1f5a1b42226fe2f68aeb116/OpenProofOfHumanity/proof-of-humanity-web"
+        },
+        {
+          "id": "https://www.proofofhumanity.org/",
+          "author": null,
+          "description": "Proof of Humanity, a sybil-proof list of humans.",
+          "link": "https://www.proofofhumanity.org/",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 27,
+          "title": "Proof of Humanity, a sybil-proof list of humans.",
+          "imageUrl": "https://proofofhumanity.org/images/open-graph-image.png"
+        },
+        {
+          "id": "https://forum.hop.exchange/t/request-for-comment-updating-voting-frameworks-for-community-governance/562/7?u=lefterisjp",
+          "author": null,
+          "description": "[Request for Comment] Updating Voting Frameworks for Community Governance",
+          "link": "https://forum.hop.exchange/t/request-for-comment-updating-voting-frameworks-for-community-governance/562/7?u=lefterisjp",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 1249,
+          "title": "[Request for Comment] Updating Voting Frameworks for Community Governance",
+          "imageUrl": "https://forum.hop.exchange/uploads/default/original/1X/3953ca27f6f0e99f6ecfcbfbfc5651d18b39fe90.png"
+        },
+        {
+          "id": "https://forum.hop.exchange/t/hip-4-amendment-hop-delegate-incentivization-trial/559/10?u=lefterisjp",
+          "author": null,
+          "description": "HIP 4 Amendment: Hop Delegate Incentivization Trial",
+          "link": "https://forum.hop.exchange/t/hip-4-amendment-hop-delegate-incentivization-trial/559/10?u=lefterisjp",
+          "publishedOn": "2023-01-08T15:00:02.000Z",
+          "wordCount": 2305,
+          "title": "HIP 4 Amendment: Hop Delegate Incentivization Trial",
+          "imageUrl": "https://forum.hop.exchange/uploads/default/original/1X/3953ca27f6f0e99f6ecfcbfbfc5651d18b39fe90.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UlYwnX5DO2Y&feature=youtu.be",
           "author": null,
           "description": "WHOKILLEDXIX - spy? (Official Audio)",
@@ -61,19 +131,9 @@
           "description": "The Australian woman saving the lives of stray cats in Bali",
           "link": "https://www.9news.com.au/national/bali-news-animal-indonesia-rescue-cats-dogs-charity-villa-kitty/55a2b4af-b414-4cce-b4d6-aadc154ac015",
           "publishedOn": "2023-01-08T06:00:04.000Z",
-          "wordCount": 7177,
+          "wordCount": 7175,
           "title": "The Australian woman saving the lives of stray cats in Bali",
           "imageUrl": "https://imageresizer.static9.net.au/7SnvUtfUD_k3JUS8H_Gy39Q-WV8=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe84bc8e0-7b2d-4142-afd5-7ad20485cb29"
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/2022-box-office-still-33-shy-pre-pandemic-levels",
-          "author": null,
-          "description": "2022 Box Office Still 33% Shy Of Pre-Pandemic Levels | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/2022-box-office-still-33-shy-pre-pandemic-levels",
-          "publishedOn": "2023-01-08T05:30:04.000Z",
-          "wordCount": 857,
-          "title": "2022 Box Office Still 33% Shy Of Pre-Pandemic Levels | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?gi=8b2f7e968060",
@@ -86,46 +146,6 @@
           "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/2022-world-we-know-it-ended-decades-conflict-lie-ahead",
-          "author": null,
-          "description": "In 2022, The World As We Know It Ended. Decades Of Conflict Lie Ahead... | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/2022-world-we-know-it-ended-decades-conflict-lie-ahead",
-          "publishedOn": "2023-01-08T05:00:02.000Z",
-          "wordCount": 3846,
-          "title": "In 2022, The World As We Know It Ended. Decades Of Conflict Lie Ahead... | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/tesla-owners-flood-chinese-showrooms-protest-sharp-price-cuts",
-          "author": null,
-          "description": "Tesla Owners Flood Chinese Showrooms To Protest Sharp Price Cuts | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/tesla-owners-flood-chinese-showrooms-protest-sharp-price-cuts",
-          "publishedOn": "2023-01-08T05:00:02.000Z",
-          "wordCount": 916,
-          "title": "Tesla Owners Flood Chinese Showrooms To Protest Sharp Price Cuts | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/will-universities-ever-admit-they-were-wrong-about-covid-policy",
-          "author": null,
-          "description": "Will Universities Ever Admit They Were Wrong About COVID Policy? | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/will-universities-ever-admit-they-were-wrong-about-covid-policy",
-          "publishedOn": "2023-01-08T05:00:02.000Z",
-          "wordCount": 1060,
-          "title": "Will Universities Ever Admit They Were Wrong About COVID Policy? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/nyc-subway-crime-spikes-30-despite-beefed-transit-patrols",
-          "author": null,
-          "description": "NYC Subway Crime Spikes 30% Despite Beefed Up Transit Patrols | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/nyc-subway-crime-spikes-30-despite-beefed-transit-patrols",
-          "publishedOn": "2023-01-08T05:00:02.000Z",
-          "wordCount": 1044,
-          "title": "NYC Subway Crime Spikes 30% Despite Beefed Up Transit Patrols | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/lightningnetwork/lnd/pull/6703#issuecomment-1374694283",
           "author": null,
           "description": "htlcswitch: add inbound routing fees receive support by joostjager · Pull Request #6703 · lightningnetwork/lnd",
@@ -134,16 +154,6 @@
           "wordCount": 2265,
           "title": "htlcswitch: add inbound routing fees receive support by joostjager · Pull Request #6703 · lightningnetwork/lnd",
           "imageUrl": "https://opengraph.githubassets.com/0c6e1e51197134e1f315274510deefb9abd0113a16bf04569b89a9233f000ba6/lightningnetwork/lnd/pull/6703"
-        },
-        {
-          "id": "https://mayanwarrior.io/the-mayan-warrior-amulet/",
-          "author": null,
-          "description": "In Support of Donations from the Community, Mayan Warrior Introduces ‘The Mayan Warrior Amulet’ – Mayan Warrior Amulet",
-          "link": "https://mayanwarrior.io/the-mayan-warrior-amulet/",
-          "publishedOn": "2023-01-08T01:30:06.000Z",
-          "wordCount": 969,
-          "title": "In Support of Donations from the Community, Mayan Warrior Introduces ‘The Mayan Warrior Amulet’ – Mayan Warrior Amulet",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=CObsIAAl-e8",
@@ -183,16 +193,6 @@
           "publishedOn": "2023-01-07T21:00:02.000Z",
           "wordCount": 1280,
           "title": "Western Media Blames Putin For Quick Collapse Of His Own Christmas Ceasefire | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/cbdcs-digital-wolves-sheeps-clothing",
-          "author": null,
-          "description": "CBDCs: Digital Wolves In Sheep's Clothing | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/cbdcs-digital-wolves-sheeps-clothing",
-          "publishedOn": "2023-01-07T19:30:05.000Z",
-          "wordCount": 4699,
-          "title": "CBDCs: Digital Wolves In Sheep's Clothing | ZeroHedge",
           "imageUrl": null
         },
         {
