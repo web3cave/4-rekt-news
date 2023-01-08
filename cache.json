@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.proofofhumanity.org/",
+          "author": null,
+          "description": "Proof of Humanity, a sybil-proof list of humans.",
+          "link": "https://www.proofofhumanity.org/",
+          "publishedOn": "2023-01-08T22:00:03.000Z",
+          "wordCount": 27,
+          "title": "Proof of Humanity, a sybil-proof list of humans.",
+          "imageUrl": "https://proofofhumanity.org/images/open-graph-image.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/old-dominion-basketball-player-clutches-chest-and-collapses-mid-game",
+          "author": null,
+          "description": "Old Dominion Basketball Player Clutches Chest And Collapses Mid-Game | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/old-dominion-basketball-player-clutches-chest-and-collapses-mid-game",
+          "publishedOn": "2023-01-08T21:30:03.000Z",
+          "wordCount": 669,
+          "title": "Old Dominion Basketball Player Clutches Chest And Collapses Mid-Game | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6CD8gxdV_c8",
           "author": null,
           "description": "Manifestantes invadem Congresso Nacional | CNN 360º",
@@ -106,34 +126,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
-          "author": null,
-          "description": "Circle Reserve Fund | USDXX | Institutional",
-          "link": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
-          "publishedOn": "2023-01-08T17:00:02.000Z",
-          "wordCount": 8122,
-          "title": "Circle Reserve Fund | USDXX | Institutional",
-          "imageUrl": "/blk-inst-c-assets/include/common/images/blackrock_logo.png"
-        },
-        {
           "id": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
           "author": null,
           "description": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
           "link": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
           "publishedOn": "2023-01-08T15:00:02.000Z",
-          "wordCount": 615,
+          "wordCount": 924,
           "title": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
           "imageUrl": "https://opengraph.githubassets.com/f34982de63146c20e3aac5e376b39aee337bdcd1c1f5a1b42226fe2f68aeb116/OpenProofOfHumanity/proof-of-humanity-web"
-        },
-        {
-          "id": "https://www.proofofhumanity.org/",
-          "author": null,
-          "description": "Proof of Humanity, a sybil-proof list of humans.",
-          "link": "https://www.proofofhumanity.org/",
-          "publishedOn": "2023-01-08T15:00:02.000Z",
-          "wordCount": 27,
-          "title": "Proof of Humanity, a sybil-proof list of humans.",
-          "imageUrl": "https://proofofhumanity.org/images/open-graph-image.png"
         },
         {
           "id": "https://solana.playspokemon.xyz/",
@@ -163,7 +163,7 @@
           "publishedOn": "2023-01-08T05:00:02.000Z",
           "wordCount": 592,
           "title": "GitHub - Mikerah/awesome-algorithmic-game-theory: An Awesome list for resources on algorithmic game theory",
-          "imageUrl": "https://opengraph.githubassets.com/77d32d6660af67209b62508b2bb221769879b570e0b5352479f435f130c28dc6/Mikerah/awesome-algorithmic-game-theory"
+          "imageUrl": "https://opengraph.githubassets.com/8627249819c4585815df5762a645b102fc3bea6cd4b66f745f8ac276643f3743/Mikerah/awesome-algorithmic-game-theory"
         },
         {
           "id": "https://github.com/lightningnetwork/lnd/pull/6703#issuecomment-1374694283",
