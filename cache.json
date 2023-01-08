@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6CD8gxdV_c8",
+          "author": null,
+          "description": "Manifestantes invadem Congresso Nacional | CNN 360º",
+          "link": "https://www.youtube.com/watch?v=6CD8gxdV_c8",
+          "publishedOn": "2023-01-08T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Manifestantes invadem Congresso Nacional | CNN 360º",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/elon-musk-aims-move-fraud-trial-california-texas-avoid-local-negativity",
           "author": null,
           "description": "Elon Musk Aims To Move Fraud Trial From California To Texas To Avoid \"Local Negativity\" | ZeroHedge",
@@ -96,12 +106,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
+          "author": null,
+          "description": "Circle Reserve Fund | USDXX | Institutional",
+          "link": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
+          "publishedOn": "2023-01-08T17:00:02.000Z",
+          "wordCount": 8122,
+          "title": "Circle Reserve Fund | USDXX | Institutional",
+          "imageUrl": "/blk-inst-c-assets/include/common/images/blackrock_logo.png"
+        },
+        {
           "id": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
           "author": null,
           "description": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
           "link": "https://github.com/OpenProofOfHumanity/proof-of-humanity-web",
           "publishedOn": "2023-01-08T15:00:02.000Z",
-          "wordCount": 590,
+          "wordCount": 615,
           "title": "GitHub - OpenProofOfHumanity/proof-of-humanity-web: The Proof Of Humanity web application.",
           "imageUrl": "https://opengraph.githubassets.com/f34982de63146c20e3aac5e376b39aee337bdcd1c1f5a1b42226fe2f68aeb116/OpenProofOfHumanity/proof-of-humanity-web"
         },
@@ -136,6 +156,16 @@
           "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
         },
         {
+          "id": "https://github.com/Mikerah/awesome-algorithmic-game-theory",
+          "author": null,
+          "description": "GitHub - Mikerah/awesome-algorithmic-game-theory: An Awesome list for resources on algorithmic game theory",
+          "link": "https://github.com/Mikerah/awesome-algorithmic-game-theory",
+          "publishedOn": "2023-01-08T05:00:02.000Z",
+          "wordCount": 592,
+          "title": "GitHub - Mikerah/awesome-algorithmic-game-theory: An Awesome list for resources on algorithmic game theory",
+          "imageUrl": "https://opengraph.githubassets.com/77d32d6660af67209b62508b2bb221769879b570e0b5352479f435f130c28dc6/Mikerah/awesome-algorithmic-game-theory"
+        },
+        {
           "id": "https://github.com/lightningnetwork/lnd/pull/6703#issuecomment-1374694283",
           "author": null,
           "description": "htlcswitch: add inbound routing fees receive support by joostjager · Pull Request #6703 · lightningnetwork/lnd",
@@ -166,16 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=CObsIAAl-e8",
-          "author": null,
-          "description": "David vs Cyrus in Blitz Chess",
-          "link": "https://www.youtube.com/watch?v=CObsIAAl-e8",
-          "publishedOn": "2023-01-07T23:00:02.000Z",
-          "wordCount": null,
-          "title": "David vs Cyrus in Blitz Chess",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.americandialect.org/2022-word-of-the-year-is-ussy",
           "author": null,
           "description": "2022 Word of the Year is “-ussy”",
@@ -184,26 +204,6 @@
           "wordCount": 1953,
           "title": "2022 Word of the Year is “-ussy”",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://forum.moonwell.fi/t/explanation-of-methodology-to-calculate-the-impact-of-mip-14-on-moonwell-users/351",
-          "author": null,
-          "description": "Explanation of Methodology to Calculate the Impact of MIP-14 on Moonwell Users",
-          "link": "https://forum.moonwell.fi/t/explanation-of-methodology-to-calculate-the-impact-of-mip-14-on-moonwell-users/351",
-          "publishedOn": "2023-01-07T21:00:02.000Z",
-          "wordCount": 550,
-          "title": "Explanation of Methodology to Calculate the Impact of MIP-14 on Moonwell Users",
-          "imageUrl": "https://europe1.discourse-cdn.com/standard20/uploads/moonwell/original/1X/f160bde7425626c7aece987a24294c0ae362edc8.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
-          "author": null,
-          "description": "Riddle solved: Why was Roman concrete so durable?",
-          "link": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
-          "publishedOn": "2023-01-06T23:30:06.000Z",
-          "wordCount": 2918,
-          "title": "Riddle solved: Why was Roman concrete so durable?",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/MIT-RomanConcrete-01-press.jpg"
         }
       ]
     }
