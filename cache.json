@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.theblock.co/post/200383/coinbase-to-cut-20-of-staff-in-latest-round-of-layoffs",
+          "id": "https://www.theblock.co/post/200397/digital-pound-track-transactions?utm_source=twitter&utm_medium=social",
           "author": null,
-          "description": "Coinbase to cut 20% of staff in latest round of layoffs",
-          "link": "https://www.theblock.co/post/200383/coinbase-to-cut-20-of-staff-in-latest-round-of-layoffs",
-          "publishedOn": "2023-01-10T14:00:07.000Z",
-          "wordCount": 74008,
-          "title": "Coinbase to cut 20% of staff in latest round of layoffs",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221006_Coinbase-1200x675.jpg"
+          "description": "Digital pound won't track retail transactions, UK minister says",
+          "link": "https://www.theblock.co/post/200397/digital-pound-track-transactions?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2023-01-10T15:00:02.000Z",
+          "wordCount": 74302,
+          "title": "Digital pound won't track retail transactions, UK minister says",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211112_CryptoFirms_UK-1200x675.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OKZAg8ovuBg&feature=youtu.be",
+          "author": null,
+          "description": "KZG Ceremony update, Layer 2 chat and more - The Daily Gwei Refuel #521 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=OKZAg8ovuBg&feature=youtu.be",
+          "publishedOn": "2023-01-10T15:00:02.000Z",
+          "wordCount": null,
+          "title": "KZG Ceremony update, Layer 2 chat and more - The Daily Gwei Refuel #521 - Ethereum Updates",
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/sweden-reactivate-civil-conscription-response-ukraine-war",
@@ -61,7 +71,7 @@
           "description": "Solana Plays Pokemon",
           "link": "https://solana.playspokemon.xyz/",
           "publishedOn": "2023-01-10T03:00:03.000Z",
-          "wordCount": 444,
+          "wordCount": 403,
           "title": "Solana Plays Pokemon",
           "imageUrl": "/og-image.png"
         },
@@ -81,7 +91,7 @@
           "description": "How 2023 Will Play Out? Kevin Kelly of Delphi Digital Makes Predictions",
           "link": "https://unchainedcrypto.substack.com/p/how-2023-will-play-out-kevin-kelly",
           "publishedOn": "2023-01-10T01:00:03.000Z",
-          "wordCount": 1491,
+          "wordCount": 1286,
           "title": "How 2023 Will Play Out? Kevin Kelly of Delphi Digital Makes Predictions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F812eaed4-9c23-4310-b8e9-c1da71a2889f_2000x742.jpeg"
         },
@@ -101,9 +111,9 @@
           "description": "Rated Network Explorer",
           "link": "https://www.rated.network/?network=mainnet&view=pool",
           "publishedOn": "2023-01-09T23:30:05.000Z",
-          "wordCount": null,
+          "wordCount": 717,
           "title": "Rated Network Explorer",
-          "imageUrl": null
+          "imageUrl": "/og_rated.png"
         },
         {
           "id": "https://github.com/ethereum/kzg-ceremony",
@@ -111,7 +121,7 @@
           "description": "GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.",
           "link": "https://github.com/ethereum/kzg-ceremony",
           "publishedOn": "2023-01-09T23:00:03.000Z",
-          "wordCount": 932,
+          "wordCount": 930,
           "title": "GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.",
           "imageUrl": "https://opengraph.githubassets.com/2a145442d0203e3ffeb6f94b8e6d278381a603b4eb10e903efcbcccfdadfd9d8/ethereum/kzg-ceremony"
         },
@@ -141,9 +151,19 @@
           "description": "Foundry skip compilation on test",
           "link": "https://ethereum.stackexchange.com/questions/138940/foundry-skip-compilation-on-test/142600#142600",
           "publishedOn": "2023-01-09T22:30:11.000Z",
-          "wordCount": 2567,
+          "wordCount": 2582,
           "title": "Foundry skip compilation on test",
           "imageUrl": "https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon@2.png?v=fa4301ca0e6d"
+        },
+        {
+          "id": "https://multicoin.capital/",
+          "author": null,
+          "description": "Multicoin Capital",
+          "link": "https://multicoin.capital/",
+          "publishedOn": "2023-01-09T21:30:04.000Z",
+          "wordCount": 3273,
+          "title": "Multicoin Capital",
+          "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
         },
         {
           "id": "https://ria.mirror.xyz/zOHZ3iMU9WmK3eZ7J9HEM_4RKoqADRJ6gCWg0dHEI8A",
@@ -163,7 +183,7 @@
           "publishedOn": "2023-01-09T21:00:02.000Z",
           "wordCount": 1089,
           "title": "GitHub - chugsplash/chugsplash: ChugSplash is a modern smart contract deployment system",
-          "imageUrl": "https://opengraph.githubassets.com/60b4c0276710a28aae9663b3ee95d2cb574410188e22b9d56234aa9de1c50470/chugsplash/chugsplash"
+          "imageUrl": "https://opengraph.githubassets.com/8ef7b07edd483e0ba66244e1badc8723ec0fdeb7d16683e17743802d92889826/chugsplash/chugsplash"
         },
         {
           "id": "https://anchor.fm/defidad/episodes/The-Creator-Economy-and-Crypto--Robin-Schmidt-e1t8skd",
@@ -176,16 +196,6 @@
           "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/36285104/36285104-1673278292474-2703fd40446e8.jpg"
         },
         {
-          "id": "https://www.theblock.co/post/200126/metropolitan-commercial-bank-to-close-crypto-vertical",
-          "author": null,
-          "description": "Metropolitan Commercial Bank to close crypto vertical",
-          "link": "https://www.theblock.co/post/200126/metropolitan-commercial-bank-to-close-crypto-vertical",
-          "publishedOn": "2023-01-09T21:00:02.000Z",
-          "wordCount": 74215,
-          "title": "Metropolitan Commercial Bank to close crypto vertical",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/09/20220928_Coin_Generic3-1200x675.jpg"
-        },
-        {
           "id": "https://jameso.be/vaults.pdf",
           "author": null,
           "description": "[PDF] vaults.pdf",
@@ -194,16 +204,6 @@
           "wordCount": 7168,
           "title": "[PDF] vaults.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md",
-          "author": null,
-          "description": "positions-vacant/lighthouse-support.md at master · sigp/positions-vacant",
-          "link": "https://github.com/sigp/positions-vacant/blob/master/lighthouse-support.md",
-          "publishedOn": "2023-01-09T11:30:04.000Z",
-          "wordCount": 885,
-          "title": "positions-vacant/lighthouse-support.md at master · sigp/positions-vacant",
-          "imageUrl": "https://opengraph.githubassets.com/b8c3189676314e6e91e56ee853e82ee759db05af8bebac4c0814b59f13eb4164/sigp/positions-vacant"
         }
       ]
     }
