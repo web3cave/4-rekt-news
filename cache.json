@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/invasion-equation",
+          "author": null,
+          "description": "The Invasion Equation | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/invasion-equation",
+          "publishedOn": "2023-01-10T07:00:03.000Z",
+          "wordCount": 4248,
+          "title": "The Invasion Equation | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://omilos.xyz/",
           "author": null,
           "description": "Omilos",
@@ -14,16 +24,6 @@
           "wordCount": 3,
           "title": "Omilos",
           "imageUrl": null
-        },
-        {
-          "id": "https://ergodriven.com/products/topo",
-          "author": null,
-          "description": "Topo | The Not-Flat Standing Desk Anti-Fatigue Mat with Calculated Terrain",
-          "link": "https://ergodriven.com/products/topo",
-          "publishedOn": "2023-01-10T05:30:06.000Z",
-          "wordCount": 9411,
-          "title": "Topo | The Not-Flat Standing Desk Anti-Fatigue Mat with Calculated Terrain",
-          "imageUrl": "https://cdn.shopify.com/s/files/1/1117/2112/products/81fqp89oVwL._SL1500_-2_1200x1200.jpg?v=1572560659"
         },
         {
           "id": "https://uploads-ssl.webflow.com/62b410f72575270ae041ad9b/63bc2fb1121a41e57178a121_Ajna_Protocol_Whitepaper_01-09-2023.pdf",
@@ -71,7 +71,7 @@
           "description": "How 2023 Will Play Out? Kevin Kelly of Delphi Digital Makes Predictions",
           "link": "https://unchainedcrypto.substack.com/p/how-2023-will-play-out-kevin-kelly",
           "publishedOn": "2023-01-10T01:00:03.000Z",
-          "wordCount": 1490,
+          "wordCount": 1285,
           "title": "How 2023 Will Play Out? Kevin Kelly of Delphi Digital Makes Predictions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F812eaed4-9c23-4310-b8e9-c1da71a2889f_2000x742.jpeg"
         },
@@ -93,7 +93,7 @@
           "publishedOn": "2023-01-09T23:00:03.000Z",
           "wordCount": 932,
           "title": "GitHub - ethereum/kzg-ceremony: Resources and documentation related to the planned Ethereum KZG Ceremony.",
-          "imageUrl": "https://opengraph.githubassets.com/a0d75cd0d1d0e63d8cc4eb4d7c11a2ac1ad7b57cba177fa252e97e838b616ff3/ethereum/kzg-ceremony"
+          "imageUrl": "https://opengraph.githubassets.com/ee7ee8e9c5a2f7abcc52aefb48bf4a90b04b06e1b5f42d9435521cbb365eec8c/ethereum/kzg-ceremony"
         },
         {
           "id": "https://pleasr.house/",
@@ -121,7 +121,7 @@
           "description": "Foundry skip compilation on test",
           "link": "https://ethereum.stackexchange.com/questions/138940/foundry-skip-compilation-on-test/142600#142600",
           "publishedOn": "2023-01-09T22:30:11.000Z",
-          "wordCount": 2589,
+          "wordCount": 2639,
           "title": "Foundry skip compilation on test",
           "imageUrl": "https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon@2.png?v=fa4301ca0e6d"
         },
@@ -151,7 +151,7 @@
           "description": "GitHub - chugsplash/chugsplash: ChugSplash is a modern smart contract deployment system",
           "link": "https://github.com/chugsplash/chugsplash",
           "publishedOn": "2023-01-09T21:00:02.000Z",
-          "wordCount": 1226,
+          "wordCount": 1080,
           "title": "GitHub - chugsplash/chugsplash: ChugSplash is a modern smart contract deployment system",
           "imageUrl": "https://opengraph.githubassets.com/55602e30841912c5212d69d39e2e6a9ee9e4d0dfa7a6be29c6e795630fdf4dd4/chugsplash/chugsplash"
         },
