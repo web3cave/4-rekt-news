@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethunwr.app/",
+          "author": null,
+          "description": "EthUnwrapp - Unwrapp the blockchain!",
+          "link": "https://ethunwr.app/",
+          "publishedOn": "2023-01-11T16:00:07.000Z",
+          "wordCount": 113,
+          "title": "EthUnwrapp - Unwrapp the blockchain!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/policy/2023/01/11/ftx-has-recovered-over-5b-in-assets-bankruptcy-attorney-says/?utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main",
           "author": null,
           "description": "FTX Has Recovered 'Over $5B' in Assets, Bankruptcy Attorney Says",
           "link": "https://www.coindesk.com/policy/2023/01/11/ftx-has-recovered-over-5b-in-assets-bankruptcy-attorney-says/?utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main",
           "publishedOn": "2023-01-11T15:30:05.000Z",
-          "wordCount": 21153,
+          "wordCount": 21138,
           "title": "FTX Has Recovered 'Over $5B' in Assets, Bankruptcy Attorney Says",
           "imageUrl": "https://www.coindesk.com/resizer/hHFP6YNqLWB6YbTnkKrek_arQGU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/I6DKMXAASJEHNOINN7JVDBHS3E.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "Binance CEO outlines ambitions to grow headcount by up to 30% in 2023",
           "link": "https://www.theblock.co/post/200837/binance-ceo-outlines-ambitions-to-scale?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-11T14:00:05.000Z",
-          "wordCount": 72780,
+          "wordCount": 73495,
           "title": "Binance CEO outlines ambitions to grow headcount by up to 30% in 2023",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221109_CZ-Binance-1200x675.jpg"
         },
@@ -41,19 +51,9 @@
           "description": "[PDF] Stader ETH Litepaper.pdf",
           "link": "https://www.staderlabs.com/docs/eth/Stader%20ETH%20Litepaper.pdf",
           "publishedOn": "2023-01-11T14:00:05.000Z",
-          "wordCount": 81129,
+          "wordCount": null,
           "title": "[PDF] Stader ETH Litepaper.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://axie.substack.com/p/developer-portal",
-          "author": null,
-          "description": "Introducing: The Sky Mavis Developer Portal",
-          "link": "https://axie.substack.com/p/developer-portal",
-          "publishedOn": "2023-01-11T13:30:04.000Z",
-          "wordCount": 1656,
-          "title": "Introducing: The Sky Mavis Developer Portal",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4786861d-b131-42be-8758-bc4f87ee96a7_3001x1001.webp"
         },
         {
           "id": "https://delegate.cash/",
@@ -141,7 +141,7 @@
           "description": "Barry Silbert defends DCG in response to Gemini's Winklevoss",
           "link": "https://www.theblock.co/post/200629/barry-silbert-defends-dcg-in-response-to-geminis-winklevoss?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-10T21:00:03.000Z",
-          "wordCount": 74343,
+          "wordCount": 75058,
           "title": "Barry Silbert defends DCG in response to Gemini's Winklevoss",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201221_DCG-Daily-1200x675.jpg"
         },
