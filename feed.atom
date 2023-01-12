@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T22:18:55.455Z</id>
+    <id>urn:2023-01-12T23:19:42.749Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T22:18:55.455Z</updated>
+    <updated>2023-01-12T23:19:42.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[micro1 x ben simon]]></title>
-        <id>https://www.micro1.ai/partners/ben-simon</id>
-        <link href="https://www.micro1.ai/partners/ben-simon"/>
-        <updated>2023-01-12T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[micro1 x ben simon]]></summary>
+        <title type="html"><![CDATA[Christopher Walken   The Lion Speech]]></title>
+        <id>https://www.youtube.com/watch?v=4KB2xignE6c</id>
+        <link href="https://www.youtube.com/watch?v=4KB2xignE6c"/>
+        <updated>2023-01-12T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Christopher Walken   The Lion Speech]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating secure randomness on Ethereum using SNARKs - Paradigm]]></title>
+        <id>https://www.paradigm.xyz/2023/01/eth-rng</id>
+        <link href="https://www.paradigm.xyz/2023/01/eth-rng"/>
+        <updated>2023-01-12T22:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Generating secure randomness on Ethereum using SNARKs - Paradigm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://medium.com/starkware/papyrus-an-open-source-starknet-full-node-396f7cd90202"/>
         <updated>2023-01-11T15:30:05.000Z</updated>
         <summary type="html"><![CDATA[Papyrus: An Open-Source StarkNet Full Node]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Tokenized US Treasuries and Bonds]]></title>
-        <id>https://blog.ondo.finance/announcing-tokenized-us-treasuries-and-bonds/</id>
-        <link href="https://blog.ondo.finance/announcing-tokenized-us-treasuries-and-bonds/"/>
-        <updated>2023-01-10T19:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Tokenized US Treasuries and Bonds]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.micro1.ai/partners/ben-simon",
+          "id": "https://www.youtube.com/watch?v=4KB2xignE6c",
           "author": null,
-          "description": "micro1 x ben simon",
-          "link": "https://www.micro1.ai/partners/ben-simon",
-          "publishedOn": "2023-01-12T22:00:05.000Z",
-          "wordCount": 3227,
-          "title": "micro1 x ben simon",
-          "imageUrl": "https://assets.website-files.com/632a6ffabd6820ec560a3c0c/632a6ffabd682049340a3f82_OGPartnerpage.png"
+          "description": "Christopher Walken   The Lion Speech",
+          "link": "https://www.youtube.com/watch?v=4KB2xignE6c",
+          "publishedOn": "2023-01-12T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Christopher Walken   The Lion Speech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.paradigm.xyz/2023/01/eth-rng",
+          "author": null,
+          "description": "Generating secure randomness on Ethereum using SNARKs - Paradigm",
+          "link": "https://www.paradigm.xyz/2023/01/eth-rng",
+          "publishedOn": "2023-01-12T22:30:05.000Z",
+          "wordCount": 8113,
+          "title": "Generating secure randomness on Ethereum using SNARKs - Paradigm",
+          "imageUrl": "https://paradigm.xyz/static/ethrng-cover.png"
         },
         {
           "id": "https://www.theblock.co/post/201674/alameda-liquidators-get-liquidated-on-aave-as-they-try-to-consolidate-funds",
@@ -21,7 +31,7 @@
           "description": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "link": "https://www.theblock.co/post/201674/alameda-liquidators-get-liquidated-on-aave-as-they-try-to-consolidate-funds",
           "publishedOn": "2023-01-12T21:00:02.000Z",
-          "wordCount": 73231,
+          "wordCount": 73678,
           "title": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3-1200x675.png"
         },
@@ -113,7 +123,7 @@
           "publishedOn": "2023-01-12T17:00:03.000Z",
           "wordCount": 4977,
           "title": "Meditations on Mayhem — Syncracy Capital",
-          "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/638a20a6345ea9263fe1e058/63bee95172a96f6021f6215c/1673560519292/MeditationsOnMayhem-01.jpg?format=1500w"
+          "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/638a20a6345ea9263fe1e058/63bee95172a96f6021f6215c/1673564163460/MeditationsOnMayhem-01.jpg?format=1500w"
         },
         {
           "id": "https://github.com/rotki/rotki",
@@ -121,9 +131,9 @@
           "description": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
           "link": "https://github.com/rotki/rotki",
           "publishedOn": "2023-01-12T17:00:03.000Z",
-          "wordCount": 1292,
+          "wordCount": 1042,
           "title": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
-          "imageUrl": "https://opengraph.githubassets.com/3edb57efcf34cad8d948d65ff32201e12c02141e5b7f8417d2061e7a63de95c2/rotki/rotki"
+          "imageUrl": "https://opengraph.githubassets.com/75827f4b3e958986e945a67df603e6ad69562e7b4f0b5196294b34b91f14efc4/rotki/rotki"
         },
         {
           "id": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
@@ -131,7 +141,7 @@
           "description": "FTX Pre-Mortem Overview",
           "link": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
           "publishedOn": "2023-01-12T15:00:02.000Z",
-          "wordCount": 5732,
+          "wordCount": 5726,
           "title": "FTX Pre-Mortem Overview",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05b65e4e-6d88-443a-bd38-f5282010b785_869x428.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 2126,
           "title": "Papyrus: An Open-Source StarkNet Full Node",
           "imageUrl": "https://miro.medium.com/max/1200/1*3YrSkhKzNIrYg_1tAsh-NA.png"
-        },
-        {
-          "id": "https://blog.ondo.finance/announcing-tokenized-us-treasuries-and-bonds/",
-          "author": null,
-          "description": "Announcing Tokenized US Treasuries and Bonds",
-          "link": "https://blog.ondo.finance/announcing-tokenized-us-treasuries-and-bonds/",
-          "publishedOn": "2023-01-10T19:00:03.000Z",
-          "wordCount": 909,
-          "title": "Announcing Tokenized US Treasuries and Bonds",
-          "imageUrl": "https://blog.ondo.finance/content/images/2023/01/blog-1-1-1.png"
         }
       ]
     }
