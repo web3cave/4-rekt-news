@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T23:18:45.741Z</id>
+    <id>urn:2023-01-12T01:37:57.835Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T23:18:45.741Z</updated>
+    <updated>2023-01-12T01:37:57.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Signing Data | MetaMask Docs]]></title>
+        <id>https://docs.metamask.io/guide/signing-data.html</id>
+        <link href="https://docs.metamask.io/guide/signing-data.html"/>
+        <updated>2023-01-12T01:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Signing Data | MetaMask Docs]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Governance Portal]]></title>
         <id>https://vote.makerdao.com/polling/Qma4jEPY</id>
@@ -36,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[State of DeFi 2023]]></title>
+        <id>https://stateofdefi.org/</id>
+        <link href="https://stateofdefi.org/"/>
+        <updated>2023-01-11T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[State of DeFi 2023]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub - PaymagicXYZ/awesome-account-abstraction: Curated list of awesome resources for account abstraction.]]></title>
         <id>https://github.com/PaymagicXYZ/awesome-account-abstraction</id>
         <link href="https://github.com/PaymagicXYZ/awesome-account-abstraction"/>
@@ -56,21 +76,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MYSO v1: Mainnet Launch + Referral Program]]></title>
-        <id>https://medium.com/mysofinance/myso-v1-mainnet-launch-referral-program-dfd100ce807a</id>
-        <link href="https://medium.com/mysofinance/myso-v1-mainnet-launch-referral-program-dfd100ce807a"/>
-        <updated>2023-01-11T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[MYSO v1: Mainnet Launch + Referral Program]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Papyrus: An Open-Source StarkNet Full Node]]></title>
         <id>https://medium.com/starkware/papyrus-an-open-source-starknet-full-node-396f7cd90202</id>
         <link href="https://medium.com/starkware/papyrus-an-open-source-starknet-full-node-396f7cd90202"/>
         <updated>2023-01-11T15:30:05.000Z</updated>
         <summary type="html"><![CDATA[Papyrus: An Open-Source StarkNet Full Node]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Political party affiliation and inflation expectations]]></title>
+        <id>https://www.brookings.edu/2023/01/09/political-party-affiliation-and-inflation-expectations/</id>
+        <link href="https://www.brookings.edu/2023/01/09/political-party-affiliation-and-inflation-expectations/"/>
+        <updated>2023-01-11T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Political party affiliation and inflation expectations]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silvergate Bank loaded up on $4.3 billion in Home Loan bank advances]]></title>
+        <id>https://www.americanbanker.com/news/silvergate-bank-loaded-up-on-4-3-billion-in-fhlb-advances</id>
+        <link href="https://www.americanbanker.com/news/silvergate-bank-loaded-up-on-4-3-billion-in-fhlb-advances"/>
+        <updated>2023-01-11T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Silvergate Bank loaded up on $4.3 billion in Home Loan bank advances]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -116,26 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humanloop – The platform for GPT-3 applications]]></title>
-        <id>https://humanloop.com/</id>
-        <link href="https://humanloop.com/"/>
-        <updated>2023-01-11T03:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Humanloop – The platform for GPT-3 applications]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoPunks: Details for Punk #4608]]></title>
-        <id>https://cryptopunks.app/cryptopunks/details/4608</id>
-        <link href="https://cryptopunks.app/cryptopunks/details/4608"/>
-        <updated>2023-01-11T03:00:08.000Z</updated>
-        <summary type="html"><![CDATA[CryptoPunks: Details for Punk #4608]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warm Wallet]]></title>
         <id>https://warm.xyz/</id>
         <link href="https://warm.xyz/"/>
@@ -171,16 +181,6 @@
         <link href="https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36"/>
         <updated>2023-01-10T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[MEV: The Next Five Years]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: Opt-In Programmable Royalties (and more) Through Staking by Limit Break]]></title>
-        <id>https://medium.com/limit-break/introducing-opt-in-programmable-royalties-and-more-through-staking-by-limit-break-3a166e3749e3</id>
-        <link href="https://medium.com/limit-break/introducing-opt-in-programmable-royalties-and-more-through-staking-by-limit-break-3a166e3749e3"/>
-        <updated>2023-01-10T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Introducing: Opt-In Programmable Royalties (and more) Through Staking by Limit Break]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
