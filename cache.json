@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4KB2xignE6c",
+          "author": null,
+          "description": "Christopher Walken   The Lion Speech",
+          "link": "https://www.youtube.com/watch?v=4KB2xignE6c",
+          "publishedOn": "2023-01-13T11:00:11.000Z",
+          "wordCount": null,
+          "title": "Christopher Walken   The Lion Speech",
+          "imageUrl": null
+        },
+        {
           "id": "https://messaritheses23.transistor.fm/",
           "author": null,
           "description": "Messari’s Crypto Theses For 2023",
@@ -41,19 +51,9 @@
           "description": "SEC Alleges Gemini, Genesis Sold Unregistered Securities",
           "link": "https://www.coindesk.com/policy/2023/01/12/sec-alleges-gemini-genesis-sold-unregistered-securities/?utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter",
           "publishedOn": "2023-01-13T01:00:08.000Z",
-          "wordCount": 21183,
+          "wordCount": 21283,
           "title": "SEC Alleges Gemini, Genesis Sold Unregistered Securities",
           "imageUrl": "https://www.coindesk.com/resizer/8WlH9Fim_P18nA2K47Dlsld3kEA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T7OHYTQWTZDGRLI7FZFF4FLJ6M.jpg"
-        },
-        {
-          "id": "https://www.cnbc.com/2023/01/12/sec-charges-genesis-and-gemini-with-selling-unregistered-securities.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1673560928",
-          "author": null,
-          "description": "Crypto firms Genesis and Gemini charged by SEC with selling unregistered securities",
-          "link": "https://www.cnbc.com/2023/01/12/sec-charges-genesis-and-gemini-with-selling-unregistered-securities.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1673560928",
-          "publishedOn": "2023-01-13T01:00:08.000Z",
-          "wordCount": 17885,
-          "title": "Crypto firms Genesis and Gemini charged by SEC with selling unregistered securities",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107005991-1643125344805-gettyimages-1235252261-USA-CONGRESSSEC.jpeg?v=1673560844&w=1920&h=1080"
         },
         {
           "id": "https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering?utm_source=twitter&utm_medium=social",
@@ -61,7 +61,7 @@
           "description": "SEC charges Gemini and Genesis with unregistered securities offering",
           "link": "https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-13T01:00:07.000Z",
-          "wordCount": 71836,
+          "wordCount": 71558,
           "title": "SEC charges Gemini and Genesis with unregistered securities offering",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211029_SEC_General4-1200x675.jpg"
         },
@@ -81,9 +81,9 @@
           "description": "GitHub - tendermint/tendermint: ⟁ Tendermint Core (BFT Consensus) in Go",
           "link": "https://github.com/tendermint/tendermint",
           "publishedOn": "2023-01-12T23:30:05.000Z",
-          "wordCount": 1304,
+          "wordCount": 1969,
           "title": "GitHub - tendermint/tendermint: ⟁ Tendermint Core (BFT Consensus) in Go",
-          "imageUrl": "https://opengraph.githubassets.com/9dffe1cea9c5a51594b02d868f67be50aeba1f5636a52eff73389e9f153c095f/tendermint/tendermint"
+          "imageUrl": "https://opengraph.githubassets.com/28802a7e49ac44ef92fb3d761042b78a006629911bb65626ad96188da0d7c0ca/tendermint/tendermint"
         },
         {
           "id": "https://www.paradigm.xyz/2023/01/eth-rng",
@@ -101,7 +101,7 @@
           "description": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "link": "https://www.theblock.co/post/201674/alameda-liquidators-get-liquidated-on-aave-as-they-try-to-consolidate-funds",
           "publishedOn": "2023-01-12T21:00:02.000Z",
-          "wordCount": 71956,
+          "wordCount": 71678,
           "title": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3-1200x675.png"
         },
@@ -121,7 +121,7 @@
           "description": "Homage",
           "link": "https://www.homage.xyz/",
           "publishedOn": "2023-01-12T19:00:02.000Z",
-          "wordCount": 469,
+          "wordCount": 471,
           "title": "Homage",
           "imageUrl": null
         },
@@ -134,6 +134,16 @@
           "wordCount": 700,
           "title": "Octav",
           "imageUrl": "https://undefined/logoOG.png"
+        },
+        {
+          "id": "https://dune.ora.so/",
+          "author": null,
+          "description": "Ora | Search Dune",
+          "link": "https://dune.ora.so/",
+          "publishedOn": "2023-01-12T19:00:02.000Z",
+          "wordCount": 31,
+          "title": "Ora | Search Dune",
+          "imageUrl": null
         },
         {
           "id": "https://a16zcrypto.com/progressive-decentralization-a-high-level-framework/",
@@ -151,7 +161,7 @@
           "description": "Police Operation against Cryptocurrency Company NEXO in Bulgaria’s Capital (UPDATED) - Novinite.com - Sofia News Agency",
           "link": "https://m.novinite.com/view_news.php?id=218388",
           "publishedOn": "2023-01-12T18:00:07.000Z",
-          "wordCount": 956,
+          "wordCount": 964,
           "title": "Police Operation against Cryptocurrency Company NEXO in Bulgaria’s Capital (UPDATED) - Novinite.com - Sofia News Agency",
           "imageUrl": "https://www.novinite.com/media/images/2023-01/photo_verybig_218388.jpg"
         },
@@ -166,22 +176,12 @@
           "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/638a20a6345ea9263fe1e058/63bee95172a96f6021f6215c/1673564163460/MeditationsOnMayhem-01.jpg?format=1500w"
         },
         {
-          "id": "https://github.com/rotki/rotki",
-          "author": null,
-          "description": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
-          "link": "https://github.com/rotki/rotki",
-          "publishedOn": "2023-01-12T17:00:03.000Z",
-          "wordCount": 1021,
-          "title": "GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and tax reporting application that protects your...",
-          "imageUrl": "https://opengraph.githubassets.com/6cf6cf779d4da305042afee66b2743430adc0d3a2672b0fa0af993b470c91bc5/rotki/rotki"
-        },
-        {
           "id": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
           "author": null,
           "description": "FTX Pre-Mortem Overview",
           "link": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
           "publishedOn": "2023-01-12T15:00:02.000Z",
-          "wordCount": 5730,
+          "wordCount": 5732,
           "title": "FTX Pre-Mortem Overview",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05b65e4e-6d88-443a-bd38-f5282010b785_869x428.png"
         },
