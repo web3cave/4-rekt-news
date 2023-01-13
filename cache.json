@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://zksync.io/",
+          "author": null,
+          "description": "zkSync — Accelerating the mass adoption of crypto for personal sovereignty.",
+          "link": "https://zksync.io/",
+          "publishedOn": "2023-01-13T19:00:03.000Z",
+          "wordCount": 1868,
+          "title": "zkSync — Accelerating the mass adoption of crypto for personal sovereignty.",
+          "imageUrl": "https://zksync.io/img/social-share.png"
+        },
+        {
+          "id": "https://chamathreads.substack.com/p/what-i-read-this-week-508?sd=pf",
+          "author": null,
+          "description": "What I read this week...",
+          "link": "https://chamathreads.substack.com/p/what-i-read-this-week-508?sd=pf",
+          "publishedOn": "2023-01-13T19:00:03.000Z",
+          "wordCount": 2091,
+          "title": "What I read this week...",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmNZaeuWIAAFfwl.jpg"
+        },
+        {
           "id": "https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/",
           "author": null,
           "description": "Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto",
@@ -61,7 +81,7 @@
           "description": "SEC Alleges Gemini, Genesis Sold Unregistered Securities",
           "link": "https://www.coindesk.com/policy/2023/01/12/sec-alleges-gemini-genesis-sold-unregistered-securities/?utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter",
           "publishedOn": "2023-01-13T01:00:08.000Z",
-          "wordCount": 21879,
+          "wordCount": 21884,
           "title": "SEC Alleges Gemini, Genesis Sold Unregistered Securities",
           "imageUrl": "https://www.coindesk.com/resizer/8WlH9Fim_P18nA2K47Dlsld3kEA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T7OHYTQWTZDGRLI7FZFF4FLJ6M.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "Crypto firms Genesis and Gemini charged by SEC with selling unregistered securities",
           "link": "https://www.cnbc.com/2023/01/12/sec-charges-genesis-and-gemini-with-selling-unregistered-securities.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1673560928",
           "publishedOn": "2023-01-13T01:00:08.000Z",
-          "wordCount": 17841,
+          "wordCount": 17853,
           "title": "Crypto firms Genesis and Gemini charged by SEC with selling unregistered securities",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107005991-1643125344805-gettyimages-1235252261-USA-CONGRESSSEC.jpeg?v=1673560844&w=1920&h=1080"
         },
@@ -86,22 +106,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.sec.gov/litigation/complaints/2023/comp-pr2023-7.pdf",
-          "author": null,
-          "description": "[PDF] .",
-          "link": "https://www.sec.gov/litigation/complaints/2023/comp-pr2023-7.pdf",
-          "publishedOn": "2023-01-13T01:00:08.000Z",
-          "wordCount": 19278,
-          "title": "[PDF] .",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "SEC charges Gemini and Genesis with unregistered securities offering",
           "link": "https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-13T01:00:07.000Z",
-          "wordCount": 73748,
+          "wordCount": 73701,
           "title": "SEC charges Gemini and Genesis with unregistered securities offering",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/11/211029_SEC_General4-1200x675.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "link": "https://www.theblock.co/post/201674/alameda-liquidators-get-liquidated-on-aave-as-they-try-to-consolidate-funds",
           "publishedOn": "2023-01-12T21:00:02.000Z",
-          "wordCount": 73868,
+          "wordCount": 73821,
           "title": "Alameda liquidators get liquidated on Aave as they try to consolidate funds",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210517_Hack_Generic_3-1200x675.png"
         },
@@ -161,7 +171,7 @@
           "description": "Homage",
           "link": "https://www.homage.xyz/",
           "publishedOn": "2023-01-12T19:00:02.000Z",
-          "wordCount": 481,
+          "wordCount": 475,
           "title": "Homage",
           "imageUrl": null
         },
@@ -184,16 +194,6 @@
           "wordCount": 4977,
           "title": "Meditations on Mayhem — Syncracy Capital",
           "imageUrl": "http://static1.squarespace.com/static/63857484f91d71181b02f971/638a20a6345ea9263fe1e058/63bee95172a96f6021f6215c/1673564163460/MeditationsOnMayhem-01.jpg?format=1500w"
-        },
-        {
-          "id": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
-          "author": null,
-          "description": "FTX Pre-Mortem Overview",
-          "link": "https://sambf.substack.com/p/ftx-pre-mortem-overview",
-          "publishedOn": "2023-01-12T15:00:02.000Z",
-          "wordCount": 5731,
-          "title": "FTX Pre-Mortem Overview",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05b65e4e-6d88-443a-bd38-f5282010b785_869x428.png"
         },
         {
           "id": "https://ceremony.ethereum.org/",
