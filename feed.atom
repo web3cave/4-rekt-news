@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T15:20:05.860Z</id>
+    <id>urn:2023-01-13T16:30:24.741Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T15:20:05.860Z</updated>
+    <updated>2023-01-13T16:30:24.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://www.sec.gov/news/press-release/2023-7"/>
         <updated>2023-01-13T01:00:08.000Z</updated>
         <summary type="html"><![CDATA[SEC.gov | SEC Charges Genesis and Gemini for the Unregistered Offer and Sale of Crypto Asset Securities through the...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PDF] .]]></title>
+        <id>https://www.sec.gov/litigation/complaints/2023/comp-pr2023-7.pdf</id>
+        <link href="https://www.sec.gov/litigation/complaints/2023/comp-pr2023-7.pdf"/>
+        <updated>2023-01-13T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] .]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://www.homage.xyz/"/>
         <updated>2023-01-12T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[Homage]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Octav]]></title>
-        <id>https://octav.fi/</id>
-        <link href="https://octav.fi/"/>
-        <updated>2023-01-12T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Octav]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
