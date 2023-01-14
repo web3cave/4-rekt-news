@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T09:16:30.161Z</id>
+    <id>urn:2023-01-14T10:18:44.595Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-14T09:16:30.161Z</updated>
+    <updated>2023-01-14T10:18:44.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave - Open Source Liquidity Protocol]]></title>
+        <id>https://app.aave.com/</id>
+        <link href="https://app.aave.com/"/>
+        <updated>2023-01-14T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Aave - Open Source Liquidity Protocol]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introduction to Surge: Protocol Overview]]></title>
         <id>https://medium.com/surge-fi/introduction-to-surge-protocol-overview-34cc828d7c50</id>
@@ -51,16 +61,6 @@
         <link href="https://starkwaresessions.co/"/>
         <updated>2023-01-14T02:00:05.000Z</updated>
         <summary type="html"><![CDATA[Starkware sessions 2023]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Proof of Stake Ethereum Works]]></title>
-        <id>https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works</id>
-        <link href="https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works"/>
-        <updated>2023-01-14T01:30:04.000Z</updated>
-        <summary type="html"><![CDATA[How Proof of Stake Ethereum Works]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
