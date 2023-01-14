@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JjmWZZs3KZo&feature=youtu.be",
+          "author": null,
+          "description": "On the separation of state and economics - Ayn Rand",
+          "link": "https://www.youtube.com/watch?v=JjmWZZs3KZo&feature=youtu.be",
+          "publishedOn": "2023-01-14T13:30:04.000Z",
+          "wordCount": null,
+          "title": "On the separation of state and economics - Ayn Rand",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/202374/justin-sun-eyes-up-to-1-billion-spend-on-dcg-assets-reuters?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Justin Sun eyes up to $1 billion spend on DCG assets: Reuters",
           "link": "https://www.theblock.co/post/202374/justin-sun-eyes-up-to-1-billion-spend-on-dcg-assets-reuters?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-14T13:00:03.000Z",
-          "wordCount": 63059,
+          "wordCount": 63062,
           "title": "Justin Sun eyes up to $1 billion spend on DCG assets: Reuters",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/Justin-Sun-getty-3-1200x675.jpg"
         },
@@ -111,9 +121,9 @@
           "description": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
           "link": "https://github.com/a16z/awesome-farcaster",
           "publishedOn": "2023-01-13T23:00:02.000Z",
-          "wordCount": 1215,
+          "wordCount": 1213,
           "title": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
-          "imageUrl": "https://opengraph.githubassets.com/c12f23903579bf8e87e2165dd5e66b72da9c0bb96f412aa4d678c361271fec27/a16z/awesome-farcaster"
+          "imageUrl": "https://opengraph.githubassets.com/047f45c88c77c97d3cddc11beca659cfc9ab84bcabf5e90daa57ca8627ceeed8/a16z/awesome-farcaster"
         },
         {
           "id": "https://blog.marsprotocol.io/blog/mars-hub-testnet-goes-live-100000-bounties-up-for-grabs",
@@ -131,7 +141,7 @@
           "description": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
           "link": "https://www.theblock.co/post/201767/metamask-staking-beta-now-live-with-lido-and-rocket-pool-consensys-says?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 63689,
+          "wordCount": 63692,
           "title": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/metamask-1200x675.png"
         },
@@ -151,7 +161,7 @@
           "description": "Cardano and its Future in the Smart Contract Platform Space - A Detailed Analysis",
           "link": "https://vagabond.substack.com/p/cardano-and-its-future-in-the-smart",
           "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 5770,
+          "wordCount": 5768,
           "title": "Cardano and its Future in the Smart Contract Platform Space - A Detailed Analysis",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfce7ca0-813b-41b6-b39c-ae4d1176b6e8_900x1200.jpeg"
         },
@@ -174,16 +184,6 @@
           "wordCount": 14957,
           "title": "Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto",
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/01/lede_Getty-92920389.jpeg?resize=1200,600"
-        },
-        {
-          "id": "https://www.paradigm.xyz/2023/01/eth-rng",
-          "author": null,
-          "description": "Generating secure randomness on Ethereum using SNARKs - Paradigm",
-          "link": "https://www.paradigm.xyz/2023/01/eth-rng",
-          "publishedOn": "2023-01-12T22:30:05.000Z",
-          "wordCount": 8113,
-          "title": "Generating secure randomness on Ethereum using SNARKs - Paradigm",
-          "imageUrl": "https://paradigm.xyz/static/ethrng-cover.png"
         },
         {
           "id": "https://blog.fluxfinance.com/announcing-flux-finance-defi-meets-real-world-assets/",
