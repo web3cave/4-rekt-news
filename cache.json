@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://go.theblock.co/pro-demo-request",
+          "author": null,
+          "description": "The Block",
+          "link": "https://go.theblock.co/pro-demo-request",
+          "publishedOn": "2023-01-14T11:00:03.000Z",
+          "wordCount": 1577,
+          "title": "The Block",
+          "imageUrl": null
+        },
+        {
           "id": "https://app.aave.com/",
           "author": null,
           "description": "Aave - Open Source Liquidity Protocol",
@@ -26,16 +36,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*FWtiXv-iz9G70obWmZEXJg.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=E73caWunOVE&t=1s",
-          "author": null,
-          "description": "The Only Way To Stop Diego Armando Maradona",
-          "link": "https://www.youtube.com/watch?v=E73caWunOVE&t=1s",
-          "publishedOn": "2023-01-14T06:30:02.000Z",
-          "wordCount": null,
-          "title": "The Only Way To Stop Diego Armando Maradona",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.superabundance.com/",
           "author": null,
           "description": "Superabundance: Population Growth, Innovation, and Human Flourishing",
@@ -46,16 +46,6 @@
           "imageUrl": "https://static.wixstatic.com/media/7873d3_a37734257d92474aa480449ed6890607%7Emv2.png/v1/fit/w_2500,h_1330,al_c/7873d3_a37734257d92474aa480449ed6890607%7Emv2.png"
         },
         {
-          "id": "https://www.zerohedge.com/political/nixon-threatened-reveal-cias-involvement-kennedy-assassination-roger-stone-claims",
-          "author": null,
-          "description": "Nixon Threatened To Reveal CIA's Involvement In Kennedy Assassination, Roger Stone Claims | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/nixon-threatened-reveal-cias-involvement-kennedy-assassination-roger-stone-claims",
-          "publishedOn": "2023-01-14T06:00:05.000Z",
-          "wordCount": 1241,
-          "title": "Nixon Threatened To Reveal CIA's Involvement In Kennedy Assassination, Roger Stone Claims | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://starkwaresessions.co/",
           "author": null,
           "description": "Starkware sessions 2023",
@@ -64,6 +54,16 @@
           "wordCount": 1163,
           "title": "Starkware sessions 2023",
           "imageUrl": "https://starkwaresessions.co/wp-content/uploads/2023/01/Social.png"
+        },
+        {
+          "id": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
+          "author": null,
+          "description": "How Proof of Stake Ethereum Works",
+          "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
+          "publishedOn": "2023-01-14T01:30:04.000Z",
+          "wordCount": 1867,
+          "title": "How Proof of Stake Ethereum Works",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
         {
           "id": "https://koreajoongangdaily.joins.com/2022/12/15/business/economy/korea-apartment-property/20221215162841416.html",
@@ -81,7 +81,7 @@
           "description": "OurNetwork #152",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-152",
           "publishedOn": "2023-01-13T23:30:07.000Z",
-          "wordCount": 2769,
+          "wordCount": 2974,
           "title": "OurNetwork #152",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3af59453-c39a-4367-b15f-9355f8093ccb_420x300.jpeg"
         },
@@ -111,7 +111,7 @@
           "description": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
           "link": "https://github.com/a16z/awesome-farcaster",
           "publishedOn": "2023-01-13T23:00:02.000Z",
-          "wordCount": 1213,
+          "wordCount": 1224,
           "title": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
           "imageUrl": "https://opengraph.githubassets.com/f5471c464ba9f62e463e259d3f2fb609e6e75b133c20dd0d7a60104bc4f4e4c6/a16z/awesome-farcaster"
         },
@@ -131,7 +131,7 @@
           "description": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
           "link": "https://www.theblock.co/post/201767/metamask-staking-beta-now-live-with-lido-and-rocket-pool-consensys-says?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 62557,
+          "wordCount": 63038,
           "title": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/metamask-1200x675.png"
         },
@@ -151,7 +151,7 @@
           "description": "Cardano and its Future in the Smart Contract Platform Space - A Detailed Analysis",
           "link": "https://vagabond.substack.com/p/cardano-and-its-future-in-the-smart",
           "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 5769,
+          "wordCount": 5975,
           "title": "Cardano and its Future in the Smart Contract Platform Space - A Detailed Analysis",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfce7ca0-813b-41b6-b39c-ae4d1176b6e8_900x1200.jpeg"
         },
