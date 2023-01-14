@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Lk5ByPl9Zo&feature=youtu.be",
+          "author": null,
+          "description": "Run-Around",
+          "link": "https://www.youtube.com/watch?v=7Lk5ByPl9Zo&feature=youtu.be",
+          "publishedOn": "2023-01-14T20:00:04.000Z",
+          "wordCount": null,
+          "title": "Run-Around",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ALl8xj5hG8Q",
+          "author": null,
+          "description": "Making Pluralism Practical (Kevin Owocki)",
+          "link": "https://www.youtube.com/watch?v=ALl8xj5hG8Q",
+          "publishedOn": "2023-01-14T20:00:04.000Z",
+          "wordCount": null,
+          "title": "Making Pluralism Practical (Kevin Owocki)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WiLWc9wWylU&feature=youtu.be",
           "author": null,
           "description": "The Chopping Block: Why Gemini Users Are Mad at Genesis and DCG - Ep. 443",
@@ -121,7 +141,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-14T01:30:04.000Z",
-          "wordCount": 1660,
+          "wordCount": 1659,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
@@ -141,7 +161,7 @@
           "description": "OurNetwork #152",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-152",
           "publishedOn": "2023-01-13T23:30:07.000Z",
-          "wordCount": 2770,
+          "wordCount": 2768,
           "title": "OurNetwork #152",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3af59453-c39a-4367-b15f-9355f8093ccb_420x300.jpeg"
         },
@@ -156,26 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://sorare.com/?irclickid=wRs3J4RysxyNRnF2iVW8dSaDUkAwgh0gmVPJUw0&utm_medium=impact&utm_campaign=3779898&referrer=impact&irgwc=1",
-          "author": null,
-          "description": "Sorare",
-          "link": "https://sorare.com/?irclickid=wRs3J4RysxyNRnF2iVW8dSaDUkAwgh0gmVPJUw0&utm_medium=impact&utm_campaign=3779898&referrer=impact&irgwc=1",
-          "publishedOn": "2023-01-13T23:00:02.000Z",
-          "wordCount": 140,
-          "title": "Sorare",
-          "imageUrl": "https://frontend-assets.sorare.com/meta/social-picture-2022.png"
-        },
-        {
-          "id": "https://github.com/a16z/awesome-farcaster",
-          "author": null,
-          "description": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
-          "link": "https://github.com/a16z/awesome-farcaster",
-          "publishedOn": "2023-01-13T23:00:02.000Z",
-          "wordCount": 1224,
-          "title": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
-          "imageUrl": "https://opengraph.githubassets.com/6ec57ea8c72ec61bf763c0250895cf4b915f0894a73d5f423d3d4dcde083b316/a16z/awesome-farcaster"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=RyObAHv777E",
           "author": null,
           "description": "Plurality Research Network Conference Livestream",
@@ -186,14 +186,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.fluxfinance.com/announcing-flux-finance-defi-meets-real-world-assets/",
+          "id": "https://community.optimism.io/docs/governance/retropgf-2/#scope-of-retropgf-2",
           "author": null,
-          "description": "Announcing Flux Finance: DeFi Meets Real World Assets",
-          "link": "https://blog.fluxfinance.com/announcing-flux-finance-defi-meets-real-world-assets/",
-          "publishedOn": "2023-01-12T19:30:06.000Z",
-          "wordCount": 635,
-          "title": "Announcing Flux Finance: DeFi Meets Real World Assets",
-          "imageUrl": "https://blog.fluxfinance.com/content/images/2023/01/Flux-Blog-Cover-01-2.png"
+          "description": "RetroPGF Round 2",
+          "link": "https://community.optimism.io/docs/governance/retropgf-2/#scope-of-retropgf-2",
+          "publishedOn": "2023-01-13T18:00:07.000Z",
+          "wordCount": 1241,
+          "title": "RetroPGF Round 2",
+          "imageUrl": null
         },
         {
           "id": "https://ceremony.ethereum.org/",
