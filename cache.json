@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://restructuring.ra.kroll.com/ftx/",
+          "author": null,
+          "description": "Kroll Restructuring Administration",
+          "link": "https://restructuring.ra.kroll.com/ftx/",
+          "publishedOn": "2023-01-14T18:00:04.000Z",
+          "wordCount": null,
+          "title": "Kroll Restructuring Administration",
+          "imageUrl": null
+        },
+        {
           "id": "https://charts.volmex.finance/",
           "author": null,
           "description": "ETH and BTC implied volatility indices - Volmex",
@@ -46,12 +56,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://go.theblock.co/pro-demo-request",
+          "author": null,
+          "description": "The Block",
+          "link": "https://go.theblock.co/pro-demo-request",
+          "publishedOn": "2023-01-14T11:00:03.000Z",
+          "wordCount": 1577,
+          "title": "The Block",
+          "imageUrl": null
+        },
+        {
           "id": "https://medium.com/surge-fi/introduction-to-surge-protocol-overview-34cc828d7c50",
           "author": null,
           "description": "Introduction to Surge: Protocol Overview",
           "link": "https://medium.com/surge-fi/introduction-to-surge-protocol-overview-34cc828d7c50",
           "publishedOn": "2023-01-14T09:00:04.000Z",
-          "wordCount": 2953,
+          "wordCount": 3010,
           "title": "Introduction to Surge: Protocol Overview",
           "imageUrl": "https://miro.medium.com/max/1200/1*FWtiXv-iz9G70obWmZEXJg.png"
         },
@@ -101,7 +121,7 @@
           "description": "OurNetwork #152",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-152",
           "publishedOn": "2023-01-13T23:30:07.000Z",
-          "wordCount": 2769,
+          "wordCount": 2770,
           "title": "OurNetwork #152",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3af59453-c39a-4367-b15f-9355f8093ccb_420x300.jpeg"
         },
@@ -133,37 +153,7 @@
           "publishedOn": "2023-01-13T23:00:02.000Z",
           "wordCount": 1213,
           "title": "GitHub - a16z/awesome-farcaster: A collection of awesome Farcaster links including clients, tools, and more.",
-          "imageUrl": "https://opengraph.githubassets.com/e7ecb95b10b71d67ff6451d26f073b6a58930bb6a6d1e249d3692fb38a993024/a16z/awesome-farcaster"
-        },
-        {
-          "id": "https://blog.marsprotocol.io/blog/mars-hub-testnet-goes-live-100000-bounties-up-for-grabs",
-          "author": null,
-          "description": "Mars Hub testnet goes live; $100,000 bounties up for grabs",
-          "link": "https://blog.marsprotocol.io/blog/mars-hub-testnet-goes-live-100000-bounties-up-for-grabs",
-          "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 1046,
-          "title": "Mars Hub testnet goes live; $100,000 bounties up for grabs",
-          "imageUrl": "https://uploads-ssl.webflow.com/63236e6e462b87596329c577/63c17862b26ff4d638b071c4_Ares_Testnet_Mars_Hub.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/201767/metamask-staking-beta-now-live-with-lido-and-rocket-pool-consensys-says?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
-          "link": "https://www.theblock.co/post/201767/metamask-staking-beta-now-live-with-lido-and-rocket-pool-consensys-says?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 63723,
-          "title": "MetaMask Staking beta now live with Lido and Rocket Pool, ConsenSys says",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/metamask-1200x675.png"
-        },
-        {
-          "id": "https://www.esferalibros.com/libros/la-maquina-infinita/",
-          "author": null,
-          "description": "La máquina infinita - La Esfera de los Libros",
-          "link": "https://www.esferalibros.com/libros/la-maquina-infinita/",
-          "publishedOn": "2023-01-13T21:00:02.000Z",
-          "wordCount": 2514,
-          "title": "La máquina infinita - La Esfera de los Libros",
-          "imageUrl": "https://www.esferalibros.com/wp-content/uploads/2022/11/la-maquina-infinita-scaled.jpg"
+          "imageUrl": "https://opengraph.githubassets.com/ab28a1ed9ad9c25ac13a929696d321382023b509abea99731eca4a6c93eaef9c/a16z/awesome-farcaster"
         },
         {
           "id": "https://www.youtube.com/watch?v=RyObAHv777E",
@@ -173,6 +163,16 @@
           "publishedOn": "2023-01-13T20:30:03.000Z",
           "wordCount": null,
           "title": "Plurality Research Network Conference Livestream",
+          "imageUrl": null
+        },
+        {
+          "id": "https://community.optimism.io/docs/governance/retropgf-2/#scope-of-retropgf-2",
+          "author": null,
+          "description": "RetroPGF Round 2",
+          "link": "https://community.optimism.io/docs/governance/retropgf-2/#scope-of-retropgf-2",
+          "publishedOn": "2023-01-13T18:00:07.000Z",
+          "wordCount": 1241,
+          "title": "RetroPGF Round 2",
           "imageUrl": null
         },
         {
