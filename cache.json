@@ -6,14 +6,84 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ar.ca/digital-asset-types",
+          "author": null,
+          "description": "Types of Digital Assets | Arca",
+          "link": "https://www.ar.ca/digital-asset-types",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 1402,
+          "title": "Types of Digital Assets | Arca",
+          "imageUrl": "https://www.ar.ca/hubfs/Taxonomy.png#keepProtocol"
+        },
+        {
+          "id": "https://www.zerohedge.com/crypto/7-factors-bitcoin-investors-should-watch-2023",
+          "author": null,
+          "description": "7 Factors Bitcoin Investors Should Watch In 2023 | ZeroHedge",
+          "link": "https://www.zerohedge.com/crypto/7-factors-bitcoin-investors-should-watch-2023",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 4347,
+          "title": "7 Factors Bitcoin Investors Should Watch In 2023 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/house-republicans-prepare-execute-emergency-strategy-breaching-debt-limit",
+          "author": null,
+          "description": "House Republicans Prepare To Execute Emergency Strategy For Breaching Debt Limit | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/house-republicans-prepare-execute-emergency-strategy-breaching-debt-limit",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 2140,
+          "title": "House Republicans Prepare To Execute Emergency Strategy For Breaching Debt Limit | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/gas-stove-scare-fraud-created-climate-change-authoritarians",
+          "author": null,
+          "description": "The Gas Stove Scare Is A Fraud Created By Climate Change Authoritarians | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/gas-stove-scare-fraud-created-climate-change-authoritarians",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 3237,
+          "title": "The Gas Stove Scare Is A Fraud Created By Climate Change Authoritarians | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/why-was-hunter-biden-paying-joe-50k-month-rent-house-where-classified-documents-found",
+          "author": null,
+          "description": "Why Was Hunter Paying Joe Biden $50k Per Month To Rent House Where Classified Documents Found? | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/why-was-hunter-biden-paying-joe-50k-month-rent-house-where-classified-documents-found",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 1531,
+          "title": "Why Was Hunter Paying Joe Biden $50k Per Month To Rent House Where Classified Documents Found? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/smartcontracts/simple-optimism-node/pull/36",
+          "author": null,
+          "description": "feat: add Bedrock Goerli support by smartcontracts · Pull Request #36 · smartcontracts/simple-optimism-node",
+          "link": "https://github.com/smartcontracts/simple-optimism-node/pull/36",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": 699,
+          "title": "feat: add Bedrock Goerli support by smartcontracts · Pull Request #36 · smartcontracts/simple-optimism-node",
+          "imageUrl": "https://opengraph.githubassets.com/407fbede90153f6c6ff7a84c94f8b056142e24c20884474f3d49175e9c55d387/smartcontracts/simple-optimism-node/pull/36"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gVWzTgm-9hQ",
+          "author": null,
+          "description": "Mattyverse: 2023 Let's gooooo",
+          "link": "https://www.youtube.com/watch?v=gVWzTgm-9hQ",
+          "publishedOn": "2023-01-15T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Mattyverse: 2023 Let's gooooo",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/Vectorized/solady",
           "author": null,
           "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "link": "https://github.com/Vectorized/solady",
           "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 998,
+          "wordCount": 901,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/980c0eb480dec54db6279a90b26c41c8431c0391518da405ddd5fa5878d92b59/Vectorized/solady"
+          "imageUrl": "https://opengraph.githubassets.com/f6a8f87cabb59981187429c39510da20c0fcfe6c81a0e4f25be4445c410e629d/Vectorized/solady"
         },
         {
           "id": "https://numismatics.org/pocketchange/receipts/",
@@ -24,16 +94,6 @@
           "wordCount": 2831,
           "title": "A Brief History of the Receipt",
           "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
-        },
-        {
-          "id": "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/",
-          "author": null,
-          "description": "PayPal Phishing Scam Uses Invoices Sent Via PayPal – Krebs on Security",
-          "link": "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 3504,
-          "title": "PayPal Phishing Scam Uses Invoices Sent Via PayPal – Krebs on Security",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/markets/record",
@@ -66,34 +126,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/debt-limit-going-be-problem-goldmans-2023-political-and-policy-outlook",
+          "id": "https://open.spotify.com/episode/599y7B0QsofUt0rJ5wx28z?si=HwV0s6b5RGS59dwtP-Za_Q",
           "author": null,
-          "description": "\"The Debt Limit Is Going To Be A Problem\": Goldman's 2023 Political And Policy Outlook | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/debt-limit-going-be-problem-goldmans-2023-political-and-policy-outlook",
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/599y7B0QsofUt0rJ5wx28z?si=HwV0s6b5RGS59dwtP-Za_Q",
           "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 481,
-          "title": "\"The Debt Limit Is Going To Be A Problem\": Goldman's 2023 Political And Policy Outlook | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.dtjournal.com/p/supernova-in-the-east?utm_source=twitter&sd=pf",
-          "author": null,
-          "description": "Supernova in the East",
-          "link": "https://www.dtjournal.com/p/supernova-in-the-east?utm_source=twitter&sd=pf",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 1159,
-          "title": "Supernova in the East",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a910d98-e2ce-4834-98cd-38cf771fbbe1_1400x1400.jpeg"
-        },
-        {
-          "id": "https://www.reddit.com/r/ethereum/comments/107cqi8/ama_we_are_ef_research_pt_9_11_january_2023/",
-          "author": null,
-          "description": "r/ethereum - [AMA] We are EF Research (Pt. 9: 11 January, 2023)",
-          "link": "https://www.reddit.com/r/ethereum/comments/107cqi8/ama_we_are_ef_research_pt_9_11_january_2023/",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 36835,
-          "title": "r/ethereum - [AMA] We are EF Research (Pt. 9: 11 January, 2023)",
-          "imageUrl": "https://external-preview.redd.it/WSqGR2511AQXIN172aycw9idD-3ENHc5hT_1a0M_2UQ.jpg?auto=webp&v=enabled&s=20d2880b13b12400b67224aaa0042836d9047b78"
+          "wordCount": 459,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a193a7342b8c7d8bf0be2343d"
         },
         {
           "id": "https://epicenter.tv/episodes/328/",
@@ -104,46 +144,6 @@
           "wordCount": 9849,
           "title": "ZeroLaw – A Philosophy of Securities Laws for Tokenized Networks • Epicenter",
           "imageUrl": "https://epicenter.flywheelsites.com/wp-content/uploads/2020/02/328_Video.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/we-wont-be-fooled-again-inflation-most-definitely-not-under-control",
-          "author": null,
-          "description": "We Won't Be Fooled Again... Inflation Is Most Definitely Not \"Under Control\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/we-wont-be-fooled-again-inflation-most-definitely-not-under-control",
-          "publishedOn": "2023-01-15T19:00:03.000Z",
-          "wordCount": 2446,
-          "title": "We Won't Be Fooled Again... Inflation Is Most Definitely Not \"Under Control\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/military/uk-decision-send-heavy-tanks-will-only-intensify-conflict-more-casualties-kremlin",
-          "author": null,
-          "description": "UK Sending Heavy Tanks Will Only \"Intensify\" Conflict With \"More Casualties\": Kremlin | ZeroHedge",
-          "link": "https://www.zerohedge.com/military/uk-decision-send-heavy-tanks-will-only-intensify-conflict-more-casualties-kremlin",
-          "publishedOn": "2023-01-15T19:00:03.000Z",
-          "wordCount": 935,
-          "title": "UK Sending Heavy Tanks Will Only \"Intensify\" Conflict With \"More Casualties\": Kremlin | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t5G3-qG76ho&feature=youtu.be",
-          "author": null,
-          "description": "Amiga music: David Whittaker - Shadow of the Beast OST (A1200 Dolbyfied)",
-          "link": "https://www.youtube.com/watch?v=t5G3-qG76ho&feature=youtu.be",
-          "publishedOn": "2023-01-15T19:00:03.000Z",
-          "wordCount": null,
-          "title": "Amiga music: David Whittaker - Shadow of the Beast OST (A1200 Dolbyfied)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.shreyashariharan.com/ideas-are-living-things",
-          "author": null,
-          "description": "Ideas are Living Things | Shreyas Hariharan",
-          "link": "https://www.shreyashariharan.com/ideas-are-living-things",
-          "publishedOn": "2023-01-15T19:00:03.000Z",
-          "wordCount": 1610,
-          "title": "Ideas are Living Things | Shreyas Hariharan",
-          "imageUrl": null
         },
         {
           "id": "https://starkwaresessions.co/",
