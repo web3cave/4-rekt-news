@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/Vectorized/solady",
+          "author": null,
+          "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "link": "https://github.com/Vectorized/solady",
+          "publishedOn": "2023-01-15T22:00:04.000Z",
+          "wordCount": 998,
+          "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "imageUrl": "https://opengraph.githubassets.com/980c0eb480dec54db6279a90b26c41c8431c0391518da405ddd5fa5878d92b59/Vectorized/solady"
+        },
+        {
+          "id": "https://numismatics.org/pocketchange/receipts/",
+          "author": null,
+          "description": "A Brief History of the Receipt",
+          "link": "https://numismatics.org/pocketchange/receipts/",
+          "publishedOn": "2023-01-15T21:30:04.000Z",
+          "wordCount": 2831,
+          "title": "A Brief History of the Receipt",
+          "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
+        },
+        {
           "id": "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/",
           "author": null,
           "description": "PayPal Phishing Scam Uses Invoices Sent Via PayPal – Krebs on Security",
@@ -71,7 +91,7 @@
           "description": "r/ethereum - [AMA] We are EF Research (Pt. 9: 11 January, 2023)",
           "link": "https://www.reddit.com/r/ethereum/comments/107cqi8/ama_we_are_ef_research_pt_9_11_january_2023/",
           "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 36909,
+          "wordCount": 36835,
           "title": "r/ethereum - [AMA] We are EF Research (Pt. 9: 11 January, 2023)",
           "imageUrl": "https://external-preview.redd.it/WSqGR2511AQXIN172aycw9idD-3ENHc5hT_1a0M_2UQ.jpg?auto=webp&v=enabled&s=20d2880b13b12400b67224aaa0042836d9047b78"
         },
@@ -84,16 +104,6 @@
           "wordCount": 9849,
           "title": "ZeroLaw – A Philosophy of Securities Laws for Tokenized Networks • Epicenter",
           "imageUrl": "https://epicenter.flywheelsites.com/wp-content/uploads/2020/02/328_Video.jpg"
-        },
-        {
-          "id": "https://pomp.substack.com/",
-          "author": null,
-          "description": "The Pomp Letter",
-          "link": "https://pomp.substack.com/",
-          "publishedOn": "2023-01-15T19:00:03.000Z",
-          "wordCount": 2571,
-          "title": "The Pomp Letter",
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fpomp.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-2071940743%26version%3D9"
         },
         {
           "id": "https://www.zerohedge.com/personal-finance/we-wont-be-fooled-again-inflation-most-definitely-not-under-control",
@@ -136,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.overcomingbias.com/2023/01/rah-capitalist-imperialists.html",
-          "author": null,
-          "description": "Overcoming Bias : Rah Capitalist Imperialists",
-          "link": "https://www.overcomingbias.com/2023/01/rah-capitalist-imperialists.html",
-          "publishedOn": "2023-01-15T19:00:02.000Z",
-          "wordCount": 1115,
-          "title": "Overcoming Bias : Rah Capitalist Imperialists",
-          "imageUrl": null
-        },
-        {
           "id": "https://starkwaresessions.co/",
           "author": null,
           "description": "Starkware sessions 2023",
@@ -161,7 +161,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-15T14:30:02.000Z",
-          "wordCount": 1660,
+          "wordCount": 1659,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
