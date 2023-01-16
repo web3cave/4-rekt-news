@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://transferto.xyz/",
+          "author": null,
+          "description": "transferto.xyz",
+          "link": "https://transferto.xyz/",
+          "publishedOn": "2023-01-16T11:00:02.000Z",
+          "wordCount": 1425,
+          "title": "transferto.xyz",
+          "imageUrl": "https://li.fi/preview.png"
+        },
+        {
+          "id": "https://github.com/1inch/erc20-pods",
+          "author": null,
+          "description": "GitHub - 1inch/erc20-pods",
+          "link": "https://github.com/1inch/erc20-pods",
+          "publishedOn": "2023-01-16T11:00:02.000Z",
+          "wordCount": 593,
+          "title": "GitHub - 1inch/erc20-pods",
+          "imageUrl": "https://opengraph.githubassets.com/f9d52e6a66db04e7345441510f2c595876ec88a0858ab4a23a3d050615e80c34/1inch/erc20-pods"
+        },
+        {
           "id": "https://www.lopp.net/bitcoin-information.html",
           "author": null,
           "description": "Jameson Lopp's Bitcoin Resources",
@@ -34,6 +54,16 @@
           "wordCount": 603,
           "title": "Sourcing.io",
           "imageUrl": "https://sourcing.io/assets/site/placeholder-4abfbbec6d239b5708837804f8149b32.png"
+        },
+        {
+          "id": "https://otherinter.net/research/squad-wealth/",
+          "author": null,
+          "description": "Squad Wealth",
+          "link": "https://otherinter.net/research/squad-wealth/",
+          "publishedOn": "2023-01-16T09:00:03.000Z",
+          "wordCount": 2319,
+          "title": "Squad Wealth",
+          "imageUrl": "https://otherinter.net/squad-twittercard.png?=903"
         },
         {
           "id": "https://www.pills.game/",
@@ -66,26 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://zeeprime.capital/the-fappening",
-          "author": null,
-          "description": "The Fappening",
-          "link": "https://zeeprime.capital/the-fappening",
-          "publishedOn": "2023-01-16T05:00:02.000Z",
-          "wordCount": 9290,
-          "title": "The Fappening",
-          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866.png"
-        },
-        {
-          "id": "https://rettig.substack.com/p/new-years-resolutions?utm_source=twitter&sd=pf",
-          "author": null,
-          "description": "New Year's Resolutions",
-          "link": "https://rettig.substack.com/p/new-years-resolutions?utm_source=twitter&sd=pf",
-          "publishedOn": "2023-01-16T05:00:02.000Z",
-          "wordCount": 7166,
-          "title": "New Year's Resolutions",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44e33dc4-cb05-4ed2-9a20-e1cc8340ed65_4032x3024.jpeg"
-        },
-        {
           "id": "https://www.zerohedge.com/political/importance-being-biden-how-hunter-reached-new-low-seeking-bar-daughter-using-his-name",
           "author": null,
           "description": "The Importance Of Being Biden: How Hunter Reached New Low Seeking To Bar Daughter From Using His Name | ZeroHedge",
@@ -103,26 +113,6 @@
           "publishedOn": "2023-01-16T05:00:02.000Z",
           "wordCount": 1408,
           "title": "How Long Is Compulsory Military Service? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/covid-19/japans-experts-baffled-high-covid-deaths-despite-high-vaccination-rate",
-          "author": null,
-          "description": "Japan's Experts Baffled By High 'COVID Deaths' Despite High Vaccination Rate | ZeroHedge",
-          "link": "https://www.zerohedge.com/covid-19/japans-experts-baffled-high-covid-deaths-despite-high-vaccination-rate",
-          "publishedOn": "2023-01-16T05:00:02.000Z",
-          "wordCount": 1672,
-          "title": "Japan's Experts Baffled By High 'COVID Deaths' Despite High Vaccination Rate | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/house-gop-bill-would-order-federal-workers-back-office",
-          "author": null,
-          "description": "House GOP Bill Would Order Federal Workers Back To Office | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/house-gop-bill-would-order-federal-workers-back-office",
-          "publishedOn": "2023-01-16T05:00:02.000Z",
-          "wordCount": 1432,
-          "title": "House GOP Bill Would Order Federal Workers Back To Office | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -166,6 +156,16 @@
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
         {
+          "id": "https://github.com/Vectorized/solady",
+          "author": null,
+          "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "link": "https://github.com/Vectorized/solady",
+          "publishedOn": "2023-01-15T22:00:04.000Z",
+          "wordCount": 996,
+          "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "imageUrl": "https://opengraph.githubassets.com/43d762449930e02f7b02baafd458c6163227f67697913e2479a77a15c1f069a7/Vectorized/solady"
+        },
+        {
           "id": "https://starkwaresessions.co/",
           "author": null,
           "description": "Starkware sessions 2023",
@@ -181,7 +181,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-15T14:30:02.000Z",
-          "wordCount": 1866,
+          "wordCount": 1660,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
