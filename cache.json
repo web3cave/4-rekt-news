@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://lenstube.xyz/watch/0x2e09-0x84",
+          "author": null,
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x84",
+          "publishedOn": "2023-01-16T09:00:03.000Z",
+          "wordCount": 135,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://sourcing.io/",
+          "author": null,
+          "description": "Sourcing.io",
+          "link": "https://sourcing.io/",
+          "publishedOn": "2023-01-16T09:00:03.000Z",
+          "wordCount": 603,
+          "title": "Sourcing.io",
+          "imageUrl": "https://sourcing.io/assets/site/placeholder-4abfbbec6d239b5708837804f8149b32.png"
+        },
+        {
           "id": "https://www.pills.game/",
           "author": null,
           "description": "PILLS: A Universe Unfolding",
@@ -36,16 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://eprint.iacr.org/2022/1758",
-          "author": null,
-          "description": "SuperNova: Proving universal machine executions without universal circuits",
-          "link": "https://eprint.iacr.org/2022/1758",
-          "publishedOn": "2023-01-16T05:00:03.000Z",
-          "wordCount": 534,
-          "title": "SuperNova: Proving universal machine executions without universal circuits",
-          "imageUrl": null
-        },
-        {
           "id": "https://zeeprime.capital/the-fappening",
           "author": null,
           "description": "The Fappening",
@@ -61,7 +71,7 @@
           "description": "New Year's Resolutions",
           "link": "https://rettig.substack.com/p/new-years-resolutions?utm_source=twitter&sd=pf",
           "publishedOn": "2023-01-16T05:00:02.000Z",
-          "wordCount": 6961,
+          "wordCount": 6962,
           "title": "New Year's Resolutions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44e33dc4-cb05-4ed2-9a20-e1cc8340ed65_4032x3024.jpeg"
         },
@@ -126,26 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/benefits-savings-culture-future-role-chinas-yuan",
-          "author": null,
-          "description": "The Benefits Of A Savings Culture & The Future Role Of China's Yuan | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/benefits-savings-culture-future-role-chinas-yuan",
-          "publishedOn": "2023-01-16T03:00:02.000Z",
-          "wordCount": 9246,
-          "title": "The Benefits Of A Savings Culture & The Future Role Of China's Yuan | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/prediction-consensus-what-experts-see-coming-2023",
-          "author": null,
-          "description": "Prediction Consensus: What The Experts See Coming In 2023 | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/prediction-consensus-what-experts-see-coming-2023",
-          "publishedOn": "2023-01-16T03:00:02.000Z",
-          "wordCount": 2597,
-          "title": "Prediction Consensus: What The Experts See Coming In 2023 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.shibaswap.com/introduction-to-shibarium/",
           "author": null,
           "description": "Introduction to Shibarium: Shiba Inu's Layer 2 Network",
@@ -166,6 +156,16 @@
           "imageUrl": "https://ultrasound.money/og-image.png"
         },
         {
+          "id": "https://github.com/Vectorized/solady",
+          "author": null,
+          "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "link": "https://github.com/Vectorized/solady",
+          "publishedOn": "2023-01-15T22:00:04.000Z",
+          "wordCount": 996,
+          "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
+          "imageUrl": "https://opengraph.githubassets.com/f9e05f1fd26b683c8385473e3d5991c1abda8ad1df6968f62fd96cb80525e051/Vectorized/solady"
+        },
+        {
           "id": "https://starkwaresessions.co/",
           "author": null,
           "description": "Starkware sessions 2023",
@@ -181,7 +181,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-15T14:30:02.000Z",
-          "wordCount": 1660,
+          "wordCount": 1659,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
