@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round",
+          "author": null,
+          "description": "KZG Ceremony Grant Round | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round",
+          "publishedOn": "2023-01-16T19:30:03.000Z",
+          "wordCount": 1517,
+          "title": "KZG Ceremony Grant Round | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_7d22bc5d7be9c0d5d8f50161734559ae.png"
+        },
+        {
           "id": "https://github.com/solana-foundation/solana-improvement-documents/pull/16",
           "author": null,
           "description": "Application write account fees by godmodegalactus · Pull Request #16 · solana-foundation/solana-improvement-documents",
@@ -24,16 +34,6 @@
           "wordCount": 710,
           "title": "GitHub - banteg/cornichon",
           "imageUrl": "https://opengraph.githubassets.com/3c55db94378b5603e9cb733a940574292c9c537a6dd035e2b4fa5ca67ec63a93/banteg/cornichon"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sWqDIZxO-nU&feature=youtu.be",
-          "author": null,
-          "description": "In Rainbows | Radiohead | From The Basement",
-          "link": "https://www.youtube.com/watch?v=sWqDIZxO-nU&feature=youtu.be",
-          "publishedOn": "2023-01-16T19:00:02.000Z",
-          "wordCount": null,
-          "title": "In Rainbows | Radiohead | From The Basement",
-          "imageUrl": null
         },
         {
           "id": "https://www.wsj.com/articles/tiktok-tries-to-win-allies-in-the-u-s-with-more-transparency-11673836560?mod=Searchresults_pos1&page=1",
@@ -86,16 +86,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://daodrops.io/",
-          "author": null,
-          "description": "DAO Drops",
-          "link": "https://daodrops.io/",
-          "publishedOn": "2023-01-16T19:00:02.000Z",
-          "wordCount": 44,
-          "title": "DAO Drops",
-          "imageUrl": "https://daodrops.io/metaimage-fb.png"
-        },
-        {
           "id": "https://coingeek.com/coinflex-files-for-restructuring-after-roger-ver-allegedly-fails-to-pay-margin-call/",
           "author": null,
           "description": "CoinFLEX files for restructuring after Roger Ver allegedly fails to pay margin call",
@@ -131,9 +121,9 @@
           "description": "Opinion | How ChatGPT Hijacks Democracy",
           "link": "https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html",
           "publishedOn": "2023-01-16T15:00:19.000Z",
-          "wordCount": 4665,
+          "wordCount": null,
           "title": "Opinion | How ChatGPT Hijacks Democracy",
-          "imageUrl": "https://static01.nyt.com/images/2023/01/15/opinion/15Sanders-Promo/15Sanders-Promo-facebookJumbo-v2.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://eprint.iacr.org/2022/1758",
@@ -191,9 +181,19 @@
           "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "link": "https://github.com/Vectorized/solady",
           "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 901,
+          "wordCount": 996,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/09a892744732b7633a4e56d0f49e59469439ce9e8658be2b746fcdf58cfc5993/Vectorized/solady"
+          "imageUrl": "https://opengraph.githubassets.com/ccc20f0abaa4f09ab7e47a6f946186c999cee9758ba08051cf600386a111aafc/Vectorized/solady"
+        },
+        {
+          "id": "https://numismatics.org/pocketchange/receipts/",
+          "author": null,
+          "description": "A Brief History of the Receipt",
+          "link": "https://numismatics.org/pocketchange/receipts/",
+          "publishedOn": "2023-01-15T21:30:04.000Z",
+          "wordCount": 2831,
+          "title": "A Brief History of the Receipt",
+          "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
         },
         {
           "id": "https://ceremony.ethereum.org/",
