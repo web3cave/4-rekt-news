@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.cubansedge.com/",
+          "author": null,
+          "description": "Home  | Cuban’s EDGE",
+          "link": "https://www.cubansedge.com/",
+          "publishedOn": "2023-01-16T17:30:04.000Z",
+          "wordCount": 4938,
+          "title": "Home  | Cuban’s EDGE",
+          "imageUrl": "/social-embed.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qO50UF5KpxE&feature=youtu.be",
+          "author": null,
+          "description": "DCA: 30% BTC Run - Bull Trap or Bull Run?",
+          "link": "https://www.youtube.com/watch?v=qO50UF5KpxE&feature=youtu.be",
+          "publishedOn": "2023-01-16T17:30:04.000Z",
+          "wordCount": null,
+          "title": "DCA: 30% BTC Run - Bull Trap or Bull Run?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/202589/3ac-zhu-davies-new-crypto-exchange?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
           "link": "https://www.theblock.co/post/202589/3ac-zhu-davies-new-crypto-exchange?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-16T15:00:19.000Z",
-          "wordCount": 60142,
+          "wordCount": 60170,
           "title": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220719_3AC_Generic2-1200x675.jpg"
         },
@@ -21,9 +41,9 @@
           "description": "Opinion | How ChatGPT Hijacks Democracy",
           "link": "https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html",
           "publishedOn": "2023-01-16T15:00:19.000Z",
-          "wordCount": null,
+          "wordCount": 4665,
           "title": "Opinion | How ChatGPT Hijacks Democracy",
-          "imageUrl": null
+          "imageUrl": "https://static01.nyt.com/images/2023/01/15/opinion/15Sanders-Promo/15Sanders-Promo-facebookJumbo-v2.jpg"
         },
         {
           "id": "https://eprint.iacr.org/2022/1758",
@@ -41,7 +61,7 @@
           "description": "Iran and Russia want to issue new stablecoin backed by gold",
           "link": "https://cointelegraph.com/news/iran-and-russia-want-to-issue-new-stablecoin-backed-by-gold",
           "publishedOn": "2023-01-16T13:30:06.000Z",
-          "wordCount": 20294,
+          "wordCount": 20299,
           "title": "Iran and Russia want to issue new stablecoin backed by gold",
           "imageUrl": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/11208d67-279b-4f47-8225-2125b574769e.jpg"
         },
@@ -116,26 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.standard.co.uk/news/uk/blue-monday-january-2023-depressing-day-b1050497.html?utm_medium=Social&utm_source=Twitter#Echobox=1673860238-1",
-          "author": null,
-          "description": "What is Blue Monday and how to beat it?",
-          "link": "https://www.standard.co.uk/news/uk/blue-monday-january-2023-depressing-day-b1050497.html?utm_medium=Social&utm_source=Twitter#Echobox=1673860238-1",
-          "publishedOn": "2023-01-16T12:00:04.000Z",
-          "wordCount": 3742,
-          "title": "What is Blue Monday and how to beat it?",
-          "imageUrl": "https://static.standard.co.uk/2022/03/02/17/a382010ddc804c65facf780ba067be06Y29udGVudHNlYXJjaGFwaSwxNjQ2MzI3OTc0-2.50055491.jpg?width=1200&width=1200&auto=webp&quality=75"
-        },
-        {
-          "id": "https://www.lopp.net/bitcoin-information.html",
-          "author": null,
-          "description": "Jameson Lopp's Bitcoin Resources",
-          "link": "https://www.lopp.net/bitcoin-information.html",
-          "publishedOn": "2023-01-16T10:00:05.000Z",
-          "wordCount": 1520,
-          "title": "Jameson Lopp's Bitcoin Resources",
-          "imageUrl": "https://www.lopp.net/images/avatar.jpg"
-        },
-        {
           "id": "https://solanamobile.com/",
           "author": null,
           "description": "It's time for crypto to go mobile. | Solana Mobile",
@@ -181,9 +181,9 @@
           "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "link": "https://github.com/Vectorized/solady",
           "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 996,
+          "wordCount": 901,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/e8038e143ac2b9ad6a4cebd268e04b9b1f5f4da6d5bd4ee5cd8c26909d3c5208/Vectorized/solady"
+          "imageUrl": "https://opengraph.githubassets.com/19965043f0710d9754862494c89f2d077b99f30c1d0a389740f09134f5634409/Vectorized/solady"
         },
         {
           "id": "https://numismatics.org/pocketchange/receipts/",
