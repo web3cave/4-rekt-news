@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://research-development.nomadic-labs.com/blog.html",
+          "author": null,
+          "description": "Nomadic Labs",
+          "link": "https://research-development.nomadic-labs.com/blog.html",
+          "publishedOn": "2023-01-16T03:30:04.000Z",
+          "wordCount": 1477,
+          "title": "Nomadic Labs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/benefits-savings-culture-future-role-chinas-yuan",
           "author": null,
           "description": "The Benefits Of A Savings Culture & The Future Role Of China's Yuan | ZeroHedge",
@@ -153,17 +163,7 @@
           "publishedOn": "2023-01-15T22:00:04.000Z",
           "wordCount": 996,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/c445c54f5fe621f5c31c323ff2f66955844664340bde942f96aa6b265cb8c43d/Vectorized/solady"
-        },
-        {
-          "id": "https://numismatics.org/pocketchange/receipts/",
-          "author": null,
-          "description": "A Brief History of the Receipt",
-          "link": "https://numismatics.org/pocketchange/receipts/",
-          "publishedOn": "2023-01-15T21:30:04.000Z",
-          "wordCount": 2831,
-          "title": "A Brief History of the Receipt",
-          "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
+          "imageUrl": "https://opengraph.githubassets.com/a525d22f7ef34ffe78c913fca7e59c4f5fb3819553fde07a6a6a641035a6c070/Vectorized/solady"
         },
         {
           "id": "https://starkwaresessions.co/",
