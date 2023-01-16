@@ -6,13 +6,83 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://research-development.nomadic-labs.com/blog.html",
+          "id": "https://eprint.iacr.org/2022/1758",
           "author": null,
-          "description": "Nomadic Labs",
-          "link": "https://research-development.nomadic-labs.com/blog.html",
-          "publishedOn": "2023-01-16T03:30:04.000Z",
-          "wordCount": 1477,
-          "title": "Nomadic Labs",
+          "description": "SuperNova: Proving universal machine executions without universal circuits",
+          "link": "https://eprint.iacr.org/2022/1758",
+          "publishedOn": "2023-01-16T05:00:03.000Z",
+          "wordCount": 534,
+          "title": "SuperNova: Proving universal machine executions without universal circuits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zeeprime.capital/the-fappening",
+          "author": null,
+          "description": "The Fappening",
+          "link": "https://zeeprime.capital/the-fappening",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 9290,
+          "title": "The Fappening",
+          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866.png"
+        },
+        {
+          "id": "https://rettig.substack.com/p/new-years-resolutions?utm_source=twitter&sd=pf",
+          "author": null,
+          "description": "New Year's Resolutions",
+          "link": "https://rettig.substack.com/p/new-years-resolutions?utm_source=twitter&sd=pf",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 7167,
+          "title": "New Year's Resolutions",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44e33dc4-cb05-4ed2-9a20-e1cc8340ed65_4032x3024.jpeg"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/importance-being-biden-how-hunter-reached-new-low-seeking-bar-daughter-using-his-name",
+          "author": null,
+          "description": "The Importance Of Being Biden: How Hunter Reached New Low Seeking To Bar Daughter From Using His Name | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/importance-being-biden-how-hunter-reached-new-low-seeking-bar-daughter-using-his-name",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 2269,
+          "title": "The Importance Of Being Biden: How Hunter Reached New Low Seeking To Bar Daughter From Using His Name | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/how-long-compulsory-military-service",
+          "author": null,
+          "description": "How Long Is Compulsory Military Service? | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/how-long-compulsory-military-service",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 1408,
+          "title": "How Long Is Compulsory Military Service? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/covid-19/japans-experts-baffled-high-covid-deaths-despite-high-vaccination-rate",
+          "author": null,
+          "description": "Japan's Experts Baffled By High 'COVID Deaths' Despite High Vaccination Rate | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/japans-experts-baffled-high-covid-deaths-despite-high-vaccination-rate",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 1672,
+          "title": "Japan's Experts Baffled By High 'COVID Deaths' Despite High Vaccination Rate | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/house-gop-bill-would-order-federal-workers-back-office",
+          "author": null,
+          "description": "House GOP Bill Would Order Federal Workers Back To Office | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/house-gop-bill-would-order-federal-workers-back-office",
+          "publishedOn": "2023-01-16T05:00:02.000Z",
+          "wordCount": 1432,
+          "title": "House GOP Bill Would Order Federal Workers Back To Office | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QvHWaULIn6U",
+          "author": null,
+          "description": "Pigeondust - Beat 8",
+          "link": "https://www.youtube.com/watch?v=QvHWaULIn6U",
+          "publishedOn": "2023-01-16T04:30:17.000Z",
+          "wordCount": null,
+          "title": "Pigeondust - Beat 8",
           "imageUrl": null
         },
         {
@@ -66,16 +136,6 @@
           "imageUrl": "https://blog.shibaswap.com/content/images/2023/01/shib_rb_b.png"
         },
         {
-          "id": "https://udiverse.substack.com/",
-          "author": null,
-          "description": "Udi's Bear Market Survival Kit",
-          "link": "https://udiverse.substack.com/",
-          "publishedOn": "2023-01-16T01:00:02.000Z",
-          "wordCount": 792,
-          "title": "Udi's Bear Market Survival Kit",
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fudiverse.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D945931800%26version%3D9"
-        },
-        {
           "id": "https://www.zerohedge.com/technology/rise-and-fall-and-rise-again-music-sales-format-1973-2021",
           "author": null,
           "description": "The Rise And Fall (And Rise Again) Of Music Sales, By Format (1973-2021) | ZeroHedge",
@@ -96,26 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/putin-hails-positive-momentum-ukraine-stable-economy-unexpected-upbeat-assessment",
-          "author": null,
-          "description": "Putin Hails \"Positive\" Momentum In Ukraine, \"Stable\" Economy In Surprisingly Upbeat Remarks | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/putin-hails-positive-momentum-ukraine-stable-economy-unexpected-upbeat-assessment",
-          "publishedOn": "2023-01-16T01:00:02.000Z",
-          "wordCount": 1532,
-          "title": "Putin Hails \"Positive\" Momentum In Ukraine, \"Stable\" Economy In Surprisingly Upbeat Remarks | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://wrapped.com/",
-          "author": null,
-          "description": "Wrapped",
-          "link": "https://wrapped.com/",
-          "publishedOn": "2023-01-16T01:00:02.000Z",
-          "wordCount": 1021,
-          "title": "Wrapped",
-          "imageUrl": "https://ucarecdn.com/08c7461b-79ac-4c03-a6db-a7cf417776d3/image.png"
-        },
-        {
           "id": "https://ultrasound.money/",
           "author": null,
           "description": "Ultra Sound Money",
@@ -124,46 +164,6 @@
           "wordCount": 764,
           "title": "Ultra Sound Money",
           "imageUrl": "https://ultrasound.money/og-image.png"
-        },
-        {
-          "id": "https://www.ar.ca/digital-asset-types",
-          "author": null,
-          "description": "Types of Digital Assets | Arca",
-          "link": "https://www.ar.ca/digital-asset-types",
-          "publishedOn": "2023-01-15T23:00:03.000Z",
-          "wordCount": 1402,
-          "title": "Types of Digital Assets | Arca",
-          "imageUrl": "https://www.ar.ca/hubfs/Taxonomy.png#keepProtocol"
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/7-factors-bitcoin-investors-should-watch-2023",
-          "author": null,
-          "description": "7 Factors Bitcoin Investors Should Watch In 2023 | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/7-factors-bitcoin-investors-should-watch-2023",
-          "publishedOn": "2023-01-15T23:00:03.000Z",
-          "wordCount": 4347,
-          "title": "7 Factors Bitcoin Investors Should Watch In 2023 | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gVWzTgm-9hQ",
-          "author": null,
-          "description": "Mattyverse: 2023 Let's gooooo",
-          "link": "https://www.youtube.com/watch?v=gVWzTgm-9hQ",
-          "publishedOn": "2023-01-15T23:00:03.000Z",
-          "wordCount": null,
-          "title": "Mattyverse: 2023 Let's gooooo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Vectorized/solady",
-          "author": null,
-          "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "link": "https://github.com/Vectorized/solady",
-          "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 996,
-          "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/a525d22f7ef34ffe78c913fca7e59c4f5fb3819553fde07a6a6a641035a6c070/Vectorized/solady"
         },
         {
           "id": "https://starkwaresessions.co/",
@@ -181,7 +181,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-15T14:30:02.000Z",
-          "wordCount": 1660,
+          "wordCount": 1865,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
