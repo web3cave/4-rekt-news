@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T09:18:48.701Z</id>
+    <id>urn:2023-01-16T10:20:45.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-16T09:18:48.701Z</updated>
+    <updated>2023-01-16T10:20:45.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jameson Lopp's Bitcoin Resources]]></title>
+        <id>https://www.lopp.net/bitcoin-information.html</id>
+        <link href="https://www.lopp.net/bitcoin-information.html"/>
+        <updated>2023-01-16T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Jameson Lopp's Bitcoin Resources]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenstube]]></title>
         <id>https://lenstube.xyz/watch/0x2e09-0x84</id>
@@ -151,16 +161,6 @@
         <link href="https://ultrasound.money/"/>
         <updated>2023-01-15T23:30:03.000Z</updated>
         <summary type="html"><![CDATA[Ultra Sound Money]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - Vectorized/solady: Optimized Solidity snippets.]]></title>
-        <id>https://github.com/Vectorized/solady</id>
-        <link href="https://github.com/Vectorized/solady"/>
-        <updated>2023-01-15T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - Vectorized/solady: Optimized Solidity snippets.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
