@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html",
+          "author": null,
+          "description": "Opinion | How ChatGPT Hijacks Democracy",
+          "link": "https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html",
+          "publishedOn": "2023-01-16T15:00:19.000Z",
+          "wordCount": 4665,
+          "title": "Opinion | How ChatGPT Hijacks Democracy",
+          "imageUrl": "https://static01.nyt.com/images/2023/01/15/opinion/15Sanders-Promo/15Sanders-Promo-facebookJumbo.jpg"
+        },
+        {
           "id": "https://eprint.iacr.org/2022/1758",
           "author": null,
           "description": "SuperNova: Proving universal machine executions without universal circuits",
@@ -86,24 +96,24 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=_RMxHN0Gmuc&feature=youtu.be",
+          "author": null,
+          "description": "EP 100 - Celebrating 100th EP ft. Jaynti Kanani - Web3 Ki Duniya",
+          "link": "https://www.youtube.com/watch?v=_RMxHN0Gmuc&feature=youtu.be",
+          "publishedOn": "2023-01-16T13:00:02.000Z",
+          "wordCount": null,
+          "title": "EP 100 - Celebrating 100th EP ft. Jaynti Kanani - Web3 Ki Duniya",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.standard.co.uk/news/uk/blue-monday-january-2023-depressing-day-b1050497.html?utm_medium=Social&utm_source=Twitter#Echobox=1673860238-1",
           "author": null,
           "description": "What is Blue Monday and how to beat it?",
           "link": "https://www.standard.co.uk/news/uk/blue-monday-january-2023-depressing-day-b1050497.html?utm_medium=Social&utm_source=Twitter#Echobox=1673860238-1",
           "publishedOn": "2023-01-16T12:00:04.000Z",
-          "wordCount": 3740,
+          "wordCount": 3746,
           "title": "What is Blue Monday and how to beat it?",
           "imageUrl": "https://static.standard.co.uk/2022/03/02/17/a382010ddc804c65facf780ba067be06Y29udGVudHNlYXJjaGFwaSwxNjQ2MzI3OTc0-2.50055491.jpg?width=1200&width=1200&auto=webp&quality=75"
-        },
-        {
-          "id": "https://transferto.xyz/",
-          "author": null,
-          "description": "transferto.xyz",
-          "link": "https://transferto.xyz/",
-          "publishedOn": "2023-01-16T11:00:02.000Z",
-          "wordCount": 1425,
-          "title": "transferto.xyz",
-          "imageUrl": "https://li.fi/preview.png"
         },
         {
           "id": "https://github.com/1inch/erc20-pods",
@@ -111,7 +121,7 @@
           "description": "GitHub - 1inch/erc20-pods",
           "link": "https://github.com/1inch/erc20-pods",
           "publishedOn": "2023-01-16T11:00:02.000Z",
-          "wordCount": 694,
+          "wordCount": 593,
           "title": "GitHub - 1inch/erc20-pods",
           "imageUrl": "https://opengraph.githubassets.com/f9d52e6a66db04e7345441510f2c595876ec88a0858ab4a23a3d050615e80c34/1inch/erc20-pods"
         },
@@ -171,7 +181,7 @@
           "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "link": "https://github.com/Vectorized/solady",
           "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 996,
+          "wordCount": 901,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "imageUrl": "https://opengraph.githubassets.com/27a8e92e32c90cc3bced7230550f630013acea0d7b0d47089e9210262658b026/Vectorized/solady"
         },
@@ -184,16 +194,6 @@
           "wordCount": 2831,
           "title": "A Brief History of the Receipt",
           "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
-        },
-        {
-          "id": "https://starkwaresessions.co/",
-          "author": null,
-          "description": "Starkware sessions 2023",
-          "link": "https://starkwaresessions.co/",
-          "publishedOn": "2023-01-15T15:30:04.000Z",
-          "wordCount": 1171,
-          "title": "Starkware sessions 2023",
-          "imageUrl": "https://starkwaresessions.co/wp-content/uploads/2023/01/Social.png"
         },
         {
           "id": "https://ceremony.ethereum.org/",
