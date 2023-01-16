@@ -6,6 +6,76 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.shibaswap.com/introduction-to-shibarium/",
+          "author": null,
+          "description": "Introduction to Shibarium: Shiba Inu's Layer 2 Network",
+          "link": "https://blog.shibaswap.com/introduction-to-shibarium/",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 3638,
+          "title": "Introduction to Shibarium: Shiba Inu's Layer 2 Network",
+          "imageUrl": "https://blog.shibaswap.com/content/images/2023/01/shib_rb_b.png"
+        },
+        {
+          "id": "https://udiverse.substack.com/",
+          "author": null,
+          "description": "Udi's Bear Market Survival Kit",
+          "link": "https://udiverse.substack.com/",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 793,
+          "title": "Udi's Bear Market Survival Kit",
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fudiverse.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D945931800%26version%3D9"
+        },
+        {
+          "id": "https://www.zerohedge.com/technology/rise-and-fall-and-rise-again-music-sales-format-1973-2021",
+          "author": null,
+          "description": "The Rise And Fall (And Rise Again) Of Music Sales, By Format (1973-2021) | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/rise-and-fall-and-rise-again-music-sales-format-1973-2021",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 1496,
+          "title": "The Rise And Fall (And Rise Again) Of Music Sales, By Format (1973-2021) | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/morgan-stanley-we-are-focusing-these-three-key-global-transitions",
+          "author": null,
+          "description": "Morgan Stanley: \"We Are Focusing On These Three Key Global Transitions\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/morgan-stanley-we-are-focusing-these-three-key-global-transitions",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 2051,
+          "title": "Morgan Stanley: \"We Are Focusing On These Three Key Global Transitions\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/putin-hails-positive-momentum-ukraine-stable-economy-unexpected-upbeat-assessment",
+          "author": null,
+          "description": "Putin Hails \"Positive\" Momentum In Ukraine, \"Stable\" Economy In Surprisingly Upbeat Remarks | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/putin-hails-positive-momentum-ukraine-stable-economy-unexpected-upbeat-assessment",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 1532,
+          "title": "Putin Hails \"Positive\" Momentum In Ukraine, \"Stable\" Economy In Surprisingly Upbeat Remarks | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wrapped.com/",
+          "author": null,
+          "description": "Wrapped",
+          "link": "https://wrapped.com/",
+          "publishedOn": "2023-01-16T01:00:02.000Z",
+          "wordCount": 1021,
+          "title": "Wrapped",
+          "imageUrl": "https://ucarecdn.com/08c7461b-79ac-4c03-a6db-a7cf417776d3/image.png"
+        },
+        {
+          "id": "https://ultrasound.money/",
+          "author": null,
+          "description": "Ultra Sound Money",
+          "link": "https://ultrasound.money/",
+          "publishedOn": "2023-01-15T23:30:03.000Z",
+          "wordCount": 764,
+          "title": "Ultra Sound Money",
+          "imageUrl": "https://ultrasound.money/og-image.png"
+        },
+        {
           "id": "https://www.ar.ca/digital-asset-types",
           "author": null,
           "description": "Types of Digital Assets | Arca",
@@ -46,16 +116,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/why-was-hunter-biden-paying-joe-50k-month-rent-house-where-classified-documents-found",
-          "author": null,
-          "description": "Why Was Hunter Paying Joe Biden $50k Per Month To Rent House Where Classified Documents Found? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/why-was-hunter-biden-paying-joe-50k-month-rent-house-where-classified-documents-found",
-          "publishedOn": "2023-01-15T23:00:03.000Z",
-          "wordCount": 1531,
-          "title": "Why Was Hunter Paying Joe Biden $50k Per Month To Rent House Where Classified Documents Found? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/smartcontracts/simple-optimism-node/pull/36",
           "author": null,
           "description": "feat: add Bedrock Goerli support by smartcontracts · Pull Request #36 · smartcontracts/simple-optimism-node",
@@ -81,9 +141,9 @@
           "description": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
           "link": "https://github.com/Vectorized/solady",
           "publishedOn": "2023-01-15T22:00:04.000Z",
-          "wordCount": 901,
+          "wordCount": 996,
           "title": "GitHub - Vectorized/solady: Optimized Solidity snippets.",
-          "imageUrl": "https://opengraph.githubassets.com/f6a8f87cabb59981187429c39510da20c0fcfe6c81a0e4f25be4445c410e629d/Vectorized/solady"
+          "imageUrl": "https://opengraph.githubassets.com/36ddc9144778bbebcd65d8d4d23ccf928b742c4a1198d2e3a8eec9428e977873/Vectorized/solady"
         },
         {
           "id": "https://numismatics.org/pocketchange/receipts/",
@@ -94,56 +154,6 @@
           "wordCount": 2831,
           "title": "A Brief History of the Receipt",
           "imageUrl": "https://numismatics.org/wp-content/uploads/Receipts-2022-12-02-09.09.34.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/record",
-          "author": null,
-          "description": "\"For The Record\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/record",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 5391,
-          "title": "\"For The Record\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/adam-schiff-admits-possible-national-security-jeopardized-biden-documents",
-          "author": null,
-          "description": "Adam Schiff Admits Possible National Security Jeopardized With Biden Documents | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/adam-schiff-admits-possible-national-security-jeopardized-biden-documents",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 825,
-          "title": "Adam Schiff Admits Possible National Security Jeopardized With Biden Documents | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/pentagon-exploring-back-pay-troops-kicked-out-over-covid-vaccine-mandate",
-          "author": null,
-          "description": "Pentagon \"Exploring\" Back-Pay For Troops Kicked Out Over COVID Vaccine Mandate | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/pentagon-exploring-back-pay-troops-kicked-out-over-covid-vaccine-mandate",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 1603,
-          "title": "Pentagon \"Exploring\" Back-Pay For Troops Kicked Out Over COVID Vaccine Mandate | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://open.spotify.com/episode/599y7B0QsofUt0rJ5wx28z?si=HwV0s6b5RGS59dwtP-Za_Q",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/599y7B0QsofUt0rJ5wx28z?si=HwV0s6b5RGS59dwtP-Za_Q",
-          "publishedOn": "2023-01-15T21:00:03.000Z",
-          "wordCount": 459,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a193a7342b8c7d8bf0be2343d"
-        },
-        {
-          "id": "https://epicenter.tv/episodes/328/",
-          "author": null,
-          "description": "ZeroLaw – A Philosophy of Securities Laws for Tokenized Networks • Epicenter",
-          "link": "https://epicenter.tv/episodes/328/",
-          "publishedOn": "2023-01-15T20:00:04.000Z",
-          "wordCount": 9849,
-          "title": "ZeroLaw – A Philosophy of Securities Laws for Tokenized Networks • Epicenter",
-          "imageUrl": "https://epicenter.flywheelsites.com/wp-content/uploads/2020/02/328_Video.jpg"
         },
         {
           "id": "https://starkwaresessions.co/",
@@ -161,7 +171,7 @@
           "description": "How Proof of Stake Ethereum Works",
           "link": "https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works",
           "publishedOn": "2023-01-15T14:30:02.000Z",
-          "wordCount": 1659,
+          "wordCount": 1660,
           "title": "How Proof of Stake Ethereum Works",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F758a919d-0c60-4682-b259-33d11687cf52_460x612.png"
         },
@@ -183,16 +193,6 @@
           "publishedOn": "2023-01-15T04:00:03.000Z",
           "wordCount": null,
           "title": "The Chopping Block: Why Gemini Users Are Mad at Genesis and DCG - Ep. 443",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ml52i-qqaaa-aaaar-qaaba-cai.raw.ic0.app/dashboard",
-          "author": null,
-          "description": "Minter Dashboard",
-          "link": "https://ml52i-qqaaa-aaaar-qaaba-cai.raw.ic0.app/dashboard",
-          "publishedOn": "2023-01-15T03:00:02.000Z",
-          "wordCount": 1348,
-          "title": "Minter Dashboard",
           "imageUrl": null
         },
         {
