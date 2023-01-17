@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.overcomingbias.com/2010/01/free-hearing-not-speech.html",
+          "author": null,
+          "description": "Overcoming Bias : Free Hearing, Not Speech",
+          "link": "https://www.overcomingbias.com/2010/01/free-hearing-not-speech.html",
+          "publishedOn": "2023-01-17T07:30:08.000Z",
+          "wordCount": 820,
+          "title": "Overcoming Bias : Free Hearing, Not Speech",
+          "imageUrl": null
+        },
+        {
           "id": "https://people.eecs.berkeley.edu/~ksk/files/GDA.pdf",
           "author": null,
           "description": "[PDF] GDA.pdf",
@@ -16,22 +26,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/why-tiktok-must-be-banned-us-and-free-world",
-          "author": null,
-          "description": "Why TikTok Must Be Banned In US And Free World | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/why-tiktok-must-be-banned-us-and-free-world",
-          "publishedOn": "2023-01-17T05:00:03.000Z",
-          "wordCount": 3284,
-          "title": "Why TikTok Must Be Banned In US And Free World | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/202661/coinflex-says-new-exchange-with-3ac-founders-wont-use-gtx-name-after-twitter-ridicule?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Coinflex says new exchange with 3AC founders won't use GTX name after Twitter ridicule",
           "link": "https://www.theblock.co/post/202661/coinflex-says-new-exchange-with-3ac-founders-wont-use-gtx-name-after-twitter-ridicule?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-17T05:00:02.000Z",
-          "wordCount": 60547,
+          "wordCount": 60185,
           "title": "Coinflex says new exchange with 3AC founders won't use GTX name after Twitter ridicule",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200629_Coinflex_Daily-1200x675.jpg"
         },
@@ -44,16 +44,6 @@
           "wordCount": 2192,
           "title": "\"A Historic Turning Point\": China Reports Blowout Q4 Economic Data As Population Falls For First Time In Decades |...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nansen.ai/",
-          "author": null,
-          "description": "Nansen - Crypto, DeFi & NFT Analytics",
-          "link": "https://www.nansen.ai/",
-          "publishedOn": "2023-01-17T03:30:04.000Z",
-          "wordCount": 1042,
-          "title": "Nansen - Crypto, DeFi & NFT Analytics",
-          "imageUrl": "https://assets-global.website-files.com/60118ca18674407b85935203/629917e0522f329567a38d70_blokcchaindata%20%20gif%20under%204.gif"
         },
         {
           "id": "http://andolfatto.blogspot.com/2011/03/out-of-thin-air.html",
@@ -71,9 +61,9 @@
           "description": "CoinDesk Broke Big News About FTX. Now the News Is Closer to Home.",
           "link": "https://www.nytimes.com/2023/01/16/business/media/coindesk-ftx-cryptocurrency.html",
           "publishedOn": "2023-01-17T01:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 5771,
           "title": "CoinDesk Broke Big News About FTX. Now the News Is Closer to Home.",
-          "imageUrl": null
+          "imageUrl": "https://static01.nyt.com/images/2023/01/16/multimedia/15ALTbizsky-coindesk-print/00coindesk-01-1-ff07-facebookJumbo.jpg"
         },
         {
           "id": "https://github.com/ethereum/pm/issues/708",
@@ -104,6 +94,16 @@
           "wordCount": 2755,
           "title": "Announcing the KZG Ceremony | Ethereum Foundation Blog",
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_81534446e4a8d0f543f70f95f245700f.png"
+        },
+        {
+          "id": "https://www.tcme.io/ultimate-conqueror",
+          "author": null,
+          "description": "Tower Conquest: Metaverse Edition | TC:ME Tournament",
+          "link": "https://www.tcme.io/ultimate-conqueror",
+          "publishedOn": "2023-01-16T21:00:03.000Z",
+          "wordCount": 752,
+          "title": "Tower Conquest: Metaverse Edition | TC:ME Tournament",
+          "imageUrl": "http://cdn.mcauto-images-production.sendgrid.net/842bcca2184e7be6/04ef0888-0c3d-4e62-9c3b-3cfea4e04b5e/1200x630.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=ALl8xj5hG8Q",
@@ -171,7 +171,7 @@
           "description": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
           "link": "https://www.theblock.co/post/202589/3ac-zhu-davies-new-crypto-exchange?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-16T15:00:19.000Z",
-          "wordCount": 60721,
+          "wordCount": 60359,
           "title": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220719_3AC_Generic2-1200x675.jpg"
         },
