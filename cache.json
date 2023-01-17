@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/cheethas/weiroll-huff",
+          "author": null,
+          "description": "GitHub - cheethas/weiroll-huff: An port of the weiroll vm in huff",
+          "link": "https://github.com/cheethas/weiroll-huff",
+          "publishedOn": "2023-01-17T17:00:03.000Z",
+          "wordCount": 910,
+          "title": "GitHub - cheethas/weiroll-huff: An port of the weiroll vm in huff",
+          "imageUrl": "https://opengraph.githubassets.com/e022a04d3bac4ecb26a732699e4eefedb8610a178e965b943c37a90341bf9bfa/cheethas/weiroll-huff"
+        },
+        {
+          "id": "https://www.axios.com/2023/01/17/robinhood-media-joshua-topolsky",
+          "author": null,
+          "description": "Robinhood launching new media arm led by Joshua Topolsky",
+          "link": "https://www.axios.com/2023/01/17/robinhood-media-joshua-topolsky",
+          "publishedOn": "2023-01-17T17:00:03.000Z",
+          "wordCount": 2454,
+          "title": "Robinhood launching new media arm led by Joshua Topolsky",
+          "imageUrl": "https://images.axios.com/Rbe4-CvAWJCD2B7_j7HztQurUeA=/0x108:3000x1796/1366x768/2023/01/17/1673929301855.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/dealmaking-freeze-hits-london-offices-after-truss-mini-budget-sparked-turmoil",
+          "author": null,
+          "description": "Dealmaking Freeze Hits London Offices After Truss' 'Mini-Budget' Sparked Turmoil | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/dealmaking-freeze-hits-london-offices-after-truss-mini-budget-sparked-turmoil",
+          "publishedOn": "2023-01-17T16:30:02.000Z",
+          "wordCount": 903,
+          "title": "Dealmaking Freeze Hits London Offices After Truss' 'Mini-Budget' Sparked Turmoil | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://luigidemeo.substack.com/p/why-developers-are-building-on-avalanche?sd=pf",
           "author": null,
           "description": "Why Developers are Building on Avalanche.",
@@ -46,6 +76,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ceremony.ethereum.org/",
+          "author": null,
+          "description": "KZG Summoning Ceremony",
+          "link": "https://ceremony.ethereum.org/",
+          "publishedOn": "2023-01-17T11:00:03.000Z",
+          "wordCount": 25,
+          "title": "KZG Summoning Ceremony",
+          "imageUrl": "https://ceremony.ethereum.org/og-image.png"
+        },
+        {
           "id": "https://www.overcomingbias.com/2010/01/free-hearing-not-speech.html",
           "author": null,
           "description": "Overcoming Bias : Free Hearing, Not Speech",
@@ -81,19 +121,9 @@
           "description": "Coinflex says new exchange with 3AC founders won't use GTX name after Twitter ridicule",
           "link": "https://www.theblock.co/post/202661/coinflex-says-new-exchange-with-3ac-founders-wont-use-gtx-name-after-twitter-ridicule?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-17T05:00:02.000Z",
-          "wordCount": 63548,
+          "wordCount": 63049,
           "title": "Coinflex says new exchange with 3AC founders won't use GTX name after Twitter ridicule",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/06/20200629_Coinflex_Daily-1200x675.jpg"
-        },
-        {
-          "id": "http://andolfatto.blogspot.com/2011/03/out-of-thin-air.html",
-          "author": null,
-          "description": "Out of thin air?",
-          "link": "http://andolfatto.blogspot.com/2011/03/out-of-thin-air.html",
-          "publishedOn": "2023-01-17T01:30:04.000Z",
-          "wordCount": 17499,
-          "title": "<i>Out of thin air?</i>",
-          "imageUrl": null
         },
         {
           "id": "https://dev.tableland.xyz/blog/launch-week-tableland-upgrades-more",
@@ -174,36 +204,6 @@
           "wordCount": 1517,
           "title": "KZG Ceremony Grant Round | Ethereum Foundation Blog",
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_7d22bc5d7be9c0d5d8f50161734559ae.png"
-        },
-        {
-          "id": "https://github.com/solana-foundation/solana-improvement-documents/pull/16",
-          "author": null,
-          "description": "Application write account fees by godmodegalactus · Pull Request #16 · solana-foundation/solana-improvement-documents",
-          "link": "https://github.com/solana-foundation/solana-improvement-documents/pull/16",
-          "publishedOn": "2023-01-16T19:00:02.000Z",
-          "wordCount": 1362,
-          "title": "Application write account fees by godmodegalactus · Pull Request #16 · solana-foundation/solana-improvement-documents",
-          "imageUrl": "https://opengraph.githubassets.com/509c6ca523596706671beb610b8a02d91fc77762628669a55a9e34daf2ca1139/solana-foundation/solana-improvement-documents/pull/16"
-        },
-        {
-          "id": "https://governance.aave.com/t/arc-onboard-reth-rocket-pool-eth-to-aave-v3-ethereum-market/11371",
-          "author": null,
-          "description": "[ARC] Onboard rETH (rocket pool ETH) to Aave V3 ethereum market",
-          "link": "https://governance.aave.com/t/arc-onboard-reth-rocket-pool-eth-to-aave-v3-ethereum-market/11371",
-          "publishedOn": "2023-01-16T19:00:02.000Z",
-          "wordCount": 1535,
-          "title": "[ARC] Onboard rETH (rocket pool ETH) to Aave V3 ethereum market",
-          "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/optimized/2X/0/057156455e5ad9a6c7df8dd262465761ff8c2d81_2_1024x168.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/202589/3ac-zhu-davies-new-crypto-exchange?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
-          "link": "https://www.theblock.co/post/202589/3ac-zhu-davies-new-crypto-exchange?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-16T15:00:19.000Z",
-          "wordCount": 63198,
-          "title": "3AC founders Zhu and Davies pitch to raise $25 million for new crypto exchange",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/07/20220719_3AC_Generic2-1200x675.jpg"
         }
       ]
     }
