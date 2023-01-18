@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/geopolitical/new-zeland-beta-test-western-governments-micromanaging-populace",
+          "author": null,
+          "description": "Is New Zealand A Beta Test For Western Governments Micromanaging The Populace? | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/new-zeland-beta-test-western-governments-micromanaging-populace",
+          "publishedOn": "2023-01-18T05:00:05.000Z",
+          "wordCount": 1957,
+          "title": "Is New Zealand A Beta Test For Western Governments Micromanaging The Populace? | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/santa-monica-not-safe-billboard-returns-more-way",
+          "author": null,
+          "description": "\"Santa Monica Is Not Safe\" Billboard Returns, More On The Way | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/santa-monica-not-safe-billboard-returns-more-way",
+          "publishedOn": "2023-01-18T05:00:05.000Z",
+          "wordCount": 1606,
+          "title": "\"Santa Monica Is Not Safe\" Billboard Returns, More On The Way | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/ftx-debtors-provide-additional-information-to-customers-and-other-stakeholders-301723770.html",
           "author": null,
           "description": "FTX Debtors Provide Additional Information to Customers and Other Stakeholders",
@@ -14,16 +34,6 @@
           "wordCount": 2114,
           "title": "FTX Debtors Provide Additional Information to Customers and Other Stakeholders",
           "imageUrl": "https://mma.prnewswire.com/media/1950453/FTX_Logo.jpg?p=facebook"
-        },
-        {
-          "id": "https://github.com/foundry-rs/foundry-toolchain",
-          "author": null,
-          "description": "GitHub - foundry-rs/foundry-toolchain: GitHub action to install Foundry",
-          "link": "https://github.com/foundry-rs/foundry-toolchain",
-          "publishedOn": "2023-01-18T03:00:02.000Z",
-          "wordCount": 932,
-          "title": "GitHub - foundry-rs/foundry-toolchain: GitHub action to install Foundry",
-          "imageUrl": "https://opengraph.githubassets.com/0dc45a4676cdda2f98945b5f665c29d0d9082152ae27455d7a8d1cf334e7db82/foundry-rs/foundry-toolchain"
         },
         {
           "id": "https://www.symphonious.net/2023/01/18/moving-on-from-consensys/",
@@ -54,16 +64,6 @@
           "wordCount": 2124,
           "title": "Centralization Threat to MakerDAO and DAI by Coinbase and Gemini - Blec Report",
           "imageUrl": "https://blec.report/wp-content/uploads/2023/01/Chris_Blec_house_on_fire_0ca6705c-b65c-453f-8ad2-b4377ce7832e-1.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/freight-market-has-bottomed",
-          "author": null,
-          "description": "The Freight Market Has Bottomed | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/freight-market-has-bottomed",
-          "publishedOn": "2023-01-18T03:00:02.000Z",
-          "wordCount": 1163,
-          "title": "The Freight Market Has Bottomed | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
@@ -121,7 +121,7 @@
           "description": "More than semantics: \"crypto\" vs. \"web3\" is about what will be decentralized",
           "link": "https://jessewalden.com/decentralization-assets-protocols-products/",
           "publishedOn": "2023-01-17T20:30:03.000Z",
-          "wordCount": 920,
+          "wordCount": 919,
           "title": "More than semantics: \"crypto\" vs. \"web3\" is about what will be decentralized",
           "imageUrl": null
         },
