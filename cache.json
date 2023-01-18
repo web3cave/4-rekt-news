@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2023/01/16/opinion/the-crypto-collapse-magical-thinking-capitalism.html",
+          "author": null,
+          "description": "Opinion | The Crypto Collapse and the End of the Magical Thinking That Infected Capitalism",
+          "link": "https://www.nytimes.com/2023/01/16/opinion/the-crypto-collapse-magical-thinking-capitalism.html",
+          "publishedOn": "2023-01-18T13:00:03.000Z",
+          "wordCount": 4754,
+          "title": "Opinion | The Crypto Collapse and the End of the Magical Thinking That Infected Capitalism",
+          "imageUrl": "https://static01.nyt.com/images/2023/01/18/opinion/07desai/07desai-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "author": null,
           "description": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "link": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/?utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2023-01-18T10:30:04.000Z",
-          "wordCount": 27396,
+          "wordCount": 27443,
           "title": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "imageUrl": "https://www.coindesk.com/resizer/I2NCbdg47scFngPR5xhUx1oo7Sc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
         },
@@ -24,16 +34,6 @@
           "wordCount": 6592,
           "title": "Discord acquires Gas, the popular app for teens to compliment each other",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/s5EIvmsQlqqvemOYJx-9IbHFFwA=/0x0:1155x809/1200x628/filters:focal(578x405:579x406)/cdn.vox-cdn.com/uploads/chorus_asset/file/24365808/n3fRplW.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yX39J_YyKbs",
-          "author": null,
-          "description": "I am a champion - the greatest speech ever [ENG SUB]",
-          "link": "https://www.youtube.com/watch?v=yX39J_YyKbs",
-          "publishedOn": "2023-01-18T09:00:04.000Z",
-          "wordCount": null,
-          "title": "I am a champion - the greatest speech ever [ENG SUB]",
-          "imageUrl": null
         },
         {
           "id": "https://danijar.com/project/daydreamer/",
@@ -91,7 +91,7 @@
           "description": "FTX US Balance Update 2023-01-17",
           "link": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "publishedOn": "2023-01-18T02:00:05.000Z",
-          "wordCount": 3696,
+          "wordCount": 3694,
           "title": "FTX US Balance Update 2023-01-17",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa86287b-c525-46dd-9e83-42865130c2d3_1363x470.png"
         },
@@ -186,14 +186,14 @@
           "imageUrl": "https://opengraph.githubassets.com/6b366ab8a07653ae8d2d3425395c59e55c764d1fe829b0585163af64f013aab8/paritytech/polkadot/pull/4097"
         },
         {
-          "id": "https://luigidemeo.substack.com/p/why-developers-are-building-on-avalanche?sd=pf",
+          "id": "https://polygon.technology/blog/hardfork-incoming-upgrading-polygon-pos-chain-to-boost-performance",
           "author": null,
-          "description": "Why Developers are Building on Avalanche.",
-          "link": "https://luigidemeo.substack.com/p/why-developers-are-building-on-avalanche?sd=pf",
-          "publishedOn": "2023-01-17T16:00:06.000Z",
-          "wordCount": 3185,
-          "title": "Why Developers are Building on Avalanche.",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce3bc443-e9e1-48ff-b434-c0bdc9d9599f_331x396.webp"
+          "description": "Hardfork Incoming: Upgrading Polygon PoS Chain to Boost Performance — Polygon | Blog",
+          "link": "https://polygon.technology/blog/hardfork-incoming-upgrading-polygon-pos-chain-to-boost-performance",
+          "publishedOn": "2023-01-17T18:30:02.000Z",
+          "wordCount": 15008,
+          "title": "Hardfork Incoming: Upgrading Polygon PoS Chain to Boost Performance — Polygon | Blog",
+          "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2023/01/polygon-pos-hardfork-upgrades.jpeg"
         },
         {
           "id": "https://esp.ethereum.foundation/academic-grants-2023",
