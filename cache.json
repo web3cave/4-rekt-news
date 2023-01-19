@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ueOyt2CKs7Y&feature=youtu.be",
+          "author": null,
+          "description": "Sustainable demand, 2fa for transactions and more - The Daily Gwei Refuel #526 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=ueOyt2CKs7Y&feature=youtu.be",
+          "publishedOn": "2023-01-19T09:30:06.000Z",
+          "wordCount": null,
+          "title": "Sustainable demand, 2fa for transactions and more - The Daily Gwei Refuel #526 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/203614/national-australia-bank-creates-stablecoin-called-audn-afr?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "National Australia Bank creates stablecoin called AUDN: AFR",
           "link": "https://www.theblock.co/post/203614/national-australia-bank-creates-stablecoin-called-audn-afr?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-19T08:30:02.000Z",
-          "wordCount": 59828,
+          "wordCount": 60157,
           "title": "National Australia Bank creates stablecoin called AUDN: AFR",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210409_Central_Bank_Generic-1200x675.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "Peter Thiel’s fund wound down 8-year bitcoin bet before market crash",
           "link": "https://www.ft.com/content/0a1d5597-7145-4035-987b-ff033bba3d75",
           "publishedOn": "2023-01-19T03:00:02.000Z",
-          "wordCount": 1656,
+          "wordCount": 1645,
           "title": "Peter Thiel’s fund wound down 8-year bitcoin bet before market crash",
           "imageUrl": null
         },
@@ -71,19 +81,9 @@
           "description": "WSJ News Exclusive | Crypto Media Outlet CoinDesk Taps Bankers for Potential Sale",
           "link": "https://www.wsj.com/articles/crypto-media-outlet-coindesk-taps-bankers-for-potential-sale-11674076000",
           "publishedOn": "2023-01-19T03:00:02.000Z",
-          "wordCount": 7403,
+          "wordCount": 7391,
           "title": "WSJ News Exclusive | Crypto Media Outlet CoinDesk Taps Bankers for Potential Sale",
           "imageUrl": "https://images.wsj.net/im-705844/social"
-        },
-        {
-          "id": "https://www.theblock.co/post/203310/genesis-creditors-negotiating-prepackaged-bankruptcy-sources?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Genesis creditors negotiating prepackaged bankruptcy: Sources",
-          "link": "https://www.theblock.co/post/203310/genesis-creditors-negotiating-prepackaged-bankruptcy-sources?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-18T20:30:03.000Z",
-          "wordCount": 60284,
-          "title": "Genesis creditors negotiating prepackaged bankruptcy: Sources",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221105_Genesis2-1200x675.jpg"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/01/17/finnish-minister-calls-for-eu-law-to-recognize-daos/?utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter&utm_medium=social",
@@ -151,7 +151,7 @@
           "description": "WSJ News Exclusive | Little-Known Surveillance Program Captures Money Transfers Between U.S. and More Than 20 Countries",
           "link": "https://www.wsj.com/articles/little-known-surveillance-program-captures-money-transfers-between-u-s-and-more-than-20-countries-11674019904",
           "publishedOn": "2023-01-18T14:30:03.000Z",
-          "wordCount": 8082,
+          "wordCount": 8070,
           "title": "WSJ News Exclusive | Little-Known Surveillance Program Captures Money Transfers Between U.S. and More Than 20 Countries",
           "imageUrl": "https://images.wsj.net/im-703019/social"
         },
@@ -161,7 +161,7 @@
           "description": "Binance Moves Forward With Local Development and Regulatory Compliance in Poland | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-moves-forward-with-local-development-and-regulatory-compliance-in-poland-1233996135851733478",
           "publishedOn": "2023-01-18T14:00:05.000Z",
-          "wordCount": 6165,
+          "wordCount": 6276,
           "title": "Binance Moves Forward With Local Development and Regulatory Compliance in Poland | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230118/54d7052d-dfac-4c4d-a0c0-41ababeef0f3.png"
         },
@@ -171,7 +171,7 @@
           "description": "ParagonsDAO Price: PDT Live Price Chart & News | CoinGecko",
           "link": "https://www.coingecko.com/en/coins/paragonsdao",
           "publishedOn": "2023-01-18T13:30:07.000Z",
-          "wordCount": 4055,
+          "wordCount": 2679,
           "title": "ParagonsDAO Price: PDT Live Price Chart & News | CoinGecko",
           "imageUrl": "https://assets.coingecko.com/coins/images/22642/large/6_Ms7ltG_400x400.jpg?1642395792"
         },
@@ -181,7 +181,7 @@
           "description": "Did It Really Take Just 13 People To Hard Fork Polygon? - Decrypt",
           "link": "https://decrypt.co/119428/polygon-hard-fork-validator-vote-decentralization",
           "publishedOn": "2023-01-18T07:30:07.000Z",
-          "wordCount": 7834,
+          "wordCount": 7933,
           "title": "Did It Really Take Just 13 People To Hard Fork Polygon? - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Yikes-1-gID_6.jpeg@png"
         },
