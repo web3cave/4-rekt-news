@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T03:21:25.001Z</id>
+    <id>urn:2023-01-19T04:24:00.817Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-19T03:21:25.001Z</updated>
+    <updated>2023-01-19T04:24:00.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -61,6 +61,16 @@
         <link href="https://slingshot.finance/"/>
         <updated>2023-01-19T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[Slingshot]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Derbyist]]></title>
+        <id>https://derby.ist/</id>
+        <link href="https://derby.ist/"/>
+        <updated>2023-01-19T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Derbyist]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://www.symphonious.net/2023/01/18/moving-on-from-consensys/"/>
         <updated>2023-01-18T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[Moving On From ConsenSys]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX US Balance Update 2023-01-17]]></title>
-        <id>https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17</id>
-        <link href="https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17"/>
-        <updated>2023-01-18T02:00:05.000Z</updated>
-        <summary type="html"><![CDATA[FTX US Balance Update 2023-01-17]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
