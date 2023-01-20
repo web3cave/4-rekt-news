@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dcgupdate.com/",
+          "author": null,
+          "description": "Home - DCG Letter to Shareholders",
+          "link": "https://dcgupdate.com/",
+          "publishedOn": "2023-01-20T19:00:02.000Z",
+          "wordCount": 3311,
+          "title": "Home - DCG Letter to Shareholders",
+          "imageUrl": "https://dcgupdate.com/wp-content/uploads/2023/01/DCG_OG.png"
+        },
+        {
+          "id": "https://nypost.com/2022/11/20/ftxs-ex-chief-regulatory-officer-tied-to-online-poker-scandal/",
+          "author": null,
+          "description": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
+          "link": "https://nypost.com/2022/11/20/ftxs-ex-chief-regulatory-officer-tied-to-online-poker-scandal/",
+          "publishedOn": "2023-01-20T18:30:02.000Z",
+          "wordCount": 19792,
+          "title": "FTX’s ‘chief regulatory officer’ Dan Friedberg tied to online poker scandal",
+          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2022/11/Dan-Friedberg-ftx-comp.jpg?quality=75&strip=all&w=1024"
+        },
+        {
+          "id": "https://red-packet.unlock-protocol.com/",
+          "author": null,
+          "description": "Red Packet",
+          "link": "https://red-packet.unlock-protocol.com/",
+          "publishedOn": "2023-01-20T17:30:05.000Z",
+          "wordCount": 14,
+          "title": "Red Packet",
+          "imageUrl": "https://unlock-protocol.com/images/blog/redpacket-rabbit/redpacket-rabbit.png"
+        },
+        {
           "id": "https://jessewalden.com/protocol-productive-fees-product-extractive-fees/",
           "author": null,
           "description": "Productive Fees : Valuable Protocols / Extractive Fees : Valuable Companies",
@@ -41,9 +71,9 @@
           "description": "Why Crypto Developer Activity Continues to Grow Despite the Bear Market - Ep. 445",
           "link": "https://unchainedpodcast.com/why-crypto-developer-activity-continues-to-grow-despite-the-bear-market-ep-445/",
           "publishedOn": "2023-01-20T17:00:02.000Z",
-          "wordCount": 8412,
+          "wordCount": 489,
           "title": "Why Crypto Developer Activity Continues to Grow Despite the Bear Market - Ep. 445",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2023/01/UN445-SOCIAL-v2.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://blog.google/inside-google/message-ceo/january-update/",
@@ -81,7 +111,7 @@
           "description": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "link": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
           "publishedOn": "2023-01-20T07:00:15.000Z",
-          "wordCount": 23655,
+          "wordCount": 23659,
           "title": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "imageUrl": "https://www.coindesk.com/resizer/B9d9-hIuxVveOD-TOY3XHf2WBWM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPIELPTEOFCFBMZMK37FF3FBA4.jpg"
         },
@@ -146,32 +176,12 @@
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
         },
         {
-          "id": "https://www.theblock.co/post/203568/zk-proof-funding-seed?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "ZK proof startup Ulvetanna raises $15 million in seed funding",
-          "link": "https://www.theblock.co/post/203568/zk-proof-funding-seed?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-19T19:30:04.000Z",
-          "wordCount": 62991,
-          "title": "ZK proof startup Ulvetanna raises $15 million in seed funding",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/20220117_Funding_Increase-1200x675.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/203706/web3-credential-protocol-gateway-raises-4-2-million-exclusive?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Web3 credential protocol Gateway raises $4.2 million",
-          "link": "https://www.theblock.co/post/203706/web3-credential-protocol-gateway-raises-4-2-million-exclusive?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-19T19:30:04.000Z",
-          "wordCount": 62948,
-          "title": "Web3 credential protocol Gateway raises $4.2 million",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup-1200x675.jpg"
-        },
-        {
           "id": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "author": null,
           "description": "FTX US Balance Update 2023-01-17",
           "link": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "publishedOn": "2023-01-19T19:00:02.000Z",
-          "wordCount": 6605,
+          "wordCount": 3748,
           "title": "FTX US Balance Update 2023-01-17",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbb39d1f-21cb-41ea-86e6-461ad9abe5f9_1363x470.png"
         },
@@ -184,16 +194,6 @@
           "wordCount": 496,
           "title": "Shanghai/Capella Community Call #1 · Issue #708 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/1b824d002790e0e527d60efce46caa05a1fd53debf162cb77c2c2ab1bb104e13/ethereum/pm/issues/708"
-        },
-        {
-          "id": "https://www.ulvetanna.io/news/introducing-ulvetanna",
-          "author": null,
-          "description": "Ulvetanna",
-          "link": "https://www.ulvetanna.io/news/introducing-ulvetanna",
-          "publishedOn": "2023-01-19T17:30:04.000Z",
-          "wordCount": 1134,
-          "title": "Ulvetanna",
-          "imageUrl": null
         },
         {
           "id": "https://ceremony.ethereum.org/",
