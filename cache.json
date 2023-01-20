@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.theblock.co/post/203953/law-firm-sullivan-cromwell-to-face-scrutiny-in-ftx-bankruptcy-hearing-friday?utm_source=twitter&utm_medium=social",
+          "id": "https://www.theblock.co/post/203732/raydium-hacker-funnels-2-7-million-through-tornado-cash-mixer?utm_source=twitter&utm_medium=social",
           "author": null,
-          "description": "Law firm Sullivan & Cromwell to face scrutiny in FTX bankruptcy hearing Friday",
-          "link": "https://www.theblock.co/post/203953/law-firm-sullivan-cromwell-to-face-scrutiny-in-ftx-bankruptcy-hearing-friday?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-20T02:00:08.000Z",
-          "wordCount": 64319,
-          "title": "Law firm Sullivan & Cromwell to face scrutiny in FTX bankruptcy hearing Friday",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/gavel-1-1200x675.jpg"
+          "description": "Raydium hacker funnels $2.7 million through Tornado Cash mixer",
+          "link": "https://www.theblock.co/post/203732/raydium-hacker-funnels-2-7-million-through-tornado-cash-mixer?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2023-01-20T03:00:03.000Z",
+          "wordCount": 62410,
+          "title": "Raydium hacker funnels $2.7 million through Tornado Cash mixer",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1-1200x675.jpg"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2023-11",
+          "author": null,
+          "description": "SEC.gov | Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product",
+          "link": "https://www.sec.gov/news/press-release/2023-11",
+          "publishedOn": "2023-01-20T03:00:03.000Z",
+          "wordCount": 1990,
+          "title": "SEC.gov | Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/203913/genesis-creditors-back-winklevoss-promissory-note-claim-as-possible-bankruptcy-looms",
+          "author": null,
+          "description": "Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms",
+          "link": "https://www.theblock.co/post/203913/genesis-creditors-back-winklevoss-promissory-note-claim-as-possible-bankruptcy-looms",
+          "publishedOn": "2023-01-20T03:00:03.000Z",
+          "wordCount": 63005,
+          "title": "Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221105_Genesis-1200x675.jpg"
         },
         {
           "id": "https://www.governor.nh.gov/news-and-media/governors-commission-cryptocurrencies-and-digital-assets-releases-final-report-and",
@@ -44,26 +64,6 @@
           "wordCount": 2101,
           "title": "On-Chain Foreign Exchange and Cross-Border Payments",
           "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
-        },
-        {
-          "id": "https://uniswap.org/blog/uniswap-circle-foreign-exchange-defi",
-          "author": null,
-          "description": "How DeFi Can Cut Costs & Boost Transparency in Foreign Exchange Markets",
-          "link": "https://uniswap.org/blog/uniswap-circle-foreign-exchange-defi",
-          "publishedOn": "2023-01-19T21:00:03.000Z",
-          "wordCount": 1482,
-          "title": "How DeFi Can Cut Costs & Boost Transparency in Foreign Exchange Markets",
-          "imageUrl": "https://uniswap.org/images/posts/uniswap-circle-foreign-exchange-defi/banner.jpg"
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/704",
-          "author": null,
-          "description": "Execution Layer Meeting 153 · Issue #704 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/704",
-          "publishedOn": "2023-01-19T21:00:03.000Z",
-          "wordCount": 902,
-          "title": "Execution Layer Meeting 153 · Issue #704 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/14050ccc44629ad5d49a8ac77480df5b8ae22a201390b1a54e8ba68a9dd2b9a1/ethereum/pm/issues/704"
         },
         {
           "id": "https://variant.fund/articles/canto-a-layer-1-incentive-experiment/",
@@ -101,7 +101,7 @@
           "description": "FTX US Balance Update 2023-01-17",
           "link": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "publishedOn": "2023-01-19T19:00:02.000Z",
-          "wordCount": 3741,
+          "wordCount": 3746,
           "title": "FTX US Balance Update 2023-01-17",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbb39d1f-21cb-41ea-86e6-461ad9abe5f9_1363x470.png"
         },
@@ -121,7 +121,7 @@
           "description": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "link": "https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=e2tw",
           "publishedOn": "2023-01-19T17:30:04.000Z",
-          "wordCount": 7975,
+          "wordCount": 7992,
           "title": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "imageUrl": "https://images.wsj.net/im-706191/social"
         },
@@ -181,7 +181,7 @@
           "description": "Binance Will Delist BEAM on 2023-01-26 | Binance Support",
           "link": "https://www.binance.com/en/support/announcement/binance-will-delist-beam-on-2023-01-26-a80d47617f1046b883b5ba237d2c75a7",
           "publishedOn": "2023-01-19T07:00:03.000Z",
-          "wordCount": 10066,
+          "wordCount": 10111,
           "title": "Binance Will Delist BEAM on 2023-01-26 | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
         },
