@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.dnb.nl/en/innovations-in-payments-and-banking/everything-you-should-know-about-cryptos/",
+          "author": null,
+          "description": "Everything you should know about cryptos",
+          "link": "https://www.dnb.nl/en/innovations-in-payments-and-banking/everything-you-should-know-about-cryptos/",
+          "publishedOn": "2023-01-20T07:30:07.000Z",
+          "wordCount": 3288,
+          "title": "Everything you should know about cryptos",
+          "imageUrl": "https://www.dnb.nl/media/obslqutz/dnb-logo-desktop.svg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
           "author": null,
           "description": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "link": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
           "publishedOn": "2023-01-20T07:00:15.000Z",
-          "wordCount": 22397,
+          "wordCount": 22757,
           "title": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "imageUrl": "https://www.coindesk.com/resizer/B9d9-hIuxVveOD-TOY3XHf2WBWM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPIELPTEOFCFBMZMK37FF3FBA4.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "Raydium hacker funnels $2.7 million through Tornado Cash mixer",
           "link": "https://www.theblock.co/post/203732/raydium-hacker-funnels-2-7-million-through-tornado-cash-mixer?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-20T03:00:03.000Z",
-          "wordCount": 62418,
+          "wordCount": 61584,
           "title": "Raydium hacker funnels $2.7 million through Tornado Cash mixer",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211102_Hacker_General1-1200x675.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms",
           "link": "https://www.theblock.co/post/203913/genesis-creditors-back-winklevoss-promissory-note-claim-as-possible-bankruptcy-looms",
           "publishedOn": "2023-01-20T03:00:03.000Z",
-          "wordCount": 63003,
+          "wordCount": 62169,
           "title": "Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221105_Genesis-1200x675.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "ZK proof startup Ulvetanna raises $15 million in seed funding",
           "link": "https://www.theblock.co/post/203568/zk-proof-funding-seed?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-19T19:30:04.000Z",
-          "wordCount": 63278,
+          "wordCount": 62444,
           "title": "ZK proof startup Ulvetanna raises $15 million in seed funding",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/01/20220117_Funding_Increase-1200x675.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "Web3 credential protocol Gateway raises $4.2 million",
           "link": "https://www.theblock.co/post/203706/web3-credential-protocol-gateway-raises-4-2-million-exclusive?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-19T19:30:04.000Z",
-          "wordCount": 63242,
+          "wordCount": 62408,
           "title": "Web3 credential protocol Gateway raises $4.2 million",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220811_July_Funding_Roundup-1200x675.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "FTX US Balance Update 2023-01-17",
           "link": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "publishedOn": "2023-01-19T19:00:02.000Z",
-          "wordCount": 3746,
+          "wordCount": 3748,
           "title": "FTX US Balance Update 2023-01-17",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbb39d1f-21cb-41ea-86e6-461ad9abe5f9_1363x470.png"
         },
@@ -141,7 +151,7 @@
           "description": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "link": "https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=e2tw",
           "publishedOn": "2023-01-19T17:30:04.000Z",
-          "wordCount": 7927,
+          "wordCount": 8003,
           "title": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "imageUrl": "https://images.wsj.net/im-706191/social"
         },
@@ -161,7 +171,7 @@
           "description": "Flashbots seeks up to $50 million at a billion-dollar valuation",
           "link": "https://www.theblock.co/post/203637/flashbots-fundraise-billion-dollar-valuation?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-19T17:00:02.000Z",
-          "wordCount": 63057,
+          "wordCount": 62223,
           "title": "Flashbots seeks up to $50 million at a billion-dollar valuation",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Flashbots2-1200x675.jpg"
         },
@@ -184,16 +194,6 @@
           "wordCount": 7096,
           "title": "Bouncy Castle",
           "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
-        },
-        {
-          "id": "https://www.theblock.co/post/203614/national-australia-bank-creates-stablecoin-called-audn-afr?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "National Australia Bank creates stablecoin called AUDN: AFR",
-          "link": "https://www.theblock.co/post/203614/national-australia-bank-creates-stablecoin-called-audn-afr?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-19T08:30:02.000Z",
-          "wordCount": 62127,
-          "title": "National Australia Bank creates stablecoin called AUDN: AFR",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210409_Central_Bank_Generic-1200x675.jpg"
         },
         {
           "id": "https://ceremony.ethereum.org/",
