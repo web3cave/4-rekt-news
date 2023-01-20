@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.eth.limo/general/2023/01/20/stealth.html",
+          "author": null,
+          "description": "An incomplete guide to stealth addresses",
+          "link": "https://vitalik.eth.limo/general/2023/01/20/stealth.html",
+          "publishedOn": "2023-01-20T23:00:02.000Z",
+          "wordCount": 3445,
+          "title": "An incomplete guide to stealth addresses",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sec.gov/news/press-release/2023-13",
           "author": null,
           "description": "SEC.gov | SEC Charges Avraham Eisenberg with Manipulating Mango Markets’ “Governance Token” to Steal $116 Million of...",
@@ -41,7 +51,7 @@
           "description": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "link": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1646,
+          "wordCount": 1650,
           "title": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "link": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1550,
+          "wordCount": 1654,
           "title": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "imageUrl": "https://opengraph.githubassets.com/50e8f475696c91e40446865b3da463c0f9246a137b7736323b8a4ae5fa7d9292/synapsecns/synapse-contracts"
         },
@@ -131,19 +141,9 @@
           "description": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "link": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
           "publishedOn": "2023-01-20T07:00:15.000Z",
-          "wordCount": 23640,
+          "wordCount": 23736,
           "title": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
           "imageUrl": "https://www.coindesk.com/resizer/B9d9-hIuxVveOD-TOY3XHf2WBWM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPIELPTEOFCFBMZMK37FF3FBA4.jpg"
-        },
-        {
-          "id": "https://www.sec.gov/news/press-release/2023-11",
-          "author": null,
-          "description": "SEC.gov | Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product",
-          "link": "https://www.sec.gov/news/press-release/2023-11",
-          "publishedOn": "2023-01-20T03:00:03.000Z",
-          "wordCount": 1990,
-          "title": "SEC.gov | Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product",
-          "imageUrl": null
         },
         {
           "id": "https://www.theblock.co/post/203913/genesis-creditors-back-winklevoss-promissory-note-claim-as-possible-bankruptcy-looms",
