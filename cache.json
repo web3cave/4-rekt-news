@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://red-packet.unlock-protocol.com/",
-          "author": null,
-          "description": "Red Packet",
-          "link": "https://red-packet.unlock-protocol.com/",
-          "publishedOn": "2023-01-20T04:00:04.000Z",
-          "wordCount": 14,
-          "title": "Red Packet",
-          "imageUrl": "https://unlock-protocol.com/images/blog/redpacket-rabbit/redpacket-rabbit.png"
-        },
-        {
           "id": "https://www.theblock.co/post/203732/raydium-hacker-funnels-2-7-million-through-tornado-cash-mixer?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "Raydium hacker funnels $2.7 million through Tornado Cash mixer",
@@ -44,6 +34,16 @@
           "wordCount": 63248,
           "title": "Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221105_Genesis-1200x675.jpg"
+        },
+        {
+          "id": "https://forum.makerdao.com/t/paxos-makerdao-partnership-usdp-psm/19469?u=hexonaut",
+          "author": null,
+          "description": "Paxos & MakerDAO Partnership (USDP PSM)",
+          "link": "https://forum.makerdao.com/t/paxos-makerdao-partnership-usdp-psm/19469?u=hexonaut",
+          "publishedOn": "2023-01-20T03:00:02.000Z",
+          "wordCount": 947,
+          "title": "Paxos & MakerDAO Partnership (USDP PSM)",
+          "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
         },
         {
           "id": "https://www.governor.nh.gov/news-and-media/governors-commission-cryptocurrencies-and-digital-assets-releases-final-report-and",
@@ -121,7 +121,7 @@
           "description": "FTX US Balance Update 2023-01-17",
           "link": "https://sambf.substack.com/p/ftx-us-balance-update-2023-01-17",
           "publishedOn": "2023-01-19T19:00:02.000Z",
-          "wordCount": 3954,
+          "wordCount": 3746,
           "title": "FTX US Balance Update 2023-01-17",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbb39d1f-21cb-41ea-86e6-461ad9abe5f9_1363x470.png"
         },
@@ -141,7 +141,7 @@
           "description": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "link": "https://www.wsj.com/articles/new-ftx-chief-says-crypto-exchange-could-restart-11674143168?mod=e2tw",
           "publishedOn": "2023-01-19T17:30:04.000Z",
-          "wordCount": 7988,
+          "wordCount": 7992,
           "title": "WSJ News Exclusive | New FTX Chief Says Crypto Exchange Could Restart",
           "imageUrl": "https://images.wsj.net/im-706191/social"
         },

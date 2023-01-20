@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T05:17:30.179Z</id>
+    <id>urn:2023-01-20T06:23:55.754Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T05:17:30.179Z</updated>
+    <updated>2023-01-20T06:23:55.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Red Packet]]></title>
-        <id>https://red-packet.unlock-protocol.com/</id>
-        <link href="https://red-packet.unlock-protocol.com/"/>
-        <updated>2023-01-20T04:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Red Packet]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Raydium hacker funnels $2.7 million through Tornado Cash mixer]]></title>
         <id>https://www.theblock.co/post/203732/raydium-hacker-funnels-2-7-million-through-tornado-cash-mixer?utm_source=twitter&amp;utm_medium=social</id>
@@ -41,6 +31,16 @@
         <link href="https://www.theblock.co/post/203913/genesis-creditors-back-winklevoss-promissory-note-claim-as-possible-bankruptcy-looms"/>
         <updated>2023-01-20T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Genesis creditors back Winklevoss promissory note claim as possible bankruptcy looms]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paxos & MakerDAO Partnership (USDP PSM)]]></title>
+        <id>https://forum.makerdao.com/t/paxos-makerdao-partnership-usdp-psm/19469?u=hexonaut</id>
+        <link href="https://forum.makerdao.com/t/paxos-makerdao-partnership-usdp-psm/19469?u=hexonaut"/>
+        <updated>2023-01-20T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Paxos & MakerDAO Partnership (USDP PSM)]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
