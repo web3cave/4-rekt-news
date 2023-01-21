@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.developerreport.com/",
+          "author": null,
+          "description": "Developer Report",
+          "link": "https://www.developerreport.com/",
+          "publishedOn": "2023-01-21T06:00:07.000Z",
+          "wordCount": 144,
+          "title": "Developer Report",
+          "imageUrl": "https://www.developerreport.com/og/share-preview-home-beta2.png"
+        },
+        {
           "id": "https://www.technologyreview.com/2023/01/13/1066820/cryptocurrency-bitcoin-mining-congo-virunga-national-park/",
           "author": null,
           "description": "Gorillas, militias, and Bitcoin: Why Congo’s most famous national park is betting big on crypto",
@@ -41,7 +51,7 @@
           "description": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "link": "https://www.cnbc.com/2023/01/20/feds-seize-almost-700-million-of-sam-bankman-frieds-assets-in-cash-and-equity.html?__source=sharebar|twitter&par=sharebar",
           "publishedOn": "2023-01-21T01:00:02.000Z",
-          "wordCount": 16314,
+          "wordCount": 16181,
           "title": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107173336-1672772110476-gettyimages-1245964479-AFP_336F9CH.jpeg?v=1674255052&w=1920&h=1080"
         },
@@ -121,7 +131,7 @@
           "description": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "link": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1654,
+          "wordCount": 1550,
           "title": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "imageUrl": "https://opengraph.githubassets.com/8ea960915837332710ea71905af44ff7cec3cceacc7e9ea989ca9a0371dfe360/synapsecns/synapse-contracts"
         },
@@ -184,16 +194,6 @@
           "wordCount": 62014,
           "title": "Genesis owes more than $3.6 billion to top 50 creditors",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221105_Genesis2-1200x675.jpg"
-        },
-        {
-          "id": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
-          "author": null,
-          "description": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
-          "link": "https://www.coindesk.com/business/2023/01/20/genesis-global-files-for-bankruptcy-protection/?utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial&utm_term=organic&utm_medium=social",
-          "publishedOn": "2023-01-20T07:00:15.000Z",
-          "wordCount": 23662,
-          "title": "Genesis' Crypto Lending Businesses Files for Bankruptcy Protection",
-          "imageUrl": "https://www.coindesk.com/resizer/B9d9-hIuxVveOD-TOY3XHf2WBWM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPIELPTEOFCFBMZMK37FF3FBA4.jpg"
         },
         {
           "id": "https://uniswap.org/blog/uniswap-circle-foreign-exchange-defi",
