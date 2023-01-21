@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/drop-port-long-beach-imports-points-sharply-lower-inflation",
+          "author": null,
+          "description": "Plunge In Port Of Long Beach Imports Points To Sharply Lower Inflation | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/drop-port-long-beach-imports-points-sharply-lower-inflation",
+          "publishedOn": "2023-01-21T17:30:05.000Z",
+          "wordCount": 471,
+          "title": "Plunge In Port Of Long Beach Imports Points To Sharply Lower Inflation | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lyceummiami.com/",
           "author": null,
           "description": "LYCEUM Miami",
@@ -26,14 +36,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://dcgupdate.com/",
+          "id": "https://www.zerohedge.com/markets/three-core-pillars-bear-case",
           "author": null,
-          "description": "Home - DCG Letter to Shareholders",
-          "link": "https://dcgupdate.com/",
-          "publishedOn": "2023-01-21T16:00:05.000Z",
-          "wordCount": 3311,
-          "title": "Home - DCG Letter to Shareholders",
-          "imageUrl": "https://dcgupdate.com/wp-content/uploads/2023/01/DCG_OG.png"
+          "description": "The Three Core Pillars Of The Bear Case | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/three-core-pillars-bear-case",
+          "publishedOn": "2023-01-21T17:00:03.000Z",
+          "wordCount": 1251,
+          "title": "The Three Core Pillars Of The Bear Case | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://songaday.world/",
@@ -51,7 +61,7 @@
           "description": "Move idle users out of the lobby instead of logging them out by kustosz · Pull Request #176 ·...",
           "link": "https://github.com/ethereum/kzg-ceremony-sequencer/pull/176",
           "publishedOn": "2023-01-21T11:30:04.000Z",
-          "wordCount": 1726,
+          "wordCount": 1723,
           "title": "Move idle users out of the lobby instead of logging them out by kustosz · Pull Request #176 ·...",
           "imageUrl": "https://opengraph.githubassets.com/416d34cc85d7a1fc2e6ee2346c0ea830620eeea4519232d5415ff9b4abc45ab5/ethereum/kzg-ceremony-sequencer/pull/176"
         },
@@ -131,19 +141,9 @@
           "description": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "link": "https://www.cnbc.com/2023/01/20/feds-seize-almost-700-million-of-sam-bankman-frieds-assets-in-cash-and-equity.html?__source=sharebar|twitter&par=sharebar",
           "publishedOn": "2023-01-21T01:00:02.000Z",
-          "wordCount": 16180,
+          "wordCount": 16314,
           "title": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107173336-1672772110476-gettyimages-1245964479-AFP_336F9CH.jpeg?v=1674255052&w=1920&h=1080"
-        },
-        {
-          "id": "https://github.com/solana-labs/solana/issues/28755",
-          "author": null,
-          "description": "Program-Runtime v2 - Road Map · Issue #28755 · solana-labs/solana",
-          "link": "https://github.com/solana-labs/solana/issues/28755",
-          "publishedOn": "2023-01-20T23:30:04.000Z",
-          "wordCount": 1561,
-          "title": "Program-Runtime v2 - Road Map · Issue #28755 · solana-labs/solana",
-          "imageUrl": "https://opengraph.githubassets.com/b1b5bca2283c32b3e23e45eb9ff1ca2b637408901dfab21a250bb579615d444f/solana-labs/solana/issues/28755"
         },
         {
           "id": "https://vitalik.eth.limo/general/2023/01/20/stealth.html",
@@ -181,7 +181,7 @@
           "description": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "link": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1651,
+          "wordCount": 1645,
           "title": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "link": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1550,
+          "wordCount": 1654,
           "title": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "imageUrl": "https://opengraph.githubassets.com/8ea960915837332710ea71905af44ff7cec3cceacc7e9ea989ca9a0371dfe360/synapsecns/synapse-contracts"
         },
