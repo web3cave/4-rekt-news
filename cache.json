@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.lyceummiami.com/",
+          "author": null,
+          "description": "LYCEUM Miami",
+          "link": "https://www.lyceummiami.com/",
+          "publishedOn": "2023-01-21T17:00:03.000Z",
+          "wordCount": 4772,
+          "title": "LYCEUM Miami",
+          "imageUrl": "http://static1.squarespace.com/static/6348740b8f36810bdf72209f/t/63496cb8b950302c3f51cad1/1665756344859/LYCEUMMIAMI_LOGO-01.png?format=1500w"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/target-civilization",
+          "author": null,
+          "description": "Target: Civilization | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/target-civilization",
+          "publishedOn": "2023-01-21T17:00:03.000Z",
+          "wordCount": 2622,
+          "title": "Target: Civilization | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://dcgupdate.com/",
           "author": null,
           "description": "Home - DCG Letter to Shareholders",
@@ -14,6 +34,16 @@
           "wordCount": 3311,
           "title": "Home - DCG Letter to Shareholders",
           "imageUrl": "https://dcgupdate.com/wp-content/uploads/2023/01/DCG_OG.png"
+        },
+        {
+          "id": "https://songaday.world/",
+          "author": null,
+          "description": "Home | Song a Day World",
+          "link": "https://songaday.world/",
+          "publishedOn": "2023-01-21T14:30:02.000Z",
+          "wordCount": 909,
+          "title": "Home | Song a Day World",
+          "imageUrl": "https://songaday.world/assets/mint/same-traits/year_1_same_traits.jpg"
         },
         {
           "id": "https://github.com/ethereum/kzg-ceremony-sequencer/pull/176",
@@ -34,6 +64,16 @@
           "wordCount": null,
           "title": "GOOD NEWS GAMERS: OUR WORST Nightmare Just Got RAVAGED",
           "imageUrl": null
+        },
+        {
+          "id": "https://open.spotify.com/episode/0VV19FwBkWEeB2lBC7j0kM?si=EcXb18iMRVCADj9zzE75DQ",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/0VV19FwBkWEeB2lBC7j0kM?si=EcXb18iMRVCADj9zzE75DQ",
+          "publishedOn": "2023-01-21T10:00:05.000Z",
+          "wordCount": 497,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a6dd8427af8acd6595e430ba7"
         },
         {
           "id": "https://www.developerreport.com/",
@@ -91,7 +131,7 @@
           "description": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "link": "https://www.cnbc.com/2023/01/20/feds-seize-almost-700-million-of-sam-bankman-frieds-assets-in-cash-and-equity.html?__source=sharebar|twitter&par=sharebar",
           "publishedOn": "2023-01-21T01:00:02.000Z",
-          "wordCount": 16314,
+          "wordCount": 16180,
           "title": "Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107173336-1672772110476-gettyimages-1245964479-AFP_336F9CH.jpeg?v=1674255052&w=1920&h=1080"
         },
@@ -126,16 +166,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.grtiq.com/grtiq-podcast-100-Yaniv-Tal/",
-          "author": null,
-          "description": "GRTiQ Podcast: Episode #100 Yaniv Tal",
-          "link": "https://www.grtiq.com/grtiq-podcast-100-Yaniv-Tal/",
-          "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1323,
-          "title": "GRTiQ Podcast: Episode #100 Yaniv Tal",
-          "imageUrl": "https://www.grtiq.com/wp-content/uploads/2023/01/Twitter-Card-Yaniv.png"
-        },
-        {
           "id": "https://github.com/ethereum/solidity/issues/13885",
           "author": null,
           "description": "Memory allocation in for-loops are never treated as temporary · Issue #13885 · ethereum/solidity",
@@ -144,16 +174,6 @@
           "wordCount": 846,
           "title": "Memory allocation in for-loops are never treated as temporary · Issue #13885 · ethereum/solidity",
           "imageUrl": "https://opengraph.githubassets.com/723327b30c851a52c63c6b9622d5b613dd04a23975f1e184b61bbeedebd76712/ethereum/solidity/issues/13885"
-        },
-        {
-          "id": "https://blog.marsprotocol.io/blog/a-new-hope-unveiling-the-mars-hub-launch-sequence",
-          "author": null,
-          "description": "A New Hope: Unveiling the Mars Hub launch sequence",
-          "link": "https://blog.marsprotocol.io/blog/a-new-hope-unveiling-the-mars-hub-launch-sequence",
-          "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1305,
-          "title": "A New Hope: Unveiling the Mars Hub launch sequence",
-          "imageUrl": "https://uploads-ssl.webflow.com/63236e6e462b87596329c577/63cab53d0cc6823eaa01210d_mars-hub-mainnet-announcement.png"
         },
         {
           "id": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
@@ -171,19 +191,9 @@
           "description": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "link": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1654,
+          "wordCount": 1550,
           "title": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
           "imageUrl": "https://opengraph.githubassets.com/8ea960915837332710ea71905af44ff7cec3cceacc7e9ea989ca9a0371dfe360/synapsecns/synapse-contracts"
-        },
-        {
-          "id": "https://decrypt.co/119620/ethereum-devs-divided-staking-withdrawals-shanghai?utm_source=twitter&utm_medium=social&utm_campaign=auto",
-          "author": null,
-          "description": "Trouble in Ethereum? Devs Divided Over Staking Withdrawals in Shanghai Upgrade - Decrypt",
-          "link": "https://decrypt.co/119620/ethereum-devs-divided-staking-withdrawals-shanghai?utm_source=twitter&utm_medium=social&utm_campaign=auto",
-          "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 8321,
-          "title": "Trouble in Ethereum? Devs Divided Over Staking Withdrawals in Shanghai Upgrade - Decrypt",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/ethereum-merge-crypto-gID_4.jpeg@png"
         },
         {
           "id": "https://jessewalden.com/protocol-productive-fees-product-extractive-fees/",
@@ -194,16 +204,6 @@
           "wordCount": 1100,
           "title": "Productive Fees : Valuable Protocols / Extractive Fees : Valuable Companies",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.google/inside-google/message-ceo/january-update/",
-          "author": null,
-          "description": "A difficult decision to set us up for the future",
-          "link": "https://blog.google/inside-google/message-ceo/january-update/",
-          "publishedOn": "2023-01-20T13:30:04.000Z",
-          "wordCount": 1536,
-          "title": "A difficult decision to set us up for the future",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_google_small_-_color.max-900x900.jpg"
         }
       ]
     }
