@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/not-weather-whats-behind-californias-skyrocketing-natural-gas-bills",
+          "author": null,
+          "description": "\"Not The Weather\": What's Behind California's Skyrocketing Natural Gas Bills | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/not-weather-whats-behind-californias-skyrocketing-natural-gas-bills",
+          "publishedOn": "2023-01-21T19:00:03.000Z",
+          "wordCount": 1681,
+          "title": "\"Not The Weather\": What's Behind California's Skyrocketing Natural Gas Bills | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ft.com/content/64648e10-cc09-4304-a274-87b66d37d3bc",
+          "author": null,
+          "description": "‘Nightmare’: collapse of leading crypto lender traps investors",
+          "link": "https://www.ft.com/content/64648e10-cc09-4304-a274-87b66d37d3bc",
+          "publishedOn": "2023-01-21T19:00:02.000Z",
+          "wordCount": 1630,
+          "title": "‘Nightmare’: collapse of leading crypto lender traps investors",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/markets/drop-port-long-beach-imports-points-sharply-lower-inflation",
           "author": null,
           "description": "Plunge In Port Of Long Beach Imports Points To Sharply Lower Inflation | ZeroHedge",
@@ -61,7 +81,7 @@
           "description": "Move idle users out of the lobby instead of logging them out by kustosz · Pull Request #176 ·...",
           "link": "https://github.com/ethereum/kzg-ceremony-sequencer/pull/176",
           "publishedOn": "2023-01-21T11:30:04.000Z",
-          "wordCount": 1723,
+          "wordCount": 1726,
           "title": "Move idle users out of the lobby instead of logging them out by kustosz · Pull Request #176 ·...",
           "imageUrl": "https://opengraph.githubassets.com/416d34cc85d7a1fc2e6ee2346c0ea830620eeea4519232d5415ff9b4abc45ab5/ethereum/kzg-ceremony-sequencer/pull/176"
         },
@@ -174,26 +194,6 @@
           "wordCount": 846,
           "title": "Memory allocation in for-loops are never treated as temporary · Issue #13885 · ethereum/solidity",
           "imageUrl": "https://opengraph.githubassets.com/723327b30c851a52c63c6b9622d5b613dd04a23975f1e184b61bbeedebd76712/ethereum/solidity/issues/13885"
-        },
-        {
-          "id": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
-          "author": null,
-          "description": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
-          "link": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
-          "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1645,
-          "title": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
-          "author": null,
-          "description": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
-          "link": "https://github.com/synapsecns/synapse-contracts/blob/57d257bde381cf5306257b87c3d39b3c4f74098a/script/utils/BaseScript.sol#L90",
-          "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1654,
-          "title": "synapse-contracts/BaseScript.sol at 57d257bde381cf5306257b87c3d39b3c4f74098a · synapsecns/synapse-contracts",
-          "imageUrl": "https://opengraph.githubassets.com/8ea960915837332710ea71905af44ff7cec3cceacc7e9ea989ca9a0371dfe360/synapsecns/synapse-contracts"
         },
         {
           "id": "https://jessewalden.com/protocol-productive-fees-product-extractive-fees/",
