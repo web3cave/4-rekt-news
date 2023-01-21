@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dcgupdate.com/",
+          "author": null,
+          "description": "Home - DCG Letter to Shareholders",
+          "link": "https://dcgupdate.com/",
+          "publishedOn": "2023-01-21T16:00:05.000Z",
+          "wordCount": 3311,
+          "title": "Home - DCG Letter to Shareholders",
+          "imageUrl": "https://dcgupdate.com/wp-content/uploads/2023/01/DCG_OG.png"
+        },
+        {
           "id": "https://github.com/ethereum/kzg-ceremony-sequencer/pull/176",
           "author": null,
           "description": "Move idle users out of the lobby instead of logging them out by kustosz · Pull Request #176 ·...",
@@ -46,6 +56,16 @@
           "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2023/01/lede_Getty-92920389.jpeg?resize=1200,600"
         },
         {
+          "id": "https://notes.ethereum.org/@launchpad/withdrawals-faq",
+          "author": null,
+          "description": "ETH Withdrawals FAQ - HackMD",
+          "link": "https://notes.ethereum.org/@launchpad/withdrawals-faq",
+          "publishedOn": "2023-01-21T03:30:04.000Z",
+          "wordCount": 2247,
+          "title": "ETH Withdrawals FAQ - HackMD",
+          "imageUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSI5NiIgd2lkdGg9Ijk2IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA5NiA5NiI+PGc+PHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiBmaWxsPSIjZTAxNGNmIiAvPjx0ZXh0IGZvbnQtc2l6ZT0iNjRweCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiPjx0c3BhbiB4PSI0OCIgeT0iNzIiIHN0cm9rZS13aWR0aD0iLjI2NDU4cHgiIGZpbGw9IiNmZmZmZmYiPkw8L3RzcGFuPjwvdGV4dD48L2c+PC9zdmc+"
+        },
+        {
           "id": "https://www.sec.gov/litigation/complaints/2023/comp-pr2023-13.pdf",
           "author": null,
           "description": "[PDF] comp-pr2023-13.pdf",
@@ -54,16 +74,6 @@
           "wordCount": 6886,
           "title": "[PDF] comp-pr2023-13.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ethereum/pm/issues/708",
-          "author": null,
-          "description": "Shanghai/Capella Community Call #1 · Issue #708 · ethereum/pm",
-          "link": "https://github.com/ethereum/pm/issues/708",
-          "publishedOn": "2023-01-21T01:30:04.000Z",
-          "wordCount": 496,
-          "title": "Shanghai/Capella Community Call #1 · Issue #708 · ethereum/pm",
-          "imageUrl": "https://opengraph.githubassets.com/1b824d002790e0e527d60efce46caa05a1fd53debf162cb77c2c2ab1bb104e13/ethereum/pm/issues/708"
         },
         {
           "id": "https://kinsights.capital.bg/business/2023/01/20/4440659_nexo_co-founders_and_executives_charged_as_an/",
@@ -151,7 +161,7 @@
           "description": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "link": "https://www.ft.com/content/5bc8e50c-3ca6-4915-8f5d-f539166a78e3",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 1652,
+          "wordCount": 1651,
           "title": "FTX lawyers accuse Sam Bankman-Fried of ‘assault by Twitter’",
           "imageUrl": null
         },
@@ -171,7 +181,7 @@
           "description": "Trouble in Ethereum? Devs Divided Over Staking Withdrawals in Shanghai Upgrade - Decrypt",
           "link": "https://decrypt.co/119620/ethereum-devs-divided-staking-withdrawals-shanghai?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2023-01-20T21:00:02.000Z",
-          "wordCount": 8332,
+          "wordCount": 8321,
           "title": "Trouble in Ethereum? Devs Divided Over Staking Withdrawals in Shanghai Upgrade - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/ethereum-merge-crypto-gID_4.jpeg@png"
         },
@@ -184,16 +194,6 @@
           "wordCount": 1100,
           "title": "Productive Fees : Valuable Protocols / Extractive Fees : Valuable Companies",
           "imageUrl": null
-        },
-        {
-          "id": "https://unchainedpodcast.com/why-crypto-developer-activity-continues-to-grow-despite-the-bear-market-ep-445/",
-          "author": null,
-          "description": "Why Crypto Developer Activity Continues to Grow Despite the Bear Market - Ep. 445",
-          "link": "https://unchainedpodcast.com/why-crypto-developer-activity-continues-to-grow-despite-the-bear-market-ep-445/",
-          "publishedOn": "2023-01-20T17:00:02.000Z",
-          "wordCount": 8412,
-          "title": "Why Crypto Developer Activity Continues to Grow Despite the Bear Market - Ep. 445",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2023/01/UN445-SOCIAL-v2.jpg"
         },
         {
           "id": "https://blog.google/inside-google/message-ceo/january-update/",
