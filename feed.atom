@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T01:35:37.479Z</id>
+    <id>urn:2023-01-21T02:39:53.960Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T01:35:37.479Z</updated>
+    <updated>2023-01-21T02:39:53.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://www.sec.gov/litigation/complaints/2023/comp-pr2023-13.pdf"/>
         <updated>2023-01-21T01:30:04.000Z</updated>
         <summary type="html"><![CDATA[[PDF] comp-pr2023-13.pdf]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shanghai/Capella Community Call #1 · Issue #708 · ethereum/pm]]></title>
-        <id>https://github.com/ethereum/pm/issues/708</id>
-        <link href="https://github.com/ethereum/pm/issues/708"/>
-        <updated>2023-01-21T01:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Shanghai/Capella Community Call #1 · Issue #708 · ethereum/pm]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -81,6 +71,16 @@
         <link href="https://www.grtiq.com/grtiq-podcast-100-Yaniv-Tal/"/>
         <updated>2023-01-20T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[GRTiQ Podcast: Episode #100 Yaniv Tal]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory allocation in for-loops are never treated as temporary · Issue #13885 · ethereum/solidity]]></title>
+        <id>https://github.com/ethereum/solidity/issues/13885</id>
+        <link href="https://github.com/ethereum/solidity/issues/13885"/>
+        <updated>2023-01-20T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Memory allocation in for-loops are never treated as temporary · Issue #13885 · ethereum/solidity]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
