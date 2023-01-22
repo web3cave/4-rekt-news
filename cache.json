@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4",
+          "author": null,
+          "description": "Brazil and Argentina to start preparations for a common currency",
+          "link": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4",
+          "publishedOn": "2023-01-22T06:00:04.000Z",
+          "wordCount": 1651,
+          "title": "Brazil and Argentina to start preparations for a common currency",
+          "imageUrl": null
+        },
+        {
+          "id": "https://decrypt.co/119428/polygon-hard-fork-validator-vote-decentralization",
+          "author": null,
+          "description": "Did It Really Take Just 13 People To Hard Fork Polygon? - Decrypt",
+          "link": "https://decrypt.co/119428/polygon-hard-fork-validator-vote-decentralization",
+          "publishedOn": "2023-01-22T05:30:06.000Z",
+          "wordCount": 7516,
+          "title": "Did It Really Take Just 13 People To Hard Fork Polygon? - Decrypt",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Yikes-1-gID_6.jpeg@png"
+        },
+        {
           "id": "https://www.papr.wtf/",
           "author": null,
           "description": "Papr",
@@ -36,16 +56,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/?xid=soc_socialflow_twitter_FORTUNE&utm_campaign=fortunemagazine&utm_medium=social&utm_source=twitter.com",
-          "author": null,
-          "description": "ChatGPT passed a Wharton MBA exam and it’s still in its infancy. One professor is sounding the alarm",
-          "link": "https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/?xid=soc_socialflow_twitter_FORTUNE&utm_campaign=fortunemagazine&utm_medium=social&utm_source=twitter.com",
-          "publishedOn": "2023-01-22T03:00:02.000Z",
-          "wordCount": 3521,
-          "title": "ChatGPT passed a Wharton MBA exam and it’s still in its infancy. One professor is sounding the alarm",
-          "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/01/GettyImages-1246126800-e1674347358469.jpg?resize=1200,600"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=JsXbQhW4kAs",
           "author": null,
           "description": "Shippers & Carriers Fleeing From Port of Los Angeles? | Reported 9.9 Million Container Units in 2022",
@@ -56,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=9hf0XbtMnNc&t=709s",
-          "author": null,
-          "description": "NetEase Destroys Blizzard Statue; new Diablo 2 Runewords; & more gaming news",
-          "link": "https://www.youtube.com/watch?v=9hf0XbtMnNc&t=709s",
-          "publishedOn": "2023-01-22T03:00:02.000Z",
-          "wordCount": null,
-          "title": "NetEase Destroys Blizzard Statue; new Diablo 2 Runewords; & more gaming news",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/personal-finance/irs-reminds-wage-earners-adjust-2023-withholding-now-or-face-surprise-later",
           "author": null,
           "description": "IRS Reminds Wage Earners To Adjust 2023 Withholding Now Or Face A Surprise Later | ZeroHedge",
@@ -73,6 +73,16 @@
           "publishedOn": "2023-01-22T03:00:02.000Z",
           "wordCount": 1453,
           "title": "IRS Reminds Wage Earners To Adjust 2023 Withholding Now Or Face A Surprise Later | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/goldman-trader-sell-strength-any-move-back-toward-august-highs-4300",
+          "author": null,
+          "description": "Goldman Trader: \"Sell Strength On Any Move Back Toward The August Highs Of 4300\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/goldman-trader-sell-strength-any-move-back-toward-august-highs-4300",
+          "publishedOn": "2023-01-22T03:00:02.000Z",
+          "wordCount": 339,
+          "title": "Goldman Trader: \"Sell Strength On Any Move Back Toward The August Highs Of 4300\" | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -91,7 +101,7 @@
           "description": "Running a marathon in the Metaverse",
           "link": "https://www.youtube.com/live/mlFVZBe9-DM?feature=share",
           "publishedOn": "2023-01-21T21:00:02.000Z",
-          "wordCount": 4401,
+          "wordCount": 4430,
           "title": "Running a marathon in the Metaverse",
           "imageUrl": "https://i.ytimg.com/vi/mlFVZBe9-DM/maxresdefault.jpg"
         },
@@ -154,16 +164,6 @@
           "wordCount": 578,
           "title": "Spotify",
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a7129bbd1dad03b4baf967306"
-        },
-        {
-          "id": "https://www.developerreport.com/",
-          "author": null,
-          "description": "Developer Report",
-          "link": "https://www.developerreport.com/",
-          "publishedOn": "2023-01-21T06:00:07.000Z",
-          "wordCount": 144,
-          "title": "Developer Report",
-          "imageUrl": "https://www.developerreport.com/og/share-preview-home-beta2.png"
         },
         {
           "id": "https://notes.ethereum.org/@launchpad/withdrawals-faq",
