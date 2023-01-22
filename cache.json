@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://concoda.substack.com/p/the-coming-liquidity-squeeze",
+          "id": "https://skiff.com/blog/skiff-ens-ethereum-mail",
           "author": null,
-          "description": "The Coming Liquidity Squeeze",
-          "link": "https://concoda.substack.com/p/the-coming-liquidity-squeeze",
-          "publishedOn": "2023-01-22T19:00:03.000Z",
-          "wordCount": 6227,
-          "title": "The Coming Liquidity Squeeze",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F428f9bc3-3655-48d5-883c-65cdbbac1f6d_1024x875.png"
+          "description": "How to send and receive email using the Ethereum Name Service - Read more",
+          "link": "https://skiff.com/blog/skiff-ens-ethereum-mail",
+          "publishedOn": "2023-01-22T20:00:04.000Z",
+          "wordCount": 6290,
+          "title": "How to send and receive email using the Ethereum Name Service - Read more",
+          "imageUrl": "https://cdn.sanity.io/images/j846cla7/production/cc138ad6cae1312109ac3101753d0ac95dd56fa5-1851x1157.png"
+        },
+        {
+          "id": "https://www.nytimes.com/2023/01/16/opinion/the-crypto-collapse-magical-thinking-capitalism.html?smtyp=cur&smid=tw-nytopinion",
+          "author": null,
+          "description": "Opinion | The Crypto Collapse and the End of the Magical Thinking That Infected Capitalism",
+          "link": "https://www.nytimes.com/2023/01/16/opinion/the-crypto-collapse-magical-thinking-capitalism.html?smtyp=cur&smid=tw-nytopinion",
+          "publishedOn": "2023-01-22T20:00:04.000Z",
+          "wordCount": null,
+          "title": "Opinion | The Crypto Collapse and the End of the Magical Thinking That Infected Capitalism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ethereum/consensus-specs/issues/2179#issuecomment-1399477411",
+          "author": null,
+          "description": "merkle-proofs.md presentation · Issue #2179 · ethereum/consensus-specs",
+          "link": "https://github.com/ethereum/consensus-specs/issues/2179#issuecomment-1399477411",
+          "publishedOn": "2023-01-22T19:30:04.000Z",
+          "wordCount": 2091,
+          "title": "merkle-proofs.md presentation · Issue #2179 · ethereum/consensus-specs",
+          "imageUrl": "https://opengraph.githubassets.com/8e623c16bcd6ca9a5b2d1b12af6dc83e4d63dc9cbd2c8610c2b3e32ac43587e4/ethereum/consensus-specs/issues/2179"
         },
         {
           "id": "https://mycharacter.ai/",
@@ -84,26 +104,6 @@
           "wordCount": 1410,
           "title": "Allies Angry At German 'Indecision' On Tanks For Ukraine Amid Russian Gains In East & South | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/crypto/going-cashless-norways-digital-currency-project-raises-privacy-questions",
-          "author": null,
-          "description": "Going Cashless: Norway's Digital Currency Project Raises Privacy Questions | ZeroHedge",
-          "link": "https://www.zerohedge.com/crypto/going-cashless-norways-digital-currency-project-raises-privacy-questions",
-          "publishedOn": "2023-01-22T17:00:03.000Z",
-          "wordCount": 2388,
-          "title": "Going Cashless: Norway's Digital Currency Project Raises Privacy Questions | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sceneswithsimon.substack.com/p/scenes-with-simon-2-ai-lawsuits-mirrors",
-          "author": null,
-          "description": "Scenes with Simon #2 - AI Lawsuits, Mirrors, and Free Homes in Japan",
-          "link": "https://sceneswithsimon.substack.com/p/scenes-with-simon-2-ai-lawsuits-mirrors",
-          "publishedOn": "2023-01-22T16:00:04.000Z",
-          "wordCount": 5739,
-          "title": "Scenes with Simon #2 - AI Lawsuits, Mirrors, and Free Homes in Japan",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b906067-fcbc-414f-9c04-774c63263402_1172x942.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=jSy3g7_Puvk&feature=youtu.be",
@@ -186,10 +186,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=mlFVZBe9-DM&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=mlFVZBe9-DM",
           "author": null,
           "description": "Running a marathon in the Metaverse",
-          "link": "https://www.youtube.com/watch?v=mlFVZBe9-DM&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=mlFVZBe9-DM",
           "publishedOn": "2023-01-21T21:00:02.000Z",
           "wordCount": null,
           "title": "Running a marathon in the Metaverse",
