@@ -6,6 +6,66 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://chainlist.org/",
+          "author": null,
+          "description": "Chainlist",
+          "link": "https://chainlist.org/",
+          "publishedOn": "2023-01-23T05:00:02.000Z",
+          "wordCount": 11614,
+          "title": "Chainlist",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/The-Chainlist/networklist-org",
+          "author": null,
+          "description": "GitHub - The-Chainlist/networklist-org",
+          "link": "https://github.com/The-Chainlist/networklist-org",
+          "publishedOn": "2023-01-23T05:00:02.000Z",
+          "wordCount": 600,
+          "title": "GitHub - The-Chainlist/networklist-org",
+          "imageUrl": "https://opengraph.githubassets.com/0d8e7dce71d436fc3f820e950b19910a43172bf4f1bb13e52212e96237c75ed4/The-Chainlist/networklist-org"
+        },
+        {
+          "id": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
+          "author": null,
+          "description": "Fed Sets Course for Milder Interest-Rate Rise in February",
+          "link": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
+          "publishedOn": "2023-01-23T05:00:02.000Z",
+          "wordCount": 7079,
+          "title": "Fed Sets Course for Milder Interest-Rate Rise in February",
+          "imageUrl": "https://images.wsj.net/im-707756/social"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/inflation-assets-are-leading-recovery-thats-not-normal",
+          "author": null,
+          "description": "Inflation Assets Are Leading The Recovery. That's Not Normal | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/inflation-assets-are-leading-recovery-thats-not-normal",
+          "publishedOn": "2023-01-23T05:00:02.000Z",
+          "wordCount": 1805,
+          "title": "Inflation Assets Are Leading The Recovery. That's Not Normal | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/energy/china-accelerate-construction-coal-fired-power-plants",
+          "author": null,
+          "description": "China To Accelerate The Construction Of Coal-Fired Power Plants | ZeroHedge",
+          "link": "https://www.zerohedge.com/energy/china-accelerate-construction-coal-fired-power-plants",
+          "publishedOn": "2023-01-23T04:30:02.000Z",
+          "wordCount": 824,
+          "title": "China To Accelerate The Construction Of Coal-Fired Power Plants | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/weather/california-drought-eases-reservoir-levels-rise-and-snowpack-booms",
+          "author": null,
+          "description": "California Drought Eases As Reservoir Levels Rise And Snowpack Booms | ZeroHedge",
+          "link": "https://www.zerohedge.com/weather/california-drought-eases-reservoir-levels-rise-and-snowpack-booms",
+          "publishedOn": "2023-01-23T04:00:11.000Z",
+          "wordCount": 788,
+          "title": "California Drought Eases As Reservoir Levels Rise And Snowpack Booms | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://join.9dcc.xyz/",
           "author": null,
           "description": "Join 9dcc.eth",
@@ -13,16 +73,6 @@
           "publishedOn": "2023-01-23T03:00:02.000Z",
           "wordCount": 15,
           "title": "Join 9dcc.eth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://d56k.com/",
-          "author": null,
-          "description": "DIAL-UP 56K",
-          "link": "https://d56k.com/",
-          "publishedOn": "2023-01-23T03:00:02.000Z",
-          "wordCount": 10,
-          "title": "DIAL-UP 56K",
           "imageUrl": null
         },
         {
@@ -46,26 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/wsj-shreds-vaccine-makers-biden-admin-over-deceptive-booster-campaign",
-          "author": null,
-          "description": "WSJ Shreds Vaccine Makers, Biden Admin Over \"Deceptive\" Booster Campaign | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/wsj-shreds-vaccine-makers-biden-admin-over-deceptive-booster-campaign",
-          "publishedOn": "2023-01-23T03:00:02.000Z",
-          "wordCount": 1757,
-          "title": "WSJ Shreds Vaccine Makers, Biden Admin Over \"Deceptive\" Booster Campaign | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/such-demographic-decline-has-never-happened-across-major-global-economies",
-          "author": null,
-          "description": "\"Such Demographic Decline Has Never Happened Across Major Global Economies\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/such-demographic-decline-has-never-happened-across-major-global-economies",
-          "publishedOn": "2023-01-23T03:00:02.000Z",
-          "wordCount": 915,
-          "title": "\"Such Demographic Decline Has Never Happened Across Major Global Economies\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.lopp.net/has-bitcoin-ever-hard-forked/",
           "author": null,
           "description": "Has Bitcoin Ever Hard Forked?",
@@ -74,36 +104,6 @@
           "wordCount": 2588,
           "title": "Has Bitcoin Ever Hard Forked?",
           "imageUrl": "https://blog.lopp.net/content/images/2022/06/bitcoin-broken.jpg"
-        },
-        {
-          "id": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?tag=ttrvin-20",
-          "author": null,
-          "description": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: Horowitz, Ben: 9780062273208:...",
-          "link": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?tag=ttrvin-20",
-          "publishedOn": "2023-01-23T01:00:02.000Z",
-          "wordCount": null,
-          "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: Horowitz, Ben: 9780062273208:...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://economictimes.indiatimes.com/news/international/us/mcdonalds-customer-gets-thousands-of-dollars-in-cash-instead-of-meal-see-what-happened-next/articleshow/97230377.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
-          "author": null,
-          "description": "McDonald's customer gets thousands of dollars in cash instead of meal. See what happened next",
-          "link": "https://economictimes.indiatimes.com/news/international/us/mcdonalds-customer-gets-thousands-of-dollars-in-cash-instead-of-meal-see-what-happened-next/articleshow/97230377.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
-          "publishedOn": "2023-01-23T01:00:02.000Z",
-          "wordCount": 6122,
-          "title": "McDonald's customer gets thousands of dollars in cash instead of meal. See what happened next",
-          "imageUrl": "https://img.etimg.com/thumb/msid-97230382,width-1070,height-580,imgsize-6770,overlay-economictimes/photo.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/trillion-dollar-coin-idea-just-another-way-rip-us",
-          "author": null,
-          "description": "The Trillion-Dollar Coin Idea Is Just Another Way To Rip Us Off | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/trillion-dollar-coin-idea-just-another-way-rip-us",
-          "publishedOn": "2023-01-23T01:00:02.000Z",
-          "wordCount": 2898,
-          "title": "The Trillion-Dollar Coin Idea Is Just Another Way To Rip Us Off | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk6529-part-ii-gAoA?tab=details&utm_source=twitter&utm_medium=social&utm_campaign=2022819_raic",
@@ -131,7 +131,7 @@
           "description": "WSJ News Exclusive | Janet Yellen Dismisses Minting $1 Trillion Coin to Avoid Default",
           "link": "https://www.wsj.com/articles/janet-yellen-dismisses-minting-1-trillion-coin-to-avoid-default-11674417541?mod=e2twcb",
           "publishedOn": "2023-01-22T21:30:03.000Z",
-          "wordCount": 6895,
+          "wordCount": 6894,
           "title": "WSJ News Exclusive | Janet Yellen Dismisses Minting $1 Trillion Coin to Avoid Default",
           "imageUrl": "https://images.wsj.net/im-708108/social"
         },
@@ -171,7 +171,7 @@
           "description": "Brazil and Argentina to start preparations for a common currency",
           "link": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4",
           "publishedOn": "2023-01-22T06:00:04.000Z",
-          "wordCount": 1630,
+          "wordCount": 1614,
           "title": "Brazil and Argentina to start preparations for a common currency",
           "imageUrl": null
         },
