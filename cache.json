@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
+          "author": null,
+          "description": "Fed Sets Course for Milder Interest-Rate Rise in February",
+          "link": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
+          "publishedOn": "2023-01-23T05:00:02.000Z",
+          "wordCount": 7079,
+          "title": "Fed Sets Course for Milder Interest-Rate Rise in February",
+          "imageUrl": "https://images.wsj.net/im-707756/social"
+        },
+        {
           "id": "https://chainlist.org/",
           "author": null,
           "description": "Chainlist",
@@ -24,16 +34,6 @@
           "wordCount": 600,
           "title": "GitHub - The-Chainlist/networklist-org",
           "imageUrl": "https://opengraph.githubassets.com/0d8e7dce71d436fc3f820e950b19910a43172bf4f1bb13e52212e96237c75ed4/The-Chainlist/networklist-org"
-        },
-        {
-          "id": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
-          "author": null,
-          "description": "Fed Sets Course for Milder Interest-Rate Rise in February",
-          "link": "https://www.wsj.com/articles/fed-sets-course-for-milder-interest-rate-rise-in-february-11674362567",
-          "publishedOn": "2023-01-23T05:00:02.000Z",
-          "wordCount": 7079,
-          "title": "Fed Sets Course for Milder Interest-Rate Rise in February",
-          "imageUrl": "https://images.wsj.net/im-707756/social"
         },
         {
           "id": "https://www.zerohedge.com/markets/inflation-assets-are-leading-recovery-thats-not-normal",
@@ -171,7 +171,7 @@
           "description": "Brazil and Argentina to start preparations for a common currency",
           "link": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4",
           "publishedOn": "2023-01-22T06:00:04.000Z",
-          "wordCount": 1614,
+          "wordCount": 1621,
           "title": "Brazil and Argentina to start preparations for a common currency",
           "imageUrl": null
         },
