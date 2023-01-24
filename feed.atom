@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-24T01:37:09.223Z</id>
+    <id>urn:2023-01-24T02:40:06.462Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-24T01:37:09.224Z</updated>
+    <updated>2023-01-24T02:40:06.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] 2103.03198.pdf]]></title>
+        <id>https://arxiv.org/pdf/2103.03198.pdf</id>
+        <link href="https://arxiv.org/pdf/2103.03198.pdf"/>
+        <updated>2023-01-24T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] 2103.03198.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify]]></title>
         <id>https://open.spotify.com/episode/0w0mXilmYpEORhIc7XdcyN?si=cce3405384f84a32</id>
@@ -171,16 +181,6 @@
         <link href="https://stonecoldpat.substack.com/p/validator-attestations-and-voting?utm_source=twitter&amp;sd=pf"/>
         <updated>2023-01-23T11:00:02.000Z</updated>
         <summary type="html"><![CDATA[Validator Attestations and Voting Protocols]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailchain]]></title>
-        <id>https://app.mailchain.com/</id>
-        <link href="https://app.mailchain.com/"/>
-        <updated>2023-01-23T09:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Mailchain]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
