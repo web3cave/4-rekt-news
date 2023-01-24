@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://anchor.fm/defidad",
+          "author": null,
+          "description": "The DeFi Podcast with DeFi Dad • A podcast on Anchor",
+          "link": "https://anchor.fm/defidad",
+          "publishedOn": "2023-01-24T09:00:03.000Z",
+          "wordCount": 3813,
+          "title": "The DeFi Podcast with DeFi Dad • A podcast on Anchor",
+          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/36285104/36285104-1673287632850-76df1eb7cd09.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nlaOvaO0v9s&feature=youtu.be",
+          "author": null,
+          "description": "Staking withdrawals FAQ, Aave v3 coming to mainnet - The Daily Gwei Refuel #528 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=nlaOvaO0v9s&feature=youtu.be",
+          "publishedOn": "2023-01-24T08:30:02.000Z",
+          "wordCount": null,
+          "title": "Staking withdrawals FAQ, Aave v3 coming to mainnet - The Daily Gwei Refuel #528 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://smn-news.com/index.php/st-maarten-st-martin-news/42233-brison-to-adopt-tron-legal-tender-legislation-to-parliament-of-st-maarten-by-initiative-law.html",
           "author": null,
           "description": "St. Martin News Network - Brison to adopt Tron legal tender legislation to Parliament of St. Maarten by Initiative law",
@@ -111,7 +131,7 @@
           "description": "Floor Acquires WGMI.io to ‘Accelerate’ Expansion of NFT Portfolio App - Decrypt",
           "link": "https://decrypt.co/119731/floor-acquires-wgmi-io-nft-portfolio-app-expansion?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2023-01-23T18:00:05.000Z",
-          "wordCount": 8047,
+          "wordCount": 8165,
           "title": "Floor Acquires WGMI.io to ‘Accelerate’ Expansion of NFT Portfolio App - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/floor-app-2023-gID_4.png@png"
         },
@@ -121,19 +141,9 @@
           "description": "This drone-inspired motorbike can fly at high speed for 40 minutes",
           "link": "https://www.euronews.com/next/2022/09/16/this-japanese-start-up-has-designed-a-high-speed-motorcycle-that-can-fly-for-40-minutes",
           "publishedOn": "2023-01-23T17:30:05.000Z",
-          "wordCount": 1136,
+          "wordCount": 1133,
           "title": "This drone-inspired motorbike can fly at high speed for 40 minutes",
           "imageUrl": "https://static.euronews.com/articles/stories/07/02/15/60/1000x563_cmsv2_05b192e8-3fb2-58a9-a9fa-06ff919a72f5-7021560.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/204593/sushi-dao-implements-proposal-to-direct-all-trading-fees-to-treasury?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Sushi DAO implements proposal to direct all trading fees to treasury",
-          "link": "https://www.theblock.co/post/204593/sushi-dao-implements-proposal-to-direct-all-trading-fees-to-treasury?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-23T17:30:05.000Z",
-          "wordCount": 64492,
-          "title": "Sushi DAO implements proposal to direct all trading fees to treasury",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/12/20211208_SushiSwap-1200x675.jpg"
         },
         {
           "id": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
@@ -151,7 +161,7 @@
           "description": "Uniswap Poll Shows 80% Support Decentralized Crypto Exchange's Move to BNB Chain",
           "link": "https://www.coindesk.com/tech/2023/01/23/uniswap-poll-shows-80-support-decentralized-crypto-exchanges-move-to-bnb-chain/?utm_content=editorial&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_term=organic",
           "publishedOn": "2023-01-23T16:00:04.000Z",
-          "wordCount": 21502,
+          "wordCount": 21611,
           "title": "Uniswap Poll Shows 80% Support Decentralized Crypto Exchange's Move to BNB Chain",
           "imageUrl": "https://www.coindesk.com/resizer/h2vIc8OrCKUnyv1gMKwx94EiTKM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YQQVLGMLYRF3ZHR4CV5U34RWYE.jpg"
         },
@@ -164,16 +174,6 @@
           "wordCount": 2958,
           "title": "Aave - Open Source Liquidity Protocol",
           "imageUrl": "/_next/static/media/aaveMetaLogo-min.06bddc2f.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Private sharding startup Calimero Network raises $8.5 million",
-          "link": "https://www.theblock.co/post/204235/private-sharding-startup-calimero-network-raises-8-5-million?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-01-23T14:00:05.000Z",
-          "wordCount": 64702,
-          "title": "Private sharding startup Calimero Network raises $8.5 million",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220808_NEAR-Protocol-1-1200x675.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2022/12/15/kzg-ceremony-grants-round",
