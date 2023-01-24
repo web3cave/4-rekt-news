@@ -6,23 +6,43 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://focalize.app/",
+          "author": null,
+          "description": "Focalize — The fastest way to post on Lens Protocol",
+          "link": "https://focalize.app/",
+          "publishedOn": "2023-01-24T18:00:05.000Z",
+          "wordCount": 30,
+          "title": "Focalize — The fastest way to post on Lens Protocol",
+          "imageUrl": "https://focalize.app/focalize.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/us-bristles-its-south-african-ally-host-joint-naval-drills-russia-china",
+          "author": null,
+          "description": "US Bristles As South African Ally To Host Joint Naval Drills With Russia, China | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/us-bristles-its-south-african-ally-host-joint-naval-drills-russia-china",
+          "publishedOn": "2023-01-24T18:00:05.000Z",
+          "wordCount": 1121,
+          "title": "US Bristles As South African Ally To Host Joint Naval Drills With Russia, China | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://archive.is/zKFLi#selection-587.264-587.277",
+          "author": null,
+          "description": "The Unknown Hedge Fund That Got $400 Million From Sam Bankman-Fried -…",
+          "link": "https://archive.is/zKFLi#selection-587.264-587.277",
+          "publishedOn": "2023-01-24T17:30:04.000Z",
+          "wordCount": null,
+          "title": "The Unknown Hedge Fund That Got $400 Million From Sam Bankman-Fried -…",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/political/doj-prepares-slap-google-antitrust-suit-over-ad-monopoly",
           "author": null,
           "description": "DOJ Prepares To Slap Google With Antitrust Suit Over Ad Monopoly  | ZeroHedge",
           "link": "https://www.zerohedge.com/political/doj-prepares-slap-google-antitrust-suit-over-ad-monopoly",
           "publishedOn": "2023-01-24T17:00:03.000Z",
-          "wordCount": 834,
+          "wordCount": 1698,
           "title": "DOJ Prepares To Slap Google With Antitrust Suit Over Ad Monopoly  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hn1BapsppXM&feature=youtu.be",
-          "author": null,
-          "description": "01 Neil Young - Out On The Weekend (Live at the BBC 1971)",
-          "link": "https://www.youtube.com/watch?v=Hn1BapsppXM&feature=youtu.be",
-          "publishedOn": "2023-01-24T16:15:04.000Z",
-          "wordCount": null,
-          "title": "01 Neil Young - Out On The Weekend (Live at the BBC 1971)",
           "imageUrl": null
         },
         {
@@ -34,16 +54,6 @@
           "wordCount": 2382,
           "title": "Bitwarden design flaw: Server side iterations",
           "imageUrl": "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/bitwarden-password-hashing-key-derivation-encryption.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Nkmt1B_oZVE&feature=youtu.be",
-          "author": null,
-          "description": "Join Me in L.A.",
-          "link": "https://www.youtube.com/watch?v=Nkmt1B_oZVE&feature=youtu.be",
-          "publishedOn": "2023-01-24T15:30:05.000Z",
-          "wordCount": null,
-          "title": "Join Me in L.A.",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=NFRMA9E_MI4&feature=youtu.be",
@@ -104,16 +114,6 @@
           "wordCount": null,
           "title": "\\r\\n    \\n    Persian Illumination and Design\\n  \\r\\n",
           "imageUrl": null
-        },
-        {
-          "id": "https://app.aave.com/governance/proposal/147/",
-          "author": null,
-          "description": "Aave - Aave Ethereum V3",
-          "link": "https://app.aave.com/governance/proposal/147/",
-          "publishedOn": "2023-01-24T13:00:02.000Z",
-          "wordCount": 1822,
-          "title": "Aave - Aave Ethereum V3",
-          "imageUrl": "/_next/static/media/aaveMetaLogo-min.06bddc2f.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=nlaOvaO0v9s&feature=youtu.be",
@@ -201,7 +201,7 @@
           "description": "Account Abstraction for Everyone Else",
           "link": "https://camiinthisthang.substack.com/p/account-abstraction-for-everyone",
           "publishedOn": "2023-01-23T19:00:12.000Z",
-          "wordCount": 5471,
+          "wordCount": 5464,
           "title": "Account Abstraction for Everyone Else",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9b244be-547f-4440-83e7-faf03bef901e_720x360.png"
         }
