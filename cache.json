@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/doj-prepares-slap-google-antitrust-suit-over-ad-monopoly",
+          "author": null,
+          "description": "DOJ Prepares To Slap Google With Antitrust Suit Over Ad Monopoly  | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/doj-prepares-slap-google-antitrust-suit-over-ad-monopoly",
+          "publishedOn": "2023-01-24T17:00:03.000Z",
+          "wordCount": 834,
+          "title": "DOJ Prepares To Slap Google With Antitrust Suit Over Ad Monopoly  | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Hn1BapsppXM&feature=youtu.be",
+          "author": null,
+          "description": "01 Neil Young - Out On The Weekend (Live at the BBC 1971)",
+          "link": "https://www.youtube.com/watch?v=Hn1BapsppXM&feature=youtu.be",
+          "publishedOn": "2023-01-24T16:15:04.000Z",
+          "wordCount": null,
+          "title": "01 Neil Young - Out On The Weekend (Live at the BBC 1971)",
+          "imageUrl": null
+        },
+        {
           "id": "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/",
           "author": null,
           "description": "Bitwarden design flaw: Server side iterations",
@@ -14,6 +34,16 @@
           "wordCount": 2382,
           "title": "Bitwarden design flaw: Server side iterations",
           "imageUrl": "https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/bitwarden-password-hashing-key-derivation-encryption.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Nkmt1B_oZVE&feature=youtu.be",
+          "author": null,
+          "description": "Join Me in L.A.",
+          "link": "https://www.youtube.com/watch?v=Nkmt1B_oZVE&feature=youtu.be",
+          "publishedOn": "2023-01-24T15:30:05.000Z",
+          "wordCount": null,
+          "title": "Join Me in L.A.",
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=NFRMA9E_MI4&feature=youtu.be",
@@ -171,39 +201,9 @@
           "description": "Account Abstraction for Everyone Else",
           "link": "https://camiinthisthang.substack.com/p/account-abstraction-for-everyone",
           "publishedOn": "2023-01-23T19:00:12.000Z",
-          "wordCount": 5470,
+          "wordCount": 5471,
           "title": "Account Abstraction for Everyone Else",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9b244be-547f-4440-83e7-faf03bef901e_720x360.png"
-        },
-        {
-          "id": "https://stonecoldpat.substack.com/p/rollups-need-an-eco-system-license?utm_source=twitter&sd=pf",
-          "author": null,
-          "description": "Rollups need an eco-system license",
-          "link": "https://stonecoldpat.substack.com/p/rollups-need-an-eco-system-license?utm_source=twitter&sd=pf",
-          "publishedOn": "2023-01-23T19:00:12.000Z",
-          "wordCount": 5578,
-          "title": "Rollups need an eco-system license",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b8f5bdf-7b24-481d-a5bd-df72af0e7935_1866x998.jpeg"
-        },
-        {
-          "id": "https://vote.makerdao.com/polling/Qma4jEPY#vote-breakdown",
-          "author": null,
-          "description": "Governance Portal",
-          "link": "https://vote.makerdao.com/polling/Qma4jEPY#vote-breakdown",
-          "publishedOn": "2023-01-23T18:00:05.000Z",
-          "wordCount": 1655,
-          "title": "Governance Portal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.euronews.com/next/2022/09/16/this-japanese-start-up-has-designed-a-high-speed-motorcycle-that-can-fly-for-40-minutes",
-          "author": null,
-          "description": "This drone-inspired motorbike can fly at high speed for 40 minutes",
-          "link": "https://www.euronews.com/next/2022/09/16/this-japanese-start-up-has-designed-a-high-speed-motorcycle-that-can-fly-for-40-minutes",
-          "publishedOn": "2023-01-23T17:30:05.000Z",
-          "wordCount": 1135,
-          "title": "This drone-inspired motorbike can fly at high speed for 40 minutes",
-          "imageUrl": "https://static.euronews.com/articles/stories/07/02/15/60/1000x563_cmsv2_05b192e8-3fb2-58a9-a9fa-06ff919a72f5-7021560.jpg"
         }
       ]
     }
