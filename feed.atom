@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T10:19:18.493Z</id>
+    <id>urn:2023-01-25T11:14:59.002Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-25T10:19:18.493Z</updated>
+    <updated>2023-01-25T11:14:59.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grants]]></title>
+        <id>https://gitcoin.co/grants</id>
+        <link href="https://gitcoin.co/grants"/>
+        <updated>2023-01-25T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Grants]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Not Just FTX: One Skeptic’s Take on Why Crypto Is a Scam - Ep. 446]]></title>
         <id>https://unchainedpodcast.com/not-just-ftx-one-skeptics-take-on-why-crypto-is-a-scam-ep-446/</id>
@@ -61,16 +71,6 @@
         <link href="https://gov.proofofhumanity.id/t/blockchaingov-observations-on-poh-dao-governance-observaciones-de-blockchaingov-sobre-la-gobernanza-de-la-poh-dao/2650"/>
         <updated>2023-01-25T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[BlockchainGov Observations on PoH DAO Governance// Observaciones de BlockchainGov sobre la gobernanza De La PoH DAO]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi is under siege. Let's coordinate a defense.]]></title>
-        <id>https://mirror.xyz/praguedefi.eth/PYFKE9IUvDkjCm4WaHPLyjb-ysswxVMEsazGAymzqzs</id>
-        <link href="https://mirror.xyz/praguedefi.eth/PYFKE9IUvDkjCm4WaHPLyjb-ysswxVMEsazGAymzqzs"/>
-        <updated>2023-01-25T00:00:04.000Z</updated>
-        <summary type="html"><![CDATA[DeFi is under siege. Let's coordinate a defense.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
