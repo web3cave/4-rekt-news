@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.usatoday.com/in-depth/news/nation/2023/01/24/doomsday-clock-2023-time-announced/11026446002/",
+          "author": null,
+          "description": "How close are we to Armageddon? Annual Doomsday Clock time to be announced today.",
+          "link": "https://www.usatoday.com/in-depth/news/nation/2023/01/24/doomsday-clock-2023-time-announced/11026446002/",
+          "publishedOn": "2023-01-25T19:15:07.000Z",
+          "wordCount": 3949,
+          "title": "How close are we to Armageddon? Annual Doomsday Clock time to be announced today.",
+          "imageUrl": "https://www.gannett-cdn.com/presto/2023/01/16/USAT/c7350874-e37d-4cdb-8782-aeefb1ed5f89-AP97053002617.jpeg?crop=2130%2C1198%2Cx438%2Cy495&width=1200"
+        },
+        {
           "id": "https://github.com/openchainxyz/openchain-monorepo/",
           "author": null,
           "description": "GitHub - openchainxyz/openchain-monorepo",
           "link": "https://github.com/openchainxyz/openchain-monorepo/",
           "publishedOn": "2023-01-25T17:30:05.000Z",
-          "wordCount": 674,
+          "wordCount": 663,
           "title": "GitHub - openchainxyz/openchain-monorepo",
           "imageUrl": "https://opengraph.githubassets.com/4b929c22d5b2b9f40ed28ee6d09dd9a6e360f481f7b5b5c2e5b7908d0445f855/openchainxyz/openchain-monorepo"
         },
@@ -31,9 +41,9 @@
           "description": "‎Farcaster",
           "link": "https://apps.apple.com/us/app/farcaster/id1600555445",
           "publishedOn": "2023-01-25T17:00:02.000Z",
-          "wordCount": 3886,
+          "wordCount": null,
           "title": "‎Farcaster",
-          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/a8/ec/aaa8ec9a-2929-d5b1-4630-2fc85c2d5dc9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+          "imageUrl": null
         },
         {
           "id": "http://charts.volmex.finance/",
@@ -51,9 +61,19 @@
           "description": "Nifty Gateway co-founders stepping down, departing Gemini amid troubles",
           "link": "https://www.theblock.co/post/205349/nifty-gateway-gemini-troubles",
           "publishedOn": "2023-01-25T14:30:03.000Z",
-          "wordCount": 64982,
+          "wordCount": 64697,
           "title": "Nifty Gateway co-founders stepping down, departing Gemini amid troubles",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/gemini-ad-1200x675.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/medical/openness-medical-cannabis-mostly-fairly-low",
+          "author": null,
+          "description": "Openness To Medical Cannabis Is Mostly Fairly Low | ZeroHedge",
+          "link": "https://www.zerohedge.com/medical/openness-medical-cannabis-mostly-fairly-low",
+          "publishedOn": "2023-01-25T13:00:03.000Z",
+          "wordCount": 1229,
+          "title": "Openness To Medical Cannabis Is Mostly Fairly Low | ZeroHedge",
+          "imageUrl": null
         },
         {
           "id": "https://unchainedpodcast.com/not-just-ftx-one-skeptics-take-on-why-crypto-is-a-scam-ep-446/",
@@ -61,8 +81,18 @@
           "description": "Not Just FTX: One Skeptic’s Take on Why Crypto Is a Scam - Ep. 446",
           "link": "https://unchainedpodcast.com/not-just-ftx-one-skeptics-take-on-why-crypto-is-a-scam-ep-446/",
           "publishedOn": "2023-01-25T09:00:02.000Z",
-          "wordCount": 491,
+          "wordCount": 479,
           "title": "Not Just FTX: One Skeptic’s Take on Why Crypto Is a Scam - Ep. 446",
+          "imageUrl": null
+        },
+        {
+          "id": "http://provenant.art/",
+          "author": null,
+          "description": "provenant.art",
+          "link": "http://provenant.art/",
+          "publishedOn": "2023-01-25T08:00:04.000Z",
+          "wordCount": 1587,
+          "title": "provenant.art",
           "imageUrl": null
         },
         {
@@ -91,7 +121,7 @@
           "description": "Introducing Proof of Innocence built on Tornado Cash",
           "link": "https://medium.com/@chainway_xyz/introducing-proof-of-innocence-built-on-tornado-cash-7336d185cda6",
           "publishedOn": "2023-01-25T03:00:02.000Z",
-          "wordCount": 2369,
+          "wordCount": 2284,
           "title": "Introducing Proof of Innocence built on Tornado Cash",
           "imageUrl": "https://miro.medium.com/max/1200/0*G5QI1LMXNxLRikCY"
         },
@@ -136,44 +166,14 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0aa5d333-009a-401c-8732-28fab212a233_1777x1864.jpeg"
         },
         {
-          "id": "https://www.zerohedge.com/military/both-us-germany-now-leaning-toward-authorizing-heavy-tanks-ukraine",
-          "author": null,
-          "description": "Both US & Germany Now 'Leaning' Toward Authorizing Heavy Tanks For Ukraine | ZeroHedge",
-          "link": "https://www.zerohedge.com/military/both-us-germany-now-leaning-toward-authorizing-heavy-tanks-ukraine",
-          "publishedOn": "2023-01-24T23:30:04.000Z",
-          "wordCount": 1709,
-          "title": "Both US & Germany Now 'Leaning' Toward Authorizing Heavy Tanks For Ukraine | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/141759/dialectic-seven-seven-six-back-forgotten-runiverse-fundraise",
           "author": null,
           "description": "Crypto funds Dialectic and Seven Seven Six back Bisonic's 'Forgotten Runiverse' fundraise",
           "link": "https://www.theblock.co/post/141759/dialectic-seven-seven-six-back-forgotten-runiverse-fundraise",
           "publishedOn": "2023-01-24T21:00:02.000Z",
-          "wordCount": 64941,
+          "wordCount": 64656,
           "title": "Crypto funds Dialectic and Seven Seven Six back Bisonic's 'Forgotten Runiverse' fundraise",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/Screenshot-2022-04-13-at-10.54.40-1-1200x668.png"
-        },
-        {
-          "id": "https://infinitypools.finance/",
-          "author": null,
-          "description": "Infinity Pools",
-          "link": "https://infinitypools.finance/",
-          "publishedOn": "2023-01-24T21:00:02.000Z",
-          "wordCount": 1132,
-          "title": "Infinity Pools",
-          "imageUrl": "https://framerusercontent.com/modules/aK0bzdXhgUbmTJ99ONxw/EkJFZDVSSeSBkjHcQeeb/assets/gSBzQvvXmimrOcUVPOgjC6pFks.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/205078/vitalik-buterin-closes-seven-month-short-trade-on-rai-token-netting-92000",
-          "author": null,
-          "description": "Vitalik Buterin closes seven-month short trade on RAI token, netting $92,000",
-          "link": "https://www.theblock.co/post/205078/vitalik-buterin-closes-seven-month-short-trade-on-rai-token-netting-92000",
-          "publishedOn": "2023-01-24T20:30:02.000Z",
-          "wordCount": 64522,
-          "title": "Vitalik Buterin closes seven-month short trade on RAI token, netting $92,000",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/08/20210818_War_On_Stablecoins-1200x675.jpg"
         },
         {
           "id": "https://a16zcrypto.com/regulate-web3-apps-not-protocols-part-iii-the-web3-dao-dilemma/",
