@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wired.com/story/menswear-guy-twitter-main-character-shift/",
+          "author": null,
+          "description": "'Menswear Guy' Marks a Shift in Twitter's Main Characters",
+          "link": "https://www.wired.com/story/menswear-guy-twitter-main-character-shift/",
+          "publishedOn": "2023-01-27T20:00:06.000Z",
+          "wordCount": 21285,
+          "title": "'Menswear Guy' Marks a Shift in Twitter's Main Characters",
+          "imageUrl": "https://media.wired.com/photos/63d402206b5ef8378208e594/191:100/w_1280,c_limit/Twittermenswear_GettyImages-1245209344_science.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UEc8Xzn1WqU&feature=youtu.be",
+          "author": null,
+          "description": "Carl Icahn settles the Texaco/Getty Oil lawsuit",
+          "link": "https://www.youtube.com/watch?v=UEc8Xzn1WqU&feature=youtu.be",
+          "publishedOn": "2023-01-27T19:30:05.000Z",
+          "wordCount": null,
+          "title": "Carl Icahn settles the Texaco/Getty Oil lawsuit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.validators.app/",
           "author": null,
           "description": "Solana Validators | www.validators.app",
@@ -16,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.mediciminutes.com/",
-          "author": null,
-          "description": "Medici Minutes",
-          "link": "https://www.mediciminutes.com/",
-          "publishedOn": "2023-01-27T19:00:04.000Z",
-          "wordCount": 317,
-          "title": "Medici Minutes",
-          "imageUrl": "https://embed.filekitcdn.com/e/2T1VJErvjX9wHcg85NuNbR/uXn6tyxWs4yymPMs6foEGr"
-        },
-        {
           "id": "https://www.zerohedge.com/markets/watch-paul-pelosi-hammer-attack-bodycam-video-released",
           "author": null,
           "description": "Watch: Paul Pelosi Hammer Attack Bodycam Video Released | ZeroHedge",
@@ -33,16 +43,6 @@
           "publishedOn": "2023-01-27T19:00:04.000Z",
           "wordCount": 1471,
           "title": "Watch: Paul Pelosi Hammer Attack Bodycam Video Released | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/squeeze-tesla-shares-rocket-higher-now-20-two-days-ms-reits-top-pick",
-          "author": null,
-          "description": "The Squeeze Is On: Tesla Shares Rocket Higher, Now Up 20% In Two Days, MS Re-its \"Top Pick\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/squeeze-tesla-shares-rocket-higher-now-20-two-days-ms-reits-top-pick",
-          "publishedOn": "2023-01-27T19:00:04.000Z",
-          "wordCount": 1902,
-          "title": "The Squeeze Is On: Tesla Shares Rocket Higher, Now Up 20% In Two Days, MS Re-its \"Top Pick\" | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -131,7 +131,7 @@
           "description": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/23/rep-tom-emmer-crypto-and-web3-the-ownership-economy/",
           "publishedOn": "2023-01-27T07:00:03.000Z",
-          "wordCount": 25321,
+          "wordCount": 25546,
           "title": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "imageUrl": "https://www.coindesk.com/resizer/mVoJVJR2whHX5R-75dPvk7cmiag=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PHSCU3EBWNBYLD3MY6QOR3Y3Y4.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "revm/fork_ref_transact.rs at main · bluealloy/revm",
           "link": "https://github.com/bluealloy/revm/blob/main/examples/fork_ref_transact.rs",
           "publishedOn": "2023-01-27T01:30:05.000Z",
-          "wordCount": 852,
+          "wordCount": 845,
           "title": "revm/fork_ref_transact.rs at main · bluealloy/revm",
           "imageUrl": "https://opengraph.githubassets.com/101012f1d4a54f6e168ad5091760180dbf64488a96dbf9501950a18730fa2cb6/bluealloy/revm"
         },
