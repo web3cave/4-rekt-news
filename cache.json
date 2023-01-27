@@ -6,23 +6,63 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.zerohedge.com/markets/adani-group-stocks-crash-dragging-down-indian-markets-bill-ackman-says-hindenburgs-report",
+          "id": "https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/",
           "author": null,
-          "description": "Adani Group Stocks Crash, Dragging Down Indian Markets; Bill Ackman Says Hindenburg's Report \"Credible\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/adani-group-stocks-crash-dragging-down-indian-markets-bill-ackman-says-hindenburgs-report",
-          "publishedOn": "2023-01-27T16:30:18.000Z",
-          "wordCount": 1216,
-          "title": "Adani Group Stocks Crash, Dragging Down Indian Markets; Bill Ackman Says Hindenburg's Report \"Credible\" | ZeroHedge",
+          "description": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
+          "link": "https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/",
+          "publishedOn": "2023-01-27T18:00:05.000Z",
+          "wordCount": 1363,
+          "title": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
+          "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+        },
+        {
+          "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230127a.htm",
+          "author": null,
+          "description": "Federal Reserve Board issues policy statement to promote a level playing field for all banks with a federal...",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230127a.htm",
+          "publishedOn": "2023-01-27T18:00:05.000Z",
+          "wordCount": 1504,
+          "title": "Federal Reserve Board issues policy statement to promote a level playing field for all banks with a federal...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://google-research.github.io/seanet/musiclm/examples/",
+          "author": null,
+          "description": "MusicLM",
+          "link": "https://google-research.github.io/seanet/musiclm/examples/",
+          "publishedOn": "2023-01-27T17:30:05.000Z",
+          "wordCount": 369,
+          "title": "MusicLM",
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/cboe-ceo-aims-list-additional-crypto-tokens-institutions-seek-reliable-counterparties-after",
+          "id": "https://eips.ethereum.org/EIPS/eip-3855",
           "author": null,
-          "description": "CBOE CEO Aims To List Additional Tokens As Institutions Seek Reliable Crypto Counterparties  | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/cboe-ceo-aims-list-additional-crypto-tokens-institutions-seek-reliable-counterparties-after",
-          "publishedOn": "2023-01-27T16:00:05.000Z",
-          "wordCount": 813,
-          "title": "CBOE CEO Aims To List Additional Tokens As Institutions Seek Reliable Crypto Counterparties  | ZeroHedge",
+          "description": "EIP-3855: PUSH0 instruction",
+          "link": "https://eips.ethereum.org/EIPS/eip-3855",
+          "publishedOn": "2023-01-27T17:30:05.000Z",
+          "wordCount": 755,
+          "title": "EIP-3855: PUSH0 instruction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-5656",
+          "author": null,
+          "description": "EIP-5656: Memory copying instruction",
+          "link": "https://eips.ethereum.org/EIPS/eip-5656",
+          "publishedOn": "2023-01-27T17:30:05.000Z",
+          "wordCount": 915,
+          "title": "EIP-5656: Memory copying instruction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eips.ethereum.org/EIPS/eip-663",
+          "author": null,
+          "description": "EIP-663: Unlimited SWAP and DUP instructions",
+          "link": "https://eips.ethereum.org/EIPS/eip-663",
+          "publishedOn": "2023-01-27T17:30:04.000Z",
+          "wordCount": 844,
+          "title": "EIP-663: Unlimited SWAP and DUP instructions",
           "imageUrl": null
         },
         {
@@ -34,26 +74,6 @@
           "wordCount": 4585,
           "title": "Disambiguating Autonomy",
           "imageUrl": "https://miro.medium.com/max/1200/0*kQ3_OX-63bveEanT"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/dollar-collapse-now-motion-saudi-arabia-signals-end-petro-status",
-          "author": null,
-          "description": "A Dollar Collapse Is Now In Motion, Saudi Arabia Signals The End Of 'Petro' Status | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/dollar-collapse-now-motion-saudi-arabia-signals-end-petro-status",
-          "publishedOn": "2023-01-27T15:00:03.000Z",
-          "wordCount": 3092,
-          "title": "A Dollar Collapse Is Now In Motion, Saudi Arabia Signals The End Of 'Petro' Status | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://stonecoldpat.substack.com/p/the-inactivity-leak",
-          "author": null,
-          "description": "The Inactivity Leak",
-          "link": "https://stonecoldpat.substack.com/p/the-inactivity-leak",
-          "publishedOn": "2023-01-27T15:00:03.000Z",
-          "wordCount": 6534,
-          "title": "The Inactivity Leak",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2e20917-bbee-401e-887d-4737d0822435_950x600.png"
         },
         {
           "id": "https://variant.fund/careers/",
@@ -91,7 +111,7 @@
           "description": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/23/rep-tom-emmer-crypto-and-web3-the-ownership-economy/",
           "publishedOn": "2023-01-27T07:00:03.000Z",
-          "wordCount": 25527,
+          "wordCount": 25295,
           "title": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "imageUrl": "https://www.coindesk.com/resizer/mVoJVJR2whHX5R-75dPvk7cmiag=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PHSCU3EBWNBYLD3MY6QOR3Y3Y4.jpg"
         },
@@ -101,7 +121,7 @@
           "description": "U.S. securities regulator probes investment advisers over crypto custody -sources",
           "link": "https://www.reuters.com/technology/us-securities-regulator-probes-investment-advisers-over-crypto-custody-sources-2023-01-27/",
           "publishedOn": "2023-01-27T05:00:02.000Z",
-          "wordCount": 5285,
+          "wordCount": 5290,
           "title": "U.S. securities regulator probes investment advisers over crypto custody -sources",
           "imageUrl": "https://www.reuters.com/resizer/I6iU6amUnxa3pGuuHYCNVZ955R8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IXVTCG2ETFIULDU6HAEJQPQG4I.jpg"
         },
@@ -116,22 +136,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.forbes.com/sites/stevenehrlich/2023/01/26/bankman-fried-behind-bars-how-being-unplugged-from-the-internet-untethered-the-former-crypto-billionaire/",
-          "author": null,
-          "description": "Bankman-Fried Behind Bars: How Being Unplugged From The Internet Untethered The Former Crypto Billionaire",
-          "link": "https://www.forbes.com/sites/stevenehrlich/2023/01/26/bankman-fried-behind-bars-how-being-unplugged-from-the-internet-untethered-the-former-crypto-billionaire/",
-          "publishedOn": "2023-01-27T03:30:05.000Z",
-          "wordCount": 11838,
-          "title": "Bankman-Fried Behind Bars: How Being Unplugged From The Internet Untethered The Former Crypto Billionaire",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63d193fb33553508a4922d82/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        },
-        {
           "id": "https://www.reuters.com/article/southkorea-markets-regulator/s-korea-fines-citadel-securities-for-stock-algorithm-trading-breaches-idUSL1N34C00V",
           "author": null,
           "description": "S.Korea fines Citadel Securities for stock algorithm trading breaches",
           "link": "https://www.reuters.com/article/southkorea-markets-regulator/s-korea-fines-citadel-securities-for-stock-algorithm-trading-breaches-idUSL1N34C00V",
           "publishedOn": "2023-01-27T03:30:04.000Z",
-          "wordCount": 5008,
+          "wordCount": 5006,
           "title": "S.Korea fines Citadel Securities for stock algorithm trading breaches",
           "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20230127&t=2&i=1621493688&r=LYNXMPEJ0Q01T&w=800"
         },
@@ -151,7 +161,7 @@
           "description": "revm/fork_ref_transact.rs at main · bluealloy/revm",
           "link": "https://github.com/bluealloy/revm/blob/main/examples/fork_ref_transact.rs",
           "publishedOn": "2023-01-27T01:30:05.000Z",
-          "wordCount": 881,
+          "wordCount": 845,
           "title": "revm/fork_ref_transact.rs at main · bluealloy/revm",
           "imageUrl": "https://opengraph.githubassets.com/101012f1d4a54f6e168ad5091760180dbf64488a96dbf9501950a18730fa2cb6/bluealloy/revm"
         },
@@ -161,7 +171,7 @@
           "description": "Amazon NFT Initiative Coming Soon: Exclusive -",
           "link": "https://blockworks.co/news/amazon-nft-marketplace-web3",
           "publishedOn": "2023-01-26T23:00:02.000Z",
-          "wordCount": 18025,
+          "wordCount": 18098,
           "title": "Amazon NFT Initiative Coming Soon: Exclusive -",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/amazon-nfts.jpg"
         },
@@ -173,16 +183,6 @@
           "publishedOn": "2023-01-26T23:00:02.000Z",
           "wordCount": 47381,
           "title": "[PDF] gov.uscourts.deb.188450.574.0.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hx02hGTYo4w",
-          "author": null,
-          "description": "Susan Cummings - Petaverse: Immortal virtual pets - ep 135",
-          "link": "https://www.youtube.com/watch?v=Hx02hGTYo4w",
-          "publishedOn": "2023-01-26T21:00:02.000Z",
-          "wordCount": null,
-          "title": "Susan Cummings - Petaverse: Immortal virtual pets - ep 135",
           "imageUrl": null
         },
         {
