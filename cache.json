@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=smW-d4I0MGQ",
+          "author": null,
+          "description": "Grails Season III Artist Reveal: 20 artists. 20 pieces of art. Choose wisely.",
+          "link": "https://www.youtube.com/watch?v=smW-d4I0MGQ",
+          "publishedOn": "2023-01-27T20:30:03.000Z",
+          "wordCount": null,
+          "title": "Grails Season III Artist Reveal: 20 artists. 20 pieces of art. Choose wisely.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/political/highly-cited-hamilton-68-russiagate-tracker-total-hoax-taibbi",
           "author": null,
           "description": "Highly-Cited 'Hamilton 68' Russiagate Tracker Is Total Hoax: Taibbi | ZeroHedge",
@@ -31,7 +41,7 @@
           "description": "'Menswear Guy' Marks a Shift in Twitter's Main Characters",
           "link": "https://www.wired.com/story/menswear-guy-twitter-main-character-shift/",
           "publishedOn": "2023-01-27T20:00:06.000Z",
-          "wordCount": 21276,
+          "wordCount": 21230,
           "title": "'Menswear Guy' Marks a Shift in Twitter's Main Characters",
           "imageUrl": "https://media.wired.com/photos/63d402206b5ef8378208e594/191:100/w_1280,c_limit/Twittermenswear_GettyImages-1245209344_science.jpg"
         },
@@ -66,12 +76,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/markets/squeeze-tesla-shares-rocket-higher-now-20-two-days-ms-reits-top-pick",
+          "author": null,
+          "description": "The Squeeze Is On: Tesla Shares Rocket Higher, Now Up 20% In Two Days, MS Re-its \"Top Pick\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/squeeze-tesla-shares-rocket-higher-now-20-two-days-ms-reits-top-pick",
+          "publishedOn": "2023-01-27T19:00:04.000Z",
+          "wordCount": 1902,
+          "title": "The Squeeze Is On: Tesla Shares Rocket Higher, Now Up 20% In Two Days, MS Re-its \"Top Pick\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/",
           "author": null,
           "description": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
           "link": "https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/",
           "publishedOn": "2023-01-27T18:00:05.000Z",
-          "wordCount": 2408,
+          "wordCount": 1363,
           "title": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
           "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
         },
@@ -131,7 +151,7 @@
           "description": "Disambiguating Autonomy",
           "link": "https://medium.com/block-science/disambiguating-autonomy-ca84ac87a0bf",
           "publishedOn": "2023-01-27T15:30:05.000Z",
-          "wordCount": 4585,
+          "wordCount": 4906,
           "title": "Disambiguating Autonomy",
           "imageUrl": "https://miro.medium.com/max/1200/0*kQ3_OX-63bveEanT"
         },
@@ -141,7 +161,7 @@
           "description": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/23/rep-tom-emmer-crypto-and-web3-the-ownership-economy/",
           "publishedOn": "2023-01-27T07:00:03.000Z",
-          "wordCount": 25496,
+          "wordCount": 25497,
           "title": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "imageUrl": "https://www.coindesk.com/resizer/mVoJVJR2whHX5R-75dPvk7cmiag=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PHSCU3EBWNBYLD3MY6QOR3Y3Y4.jpg"
         },
@@ -171,19 +191,9 @@
           "description": "S.Korea fines Citadel Securities for stock algorithm trading breaches",
           "link": "https://www.reuters.com/article/southkorea-markets-regulator/s-korea-fines-citadel-securities-for-stock-algorithm-trading-breaches-idUSL1N34C00V",
           "publishedOn": "2023-01-27T03:30:04.000Z",
-          "wordCount": 5005,
+          "wordCount": 5003,
           "title": "S.Korea fines Citadel Securities for stock algorithm trading breaches",
           "imageUrl": "https://static.reuters.com/resources/r/?m=02&d=20230127&t=2&i=1621493688&r=LYNXMPEJ0Q01T&w=800"
-        },
-        {
-          "id": "https://github.com/bluealloy/revm/blob/main/examples/fork_ref_transact.rs",
-          "author": null,
-          "description": "revm/fork_ref_transact.rs at main · bluealloy/revm",
-          "link": "https://github.com/bluealloy/revm/blob/main/examples/fork_ref_transact.rs",
-          "publishedOn": "2023-01-27T01:30:05.000Z",
-          "wordCount": 845,
-          "title": "revm/fork_ref_transact.rs at main · bluealloy/revm",
-          "imageUrl": "https://opengraph.githubassets.com/12200430577193dee82306312f12cef645d0b3f2ebb6a8b596309a49f821ea06/bluealloy/revm"
         },
         {
           "id": "https://blockworks.co/news/amazon-nft-marketplace-web3",
@@ -191,19 +201,9 @@
           "description": "Amazon NFT Initiative Coming Soon: Exclusive -",
           "link": "https://blockworks.co/news/amazon-nft-marketplace-web3",
           "publishedOn": "2023-01-26T23:00:02.000Z",
-          "wordCount": 18932,
+          "wordCount": 20730,
           "title": "Amazon NFT Initiative Coming Soon: Exclusive -",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/amazon-nfts.jpg"
-        },
-        {
-          "id": "https://panteracapital.com/blockchain-letter/the-year-ahead/",
-          "author": null,
-          "description": "The Year Ahead | Pantera",
-          "link": "https://panteracapital.com/blockchain-letter/the-year-ahead/",
-          "publishedOn": "2023-01-26T13:30:06.000Z",
-          "wordCount": 10379,
-          "title": "The Year Ahead | Pantera",
-          "imageUrl": "https://panteracapital.com/wp-content/uploads/2023/01/Artboard-1_3-scaled.jpg"
         }
       ]
     }
