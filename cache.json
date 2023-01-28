@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ordinals.com/",
+          "author": null,
+          "description": "Ordinals",
+          "link": "https://ordinals.com/",
+          "publishedOn": "2023-01-28T15:00:04.000Z",
+          "wordCount": null,
+          "title": "Ordinals",
+          "imageUrl": null
+        },
+        {
           "id": "https://podcasts.apple.com/us/podcast/the-chopping-block-why-the-once-taboo-mev-is-now/id1123922160?i=1000597032570",
           "author": null,
           "description": "‎Unchained: The Chopping Block: Why the Once-Taboo MEV Is Now a Core Part of Ethereum on Apple Podcasts",
@@ -34,16 +44,6 @@
           "wordCount": 2257,
           "title": "‎Unchained: The Chopping Block: Why the Once-Taboo MEV Is Now a Core Part of Ethereum on Apple Podcasts",
           "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/16/04/8b/16048bf1-eb93-f098-d9ea-598ebdfa754b/mza_4664219288972665091.jpeg/1200x630wp.png"
-        },
-        {
-          "id": "https://ordinals.com/",
-          "author": null,
-          "description": "Ordinals",
-          "link": "https://ordinals.com/",
-          "publishedOn": "2023-01-28T15:00:04.000Z",
-          "wordCount": 113,
-          "title": "Ordinals",
-          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/political/tragedy-might-be-triggering-british-universities-add-warnings-greek-and-shakespearean",
@@ -61,7 +61,7 @@
           "description": "Sam Bankman-Fried Seeks Right to Transfer FTX's Crypto",
           "link": "https://www.coindesk.com/policy/2023/01/28/sam-bankman-fried-seeks-right-to-transfer-ftxs-crypto/",
           "publishedOn": "2023-01-28T13:00:02.000Z",
-          "wordCount": 22264,
+          "wordCount": 22243,
           "title": "Sam Bankman-Fried Seeks Right to Transfer FTX's Crypto",
           "imageUrl": "https://www.coindesk.com/resizer/l5wmfqOG8_-d8lCRc3l0OaUoYa4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7UX3R2L7Z5CWVDKLG3DQBNICU4.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "GitHub - a16z/farcaster-py: A Python SDK for the Farcaster network",
           "link": "https://github.com/a16z/farcaster-py",
           "publishedOn": "2023-01-28T01:00:02.000Z",
-          "wordCount": 1079,
+          "wordCount": 930,
           "title": "GitHub - a16z/farcaster-py: A Python SDK for the Farcaster network",
           "imageUrl": "https://opengraph.githubassets.com/e8781cc9b63a23cd71e98540b0b13bc082cbd1ab9832216dbade7d51352560e6/a16z/farcaster-py"
         },
@@ -151,7 +151,7 @@
           "description": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
           "link": "https://www.whitehouse.gov/nec/briefing-room/2023/01/27/the-administrations-roadmap-to-mitigate-cryptocurrencies-risks/",
           "publishedOn": "2023-01-27T18:00:05.000Z",
-          "wordCount": 1363,
+          "wordCount": 2408,
           "title": "The Administration’s Roadmap to Mitigate Cryptocurrencies’ Risks | NEC | The White House",
           "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
         },
@@ -191,7 +191,7 @@
           "description": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/23/rep-tom-emmer-crypto-and-web3-the-ownership-economy/",
           "publishedOn": "2023-01-27T07:00:03.000Z",
-          "wordCount": 25589,
+          "wordCount": 25570,
           "title": "'What Was Gary Gensler Really Doing?': Rep. Tom Emmer on FTX, the SEC and What's Next for Crypto in Congress",
           "imageUrl": "https://www.coindesk.com/resizer/mVoJVJR2whHX5R-75dPvk7cmiag=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PHSCU3EBWNBYLD3MY6QOR3Y3Y4.jpg"
         },
