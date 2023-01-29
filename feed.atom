@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-29T13:21:17.814Z</id>
+    <id>urn:2023-01-29T14:15:32.031Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-29T13:21:17.814Z</updated>
+    <updated>2023-01-29T14:15:32.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Eric Wall]]></title>
+        <id>https://ericwall.ninja/</id>
+        <link href="https://ericwall.ninja/"/>
+        <updated>2023-01-29T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Eric Wall]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantom Hackathon Q1 2023]]></title>
         <id>https://fantomq12023.devpost.com/?utm_source=devpost&amp;utm_medium=twitter&amp;utm_campaign=fantom23</id>
@@ -111,16 +121,6 @@
         <link href="https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat"/>
         <updated>2023-01-29T06:00:04.000Z</updated>
         <summary type="html"><![CDATA[North Korean Cyberattacks: A Dangerous and Evolving Threat]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Engineer]]></title>
-        <id>https://boards.greenhouse.io/nansen/jobs/4291069004</id>
-        <link href="https://boards.greenhouse.io/nansen/jobs/4291069004"/>
-        <updated>2023-01-29T05:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Data Engineer]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ericwall.ninja/",
+          "author": null,
+          "description": "Eric Wall",
+          "link": "https://ericwall.ninja/",
+          "publishedOn": "2023-01-29T14:00:04.000Z",
+          "wordCount": 812,
+          "title": "Eric Wall",
+          "imageUrl": null
+        },
+        {
           "id": "https://fantomq12023.devpost.com/?utm_source=devpost&utm_medium=twitter&utm_campaign=fantom23",
           "author": null,
           "description": "Fantom Hackathon Q1 2023",
@@ -21,7 +31,7 @@
           "description": "22nd BNB Burn | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/22nd-bnb-burn-8657700843018962092",
           "publishedOn": "2023-01-29T11:00:03.000Z",
-          "wordCount": 6241,
+          "wordCount": 6262,
           "title": "22nd BNB Burn | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230117/a540144a-241c-4390-aab5-714d024f0f0e.png"
         },
@@ -31,7 +41,7 @@
           "description": "[PDF] LuxLoaded-Report.pdf",
           "link": "https://c4ads.org/wp-content/uploads/2022/05/LuxLoaded-Report.pdf",
           "publishedOn": "2023-01-29T09:00:03.000Z",
-          "wordCount": 212634,
+          "wordCount": null,
           "title": "[PDF] LuxLoaded-Report.pdf",
           "imageUrl": null
         },
@@ -51,7 +61,7 @@
           "description": "fUSD migration & liquidations",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=social.tw",
           "publishedOn": "2023-01-29T09:00:02.000Z",
-          "wordCount": 1364,
+          "wordCount": 1162,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -116,16 +126,6 @@
           "imageUrl": "https://www.heritage.org/themes/heritage/src/images/bell.png"
         },
         {
-          "id": "https://boards.greenhouse.io/nansen/jobs/4291069004",
-          "author": null,
-          "description": "Data Engineer",
-          "link": "https://boards.greenhouse.io/nansen/jobs/4291069004",
-          "publishedOn": "2023-01-29T05:30:03.000Z",
-          "wordCount": 1348,
-          "title": "Data Engineer",
-          "imageUrl": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/678/200/original/Nansen_Logo_Negative.png?1643372998"
-        },
-        {
           "id": "https://www.zerohedge.com/geopolitical/new-rand-study-breaks-dc-consensus-warns-us-against-protracted-conflict-ukraine",
           "author": null,
           "description": "New RAND Study Breaks From US Hawks, Warns Against \"Protracted Conflict\" In Ukraine | ZeroHedge",
@@ -161,7 +161,7 @@
           "description": "Illegitimate bitcoin transactions",
           "link": "https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions",
           "publishedOn": "2023-01-28T19:00:02.000Z",
-          "wordCount": 7477,
+          "wordCount": 7472,
           "title": "Illegitimate bitcoin transactions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57878807-5c20-4052-899d-8562b4ea5584_703x702.png"
         },
