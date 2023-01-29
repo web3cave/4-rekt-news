@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gT7u2GlEfxs&feature=youtu.be",
+          "author": null,
+          "description": "Rare footage of Vilhjalmur Stefansson the Arctic explorer (1957)",
+          "link": "https://www.youtube.com/watch?v=gT7u2GlEfxs&feature=youtu.be",
+          "publishedOn": "2023-01-29T07:30:04.000Z",
+          "wordCount": null,
+          "title": "Rare footage of Vilhjalmur Stefansson the Arctic explorer (1957)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.keys.casa/electrum-server-performance-report/",
+          "author": null,
+          "description": "Electrum server performance report | Casa",
+          "link": "https://blog.keys.casa/electrum-server-performance-report/",
+          "publishedOn": "2023-01-29T07:30:04.000Z",
+          "wordCount": 2994,
+          "title": "Electrum server performance report | Casa",
+          "imageUrl": "https://blog.keys.casa/content/images/2020/07/electrum.png"
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/heretical-thoughts-orthodoxies",
           "author": null,
           "description": "Heretical Thoughts On Orthodoxies | ZeroHedge",
@@ -96,26 +116,6 @@
           "imageUrl": "https://corechair.com/wp-content/uploads/2019/05/Reduce-Back-Pain.png"
         },
         {
-          "id": "https://www.zerohedge.com/political/what-going-between-kevin-mccarthy-and-marjorie-taylor-greene",
-          "author": null,
-          "description": "What Is Going On Between Kevin McCarthy And Marjorie Taylor Greene? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/what-going-between-kevin-mccarthy-and-marjorie-taylor-greene",
-          "publishedOn": "2023-01-29T03:00:03.000Z",
-          "wordCount": 1764,
-          "title": "What Is Going On Between Kevin McCarthy And Marjorie Taylor Greene? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/leftist-media-claims-tyre-nichols-death-hands-five-black-police-still-about-racism",
-          "author": null,
-          "description": "Leftist Media Claims Tyre Nichols Death At The Hands Of Five Black Police \"Still About Racism\"   | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/leftist-media-claims-tyre-nichols-death-hands-five-black-police-still-about-racism",
-          "publishedOn": "2023-01-29T03:00:03.000Z",
-          "wordCount": 2167,
-          "title": "Leftist Media Claims Tyre Nichols Death At The Hands Of Five Black Police \"Still About Racism\"   | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.zerohedge.com/geopolitical/new-rand-study-breaks-dc-consensus-warns-us-against-protracted-conflict-ukraine",
           "author": null,
           "description": "New RAND Study Breaks From US Hawks, Warns Against \"Protracted Conflict\" In Ukraine | ZeroHedge",
@@ -151,7 +151,7 @@
           "description": "Illegitimate bitcoin transactions",
           "link": "https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions",
           "publishedOn": "2023-01-28T19:00:02.000Z",
-          "wordCount": 7477,
+          "wordCount": 7472,
           "title": "Illegitimate bitcoin transactions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57878807-5c20-4052-899d-8562b4ea5584_703x702.png"
         },
