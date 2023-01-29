@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://c4ads.org/wp-content/uploads/2022/05/LuxLoaded-Report.pdf",
+          "author": null,
+          "description": "[PDF] LuxLoaded-Report.pdf",
+          "link": "https://c4ads.org/wp-content/uploads/2022/05/LuxLoaded-Report.pdf",
+          "publishedOn": "2023-01-29T09:00:03.000Z",
+          "wordCount": null,
+          "title": "[PDF] LuxLoaded-Report.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government",
+          "author": null,
+          "description": "Not So Lazarus: Mapping DPRK Cyber Threat Groups to Government Organizations | Mandiant",
+          "link": "https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government",
+          "publishedOn": "2023-01-29T09:00:03.000Z",
+          "wordCount": 3231,
+          "title": "Not So Lazarus: Mapping DPRK Cyber Threat Groups to Government Organizations | Mandiant",
+          "imageUrl": "https://www.mandiant.com/sites/default/files/inline-images/social-research1.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V1j5lzT2pVU",
+          "author": null,
+          "description": "The Boy Who Saved Crypto",
+          "link": "https://www.youtube.com/watch?v=V1j5lzT2pVU",
+          "publishedOn": "2023-01-29T09:00:03.000Z",
+          "wordCount": null,
+          "title": "The Boy Who Saved Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=social.tw",
+          "author": null,
+          "description": "fUSD migration & liquidations",
+          "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=social.tw",
+          "publishedOn": "2023-01-29T09:00:02.000Z",
+          "wordCount": 1364,
+          "title": "fUSD migration & liquidations",
+          "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gT7u2GlEfxs&feature=youtu.be",
           "author": null,
           "description": "Rare footage of Vilhjalmur Stefansson the Arctic explorer (1957)",
@@ -24,16 +64,6 @@
           "wordCount": 2994,
           "title": "Electrum server performance report | Casa",
           "imageUrl": "https://blog.keys.casa/content/images/2020/07/electrum.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/heretical-thoughts-orthodoxies",
-          "author": null,
-          "description": "Heretical Thoughts On Orthodoxies | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/heretical-thoughts-orthodoxies",
-          "publishedOn": "2023-01-29T07:00:02.000Z",
-          "wordCount": 3245,
-          "title": "Heretical Thoughts On Orthodoxies | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.recordedfuture.com/north-korea-cyber-activity",
@@ -86,36 +116,6 @@
           "imageUrl": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/678/200/original/Nansen_Logo_Negative.png?1643372998"
         },
         {
-          "id": "https://www.zerohedge.com/political/eight-years-later-oscarsstillsowhite",
-          "author": null,
-          "description": "Eight Years Later: #OscarsStillSoWhite? | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/eight-years-later-oscarsstillsowhite",
-          "publishedOn": "2023-01-29T05:30:03.000Z",
-          "wordCount": 1167,
-          "title": "Eight Years Later: #OscarsStillSoWhite? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/energy/are-you-really-against-fossil-fuels-read-you-answer",
-          "author": null,
-          "description": "Are You Really Against Fossil Fuels? Read This Before You Answer | ZeroHedge",
-          "link": "https://www.zerohedge.com/energy/are-you-really-against-fossil-fuels-read-you-answer",
-          "publishedOn": "2023-01-29T05:00:02.000Z",
-          "wordCount": 1897,
-          "title": "Are You Really Against Fossil Fuels? Read This Before You Answer | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://corechair.com/",
-          "author": null,
-          "description": "CoreChair | Active Sitting Ergonomic Office Chair",
-          "link": "https://corechair.com/",
-          "publishedOn": "2023-01-29T03:30:08.000Z",
-          "wordCount": 3398,
-          "title": "CoreChair | Active Sitting Ergonomic Office Chair",
-          "imageUrl": "https://corechair.com/wp-content/uploads/2019/05/Reduce-Back-Pain.png"
-        },
-        {
           "id": "https://www.zerohedge.com/geopolitical/new-rand-study-breaks-dc-consensus-warns-us-against-protracted-conflict-ukraine",
           "author": null,
           "description": "New RAND Study Breaks From US Hawks, Warns Against \"Protracted Conflict\" In Ukraine | ZeroHedge",
@@ -151,7 +151,7 @@
           "description": "Illegitimate bitcoin transactions",
           "link": "https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions",
           "publishedOn": "2023-01-28T19:00:02.000Z",
-          "wordCount": 7472,
+          "wordCount": 7477,
           "title": "Illegitimate bitcoin transactions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57878807-5c20-4052-899d-8562b4ea5584_703x702.png"
         },
