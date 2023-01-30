@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://goodsnooze.gumroad.com/l/macwhisper",
+          "author": null,
+          "description": "🎙️ MacWhisper",
+          "link": "https://goodsnooze.gumroad.com/l/macwhisper",
+          "publishedOn": "2023-01-30T07:30:04.000Z",
+          "wordCount": 1149,
+          "title": "🎙️ MacWhisper",
+          "imageUrl": "https://public-files.gumroad.com/lakf317jc396xzjvn1ighiqdmza9"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TJ2ifmkGGus&feature=youtu.be",
+          "author": null,
+          "description": "1,000 Blind People See For The First Time",
+          "link": "https://www.youtube.com/watch?v=TJ2ifmkGGus&feature=youtu.be",
+          "publishedOn": "2023-01-30T07:30:03.000Z",
+          "wordCount": null,
+          "title": "1,000 Blind People See For The First Time",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/aeyakovenko/rbm",
           "author": null,
           "description": "GitHub - aeyakovenko/rbm: restricted boltzmann machine",
           "link": "https://github.com/aeyakovenko/rbm",
           "publishedOn": "2023-01-30T07:00:03.000Z",
-          "wordCount": 1557,
+          "wordCount": 1485,
           "title": "GitHub - aeyakovenko/rbm: restricted boltzmann machine",
           "imageUrl": "https://opengraph.githubassets.com/a02380036f45abdd59a3fa97f9153301f530b7f6fa166c87d3e74fafe73dfc5c/aeyakovenko/rbm"
         },
@@ -24,16 +44,6 @@
           "wordCount": 2628,
           "title": "adam3us - Overview",
           "imageUrl": "https://avatars.githubusercontent.com/u/6041133?v=4?s=400"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5OFaZcC0lRU",
-          "author": null,
-          "description": "The Coming Retirement Crisis Explained by Raoul Pal",
-          "link": "https://www.youtube.com/watch?v=5OFaZcC0lRU",
-          "publishedOn": "2023-01-30T07:00:03.000Z",
-          "wordCount": null,
-          "title": "The Coming Retirement Crisis Explained by Raoul Pal",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=21pIWH_Kspg",
@@ -181,7 +191,7 @@
           "description": "Illegitimate bitcoin transactions",
           "link": "https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions",
           "publishedOn": "2023-01-28T19:00:02.000Z",
-          "wordCount": 7476,
+          "wordCount": 7503,
           "title": "Illegitimate bitcoin transactions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57878807-5c20-4052-899d-8562b4ea5584_703x702.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 2257,
           "title": "‎Unchained: The Chopping Block: Why the Once-Taboo MEV Is Now a Core Part of Ethereum on Apple Podcasts",
           "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/16/04/8b/16048bf1-eb93-f098-d9ea-598ebdfa754b/mza_4664219288972665091.jpeg/1200x630wp.png"
-        },
-        {
-          "id": "https://ordinals.com/",
-          "author": null,
-          "description": "Ordinals",
-          "link": "https://ordinals.com/",
-          "publishedOn": "2023-01-28T15:00:04.000Z",
-          "wordCount": 113,
-          "title": "Ordinals",
-          "imageUrl": null
         }
       ]
     }
