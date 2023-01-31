@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T17:18:05.014Z</id>
+    <id>urn:2023-01-31T18:23:37.780Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T17:18:05.014Z</updated>
+    <updated>2023-01-31T18:23:37.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[StarkWare Sessions 2023]]></title>
+        <id>https://starkwaresessions.co/</id>
+        <link href="https://starkwaresessions.co/"/>
+        <updated>2023-01-31T18:00:27.000Z</updated>
+        <summary type="html"><![CDATA[StarkWare Sessions 2023]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Scaling Project Sovereign Labs Raises $7.4 Million in Seed Round]]></title>
+        <id>https://www.coindesk.com/business/2023/01/30/blockchain-scaling-project-sovereign-labs-raises-74-million-in-seed-round/?utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social&amp;utm_campaign=coindesk_main&amp;utm_source=twitter</id>
+        <link href="https://www.coindesk.com/business/2023/01/30/blockchain-scaling-project-sovereign-labs-raises-74-million-in-seed-round/?utm_term=organic&amp;utm_content=editorial&amp;utm_medium=social&amp;utm_campaign=coindesk_main&amp;utm_source=twitter"/>
+        <updated>2023-01-31T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Scaling Project Sovereign Labs Raises $7.4 Million in Seed Round]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenstube]]></title>
         <id>https://lenstube.xyz/watch/0x01a8e6-0x03</id>
         <link href="https://lenstube.xyz/watch/0x01a8e6-0x03"/>
         <updated>2023-01-31T15:00:05.000Z</updated>
         <summary type="html"><![CDATA[Lenstube]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PDF] sidechains.pdf]]></title>
-        <id>https://www.blockstream.com/sidechains.pdf</id>
-        <link href="https://www.blockstream.com/sidechains.pdf"/>
-        <updated>2023-01-31T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[[PDF] sidechains.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -111,16 +121,6 @@
         <link href="https://docs.hyperlane.xyz/docs/operators/celestia-+-hyperlane"/>
         <updated>2023-01-31T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Celestia + Hyperlane - Hyperlane Docs]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sudoswap]]></title>
-        <id>https://sudoswap.xyz/</id>
-        <link href="https://sudoswap.xyz/"/>
-        <updated>2023-01-31T03:00:03.000Z</updated>
-        <summary type="html"><![CDATA[sudoswap]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
