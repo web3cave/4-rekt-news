@@ -6,12 +6,52 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eprint.iacr.org/2023/114",
+          "author": null,
+          "description": "Credible, Optimal Auctions via Blockchains",
+          "link": "https://eprint.iacr.org/2023/114",
+          "publishedOn": "2023-01-31T03:00:03.000Z",
+          "wordCount": 563,
+          "title": "Credible, Optimal Auctions via Blockchains",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thecoh.build/",
+          "author": null,
+          "description": "the COH",
+          "link": "https://thecoh.build/",
+          "publishedOn": "2023-01-31T03:00:03.000Z",
+          "wordCount": 7185,
+          "title": "the COH",
+          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=140b8e3c"
+        },
+        {
+          "id": "https://www.coindesk.com/tech/2023/01/30/bridge-platform-layerzero-denies-allegations-it-kept-backdoor-secret/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial",
+          "author": null,
+          "description": "Bridge Platform LayerZero Denies Allegations It Kept ‘Backdoor’ Secret",
+          "link": "https://www.coindesk.com/tech/2023/01/30/bridge-platform-layerzero-denies-allegations-it-kept-backdoor-secret/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial",
+          "publishedOn": "2023-01-31T03:00:03.000Z",
+          "wordCount": 22263,
+          "title": "Bridge Platform LayerZero Denies Allegations It Kept ‘Backdoor’ Secret",
+          "imageUrl": "https://www.coindesk.com/resizer/KQA8Zqqea4NbYWGzKQTn6hEY-so=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NUQSEJOWUVENHCGGEDGWDYW6U4.jpg"
+        },
+        {
+          "id": "https://docs.hyperlane.xyz/docs/operators/celestia-+-hyperlane",
+          "author": null,
+          "description": "Celestia + Hyperlane - Hyperlane Docs",
+          "link": "https://docs.hyperlane.xyz/docs/operators/celestia-+-hyperlane",
+          "publishedOn": "2023-01-31T03:00:03.000Z",
+          "wordCount": 2841,
+          "title": "Celestia + Hyperlane - Hyperlane Docs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m",
           "author": null,
           "description": "FTX-linked Alameda Research sues Voyager Digital for over $445M",
           "link": "https://www.theblock.co/post/206907/ftx-linked-alameda-research-sues-voyager-digital-for-over-445m",
           "publishedOn": "2023-01-31T01:00:02.000Z",
-          "wordCount": 68912,
+          "wordCount": 66394,
           "title": "FTX-linked Alameda Research sues Voyager Digital for over $445M",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/05/scales-1200x675.jpg"
         },
@@ -36,44 +76,14 @@
           "imageUrl": "https://www.codeslaw.app/banner.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/treasury-publishes-cash-balance-estimates-it-prepares-drain-650-billion-offset-debt-ceiling",
-          "author": null,
-          "description": "Treasury Publishes Cash Balance Estimates As It Prepares To Drain $650 Billion To Offset Debt Ceiling | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/treasury-publishes-cash-balance-estimates-it-prepares-drain-650-billion-offset-debt-ceiling",
-          "publishedOn": "2023-01-30T23:30:04.000Z",
-          "wordCount": 1724,
-          "title": "Treasury Publishes Cash Balance Estimates As It Prepares To Drain $650 Billion To Offset Debt Ceiling | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/rotki/rotki/releases",
-          "author": null,
-          "description": "Releases · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/releases",
-          "publishedOn": "2023-01-30T23:00:04.000Z",
-          "wordCount": 6673,
-          "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/46e7c1a0fff76f10b5419945b62b2db952dec47059a3c4f6417dce721c377dfa/rotki/rotki"
-        },
-        {
           "id": "https://www.coindesk.com/consensus-magazine/2023/01/26/crypto-laws-us-protect-consumers-custody-exchange-separation/",
           "author": null,
           "description": "You Want Crypto Regulation? I’ll Give You Crypto Regulation",
           "link": "https://www.coindesk.com/consensus-magazine/2023/01/26/crypto-laws-us-protect-consumers-custody-exchange-separation/",
           "publishedOn": "2023-01-30T21:30:06.000Z",
-          "wordCount": 25417,
+          "wordCount": 25447,
           "title": "You Want Crypto Regulation? I’ll Give You Crypto Regulation",
           "imageUrl": "https://www.coindesk.com/resizer/BAwa7C6YrXA5clxGbFw49Do2V6o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AIFCNMIIRNGKNDHPV575R4GQFQ.jpg"
-        },
-        {
-          "id": "https://www.ft.com/content/e66519f8-8a40-4cf4-a979-f491296d50a2",
-          "author": null,
-          "description": "SEC official says FTX failure shows need for private placement reform",
-          "link": "https://www.ft.com/content/e66519f8-8a40-4cf4-a979-f491296d50a2",
-          "publishedOn": "2023-01-30T21:00:03.000Z",
-          "wordCount": 1646,
-          "title": "SEC official says FTX failure shows need for private placement reform",
-          "imageUrl": null
         },
         {
           "id": "https://www.axiom.xyz/blog/intro",
@@ -101,7 +111,7 @@
           "description": "Keet by Holepunch - Apps on Google Play",
           "link": "https://play.google.com/store/apps/details?id=io.keet.app",
           "publishedOn": "2023-01-30T19:00:02.000Z",
-          "wordCount": 12570,
+          "wordCount": 12565,
           "title": "Keet by Holepunch - Apps on Google Play",
           "imageUrl": "https://play-lh.googleusercontent.com/1_zVVOVC78RgRUDzyiQxRk5bVJ2aDx9AbYyKwu5hsMxkB4ixdu1ysvbD1NVzerzk1SA"
         },
@@ -131,7 +141,7 @@
           "description": "ZeroValidation",
           "link": "https://prestwich.substack.com/p/zero-validation",
           "publishedOn": "2023-01-30T17:30:04.000Z",
-          "wordCount": 8259,
+          "wordCount": 8257,
           "title": "ZeroValidation",
           "imageUrl": "https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd873cf1c-b596-4c21-a88d-66e226beb7c4_400x400.jpeg"
         },
@@ -154,16 +164,6 @@
           "wordCount": 3739,
           "title": "‎Keet by Holepunch",
           "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/33/fc/cc/33fcccf7-a079-4c08-82d4-5c45fe2206fa/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/military/white-house-refuses-say-if-ukraine-will-get-toxic-depleted-uranium-ammo",
-          "author": null,
-          "description": "White House Refuses To Say If Ukraine Will Get Toxic Depleted Uranium Ammo | ZeroHedge",
-          "link": "https://www.zerohedge.com/military/white-house-refuses-say-if-ukraine-will-get-toxic-depleted-uranium-ammo",
-          "publishedOn": "2023-01-30T15:00:02.000Z",
-          "wordCount": 786,
-          "title": "White House Refuses To Say If Ukraine Will Get Toxic Depleted Uranium Ammo | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/",
@@ -201,7 +201,7 @@
           "description": "Illegitimate bitcoin transactions",
           "link": "https://read.pourteaux.xyz/p/illegitimate-bitcoin-transactions",
           "publishedOn": "2023-01-28T19:00:02.000Z",
-          "wordCount": 7409,
+          "wordCount": 7414,
           "title": "Illegitimate bitcoin transactions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57878807-5c20-4052-899d-8562b4ea5584_703x702.png"
         }
