@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T19:15:21.294Z</id>
+    <id>urn:2023-01-31T20:20:23.393Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T19:15:21.294Z</updated>
+    <updated>2023-01-31T20:20:23.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,6 +46,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[PDF] sidechains.pdf]]></title>
+        <id>https://www.blockstream.com/sidechains.pdf</id>
+        <link href="https://www.blockstream.com/sidechains.pdf"/>
+        <updated>2023-01-31T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] sidechains.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lenstube]]></title>
         <id>https://lenstube.xyz/watch/0x01a8e6-0x03</id>
         <link href="https://lenstube.xyz/watch/0x01a8e6-0x03"/>
@@ -76,31 +86,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lido on Ethereum. Withdrawals landscape. - HackMD]]></title>
-        <id>https://hackmd.io/@lido/SyaJQsZoj</id>
-        <link href="https://hackmd.io/@lido/SyaJQsZoj"/>
-        <updated>2023-01-31T07:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Lido on Ethereum. Withdrawals landscape. - HackMD]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IPA 500 | INSIDEPublicAccounting]]></title>
         <id>https://insidepublicaccounting.com/top-firms/ipa-500/</id>
         <link href="https://insidepublicaccounting.com/top-firms/ipa-500/"/>
         <updated>2023-01-31T05:00:03.000Z</updated>
         <summary type="html"><![CDATA[IPA 500 | INSIDEPublicAccounting]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warren, Wyden to Accounting Regulator PCAOB: You Must Act to Address Concerns Raised by Crypto Firms’ Sham Audits |...]]></title>
-        <id>https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-to-accounting-regulator-pcaob-you-must-act-to-address-concerns-raised-by-crypto-firms-sham-audits?s=35</id>
-        <link href="https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-to-accounting-regulator-pcaob-you-must-act-to-address-concerns-raised-by-crypto-firms-sham-audits?s=35"/>
-        <updated>2023-01-31T05:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Warren, Wyden to Accounting Regulator PCAOB: You Must Act to Address Concerns Raised by Crypto Firms’ Sham Audits |...]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -131,6 +121,16 @@
         <link href="https://www.coindesk.com/tech/2023/01/30/bridge-platform-layerzero-denies-allegations-it-kept-backdoor-secret/?utm_source=twitter&amp;utm_term=organic&amp;utm_medium=social&amp;utm_campaign=coindesk_main&amp;utm_content=editorial"/>
         <updated>2023-01-31T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Bridge Platform LayerZero Denies Allegations It Kept ‘Backdoor’ Secret]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestia + Hyperlane - Hyperlane Docs]]></title>
+        <id>https://docs.hyperlane.xyz/docs/operators/celestia-+-hyperlane</id>
+        <link href="https://docs.hyperlane.xyz/docs/operators/celestia-+-hyperlane"/>
+        <updated>2023-01-31T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Celestia + Hyperlane - Hyperlane Docs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
