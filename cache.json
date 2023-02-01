@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://thecoh.build/",
+          "author": null,
+          "description": "the COH",
+          "link": "https://thecoh.build/",
+          "publishedOn": "2023-02-01T19:30:06.000Z",
+          "wordCount": 7185,
+          "title": "the COH",
+          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=6a6651f6"
+        },
+        {
           "id": "https://www.espressosys.com/blog/open-sourcing-hyperplonk",
           "author": null,
           "description": "Open Sourcing HyperPlonk",
@@ -31,7 +41,7 @@
           "description": "Intel Cuts Pay For Employees To Keep Their Quarterly Dividend",
           "link": "https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep",
           "publishedOn": "2023-02-01T15:30:05.000Z",
-          "wordCount": 2758,
+          "wordCount": 2781,
           "title": "Intel Cuts Pay For Employees To Keep Their Quarterly Dividend",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca00c4b6-3bb2-422c-af70-10999a2e14ad_1320x742.jpeg"
         },
@@ -61,7 +71,7 @@
           "description": "[EP 3.2] [Executable] Q1/Q2 2023 Working Group Funding",
           "link": "https://discuss.ens.domains/t/ep-3-2-executable-q1-q2-2023-working-group-funding/16123/6?u=lefterisjp",
           "publishedOn": "2023-02-01T15:00:02.000Z",
-          "wordCount": 658,
+          "wordCount": 664,
           "title": "[EP 3.2] [Executable] Q1/Q2 2023 Working Group Funding",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -91,7 +101,7 @@
           "description": "Jim Cramer says we're in a bull market, so buy on the dip",
           "link": "https://www.cnbc.com/2023/01/31/jim-cramer-says-were-in-a-bull-market-so-buy-on-the-dip.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1675208557",
           "publishedOn": "2023-02-01T04:00:04.000Z",
-          "wordCount": 16630,
+          "wordCount": 16640,
           "title": "Jim Cramer says we're in a bull market, so buy on the dip",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/104951455-IMG_1534r.jpg?v=1675208411&w=1920&h=1080"
         },
@@ -101,7 +111,7 @@
           "description": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "link": "https://www.theblock.co/post/207297/uniswap-temperature-check-spurs-feverish-backroom-maneuvering-among-crypto-vc-heavyweights?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-01T03:30:04.000Z",
-          "wordCount": 64736,
+          "wordCount": 64778,
           "title": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-1200x675.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "Social Token Platform Rally Shutting Down - Decrypt",
           "link": "https://decrypt.co/120285/social-token-platform-rally-shutting-down",
           "publishedOn": "2023-02-01T01:30:07.000Z",
-          "wordCount": 7504,
+          "wordCount": 7666,
           "title": "Social Token Platform Rally Shutting Down - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/rally-social-tokens-gID_4.jpg@png"
         },
@@ -151,19 +161,9 @@
           "description": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
           "link": "https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html",
           "publishedOn": "2023-01-31T23:30:05.000Z",
-          "wordCount": 13944,
+          "wordCount": 13833,
           "title": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-        },
-        {
-          "id": "https://blog.selectstar.com/blog/select-star-raises-15m-series-a-to-build-the-future-of-data-discovery",
-          "author": null,
-          "description": "Select Star Raises 15M Series A to Build the Future of Data Discovery",
-          "link": "https://blog.selectstar.com/blog/select-star-raises-15m-series-a-to-build-the-future-of-data-discovery",
-          "publishedOn": "2023-01-31T23:00:08.000Z",
-          "wordCount": 1733,
-          "title": "Select Star Raises 15M Series A to Build the Future of Data Discovery",
-          "imageUrl": "https://assets.website-files.com/63bb3dcfa6b58d4928fc3d9e/63d83ff628d89a6a916e866f_image%203.png"
         },
         {
           "id": "https://paragraph.xyz/@punkdao/punk-daoclaration",
@@ -196,14 +196,14 @@
           "imageUrl": "https://uploads-ssl.webflow.com/63236e6e462b87596329c577/63d9259f556d233028cc2e3c_mars-hub-launch.png"
         },
         {
-          "id": "https://www.axiom.xyz/blog/intro",
+          "id": "https://medium.com/@squidrouter/squid-raises-3-5-million-to-build-next-generation-cross-chain-swaps-powered-by-axelar-c3284bf33b02",
           "author": null,
-          "description": "Axiom",
-          "link": "https://www.axiom.xyz/blog/intro",
-          "publishedOn": "2023-01-30T19:00:02.000Z",
-          "wordCount": 2593,
-          "title": "Axiom",
-          "imageUrl": null
+          "description": "Squid raises $3.5 million to build next-generation cross-chain swaps powered by Axelar",
+          "link": "https://medium.com/@squidrouter/squid-raises-3-5-million-to-build-next-generation-cross-chain-swaps-powered-by-axelar-c3284bf33b02",
+          "publishedOn": "2023-01-31T19:00:02.000Z",
+          "wordCount": 2692,
+          "title": "Squid raises $3.5 million to build next-generation cross-chain swaps powered by Axelar",
+          "imageUrl": "https://miro.medium.com/max/1200/1*vguEdbgG4_Dl7OQyqRsrsA.png"
         }
       ]
     }
