@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf",
+          "id": "https://lenstube.xyz/watch/0x2e09-0x9d",
           "author": null,
-          "description": "[PDF] 1174901312380000000039.pdf",
-          "link": "https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf",
-          "publishedOn": "2023-02-01T14:00:05.000Z",
-          "wordCount": null,
-          "title": "[PDF] 1174901312380000000039.pdf",
-          "imageUrl": null
+          "description": "Lenstube",
+          "link": "https://lenstube.xyz/watch/0x2e09-0x9d",
+          "publishedOn": "2023-02-01T15:00:02.000Z",
+          "wordCount": 136,
+          "title": "Lenstube",
+          "imageUrl": "https://assets.lenstube.xyz/images/seo/og.png"
+        },
+        {
+          "id": "https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/",
+          "author": null,
+          "description": "EU chat control law will ban open source operating systems - Blog | Mullvad VPN",
+          "link": "https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/",
+          "publishedOn": "2023-02-01T15:00:02.000Z",
+          "wordCount": 676,
+          "title": "EU chat control law will ban open source operating systems - Blog | Mullvad VPN",
+          "imageUrl": "https://mullvad.net/static/press/MullvadVPN_logo_Round_RGB_Color_positive.png"
         },
         {
           "id": "https://zhejiang.beaconcha.in/",
@@ -21,7 +31,7 @@
           "description": "Beaconchain Explorer - beaconcha.in - 2023",
           "link": "https://zhejiang.beaconcha.in/",
           "publishedOn": "2023-02-01T07:30:06.000Z",
-          "wordCount": 3267,
+          "wordCount": 3550,
           "title": "Beaconchain Explorer - beaconcha.in - 2023",
           "imageUrl": "https://beaconcha.in/img/logo.png"
         },
@@ -31,7 +41,7 @@
           "description": "The death of Defi & RWA",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=social.tw",
           "publishedOn": "2023-02-01T07:00:02.000Z",
-          "wordCount": 2678,
+          "wordCount": 2901,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -51,7 +61,7 @@
           "description": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "link": "https://www.theblock.co/post/207297/uniswap-temperature-check-spurs-feverish-backroom-maneuvering-among-crypto-vc-heavyweights?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-01T03:30:04.000Z",
-          "wordCount": 62962,
+          "wordCount": 63791,
           "title": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-1200x675.jpg"
         },
@@ -71,19 +81,9 @@
           "description": "Social Token Platform Rally Shutting Down - Decrypt",
           "link": "https://decrypt.co/120285/social-token-platform-rally-shutting-down",
           "publishedOn": "2023-02-01T01:30:07.000Z",
-          "wordCount": 7384,
+          "wordCount": 7402,
           "title": "Social Token Platform Rally Shutting Down - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/rally-social-tokens-gID_4.jpg@png"
-        },
-        {
-          "id": "https://www.axios.com/2023/01/31/threshold-network-bitcoin-ethereum-bridge",
-          "author": null,
-          "description": "Threshold Network launches a trust-minimized bitcoin bridge",
-          "link": "https://www.axios.com/2023/01/31/threshold-network-bitcoin-ethereum-bridge",
-          "publishedOn": "2023-02-01T01:00:03.000Z",
-          "wordCount": 2439,
-          "title": "Threshold Network launches a trust-minimized bitcoin bridge",
-          "imageUrl": "https://images.axios.com/Oea25N7Uve3kAbOcvpJ2zcDk8Rc=/0x0:1920x1080/1366x768/2023/01/30/1675114854922.jpg"
         },
         {
           "id": "https://polygon.technology/blog/dapp-store-kit-your-dapp-your-store-your-rules",
@@ -94,6 +94,16 @@
           "wordCount": 12312,
           "title": "dApp Store Kit: Your dApp. Your Store. Your Rules — Polygon | Blog",
           "imageUrl": "https://blog.polygon.technology/wp-content/uploads/2023/01/polygon-dapp-store-kit.png"
+        },
+        {
+          "id": "https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html",
+          "author": null,
+          "description": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
+          "link": "https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html",
+          "publishedOn": "2023-01-31T23:30:05.000Z",
+          "wordCount": 13891,
+          "title": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
+          "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
         {
           "id": "https://ethresear.ch/t/a-principled-approach-to-bridges/14725",
@@ -156,16 +166,6 @@
           "imageUrl": "/jpeg/landing-page.jpeg"
         },
         {
-          "id": "https://www.theblock.co/post/205211/coinbase-loses-bison-trail-co-founders-sources?utm_source=rss&utm_medium=rss",
-          "author": null,
-          "description": "Coinbase loses Bison Trail co-founders: Sources",
-          "link": "https://www.theblock.co/post/205211/coinbase-loses-bison-trail-co-founders-sources?utm_source=rss&utm_medium=rss",
-          "publishedOn": "2023-01-31T19:00:03.000Z",
-          "wordCount": 62621,
-          "title": "Coinbase loses Bison Trail co-founders: Sources",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/01/20210119_Bison_Trails-Daily-1200x675.jpg"
-        },
-        {
           "id": "https://blog.marsprotocol.io/blog/mars-hub-is-live",
           "author": null,
           "description": "Mars Hub is live",
@@ -181,7 +181,7 @@
           "description": "Intain launches Avalanche subnet for asset-backed securities",
           "link": "https://www.theblock.co/post/206863/intain-launches-avalanche-subnet-for-asset-backed-securities?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-31T19:00:02.000Z",
-          "wordCount": 62671,
+          "wordCount": 63500,
           "title": "Intain launches Avalanche subnet for asset-backed securities",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Avalanche2-1200x675.jpg"
         },
