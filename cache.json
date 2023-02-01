@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.espressosys.com/blog/open-sourcing-hyperplonk",
+          "author": null,
+          "description": "Open Sourcing HyperPlonk",
+          "link": "https://www.espressosys.com/blog/open-sourcing-hyperplonk",
+          "publishedOn": "2023-02-01T17:00:02.000Z",
+          "wordCount": 1327,
+          "title": "Open Sourcing HyperPlonk",
+          "imageUrl": "https://www.datocms-assets.com/55435/1631732224-illustration-4.png?auto=format&fit=max&w=1200"
+        },
+        {
           "id": "https://ethresear.ch/t/a-principled-approach-to-bridges/14725",
           "author": null,
           "description": "A principled approach to bridges",
@@ -16,22 +26,12 @@
           "imageUrl": "https://ethresear.ch/uploads/default/optimized/2X/d/d2aa1320f3ac50c24dd6ade24e92ee5a12d5c493_2_1024x576.png"
         },
         {
-          "id": "https://www.arktouros.co/",
-          "author": null,
-          "description": "Law & Advisory Boutique | ARKTOUROS",
-          "link": "https://www.arktouros.co/",
-          "publishedOn": "2023-02-01T16:00:06.000Z",
-          "wordCount": 3684,
-          "title": "Law & Advisory Boutique | ARKTOUROS",
-          "imageUrl": null
-        },
-        {
           "id": "https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers",
           "author": null,
           "description": "CA Cities To Lose ALL Zoning Powers in 2 Days",
           "link": "https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers",
           "publishedOn": "2023-02-01T15:30:05.000Z",
-          "wordCount": 5000,
+          "wordCount": 5444,
           "title": "CA Cities To Lose ALL Zoning Powers in 2 Days",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0404ccd-7832-449f-8f89-6d0179e860e1_2560x1707.jpeg"
         },
@@ -71,7 +71,7 @@
           "description": "The death of Defi & RWA",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=social.tw",
           "publishedOn": "2023-02-01T07:00:02.000Z",
-          "wordCount": 2678,
+          "wordCount": 2901,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -91,7 +91,7 @@
           "description": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "link": "https://www.theblock.co/post/207297/uniswap-temperature-check-spurs-feverish-backroom-maneuvering-among-crypto-vc-heavyweights?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-01T03:30:04.000Z",
-          "wordCount": 63955,
+          "wordCount": 64596,
           "title": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-1200x675.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Intain launches Avalanche subnet for asset-backed securities",
           "link": "https://www.theblock.co/post/206863/intain-launches-avalanche-subnet-for-asset-backed-securities?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-01-31T19:00:02.000Z",
-          "wordCount": 63664,
+          "wordCount": 64305,
           "title": "Intain launches Avalanche subnet for asset-backed securities",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/22020627_Avalanche2-1200x675.jpg"
         },
