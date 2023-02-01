@@ -6,14 +6,24 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/",
+          "id": "https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/?tpcc=tcplustwitter",
           "author": null,
           "description": "Addressable raises $7.5M to match crypto wallets to Twitter accounts. But how?",
-          "link": "https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/",
+          "link": "https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/?tpcc=tcplustwitter",
           "publishedOn": "2023-02-01T21:00:03.000Z",
-          "wordCount": 6876,
+          "wordCount": 6924,
           "title": "Addressable raises $7.5M to match crypto wallets to Twitter accounts. But how?",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/02/061A9396.jpg"
+        },
+        {
+          "id": "https://linked.md/",
+          "author": null,
+          "description": "Linked Markdown",
+          "link": "https://linked.md/",
+          "publishedOn": "2023-02-01T20:30:02.000Z",
+          "wordCount": 5,
+          "title": "Linked Markdown",
+          "imageUrl": null
         },
         {
           "id": "https://thecoh.build/",
@@ -36,22 +46,12 @@
           "imageUrl": "https://www.datocms-assets.com/55435/1631732224-illustration-4.png?auto=format&fit=max&w=1200"
         },
         {
-          "id": "https://ethresear.ch/t/a-principled-approach-to-bridges/14725",
-          "author": null,
-          "description": "A principled approach to bridges",
-          "link": "https://ethresear.ch/t/a-principled-approach-to-bridges/14725",
-          "publishedOn": "2023-02-01T16:00:06.000Z",
-          "wordCount": 860,
-          "title": "A principled approach to bridges",
-          "imageUrl": "https://ethresear.ch/uploads/default/optimized/2X/d/d2aa1320f3ac50c24dd6ade24e92ee5a12d5c493_2_1024x576.png"
-        },
-        {
           "id": "https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep",
           "author": null,
           "description": "Intel Cuts Pay For Employees To Keep Their Quarterly Dividend",
           "link": "https://www.semianalysis.com/p/intel-cuts-pay-for-employees-to-keep",
           "publishedOn": "2023-02-01T15:30:05.000Z",
-          "wordCount": 2781,
+          "wordCount": 2774,
           "title": "Intel Cuts Pay For Employees To Keep Their Quarterly Dividend",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca00c4b6-3bb2-422c-af70-10999a2e14ad_1320x742.jpeg"
         },
@@ -131,7 +131,7 @@
           "description": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "link": "https://www.theblock.co/post/207297/uniswap-temperature-check-spurs-feverish-backroom-maneuvering-among-crypto-vc-heavyweights?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-01T03:30:04.000Z",
-          "wordCount": 64131,
+          "wordCount": 63913,
           "title": "Uniswap temperature check spurs feverish backroom maneuvering among crypto VC heavyweights",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/04/20220425-Uniswap-Regulation-1200x675.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
           "link": "https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html",
           "publishedOn": "2023-01-31T23:30:05.000Z",
-          "wordCount": 13806,
+          "wordCount": 13912,
           "title": "MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users",
           "imageUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
         },
