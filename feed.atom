@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T01:39:45.428Z</id>
+    <id>urn:2023-02-02T02:46:46.088Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T01:39:45.428Z</updated>
+    <updated>2023-02-02T02:46:46.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://thecoh.build/"/>
         <updated>2023-02-01T19:30:06.000Z</updated>
         <summary type="html"><![CDATA[the COH]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Creator Economy In Gaming]]></title>
+        <id>https://www.decentralised.co/p/creator-economy-gaming</id>
+        <link href="https://www.decentralised.co/p/creator-economy-gaming"/>
+        <updated>2023-02-01T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[The Creator Economy In Gaming]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/"/>
         <updated>2023-02-01T01:30:07.000Z</updated>
         <summary type="html"><![CDATA[New AI classifier for indicating AI-written text]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users]]></title>
-        <id>https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html</id>
-        <link href="https://finance.yahoo.com/news/metalend-deploys-ronin-network-becomes-170000177.html"/>
-        <updated>2023-01-31T23:30:05.000Z</updated>
-        <summary type="html"><![CDATA[MetaLend Deploys on Ronin Network and Becomes an Official Lending Protocol for Axie Infinity Users]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
