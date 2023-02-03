@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uhG-vLZrb-g&feature=youtu.be",
+          "author": null,
+          "description": "Fall Out Boy - Sugar, We're Goin Down",
+          "link": "https://www.youtube.com/watch?v=uhG-vLZrb-g&feature=youtu.be",
+          "publishedOn": "2023-02-03T18:01:07.000Z",
+          "wordCount": null,
+          "title": "Fall Out Boy - Sugar, We're Goin Down",
+          "imageUrl": null
+        },
+        {
+          "id": "https://coopahtroopa.mirror.xyz/G8N8YV5p0W0URYJ5__187IfrGylYdBZlCDIJfjz47pE",
+          "author": null,
+          "description": "Music Not NFTs",
+          "link": "https://coopahtroopa.mirror.xyz/G8N8YV5p0W0URYJ5__187IfrGylYdBZlCDIJfjz47pE",
+          "publishedOn": "2023-02-03T18:01:07.000Z",
+          "wordCount": 1649,
+          "title": "Music Not NFTs",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/eZcn_LWIeSbe1lo4FqrhR.png?height=960&width=1920&h=960&w=1920&auto=compress"
+        },
+        {
+          "id": "https://github.com/ethereum/go-ethereum/pull/26599",
+          "author": null,
+          "description": "accounts, build, mobile: remove Android and iOS support by karalabe · Pull Request #26599 · ethereum/go-ethereum",
+          "link": "https://github.com/ethereum/go-ethereum/pull/26599",
+          "publishedOn": "2023-02-03T17:30:04.000Z",
+          "wordCount": 934,
+          "title": "accounts, build, mobile: remove Android and iOS support by karalabe · Pull Request #26599 · ethereum/go-ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/6e03d99abdcf52d2879af9bf7dd3c4229c6db0537ac79453e69bf88521d7ece0/ethereum/go-ethereum/pull/26599"
+        },
+        {
           "id": "https://github.com/lukso-network/lsp-smart-contracts/releases/tag/v0.8.0",
           "author": null,
           "description": "Release v0.8.0 · lukso-network/lsp-smart-contracts",
@@ -21,7 +51,7 @@
           "description": "Couch From Famous Doge Meme to Be Auctioned by PleasrDAO",
           "link": "https://www.coindesk.com/web3/2023/02/02/couch-from-famous-doge-meme-to-be-auctioned-by-pleasrdao/",
           "publishedOn": "2023-02-03T16:30:03.000Z",
-          "wordCount": 6836,
+          "wordCount": 6931,
           "title": "Couch From Famous Doge Meme to Be Auctioned by PleasrDAO",
           "imageUrl": "https://www.coindesk.com/resizer/3bDy5hWyy-1_FttYmcQFyk5yK6Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YS3QEHC3NZFRBF2M5O4FYK4YAM.jpg"
         },
@@ -71,7 +101,7 @@
           "description": "Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool",
           "link": "https://www.coindesk.com/tech/2023/02/02/giant-bitcoin-taproot-wizard-nft-minted-in-collaboration-with-luxor-mining-pool/?utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_medium=social&utm_source=twitter",
           "publishedOn": "2023-02-03T12:30:10.000Z",
-          "wordCount": 8107,
+          "wordCount": 8195,
           "title": "Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool",
           "imageUrl": "https://www.coindesk.com/resizer/Bipnt0hNzMjZP3giBFcrs-6Sv18=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPQX62JQIFCSHKGIKKQQ6NFI4Y.jpg"
         },
@@ -84,16 +114,6 @@
           "wordCount": 25,
           "title": "KZG Summoning Ceremony",
           "imageUrl": "https://ceremony.ethereum.org/og-image.png"
-        },
-        {
-          "id": "https://mailchi.mp/6208f3d27b23/fanglijun-9297213",
-          "author": null,
-          "description": "Conceptual art is a vibe 😎",
-          "link": "https://mailchi.mp/6208f3d27b23/fanglijun-9297213",
-          "publishedOn": "2023-02-03T05:00:03.000Z",
-          "wordCount": 1491,
-          "title": "Conceptual art is a vibe 😎",
-          "imageUrl": null
         },
         {
           "id": "https://forum.makerdao.com/t/makerdao-2022-financial-results-and-retrospective/19636",
@@ -111,7 +131,7 @@
           "description": "Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings",
           "link": "https://www.coindesk.com/policy/2023/02/02/silvergate-stock-tanks-on-report-of-doj-probe-tied-to-ftx-alameda-dealings/?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-02-03T03:00:03.000Z",
-          "wordCount": 6658,
+          "wordCount": 6750,
           "title": "Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings",
           "imageUrl": "https://www.coindesk.com/resizer/WywYsSBYv2shbiSYA6_8Oa3iI0E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CGM4PVNNIVB7HBN4BRUOGQLJYY.jpg"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://opengraph.githubassets.com/6e89488479d4af3f2e3d5aab7edbe70982fd6d997ea4522d81b3fdb1f8e55d93/NilFoundation/zkllvm"
         },
         {
-          "id": "https://superteam.substack.com/p/daos-and-network-states",
-          "author": null,
-          "description": "DAOs and Network States",
-          "link": "https://superteam.substack.com/p/daos-and-network-states",
-          "publishedOn": "2023-02-02T21:30:05.000Z",
-          "wordCount": 3324,
-          "title": "DAOs and Network States",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb94420e-b858-48f9-a0f2-8adced1075b6_1200x630.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=E0w8NX5ksWo&feature=youtu.be",
           "author": null,
           "description": "Execution Layer Meeting 154 [2023-02-02]",
@@ -184,16 +194,6 @@
           "wordCount": 1226,
           "title": "Execution Layer Meeting 154 · Issue #715 · ethereum/pm",
           "imageUrl": "https://opengraph.githubassets.com/50ef25384a748decbf824320148042681f14d5cbb8ed55c8694f1e799432c046/ethereum/pm/issues/715"
-        },
-        {
-          "id": "https://www.venusovermanhattan.com/digital-items/collecting-digital-derek-schloss-on-snowfro1",
-          "author": null,
-          "description": "Collecting Digital: Derek Schloss on Snowfro -  - Digital-Items - Venus Over Manhattan",
-          "link": "https://www.venusovermanhattan.com/digital-items/collecting-digital-derek-schloss-on-snowfro1",
-          "publishedOn": "2023-02-02T21:00:02.000Z",
-          "wordCount": 3803,
-          "title": "Collecting Digital: Derek Schloss on Snowfro -  - Digital-Items - Venus Over Manhattan",
-          "imageUrl": "https://img.artlogic.net//exhibit-e/5b6b5f6d6aa72c4f430fcc53/c3583cd660cb6ed94db0eaae4402f0b7.jpeg"
         },
         {
           "id": "https://solana.com/grizzlython",
