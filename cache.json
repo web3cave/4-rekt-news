@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://zeroknowledge.fm/262-2/",
+          "author": null,
+          "description": "Episode 262: Ethereum’s KZG Ceremony with Trent & Carl - ZK Podcast",
+          "link": "https://zeroknowledge.fm/262-2/",
+          "publishedOn": "2023-02-03T02:00:10.000Z",
+          "wordCount": 2128,
+          "title": "Episode 262: Ethereum’s KZG Ceremony with Trent & Carl - ZK Podcast",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/NilFoundation/zkllvm",
           "author": null,
           "description": "GitHub - NilFoundation/zkllvm: Zero-Knowledge Proof Systems Circuit Compiler",
@@ -91,7 +101,7 @@
           "description": "Sky Mavis's partnership lets Axie Infinity users borrow against game assets",
           "link": "https://www.theblock.co/post/208063/axie-infinity-users-can-now-take-loans-against-in-game-assets?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-02T21:00:02.000Z",
-          "wordCount": 64819,
+          "wordCount": 65059,
           "title": "Sky Mavis's partnership lets Axie Infinity users borrow against game assets",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/05/20220512_Axie-Infinity-1200x675.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "Delegate Cash hits $400 million milestone as lesser-known project finds real adoption",
           "link": "https://www.theblock.co/post/207581/delegate-cash-hits-400-million-milestone-as-lesser-known-project-finds-real-adoption",
           "publishedOn": "2023-02-02T21:00:02.000Z",
-          "wordCount": 66750,
+          "wordCount": 66990,
           "title": "Delegate Cash hits $400 million milestone as lesser-known project finds real adoption",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230201_DelegateCash-1200x675.jpg"
         },
@@ -121,19 +131,9 @@
           "description": "GitHub - hashcloak/starkjub: A STARK-friendly elliptic curve designed to work within Cairo circuits",
           "link": "https://github.com/hashcloak/starkjub",
           "publishedOn": "2023-02-02T21:00:02.000Z",
-          "wordCount": 691,
+          "wordCount": 724,
           "title": "GitHub - hashcloak/starkjub: A STARK-friendly elliptic curve designed to work within Cairo circuits",
           "imageUrl": "https://opengraph.githubassets.com/90beb9d49ad5b6a10df74bdfdd275b16f62366b2a0566f675d45d28874f220c9/hashcloak/starkjub"
-        },
-        {
-          "id": "https://lu.ma/sol-community-call",
-          "author": null,
-          "description": "Solana Ecosystem Community Call  · Zoom · Luma",
-          "link": "https://lu.ma/sol-community-call",
-          "publishedOn": "2023-02-02T18:00:05.000Z",
-          "wordCount": 910,
-          "title": "Solana Ecosystem Community Call  · Zoom · Luma",
-          "imageUrl": "https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=500/event-covers/bz/f546cd73-949f-42aa-a4f7-0479e2a28839"
         },
         {
           "id": "https://solana.com/grizzlython",
@@ -151,7 +151,7 @@
           "description": "Berkshire Hathaway's Charlie Munger Calls for Crypto Ban in the US",
           "link": "https://www.coindesk.com/business/2023/02/02/berkshire-hathaways-charlie-munger-calls-for-crypto-ban-in-the-us/?utm_term=organic&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-02-02T17:30:04.000Z",
-          "wordCount": 7053,
+          "wordCount": 7093,
           "title": "Berkshire Hathaway's Charlie Munger Calls for Crypto Ban in the US",
           "imageUrl": "https://www.coindesk.com/resizer/h8gSFfe4iovgxHhJ3QUKQjEMhO4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZBLSTKVRV5HHRLF2575J2TBTFA.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "Opinion | Why America Should Ban Crypto",
           "link": "https://www.wsj.com/articles/why-america-should-ban-crypto-regulation-economy-finance-china-england-trading-currency-securities-commodity-gamble-11675287477?st=hw6epglbijkvas0&reflink=share_mobilewebshare",
           "publishedOn": "2023-02-02T16:00:05.000Z",
-          "wordCount": 6474,
+          "wordCount": 6492,
           "title": "Opinion | Why America Should Ban Crypto",
           "imageUrl": "https://images.wsj.net/im-713966/social"
         },

@@ -59,6 +59,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-03 datetime="2023-02-03T02:00:10.000Z">2023-02-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-03 datetime="2023-02-03T02:00:10.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rekt - Feed</button>
+                  <a class="source-heading__link" href="https://feed.rekt.news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zeroknowledge.fm/262-2/"
+                        open
+                      >
+                        <summary class="article-expander__title">Episode 262: Ethereum’s KZG Ceremony with Trent &amp; Carl - ZK Podcast</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zeroknowledge.fm/262-2/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Episode 262: Ethereum’s KZG Ceremony with Trent &amp; Carl - ZK Podcast</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-02-02 datetime="2023-02-02T22:30:03.000Z">2023-02-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-02-02 datetime="2023-02-02T22:30:03.000Z"></time>
           </button>
@@ -245,7 +292,7 @@
                               <img src="https://www.tbstat.com/wp/uploads/2022/05/20220512_Axie-Infinity-1200x675.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Sky Mavis&#x27;s partnership lets Axie Infinity users borrow against game assets</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;216
+                                &ensp;<span class="article-reading-time">(&hairsp;217
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -306,26 +353,6 @@
                             <span class="media-object__text">
                               <span>GitHub - hashcloak/starkjub: A STARK-friendly elliptic curve designed to work within Cairo circuits</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://lu.ma/sol-community-call"
-                        open
-                      >
-                        <summary class="article-expander__title">Solana Ecosystem Community Call  · Zoom · Luma</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://lu.ma/sol-community-call">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.lu.ma/cdn-cgi/image/format&#x3D;auto,fit&#x3D;cover,dpr&#x3D;2,quality&#x3D;75,width&#x3D;1000,height&#x3D;500/event-covers/bz/f546cd73-949f-42aa-a4f7-0479e2a28839" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Solana Ecosystem Community Call  · Zoom · Luma</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -505,8 +532,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/4080298508">
-        <time id="build-timestamp" datetime="2023-02-03T01:42:35.902Z">2023-02-03T01:42:35.902Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/4-rekt-news/actions/runs/4080630655">
+        <time id="build-timestamp" datetime="2023-02-03T02:50:12.955Z">2023-02-03T02:50:12.955Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
