@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sound.xyz/snoopdogg/xyz",
+          "author": null,
+          "description": "Snoop Dogg - XYZ",
+          "link": "https://www.sound.xyz/snoopdogg/xyz",
+          "publishedOn": "2023-02-03T20:00:04.000Z",
+          "wordCount": 1551,
+          "title": "Snoop Dogg - XYZ",
+          "imageUrl": "https://d2i9ybouka0ieh.cloudfront.net/artist-uploads/6b735677-0696-4074-a7d1-d4c031bb1e27/RELEASE_COVER_IMAGE/7921173-newImage.png"
+        },
+        {
+          "id": "https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831",
+          "author": null,
+          "description": "filter-ordinals.patch",
+          "link": "https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831",
+          "publishedOn": "2023-02-03T19:30:04.000Z",
+          "wordCount": 976,
+          "title": "filter-ordinals.patch",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=uhG-vLZrb-g&feature=youtu.be",
           "author": null,
           "description": "Fall Out Boy - Sugar, We're Goin Down",
@@ -51,7 +71,7 @@
           "description": "Couch From Famous Doge Meme to Be Auctioned by PleasrDAO",
           "link": "https://www.coindesk.com/web3/2023/02/02/couch-from-famous-doge-meme-to-be-auctioned-by-pleasrdao/",
           "publishedOn": "2023-02-03T16:30:03.000Z",
-          "wordCount": 6833,
+          "wordCount": 6913,
           "title": "Couch From Famous Doge Meme to Be Auctioned by PleasrDAO",
           "imageUrl": "https://www.coindesk.com/resizer/3bDy5hWyy-1_FttYmcQFyk5yK6Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YS3QEHC3NZFRBF2M5O4FYK4YAM.jpg"
         },
@@ -61,19 +81,9 @@
           "description": "The unequal treatment of demographic groups by ChatGPT/OpenAI content moderation system",
           "link": "https://davidrozado.substack.com/p/openaicms",
           "publishedOn": "2023-02-03T16:30:03.000Z",
-          "wordCount": 5581,
+          "wordCount": 5589,
           "title": "The unequal treatment of demographic groups by ChatGPT/OpenAI content moderation system",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18aa20f2-082d-4a57-973a-fa8e48a4b724_4147x2253.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/escobar-trials-and-tribulations-collective-west",
-          "author": null,
-          "description": "Escobar: The Trials And Tribulations Of The Collective West | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/escobar-trials-and-tribulations-collective-west",
-          "publishedOn": "2023-02-03T15:30:04.000Z",
-          "wordCount": 2321,
-          "title": "Escobar: The Trials And Tribulations Of The Collective West | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://github.com/zscole/canto-node-primer",
@@ -81,9 +91,9 @@
           "description": "GitHub - zscole/canto-node-primer",
           "link": "https://github.com/zscole/canto-node-primer",
           "publishedOn": "2023-02-03T14:00:04.000Z",
-          "wordCount": 1047,
+          "wordCount": 995,
           "title": "GitHub - zscole/canto-node-primer",
-          "imageUrl": "https://opengraph.githubassets.com/21835b42f49ec498d22aed2978ab62e628561dd41a531fd7d3a5742e1bd35e00/zscole/canto-node-primer"
+          "imageUrl": "https://opengraph.githubassets.com/5841fb44092057080b667acf0b66ef2d2883e80093a5cf6896a11f64304d1ad0/zscole/canto-node-primer"
         },
         {
           "id": "https://www.youtube.com/watch?v=vQR-cOSXixY&feature=youtu.be",
@@ -101,7 +111,7 @@
           "description": "Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool",
           "link": "https://www.coindesk.com/tech/2023/02/02/giant-bitcoin-taproot-wizard-nft-minted-in-collaboration-with-luxor-mining-pool/?utm_term=organic&utm_campaign=coindesk_main&utm_content=editorial&utm_medium=social&utm_source=twitter",
           "publishedOn": "2023-02-03T12:30:10.000Z",
-          "wordCount": 8108,
+          "wordCount": 8160,
           "title": "Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool",
           "imageUrl": "https://www.coindesk.com/resizer/Bipnt0hNzMjZP3giBFcrs-6Sv18=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPQX62JQIFCSHKGIKKQQ6NFI4Y.jpg"
         },
@@ -131,19 +141,9 @@
           "description": "Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings",
           "link": "https://www.coindesk.com/policy/2023/02/02/silvergate-stock-tanks-on-report-of-doj-probe-tied-to-ftx-alameda-dealings/?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-02-03T03:00:03.000Z",
-          "wordCount": 6659,
+          "wordCount": 6781,
           "title": "Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings",
           "imageUrl": "https://www.coindesk.com/resizer/WywYsSBYv2shbiSYA6_8Oa3iI0E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CGM4PVNNIVB7HBN4BRUOGQLJYY.jpg"
-        },
-        {
-          "id": "https://zeroknowledge.fm/262-2/",
-          "author": null,
-          "description": "Episode 262: Ethereum’s KZG Ceremony with Trent & Carl - ZK Podcast",
-          "link": "https://zeroknowledge.fm/262-2/",
-          "publishedOn": "2023-02-03T02:00:10.000Z",
-          "wordCount": 2128,
-          "title": "Episode 262: Ethereum’s KZG Ceremony with Trent & Carl - ZK Podcast",
-          "imageUrl": null
         },
         {
           "id": "https://www.scopelift.co/blog/how-scopelift-built-a-flex-voting-atoken-on-aave",
@@ -161,7 +161,7 @@
           "description": "[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core",
           "link": "https://github.com/aptos-labs/aptos-core/issues/6382",
           "publishedOn": "2023-02-03T01:00:02.000Z",
-          "wordCount": 1745,
+          "wordCount": 1746,
           "title": "[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core",
           "imageUrl": "https://opengraph.githubassets.com/4a6199375d640b3edced2c7c21057ab384c8e0bdbeeb63e482a224579ffd9b0f/aptos-labs/aptos-core/issues/6382"
         },
