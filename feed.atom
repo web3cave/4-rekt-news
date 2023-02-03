@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-03T04:22:55.818Z</id>
+    <id>urn:2023-02-03T05:17:25.518Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-03T04:22:55.818Z</updated>
+    <updated>2023-02-03T05:17:25.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KZG Summoning Ceremony]]></title>
+        <id>https://ceremony.ethereum.org/</id>
+        <link href="https://ceremony.ethereum.org/"/>
+        <updated>2023-02-03T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[KZG Summoning Ceremony]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conceptual art is a vibe 😎]]></title>
+        <id>https://mailchi.mp/6208f3d27b23/fanglijun-9297213</id>
+        <link href="https://mailchi.mp/6208f3d27b23/fanglijun-9297213"/>
+        <updated>2023-02-03T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Conceptual art is a vibe 😎]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings]]></title>
         <id>https://www.coindesk.com/policy/2023/02/02/silvergate-stock-tanks-on-report-of-doj-probe-tied-to-ftx-alameda-dealings/?utm_medium=social&amp;utm_campaign=coindesk_main&amp;utm_term=organic&amp;utm_source=twitter&amp;utm_content=editorial</id>
@@ -181,26 +201,6 @@
         <link href="https://www.wsj.com/articles/why-america-should-ban-crypto-regulation-economy-finance-china-england-trading-currency-securities-commodity-gamble-11675287477?st=hw6epglbijkvas0&amp;reflink=share_mobilewebshare"/>
         <updated>2023-02-02T16:00:05.000Z</updated>
         <summary type="html"><![CDATA[Opinion | Why America Should Ban Crypto]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas Monetization - Fantom]]></title>
-        <id>https://docs.fantom.foundation/funding/gas-monetization</id>
-        <link href="https://docs.fantom.foundation/funding/gas-monetization"/>
-        <updated>2023-02-02T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Gas Monetization - Fantom]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[filter-ordinals.patch]]></title>
-        <id>https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831</id>
-        <link href="https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831"/>
-        <updated>2023-02-01T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[filter-ordinals.patch]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

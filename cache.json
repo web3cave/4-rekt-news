@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ceremony.ethereum.org/",
+          "author": null,
+          "description": "KZG Summoning Ceremony",
+          "link": "https://ceremony.ethereum.org/",
+          "publishedOn": "2023-02-03T05:00:03.000Z",
+          "wordCount": 25,
+          "title": "KZG Summoning Ceremony",
+          "imageUrl": "https://ceremony.ethereum.org/og-image.png"
+        },
+        {
+          "id": "https://mailchi.mp/6208f3d27b23/fanglijun-9297213",
+          "author": null,
+          "description": "Conceptual art is a vibe 😎",
+          "link": "https://mailchi.mp/6208f3d27b23/fanglijun-9297213",
+          "publishedOn": "2023-02-03T05:00:03.000Z",
+          "wordCount": 1499,
+          "title": "Conceptual art is a vibe 😎",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.coindesk.com/policy/2023/02/02/silvergate-stock-tanks-on-report-of-doj-probe-tied-to-ftx-alameda-dealings/?utm_medium=social&utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_content=editorial",
           "author": null,
           "description": "Silvergate Stock Tanks on Report of DOJ Probe Tied to FTX, Alameda Dealings",
@@ -33,7 +53,7 @@
           "publishedOn": "2023-02-02T22:30:03.000Z",
           "wordCount": 1233,
           "title": "GitHub - NilFoundation/zkllvm: Zero-Knowledge Proof Systems Circuit Compiler",
-          "imageUrl": "https://opengraph.githubassets.com/788f10ce5f8d6dae6f8e6121b15096c722aa9c64b92b0a66b3b0ff36381aba07/NilFoundation/zkllvm"
+          "imageUrl": "https://opengraph.githubassets.com/114b0bfd96b33d70d9d5ba7fb47fb0e1d0c539a1a6cae16ac0d007d639d0187a/NilFoundation/zkllvm"
         },
         {
           "id": "https://superteam.substack.com/p/daos-and-network-states",
@@ -41,7 +61,7 @@
           "description": "DAOs and Network States",
           "link": "https://superteam.substack.com/p/daos-and-network-states",
           "publishedOn": "2023-02-02T21:30:05.000Z",
-          "wordCount": 3327,
+          "wordCount": 3325,
           "title": "DAOs and Network States",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb94420e-b858-48f9-a0f2-8adced1075b6_1200x630.png"
         },
@@ -141,9 +161,9 @@
           "description": "GitHub - hashcloak/starkjub: A STARK-friendly elliptic curve designed to work within Cairo circuits",
           "link": "https://github.com/hashcloak/starkjub",
           "publishedOn": "2023-02-02T21:00:02.000Z",
-          "wordCount": 724,
+          "wordCount": 728,
           "title": "GitHub - hashcloak/starkjub: A STARK-friendly elliptic curve designed to work within Cairo circuits",
-          "imageUrl": "https://opengraph.githubassets.com/fb442fcd5ebfddfb8ecb9d8d190a7e590e9923d5607c13c85d83f99bfc3f7c3d/hashcloak/starkjub"
+          "imageUrl": "https://opengraph.githubassets.com/5fcfbc04ee0d29b0e454a2f6bd108f97bd45105ba60a6fa8089bf3dc8dfa2eb9/hashcloak/starkjub"
         },
         {
           "id": "https://github.com/farcasterxyz/hubble",
@@ -184,26 +204,6 @@
           "wordCount": 6490,
           "title": "Opinion | Why America Should Ban Crypto",
           "imageUrl": "https://images.wsj.net/im-713966/social"
-        },
-        {
-          "id": "https://docs.fantom.foundation/funding/gas-monetization",
-          "author": null,
-          "description": "Gas Monetization - Fantom",
-          "link": "https://docs.fantom.foundation/funding/gas-monetization",
-          "publishedOn": "2023-02-02T09:30:05.000Z",
-          "wordCount": 2503,
-          "title": "Gas Monetization - Fantom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831",
-          "author": null,
-          "description": "filter-ordinals.patch",
-          "link": "https://gist.github.com/luke-jr/4c022839584020444915c84bdd825831",
-          "publishedOn": "2023-02-01T23:00:02.000Z",
-          "wordCount": 851,
-          "title": "filter-ordinals.patch",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         }
       ]
     }
