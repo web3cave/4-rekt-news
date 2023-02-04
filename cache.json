@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/2302.00196",
+          "author": null,
+          "description": "An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets",
+          "link": "https://arxiv.org/abs/2302.00196",
+          "publishedOn": "2023-02-04T10:00:05.000Z",
+          "wordCount": 618,
+          "title": "An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "https://superteam.substack.com/p/daos-and-network-states",
           "author": null,
           "description": "DAOs and Network States",
@@ -61,7 +71,7 @@
           "description": "GitHub - scaffold-eth/se-2",
           "link": "https://github.com/scaffold-eth/se-2",
           "publishedOn": "2023-02-03T23:00:04.000Z",
-          "wordCount": 948,
+          "wordCount": 1067,
           "title": "GitHub - scaffold-eth/se-2",
           "imageUrl": "https://opengraph.githubassets.com/be2b82464db836a837670bafc44b9b708e729c516be2f9d7197c7dcc2eb57c40/scaffold-eth/se-2"
         },
@@ -184,16 +194,6 @@
           "wordCount": 8069,
           "title": "Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool",
           "imageUrl": "https://www.coindesk.com/resizer/Bipnt0hNzMjZP3giBFcrs-6Sv18=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TPQX62JQIFCSHKGIKKQQ6NFI4Y.jpg"
-        },
-        {
-          "id": "https://github.com/aptos-labs/aptos-core/issues/6382",
-          "author": null,
-          "description": "[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core",
-          "link": "https://github.com/aptos-labs/aptos-core/issues/6382",
-          "publishedOn": "2023-02-03T01:00:02.000Z",
-          "wordCount": 1762,
-          "title": "[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core",
-          "imageUrl": "https://opengraph.githubassets.com/4a6199375d640b3edced2c7c21057ab384c8e0bdbeeb63e482a224579ffd9b0f/aptos-labs/aptos-core/issues/6382"
         },
         {
           "id": "https://solana.com/grizzlython",

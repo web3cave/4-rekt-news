@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T09:16:30.988Z</id>
+    <id>urn:2023-02-04T10:18:12.565Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T09:16:30.988Z</updated>
+    <updated>2023-02-04T10:18:12.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets]]></title>
+        <id>https://arxiv.org/abs/2302.00196</id>
+        <link href="https://arxiv.org/abs/2302.00196"/>
+        <updated>2023-02-04T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[An Axiomatic Characterization of CFMMs and Equivalence to Prediction Markets]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAOs and Network States]]></title>
         <id>https://superteam.substack.com/p/daos-and-network-states</id>
@@ -181,16 +191,6 @@
         <link href="https://www.coindesk.com/tech/2023/02/02/giant-bitcoin-taproot-wizard-nft-minted-in-collaboration-with-luxor-mining-pool/?utm_term=organic&amp;utm_campaign=coindesk_main&amp;utm_content=editorial&amp;utm_medium=social&amp;utm_source=twitter"/>
         <updated>2023-02-03T12:30:10.000Z</updated>
         <summary type="html"><![CDATA[Giant Bitcoin 'Taproot Wizard' NFT Minted in Collaboration With Luxor Mining Pool]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core]]></title>
-        <id>https://github.com/aptos-labs/aptos-core/issues/6382</id>
-        <link href="https://github.com/aptos-labs/aptos-core/issues/6382"/>
-        <updated>2023-02-03T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[[Securities Vulnerability] No really... the work does not belong to Aptos · Issue #6382 · aptos-labs/aptos-core]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
