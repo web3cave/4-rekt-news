@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.ca/general/2017/12/17/voting.html",
+          "author": null,
+          "description": "Notes on Blockchain Governance",
+          "link": "https://vitalik.ca/general/2017/12/17/voting.html",
+          "publishedOn": "2023-02-06T15:30:04.000Z",
+          "wordCount": 4168,
+          "title": "Notes on Blockchain Governance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vitalik.ca/general/2018/03/28/plutocracy.html",
+          "author": null,
+          "description": "Governance, Part 2: Plutocracy Is Still Bad",
+          "link": "https://vitalik.ca/general/2018/03/28/plutocracy.html",
+          "publishedOn": "2023-02-06T15:30:04.000Z",
+          "wordCount": 2547,
+          "title": "Governance, Part 2: Plutocracy Is Still Bad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vitalik.ca/general/2021/08/16/voting3.html",
+          "author": null,
+          "description": "Moving beyond coin voting governance",
+          "link": "https://vitalik.ca/general/2021/08/16/voting3.html",
+          "publishedOn": "2023-02-06T15:30:04.000Z",
+          "wordCount": 5258,
+          "title": "Moving beyond coin voting governance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pomp.substack.com/p/meditations-by-marcus-aurelius#details",
+          "author": null,
+          "description": "Meditations by Marcus Aurelius",
+          "link": "https://pomp.substack.com/p/meditations-by-marcus-aurelius#details",
+          "publishedOn": "2023-02-06T15:30:04.000Z",
+          "wordCount": 5766,
+          "title": "Meditations by Marcus Aurelius",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22e9744-5ec1-4396-a2bc-d59a8d362057_1536x2048.jpeg"
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/naval-recovery-mission-underway-find-chinese-spy-balloon-debris",
           "author": null,
           "description": "Naval Recovery Mission Underway To Find Chinese Spy Balloon Debris | ZeroHedge",
@@ -26,44 +66,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/boeing-737-crashes-while-fighting-brushfires-australia",
-          "author": null,
-          "description": "Boeing 737 Crashes While Fighting Brushfires In Australia  | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/boeing-737-crashes-while-fighting-brushfires-australia",
-          "publishedOn": "2023-02-06T15:00:03.000Z",
-          "wordCount": 621,
-          "title": "Boeing 737 Crashes While Fighting Brushfires In Australia  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/when-you-see-momentum-factor-underperform-so-viciously-it-sign-something-about-change",
-          "author": null,
-          "description": "\"When You See The Momentum Factor Underperform So Viciously, It Is A Sign That Something Is About To Change\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/when-you-see-momentum-factor-underperform-so-viciously-it-sign-something-about-change",
-          "publishedOn": "2023-02-06T15:00:03.000Z",
-          "wordCount": 444,
-          "title": "\"When You See The Momentum Factor Underperform So Viciously, It Is A Sign That Something Is About To Change\" | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
+          "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc?source=social.tw&_branch_match_id=1151159033575967333&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1TcPDXRNdkoqTK5IAgD9M%2B%2FYIwAAAA%3D%3D",
           "author": null,
           "description": "Storing Value in Digital Objects",
-          "link": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
+          "link": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc?source=social.tw&_branch_match_id=1151159033575967333&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1TcPDXRNdkoqTK5IAgD9M%2B%2FYIwAAAA%3D%3D",
           "publishedOn": "2023-02-06T15:00:02.000Z",
           "wordCount": 9012,
           "title": "Storing Value in Digital Objects",
           "imageUrl": "https://miro.medium.com/max/1200/1*pcTYm-Wy536atAqE9e5HBg.jpeg"
-        },
-        {
-          "id": "https://docs.rmrk.app/nontransferable/",
-          "author": null,
-          "description": "Soulbound 2.0 NFTs: Non-transferables | RMRK docs",
-          "link": "https://docs.rmrk.app/nontransferable/",
-          "publishedOn": "2023-02-06T15:00:02.000Z",
-          "wordCount": 759,
-          "title": "Soulbound 2.0 NFTs: Non-transferables | RMRK docs",
-          "imageUrl": null
         },
         {
           "id": "https://www.wsj.com/public/resources/documents/AppleIPODec12_1980_WSJ.pdf",
@@ -111,7 +121,7 @@
           "description": "Spanish rehab center adds crypto trading addiction to services list",
           "link": "https://cointelegraph.com/news/spanish-rehab-center-adds-crypto-trading-addiction-to-services-list",
           "publishedOn": "2023-02-06T04:00:03.000Z",
-          "wordCount": 20309,
+          "wordCount": 20248,
           "title": "Spanish rehab center adds crypto trading addiction to services list",
           "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/4459938a-60c2-4e8e-92bc-ac81171b98f7.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Visa's crypto strategy targets stablecoin settlements",
           "link": "https://cointelegraph.com/news/visa-s-crypto-strategy-targets-stablecoin-settlements",
           "publishedOn": "2023-02-06T03:00:02.000Z",
-          "wordCount": 20418,
+          "wordCount": 20391,
           "title": "Visa's crypto strategy targets stablecoin settlements",
           "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/9d1f2d6c-7d8d-4e85-95d5-4ce4bd731e33.jpg"
         },
@@ -146,6 +156,16 @@
           "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
         },
         {
+          "id": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+          "author": null,
+          "description": "SolidGoldMagikarp (plus, prompt generation) - LessWrong",
+          "link": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+          "publishedOn": "2023-02-05T21:30:04.000Z",
+          "wordCount": null,
+          "title": "SolidGoldMagikarp (plus, prompt generation) - LessWrong",
+          "imageUrl": null
+        },
+        {
           "id": "https://gov.uniswap.org/t/rfc-update-deploy-uniswap-v3-1-0-3-0-05-0-01-on-bnb-chain-binance/19734/88",
           "author": null,
           "description": "[RFC - Update] Deploy Uniswap v3 (1 / 0.3 / 0.05 / 0.01) on BNB Chain (Binance)",
@@ -166,26 +186,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf5ed064-67f0-4fa3-8c9a-4ef6eac4e472_4096x2339.jpeg"
         },
         {
-          "id": "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
-          "author": null,
-          "description": "Opinion | The Great Construction Mystery",
-          "link": "https://www.nytimes.com/2023/02/05/opinion/economy-construction-productivity-mystery.html",
-          "publishedOn": "2023-02-05T19:00:02.000Z",
-          "wordCount": 6414,
-          "title": "Opinion | The Great Construction Mystery",
-          "imageUrl": "https://static01.nyt.com/images/2023/02/05/multimedia/05klein-1-qclv/05klein-1-qclv-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.decentralised.co/",
-          "author": null,
-          "description": "Decentralised.co",
-          "link": "https://www.decentralised.co/",
-          "publishedOn": "2023-02-05T19:00:02.000Z",
-          "wordCount": 2077,
-          "title": "Decentralised.co",
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwww.decentralised.co%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1757051923%26version%3D9"
-        },
-        {
           "id": "https://medium.com/starkware/open-sourcing-the-starknet-prover-283d3e807c8b",
           "author": null,
           "description": "Open-Sourcing the Starknet Prover",
@@ -201,7 +201,7 @@
           "description": "Solana | Solana Grizzlython Hackathon",
           "link": "https://solana.com/grizzlython",
           "publishedOn": "2023-02-02T17:30:04.000Z",
-          "wordCount": 13302,
+          "wordCount": 12786,
           "title": "Solana | Solana Grizzlython Hackathon",
           "imageUrl": "https://solana.com/social/grizzlython.jpg"
         }
