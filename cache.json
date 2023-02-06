@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7oAGSOfQqqI",
+          "author": null,
+          "description": "Jay Jog | Founder of Sei | Sector-Specific Layer-1 focused on DeFi  | Logan Jastremski Podcast #48",
+          "link": "https://www.youtube.com/watch?v=7oAGSOfQqqI",
+          "publishedOn": "2023-02-06T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Jay Jog | Founder of Sei | Sector-Specific Layer-1 focused on DeFi  | Logan Jastremski Podcast #48",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gabygoldberg.substack.com/p/towards-crypto-literacy",
+          "author": null,
+          "description": "Towards Crypto Literacy",
+          "link": "https://gabygoldberg.substack.com/p/towards-crypto-literacy",
+          "publishedOn": "2023-02-06T22:30:03.000Z",
+          "wordCount": 2492,
+          "title": "Towards Crypto Literacy",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff03cf799-49c1-4cda-b61d-4f86cc64a4fa_1200x800.webp"
+        },
+        {
           "id": "https://github.com/jsign/go-kzg-ceremony-client",
           "author": null,
           "description": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
@@ -21,19 +41,9 @@
           "description": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "link": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
           "publishedOn": "2023-02-06T19:30:03.000Z",
-          "wordCount": 7571,
+          "wordCount": 7614,
           "title": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
-        },
-        {
-          "id": "https://cip.org/whitepaper",
-          "author": null,
-          "description": "Whitepaper — The Collective Intelligence Project",
-          "link": "https://cip.org/whitepaper",
-          "publishedOn": "2023-02-06T19:00:01.000Z",
-          "wordCount": 3937,
-          "title": "Whitepaper — The Collective Intelligence Project",
-          "imageUrl": "http://static1.squarespace.com/static/631d02b2dfa9482a32db47ec/t/63dfeb403499395e7d8ead36/1675619145578/CIP+image.jpg?format=1500w"
         },
         {
           "id": "https://edition.cnn.com/2023/02/05/europe/earthquake-hits-turkey-intl-hnk/index.html",
@@ -61,9 +71,9 @@
           "description": "Levels.art",
           "link": "https://levels.art/",
           "publishedOn": "2023-02-06T17:00:03.000Z",
-          "wordCount": 1680,
+          "wordCount": null,
           "title": "Levels.art",
-          "imageUrl": "https://levels.art/image/social.png"
+          "imageUrl": null
         },
         {
           "id": "https://venturepunk.substack.com/p/announcing-levelsart-on-chain-nft",
@@ -71,7 +81,7 @@
           "description": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "link": "https://venturepunk.substack.com/p/announcing-levelsart-on-chain-nft",
           "publishedOn": "2023-02-06T17:00:03.000Z",
-          "wordCount": 1887,
+          "wordCount": 1893,
           "title": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99949d24-f203-4d3f-8eda-2f45ba8b81c2_1200x675.png"
         },
@@ -146,16 +156,6 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a1894b2-b923-4b2c-8350-e8b9569e4998_3656x4035.jpeg"
         },
         {
-          "id": "https://wsudo.xyz/",
-          "author": null,
-          "description": "Wrapped SUDO",
-          "link": "https://wsudo.xyz/",
-          "publishedOn": "2023-02-06T07:30:03.000Z",
-          "wordCount": 29,
-          "title": "Wrapped SUDO",
-          "imageUrl": null
-        },
-        {
           "id": "https://dataalways.substack.com/p/partial-withdrawals-after-the-shanghai",
           "author": null,
           "description": "Partial withdrawals after the Shanghai fork",
@@ -171,7 +171,7 @@
           "description": "Visa's crypto strategy targets stablecoin settlements",
           "link": "https://cointelegraph.com/news/visa-s-crypto-strategy-targets-stablecoin-settlements",
           "publishedOn": "2023-02-06T03:00:02.000Z",
-          "wordCount": 20336,
+          "wordCount": 20359,
           "title": "Visa's crypto strategy targets stablecoin settlements",
           "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/9d1f2d6c-7d8d-4e85-95d5-4ce4bd731e33.jpg"
         },
