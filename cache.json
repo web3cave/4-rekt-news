@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Rekt - Feed",
+      "feedUrl": "https://message-rss.vercel.app/rekt/news",
+      "siteUrl": "https://feed.rekt.news/",
+      "articles": [
+        {
+          "id": "https://prigoose.substack.com/p/how-to-live-near-your-friends",
+          "author": null,
+          "description": "How to Live Near Your Friends",
+          "link": "https://prigoose.substack.com/p/how-to-live-near-your-friends",
+          "publishedOn": "2023-02-06T07:30:03.000Z",
+          "wordCount": 3987,
+          "title": "How to Live Near Your Friends",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a1894b2-b923-4b2c-8350-e8b9569e4998_3656x4035.jpeg"
+        },
+        {
+          "id": "https://multicoin.capital/2022/04/05/proof-of-physical-work/",
+          "author": null,
+          "description": "Multicoin Capital: Proof of Physical Work",
+          "link": "https://multicoin.capital/2022/04/05/proof-of-physical-work/",
+          "publishedOn": "2023-02-06T07:30:03.000Z",
+          "wordCount": 3442,
+          "title": "Multicoin Capital: Proof of Physical Work",
+          "imageUrl": "//images.ctfassets.net/qtbqvna1l0yq/6juqeLUSk9eIQDz72BG6HA/16b826b1d5a3defc5d54468f1b0ebc1c/New_Social_Preview_Tile.png"
+        },
+        {
+          "id": "https://wsudo.xyz/",
+          "author": null,
+          "description": "Wrapped SUDO",
+          "link": "https://wsudo.xyz/",
+          "publishedOn": "2023-02-06T07:30:03.000Z",
+          "wordCount": 29,
+          "title": "Wrapped SUDO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.laconic.com/",
+          "author": null,
+          "description": "Laconic Network",
+          "link": "https://www.laconic.com/",
+          "publishedOn": "2023-02-06T07:30:03.000Z",
+          "wordCount": 6309,
+          "title": "Laconic Network",
+          "imageUrl": "https://www.laconic.com/og.jpeg"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/east-oregon-movement-secede-and-create-greater-idaho-picks-steam",
+          "author": null,
+          "description": "East-Oregon Movement To Secede And Create 'Greater Idaho' Picks Up Steam | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/east-oregon-movement-secede-and-create-greater-idaho-picks-steam",
+          "publishedOn": "2023-02-06T07:00:03.000Z",
+          "wordCount": 1514,
+          "title": "East-Oregon Movement To Secede And Create 'Greater Idaho' Picks Up Steam | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/new-york-times-just-admitted-wests-anti-russian-sanctions-are-failure",
+          "author": null,
+          "description": "The New York Times Just Admitted That The West's Anti-Russian Sanctions Are A Failure | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/new-york-times-just-admitted-wests-anti-russian-sanctions-are-failure",
+          "publishedOn": "2023-02-06T07:00:03.000Z",
+          "wordCount": 2341,
+          "title": "The New York Times Just Admitted That The West's Anti-Russian Sanctions Are A Failure | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ssgeos.org/ssgi.htm",
+          "author": null,
+          "description": "SSGEOS | SSGI - Solar System Geometry Index",
+          "link": "https://ssgeos.org/ssgi.htm",
+          "publishedOn": "2023-02-06T07:00:03.000Z",
+          "wordCount": 403,
+          "title": "SSGEOS | SSGI - Solar System Geometry Index",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dataalways.substack.com/p/partial-withdrawals-after-the-shanghai",
+          "author": null,
+          "description": "Partial withdrawals after the Shanghai fork",
+          "link": "https://dataalways.substack.com/p/partial-withdrawals-after-the-shanghai",
+          "publishedOn": "2023-02-06T06:00:03.000Z",
+          "wordCount": 4163,
+          "title": "Partial withdrawals after the Shanghai fork",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F716cc748-3101-4fe5-b20f-937b4f02eb49_2400x1400.png"
+        },
+        {
+          "id": "https://cointelegraph.com/news/spanish-rehab-center-adds-crypto-trading-addiction-to-services-list",
+          "author": null,
+          "description": "Spanish rehab center adds crypto trading addiction to services list",
+          "link": "https://cointelegraph.com/news/spanish-rehab-center-adds-crypto-trading-addiction-to-services-list",
+          "publishedOn": "2023-02-06T04:00:03.000Z",
+          "wordCount": 20262,
+          "title": "Spanish rehab center adds crypto trading addiction to services list",
+          "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/4459938a-60c2-4e8e-92bc-ac81171b98f7.jpg"
+        },
+        {
+          "id": "https://cointelegraph.com/news/visa-s-crypto-strategy-targets-stablecoin-settlements",
+          "author": null,
+          "description": "Visa's crypto strategy targets stablecoin settlements",
+          "link": "https://cointelegraph.com/news/visa-s-crypto-strategy-targets-stablecoin-settlements",
+          "publishedOn": "2023-02-06T03:00:02.000Z",
+          "wordCount": 20340,
+          "title": "Visa's crypto strategy targets stablecoin settlements",
+          "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/9d1f2d6c-7d8d-4e85-95d5-4ce4bd731e33.jpg"
+        },
+        {
+          "id": "https://www.stableattribution.com/",
+          "author": null,
+          "description": "Find the human art behind the A.I. images",
+          "link": "https://www.stableattribution.com/",
+          "publishedOn": "2023-02-06T00:00:04.000Z",
+          "wordCount": 544,
+          "title": "Find the human art behind the A.I. images",
+          "imageUrl": "https://www.stableattribution.com/fallback_image.png?cache=1"
+        },
+        {
+          "id": "https://hackmd.io/Ml1kPUePTKS1vBKij_Bm1A",
+          "author": null,
+          "description": "Nouns DAO V3 Spec - HackMD",
+          "link": "https://hackmd.io/Ml1kPUePTKS1vBKij_Bm1A",
+          "publishedOn": "2023-02-05T23:00:02.000Z",
+          "wordCount": 2575,
+          "title": "Nouns DAO V3 Spec - HackMD",
+          "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
+        },
+        {
+          "id": "https://play.google.com/store/apps/details?id=io.keet.app",
+          "author": null,
+          "description": "Keet by Holepunch - Apps on Google Play",
+          "link": "https://play.google.com/store/apps/details?id=io.keet.app",
+          "publishedOn": "2023-02-05T21:30:04.000Z",
+          "wordCount": 14980,
+          "title": "Keet by Holepunch - Apps on Google Play",
+          "imageUrl": "https://play-lh.googleusercontent.com/1_zVVOVC78RgRUDzyiQxRk5bVJ2aDx9AbYyKwu5hsMxkB4ixdu1ysvbD1NVzerzk1SA"
+        },
+        {
+          "id": "https://gov.uniswap.org/t/rfc-update-deploy-uniswap-v3-1-0-3-0-05-0-01-on-bnb-chain-binance/19734/88",
+          "author": null,
+          "description": "[RFC - Update] Deploy Uniswap v3 (1 / 0.3 / 0.05 / 0.01) on BNB Chain (Binance)",
+          "link": "https://gov.uniswap.org/t/rfc-update-deploy-uniswap-v3-1-0-3-0-05-0-01-on-bnb-chain-binance/19734/88",
+          "publishedOn": "2023-02-05T20:30:01.000Z",
+          "wordCount": 7454,
+          "title": "[RFC - Update] Deploy Uniswap v3 (1 / 0.3 / 0.05 / 0.01) on BNB Chain (Binance)",
+          "imageUrl": "https://global.discourse-cdn.com/business6/uploads/uniswap1/original/2X/e/ec0448d11cafe2bd2ceb66ea58dcb9ed520e85fa.png"
+        },
+        {
+          "id": "https://thinkingusd.substack.com/p/so-you-want-to-start-your-own-hedge",
+          "author": null,
+          "description": "So you want to start your own Hedge Fund",
+          "link": "https://thinkingusd.substack.com/p/so-you-want-to-start-your-own-hedge",
+          "publishedOn": "2023-02-05T19:00:02.000Z",
+          "wordCount": 3543,
+          "title": "So you want to start your own Hedge Fund",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf5ed064-67f0-4fa3-8c9a-4ef6eac4e472_4096x2339.jpeg"
+        },
+        {
+          "id": "https://starkware.medium.com/open-sourcing-the-starknet-prover-283d3e807c8b",
+          "author": null,
+          "description": "Open-Sourcing the Starknet Prover",
+          "link": "https://starkware.medium.com/open-sourcing-the-starknet-prover-283d3e807c8b",
+          "publishedOn": "2023-02-05T17:00:02.000Z",
+          "wordCount": 1558,
+          "title": "Open-Sourcing the Starknet Prover",
+          "imageUrl": "https://miro.medium.com/max/1200/1*qIUdaQvmayPQF-hbrPHXpw.png"
+        },
+        {
+          "id": "https://docs.google.com/spreadsheets/d/19V51pg9KN8d7rfehH6L88cIo52w7pxaRVUY1qIPSGtI/edit#gid=0",
+          "author": null,
+          "description": "Hardcore Cryptolaw Referral List",
+          "link": "https://docs.google.com/spreadsheets/d/19V51pg9KN8d7rfehH6L88cIo52w7pxaRVUY1qIPSGtI/edit#gid=0",
+          "publishedOn": "2023-02-05T17:00:02.000Z",
+          "wordCount": 5561,
+          "title": "Hardcore Cryptolaw Referral List",
+          "imageUrl": "https://lh5.googleusercontent.com/xoIOUnEw3VkVwHkOj5-dXHf41twnzyJ_FvBmvFUDAWuMAISoG8pHXUJBxdSTMwaYoZRJ2lYJ2TZhVw=w1200-h630-p"
+        },
+        {
+          "id": "https://keet.io/",
+          "author": null,
+          "description": "Keet by Holepunch",
+          "link": "https://keet.io/",
+          "publishedOn": "2023-02-05T17:00:02.000Z",
+          "wordCount": 11,
+          "title": "Keet by Holepunch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bitcoincore.org/en/2016/01/26/segwit-benefits/#efficiency-gains-when-not-verifying-signatures",
+          "author": null,
+          "description": "Segregated Witness Benefits",
+          "link": "https://bitcoincore.org/en/2016/01/26/segwit-benefits/#efficiency-gains-when-not-verifying-signatures",
+          "publishedOn": "2023-02-05T15:00:02.000Z",
+          "wordCount": 2675,
+          "title": "Segregated Witness Benefits",
+          "imageUrl": "https://bitcoincore.org/assets/images/default-thumb.png"
+        },
+        {
+          "id": "https://solana.com/grizzlython",
+          "author": null,
+          "description": "Solana | Solana Grizzlython Hackathon",
+          "link": "https://solana.com/grizzlython",
+          "publishedOn": "2023-02-02T17:30:04.000Z",
+          "wordCount": 13302,
+          "title": "Solana | Solana Grizzlython Hackathon",
+          "imageUrl": "https://solana.com/social/grizzlython.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
