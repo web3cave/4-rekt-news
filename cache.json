@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/jsign/go-kzg-ceremony-client",
+          "author": null,
+          "description": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
+          "link": "https://github.com/jsign/go-kzg-ceremony-client",
+          "publishedOn": "2023-02-06T21:30:04.000Z",
+          "wordCount": 2391,
+          "title": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
+          "imageUrl": "https://opengraph.githubassets.com/77fbbd525b05509a8f5be6e73f7a38a46e99ee0dd47c344c4ca476e35c9b9bd4/jsign/go-kzg-ceremony-client"
+        },
+        {
           "id": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
           "author": null,
           "description": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "link": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
           "publishedOn": "2023-02-06T19:30:03.000Z",
-          "wordCount": 6914,
+          "wordCount": 7571,
           "title": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
@@ -31,7 +41,7 @@
           "description": "More than 500 dead as 7.8-magnitude earthquake hits southern Turkey | CNN",
           "link": "https://edition.cnn.com/2023/02/05/europe/earthquake-hits-turkey-intl-hnk/index.html",
           "publishedOn": "2023-02-06T18:00:03.000Z",
-          "wordCount": 22723,
+          "wordCount": 22734,
           "title": "More than 500 dead as 7.8-magnitude earthquake hits southern Turkey | CNN",
           "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230205202944-01-turkey-earthquake-0205.jpg?c=16x9&q=w_800,c_fill"
         },
@@ -44,16 +54,6 @@
           "wordCount": 5863,
           "title": "The Rise Of UGC 2.0: User Generated Collects",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/Cf5U5-Lx2VYcdOb4Xz5DN.png?height=432&width=863&h=432&w=863&auto=compress"
-        },
-        {
-          "id": "https://danwang.co/definite-optimism-as-human-capital/",
-          "author": null,
-          "description": "Definite optimism as human capital | Dan Wang",
-          "link": "https://danwang.co/definite-optimism-as-human-capital/",
-          "publishedOn": "2023-02-06T17:30:04.000Z",
-          "wordCount": 7073,
-          "title": "Definite optimism as human capital | Dan Wang",
-          "imageUrl": "https://danwang.co/wp-content/uploads/2017/08/seveneves-700x900.jpg"
         },
         {
           "id": "https://levels.art/",
@@ -71,7 +71,7 @@
           "description": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "link": "https://venturepunk.substack.com/p/announcing-levelsart-on-chain-nft",
           "publishedOn": "2023-02-06T17:00:03.000Z",
-          "wordCount": 1893,
+          "wordCount": 1887,
           "title": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99949d24-f203-4d3f-8eda-2f45ba8b81c2_1200x675.png"
         },
@@ -171,7 +171,7 @@
           "description": "Visa's crypto strategy targets stablecoin settlements",
           "link": "https://cointelegraph.com/news/visa-s-crypto-strategy-targets-stablecoin-settlements",
           "publishedOn": "2023-02-06T03:00:02.000Z",
-          "wordCount": 20367,
+          "wordCount": 20336,
           "title": "Visa's crypto strategy targets stablecoin settlements",
           "imageUrl": "https://s3.cointelegraph.com/uploads/2023-02/9d1f2d6c-7d8d-4e85-95d5-4ce4bd731e33.jpg"
         },
@@ -186,10 +186,10 @@
           "imageUrl": "https://www.stableattribution.com/fallback_image.png?cache=1"
         },
         {
-          "id": "https://starkware.medium.com/open-sourcing-the-starknet-prover-283d3e807c8b",
+          "id": "https://medium.com/starkware/open-sourcing-the-starknet-prover-283d3e807c8b",
           "author": null,
           "description": "Open-Sourcing the Starknet Prover",
-          "link": "https://starkware.medium.com/open-sourcing-the-starknet-prover-283d3e807c8b",
+          "link": "https://medium.com/starkware/open-sourcing-the-starknet-prover-283d3e807c8b",
           "publishedOn": "2023-02-05T17:00:02.000Z",
           "wordCount": 1561,
           "title": "Open-Sourcing the Starknet Prover",
