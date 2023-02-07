@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://collectibles.bankless.com/",
+          "author": null,
+          "description": "Home ✨",
+          "link": "https://collectibles.bankless.com/",
+          "publishedOn": "2023-02-07T18:00:03.000Z",
+          "wordCount": 341,
+          "title": "Home ✨",
+          "imageUrl": "https://d2vwpu9ddd6iwd.cloudfront.net/creators/85fef367-3a74-4847-b71b-db334814889c/1667942951.jpg"
+        },
+        {
+          "id": "https://earni.fi/",
+          "author": null,
+          "description": "Earnifi | Find Crypto Airdrops",
+          "link": "https://earni.fi/",
+          "publishedOn": "2023-02-07T18:00:03.000Z",
+          "wordCount": 372,
+          "title": "Earnifi | Find Crypto Airdrops",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptohayes.medium.com/be-present-aff45d6421b4",
+          "author": null,
+          "description": "Be Present",
+          "link": "https://cryptohayes.medium.com/be-present-aff45d6421b4",
+          "publishedOn": "2023-02-07T18:00:02.000Z",
+          "wordCount": 6751,
+          "title": "Be Present",
+          "imageUrl": "https://miro.medium.com/max/400/0*jskYWo6hs1l0Tlho"
+        },
+        {
           "id": "https://offchain.medium.com/hello-stylus-6b18fecc3a22",
           "author": null,
           "description": "Hello, Stylus",
@@ -31,19 +61,9 @@
           "description": "Ethereum Staking Platform Lido Finance Rolls Out Details of Next Upgrade - Decrypt",
           "link": "https://decrypt.co/120727/ethereum-staking-platform-lido-finance-rolls-out-details-next-upgrade?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2023-02-07T16:30:01.000Z",
-          "wordCount": 7282,
+          "wordCount": 7621,
           "title": "Ethereum Staking Platform Lido Finance Rolls Out Details of Next Upgrade - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/ethereum-token-pos-gID_2.jpg@png"
-        },
-        {
-          "id": "https://levels.art/",
-          "author": null,
-          "description": "Levels.art",
-          "link": "https://levels.art/",
-          "publishedOn": "2023-02-07T15:30:03.000Z",
-          "wordCount": 1680,
-          "title": "Levels.art",
-          "imageUrl": "https://levels.art/image/social.png"
         },
         {
           "id": "https://www.theblock.co/post/209222/ens-dao-votes-to-sell-16-5-million-of-eth-for-usdc-via-cow-swap",
@@ -136,22 +156,12 @@
           "imageUrl": "https://www.freedenis.com/freedenis-og.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=AVqcwi1ZTSA",
-          "author": null,
-          "description": "I Paid an Influencer To Expose Their Own Scams",
-          "link": "https://www.youtube.com/watch?v=AVqcwi1ZTSA",
-          "publishedOn": "2023-02-06T23:30:02.000Z",
-          "wordCount": null,
-          "title": "I Paid an Influencer To Expose Their Own Scams",
-          "imageUrl": null
-        },
-        {
           "id": "https://gabygoldberg.substack.com/p/towards-crypto-literacy",
           "author": null,
           "description": "Towards Crypto Literacy",
           "link": "https://gabygoldberg.substack.com/p/towards-crypto-literacy",
           "publishedOn": "2023-02-06T22:30:03.000Z",
-          "wordCount": 2490,
+          "wordCount": 2696,
           "title": "Towards Crypto Literacy",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff03cf799-49c1-4cda-b61d-4f86cc64a4fa_1200x800.webp"
         },
@@ -161,7 +171,7 @@
           "description": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
           "link": "https://github.com/jsign/go-kzg-ceremony-client",
           "publishedOn": "2023-02-06T21:30:04.000Z",
-          "wordCount": 2402,
+          "wordCount": 2229,
           "title": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
           "imageUrl": "https://opengraph.githubassets.com/c9fb4f350f7f1911582b09d695dac83299203c9508474a385e3976ea7d0984b6/jsign/go-kzg-ceremony-client"
         },
@@ -174,16 +184,6 @@
           "wordCount": 486,
           "title": "Gen-1 by Runway",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
-          "author": null,
-          "description": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
-          "link": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
-          "publishedOn": "2023-02-06T19:30:03.000Z",
-          "wordCount": 7634,
-          "title": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
-          "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
         {
           "id": "https://mirror.xyz/chrissyb.eth/r0SyE9QdvQribykjXvdMqYElGQT8ZFnthV_rUlyNqNk",
