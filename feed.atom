@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T19:15:14.947Z</id>
+    <id>urn:2023-02-07T20:19:47.905Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-07T19:15:14.947Z</updated>
+    <updated>2023-02-07T20:19:47.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Earnifi | Find Crypto Airdrops]]></title>
+        <id>https://earni.fi/</id>
+        <link href="https://earni.fi/"/>
+        <updated>2023-02-07T20:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Earnifi | Find Crypto Airdrops]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets On A Precipice As Speculation Runs Rampant | ZeroHedge]]></title>
         <id>https://www.zerohedge.com/markets/markets-precipice-speculation-runs-rampant</id>
@@ -161,16 +171,6 @@
         <link href="https://gabygoldberg.substack.com/p/towards-crypto-literacy"/>
         <updated>2023-02-06T22:30:03.000Z</updated>
         <summary type="html"><![CDATA[Towards Crypto Literacy]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client]]></title>
-        <id>https://github.com/jsign/go-kzg-ceremony-client</id>
-        <link href="https://github.com/jsign/go-kzg-ceremony-client"/>
-        <updated>2023-02-06T21:30:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
