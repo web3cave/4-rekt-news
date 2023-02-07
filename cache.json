@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://rekt.news/bonq-rekt/",
+          "author": null,
+          "description": "Rekt - BonqDAO - REKT",
+          "link": "https://rekt.news/bonq-rekt/",
+          "publishedOn": "2023-02-07T13:00:02.000Z",
+          "wordCount": 2140,
+          "title": "Rekt - BonqDAO - REKT",
+          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/bonq-header.png"
+        },
+        {
           "id": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
           "author": null,
           "description": "SolidGoldMagikarp (plus, prompt generation) - LessWrong",
@@ -53,16 +63,6 @@
           "publishedOn": "2023-02-07T03:00:02.000Z",
           "wordCount": 9884,
           "title": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/peter-schiff-fed-cant-fight-what-it-doesnt-understand",
-          "author": null,
-          "description": "Peter Schiff: The Fed Can't Fight What It Doesn't Understand | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/peter-schiff-fed-cant-fight-what-it-doesnt-understand",
-          "publishedOn": "2023-02-07T03:00:02.000Z",
-          "wordCount": 2174,
-          "title": "Peter Schiff: The Fed Can't Fight What It Doesn't Understand | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -131,7 +131,7 @@
           "description": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
           "link": "https://github.com/jsign/go-kzg-ceremony-client",
           "publishedOn": "2023-02-06T21:30:04.000Z",
-          "wordCount": 2391,
+          "wordCount": 2402,
           "title": "GitHub - jsign/go-kzg-ceremony-client: EIP-4844 KZG Powers of Tau ceremony client",
           "imageUrl": "https://opengraph.githubassets.com/c9fb4f350f7f1911582b09d695dac83299203c9508474a385e3976ea7d0984b6/jsign/go-kzg-ceremony-client"
         },
@@ -141,7 +141,7 @@
           "description": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "link": "https://www.coindesk.com/business/2023/02/06/bankrupt-lender-genesis-and-parent-dcg-reach-initial-agreement-with-main-creditors-source/",
           "publishedOn": "2023-02-06T19:30:03.000Z",
-          "wordCount": 7577,
+          "wordCount": 7673,
           "title": "Bankrupt Lender Genesis and Parent DCG Reach Initial Agreement With Main Creditors: Source",
           "imageUrl": "https://www.coindesk.com/resizer/CNH7bjfqTrO6aorDvpz4atbfcp4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIQFOFXKDNGXPNQLSOZWF33DAU.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "link": "https://venturepunk.substack.com/p/announcing-levelsart-on-chain-nft",
           "publishedOn": "2023-02-06T17:00:03.000Z",
-          "wordCount": 1893,
+          "wordCount": 2099,
           "title": "Announcing LEVELS.art: On-Chain NFT Mini Games from Top Artists",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99949d24-f203-4d3f-8eda-2f45ba8b81c2_1200x675.png"
         },
