@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T09:19:38.909Z</id>
+    <id>urn:2023-02-08T10:22:15.321Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T09:19:38.909Z</updated>
+    <updated>2023-02-08T10:22:15.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -146,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Edelweiss Interop Recap | Ethereum Foundation Blog]]></title>
+        <id>https://blog.ethereum.org/2023/02/07/edelweiss-interop-recap</id>
+        <link href="https://blog.ethereum.org/2023/02/07/edelweiss-interop-recap"/>
+        <updated>2023-02-07T19:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Edelweiss Interop Recap | Ethereum Foundation Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello, Stylus]]></title>
         <id>https://offchain.medium.com/hello-stylus-6b18fecc3a22</id>
         <link href="https://offchain.medium.com/hello-stylus-6b18fecc3a22"/>
@@ -181,16 +191,6 @@
         <link href="https://www.theblock.co/post/209222/ens-dao-votes-to-sell-16-5-million-of-eth-for-usdc-via-cow-swap"/>
         <updated>2023-02-07T13:30:03.000Z</updated>
         <summary type="html"><![CDATA[ENS DAO votes to sell $16.5 million of ETH for USDC via CoW Swap]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future of the support of BNB Smart Chain and Bor (Polygon) in Erigon]]></title>
-        <id>https://erigon.substack.com/p/future-of-the-support-of-bnb-smart</id>
-        <link href="https://erigon.substack.com/p/future-of-the-support-of-bnb-smart"/>
-        <updated>2023-02-07T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Future of the support of BNB Smart Chain and Bor (Polygon) in Erigon]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
