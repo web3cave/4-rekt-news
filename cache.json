@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://app.pulsar.finance/",
+          "author": null,
+          "description": "Pulsar Finance",
+          "link": "https://app.pulsar.finance/",
+          "publishedOn": "2023-02-08T01:30:03.000Z",
+          "wordCount": 75,
+          "title": "Pulsar Finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://newsletter.banklesshq.com/p/a-beginners-guide-to-canto",
+          "author": null,
+          "description": "A Beginner’s Guide to Canto",
+          "link": "https://newsletter.banklesshq.com/p/a-beginners-guide-to-canto",
+          "publishedOn": "2023-02-08T00:30:02.000Z",
+          "wordCount": 4738,
+          "title": "A Beginner’s Guide to Canto",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38ae0aac-e12b-45a4-ac36-d0b93deb6691_1788x1006.jpeg"
+        },
+        {
+          "id": "https://adamlevy.xyz/",
+          "author": null,
+          "description": "levy.eth",
+          "link": "https://adamlevy.xyz/",
+          "publishedOn": "2023-02-08T00:30:01.000Z",
+          "wordCount": 588,
+          "title": "levy.eth",
+          "imageUrl": "https://d2vwpu9ddd6iwd.cloudfront.net/creators/099f89af-3d94-4f6f-a210-13e4dbaa3af3/1675801729.png"
+        },
+        {
           "id": "https://infpools.medium.com/introducing-infinitypools-or-how-i-learned-to-stop-worrying-and-love-leverage-9b44fc8367b6",
           "author": null,
           "description": "Introducing InfinityPools: Or how I learned to stop worrying and love leverage",
@@ -26,14 +56,34 @@
           "imageUrl": "https://uploads-ssl.webflow.com/63a32659000523cbc9c7a1d6/63a375918e02fdf427146193_mntge-23.png"
         },
         {
+          "id": "https://esp.ethereum.foundation/academic-grants-2023",
+          "author": null,
+          "description": "Academic Grants Round 2023 | Ethereum Foundation ESP",
+          "link": "https://esp.ethereum.foundation/academic-grants-2023",
+          "publishedOn": "2023-02-07T23:00:02.000Z",
+          "wordCount": 1679,
+          "title": "Academic Grants Round 2023 | Ethereum Foundation ESP",
+          "imageUrl": "https://esp.ethereum.foundation/images/homepage-hero-mobile.png"
+        },
+        {
           "id": "https://www.coindesk.com/policy/2023/02/07/central-banks-are-working-on-a-monitoring-system-for-stablecoin-balance-sheets/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
           "author": null,
           "description": "Central Banks Are Working on a Monitoring System for Stablecoin Balance Sheets",
           "link": "https://www.coindesk.com/policy/2023/02/07/central-banks-are-working-on-a-monitoring-system-for-stablecoin-balance-sheets/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_medium=social",
           "publishedOn": "2023-02-07T22:00:03.000Z",
-          "wordCount": 6991,
+          "wordCount": 7134,
           "title": "Central Banks Are Working on a Monitoring System for Stablecoin Balance Sheets",
           "imageUrl": "https://www.coindesk.com/resizer/c4twpkqkqQHjgnWhC7mWMP_WWsE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YNNN5GDHGFAGBP3LSANNRPXGRQ.jpg"
+        },
+        {
+          "id": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+          "author": null,
+          "description": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog",
+          "link": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+          "publishedOn": "2023-02-07T21:00:02.000Z",
+          "wordCount": 2371,
+          "title": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog",
+          "imageUrl": "https://blogs.microsoft.com/wp-content/uploads/prod/2023/02/1920x1080-Hero-1024x576.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=BgK9KW9APfA&t=2686s",
@@ -51,7 +101,7 @@
           "description": "Binance to Airdrop $100 USD (1883 TRY) in BNB to Users in the Turkey Earthquake Region | Binance Blog",
           "link": "https://www.binance.com/en/blog/charity/binance-to-airdrop-$100-usd-1883-try-in-bnb-to-users-in-the-turkey-earthquake-region-8156736968497181390",
           "publishedOn": "2023-02-07T20:30:02.000Z",
-          "wordCount": 5289,
+          "wordCount": 5281,
           "title": "Binance to Airdrop $100 USD (1883 TRY) in BNB to Users in the Turkey Earthquake Region | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230207/da83a785-4c9c-4999-8207-1bcb38e439ef.jpg"
         },
@@ -64,26 +114,6 @@
           "wordCount": 1706,
           "title": "Markets On A Precipice As Speculation Runs Rampant | ZeroHedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://unchainedpodcast.com/everything-you-need-to-know-about-filing-your-2022-crypto-taxes-ep-453/",
-          "author": null,
-          "description": "Everything You Need to Know About Filing Your 2022 Crypto Taxes - Ep. 453",
-          "link": "https://unchainedpodcast.com/everything-you-need-to-know-about-filing-your-2022-crypto-taxes-ep-453/",
-          "publishedOn": "2023-02-07T19:00:04.000Z",
-          "wordCount": 8607,
-          "title": "Everything You Need to Know About Filing Your 2022 Crypto Taxes - Ep. 453",
-          "imageUrl": "https://unchainedpodcast.com/wp-content/uploads/2023/02/UN453-SOCIAL.jpg"
-        },
-        {
-          "id": "https://cryptohayes.medium.com/be-present-aff45d6421b4",
-          "author": null,
-          "description": "Be Present",
-          "link": "https://cryptohayes.medium.com/be-present-aff45d6421b4",
-          "publishedOn": "2023-02-07T18:00:02.000Z",
-          "wordCount": 6751,
-          "title": "Be Present",
-          "imageUrl": "https://miro.medium.com/max/400/0*jskYWo6hs1l0Tlho"
         },
         {
           "id": "https://offchain.medium.com/hello-stylus-6b18fecc3a22",
@@ -111,7 +141,7 @@
           "description": "Ethereum Staking Platform Lido Finance Rolls Out Details of Next Upgrade - Decrypt",
           "link": "https://decrypt.co/120727/ethereum-staking-platform-lido-finance-rolls-out-details-next-upgrade?utm_source=twitter&utm_medium=social&utm_campaign=auto",
           "publishedOn": "2023-02-07T16:30:01.000Z",
-          "wordCount": 7500,
+          "wordCount": 7494,
           "title": "Ethereum Staking Platform Lido Finance Rolls Out Details of Next Upgrade - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/ethereum-token-pos-gID_2.jpg@png"
         },
@@ -124,16 +154,6 @@
           "wordCount": 64049,
           "title": "ENS DAO votes to sell $16.5 million of ETH for USDC via CoW Swap",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221220_DAO-Voting-1-1200x675.jpg"
-        },
-        {
-          "id": "https://rekt.news/bonq-rekt/",
-          "author": null,
-          "description": "Rekt - BonqDAO - REKT",
-          "link": "https://rekt.news/bonq-rekt/",
-          "publishedOn": "2023-02-07T13:00:02.000Z",
-          "wordCount": 2140,
-          "title": "Rekt - BonqDAO - REKT",
-          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/bonq-header.png"
         },
         {
           "id": "https://erigon.substack.com/p/future-of-the-support-of-bnb-smart",
@@ -156,24 +176,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/commodities/fire-new-zealands-largest-egg-farm-kills-75000-hens-amid-national-shortage",
+          "id": "https://roninblockchain.substack.com/p/rewards-for-the-new-ron-liquidity",
           "author": null,
-          "description": "Fire At New Zealand's Largest Egg Farm Kills 75,000 Hens Amid National Shortage | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/fire-new-zealands-largest-egg-farm-kills-75000-hens-amid-national-shortage",
-          "publishedOn": "2023-02-07T11:00:02.000Z",
-          "wordCount": 959,
-          "title": "Fire At New Zealand's Largest Egg Farm Kills 75,000 Hens Amid National Shortage | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
-          "author": null,
-          "description": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "link": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
-          "publishedOn": "2023-02-07T03:00:02.000Z",
-          "wordCount": 9884,
-          "title": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "imageUrl": null
+          "description": "Rewards for the New RON Liquidity Pools Start Today!",
+          "link": "https://roninblockchain.substack.com/p/rewards-for-the-new-ron-liquidity",
+          "publishedOn": "2023-02-07T09:30:03.000Z",
+          "wordCount": 1864,
+          "title": "Rewards for the New RON Liquidity Pools Start Today!",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32ea1b58-8749-46ea-800f-a41fd9504d0e_3980x1279.png"
         },
         {
           "id": "https://laanwj.github.io/2023/02/06/regrets.html",
@@ -194,16 +204,6 @@
           "wordCount": 486,
           "title": "Gen-1 by Runway",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "author": null,
-          "description": "Storing Value in Digital Objects",
-          "link": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "publishedOn": "2023-02-06T15:00:02.000Z",
-          "wordCount": 9012,
-          "title": "Storing Value in Digital Objects",
-          "imageUrl": "https://miro.medium.com/max/1200/1*pcTYm-Wy536atAqE9e5HBg.jpeg"
         }
       ]
     }
