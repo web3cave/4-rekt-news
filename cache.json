@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
+          "author": null,
+          "description": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
+          "link": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
+          "publishedOn": "2023-02-09T15:30:05.000Z",
+          "wordCount": 6828,
+          "title": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/localbitcoins-bitcoin-exchange-revenues-gID_6.jpg@png"
+        },
+        {
           "id": "https://localbitcoins.com/service_closure/",
           "author": null,
           "description": "LocalBitcoins will discontinue its service - LocalBitcoins",
@@ -21,19 +31,19 @@
           "description": "Tether reports $700 million Q4 net profit in latest attestation report",
           "link": "https://www.theblock.co/post/210023/tether-reports-700-million-q4-net-profit-in-latest-attestation-report?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-09T14:00:04.000Z",
-          "wordCount": 62688,
+          "wordCount": 62687,
           "title": "Tether reports $700 million Q4 net profit in latest attestation report",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20200914_Tether-1200x675.jpg"
         },
         {
-          "id": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
+          "id": "https://github.com/lambdaclass/starknet_in_rust",
           "author": null,
-          "description": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "link": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.312176/gov.uscourts.wawd.312176.33.0.pdf",
-          "publishedOn": "2023-02-09T14:00:04.000Z",
-          "wordCount": 9884,
-          "title": "[PDF] gov.uscourts.wawd.312176.33.0.pdf",
-          "imageUrl": null
+          "description": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
+          "link": "https://github.com/lambdaclass/starknet_in_rust",
+          "publishedOn": "2023-02-09T11:30:03.000Z",
+          "wordCount": 977,
+          "title": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
+          "imageUrl": "https://opengraph.githubassets.com/905663ceb5a6d6e9924050cf8fa440a40990e140430a1cd96e870e600f3df888/lambdaclass/starknet_in_rust"
         },
         {
           "id": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
@@ -41,18 +51,8 @@
           "description": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
           "link": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
           "publishedOn": "2023-02-09T10:00:03.000Z",
-          "wordCount": 1674,
+          "wordCount": 1678,
           "title": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nexustracker.io/",
-          "author": null,
-          "description": "Nexus Mutual Tracker",
-          "link": "https://nexustracker.io/",
-          "publishedOn": "2023-02-09T09:00:03.000Z",
-          "wordCount": 111,
-          "title": "Nexus Mutual Tracker",
           "imageUrl": null
         },
         {
@@ -71,9 +71,9 @@
           "description": "How policymakers should think about “staking” - Coin Center",
           "link": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
           "publishedOn": "2023-02-09T03:00:02.000Z",
-          "wordCount": 1408,
+          "wordCount": 1401,
           "title": "How policymakers should think about “staking” - Coin Center",
-          "imageUrl": "https://www.coincenter.org/app/uploads/2022/01/lockedmoney.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://www.piratewires.com/p/crypto-choke-point",
@@ -91,7 +91,7 @@
           "description": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "link": "https://www.hollywoodreporter.com/business/digital/twitter-limits-tweet-frequency-1235320995/",
           "publishedOn": "2023-02-09T01:30:05.000Z",
-          "wordCount": 7761,
+          "wordCount": 7776,
           "title": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Elon-Musk-Shareholder-Lawsuit-GettyImages-1459166552-H-2023.jpg?w=1024"
         },
@@ -136,12 +136,22 @@
           "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2023/02/EddyLazzarin-1.png"
         },
         {
+          "id": "https://panteracapital.com/blockchain-letter/the-seventh-bull-cycle/",
+          "author": null,
+          "description": "The Seventh Bull Cycle | Pantera",
+          "link": "https://panteracapital.com/blockchain-letter/the-seventh-bull-cycle/",
+          "publishedOn": "2023-02-08T21:30:03.000Z",
+          "wordCount": 5869,
+          "title": "The Seventh Bull Cycle | Pantera",
+          "imageUrl": "https://panteracapital.com/wp-content/uploads/2021/04/PANTERA_WEB_LOGOTYPE_LIGHT_ON_DARK-1.jpg"
+        },
+        {
           "id": "https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
           "author": null,
           "description": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "link": "https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
           "publishedOn": "2023-02-08T21:00:02.000Z",
-          "wordCount": 21110,
+          "wordCount": 22247,
           "title": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/federal-reserve-seal.jpg"
         },
@@ -151,9 +161,9 @@
           "description": "The Quest Protocol",
           "link": "https://rabbithole.mirror.xyz/if-RUkC4DVTV4GwE_-XS3gwc3bUy2fGUBCcth97pAg0",
           "publishedOn": "2023-02-08T21:00:02.000Z",
-          "wordCount": null,
+          "wordCount": 2147,
           "title": "The Quest Protocol",
-          "imageUrl": null
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/nnSPSQdiA86HA4g1GZ0Pu.png?height=600&width=1200&h=600&w=1200&auto=compress"
         },
         {
           "id": "https://www.codastory.com/authoritarian-tech/cashless-governments-control/",
@@ -171,19 +181,9 @@
           "description": "How America Took Out The Nord Stream Pipeline",
           "link": "https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream",
           "publishedOn": "2023-02-08T17:00:03.000Z",
-          "wordCount": 11428,
+          "wordCount": 11423,
           "title": "How America Took Out The Nord Stream Pipeline",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc9e6ade-209c-40c7-9645-a2bf0e4cd3eb_2904x1932.png"
-        },
-        {
-          "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "author": null,
-          "description": "Storing Value in Digital Objects",
-          "link": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
-          "publishedOn": "2023-02-08T17:00:03.000Z",
-          "wordCount": 8980,
-          "title": "Storing Value in Digital Objects",
-          "imageUrl": "https://miro.medium.com/max/1200/1*pcTYm-Wy536atAqE9e5HBg.jpeg"
         },
         {
           "id": "https://pleasr.house/",
