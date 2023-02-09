@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gho.xyz/",
+          "author": null,
+          "description": "GHO | Stablecoin by Aave",
+          "link": "https://gho.xyz/",
+          "publishedOn": "2023-02-09T17:00:02.000Z",
+          "wordCount": 495,
+          "title": "GHO | Stablecoin by Aave",
+          "imageUrl": "/og.png"
+        },
+        {
           "id": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
           "author": null,
           "description": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
           "link": "https://decrypt.co/120933/localbitcoins-shut-down-10-years-operation",
           "publishedOn": "2023-02-09T15:30:05.000Z",
-          "wordCount": 6828,
+          "wordCount": 6877,
           "title": "LocalBitcoins to Shut Down After 10 Years of Operation - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/localbitcoins-bitcoin-exchange-revenues-gID_6.jpg@png"
         },
@@ -31,19 +41,9 @@
           "description": "Tether reports $700 million Q4 net profit in latest attestation report",
           "link": "https://www.theblock.co/post/210023/tether-reports-700-million-q4-net-profit-in-latest-attestation-report?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-09T14:00:04.000Z",
-          "wordCount": 62687,
+          "wordCount": 63526,
           "title": "Tether reports $700 million Q4 net profit in latest attestation report",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20200914_Tether-1200x675.jpg"
-        },
-        {
-          "id": "https://github.com/lambdaclass/starknet_in_rust",
-          "author": null,
-          "description": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
-          "link": "https://github.com/lambdaclass/starknet_in_rust",
-          "publishedOn": "2023-02-09T11:30:03.000Z",
-          "wordCount": 977,
-          "title": "GitHub - lambdaclass/starknet_in_rust: A Rust implementation of StarkNet",
-          "imageUrl": "https://opengraph.githubassets.com/905663ceb5a6d6e9924050cf8fa440a40990e140430a1cd96e870e600f3df888/lambdaclass/starknet_in_rust"
         },
         {
           "id": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
@@ -51,7 +51,7 @@
           "description": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
           "link": "https://www.ft.com/content/6e912f25-f1b7-4b19-b370-007fbc867246?shareType=nongift",
           "publishedOn": "2023-02-09T10:00:03.000Z",
-          "wordCount": 1678,
+          "wordCount": 1680,
           "title": "‘Sam? Are you there?!’ The bizarre and brutal final hours of FTX",
           "imageUrl": null
         },
@@ -71,9 +71,9 @@
           "description": "How policymakers should think about “staking” - Coin Center",
           "link": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
           "publishedOn": "2023-02-09T03:00:02.000Z",
-          "wordCount": 1401,
+          "wordCount": 1408,
           "title": "How policymakers should think about “staking” - Coin Center",
-          "imageUrl": null
+          "imageUrl": "https://www.coincenter.org/app/uploads/2022/01/lockedmoney.jpeg"
         },
         {
           "id": "https://www.piratewires.com/p/crypto-choke-point",
@@ -91,7 +91,7 @@
           "description": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "link": "https://www.hollywoodreporter.com/business/digital/twitter-limits-tweet-frequency-1235320995/",
           "publishedOn": "2023-02-09T01:30:05.000Z",
-          "wordCount": 7776,
+          "wordCount": 7782,
           "title": "Twitter Places Limits on Tweet Frequency, Impacting Business and Individual Accounts",
           "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Elon-Musk-Shareholder-Lawsuit-GettyImages-1459166552-H-2023.jpg?w=1024"
         },
@@ -151,7 +151,7 @@
           "description": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "link": "https://blockworks.co/news/crypto-poses-key-risks-to-banks-but-carry-on",
           "publishedOn": "2023-02-08T21:00:02.000Z",
-          "wordCount": 22247,
+          "wordCount": 21226,
           "title": "The Fed: Crypto Poses ‘Key Risks’ to Banks, but Carry On",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/federal-reserve-seal.jpg"
         },
