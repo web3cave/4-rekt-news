@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://pineapple.mortgage/",
+          "author": null,
+          "description": "Pineapple 354",
+          "link": "https://pineapple.mortgage/",
+          "publishedOn": "2023-02-10T23:00:02.000Z",
+          "wordCount": 4026,
+          "title": "Pineapple 354",
+          "imageUrl": "https://framerusercontent.com/modules/hPJgTyQOwaNnjIAwzNJB/XVATUscg2385Ya279hIJ/assets/ZJxeJIRzJJQohnv88fuuR8RFRIE.png"
+        },
+        {
           "id": "https://book.getfoundry.sh/forge/invariant-testing",
           "author": null,
           "description": "Foundry Book",
@@ -21,7 +31,7 @@
           "description": "Noontime",
           "link": "https://noontime.substack.com/",
           "publishedOn": "2023-02-10T22:00:03.000Z",
-          "wordCount": 1208,
+          "wordCount": 1002,
           "title": "Noontime",
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnoontime.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D501788519%26version%3D9"
         },
@@ -41,9 +51,19 @@
           "description": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "link": "https://www.wsj.com/articles/wall-street-firm-oversees-billions-of-dollars-backing-tether-b56c68c1?reflink=e2twmkts",
           "publishedOn": "2023-02-10T21:00:02.000Z",
-          "wordCount": 7330,
+          "wordCount": 7295,
           "title": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "imageUrl": "https://images.wsj.net/im-721967/social"
+        },
+        {
+          "id": "https://github.com/Uniswap/permit2/blob/main/src/libraries/Permit2Lib.sol",
+          "author": null,
+          "description": "permit2/Permit2Lib.sol at main · Uniswap/permit2",
+          "link": "https://github.com/Uniswap/permit2/blob/main/src/libraries/Permit2Lib.sol",
+          "publishedOn": "2023-02-10T20:00:04.000Z",
+          "wordCount": 1392,
+          "title": "permit2/Permit2Lib.sol at main · Uniswap/permit2",
+          "imageUrl": "https://opengraph.githubassets.com/e7cc9970e3eb22dff106d905db0d6f745aa34f42b02313e1104bbf3d0552a5b8/Uniswap/permit2"
         },
         {
           "id": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
@@ -51,7 +71,7 @@
           "description": "Slow Burn by Slow Burn Team",
           "link": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
           "publishedOn": "2023-02-10T19:00:03.000Z",
-          "wordCount": 872,
+          "wordCount": 891,
           "title": "Slow Burn by Slow Burn Team",
           "imageUrl": "https://tii.imgix.net/production/card-image-url/SBL.png"
         },
@@ -101,7 +121,7 @@
           "description": "Scenes with Simon",
           "link": "https://sceneswithsimon.substack.com/",
           "publishedOn": "2023-02-10T17:00:04.000Z",
-          "wordCount": 2042,
+          "wordCount": 1836,
           "title": "Scenes with Simon",
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsceneswithsimon.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D535854357%26version%3D9"
         },
@@ -116,22 +136,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
-          "author": null,
-          "description": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
-          "link": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
-          "publishedOn": "2023-02-10T03:30:04.000Z",
-          "wordCount": 4763,
-          "title": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49381eb9-33b0-4ee9-b336-fcccf954072f_1536x1024.png"
-        },
-        {
           "id": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "author": null,
           "description": "Elon Musk fires a top Twitter engineer over his declining view count",
           "link": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 6367,
+          "wordCount": 6366,
           "title": "Elon Musk fires a top Twitter engineer over his declining view count",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6cac20c-f3e0-427f-99a8-d0912f1f0d4e_512x512.png"
         },
@@ -141,7 +151,7 @@
           "description": "Update on gasless DNSSEC implementation",
           "link": "https://discuss.ens.domains/t/update-on-gasless-dnssec-implementation/16305",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 444,
+          "wordCount": 503,
           "title": "Update on gasless DNSSEC implementation",
           "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
@@ -151,7 +161,7 @@
           "description": "Setting the Record Straight",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/09/setting-the-record-straight/?utm_term=organic&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 18875,
+          "wordCount": 18865,
           "title": "Setting the Record Straight",
           "imageUrl": "https://www.coindesk.com/resizer/P5hTL8-sRmUqd9osmFXs07RXbR8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VW7TRPS37JFYJFFDIP3NTLO5MY.PNG"
         },
@@ -184,16 +194,6 @@
           "wordCount": 9760,
           "title": "[PDF] Microsoft Word - 2023.02.09_Kraken Complaint FINAL",
           "imageUrl": null
-        },
-        {
-          "id": "https://app.fwb.help/",
-          "author": null,
-          "description": "FWB App - Welcome Home",
-          "link": "https://app.fwb.help/",
-          "publishedOn": "2023-02-09T21:00:02.000Z",
-          "wordCount": 8,
-          "title": "FWB App - Welcome Home",
-          "imageUrl": "https://app.fwb.help/share.png"
         },
         {
           "id": "https://ankarelief.org/",
