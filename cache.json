@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.wsj.com/articles/wall-street-firm-oversees-billions-of-dollars-backing-tether-b56c68c1?reflink=e2twmkts",
+          "author": null,
+          "description": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
+          "link": "https://www.wsj.com/articles/wall-street-firm-oversees-billions-of-dollars-backing-tether-b56c68c1?reflink=e2twmkts",
+          "publishedOn": "2023-02-10T21:00:02.000Z",
+          "wordCount": 7327,
+          "title": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
+          "imageUrl": "https://images.wsj.net/im-721967/social"
+        },
+        {
+          "id": "https://github.com/Uniswap/permit2/blob/main/src/libraries/Permit2Lib.sol",
+          "author": null,
+          "description": "permit2/Permit2Lib.sol at main · Uniswap/permit2",
+          "link": "https://github.com/Uniswap/permit2/blob/main/src/libraries/Permit2Lib.sol",
+          "publishedOn": "2023-02-10T20:00:04.000Z",
+          "wordCount": 1392,
+          "title": "permit2/Permit2Lib.sol at main · Uniswap/permit2",
+          "imageUrl": "https://opengraph.githubassets.com/8d8d18f1019bb108c86087265d4a6a8b67dbc621c8e994de0c658b8c51d4a737/Uniswap/permit2"
+        },
+        {
           "id": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
           "author": null,
           "description": "Slow Burn by Slow Burn Team",
           "link": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
           "publishedOn": "2023-02-10T19:00:03.000Z",
-          "wordCount": 872,
+          "wordCount": 891,
           "title": "Slow Burn by Slow Burn Team",
           "imageUrl": "https://tii.imgix.net/production/card-image-url/SBL.png"
         },
@@ -41,7 +61,7 @@
           "description": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
           "link": "https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-webapp",
           "publishedOn": "2023-02-10T18:00:04.000Z",
-          "wordCount": 632,
+          "wordCount": 508,
           "title": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
           "imageUrl": "https://repository-images.githubusercontent.com/373708688/7a85c4b9-38cd-4fa5-9892-56ee21000bc1"
         },
@@ -81,7 +101,7 @@
           "description": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
           "link": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
           "publishedOn": "2023-02-10T03:30:04.000Z",
-          "wordCount": 4763,
+          "wordCount": 4751,
           "title": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49381eb9-33b0-4ee9-b336-fcccf954072f_1536x1024.png"
         },
@@ -91,7 +111,7 @@
           "description": "Elon Musk fires a top Twitter engineer over his declining view count",
           "link": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 6362,
+          "wordCount": 6367,
           "title": "Elon Musk fires a top Twitter engineer over his declining view count",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6cac20c-f3e0-427f-99a8-d0912f1f0d4e_512x512.png"
         },
@@ -111,19 +131,9 @@
           "description": "Setting the Record Straight",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/09/setting-the-record-straight/?utm_term=organic&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 18823,
+          "wordCount": 18769,
           "title": "Setting the Record Straight",
           "imageUrl": "https://www.coindesk.com/resizer/P5hTL8-sRmUqd9osmFXs07RXbR8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VW7TRPS37JFYJFFDIP3NTLO5MY.PNG"
-        },
-        {
-          "id": "https://blog.kraken.com/post/17619/settlement/",
-          "author": null,
-          "description": "Kraken to end on-chain staking services for U.S. clients - Kraken Blog",
-          "link": "https://blog.kraken.com/post/17619/settlement/",
-          "publishedOn": "2023-02-09T23:30:03.000Z",
-          "wordCount": 1614,
-          "title": "Kraken to end on-chain staking services for U.S. clients - Kraken Blog",
-          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2023/02/announcement_block.png"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/02/09/stablecoin-issuer-paxos-is-being-investigated-by-new-york-regulator/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial",
@@ -131,7 +141,7 @@
           "description": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "link": "https://www.coindesk.com/policy/2023/02/09/stablecoin-issuer-paxos-is-being-investigated-by-new-york-regulator/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial",
           "publishedOn": "2023-02-09T23:00:02.000Z",
-          "wordCount": 7054,
+          "wordCount": 7003,
           "title": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "imageUrl": "https://www.coindesk.com/resizer/qlstzNNSHhITU-fInV_-WxdCkLU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IZOYPLP6EJFTXF2U4RE5GWDWOY.jpg"
         },
@@ -144,16 +154,6 @@
           "wordCount": 2596,
           "title": "OP Drop #2",
           "imageUrl": "https://mirror-media.imgix.net/nft/iKxwbtJjHMrc9wzLOZglD.jpg?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://newsletter.banklesshq.com/p/5-things-i-learned-at-starkware-sessions",
-          "author": null,
-          "description": "5 Things I Learned at StarkWare Sessions",
-          "link": "https://newsletter.banklesshq.com/p/5-things-i-learned-at-starkware-sessions",
-          "publishedOn": "2023-02-09T23:00:02.000Z",
-          "wordCount": 6307,
-          "title": "5 Things I Learned at StarkWare Sessions",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2abab3a1-ac69-45b9-915e-0759ac89cd0c_1788x1005.jpeg"
         },
         {
           "id": "https://www.sec.gov/news/statement/peirce-statement-kraken-020923",
@@ -196,14 +196,14 @@
           "imageUrl": "https://ankarelief.org/banner.png"
         },
         {
-          "id": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
+          "id": "https://blog.instadapp.io/introducing-lite-v2/",
           "author": null,
-          "description": "How policymakers should think about “staking” - Coin Center",
-          "link": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
-          "publishedOn": "2023-02-09T03:00:02.000Z",
-          "wordCount": 1401,
-          "title": "How policymakers should think about “staking” - Coin Center",
-          "imageUrl": null
+          "description": "Introducing Lite v2",
+          "link": "https://blog.instadapp.io/introducing-lite-v2/",
+          "publishedOn": "2023-02-09T19:00:02.000Z",
+          "wordCount": 1631,
+          "title": "Introducing Lite v2",
+          "imageUrl": "https://blog.instadapp.io/content/images/2023/02/image--1-.png"
         }
       ]
     }
