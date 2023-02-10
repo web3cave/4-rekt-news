@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
+          "author": null,
+          "description": "Slow Burn by Slow Burn Team",
+          "link": "https://subscriptions.theinformation.com/newsletters/slow-burn/archive?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-9558",
+          "publishedOn": "2023-02-10T19:00:03.000Z",
+          "wordCount": 872,
+          "title": "Slow Burn by Slow Burn Team",
+          "imageUrl": "https://tii.imgix.net/production/card-image-url/SBL.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_ORU-lmEj94&feature=youtu.be",
           "author": null,
           "description": "Chris Blec on Why He Believes a16z’s Uniswap Vote Exposes DeFi as a Farce - Ep. 454",
@@ -31,7 +41,7 @@
           "description": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
           "link": "https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-webapp",
           "publishedOn": "2023-02-10T18:00:04.000Z",
-          "wordCount": 519,
+          "wordCount": 632,
           "title": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
           "imageUrl": "https://repository-images.githubusercontent.com/373708688/7a85c4b9-38cd-4fa5-9892-56ee21000bc1"
         },
@@ -41,19 +51,9 @@
           "description": "Donate - Coin Center",
           "link": "https://www.coincenter.org/donate/",
           "publishedOn": "2023-02-10T18:00:04.000Z",
-          "wordCount": 716,
+          "wordCount": 714,
           "title": "Donate - Coin Center",
-          "imageUrl": "https://www.coincenter.org/app/uploads/2020/09/cropped-CoinCenterDeckTitleSlide-1.png"
-        },
-        {
-          "id": "https://www.piratewires.com/p/crypto-choke-point",
-          "author": null,
-          "description": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
-          "link": "https://www.piratewires.com/p/crypto-choke-point",
-          "publishedOn": "2023-02-10T17:30:04.000Z",
-          "wordCount": 7006,
-          "title": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfcda76c-f42e-4b51-b0f6-cdc554be501d_1678x1248.png"
+          "imageUrl": null
         },
         {
           "id": "https://www.zerohedge.com/crypto/operation-choke-point-20-underway-and-crypto-its-crosshairs",
@@ -66,12 +66,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
+          "author": null,
+          "description": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
+          "link": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
+          "publishedOn": "2023-02-10T03:30:04.000Z",
+          "wordCount": 4764,
+          "title": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49381eb9-33b0-4ee9-b336-fcccf954072f_1536x1024.png"
+        },
+        {
           "id": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "author": null,
           "description": "Elon Musk fires a top Twitter engineer over his declining view count",
           "link": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 6304,
+          "wordCount": 6368,
           "title": "Elon Musk fires a top Twitter engineer over his declining view count",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6cac20c-f3e0-427f-99a8-d0912f1f0d4e_512x512.png"
         },
@@ -91,7 +101,7 @@
           "description": "Setting the Record Straight",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/09/setting-the-record-straight/?utm_term=organic&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 18839,
+          "wordCount": 18927,
           "title": "Setting the Record Straight",
           "imageUrl": "https://www.coindesk.com/resizer/P5hTL8-sRmUqd9osmFXs07RXbR8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VW7TRPS37JFYJFFDIP3NTLO5MY.PNG"
         },
@@ -101,7 +111,7 @@
           "description": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "link": "https://www.coindesk.com/policy/2023/02/09/stablecoin-issuer-paxos-is-being-investigated-by-new-york-regulator/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial",
           "publishedOn": "2023-02-09T23:00:02.000Z",
-          "wordCount": 7059,
+          "wordCount": 7165,
           "title": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "imageUrl": "https://www.coindesk.com/resizer/qlstzNNSHhITU-fInV_-WxdCkLU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IZOYPLP6EJFTXF2U4RE5GWDWOY.jpg"
         },
@@ -181,19 +191,9 @@
           "description": "Kraken Agreed to Shutter Crypto-Staking Operations to Settle SEC Charges: Source",
           "link": "https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
           "publishedOn": "2023-02-09T21:00:02.000Z",
-          "wordCount": 7410,
+          "wordCount": 7512,
           "title": "Kraken Agreed to Shutter Crypto-Staking Operations to Settle SEC Charges: Source",
           "imageUrl": "https://www.coindesk.com/resizer/wA_YLR5CahHhEUJwbx4H3Ago8wQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MLXC7TGQMZDZHJ46SRFXXLL6IM.jpg"
-        },
-        {
-          "id": "https://finiliar.mirror.xyz/leKuhQbnmmhhOWlPQ_GsJnqhWDZ0bjbaJNY1Okea0Ig",
-          "author": null,
-          "description": "finiliar update: 9 Feb 2023",
-          "link": "https://finiliar.mirror.xyz/leKuhQbnmmhhOWlPQ_GsJnqhWDZ0bjbaJNY1Okea0Ig",
-          "publishedOn": "2023-02-09T19:00:02.000Z",
-          "wordCount": 1957,
-          "title": "finiliar update: 9 Feb 2023",
-          "imageUrl": "https://mirror-media.imgix.net/nft/hLGbOFsjVsE9ZN3ptDV51.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
@@ -201,9 +201,9 @@
           "description": "How policymakers should think about “staking” - Coin Center",
           "link": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
           "publishedOn": "2023-02-09T03:00:02.000Z",
-          "wordCount": 1401,
+          "wordCount": 1408,
           "title": "How policymakers should think about “staking” - Coin Center",
-          "imageUrl": null
+          "imageUrl": "https://www.coincenter.org/app/uploads/2022/01/lockedmoney.jpeg"
         }
       ]
     }
