@@ -56,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://sceneswithsimon.substack.com/",
+          "author": null,
+          "description": "Scenes with Simon",
+          "link": "https://sceneswithsimon.substack.com/",
+          "publishedOn": "2023-02-10T17:00:04.000Z",
+          "wordCount": 1836,
+          "title": "Scenes with Simon",
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsceneswithsimon.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D535854357%26version%3D9"
+        },
+        {
           "id": "https://www.zerohedge.com/crypto/operation-choke-point-20-underway-and-crypto-its-crosshairs",
           "author": null,
           "description": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs | ZeroHedge",
@@ -71,7 +81,7 @@
           "description": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
           "link": "https://flywheeloutput.com/p/bent-too-far-how-umamis-institutional",
           "publishedOn": "2023-02-10T03:30:04.000Z",
-          "wordCount": 4764,
+          "wordCount": 4763,
           "title": "Bent Too Far: How Umami's Institutional Ambitions Almost Tore the DAO Apart, Forcing Out CEO",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49381eb9-33b0-4ee9-b336-fcccf954072f_1536x1024.png"
         },
@@ -81,7 +91,7 @@
           "description": "Elon Musk fires a top Twitter engineer over his declining view count",
           "link": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 6368,
+          "wordCount": 6362,
           "title": "Elon Musk fires a top Twitter engineer over his declining view count",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6cac20c-f3e0-427f-99a8-d0912f1f0d4e_512x512.png"
         },
@@ -101,9 +111,19 @@
           "description": "Setting the Record Straight",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/09/setting-the-record-straight/?utm_term=organic&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-02-10T01:00:03.000Z",
-          "wordCount": 18927,
+          "wordCount": 18823,
           "title": "Setting the Record Straight",
           "imageUrl": "https://www.coindesk.com/resizer/P5hTL8-sRmUqd9osmFXs07RXbR8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VW7TRPS37JFYJFFDIP3NTLO5MY.PNG"
+        },
+        {
+          "id": "https://blog.kraken.com/post/17619/settlement/",
+          "author": null,
+          "description": "Kraken to end on-chain staking services for U.S. clients - Kraken Blog",
+          "link": "https://blog.kraken.com/post/17619/settlement/",
+          "publishedOn": "2023-02-09T23:30:03.000Z",
+          "wordCount": 1614,
+          "title": "Kraken to end on-chain staking services for U.S. clients - Kraken Blog",
+          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2023/02/announcement_block.png"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/02/09/stablecoin-issuer-paxos-is-being-investigated-by-new-york-regulator/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial",
@@ -111,7 +131,7 @@
           "description": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "link": "https://www.coindesk.com/policy/2023/02/09/stablecoin-issuer-paxos-is-being-investigated-by-new-york-regulator/?utm_medium=social&utm_source=twitter&utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial",
           "publishedOn": "2023-02-09T23:00:02.000Z",
-          "wordCount": 7165,
+          "wordCount": 7054,
           "title": "Stablecoin Issuer Paxos Is Being Investigated by New York Regulator",
           "imageUrl": "https://www.coindesk.com/resizer/qlstzNNSHhITU-fInV_-WxdCkLU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IZOYPLP6EJFTXF2U4RE5GWDWOY.jpg"
         },
@@ -131,7 +151,7 @@
           "description": "5 Things I Learned at StarkWare Sessions",
           "link": "https://newsletter.banklesshq.com/p/5-things-i-learned-at-starkware-sessions",
           "publishedOn": "2023-02-09T23:00:02.000Z",
-          "wordCount": 6308,
+          "wordCount": 6307,
           "title": "5 Things I Learned at StarkWare Sessions",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2abab3a1-ac69-45b9-915e-0759ac89cd0c_1788x1005.jpeg"
         },
@@ -176,34 +196,14 @@
           "imageUrl": "https://ankarelief.org/banner.png"
         },
         {
-          "id": "https://angeris.github.io/papers/routing-algorithm.pdf",
-          "author": null,
-          "description": "[PDF] routing-algorithm.pdf",
-          "link": "https://angeris.github.io/papers/routing-algorithm.pdf",
-          "publishedOn": "2023-02-09T21:00:02.000Z",
-          "wordCount": 9601,
-          "title": "[PDF] routing-algorithm.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
-          "author": null,
-          "description": "Kraken Agreed to Shutter Crypto-Staking Operations to Settle SEC Charges: Source",
-          "link": "https://www.coindesk.com/policy/2023/02/09/kraken-agreed-to-shutter-crypto-staking-operations-to-settle-sec-charges-source/?utm_content=editorial&utm_medium=social&utm_campaign=coindesk_main&utm_source=twitter&utm_term=organic",
-          "publishedOn": "2023-02-09T21:00:02.000Z",
-          "wordCount": 7512,
-          "title": "Kraken Agreed to Shutter Crypto-Staking Operations to Settle SEC Charges: Source",
-          "imageUrl": "https://www.coindesk.com/resizer/wA_YLR5CahHhEUJwbx4H3Ago8wQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MLXC7TGQMZDZHJ46SRFXXLL6IM.jpg"
-        },
-        {
           "id": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
           "author": null,
           "description": "How policymakers should think about “staking” - Coin Center",
           "link": "https://www.coincenter.org/how-policymakers-should-think-about-staking/",
           "publishedOn": "2023-02-09T03:00:02.000Z",
-          "wordCount": 1408,
+          "wordCount": 1401,
           "title": "How policymakers should think about “staking” - Coin Center",
-          "imageUrl": "https://www.coincenter.org/app/uploads/2022/01/lockedmoney.jpeg"
+          "imageUrl": null
         }
       ]
     }
