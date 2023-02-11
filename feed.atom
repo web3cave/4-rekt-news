@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T03:19:54.237Z</id>
+    <id>urn:2023-02-11T04:22:30.303Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-11T03:19:54.237Z</updated>
+    <updated>2023-02-11T04:22:30.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Agora]]></title>
+        <id>https://vote.optimism.io/</id>
+        <link href="https://vote.optimism.io/"/>
+        <updated>2023-02-11T04:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Optimism Agora]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this]]></title>
         <id>https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html</id>
@@ -131,16 +141,6 @@
         <link href="https://www.coincenter.org/donate/"/>
         <updated>2023-02-10T18:00:04.000Z</updated>
         <summary type="html"><![CDATA[Donate - Coin Center]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Academic Grants Round 2023 | Ethereum Foundation ESP]]></title>
-        <id>https://esp.ethereum.foundation/academic-grants-2023</id>
-        <link href="https://esp.ethereum.foundation/academic-grants-2023"/>
-        <updated>2023-02-10T17:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Academic Grants Round 2023 | Ethereum Foundation ESP]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
