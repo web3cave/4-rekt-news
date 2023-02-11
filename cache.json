@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EEIQ1oqLdOM&feature=youtu.be",
+          "author": null,
+          "description": "Experience the Next Level of AR: Get Ready to Be Blown Away!",
+          "link": "https://www.youtube.com/watch?v=EEIQ1oqLdOM&feature=youtu.be",
+          "publishedOn": "2023-02-11T08:30:05.000Z",
+          "wordCount": null,
+          "title": "Experience the Next Level of AR: Get Ready to Be Blown Away!",
+          "imageUrl": null
+        },
+        {
           "id": "https://convert.leiapix.com/",
           "author": null,
           "description": "LeiaPix Converter",
@@ -14,16 +24,6 @@
           "wordCount": 92,
           "title": "LeiaPix Converter",
           "imageUrl": "https://convert.leiapix.com/assets/leiapix_logo_and_background.b1085ff2.png"
-        },
-        {
-          "id": "https://vote.optimism.io/",
-          "author": null,
-          "description": "Optimism Agora",
-          "link": "https://vote.optimism.io/",
-          "publishedOn": "2023-02-11T04:00:05.000Z",
-          "wordCount": 10,
-          "title": "Optimism Agora",
-          "imageUrl": null
         },
         {
           "id": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
@@ -91,7 +91,7 @@
           "description": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "link": "https://www.wsj.com/articles/wall-street-firm-oversees-billions-of-dollars-backing-tether-b56c68c1?reflink=e2twmkts",
           "publishedOn": "2023-02-10T21:00:02.000Z",
-          "wordCount": 7319,
+          "wordCount": 7309,
           "title": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "imageUrl": "https://images.wsj.net/im-721967/social"
         },
