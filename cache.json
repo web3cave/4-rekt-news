@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/satoshi-roundtable-ix-recap/",
+          "author": null,
+          "description": "Satoshi Roundtable IX Recap",
+          "link": "https://blog.lopp.net/satoshi-roundtable-ix-recap/",
+          "publishedOn": "2023-02-11T17:00:03.000Z",
+          "wordCount": 6468,
+          "title": "Satoshi Roundtable IX Recap",
+          "imageUrl": "https://blog.lopp.net/content/images/2023/02/roundtable-1.jpeg"
+        },
+        {
+          "id": "https://github.com/gio256/erigon-db",
+          "author": null,
+          "description": "GitHub - gio256/erigon-db: Fully typed access to the Erigon db in rust",
+          "link": "https://github.com/gio256/erigon-db",
+          "publishedOn": "2023-02-11T17:00:03.000Z",
+          "wordCount": 876,
+          "title": "GitHub - gio256/erigon-db: Fully typed access to the Erigon db in rust",
+          "imageUrl": "https://opengraph.githubassets.com/2249323ccc3d014d925e29af5c93e3267eed542e1815d24d90dee11890461629/gio256/erigon-db"
+        },
+        {
           "id": "https://medium.com/collab-currency/storing-value-in-digital-objects-a92f54fa98cc",
           "author": null,
           "description": "Storing Value in Digital Objects",
@@ -21,7 +41,7 @@
           "description": "Sommelier Finance - A Foundational Protocol For Asset Management",
           "link": "https://originaljakew.substack.com/p/sommelier-finance-a-foundational",
           "publishedOn": "2023-02-11T15:30:04.000Z",
-          "wordCount": 2686,
+          "wordCount": 2680,
           "title": "Sommelier Finance - A Foundational Protocol For Asset Management",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdf421e2-49af-4f92-b544-616a52a52b79_2000x1000.jpeg"
         },
@@ -56,12 +76,22 @@
           "imageUrl": "https://convert.leiapix.com/assets/leiapix_logo_and_background.b1085ff2.png"
         },
         {
+          "id": "https://github.com/farcasterxyz/contracts/pull/167",
+          "author": null,
+          "description": "test: Add some timestamp fuzzing to test coverage by jcliff · Pull Request #167 · farcasterxyz/contracts",
+          "link": "https://github.com/farcasterxyz/contracts/pull/167",
+          "publishedOn": "2023-02-11T03:00:02.000Z",
+          "wordCount": 1185,
+          "title": "test: Add some timestamp fuzzing to test coverage by jcliff · Pull Request #167 · farcasterxyz/contracts",
+          "imageUrl": "https://opengraph.githubassets.com/b2a18bd2fc6713b486bc413cacf67df430c290baa8e09bd0b60d2fcc7915cb0d/farcasterxyz/contracts/pull/167"
+        },
+        {
           "id": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
           "author": null,
           "description": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "link": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
           "publishedOn": "2023-02-11T01:00:02.000Z",
-          "wordCount": 18254,
+          "wordCount": 18241,
           "title": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107192618-16760349441676034942-28137772155-1080pnbcnews.jpg?v=1676036035&w=1920&h=1080"
         },
@@ -84,6 +114,16 @@
           "wordCount": 4026,
           "title": "Pineapple 354",
           "imageUrl": "https://framerusercontent.com/modules/hPJgTyQOwaNnjIAwzNJB/XVATUscg2385Ya279hIJ/assets/ZJxeJIRzJJQohnv88fuuR8RFRIE.png"
+        },
+        {
+          "id": "https://jpg.mirror.xyz/_mAyjJoOj2VjDv3L3JMyf7tvKc2FIPMX_bAUPof5Wdo",
+          "author": null,
+          "description": "Cryptosocial Aesthetics at NFTParis - Community Voting and Curat…",
+          "link": "https://jpg.mirror.xyz/_mAyjJoOj2VjDv3L3JMyf7tvKc2FIPMX_bAUPof5Wdo",
+          "publishedOn": "2023-02-10T23:00:02.000Z",
+          "wordCount": 1380,
+          "title": "Cryptosocial Aesthetics at NFTParis - Community Voting and Curat…",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/dNmtKg6xSCnzbNstR1E00.png?height=1415&width=2830&h=1415&w=2830&auto=compress"
         },
         {
           "id": "https://book.getfoundry.sh/forge/invariant-testing",
@@ -121,7 +161,7 @@
           "description": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "link": "https://www.wsj.com/articles/wall-street-firm-oversees-billions-of-dollars-backing-tether-b56c68c1?reflink=e2twmkts",
           "publishedOn": "2023-02-10T21:00:02.000Z",
-          "wordCount": 7286,
+          "wordCount": 7289,
           "title": "WSJ News Exclusive | Cantor Fitzgerald Helps Oversee Tether’s $39 Billion in Treasury Holdings",
           "imageUrl": "https://images.wsj.net/im-721967/social"
         },
@@ -136,53 +176,13 @@
           "imageUrl": "https://jumpcrypto.com/static/Blog---Securing--BNB-Chain-through--responsible-disclosure-v1-64740943e7f0f5226865bdf312fb2781.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=_ORU-lmEj94&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=_ORU-lmEj94",
           "author": null,
           "description": "Chris Blec on Why He Believes a16z’s Uniswap Vote Exposes DeFi as a Farce - Ep. 454",
-          "link": "https://www.youtube.com/watch?v=_ORU-lmEj94&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=_ORU-lmEj94",
           "publishedOn": "2023-02-10T18:00:05.000Z",
           "wordCount": null,
           "title": "Chris Blec on Why He Believes a16z’s Uniswap Vote Exposes DeFi as a Farce - Ep. 454",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nouns.wtf/",
-          "author": null,
-          "description": "Nouns DAO",
-          "link": "https://nouns.wtf/",
-          "publishedOn": "2023-02-10T18:00:04.000Z",
-          "wordCount": 61,
-          "title": "Nouns DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-webapp",
-          "author": null,
-          "description": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
-          "link": "https://github.com/nounsDAO/nouns-monorepo/tree/master/packages/nouns-webapp",
-          "publishedOn": "2023-02-10T18:00:04.000Z",
-          "wordCount": 508,
-          "title": "nouns-monorepo/packages/nouns-webapp at master · nounsDAO/nouns-monorepo",
-          "imageUrl": "https://repository-images.githubusercontent.com/373708688/7a85c4b9-38cd-4fa5-9892-56ee21000bc1"
-        },
-        {
-          "id": "https://esp.ethereum.foundation/academic-grants-2023",
-          "author": null,
-          "description": "Academic Grants Round 2023 | Ethereum Foundation ESP",
-          "link": "https://esp.ethereum.foundation/academic-grants-2023",
-          "publishedOn": "2023-02-10T17:30:04.000Z",
-          "wordCount": 1679,
-          "title": "Academic Grants Round 2023 | Ethereum Foundation ESP",
-          "imageUrl": "https://esp.ethereum.foundation/images/homepage-hero-mobile.png"
-        },
-        {
-          "id": "https://zhejiang.ethpandaops.io/",
-          "author": null,
-          "description": "zhejiang",
-          "link": "https://zhejiang.ethpandaops.io/",
-          "publishedOn": "2023-02-10T17:30:04.000Z",
-          "wordCount": 5128,
-          "title": "zhejiang",
           "imageUrl": null
         },
         {
