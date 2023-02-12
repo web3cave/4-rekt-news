@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.plantersmadetoberoasted.com/#/landing",
+          "author": null,
+          "description": "ROAST ME AND YOU COULD WIN $10,000",
+          "link": "https://www.plantersmadetoberoasted.com/#/landing",
+          "publishedOn": "2023-02-12T20:00:03.000Z",
+          "wordCount": 9,
+          "title": "ROAST ME AND YOU COULD WIN $10,000",
+          "imageUrl": "https://eprize-content.s3.amazonaws.com/hormel/plantersroasted/socialDefault.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lkcqVVNu0q8&feature=youtu.be",
+          "author": null,
+          "description": "Account Abstraction & EIP 4337 with Yoav Weiss | StarkWare Sessions #3",
+          "link": "https://www.youtube.com/watch?v=lkcqVVNu0q8&feature=youtu.be",
+          "publishedOn": "2023-02-12T19:30:03.000Z",
+          "wordCount": null,
+          "title": "Account Abstraction & EIP 4337 with Yoav Weiss | StarkWare Sessions #3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/third-high-altitude-airborne-object-shot-down-us-fighter-jet",
+          "author": null,
+          "description": "Third High-Altitude Airborne Object Shot Down By US Fighter Jet | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/third-high-altitude-airborne-object-shot-down-us-fighter-jet",
+          "publishedOn": "2023-02-12T19:30:03.000Z",
+          "wordCount": 976,
+          "title": "Third High-Altitude Airborne Object Shot Down By US Fighter Jet | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://sceneswithsimon.substack.com/p/attachment-styles-to-time",
           "author": null,
           "description": "Attachment Styles to Time",
@@ -44,16 +74,6 @@
           "wordCount": 1849,
           "title": "crypto-governance/delegation_letter.md at main · a16z/crypto-governance",
           "imageUrl": "https://opengraph.githubassets.com/c46bb8e56cf2b1fd6254523d35d67cd4f4c561e8108be166bbf0b26d1b85a3f7/a16z/crypto-governance"
-        },
-        {
-          "id": "https://levels.art/",
-          "author": null,
-          "description": "Levels.art",
-          "link": "https://levels.art/",
-          "publishedOn": "2023-02-12T19:00:03.000Z",
-          "wordCount": 1680,
-          "title": "Levels.art",
-          "imageUrl": "https://levels.art/image/social.png"
         },
         {
           "id": "https://www.zerohedge.com/political/disney-loses-control-reedy-creek-development-landslide-florida-senate-vote",
@@ -106,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=u6drXW0qy5s&feature=youtu.be",
-          "author": null,
-          "description": "Desperado Funny Scene",
-          "link": "https://www.youtube.com/watch?v=u6drXW0qy5s&feature=youtu.be",
-          "publishedOn": "2023-02-12T16:00:03.000Z",
-          "wordCount": null,
-          "title": "Desperado Funny Scene",
-          "imageUrl": null
-        },
-        {
           "id": "https://nav.al/david-deutsch",
           "author": null,
           "description": "David Deutsch: Knowledge Creation and The Human Race",
@@ -151,7 +161,7 @@
           "description": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "link": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/",
           "publishedOn": "2023-02-12T05:00:03.000Z",
-          "wordCount": 12859,
+          "wordCount": 12876,
           "title": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "imageUrl": "https://www.coindesk.com/resizer/I2NCbdg47scFngPR5xhUx1oo7Sc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
         },
@@ -161,19 +171,9 @@
           "description": "U.S. fighter jet shoots down object over Canada, Trudeau says",
           "link": "https://www.reuters.com/world/us/us-still-gives-no-details-about-alaska-ufo-new-object-seen-over-canada-2023-02-11/",
           "publishedOn": "2023-02-12T04:00:03.000Z",
-          "wordCount": 6336,
+          "wordCount": 6368,
           "title": "U.S. fighter jet shoots down object over Canada, Trudeau says",
           "imageUrl": "https://www.reuters.com/resizer/RSf-SLE7_waSMf5nmvwh18sCovc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF6F5IBFWNLFBBP2Z7GOZK2Q6A.jpg"
-        },
-        {
-          "id": "https://fortune.com/2023/02/09/crypto-anonymous-founders-looksrare-investors-ftx/amp/",
-          "author": null,
-          "description": "Crypto 'anon' founders thrive despite the FTX meltdown | Fortune",
-          "link": "https://fortune.com/2023/02/09/crypto-anonymous-founders-looksrare-investors-ftx/amp/",
-          "publishedOn": "2023-02-11T21:30:07.000Z",
-          "wordCount": 4663,
-          "title": "Crypto 'anon' founders thrive despite the FTX meltdown | Fortune",
-          "imageUrl": null
         },
         {
           "id": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
