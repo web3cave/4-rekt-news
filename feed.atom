@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T21:17:11.154Z</id>
+    <id>urn:2023-02-13T22:18:45.856Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T21:17:11.154Z</updated>
+    <updated>2023-02-13T22:18:45.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Notifications]]></title>
+        <id>https://learn.rainbow.me/notifications</id>
+        <link href="https://learn.rainbow.me/notifications"/>
+        <updated>2023-02-13T22:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Notifications]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unchained Podcast - YouTube]]></title>
         <id>https://www.youtube.com/channel/UCWiiMnsnw5Isc2PP1to9nNw/</id>
@@ -161,16 +171,6 @@
         <link href="https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html"/>
         <updated>2023-02-13T09:00:02.000Z</updated>
         <summary type="html"><![CDATA[SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New unidentified ‘high-altitude object’ shot down over Canada]]></title>
-        <id>https://www.washingtonpost.com/national-security/2023/02/11/military-shootdown-alaska-flying-object/</id>
-        <link href="https://www.washingtonpost.com/national-security/2023/02/11/military-shootdown-alaska-flying-object/"/>
-        <updated>2023-02-13T07:30:03.000Z</updated>
-        <summary type="html"><![CDATA[New unidentified ‘high-altitude object’ shot down over Canada]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
