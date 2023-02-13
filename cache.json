@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blockworks.co/news/tether-stablecoin-market-half",
+          "author": null,
+          "description": "Tether Nears 50% Of Stablecoin Market, Highest in 14 Months",
+          "link": "https://blockworks.co/news/tether-stablecoin-market-half",
+          "publishedOn": "2023-02-13T12:00:03.000Z",
+          "wordCount": 22159,
+          "title": "Tether Nears 50% Of Stablecoin Market, Highest in 14 Months",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/02/tether-usdt.jpeg"
+        },
+        {
           "id": "https://bitcoinpoliticians.org/",
           "author": null,
           "description": "Bitcoin Holding Politicians",
@@ -21,7 +31,7 @@
           "description": "[ARFC] Freeze BUSD on Aave V2",
           "link": "https://governance.aave.com/t/arfc-freeze-busd-on-aave-v2/11842",
           "publishedOn": "2023-02-13T11:00:03.000Z",
-          "wordCount": 433,
+          "wordCount": 435,
           "title": "[ARFC] Freeze BUSD on Aave V2",
           "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
         },
@@ -51,19 +61,9 @@
           "description": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
           "link": "https://www.piratewires.com/p/crypto-choke-point",
           "publishedOn": "2023-02-13T10:00:04.000Z",
-          "wordCount": 7051,
+          "wordCount": 6845,
           "title": "Operation Choke Point 2.0 Is Underway, And Crypto Is In Its Crosshairs",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfcda76c-f42e-4b51-b0f6-cdc554be501d_1678x1248.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/visualizing-earths-moving-plates",
-          "author": null,
-          "description": "Visualizing Earth's Moving Plates | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/visualizing-earths-moving-plates",
-          "publishedOn": "2023-02-13T09:30:04.000Z",
-          "wordCount": 949,
-          "title": "Visualizing Earth's Moving Plates | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.wsj.com/articles/crypto-firm-paxos-to-stop-issuing-dollar-pegged-binance-token-94f65e52",
@@ -71,7 +71,7 @@
           "description": "Crypto Firm Paxos to Stop Issuing Dollar-Pegged Binance Token",
           "link": "https://www.wsj.com/articles/crypto-firm-paxos-to-stop-issuing-dollar-pegged-binance-token-94f65e52",
           "publishedOn": "2023-02-13T09:00:02.000Z",
-          "wordCount": 7102,
+          "wordCount": 7209,
           "title": "Crypto Firm Paxos to Stop Issuing Dollar-Pegged Binance Token",
           "imageUrl": "https://images.wsj.net/im-723271/social"
         },
@@ -81,7 +81,7 @@
           "description": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "link": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
           "publishedOn": "2023-02-13T09:00:02.000Z",
-          "wordCount": 18241,
+          "wordCount": 18254,
           "title": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107192618-16760349441676034942-28137772155-1080pnbcnews.jpg?v=1676036035&w=1920&h=1080"
         },
@@ -91,7 +91,7 @@
           "description": "New unidentified ‘high-altitude object’ shot down over Canada",
           "link": "https://www.washingtonpost.com/national-security/2023/02/11/military-shootdown-alaska-flying-object/",
           "publishedOn": "2023-02-13T07:30:03.000Z",
-          "wordCount": 10918,
+          "wordCount": 10891,
           "title": "New unidentified ‘high-altitude object’ shot down over Canada",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-12-2023/t_3cd38b98d18e4b80824af1616957ee8c_name_VSHCTPE2WQ55DLCRTY6GDO5JQY.jpg&w=1440"
         },
@@ -101,7 +101,7 @@
           "description": "r/AnarchyChess - I placed Stockfish (white) against ChatGPT (black). Here's how the game went.",
           "link": "https://www.reddit.com/r/AnarchyChess/comments/10ydnbb/i_placed_stockfish_white_against_chatgpt_black/",
           "publishedOn": "2023-02-13T07:30:03.000Z",
-          "wordCount": 16763,
+          "wordCount": 16762,
           "title": "r/AnarchyChess - I placed Stockfish (white) against ChatGPT (black). Here's how the game went.",
           "imageUrl": "https://preview.redd.it/fl4puwzxt9ha1.gif?format=png8&v=enabled&s=cfcb0d1fae5b64e4898e21085aae8524b1cf50cd"
         },
@@ -121,7 +121,7 @@
           "description": "SEC to sue Paxos for listing Binance USD stablecoin: WSJ",
           "link": "https://www.theblock.co/post/210919/sec-to-sue-paxos-for-listing-binance-usd-stablecoin-wsj",
           "publishedOn": "2023-02-13T03:00:03.000Z",
-          "wordCount": 60930,
+          "wordCount": 61381,
           "title": "SEC to sue Paxos for listing Binance USD stablecoin: WSJ",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/04/20210428_Paxos-Money-1200x675.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "Taiwan reveals Chinese military balloons fly ‘very frequently’ into its airspace",
           "link": "https://www.ft.com/content/023764a2-6af2-4fbb-b75d-dd607c907f6e",
           "publishedOn": "2023-02-13T03:00:02.000Z",
-          "wordCount": 1675,
+          "wordCount": 1674,
           "title": "Taiwan reveals Chinese military balloons fly ‘very frequently’ into its airspace",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "WSJ News Exclusive | Crypto Firm Paxos Faces SEC Lawsuit Over Binance USD Token",
           "link": "https://www.wsj.com/articles/crypto-firm-paxos-faces-sec-lawsuit-over-binance-usd-token-8031e7a7?mod=Searchresults_pos1&page=1",
           "publishedOn": "2023-02-13T02:00:06.000Z",
-          "wordCount": 7185,
+          "wordCount": 7181,
           "title": "WSJ News Exclusive | Crypto Firm Paxos Faces SEC Lawsuit Over Binance USD Token",
           "imageUrl": "https://images.wsj.net/im-723160/social"
         },
@@ -151,7 +151,7 @@
           "description": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
           "link": "https://github.com/osmosis-labs/test-tube",
           "publishedOn": "2023-02-12T23:15:03.000Z",
-          "wordCount": 1000,
+          "wordCount": 914,
           "title": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
           "imageUrl": "https://opengraph.githubassets.com/e098c2a4cc5fd7eb55f8ca52170078b56161c6298af2c9f98e79dbc5d4a13e7d/osmosis-labs/test-tube"
         },
@@ -201,7 +201,7 @@
           "description": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "link": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/",
           "publishedOn": "2023-02-12T05:00:03.000Z",
-          "wordCount": 12873,
+          "wordCount": 12906,
           "title": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "imageUrl": "https://www.coindesk.com/resizer/I2NCbdg47scFngPR5xhUx1oo7Sc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
         }
