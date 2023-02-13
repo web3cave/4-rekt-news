@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.plantersmadetoberoasted.com/#/landing",
+          "author": null,
+          "description": "ROAST ME AND YOU COULD WIN $10,000",
+          "link": "https://www.plantersmadetoberoasted.com/#/landing",
+          "publishedOn": "2023-02-13T00:51:20.000Z",
+          "wordCount": 9,
+          "title": "ROAST ME AND YOU COULD WIN $10,000",
+          "imageUrl": "https://eprize-content.s3.amazonaws.com/hormel/plantersroasted/socialDefault.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/covid-19/watch-former-twitter-execs-get-grilled-house-reps-about-censorship-covid-data",
+          "author": null,
+          "description": "Watch: Former Twitter Execs Squirm During Grilling By House Reps About Censorship Of COVID Data | ZeroHedge",
+          "link": "https://www.zerohedge.com/covid-19/watch-former-twitter-execs-get-grilled-house-reps-about-censorship-covid-data",
+          "publishedOn": "2023-02-12T23:30:03.000Z",
+          "wordCount": 623,
+          "title": "Watch: Former Twitter Execs Squirm During Grilling By House Reps About Censorship Of COVID Data | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/osmosis-labs/test-tube",
           "author": null,
           "description": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
           "link": "https://github.com/osmosis-labs/test-tube",
           "publishedOn": "2023-02-12T23:15:03.000Z",
-          "wordCount": 1000,
+          "wordCount": 1003,
           "title": "GitHub - osmosis-labs/test-tube: Test tube for cosmos-sdk chains integration test, written in Rust!",
           "imageUrl": "https://opengraph.githubassets.com/3a3c77fe435ee77d4f8920131384a91e9630edd0e0efaeaf1f788704ea88346f/osmosis-labs/test-tube"
         },
@@ -21,7 +41,7 @@
           "description": "The Architecture of Trust",
           "link": "https://rettig.substack.com/p/the-architecture-of-trust?utm_source=twitter&sd=pf",
           "publishedOn": "2023-02-12T23:15:03.000Z",
-          "wordCount": 11027,
+          "wordCount": 6098,
           "title": "The Architecture of Trust",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06c0e190-6e66-4acb-8111-60d9f9c767f2_768x512.png"
         },
@@ -101,19 +121,19 @@
           "description": "Zoom Out: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "link": "https://raoulpal.substack.com/p/zoom-out-the-gmi-top-5-weekly-charts?sd=pf",
           "publishedOn": "2023-02-12T21:00:02.000Z",
-          "wordCount": 3084,
+          "wordCount": 3074,
           "title": "Zoom Out: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb26833c1-7d10-4e23-b902-4b94c7663a36_1916x807.png"
         },
         {
-          "id": "https://www.zerohedge.com/political/third-high-altitude-airborne-object-shot-down-us-fighter-jet",
+          "id": "https://levels.art/",
           "author": null,
-          "description": "Third High-Altitude Airborne Object Shot Down By US Fighter Jet | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/third-high-altitude-airborne-object-shot-down-us-fighter-jet",
-          "publishedOn": "2023-02-12T19:30:03.000Z",
-          "wordCount": 976,
-          "title": "Third High-Altitude Airborne Object Shot Down By US Fighter Jet | ZeroHedge",
-          "imageUrl": null
+          "description": "Levels.art",
+          "link": "https://levels.art/",
+          "publishedOn": "2023-02-12T19:00:03.000Z",
+          "wordCount": 1680,
+          "title": "Levels.art",
+          "imageUrl": "https://levels.art/image/social.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=csA9YhzYvmk",
@@ -141,7 +161,7 @@
           "description": "Everything I believed about nuclear waste was wrong",
           "link": "https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong",
           "publishedOn": "2023-02-12T15:30:03.000Z",
-          "wordCount": 6308,
+          "wordCount": 6303,
           "title": "Everything I believed about nuclear waste was wrong",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3f5acc7-9787-4ebf-b497-6a5ddfe1f8dc_1600x1067.jpeg"
         },
@@ -161,7 +181,7 @@
           "description": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "link": "https://www.coindesk.com/policy/2023/01/17/congress-ftx-problem-1-in-3-members-got-cash-from-crypto-exchanges-bosses/",
           "publishedOn": "2023-02-12T05:00:03.000Z",
-          "wordCount": 12880,
+          "wordCount": 12974,
           "title": "Congress' FTX Problem: 1 in 3 Members Got Cash From Crypto Exchange's Bosses",
           "imageUrl": "https://www.coindesk.com/resizer/I2NCbdg47scFngPR5xhUx1oo7Sc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6DZFPLJIZFTBF6774ULCYUOII.jpg"
         },
@@ -171,29 +191,9 @@
           "description": "U.S. fighter jet shoots down object over Canada, Trudeau says",
           "link": "https://www.reuters.com/world/us/us-still-gives-no-details-about-alaska-ufo-new-object-seen-over-canada-2023-02-11/",
           "publishedOn": "2023-02-12T04:00:03.000Z",
-          "wordCount": 6343,
+          "wordCount": 6329,
           "title": "U.S. fighter jet shoots down object over Canada, Trudeau says",
           "imageUrl": "https://www.reuters.com/resizer/RSf-SLE7_waSMf5nmvwh18sCovc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF6F5IBFWNLFBBP2Z7GOZK2Q6A.jpg"
-        },
-        {
-          "id": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
-          "author": null,
-          "description": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
-          "link": "https://www.cnbc.com/video/2023/02/10/short-sec-chair-gensler-heres-why-we-cracked-down-on-kraken.html",
-          "publishedOn": "2023-02-11T01:00:02.000Z",
-          "wordCount": 18241,
-          "title": "SEC's Gary Gensler on Kraken staking settlement: Other crypto platforms should take note of this",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107192618-16760349441676034942-28137772155-1080pnbcnews.jpg?v=1676036035&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.papr.wtf/",
-          "author": null,
-          "description": "Papr",
-          "link": "https://www.papr.wtf/",
-          "publishedOn": "2023-02-10T21:30:03.000Z",
-          "wordCount": 754,
-          "title": "Papr",
-          "imageUrl": "/papr-scale-og.png"
         },
         {
           "id": "https://jumpcrypto.com/helping-secure-bnb-chain-through-responsible-disclosure/",
