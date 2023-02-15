@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eips.ethereum.org/EIPS/eip-3651",
+          "author": null,
+          "description": "EIP-3651: Warm COINBASE",
+          "link": "https://eips.ethereum.org/EIPS/eip-3651",
+          "publishedOn": "2023-02-15T23:00:03.000Z",
+          "wordCount": 498,
+          "title": "EIP-3651: Warm COINBASE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/@OvertimeMarkets.xyz/overtime-is-coming-to-arbitrum-585c1137508f",
+          "author": null,
+          "description": "Overtime is coming to Arbitrum!",
+          "link": "https://medium.com/@OvertimeMarkets.xyz/overtime-is-coming-to-arbitrum-585c1137508f",
+          "publishedOn": "2023-02-15T23:00:02.000Z",
+          "wordCount": 2340,
+          "title": "Overtime is coming to Arbitrum!",
+          "imageUrl": "https://miro.medium.com/max/1200/1*UQjcUvCqEhYtfy_8GAdRWg.png"
+        },
+        {
           "id": "https://globebanner.com/stories/639206717-galaxy-ceo-we-need-to-cheer-for-binance",
           "author": null,
           "description": "Galaxy CEO: 'We need to cheer for Binance'",
@@ -24,16 +44,6 @@
           "wordCount": 2815,
           "title": "SEC.gov | Statement on Safeguarding Advisory Client Assets Proposal",
           "imageUrl": null
-        },
-        {
-          "id": "https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs",
-          "author": null,
-          "description": "How to earn royalties on Blur",
-          "link": "https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs",
-          "publishedOn": "2023-02-15T20:30:02.000Z",
-          "wordCount": 2163,
-          "title": "How to earn royalties on Blur",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/6V54WT5haIjX4tRzHoZ5N.png?h=400&w=400"
         },
         {
           "id": "https://mirror.xyz/0x72E328522F4Ab3b94763961abe45263a67dCD243/ycK5NBacCyuwyR87oEFKAB2m3G5ro_6xR54qJz6THPY",
@@ -111,7 +121,7 @@
           "description": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/15/4-reasons-why-lawmakers-shouldnt-back-sen-warrens-latest-crypto-bill/",
           "publishedOn": "2023-02-15T17:00:02.000Z",
-          "wordCount": 10009,
+          "wordCount": 9853,
           "title": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "imageUrl": "https://www.coindesk.com/resizer/H9J9owU9Olcw0_EbiBAakI9CPtk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RLPAVI4NERFYJAWVB44GIAEIUA.jpg"
         },
@@ -166,16 +176,6 @@
           "imageUrl": "https://img.haarets.co.il/bs/00000186-50bd-d5d4-a5e7-f3bfbf0c0001/48/4a/fb0ca0fd486abbcd80c6f3b05ab9/main.jpg?precrop=668,289,x0,y199&height=630&width=1200"
         },
         {
-          "id": "https://decrypt.co/121298/bored-ape-owner-burns-169k-nft-ethereum-bitcoin",
-          "author": null,
-          "description": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
-          "link": "https://decrypt.co/121298/bored-ape-owner-burns-169k-nft-ethereum-bitcoin",
-          "publishedOn": "2023-02-15T07:30:03.000Z",
-          "wordCount": 9068,
-          "title": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bored-ape-burn-1-gID_4.jpg@png"
-        },
-        {
           "id": "https://www.ledgerinsights.com/siemens-digital-bond-blockchain/",
           "author": null,
           "description": "Siemens issues €60m digital bond on public blockchain - Ledger Insights - blockchain for enterprise",
@@ -201,7 +201,7 @@
           "description": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "link": "https://www.theblock.co/post/211352/monad-labs-funding-blockchain-former-jump-trading-developers",
           "publishedOn": "2023-02-14T16:00:04.000Z",
-          "wordCount": 66592,
+          "wordCount": 66972,
           "title": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221227_Blockchain-Web3-Developer-Development-1-1200x675.jpg"
         }
