@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.sec.gov/news/statement/peirce-statement-custody-021523",
+          "author": null,
+          "description": "SEC.gov | Statement on Safeguarding Advisory Client Assets Proposal",
+          "link": "https://www.sec.gov/news/statement/peirce-statement-custody-021523",
+          "publishedOn": "2023-02-15T21:00:03.000Z",
+          "wordCount": 2815,
+          "title": "SEC.gov | Statement on Safeguarding Advisory Client Assets Proposal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs",
+          "author": null,
+          "description": "How to earn royalties on Blur",
+          "link": "https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs",
+          "publishedOn": "2023-02-15T20:30:02.000Z",
+          "wordCount": 2163,
+          "title": "How to earn royalties on Blur",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/6V54WT5haIjX4tRzHoZ5N.png?h=400&w=400"
+        },
+        {
           "id": "https://mirror.xyz/0x72E328522F4Ab3b94763961abe45263a67dCD243/ycK5NBacCyuwyR87oEFKAB2m3G5ro_6xR54qJz6THPY",
           "author": null,
           "description": "Tokens, Symbols, and Schelling Points",
@@ -51,7 +71,7 @@
           "description": "MEV-Share: programmably private orderflow to share MEV with users",
           "link": "https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264",
           "publishedOn": "2023-02-15T19:00:02.000Z",
-          "wordCount": 3350,
+          "wordCount": 3429,
           "title": "MEV-Share: programmably private orderflow to share MEV with users",
           "imageUrl": "https://collective.flashbots.net/uploads/default/optimized/2X/8/83ab4a7b6d4bb62fbd9acc4c1c22a7e58f3e98b8_2_1024x768.jpeg"
         },
@@ -81,7 +101,7 @@
           "description": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/15/4-reasons-why-lawmakers-shouldnt-back-sen-warrens-latest-crypto-bill/",
           "publishedOn": "2023-02-15T17:00:02.000Z",
-          "wordCount": 9959,
+          "wordCount": 9962,
           "title": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "imageUrl": "https://www.coindesk.com/resizer/H9J9owU9Olcw0_EbiBAakI9CPtk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RLPAVI4NERFYJAWVB44GIAEIUA.jpg"
         },
@@ -96,24 +116,14 @@
           "imageUrl": "https://v2.cimg.co/news/104929/256938/responsive-images/adobestock-527757418___media_library_original_1200_800.jpeg"
         },
         {
-          "id": "https://globebanner.com/stories/639206717-galaxy-ceo-we-need-to-cheer-for-binance",
-          "author": null,
-          "description": "Galaxy CEO: 'We need to cheer for Binance'",
-          "link": "https://globebanner.com/stories/639206717-galaxy-ceo-we-need-to-cheer-for-binance",
-          "publishedOn": "2023-02-15T16:00:04.000Z",
-          "wordCount": 2276,
-          "title": "Galaxy CEO: 'We need to cheer for Binance'",
-          "imageUrl": "https://jnswire.s3.amazonaws.com/jns-media/a5/0a/12287914/mnovo.png"
-        },
-        {
           "id": "https://governance.aave.com/t/bgd-statatoken-v3/11894",
           "author": null,
           "description": "BGD. stataToken v3",
           "link": "https://governance.aave.com/t/bgd-statatoken-v3/11894",
           "publishedOn": "2023-02-15T15:30:03.000Z",
-          "wordCount": 1037,
+          "wordCount": null,
           "title": "BGD. stataToken v3",
-          "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/optimized/2X/e/eb9db98adc7e914edd521e193af569386dec5d21_2_1024x450.jpeg"
+          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=NLnXdOQtptk&feature=youtu.be",
@@ -146,24 +156,14 @@
           "imageUrl": "https://img.haarets.co.il/bs/00000186-50bd-d5d4-a5e7-f3bfbf0c0001/48/4a/fb0ca0fd486abbcd80c6f3b05ab9/main.jpg?precrop=668,289,x0,y199&height=630&width=1200"
         },
         {
-          "id": "https://www.tally.xyz/",
+          "id": "https://decrypt.co/121298/bored-ape-owner-burns-169k-nft-ethereum-bitcoin",
           "author": null,
-          "description": "Tally | Start, join, and grow DAOs",
-          "link": "https://www.tally.xyz/",
-          "publishedOn": "2023-02-14T23:30:03.000Z",
-          "wordCount": 24887,
-          "title": "Tally | Start, join, and grow DAOs",
-          "imageUrl": "https://i.ibb.co/ckBn4P9/Link-preview.png"
-        },
-        {
-          "id": "https://docs.blur.foundation/tokenomics",
-          "author": null,
-          "description": "Tokenomics - Blur Foundation",
-          "link": "https://docs.blur.foundation/tokenomics",
-          "publishedOn": "2023-02-14T21:00:03.000Z",
-          "wordCount": 2187,
-          "title": "Tokenomics - Blur Foundation",
-          "imageUrl": null
+          "description": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
+          "link": "https://decrypt.co/121298/bored-ape-owner-burns-169k-nft-ethereum-bitcoin",
+          "publishedOn": "2023-02-15T07:30:03.000Z",
+          "wordCount": 9083,
+          "title": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bored-ape-burn-1-gID_4.jpg@png"
         },
         {
           "id": "https://www.ledgerinsights.com/siemens-digital-bond-blockchain/",
@@ -201,7 +201,7 @@
           "description": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "link": "https://www.theblock.co/post/211352/monad-labs-funding-blockchain-former-jump-trading-developers",
           "publishedOn": "2023-02-14T16:00:04.000Z",
-          "wordCount": 64500,
+          "wordCount": 65987,
           "title": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221227_Blockchain-Web3-Developer-Development-1-1200x675.jpg"
         }
