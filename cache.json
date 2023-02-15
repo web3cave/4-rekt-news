@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264",
+          "author": null,
+          "description": "MEV-Share: programmably private orderflow to share MEV with users",
+          "link": "https://collective.flashbots.net/t/mev-share-programmably-private-orderflow-to-share-mev-with-users/1264",
+          "publishedOn": "2023-02-15T19:00:02.000Z",
+          "wordCount": 3350,
+          "title": "MEV-Share: programmably private orderflow to share MEV with users",
+          "imageUrl": "https://collective.flashbots.net/uploads/default/optimized/2X/8/83ab4a7b6d4bb62fbd9acc4c1c22a7e58f3e98b8_2_1024x768.jpeg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DfrhCGpRCPI",
           "author": null,
           "description": "Tobi Lütke & Kaz Nejatian on Shopify's Country-Sized Economy | Network State Podcast with Balaji #2",
@@ -31,7 +41,7 @@
           "description": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/15/4-reasons-why-lawmakers-shouldnt-back-sen-warrens-latest-crypto-bill/",
           "publishedOn": "2023-02-15T17:00:02.000Z",
-          "wordCount": 10004,
+          "wordCount": 9949,
           "title": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "imageUrl": "https://www.coindesk.com/resizer/H9J9owU9Olcw0_EbiBAakI9CPtk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RLPAVI4NERFYJAWVB44GIAEIUA.jpg"
         },
@@ -101,7 +111,7 @@
           "description": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
           "link": "https://decrypt.co/121298/bored-ape-owner-burns-169k-nft-ethereum-bitcoin",
           "publishedOn": "2023-02-15T07:30:03.000Z",
-          "wordCount": 8950,
+          "wordCount": 9028,
           "title": "Bored Ape Owner Burns $169K NFT to Move It From Ethereum to Bitcoin - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/bored-ape-burn-1-gID_4.jpg@png"
         },
@@ -124,16 +134,6 @@
           "wordCount": 2187,
           "title": "Tokenomics - Blur Foundation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/former-ftx-executives-charity-generated-profits-from-insider-token-prices-f3135c8?mod=Searchresults_pos1&page=1",
-          "author": null,
-          "description": "Former FTX Executive’s Charity Generated Profits From Insider Token Prices",
-          "link": "https://www.wsj.com/articles/former-ftx-executives-charity-generated-profits-from-insider-token-prices-f3135c8?mod=Searchresults_pos1&page=1",
-          "publishedOn": "2023-02-14T21:00:03.000Z",
-          "wordCount": 4370,
-          "title": "Former FTX Executive’s Charity Generated Profits From Insider Token Prices",
-          "imageUrl": "https://images.wsj.net/im-666338/social"
         },
         {
           "id": "https://techcrunch.com/2023/02/01/addressable-raises-7-5m-to-match-crypto-wallets-to-twitter-accounts-but-how/",
@@ -186,24 +186,24 @@
           "imageUrl": "https://assets-global.website-files.com/637e2b6d602973ea0941d482/63eba84dd4c4c5f177092aed_polygon-zkevm-public-mainnet-beta-launch.png"
         },
         {
-          "id": "https://www.gachamon.xyz/",
-          "author": null,
-          "description": "Gachamon",
-          "link": "https://www.gachamon.xyz/",
-          "publishedOn": "2023-02-14T17:00:03.000Z",
-          "wordCount": 137,
-          "title": "Gachamon",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblock.co/post/211352/monad-labs-funding-blockchain-former-jump-trading-developers",
           "author": null,
           "description": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "link": "https://www.theblock.co/post/211352/monad-labs-funding-blockchain-former-jump-trading-developers",
           "publishedOn": "2023-02-14T16:00:04.000Z",
-          "wordCount": 63590,
+          "wordCount": 63923,
           "title": "Former Jump Trading developers raise $19 million to build Monad blockchain",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221227_Blockchain-Web3-Developer-Development-1-1200x675.jpg"
+        },
+        {
+          "id": "https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial",
+          "author": null,
+          "description": "SEC to Make it Harder for Hedge Funds to Work With Crypto Firms: Bloomberg",
+          "link": "https://www.coindesk.com/policy/2023/02/14/sec-to-make-it-harder-for-hedge-funds-to-work-with-crypto-firms-bloomberg/?utm_term=organic&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main&utm_content=editorial",
+          "publishedOn": "2023-02-14T16:00:04.000Z",
+          "wordCount": 7236,
+          "title": "SEC to Make it Harder for Hedge Funds to Work With Crypto Firms: Bloomberg",
+          "imageUrl": "https://www.coindesk.com/resizer/rtC50yxf-vJwbinrr60l3p5C22k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5WP6PJ422VAODJOUKHGCQDWL2M.jpg"
         }
       ]
     }
