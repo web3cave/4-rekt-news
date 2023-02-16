@@ -6,22 +6,12 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/rust-lang/rust/blob/d0ea1d767925d53b2230e2ba81197821514781f0/src/tools/tidy/src/style.rs#L60-L63",
-          "author": null,
-          "description": "rust/style.rs at d0ea1d767925d53b2230e2ba81197821514781f0 · rust-lang/rust",
-          "link": "https://github.com/rust-lang/rust/blob/d0ea1d767925d53b2230e2ba81197821514781f0/src/tools/tidy/src/style.rs#L60-L63",
-          "publishedOn": "2023-02-16T02:00:04.000Z",
-          "wordCount": 2105,
-          "title": "rust/style.rs at d0ea1d767925d53b2230e2ba81197821514781f0 · rust-lang/rust",
-          "imageUrl": "https://opengraph.githubassets.com/26cf0945e03de738d71cc196c0d600ea48fc837aea8e14d53c884625bf441ebe/rust-lang/rust"
-        },
-        {
           "id": "https://www.wsj.com/articles/crypto-giant-binance-expects-to-pay-penalties-to-resolve-u-s-investigations-f1e3c9d2",
           "author": null,
           "description": "WSJ News Exclusive | Crypto Giant Binance Expects to Pay Penalties to Resolve U.S. Investigations",
           "link": "https://www.wsj.com/articles/crypto-giant-binance-expects-to-pay-penalties-to-resolve-u-s-investigations-f1e3c9d2",
           "publishedOn": "2023-02-16T02:00:03.000Z",
-          "wordCount": 7462,
+          "wordCount": 7455,
           "title": "WSJ News Exclusive | Crypto Giant Binance Expects to Pay Penalties to Resolve U.S. Investigations",
           "imageUrl": "https://images.wsj.net/im-726020/social"
         },
@@ -54,6 +44,16 @@
           "wordCount": 288,
           "title": "Spotify",
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8a35c5f24f0da007cb09876ee8"
+        },
+        {
+          "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.11.0",
+          "author": null,
+          "description": "Release Annos Basin (v1.11.0) · ethereum/go-ethereum",
+          "link": "https://github.com/ethereum/go-ethereum/releases/tag/v1.11.0",
+          "publishedOn": "2023-02-16T01:30:03.000Z",
+          "wordCount": 1850,
+          "title": "Release Annos Basin (v1.11.0) · ethereum/go-ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/f8c9875382f652bdb9da1e7a7dd80ec9f4837c7c76c35bf3bec8e4b106644bc1/ethereum/go-ethereum/releases/tag/v1.11.0"
         },
         {
           "id": "https://nftnow.com/news/exclusive-tyler-hobbs-unveils-first-physical-qqls-as-paintings/",
@@ -161,7 +161,7 @@
           "description": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "link": "https://www.coindesk.com/consensus-magazine/2023/02/15/4-reasons-why-lawmakers-shouldnt-back-sen-warrens-latest-crypto-bill/",
           "publishedOn": "2023-02-15T17:00:02.000Z",
-          "wordCount": 9868,
+          "wordCount": 9830,
           "title": "4 Reasons Why Lawmakers Shouldn’t Back Sen. Warren’s Latest Crypto Bill",
           "imageUrl": "https://www.coindesk.com/resizer/H9J9owU9Olcw0_EbiBAakI9CPtk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RLPAVI4NERFYJAWVB44GIAEIUA.jpg"
         },
