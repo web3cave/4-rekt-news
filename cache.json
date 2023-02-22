@@ -6,16 +6,6 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://open.spotify.com/episode/6lbMkvQWnBUEKtJOloiJhy?si=raq8x0YMTVqGbm7oE5p0dA",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/6lbMkvQWnBUEKtJOloiJhy?si=raq8x0YMTVqGbm7oE5p0dA",
-          "publishedOn": "2023-02-22T20:00:03.000Z",
-          "wordCount": 384,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
-        },
-        {
           "id": "https://nypost.com/2023/02/22/japanese-officials-investigate-mysterious-sphere-washed-up-on-beach/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
           "author": null,
           "description": "Japanese officials investigate mysterious sphere washed up on beach",
@@ -41,7 +31,7 @@
           "description": "Stablecoins Attract Scrutiny in SEC’s Drive to Control Crypto",
           "link": "https://www.wsj.com/articles/stablecoins-attract-scrutiny-in-secs-drive-to-control-crypto-12179e04",
           "publishedOn": "2023-02-22T18:00:04.000Z",
-          "wordCount": 7428,
+          "wordCount": 7426,
           "title": "Stablecoins Attract Scrutiny in SEC’s Drive to Control Crypto",
           "imageUrl": "https://images.wsj.net/im-728847/social"
         },
@@ -66,12 +56,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://medium.com/@0xAI/the-fat-cryptopunks-founders-thesis-997ea0268dee",
+          "author": null,
+          "description": "The Fat CryptoPunks Founders Thesis",
+          "link": "https://medium.com/@0xAI/the-fat-cryptopunks-founders-thesis-997ea0268dee",
+          "publishedOn": "2023-02-22T17:00:02.000Z",
+          "wordCount": 1830,
+          "title": "The Fat CryptoPunks Founders Thesis",
+          "imageUrl": "https://miro.medium.com/max/1200/1*tWvZyNrmfajPnb2h0EUaeQ@2x.jpeg"
+        },
+        {
           "id": "https://www.decentralised.co/p/the-royalty-wars",
           "author": null,
           "description": "The Royalty Wars",
           "link": "https://www.decentralised.co/p/the-royalty-wars",
           "publishedOn": "2023-02-22T16:00:04.000Z",
-          "wordCount": 11389,
+          "wordCount": 11183,
           "title": "The Royalty Wars",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F402804bd-b343-4b07-b734-f2c72e11fe07_564x570.jpeg"
         },
@@ -101,9 +101,19 @@
           "description": "loyal.trade | Honor royalties on every trade",
           "link": "https://www.loyal.trade/",
           "publishedOn": "2023-02-22T12:00:04.000Z",
-          "wordCount": 1593,
+          "wordCount": 1649,
           "title": "loyal.trade | Honor royalties on every trade",
           "imageUrl": "https://marketplace.reservoir.tools/og-image.png"
+        },
+        {
+          "id": "https://github.com/eth-clients/sepolia",
+          "author": null,
+          "description": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
+          "link": "https://github.com/eth-clients/sepolia",
+          "publishedOn": "2023-02-22T07:00:03.000Z",
+          "wordCount": 823,
+          "title": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
+          "imageUrl": "https://opengraph.githubassets.com/ba6c81e1205cf3b5a06a99c88e207bbc551d20273c5d316ec272dee408ebacb6/eth-clients/sepolia"
         },
         {
           "id": "https://www.sec.gov/news/press-release/2023-35",
@@ -144,16 +154,6 @@
           "wordCount": 3457,
           "title": "What Crypto Founders Can Learn from Blur’s Token Airdrop – Variant",
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
-        },
-        {
-          "id": "https://publicorderemergencycommission.ca/files/documents/Final-Report/Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
-          "author": null,
-          "description": "[PDF] Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
-          "link": "https://publicorderemergencycommission.ca/files/documents/Final-Report/Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
-          "publishedOn": "2023-02-21T23:30:04.000Z",
-          "wordCount": 47812,
-          "title": "[PDF] Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=mkhyVkVFTGY&feature=youtu.be",
