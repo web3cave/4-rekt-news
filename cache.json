@@ -6,10 +6,20 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=gzSbV6AUWtU",
+          "id": "https://www.zerohedge.com/geopolitical/china-says-ready-join-forces-russia-defend-national-interests-putin-confirms-xi-visit",
+          "author": null,
+          "description": "China Says Ready To \"Join Forces With Russia\" To \"Defend National Interests\" As Putin Confirms Xi Visit | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/china-says-ready-join-forces-russia-defend-national-interests-putin-confirms-xi-visit",
+          "publishedOn": "2023-02-22T17:00:02.000Z",
+          "wordCount": 2375,
+          "title": "China Says Ready To \"Join Forces With Russia\" To \"Defend National Interests\" As Putin Confirms Xi Visit | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gzSbV6AUWtU&ab_channel=UnchainedPodcast",
           "author": null,
           "description": "The Chopping Block: The Inside Story of How Blur Toppled NFT Giant OpenSea - Ep. 459",
-          "link": "https://www.youtube.com/watch?v=gzSbV6AUWtU",
+          "link": "https://www.youtube.com/watch?v=gzSbV6AUWtU&ab_channel=UnchainedPodcast",
           "publishedOn": "2023-02-22T15:00:03.000Z",
           "wordCount": null,
           "title": "The Chopping Block: The Inside Story of How Blur Toppled NFT Giant OpenSea - Ep. 459",
@@ -34,16 +44,6 @@
           "wordCount": 1594,
           "title": "loyal.trade | Honor royalties on every trade",
           "imageUrl": "https://marketplace.reservoir.tools/og-image.png"
-        },
-        {
-          "id": "https://github.com/eth-clients/sepolia",
-          "author": null,
-          "description": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
-          "link": "https://github.com/eth-clients/sepolia",
-          "publishedOn": "2023-02-22T07:00:03.000Z",
-          "wordCount": 823,
-          "title": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
-          "imageUrl": "https://opengraph.githubassets.com/ba6c81e1205cf3b5a06a99c88e207bbc551d20273c5d316ec272dee408ebacb6/eth-clients/sepolia"
         },
         {
           "id": "https://www.sec.gov/news/press-release/2023-35",
@@ -131,7 +131,7 @@
           "description": "Get In Loser, We’re Unbundling Again",
           "link": "https://gabygoldberg.substack.com/p/get-in-loser-were-unbundling-again",
           "publishedOn": "2023-02-21T19:30:03.000Z",
-          "wordCount": 3326,
+          "wordCount": 3325,
           "title": "Get In Loser, We’re Unbundling Again",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fc5a01-0531-421a-a4ba-d3cbdcfdea15_1280x720.jpeg"
         },
@@ -151,7 +151,7 @@
           "description": "‎The Delphi Podcast: Miller, Marisa and Sarah: The Definitive Conversation on The Government's Regulatory Assault on...",
           "link": "https://podcasts.apple.com/us/podcast/the-delphi-podcast/id1438148082?i=1000600745474",
           "publishedOn": "2023-02-21T19:00:02.000Z",
-          "wordCount": 9376,
+          "wordCount": 9372,
           "title": "‎The Delphi Podcast: Miller, Marisa and Sarah: The Definitive Conversation on The Government's Regulatory Assault on...",
           "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/37/23/40/372340d0-7ef7-d8c4-8d20-a1a4e433bca7/mza_16627384110341060003.jpg/1200x630wp.png"
         },
