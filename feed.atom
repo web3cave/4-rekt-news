@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T11:16:04.885Z</id>
+    <id>urn:2023-02-22T12:37:50.460Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T11:16:04.885Z</updated>
+    <updated>2023-02-22T12:37:50.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://github.com/eth-clients/sepolia"/>
         <updated>2023-02-22T07:00:03.000Z</updated>
         <summary type="html"><![CDATA[GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sepolia Testnet]]></title>
+        <id>https://sepolia.ethpandaops.io/</id>
+        <link href="https://sepolia.ethpandaops.io/"/>
+        <updated>2023-02-22T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Sepolia Testnet]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -151,16 +161,6 @@
         <link href="https://open.spotify.com/episode/6lbMkvQWnBUEKtJOloiJhy?si=raq8x0YMTVqGbm7oE5p0dA"/>
         <updated>2023-02-21T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Spotify]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home]]></title>
-        <id>https://www.fidor.de/en</id>
-        <link href="https://www.fidor.de/en"/>
-        <updated>2023-02-21T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Home]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
