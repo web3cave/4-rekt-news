@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T12:37:50.460Z</id>
+    <id>urn:2023-02-22T13:27:22.900Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T12:37:50.460Z</updated>
+    <updated>2023-02-22T13:27:22.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[loyal.trade | Honor royalties on every trade]]></title>
+        <id>https://www.loyal.trade/</id>
+        <link href="https://www.loyal.trade/"/>
+        <updated>2023-02-22T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[loyal.trade | Honor royalties on every trade]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTBoxes]]></title>
         <id>https://www.nftboxes.io/</id>
@@ -21,16 +31,6 @@
         <link href="https://github.com/eth-clients/sepolia"/>
         <updated>2023-02-22T07:00:03.000Z</updated>
         <summary type="html"><![CDATA[GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sepolia Testnet]]></title>
-        <id>https://sepolia.ethpandaops.io/</id>
-        <link href="https://sepolia.ethpandaops.io/"/>
-        <updated>2023-02-22T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Sepolia Testnet]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

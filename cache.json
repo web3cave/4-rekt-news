@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.loyal.trade/",
+          "author": null,
+          "description": "loyal.trade | Honor royalties on every trade",
+          "link": "https://www.loyal.trade/",
+          "publishedOn": "2023-02-22T12:00:04.000Z",
+          "wordCount": 1594,
+          "title": "loyal.trade | Honor royalties on every trade",
+          "imageUrl": "https://marketplace.reservoir.tools/og-image.png"
+        },
+        {
           "id": "https://www.nftboxes.io/",
           "author": null,
           "description": "NFTBoxes",
@@ -24,16 +34,6 @@
           "wordCount": 823,
           "title": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
           "imageUrl": "https://opengraph.githubassets.com/ba6c81e1205cf3b5a06a99c88e207bbc551d20273c5d316ec272dee408ebacb6/eth-clients/sepolia"
-        },
-        {
-          "id": "https://sepolia.ethpandaops.io/",
-          "author": null,
-          "description": "Sepolia Testnet",
-          "link": "https://sepolia.ethpandaops.io/",
-          "publishedOn": "2023-02-22T07:00:03.000Z",
-          "wordCount": 170,
-          "title": "Sepolia Testnet",
-          "imageUrl": null
         },
         {
           "id": "https://www.sec.gov/news/press-release/2023-35",
@@ -131,7 +131,7 @@
           "description": "Superfluid Vesting - Liquid, Composable DeFi Token Vesting",
           "link": "https://www.superfluid.finance/vesting",
           "publishedOn": "2023-02-21T19:00:02.000Z",
-          "wordCount": 2022,
+          "wordCount": 2149,
           "title": "Superfluid Vesting - Liquid, Composable DeFi Token Vesting",
           "imageUrl": null
         },
