@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Rekt - Feed",
+      "feedUrl": "https://message-rss.vercel.app/rekt/news",
+      "siteUrl": "https://feed.rekt.news/",
+      "articles": [
+        {
+          "id": "https://www.nftboxes.io/",
+          "author": null,
+          "description": "NFTBoxes",
+          "link": "https://www.nftboxes.io/",
+          "publishedOn": "2023-02-22T10:00:04.000Z",
+          "wordCount": 606,
+          "title": "NFTBoxes",
+          "imageUrl": "https://www.nftboxes.io/images/banner.png"
+        },
+        {
+          "id": "https://github.com/eth-clients/sepolia",
+          "author": null,
+          "description": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
+          "link": "https://github.com/eth-clients/sepolia",
+          "publishedOn": "2023-02-22T07:00:03.000Z",
+          "wordCount": 823,
+          "title": "GitHub - eth-clients/sepolia: the sepolia/bepolia testnet configurations.",
+          "imageUrl": "https://opengraph.githubassets.com/ba6c81e1205cf3b5a06a99c88e207bbc551d20273c5d316ec272dee408ebacb6/eth-clients/sepolia"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2023-35",
+          "author": null,
+          "description": "SEC.gov | SEC Charges The Church of Jesus Christ of Latter-day Saints and Its Investment Management Company for...",
+          "link": "https://www.sec.gov/news/press-release/2023-35",
+          "publishedOn": "2023-02-22T03:30:04.000Z",
+          "wordCount": 1811,
+          "title": "SEC.gov | SEC Charges The Church of Jesus Christ of Latter-day Saints and Its Investment Management Company for...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.chain.link/tokenized-real-world-assets/",
+          "author": null,
+          "description": "Tokenization of Real-World Assets (RWAs) - Chainlink Blog",
+          "link": "https://blog.chain.link/tokenized-real-world-assets/",
+          "publishedOn": "2023-02-22T03:00:03.000Z",
+          "wordCount": 6809,
+          "title": "Tokenization of Real-World Assets (RWAs) - Chainlink Blog",
+          "imageUrl": "https://blog.chain.link/wp-content/uploads/2023/02/Tokenized-Assets-03-1.png"
+        },
+        {
+          "id": "https://blog.ethereum.org/2023/02/21/sepolia-shapella-announcement",
+          "author": null,
+          "description": "Sepolia Shapella Announcement | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2023/02/21/sepolia-shapella-announcement",
+          "publishedOn": "2023-02-22T01:00:02.000Z",
+          "wordCount": 2122,
+          "title": "Sepolia Shapella Announcement | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_c721600b9f9448a141574b76a38159e6.jpg"
+        },
+        {
+          "id": "https://variant.fund/articles/what-crypto-founders-can-learn-from-blurs-token-airdrop/",
+          "author": null,
+          "description": "What Crypto Founders Can Learn from Blur’s Token Airdrop – Variant",
+          "link": "https://variant.fund/articles/what-crypto-founders-can-learn-from-blurs-token-airdrop/",
+          "publishedOn": "2023-02-21T23:30:04.000Z",
+          "wordCount": 3457,
+          "title": "What Crypto Founders Can Learn from Blur’s Token Airdrop – Variant",
+          "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
+        },
+        {
+          "id": "https://publicorderemergencycommission.ca/files/documents/Final-Report/Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
+          "author": null,
+          "description": "[PDF] Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
+          "link": "https://publicorderemergencycommission.ca/files/documents/Final-Report/Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
+          "publishedOn": "2023-02-21T23:30:04.000Z",
+          "wordCount": 47812,
+          "title": "[PDF] Vol-1-Report-of-the-Public-Inquiry-into-the-2022-Public-Order-Emergency.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mkhyVkVFTGY&feature=youtu.be",
+          "author": null,
+          "description": "Just a Coincidence? Coinbase and Polygon Lawyers See Bad Omens in SEC Crackdown - Ep. 458",
+          "link": "https://www.youtube.com/watch?v=mkhyVkVFTGY&feature=youtu.be",
+          "publishedOn": "2023-02-21T23:00:03.000Z",
+          "wordCount": null,
+          "title": "Just a Coincidence? Coinbase and Polygon Lawyers See Bad Omens in SEC Crackdown - Ep. 458",
+          "imageUrl": null
+        },
+        {
+          "id": "https://valentino.unxd.com/",
+          "author": null,
+          "description": "Valentino & UNXD",
+          "link": "https://valentino.unxd.com/",
+          "publishedOn": "2023-02-21T21:00:03.000Z",
+          "wordCount": 2768,
+          "title": "Valentino & UNXD",
+          "imageUrl": "https://valentino.unxd.com/wp-content/uploads/2023/02/Arch_still.0091-1024x576.png"
+        },
+        {
+          "id": "https://operator.mirror.xyz/Tye2rxnMC52aXo5rthrtKCqynSsfIigaqBawWZ1gyLU",
+          "author": null,
+          "description": "Games Over Governance: Recentering DAOs on Coordination",
+          "link": "https://operator.mirror.xyz/Tye2rxnMC52aXo5rthrtKCqynSsfIigaqBawWZ1gyLU",
+          "publishedOn": "2023-02-21T21:00:03.000Z",
+          "wordCount": 3446,
+          "title": "Games Over Governance: Recentering DAOs on Coordination",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/ivMBXU4K7rKqEX72cpLK5.png?height=1440&width=2880&h=1440&w=2880&auto=compress"
+        },
+        {
+          "id": "https://gabygoldberg.substack.com/p/get-in-loser-were-unbundling-again",
+          "author": null,
+          "description": "Get In Loser, We’re Unbundling Again",
+          "link": "https://gabygoldberg.substack.com/p/get-in-loser-were-unbundling-again",
+          "publishedOn": "2023-02-21T19:30:03.000Z",
+          "wordCount": 3326,
+          "title": "Get In Loser, We’re Unbundling Again",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fc5a01-0531-421a-a4ba-d3cbdcfdea15_1280x720.jpeg"
+        },
+        {
+          "id": "https://www.superfluid.finance/vesting",
+          "author": null,
+          "description": "Superfluid Vesting - Liquid, Composable DeFi Token Vesting",
+          "link": "https://www.superfluid.finance/vesting",
+          "publishedOn": "2023-02-21T19:00:02.000Z",
+          "wordCount": 2023,
+          "title": "Superfluid Vesting - Liquid, Composable DeFi Token Vesting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://podcasts.apple.com/us/podcast/the-delphi-podcast/id1438148082?i=1000600745474",
+          "author": null,
+          "description": "‎The Delphi Podcast: Miller, Marisa and Sarah: The Definitive Conversation on The Government's Regulatory Assault on...",
+          "link": "https://podcasts.apple.com/us/podcast/the-delphi-podcast/id1438148082?i=1000600745474",
+          "publishedOn": "2023-02-21T19:00:02.000Z",
+          "wordCount": 9163,
+          "title": "‎The Delphi Podcast: Miller, Marisa and Sarah: The Definitive Conversation on The Government's Regulatory Assault on...",
+          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/37/23/40/372340d0-7ef7-d8c4-8d20-a1a4e433bca7/mza_16627384110341060003.jpg/1200x630wp.png"
+        },
+        {
+          "id": "https://a16zcrypto.com/azra-games-seed-extension/",
+          "author": null,
+          "description": "Azra Games",
+          "link": "https://a16zcrypto.com/azra-games-seed-extension/",
+          "publishedOn": "2023-02-21T17:00:02.000Z",
+          "wordCount": 1514,
+          "title": "Azra Games",
+          "imageUrl": "https://a16zcrypto.com/wp-content/uploads/2023/02/Azra-Games.png"
+        },
+        {
+          "id": "https://open.spotify.com/episode/6lbMkvQWnBUEKtJOloiJhy?si=raq8x0YMTVqGbm7oE5p0dA",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/6lbMkvQWnBUEKtJOloiJhy?si=raq8x0YMTVqGbm7oE5p0dA",
+          "publishedOn": "2023-02-21T17:00:02.000Z",
+          "wordCount": 384,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
+        },
+        {
+          "id": "https://www.fidor.de/en",
+          "author": null,
+          "description": "Home",
+          "link": "https://www.fidor.de/en",
+          "publishedOn": "2023-02-21T17:00:02.000Z",
+          "wordCount": 2313,
+          "title": "Home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://eigenlayer.xyz/whitepaper.pdf",
+          "author": null,
+          "description": "[PDF] whitepaper.pdf",
+          "link": "https://eigenlayer.xyz/whitepaper.pdf",
+          "publishedOn": "2023-02-21T07:00:02.000Z",
+          "wordCount": 41554,
+          "title": "[PDF] whitepaper.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
+          "author": null,
+          "description": "Announcing the EigenLayer Whitepaper v1.0",
+          "link": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
+          "publishedOn": "2023-02-21T07:00:02.000Z",
+          "wordCount": 610,
+          "title": "Announcing the EigenLayer Whitepaper v1.0",
+          "imageUrl": "https://sjc6.discourse-cdn.com/standard14/images/discourse-logo-sketch-small.png"
+        },
+        {
+          "id": "https://cantofornia.com/",
+          "author": null,
+          "description": "Cantofornia DMV Simulator",
+          "link": "https://cantofornia.com/",
+          "publishedOn": "2023-02-21T00:00:03.000Z",
+          "wordCount": 132,
+          "title": "Cantofornia DMV Simulator",
+          "imageUrl": "/dmv_logo.png"
+        },
+        {
+          "id": "https://lite.instadapp.io/",
+          "author": null,
+          "description": "Instadapp Lite",
+          "link": "https://lite.instadapp.io/",
+          "publishedOn": "2023-02-20T21:00:02.000Z",
+          "wordCount": 1737,
+          "title": "Instadapp Lite",
+          "imageUrl": "https://user-images.githubusercontent.com/45617686/161771901-a16421a5-bdc6-4f86-bd28-73bc03c9d56a.png"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
