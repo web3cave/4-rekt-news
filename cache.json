@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules",
+          "author": null,
+          "description": "Companies Can’t Ask You to Shut up to Receive Severance, NLRB Rules",
+          "link": "https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules",
+          "publishedOn": "2023-02-23T14:00:04.000Z",
+          "wordCount": 3668,
+          "title": "Companies Can’t Ask You to Shut up to Receive Severance, NLRB Rules",
+          "imageUrl": "https://video-images.vice.com/articles/63f5330507cc5ac105b02b1b/lede/1677014053896-gettyimages-1369263697.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44MDI0eGg7MHh3LDAuMTU2N3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
+        },
+        {
           "id": "https://windowsontheory.org/2023/02/21/provable-copyright-protection-for-generative-models/",
           "author": null,
           "description": "Provable Copyright Protection for Generative Models",
@@ -21,7 +31,7 @@
           "description": "bips/bip-vaults.mediawiki at jamesob-23-02-opvault · jamesob/bips",
           "link": "https://github.com/jamesob/bips/blob/jamesob-23-02-opvault/bip-vaults.mediawiki",
           "publishedOn": "2023-02-23T11:30:03.000Z",
-          "wordCount": 6147,
+          "wordCount": 6215,
           "title": "bips/bip-vaults.mediawiki at jamesob-23-02-opvault · jamesob/bips",
           "imageUrl": "https://opengraph.githubassets.com/94ea4685d371ebae7a0a3942f5e8221a36603bafe0fcea13fad2797049c3d94e/jamesob/bips"
         },
@@ -34,16 +44,6 @@
           "wordCount": 41554,
           "title": "[PDF] whitepaper.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
-          "author": null,
-          "description": "Announcing the EigenLayer Whitepaper v1.0",
-          "link": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
-          "publishedOn": "2023-02-23T07:00:03.000Z",
-          "wordCount": 704,
-          "title": "Announcing the EigenLayer Whitepaper v1.0",
-          "imageUrl": "https://sjc6.discourse-cdn.com/standard14/images/discourse-logo-sketch-small.png"
         },
         {
           "id": "https://blog.privy.io/web3-for-users-not-experts-52c692c25bb1?gi=7c0c7fb9bcdb",
@@ -71,7 +71,7 @@
           "description": "Google Cloud partners with Tezos Foundation as it pushes for Web3 relevancy",
           "link": "https://fortune.com/crypto/2023/02/22/google-cloud-tezos-foundation-blockchain-partnership-web3-validator/",
           "publishedOn": "2023-02-23T05:00:02.000Z",
-          "wordCount": 4489,
+          "wordCount": 4474,
           "title": "Google Cloud partners with Tezos Foundation as it pushes for Web3 relevancy",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/02/GettyImages-1244658855-e1677015203816.jpg?resize=1200,600"
         },
@@ -121,7 +121,7 @@
           "description": "Obol to bring distributed validators to Ethereum this year",
           "link": "https://www.theblock.co/post/213409/obol-to-bring-distributed-validators-to-ethereum-this-year",
           "publishedOn": "2023-02-22T22:00:04.000Z",
-          "wordCount": 64781,
+          "wordCount": 66929,
           "title": "Obol to bring distributed validators to Ethereum this year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230221_Obol_News-1200x675.jpg"
         },
@@ -134,16 +134,6 @@
           "wordCount": 1214,
           "title": "Announcing DEGEN WAR$ 🤺",
           "imageUrl": "https://miro.medium.com/max/1200/1*qjOuERFA4dks5hinISNBkQ.png"
-        },
-        {
-          "id": "https://nypost.com/2023/02/22/japanese-officials-investigate-mysterious-sphere-washed-up-on-beach/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
-          "author": null,
-          "description": "Japanese officials investigate mysterious sphere washed up on beach",
-          "link": "https://nypost.com/2023/02/22/japanese-officials-investigate-mysterious-sphere-washed-up-on-beach/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow",
-          "publishedOn": "2023-02-22T19:30:03.000Z",
-          "wordCount": 7198,
-          "title": "Japanese officials investigate mysterious sphere washed up on beach",
-          "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2023/02/fvdvvf.png?w=1024"
         },
         {
           "id": "https://www.youtube.com/watch?v=GBlTsXTkXyw&feature=youtu.be",
@@ -171,9 +161,19 @@
           "description": "Stablecoins Attract Scrutiny in SEC’s Drive to Control Crypto",
           "link": "https://www.wsj.com/articles/stablecoins-attract-scrutiny-in-secs-drive-to-control-crypto-12179e04",
           "publishedOn": "2023-02-22T18:00:04.000Z",
-          "wordCount": 7613,
+          "wordCount": 7618,
           "title": "Stablecoins Attract Scrutiny in SEC’s Drive to Control Crypto",
           "imageUrl": "https://images.wsj.net/im-728847/social"
+        },
+        {
+          "id": "https://www.theblock.co/post/213380/self-hosted-wallet-ban-avoided-in-new-draft-of-eus-anti-money-laundering-bill",
+          "author": null,
+          "description": "Self-hosted wallet ban avoided in new draft of EU’s anti-money laundering bill",
+          "link": "https://www.theblock.co/post/213380/self-hosted-wallet-ban-avoided-in-new-draft-of-eus-anti-money-laundering-bill",
+          "publishedOn": "2023-02-22T17:30:03.000Z",
+          "wordCount": 65303,
+          "title": "Self-hosted wallet ban avoided in new draft of EU’s anti-money laundering bill",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/10/20221012_EuropeanVC_CryptoFunds_Feature-1200x675.jpg"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/china-says-ready-join-forces-russia-defend-national-interests-putin-confirms-xi-visit",
