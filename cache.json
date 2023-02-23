@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://eigenlayer.xyz/whitepaper.pdf",
+          "author": null,
+          "description": "[PDF] whitepaper.pdf",
+          "link": "https://eigenlayer.xyz/whitepaper.pdf",
+          "publishedOn": "2023-02-23T07:00:03.000Z",
+          "wordCount": 41554,
+          "title": "[PDF] whitepaper.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
+          "author": null,
+          "description": "Announcing the EigenLayer Whitepaper v1.0",
+          "link": "https://forum.eigenlayer.xyz/t/announcing-the-eigenlayer-whitepaper-v1-0/156",
+          "publishedOn": "2023-02-23T07:00:03.000Z",
+          "wordCount": 686,
+          "title": "Announcing the EigenLayer Whitepaper v1.0",
+          "imageUrl": "https://sjc6.discourse-cdn.com/standard14/images/discourse-logo-sketch-small.png"
+        },
+        {
           "id": "https://blog.privy.io/web3-for-users-not-experts-52c692c25bb1?gi=7c0c7fb9bcdb",
           "author": null,
           "description": "Web3 for users, not experts.",
@@ -46,26 +66,6 @@
           "imageUrl": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
         },
         {
-          "id": "https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules",
-          "author": null,
-          "description": "Companies Can’t Ask You to Shut up to Receive Severance, NLRB Rules",
-          "link": "https://www.vice.com/en/article/dy7a7x/companies-cant-ask-you-to-shut-up-to-receive-severance-nlrb-rules",
-          "publishedOn": "2023-02-23T01:30:04.000Z",
-          "wordCount": 3667,
-          "title": "Companies Can’t Ask You to Shut up to Receive Severance, NLRB Rules",
-          "imageUrl": "https://video-images.vice.com/articles/63f5330507cc5ac105b02b1b/lede/1677014053896-gettyimages-1369263697.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44MDI0eGg7MHh3LDAuMTU2N3hoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg"
-        },
-        {
-          "id": "https://gabygoldberg.substack.com/p/get-in-loser-were-unbundling-again",
-          "author": null,
-          "description": "Get In Loser, We’re Unbundling Again",
-          "link": "https://gabygoldberg.substack.com/p/get-in-loser-were-unbundling-again",
-          "publishedOn": "2023-02-23T00:00:03.000Z",
-          "wordCount": 3325,
-          "title": "Get In Loser, We’re Unbundling Again",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36fc5a01-0531-421a-a4ba-d3cbdcfdea15_1280x720.jpeg"
-        },
-        {
           "id": "https://usa.visa.com/visa-everywhere/blog/bdp/2023/02/21/crypto-and-black-1677013837394.html",
           "author": null,
           "description": "Crypto and Black wealth",
@@ -91,7 +91,7 @@
           "description": "Obol to bring distributed validators to Ethereum this year",
           "link": "https://www.theblock.co/post/213409/obol-to-bring-distributed-validators-to-ethereum-this-year",
           "publishedOn": "2023-02-22T22:00:04.000Z",
-          "wordCount": 67971,
+          "wordCount": 68374,
           "title": "Obol to bring distributed validators to Ethereum this year",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230221_Obol_News-1200x675.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "loyal.trade | Honor royalties on every trade",
           "link": "https://www.loyal.trade/",
           "publishedOn": "2023-02-22T12:00:04.000Z",
-          "wordCount": 2159,
+          "wordCount": 2309,
           "title": "loyal.trade | Honor royalties on every trade",
           "imageUrl": "https://marketplace.reservoir.tools/og-image.png"
         }
