@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T17:18:07.274Z</id>
+    <id>urn:2023-02-23T18:24:46.405Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T17:18:07.274Z</updated>
+    <updated>2023-02-23T18:24:46.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[[PDF] bcreg20230223a1.pdf]]></title>
+        <id>https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230223a1.pdf</id>
+        <link href="https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20230223a1.pdf"/>
+        <updated>2023-02-23T17:30:03.000Z</updated>
+        <summary type="html"><![CDATA[[PDF] bcreg20230223a1.pdf]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Discussion] Safety Module]]></title>
+        <id>https://governance.aave.com/t/discussion-safety-module/12029</id>
+        <link href="https://governance.aave.com/t/discussion-safety-module/12029"/>
+        <updated>2023-02-23T17:30:03.000Z</updated>
+        <summary type="html"><![CDATA[[Discussion] Safety Module]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Base]]></title>
         <id>https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk</id>
         <link href="https://base.mirror.xyz/jjQnUq_UNTQOk7psnGBFOsShi7FlrRp8xevQUipG_Gk"/>
         <updated>2023-02-23T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[Meet Base]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralizing Base with the OP Stack and Optimism]]></title>
+        <id>https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I</id>
+        <link href="https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I"/>
+        <updated>2023-02-23T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Decentralizing Base with the OP Stack and Optimism]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -36,16 +66,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Decentralizing Base with the OP Stack and Optimism]]></title>
-        <id>https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I</id>
-        <link href="https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I"/>
-        <updated>2023-02-23T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Decentralizing Base with the OP Stack and Optimism]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimism Goes m̶u̶l̶t̶i̶ Superchain]]></title>
         <id>https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0</id>
         <link href="https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0"/>
@@ -66,11 +86,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Hegemony and Its Perils]]></title>
-        <id>https://www.fmprc.gov.cn/mfa_eng/wjbxw/202302/t20230220_11027664.html</id>
-        <link href="https://www.fmprc.gov.cn/mfa_eng/wjbxw/202302/t20230220_11027664.html"/>
-        <updated>2023-02-23T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[US Hegemony and Its Perils]]></summary>
+        <title type="html"><![CDATA[Base]]></title>
+        <id>https://base.org/</id>
+        <link href="https://base.org/"/>
+        <updated>2023-02-23T15:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Base]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add `TokenVM` example by patrick-ogrady · Pull Request #18 · ava-labs/hypersdk]]></title>
+        <id>https://github.com/ava-labs/hypersdk/pull/18</id>
+        <link href="https://github.com/ava-labs/hypersdk/pull/18"/>
+        <updated>2023-02-23T15:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Add `TokenVM` example by patrick-ogrady · Pull Request #18 · ava-labs/hypersdk]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -91,16 +121,6 @@
         <link href="https://github.com/jamesob/bips/blob/jamesob-23-02-opvault/bip-vaults.mediawiki"/>
         <updated>2023-02-23T11:30:03.000Z</updated>
         <summary type="html"><![CDATA[bips/bip-vaults.mediawiki at jamesob-23-02-opvault · jamesob/bips]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PDF] whitepaper.pdf]]></title>
-        <id>https://eigenlayer.xyz/whitepaper.pdf</id>
-        <link href="https://eigenlayer.xyz/whitepaper.pdf"/>
-        <updated>2023-02-23T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[[PDF] whitepaper.pdf]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -166,31 +186,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obol to bring distributed validators to Ethereum this year]]></title>
-        <id>https://www.theblock.co/post/213409/obol-to-bring-distributed-validators-to-ethereum-this-year</id>
-        <link href="https://www.theblock.co/post/213409/obol-to-bring-distributed-validators-to-ethereum-this-year"/>
-        <updated>2023-02-22T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Obol to bring distributed validators to Ethereum this year]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing DEGEN WAR$ 🤺]]></title>
         <id>https://medium.com/@degenwars/announcing-degen-war-aa8e4d2362ef</id>
         <link href="https://medium.com/@degenwars/announcing-degen-war-aa8e4d2362ef"/>
         <updated>2023-02-22T22:00:03.000Z</updated>
         <summary type="html"><![CDATA[Announcing DEGEN WAR$ 🤺]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing eBTC - A Decentralized Bitcoin Powered by Ethereum Staking]]></title>
-        <id>https://forum.badger.finance/t/introducing-ebtc-a-decentralized-bitcoin-powered-by-ethereum-staking/5952</id>
-        <link href="https://forum.badger.finance/t/introducing-ebtc-a-decentralized-bitcoin-powered-by-ethereum-staking/5952"/>
-        <updated>2023-02-22T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Introducing eBTC - A Decentralized Bitcoin Powered by Ethereum Staking]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
