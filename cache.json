@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://stable-diffusion-ui.github.io/",
+          "author": null,
+          "description": "Stable Diffusion UI v2",
+          "link": "https://stable-diffusion-ui.github.io/",
+          "publishedOn": "2023-02-24T21:00:02.000Z",
+          "wordCount": 278,
+          "title": "Stable Diffusion UI v2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lightning.engineering/posts/2017-11-16-ln-swap/",
+          "author": null,
+          "description": "Connecting Blockchains: Instant Cross-Chain Transactions On Lightning",
+          "link": "https://lightning.engineering/posts/2017-11-16-ln-swap/",
+          "publishedOn": "2023-02-24T21:00:02.000Z",
+          "wordCount": 2370,
+          "title": "Connecting Blockchains: Instant Cross-Chain Transactions On Lightning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9",
+          "author": null,
+          "description": "zkMint: The First ZK-friendly Tendermint Consensus Engine",
+          "link": "https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9",
+          "publishedOn": "2023-02-24T21:00:02.000Z",
+          "wordCount": 2142,
+          "title": "zkMint: The First ZK-friendly Tendermint Consensus Engine",
+          "imageUrl": "https://miro.medium.com/max/1200/1*MKCMiPVvE6cenSdBecPdIQ.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/shocked-goldman-trader-was-largest-0dte-block-trade-i-have-ever-seen",
+          "author": null,
+          "description": "\"Shocked\" Goldman Trader: \"This Was The Largest 0DTE Block Trade I Have Ever Seen\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/shocked-goldman-trader-was-largest-0dte-block-trade-i-have-ever-seen",
+          "publishedOn": "2023-02-24T21:00:02.000Z",
+          "wordCount": 1557,
+          "title": "\"Shocked\" Goldman Trader: \"This Was The Largest 0DTE Block Trade I Have Ever Seen\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/technology/russia-sends-ship-space-station-rescue-stranded-crew",
+          "author": null,
+          "description": "Russia Sends Ship To Space Station To Rescue \"Stranded Crew\"   | ZeroHedge",
+          "link": "https://www.zerohedge.com/technology/russia-sends-ship-space-station-rescue-stranded-crew",
+          "publishedOn": "2023-02-24T21:00:02.000Z",
+          "wordCount": 725,
+          "title": "Russia Sends Ship To Space Station To Rescue \"Stranded Crew\"   | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://2023.ipfs-thing.io/",
           "author": null,
           "description": "IPFS þing",
@@ -16,44 +66,14 @@
           "imageUrl": "https://assets.tina.io/87b73c24-a274-46dd-baca-74dbd841bca1/ipfs-things-23-og.jpg"
         },
         {
-          "id": "https://forum.canto.build/t/contract-origin-protocol-cop/26",
+          "id": "https://www.emergence.site/",
           "author": null,
-          "description": "Contract Origin Protocol (COP)",
-          "link": "https://forum.canto.build/t/contract-origin-protocol-cop/26",
-          "publishedOn": "2023-02-24T19:00:03.000Z",
-          "wordCount": 401,
-          "title": "Contract Origin Protocol (COP)",
-          "imageUrl": "https://forum.canto.build/images/discourse-logo-sketch-small.png"
-        },
-        {
-          "id": "https://zine.zora.co/eternal-reggie-james",
-          "author": null,
-          "description": "Seeding Infinite Games with Eternal – ZORA ZINE",
-          "link": "https://zine.zora.co/eternal-reggie-james",
-          "publishedOn": "2023-02-24T19:00:03.000Z",
-          "wordCount": 7405,
-          "title": "Seeding Infinite Games with Eternal – ZORA ZINE",
-          "imageUrl": "https://cdn.sanity.io/images/vijfxq6w/production/a0de1c6fb4e557fc54858ed931448298bb66e7af-941x1280.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/whats-behind-never-ending-freight-brokerage-layoffs",
-          "author": null,
-          "description": "What's Behind The Never-Ending Freight Brokerage Layoffs | ZeroHedge",
-          "link": "https://www.zerohedge.com/economics/whats-behind-never-ending-freight-brokerage-layoffs",
-          "publishedOn": "2023-02-24T19:00:03.000Z",
-          "wordCount": 2430,
-          "title": "What's Behind The Never-Ending Freight Brokerage Layoffs | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/leaked-fbi-memos-expose-sexual-misconduct-drunk-driving-property-theft-and-more",
-          "author": null,
-          "description": "Leaked FBI Memos Expose Sexual Misconduct, Drunk Driving, Property Theft And More | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/leaked-fbi-memos-expose-sexual-misconduct-drunk-driving-property-theft-and-more",
-          "publishedOn": "2023-02-24T18:00:03.000Z",
-          "wordCount": 1914,
-          "title": "Leaked FBI Memos Expose Sexual Misconduct, Drunk Driving, Property Theft And More | ZeroHedge",
-          "imageUrl": null
+          "description": "Emergence",
+          "link": "https://www.emergence.site/",
+          "publishedOn": "2023-02-24T19:30:03.000Z",
+          "wordCount": 779,
+          "title": "Emergence",
+          "imageUrl": "https://www.emergence.site/assets/img/emergence-twitter.png"
         },
         {
           "id": "https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&utm_medium=social",
@@ -61,7 +81,7 @@
           "description": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "link": "https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-24T17:00:03.000Z",
-          "wordCount": 63324,
+          "wordCount": 63623,
           "title": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220622_Gaming_GenericCrop-1200x675.jpg"
         },
@@ -86,12 +106,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://edge.app/blog/company-news/edge-security-incident-urgent-notice/",
+          "author": null,
+          "description": "Urgent Notice: Edge Security Incident",
+          "link": "https://edge.app/blog/company-news/edge-security-incident-urgent-notice/",
+          "publishedOn": "2023-02-24T16:30:02.000Z",
+          "wordCount": 6016,
+          "title": "Urgent Notice: Edge Security Incident",
+          "imageUrl": "https://edge.app/wp-content/uploads/2023/02/INTEGRATION-2.png"
+        },
+        {
           "id": "https://www.coindesk.com/markets/2023/02/24/unrelated-base-token-jumped-250-after-coinbase-starts-layer-2-network-base/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
           "author": null,
           "description": "Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base",
           "link": "https://www.coindesk.com/markets/2023/02/24/unrelated-base-token-jumped-250-after-coinbase-starts-layer-2-network-base/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
           "publishedOn": "2023-02-24T16:00:04.000Z",
-          "wordCount": 20263,
+          "wordCount": 19963,
           "title": "Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base",
           "imageUrl": "https://www.coindesk.com/resizer/vfoWTQhwPTRiCXz6pBqZuTf1K60=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KAICSBJEEVCIFKHKZOI644AVTY.png"
         },
@@ -106,14 +136,14 @@
           "imageUrl": "https://l2beat.com/meta-images/overview-scaling.png"
         },
         {
-          "id": "https://www.theblock.co/post/211889/paxos-lands-on-the-front-lines-of-new-us-crackdown-on-crypto",
+          "id": "https://www.youtube.com/watch?v=iSIosTP4IJI&feature=youtu.be",
           "author": null,
-          "description": "Paxos lands on the front lines of new US crackdown on crypto",
-          "link": "https://www.theblock.co/post/211889/paxos-lands-on-the-front-lines-of-new-us-crackdown-on-crypto",
-          "publishedOn": "2023-02-24T09:30:04.000Z",
-          "wordCount": 66773,
-          "title": "Paxos lands on the front lines of new US crackdown on crypto",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201216_Paxos_142m-Daily-1200x675.png"
+          "description": "🔵?",
+          "link": "https://www.youtube.com/watch?v=iSIosTP4IJI&feature=youtu.be",
+          "publishedOn": "2023-02-24T15:00:02.000Z",
+          "wordCount": null,
+          "title": "🔵?",
+          "imageUrl": null
         },
         {
           "id": "https://www.revel.xyz/",
@@ -164,36 +194,6 @@
           "wordCount": 2024,
           "title": "Introducing: The New AxieInfinity.Com!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d500bf9-19b7-484b-ba9a-8e6928518a9f_1500x500.png"
-        },
-        {
-          "id": "https://techcrunch.com/2023/02/23/eclipse-launches-software-to-allow-solana-apps-to-be-compatible-with-polygon/",
-          "author": null,
-          "description": "Rollup provider Eclipse launches software to allow Solana apps to be compatible with Polygon",
-          "link": "https://techcrunch.com/2023/02/23/eclipse-launches-software-to-allow-solana-apps-to-be-compatible-with-polygon/",
-          "publishedOn": "2023-02-23T23:00:02.000Z",
-          "wordCount": 7042,
-          "title": "Rollup provider Eclipse launches software to allow Solana apps to be compatible with Polygon",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1370279732.jpg?resize=1200,675"
-        },
-        {
-          "id": "http://thegraph.com/blog/the-graph-indexing-data-coinbase-Base-l2/",
-          "author": null,
-          "description": "The Graph is Indexing Base, a New L2 Incubated by Coinbase - The Graph Blog",
-          "link": "http://thegraph.com/blog/the-graph-indexing-data-coinbase-Base-l2/",
-          "publishedOn": "2023-02-23T17:00:02.000Z",
-          "wordCount": 3426,
-          "title": "The Graph is Indexing Base, a New L2 Incubated by Coinbase - The Graph Blog",
-          "imageUrl": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ab5b804-ee3d-4344-a593-0dae213e977e/SEO_Base_Support2x.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230224T201843Z&X-Amz-Expires=3600&X-Amz-Signature=3621c319720067ade7497c398120d57f4ae98b56dbb23dfb5e85be4c09d8dd59&X-Amz-SignedHeaders=host&x-id=GetObject"
-        },
-        {
-          "id": "https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0",
-          "author": null,
-          "description": "Optimism Goes m̶u̶l̶t̶i̶ Superchain",
-          "link": "https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0",
-          "publishedOn": "2023-02-23T16:00:04.000Z",
-          "wordCount": 1927,
-          "title": "Optimism Goes m̶u̶l̶t̶i̶ Superchain",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/fZLPz4wm3HP-UFL4IutCg.jpeg?height=750&width=1500&h=750&w=1500&auto=compress"
         },
         {
           "id": "https://base.org/",
