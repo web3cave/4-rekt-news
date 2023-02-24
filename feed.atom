@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T19:15:35.131Z</id>
+    <id>urn:2023-02-24T20:20:39.832Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T19:15:35.131Z</updated>
+    <updated>2023-02-24T20:20:39.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IPFS þing]]></title>
+        <id>https://2023.ipfs-thing.io/</id>
+        <link href="https://2023.ipfs-thing.io/"/>
+        <updated>2023-02-24T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[IPFS þing]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contract Origin Protocol (COP)]]></title>
         <id>https://forum.canto.build/t/contract-origin-protocol-cop/26</id>
@@ -161,16 +171,6 @@
         <link href="https://techcrunch.com/2023/02/23/eclipse-launches-software-to-allow-solana-apps-to-be-compatible-with-polygon/"/>
         <updated>2023-02-23T23:00:02.000Z</updated>
         <summary type="html"><![CDATA[Rollup provider Eclipse launches software to allow Solana apps to be compatible with Polygon]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9dcc.eth WorldConnect01]]></title>
-        <id>https://events.9dcc.xyz/worldconnect01</id>
-        <link href="https://events.9dcc.xyz/worldconnect01"/>
-        <updated>2023-02-23T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[9dcc.eth WorldConnect01]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
