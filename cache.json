@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/paradigmxyz/reth/",
+          "author": null,
+          "description": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
+          "link": "https://github.com/paradigmxyz/reth/",
+          "publishedOn": "2023-02-24T23:00:03.000Z",
+          "wordCount": 1905,
+          "title": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
+          "imageUrl": "https://repository-images.githubusercontent.com/537233603/ef226434-9521-4138-8dde-935fd1fed473"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/hawkish-rate-re-awakening-triggers-dows-worst-week-sept",
+          "author": null,
+          "description": "Bonds, Stocks, & Bitcoin Battered By (G)Rate Expectations Repricing | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/hawkish-rate-re-awakening-triggers-dows-worst-week-sept",
+          "publishedOn": "2023-02-24T23:00:03.000Z",
+          "wordCount": 1710,
+          "title": "Bonds, Stocks, & Bitcoin Battered By (G)Rate Expectations Repricing | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.oasis.app/statement-regarding-the-transactions-from-the-oasis-multisig-on-21st-feb-2023/",
+          "author": null,
+          "description": "Statement Regarding The Transactions From The Oasis Multisig on 21st Feb 2023 - Oasis Blog",
+          "link": "https://blog.oasis.app/statement-regarding-the-transactions-from-the-oasis-multisig-on-21st-feb-2023/",
+          "publishedOn": "2023-02-24T23:00:02.000Z",
+          "wordCount": 705,
+          "title": "Statement Regarding The Transactions From The Oasis Multisig on 21st Feb 2023 - Oasis Blog",
+          "imageUrl": "https://blog.oasis.app/wp-content/uploads/2023/02/Cover-Template-9.png"
+        },
+        {
+          "id": "https://blockworks.co/news/jump-crypto-wormhole-hack-recovery",
+          "author": null,
+          "description": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
+          "link": "https://blockworks.co/news/jump-crypto-wormhole-hack-recovery",
+          "publishedOn": "2023-02-24T22:30:02.000Z",
+          "wordCount": 17735,
+          "title": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/02/Jump-Crypto-Wormhole-Exploit-Oasis.jpg"
+        },
+        {
           "id": "https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I",
           "author": null,
           "description": "Decentralizing Base with the OP Stack and Optimism",
@@ -14,16 +54,6 @@
           "wordCount": 3463,
           "title": "Decentralizing Base with the OP Stack and Optimism",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/5zTaBfBrbea03g14TOWMW.png?height=1200&width=2400&h=1200&w=2400&auto=compress"
-        },
-        {
-          "id": "https://www.nftboxes.io/",
-          "author": null,
-          "description": "NFTBoxes",
-          "link": "https://www.nftboxes.io/",
-          "publishedOn": "2023-02-24T21:30:03.000Z",
-          "wordCount": 606,
-          "title": "NFTBoxes",
-          "imageUrl": "https://www.nftboxes.io/images/banner.png"
         },
         {
           "id": "https://stable-diffusion-ui.github.io/",
@@ -36,16 +66,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://lightning.engineering/posts/2017-11-16-ln-swap/",
-          "author": null,
-          "description": "Connecting Blockchains: Instant Cross-Chain Transactions On Lightning",
-          "link": "https://lightning.engineering/posts/2017-11-16-ln-swap/",
-          "publishedOn": "2023-02-24T21:00:02.000Z",
-          "wordCount": 2370,
-          "title": "Connecting Blockchains: Instant Cross-Chain Transactions On Lightning",
-          "imageUrl": null
-        },
-        {
           "id": "https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9",
           "author": null,
           "description": "zkMint: The First ZK-friendly Tendermint Consensus Engine",
@@ -54,16 +74,6 @@
           "wordCount": 2142,
           "title": "zkMint: The First ZK-friendly Tendermint Consensus Engine",
           "imageUrl": "https://miro.medium.com/max/1200/1*MKCMiPVvE6cenSdBecPdIQ.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/shocked-goldman-trader-was-largest-0dte-block-trade-i-have-ever-seen",
-          "author": null,
-          "description": "\"Shocked\" Goldman Trader: \"This Was The Largest 0DTE Block Trade I Have Ever Seen\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/shocked-goldman-trader-was-largest-0dte-block-trade-i-have-ever-seen",
-          "publishedOn": "2023-02-24T21:00:02.000Z",
-          "wordCount": 1557,
-          "title": "\"Shocked\" Goldman Trader: \"This Was The Largest 0DTE Block Trade I Have Ever Seen\" | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://2023.ipfs-thing.io/",
@@ -121,7 +131,7 @@
           "description": "Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base",
           "link": "https://www.coindesk.com/markets/2023/02/24/unrelated-base-token-jumped-250-after-coinbase-starts-layer-2-network-base/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
           "publishedOn": "2023-02-24T16:00:04.000Z",
-          "wordCount": 19806,
+          "wordCount": 19861,
           "title": "Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base",
           "imageUrl": "https://www.coindesk.com/resizer/vfoWTQhwPTRiCXz6pBqZuTf1K60=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KAICSBJEEVCIFKHKZOI644AVTY.png"
         },
@@ -134,16 +144,6 @@
           "wordCount": 383,
           "title": "L2BEAT – The state of the layer two ecosystem",
           "imageUrl": "https://l2beat.com/meta-images/overview-scaling.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iSIosTP4IJI&feature=youtu.be",
-          "author": null,
-          "description": "🔵?",
-          "link": "https://www.youtube.com/watch?v=iSIosTP4IJI&feature=youtu.be",
-          "publishedOn": "2023-02-24T15:00:02.000Z",
-          "wordCount": null,
-          "title": "🔵?",
-          "imageUrl": null
         },
         {
           "id": "https://www.revel.xyz/",
