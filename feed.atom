@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T15:17:56.921Z</id>
+    <id>urn:2023-02-25T16:24:15.700Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T15:17:56.921Z</updated>
+    <updated>2023-02-25T16:24:15.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,6 +51,16 @@
         <link href="https://podcast.sprovoost.nl/@nado/episodes/bitcoin-explained-73-op-vault"/>
         <updated>2023-02-25T11:30:04.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin, Explained 73: OP_VAULT]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on Arbitrum's Proposal to Score Connections by PoW]]></title>
+        <id>https://research.arbitrum.io/t/thoughts-on-arbitrums-proposal-to-score-connections-by-pow/8121</id>
+        <link href="https://research.arbitrum.io/t/thoughts-on-arbitrums-proposal-to-score-connections-by-pow/8121"/>
+        <updated>2023-02-25T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on Arbitrum's Proposal to Score Connections by PoW]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Planning for AGI and beyond]]></title>
+        <id>https://openai.com/blog/planning-for-agi-and-beyond/</id>
+        <link href="https://openai.com/blog/planning-for-agi-and-beyond/"/>
+        <updated>2023-02-24T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Planning for AGI and beyond]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[zkMint: The First ZK-friendly Tendermint Consensus Engine]]></title>
         <id>https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9</id>
         <link href="https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9"/>
@@ -171,26 +191,6 @@
         <link href="https://www.emergence.site/"/>
         <updated>2023-02-24T19:30:03.000Z</updated>
         <summary type="html"><![CDATA[Emergence]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA founder Trip Hawkins joins web3 studio Games For A Living]]></title>
-        <id>https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&amp;utm_medium=social</id>
-        <link href="https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&amp;utm_medium=social"/>
-        <updated>2023-02-24T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[EA founder Trip Hawkins joins web3 studio Games For A Living]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[testnet.fyi]]></title>
-        <id>https://testnet.fyi/</id>
-        <link href="https://testnet.fyi/"/>
-        <updated>2023-02-24T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[testnet.fyi]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
