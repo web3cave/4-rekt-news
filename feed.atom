@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T09:17:38.913Z</id>
+    <id>urn:2023-02-25T10:18:52.121Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T09:17:38.913Z</updated>
+    <updated>2023-02-25T10:18:52.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,16 +11,6 @@
         <link href="https://www.based.money/"/>
         <updated>2023-02-25T09:00:03.000Z</updated>
         <summary type="html"><![CDATA[Based Money | Actual DeFi]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nansen Research Portal]]></title>
-        <id>https://research.nansen.ai/</id>
-        <link href="https://research.nansen.ai/"/>
-        <updated>2023-02-25T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Nansen Research Portal]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,6 +111,16 @@
         <link href="https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9"/>
         <updated>2023-02-24T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[zkMint: The First ZK-friendly Tendermint Consensus Engine]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Era]]></title>
+        <id>https://medium.com/@EchelonFND/a-new-era-82fdc546ad0</id>
+        <link href="https://medium.com/@EchelonFND/a-new-era-82fdc546ad0"/>
+        <updated>2023-02-24T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A New Era]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
