@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.based.money/",
+          "author": null,
+          "description": "Based Money | Actual DeFi",
+          "link": "https://www.based.money/",
+          "publishedOn": "2023-02-25T09:00:03.000Z",
+          "wordCount": 1219,
+          "title": "Based Money | Actual DeFi",
+          "imageUrl": null
+        },
+        {
           "id": "https://research.nansen.ai/",
           "author": null,
           "description": "Nansen Research Portal",
@@ -14,26 +24,6 @@
           "wordCount": 13,
           "title": "Nansen Research Portal",
           "imageUrl": "https://nansen-alpha-portal-dev.web.app/og_image.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/deconstruction-why-leftist-movements-cannot-coexist-people-value-freedom",
-          "author": null,
-          "description": "Deconstruction: Why Leftist Movements Cannot Coexist With People That Value Freedom | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/deconstruction-why-leftist-movements-cannot-coexist-people-value-freedom",
-          "publishedOn": "2023-02-25T07:00:03.000Z",
-          "wordCount": 3759,
-          "title": "Deconstruction: Why Leftist Movements Cannot Coexist With People That Value Freedom | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding",
-          "author": null,
-          "description": "A note on data availability and erasure coding",
-          "link": "https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding",
-          "publishedOn": "2023-02-25T07:00:03.000Z",
-          "wordCount": 4116,
-          "title": "A note on data availability and erasure coding",
-          "imageUrl": "https://opengraph.githubassets.com/a9b94c69fb0027befb7440cf8213566c0bf2f465571167c2a4cc50e14693bd0e/ethereum/research"
         },
         {
           "id": "https://gcaptain.com/ukraine-to-set-up-500-million-insurance-fund-for-ships-entering-ports/",
@@ -161,7 +151,7 @@
           "description": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "link": "https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-24T17:00:03.000Z",
-          "wordCount": 62666,
+          "wordCount": 63509,
           "title": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220622_Gaming_GenericCrop-1200x675.jpg"
         },
@@ -203,7 +193,17 @@
           "publishedOn": "2023-02-24T05:00:02.000Z",
           "wordCount": 5260,
           "title": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
-          "imageUrl": "https://opengraph.githubassets.com/e4c1151dbd0a8fbb53545f252f81163cb39f3c92750050487c36f11244ffaa7f/djrtwo/writing"
+          "imageUrl": "https://opengraph.githubassets.com/431802b2dc288c0b0c5e8cd80579fdf9c8b8bcaf67777bbe6f548a8a45fd5a6c/djrtwo/writing"
+        },
+        {
+          "id": "https://github.com/EthereumPostalService/eps-core",
+          "author": null,
+          "description": "GitHub - EthereumPostalService/eps-core: Contracts and off-chain event listener for EPS",
+          "link": "https://github.com/EthereumPostalService/eps-core",
+          "publishedOn": "2023-02-24T03:00:02.000Z",
+          "wordCount": 930,
+          "title": "GitHub - EthereumPostalService/eps-core: Contracts and off-chain event listener for EPS",
+          "imageUrl": "https://repository-images.githubusercontent.com/605363629/417f97e0-5fbf-4823-a817-08effcd8a7d8"
         }
       ]
     }
