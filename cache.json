@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/commodities/americas-largest-power-grid-faces-worsening-reliability-risks",
+          "author": null,
+          "description": "America's Largest Power Grid Faces Worsening Reliability Risks | ZeroHedge",
+          "link": "https://www.zerohedge.com/commodities/americas-largest-power-grid-faces-worsening-reliability-risks",
+          "publishedOn": "2023-02-25T17:30:03.000Z",
+          "wordCount": 834,
+          "title": "America's Largest Power Grid Faces Worsening Reliability Risks | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8JGGpg8e5FE&feature=youtu.be",
           "author": null,
           "description": "Why Rocket Pool is Poised to Take Over in 2023 | The Edge Podcast",
@@ -41,7 +51,7 @@
           "description": "SEC Orders Chuck E Cheese to Register Tokens as Securities",
           "link": "https://www.dailysybil.com/post/sec-orders-chuck-e-cheese-to-register-tokens-as-securities",
           "publishedOn": "2023-02-25T16:30:03.000Z",
-          "wordCount": 17812,
+          "wordCount": 17785,
           "title": "SEC Orders Chuck E Cheese to Register Tokens as Securities",
           "imageUrl": "https://static.wixstatic.com/media/2ef8bc_3d005096562e4c84bfd0543b14facaa4~mv2.png/v1/fit/w_982%2Ch_636%2Cal_c/file.png"
         },
@@ -121,7 +131,7 @@
           "description": "VeeCon 2023 Announces First Round of Speakers - Boardroom",
           "link": "https://boardroom.tv/veecon-2023-speakers-announcement/",
           "publishedOn": "2023-02-25T00:00:04.000Z",
-          "wordCount": 2111,
+          "wordCount": 2119,
           "title": "VeeCon 2023 Announces First Round of Speakers - Boardroom",
           "imageUrl": "https://boardroom.tv/wp-content/uploads/2023/02/VeeCon2023.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
           "link": "https://blockworks.co/news/jump-crypto-wormhole-hack-recovery",
           "publishedOn": "2023-02-24T22:30:02.000Z",
-          "wordCount": 18071,
+          "wordCount": 17960,
           "title": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/02/Jump-Crypto-Wormhole-Exploit-Oasis.jpg"
         },
@@ -164,16 +174,6 @@
           "wordCount": 2142,
           "title": "zkMint: The First ZK-friendly Tendermint Consensus Engine",
           "imageUrl": "https://miro.medium.com/max/1200/1*MKCMiPVvE6cenSdBecPdIQ.png"
-        },
-        {
-          "id": "https://stable-diffusion-ui.github.io/",
-          "author": null,
-          "description": "Stable Diffusion UI v2",
-          "link": "https://stable-diffusion-ui.github.io/",
-          "publishedOn": "2023-02-24T21:00:02.000Z",
-          "wordCount": 278,
-          "title": "Stable Diffusion UI v2",
-          "imageUrl": null
         },
         {
           "id": "https://2023.ipfs-thing.io/",
