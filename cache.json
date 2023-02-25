@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://podcast.sprovoost.nl/@nado/episodes/bitcoin-explained-73-op-vault",
+          "author": null,
+          "description": "Bitcoin, Explained 73: OP_VAULT",
+          "link": "https://podcast.sprovoost.nl/@nado/episodes/bitcoin-explained-73-op-vault",
+          "publishedOn": "2023-02-25T11:30:04.000Z",
+          "wordCount": 252,
+          "title": "Bitcoin, Explained 73: OP_VAULT",
+          "imageUrl": "https://podcast.sprovoost.nl/media/podcasts/nado/bitcoin-explained-73-op-vault_og.png"
+        },
+        {
+          "id": "https://research.arbitrum.io/t/thoughts-on-arbitrums-proposal-to-score-connections-by-pow/8121",
+          "author": null,
+          "description": "Thoughts on Arbitrum's Proposal to Score Connections by PoW",
+          "link": "https://research.arbitrum.io/t/thoughts-on-arbitrums-proposal-to-score-connections-by-pow/8121",
+          "publishedOn": "2023-02-25T11:30:04.000Z",
+          "wordCount": 761,
+          "title": "Thoughts on Arbitrum's Proposal to Score Connections by PoW",
+          "imageUrl": "https://global.discourse-cdn.com/standard17/uploads/arbitrum/original/1X/1c9a4920b47b4efb8e83ab39f0ba46b0e2c97cd8.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_INmFnlp-hU",
+          "author": null,
+          "description": "The Hidden Brilliance of Stealth Wealth - How Money Works",
+          "link": "https://www.youtube.com/watch?v=_INmFnlp-hU",
+          "publishedOn": "2023-02-25T11:30:03.000Z",
+          "wordCount": null,
+          "title": "The Hidden Brilliance of Stealth Wealth - How Money Works",
+          "imageUrl": null
+        },
+        {
           "id": "https://gcaptain.com/ukraine-to-set-up-500-million-insurance-fund-for-ships-entering-ports/",
           "author": null,
           "description": "Ukraine to Set Up $500 Million Insurance Fund for Ships Entering Ports",
@@ -106,26 +136,6 @@
           "imageUrl": "https://miro.medium.com/max/1200/1*MKCMiPVvE6cenSdBecPdIQ.png"
         },
         {
-          "id": "https://medium.com/@EchelonFND/a-new-era-82fdc546ad0",
-          "author": null,
-          "description": "A New Era",
-          "link": "https://medium.com/@EchelonFND/a-new-era-82fdc546ad0",
-          "publishedOn": "2023-02-24T21:00:02.000Z",
-          "wordCount": 1726,
-          "title": "A New Era",
-          "imageUrl": "https://miro.medium.com/max/1080/1*7t9uBzAo24tAnEkQZg2f2Q.png"
-        },
-        {
-          "id": "https://hackmd.io/7j8OB1zUQDilXuYg1RRqXA?view",
-          "author": null,
-          "description": "Esoteric Secrets of DAI Accounting - HackMD",
-          "link": "https://hackmd.io/7j8OB1zUQDilXuYg1RRqXA?view",
-          "publishedOn": "2023-02-24T21:00:02.000Z",
-          "wordCount": 3590,
-          "title": "Esoteric Secrets of DAI Accounting - HackMD",
-          "imageUrl": "https://hackmd.io/images/media/HackMD-og.jpg"
-        },
-        {
           "id": "https://2023.ipfs-thing.io/",
           "author": null,
           "description": "IPFS þing",
@@ -151,7 +161,7 @@
           "description": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "link": "https://www.theblock.co/post/215032/ea-founder-trip-hawkins-joins-web3-studio-games-for-a-living?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-24T17:00:03.000Z",
-          "wordCount": 63509,
+          "wordCount": 63607,
           "title": "EA founder Trip Hawkins joins web3 studio Games For A Living",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/06/20220622_Gaming_GenericCrop-1200x675.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 5260,
           "title": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
           "imageUrl": "https://opengraph.githubassets.com/4628c843b1c78d784cbf8d2736f6dd55b6f2912394f019d9ad21716ab0ab6948/djrtwo/writing"
-        },
-        {
-          "id": "https://github.com/EthereumPostalService/eps-core",
-          "author": null,
-          "description": "GitHub - EthereumPostalService/eps-core: Contracts and off-chain event listener for EPS",
-          "link": "https://github.com/EthereumPostalService/eps-core",
-          "publishedOn": "2023-02-24T03:00:02.000Z",
-          "wordCount": 930,
-          "title": "GitHub - EthereumPostalService/eps-core: Contracts and off-chain event listener for EPS",
-          "imageUrl": "https://repository-images.githubusercontent.com/605363629/417f97e0-5fbf-4823-a817-08effcd8a7d8"
         }
       ]
     }
