@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T07:16:37.263Z</id>
+    <id>urn:2023-02-25T08:22:49.285Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T07:16:37.263Z</updated>
+    <updated>2023-02-25T08:22:49.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -106,6 +106,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Planning for AGI and beyond]]></title>
+        <id>https://openai.com/blog/planning-for-agi-and-beyond/</id>
+        <link href="https://openai.com/blog/planning-for-agi-and-beyond/"/>
+        <updated>2023-02-24T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Planning for AGI and beyond]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion UI v2]]></title>
         <id>https://stable-diffusion-ui.github.io/</id>
         <link href="https://stable-diffusion-ui.github.io/"/>
@@ -181,16 +191,6 @@
         <link href="https://testnet.fyi/"/>
         <updated>2023-02-24T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[testnet.fyi]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base]]></title>
-        <id>https://www.coindesk.com/markets/2023/02/24/unrelated-base-token-jumped-250-after-coinbase-starts-layer-2-network-base/?utm_content=editorial&amp;utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_term=organic</id>
-        <link href="https://www.coindesk.com/markets/2023/02/24/unrelated-base-token-jumped-250-after-coinbase-starts-layer-2-network-base/?utm_content=editorial&amp;utm_source=twitter&amp;utm_campaign=coindesk_main&amp;utm_medium=social&amp;utm_term=organic"/>
-        <updated>2023-02-24T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Unrelated BASE Token Jumped 250% After Coinbase Starts Layer 2 Network Base]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
