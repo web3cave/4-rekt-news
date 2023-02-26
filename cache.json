@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JfvMHO6Y8kw",
+          "author": null,
+          "description": "Lauryn Hill Ex Factor Live 1998",
+          "link": "https://www.youtube.com/watch?v=JfvMHO6Y8kw",
+          "publishedOn": "2023-02-26T07:00:03.000Z",
+          "wordCount": null,
+          "title": "Lauryn Hill Ex Factor Live 1998",
+          "imageUrl": null
+        },
+        {
+          "id": "https://guzey.com/productivity/",
+          "author": null,
+          "description": "Every productivity thought I've ever had, as concisely as possible - Alexey Guzey",
+          "link": "https://guzey.com/productivity/",
+          "publishedOn": "2023-02-26T06:30:03.000Z",
+          "wordCount": 4348,
+          "title": "Every productivity thought I've ever had, as concisely as possible - Alexey Guzey",
+          "imageUrl": "https://guzey.com/pomos.png"
+        },
+        {
           "id": "https://thehill.com/homenews/ap/ap-strange-news/ap-mexican-president-posts-photo-of-what-he-claims-is-an-elf/",
           "author": null,
           "description": "Mexican president posts photo of what he claims is an elf",
           "link": "https://thehill.com/homenews/ap/ap-strange-news/ap-mexican-president-posts-photo-of-what-he-claims-is-an-elf/",
           "publishedOn": "2023-02-26T05:30:03.000Z",
-          "wordCount": 3905,
+          "wordCount": 3910,
           "title": "Mexican president posts photo of what he claims is an elf",
           "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/12/4f881ef3a74142e7a85ef4a0fe299f2c.jpg?w=1280"
-        },
-        {
-          "id": "https://github.com/stacks-network/stacks/blob/master/stacks-l2.md",
-          "author": null,
-          "description": "stacks/stacks-l2.md at master · stacks-network/stacks",
-          "link": "https://github.com/stacks-network/stacks/blob/master/stacks-l2.md",
-          "publishedOn": "2023-02-26T05:30:03.000Z",
-          "wordCount": 1492,
-          "title": "stacks/stacks-l2.md at master · stacks-network/stacks",
-          "imageUrl": "https://opengraph.githubassets.com/541bd0759aa8cb0cac07e3426c3a11a371d424593ba50e7e8c331f056a449a76/stacks-network/stacks"
         },
         {
           "id": "https://36group.co.uk/content/files/1393693_sally-danisz-v-persons-unknown-huobi-global-ltd_rcj_qb_-amended-second-approved-judgment_05.01.22.pdf",
@@ -91,7 +101,7 @@
           "description": "Roald Dahl publisher to release collection without sensitivity changes to text",
           "link": "https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0",
           "publishedOn": "2023-02-26T00:00:03.000Z",
-          "wordCount": 18304,
+          "wordCount": 19160,
           "title": "Roald Dahl publisher to release collection without sensitivity changes to text",
           "imageUrl": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff32a0b6e-b109-11ed-be6b-8488e113f360.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
         },
@@ -151,7 +161,7 @@
           "description": "Solana Mainnet-Beta Cluster Restart 25 February 2023",
           "link": "https://docs.google.com/document/d/e/2PACX-1vQzf7XpdoXB99lCWu6na9PhLy4SOx-xcjP1LlGiVR0PB6vpyGpol1c8_PufAa8TZZp_R0NlgaqlC7a1/pub",
           "publishedOn": "2023-02-25T15:00:03.000Z",
-          "wordCount": 1573,
+          "wordCount": 1570,
           "title": "Solana Mainnet-Beta Cluster Restart 25 February 2023",
           "imageUrl": null
         },
@@ -174,16 +184,6 @@
           "wordCount": 705,
           "title": "Statement Regarding The Transactions From The Oasis Multisig on 21st Feb 2023 - Oasis Blog",
           "imageUrl": "https://blog.oasis.app/wp-content/uploads/2023/02/Cover-Template-9.png"
-        },
-        {
-          "id": "https://blockworks.co/news/jump-crypto-wormhole-hack-recovery",
-          "author": null,
-          "description": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
-          "link": "https://blockworks.co/news/jump-crypto-wormhole-hack-recovery",
-          "publishedOn": "2023-02-24T22:30:02.000Z",
-          "wordCount": 17962,
-          "title": "Jump Crypto Just Counter-Exploited the Wormhole Hacker for $140 Million",
-          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/02/Jump-Crypto-Wormhole-Exploit-Oasis.jpg"
         },
         {
           "id": "https://polymerlabs.medium.com/zkmint-the-first-zk-friendly-tendermint-consensus-engine-116000b9d4f9",
