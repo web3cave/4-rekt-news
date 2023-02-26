@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.placeholder.vc/",
+          "author": null,
+          "description": "Placeholder",
+          "link": "https://www.placeholder.vc/",
+          "publishedOn": "2023-02-26T02:00:04.000Z",
+          "wordCount": 1409,
+          "title": "Placeholder",
+          "imageUrl": "http://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5c3f3634c2241b06b6bbb087/1547646518642/Placeholder%2BLogo.png?format=1500w"
+        },
+        {
+          "id": "https://www.hiro.so/blog/introducing-hyperchains-by-hiro",
+          "author": null,
+          "description": "Introducing Hyperchains by Hiro",
+          "link": "https://www.hiro.so/blog/introducing-hyperchains-by-hiro",
+          "publishedOn": "2023-02-26T02:00:04.000Z",
+          "wordCount": 3517,
+          "title": "Introducing Hyperchains by Hiro",
+          "imageUrl": "https://assets-global.website-files.com/5ff21113877dd79ed7913b57/621668d229b28b4824131e49_hyperchains.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7r83N3c2kPw",
+          "author": null,
+          "description": "What was Coding like 40 years ago?",
+          "link": "https://www.youtube.com/watch?v=7r83N3c2kPw",
+          "publishedOn": "2023-02-26T02:00:04.000Z",
+          "wordCount": null,
+          "title": "What was Coding like 40 years ago?",
+          "imageUrl": null
+        },
+        {
           "id": "https://papr.wtf/",
           "author": null,
           "description": "Papr",
@@ -31,29 +61,9 @@
           "description": "Roald Dahl publisher to release collection without sensitivity changes to text",
           "link": "https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0",
           "publishedOn": "2023-02-26T00:00:03.000Z",
-          "wordCount": 19272,
+          "wordCount": 20352,
           "title": "Roald Dahl publisher to release collection without sensitivity changes to text",
           "imageUrl": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff32a0b6e-b109-11ed-be6b-8488e113f360.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/vandy-dei-office-used-chatgpt-write-message-about-mass-shooting",
-          "author": null,
-          "description": "Vandy DEI Office Used ChatGPT To Write Message About Mass Shooting | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/vandy-dei-office-used-chatgpt-write-message-about-mass-shooting",
-          "publishedOn": "2023-02-25T23:30:03.000Z",
-          "wordCount": 1443,
-          "title": "Vandy DEI Office Used ChatGPT To Write Message About Mass Shooting | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://learn.rainbow.me/op-rewards-with-rainbow",
-          "author": null,
-          "description": "Earn OP Rewards with Rainbow: Round 1",
-          "link": "https://learn.rainbow.me/op-rewards-with-rainbow",
-          "publishedOn": "2023-02-25T23:00:02.000Z",
-          "wordCount": 2112,
-          "title": "Earn OP Rewards with Rainbow: Round 1",
-          "imageUrl": "https://super-static-assets.s3.amazonaws.com/b7ac5b4c-2f39-474d-8a3c-4c0e68f5c2f6/uploads/cover/9792e70c-c82b-4afd-be51-f77f6e97b127.png"
         },
         {
           "id": "https://www.zerohedge.com/commodities/chinas-central-bank-likely-owns-4309-tonnes-gold-more-double-what-officially-disclosed",
@@ -66,22 +76,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/las-soros-da-suspends-prosecutor-misgendering-child-molester-accused-murder",
-          "author": null,
-          "description": "LA's Soros DA Suspends Prosecutor For 'Misgendering' Child Molester Accused Of Murder | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/las-soros-da-suspends-prosecutor-misgendering-child-molester-accused-murder",
-          "publishedOn": "2023-02-25T23:00:02.000Z",
-          "wordCount": 1200,
-          "title": "LA's Soros DA Suspends Prosecutor For 'Misgendering' Child Molester Accused Of Murder | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://github.com/julienkay/genesis",
           "author": null,
           "description": "GitHub - julienkay/genesis",
           "link": "https://github.com/julienkay/genesis",
           "publishedOn": "2023-02-25T22:00:04.000Z",
-          "wordCount": 1269,
+          "wordCount": 1311,
           "title": "GitHub - julienkay/genesis",
           "imageUrl": "https://repository-images.githubusercontent.com/603482535/1342d71b-aa9b-456a-bd1b-7730a908a31d"
         },
@@ -131,7 +131,7 @@
           "description": "Solana Mainnet-Beta Cluster Restart 25 February 2023",
           "link": "https://docs.google.com/document/d/e/2PACX-1vQzf7XpdoXB99lCWu6na9PhLy4SOx-xcjP1LlGiVR0PB6vpyGpol1c8_PufAa8TZZp_R0NlgaqlC7a1/pub",
           "publishedOn": "2023-02-25T15:00:03.000Z",
-          "wordCount": 1574,
+          "wordCount": 1571,
           "title": "Solana Mainnet-Beta Cluster Restart 25 February 2023",
           "imageUrl": null
         },
@@ -141,7 +141,7 @@
           "description": "22,000 ETH Embezzled and Over Ten Projects Failed: The Story of Machi Big Brother (Jeff Huang)",
           "link": "https://medium.com/@investigationsbyzachxbt/22-000-eth-embezzled-and-over-ten-projects-failed-the-story-of-machi-big-brother-jeff-huang-a1ad073fcfa8",
           "publishedOn": "2023-02-25T13:00:02.000Z",
-          "wordCount": 6558,
+          "wordCount": 6562,
           "title": "22,000 ETH Embezzled and Over Ten Projects Failed: The Story of Machi Big Brother (Jeff Huang)",
           "imageUrl": "https://miro.medium.com/max/1200/1*ywYokiZmRHupSUYCzCpfjw.png"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2023-02-24T05:00:02.000Z",
           "wordCount": 5260,
           "title": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
-          "imageUrl": "https://opengraph.githubassets.com/fcf815b3c2363fd09644e6527148e23a5b47d782c9bc4917a60cbe93e69dad43/djrtwo/writing"
+          "imageUrl": "https://opengraph.githubassets.com/f94c3d6318dea776f0260c9663a75b51988fb5f5cba5f3bfe10b060efc1ab986/djrtwo/writing"
         }
       ]
     }
