@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T03:23:53.322Z</id>
+    <id>urn:2023-02-27T04:24:08.062Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T03:23:53.322Z</updated>
+    <updated>2023-02-27T04:24:08.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IRS Free File | Internal Revenue Service]]></title>
+        <id>https://apps.irs.gov/app/freeFile</id>
+        <link href="https://apps.irs.gov/app/freeFile"/>
+        <updated>2023-02-27T04:00:03.000Z</updated>
+        <summary type="html"><![CDATA[IRS Free File | Internal Revenue Service]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LYCEUM Miami]]></title>
         <id>https://www.lyceummiami.com/</id>
@@ -96,16 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IRS Free File | Internal Revenue Service]]></title>
-        <id>https://apps.irs.gov/app/freeFile</id>
-        <link href="https://apps.irs.gov/app/freeFile"/>
-        <updated>2023-02-26T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[IRS Free File | Internal Revenue Service]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🦏 Rhino Review - Ethereum Staking Journal #1]]></title>
         <id>https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal</id>
         <link href="https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal"/>
@@ -121,6 +121,16 @@
         <link href="https://pageone.gg/p/round-tripping-87f"/>
         <updated>2023-02-26T23:00:03.000Z</updated>
         <summary type="html"><![CDATA[Round Tripping]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Neither Easy Nor Fast": Electric Vehicle Owners Admit To "Logistical Nightmare" Over Charging | ZeroHedge]]></title>
+        <id>https://www.zerohedge.com/energy/neither-easy-nor-fast-electric-vehicle-owners-admit-logistical-nightmare-over-charging</id>
+        <link href="https://www.zerohedge.com/energy/neither-easy-nor-fast-electric-vehicle-owners-admit-logistical-nightmare-over-charging"/>
+        <updated>2023-02-26T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA["Neither Easy Nor Fast": Electric Vehicle Owners Admit To "Logistical Nightmare" Over Charging | ZeroHedge]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -191,16 +201,6 @@
         <link href="https://guzey.com/productivity/"/>
         <updated>2023-02-26T06:30:03.000Z</updated>
         <summary type="html"><![CDATA[Every productivity thought I've ever had, as concisely as possible - Alexey Guzey]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stacks/stacks-l2.md at master · stacks-network/stacks]]></title>
-        <id>https://github.com/stacks-network/stacks/blob/master/stacks-l2.md</id>
-        <link href="https://github.com/stacks-network/stacks/blob/master/stacks-l2.md"/>
-        <updated>2023-02-26T05:30:03.000Z</updated>
-        <summary type="html"><![CDATA[stacks/stacks-l2.md at master · stacks-network/stacks]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
