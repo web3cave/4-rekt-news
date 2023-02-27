@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://open.spotify.com/episode/62BF5I5x3mbm4drt1HU0X3?si=c4f82869bba84b8c",
+          "id": "https://www.rainbowkit.com/",
           "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/62BF5I5x3mbm4drt1HU0X3?si=c4f82869bba84b8c",
-          "publishedOn": "2023-02-27T17:30:03.000Z",
-          "wordCount": 322,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/e1a9c8fe25dd48c95b4afedcb024757583124a54"
+          "description": "RainbowKit",
+          "link": "https://www.rainbowkit.com/",
+          "publishedOn": "2023-02-27T19:00:02.000Z",
+          "wordCount": 615,
+          "title": "RainbowKit",
+          "imageUrl": "https://rainbowkit.com/social/default.png"
         },
         {
-          "id": "https://supermodular.xyz/",
+          "id": "https://www.stake.capital/content-coc",
           "author": null,
-          "description": "supermodular.xyz",
-          "link": "https://supermodular.xyz/",
-          "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 247,
-          "title": "supermodular.xyz",
-          "imageUrl": "https://supermodular.xyz/images/super-modular-card.png"
+          "description": "STAKE CAPITAL - Code Of Conduct",
+          "link": "https://www.stake.capital/content-coc",
+          "publishedOn": "2023-02-27T19:00:02.000Z",
+          "wordCount": 348,
+          "title": "STAKE CAPITAL - Code Of Conduct",
+          "imageUrl": "/assets/logo.png"
+        },
+        {
+          "id": "https://www.reddit.com/r/charts/comments/11d3r7x/tripadvisor_reviews_of_each_us_airline/",
+          "author": null,
+          "description": "r/charts - TripAdvisor Reviews of Each US Airline",
+          "link": "https://www.reddit.com/r/charts/comments/11d3r7x/tripadvisor_reviews_of_each_us_airline/",
+          "publishedOn": "2023-02-27T19:00:02.000Z",
+          "wordCount": 13345,
+          "title": "r/charts - TripAdvisor Reviews of Each US Airline",
+          "imageUrl": "https://preview.redd.it/5dooj0ts2oka1.jpg?auto=webp&v=enabled&s=0f7b7b31563e4cc2646a9f06c9c5d0b1f10476be"
+        },
+        {
+          "id": "https://theblockchainsocialist.com/category/podcast/overthrowing-the-network-state/",
+          "author": null,
+          "description": "Overthrowing The Network State Archives - The Blockchain Socialist",
+          "link": "https://theblockchainsocialist.com/category/podcast/overthrowing-the-network-state/",
+          "publishedOn": "2023-02-27T19:00:02.000Z",
+          "wordCount": 1256,
+          "title": "Overthrowing The Network State Archives - The Blockchain Socialist",
+          "imageUrl": null
         },
         {
           "id": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
@@ -31,29 +51,9 @@
           "description": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
           "link": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
           "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 11957,
+          "wordCount": 12184,
           "title": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63fbf46bdf3e33323a36e761/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
-        },
-        {
-          "id": "https://thepatternsite.com/flags.html",
-          "author": null,
-          "description": "Flags",
-          "link": "https://thepatternsite.com/flags.html",
-          "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 1056,
-          "title": "Flags",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bitcointalk.org/index.php?topic=428589.0",
-          "author": null,
-          "description": "[ANN] Ethereum: Welcome to the Beginning",
-          "link": "https://bitcointalk.org/index.php?topic=428589.0",
-          "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 8700,
-          "title": "[ANN] Ethereum: Welcome to the Beginning",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=GVT3WUa-48Y&feature=youtu.be",
@@ -91,7 +91,7 @@
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-27T14:30:02.000Z",
-          "wordCount": 29060,
+          "wordCount": 29037,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
         },
@@ -101,7 +101,7 @@
           "description": "BGD. Rescue of tokens locked on Aave. Overview and Phase 1",
           "link": "https://governance.aave.com/t/bgd-rescue-of-tokens-locked-on-aave-overview-and-phase-1/8150/80",
           "publishedOn": "2023-02-27T13:00:02.000Z",
-          "wordCount": 1219,
+          "wordCount": 1222,
           "title": "BGD. Rescue of tokens locked on Aave. Overview and Phase 1",
           "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/original/1X/2ada312765106aec8e237bb1f628fd38e403069c.jpeg"
         },
@@ -111,7 +111,7 @@
           "description": "Blur’s stance on royalties is ‘insulting,’ Animoca Brands Chairman Yat Siu says",
           "link": "https://www.theblock.co/post/215294/blur-royalties-insulting-animoca-brands-yat-siu-says?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-27T12:00:03.000Z",
-          "wordCount": 67462,
+          "wordCount": 67945,
           "title": "Blur’s stance on royalties is ‘insulting,’ Animoca Brands Chairman Yat Siu says",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/08/20220815_YatSiu2-1200x675.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "link": "https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 3606,
+          "wordCount": 3400,
           "title": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e9206-20b2-402a-9f80-0fa0b4a97bc0_1600x900.png"
         },
@@ -191,7 +191,7 @@
           "description": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "link": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
           "publishedOn": "2023-02-26T21:30:03.000Z",
-          "wordCount": 19834,
+          "wordCount": 19825,
           "title": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "imageUrl": "https://www.coindesk.com/resizer/Uk6DKZJqj1-zoOEOVfYIpTHTkAY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NUUOEX35RNDDLNPL2FEXGGFCTQ.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "link": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
           "publishedOn": "2023-02-26T14:00:03.000Z",
-          "wordCount": 8062,
+          "wordCount": 8082,
           "title": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "imageUrl": "https://images.wsj.net/im-731640/social"
         }
