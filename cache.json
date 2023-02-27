@@ -6,12 +6,52 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ethereum.org/en/developers/docs/networks/#sepolia",
+          "author": null,
+          "description": "Networks | ethereum.org",
+          "link": "https://ethereum.org/en/developers/docs/networks/#sepolia",
+          "publishedOn": "2023-02-27T01:00:04.000Z",
+          "wordCount": 2757,
+          "title": "Networks | ethereum.org",
+          "imageUrl": "https://ethereum.org/static/bf78b49d7e23b88a7eea934225b0cf96/1548e/enterprise-eth.png"
+        },
+        {
+          "id": "https://rexstjohn.medium.com/harvested-compute-and-pervasive-ai-the-protocol-labs-bull-thesis-43a3404a0111",
+          "author": null,
+          "description": "Harvested Compute and Pervasive AI: The Protocol Labs Bull Thesis",
+          "link": "https://rexstjohn.medium.com/harvested-compute-and-pervasive-ai-the-protocol-labs-bull-thesis-43a3404a0111",
+          "publishedOn": "2023-02-27T01:00:04.000Z",
+          "wordCount": 6216,
+          "title": "Harvested Compute and Pervasive AI: The Protocol Labs Bull Thesis",
+          "imageUrl": "https://miro.medium.com/max/1200/0*KAz1yfHNfuLXj-z7"
+        },
+        {
+          "id": "https://collective.flashbots.net/",
+          "author": null,
+          "description": "The Flashbots Collective",
+          "link": "https://collective.flashbots.net/",
+          "publishedOn": "2023-02-27T01:00:03.000Z",
+          "wordCount": 159,
+          "title": "The Flashbots Collective",
+          "imageUrl": "https://collective.flashbots.net/uploads/default/original/1X/7a99a7f355a2ab01e7eec8bb90f6cc59be63573a.png"
+        },
+        {
+          "id": "https://www.coingecko.com/en/global-charts#:~:text=The%20global%20cryptocurrency%20market%20cap,a%20Bitcoin%20dominance%20of%2040.16%25",
+          "author": null,
+          "description": "Crypto Market Cap Charts | CoinGecko",
+          "link": "https://www.coingecko.com/en/global-charts#:~:text=The%20global%20cryptocurrency%20market%20cap,a%20Bitcoin%20dominance%20of%2040.16%25",
+          "publishedOn": "2023-02-26T23:30:03.000Z",
+          "wordCount": 1601,
+          "title": "Crypto Market Cap Charts | CoinGecko",
+          "imageUrl": "https://static.coingecko.com/s/thumbnail-d5a7c1de76b4bc1332e48227dc1d1582c2c92721b5552aae76664eecb68345c9.png"
+        },
+        {
           "id": "https://apps.irs.gov/app/freeFile",
           "author": null,
           "description": "IRS Free File | Internal Revenue Service",
           "link": "https://apps.irs.gov/app/freeFile",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 599,
+          "wordCount": 608,
           "title": "IRS Free File | Internal Revenue Service",
           "imageUrl": null
         },
@@ -21,7 +61,7 @@
           "description": "Make or Break: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "link": "https://raoulpal.substack.com/p/make-or-break-the-gmi-top-5-weekly?sd=pf",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 2723,
+          "wordCount": 2734,
           "title": "Make or Break: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24316dd6-c1b2-4c76-823b-01485923a7b3_1688x753.png"
         },
@@ -31,7 +71,7 @@
           "description": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "link": "https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 5630,
+          "wordCount": 3387,
           "title": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e9206-20b2-402a-9f80-0fa0b4a97bc0_1600x900.png"
         },
@@ -46,14 +86,24 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F903e62ba-8f9a-4797-a050-c023cb3faa51_1614x1208.jpeg"
         },
         {
+          "id": "https://www.zerohedge.com/energy/neither-easy-nor-fast-electric-vehicle-owners-admit-logistical-nightmare-over-charging",
+          "author": null,
+          "description": "\"Neither Easy Nor Fast\": Electric Vehicle Owners Admit To \"Logistical Nightmare\" Over Charging | ZeroHedge",
+          "link": "https://www.zerohedge.com/energy/neither-easy-nor-fast-electric-vehicle-owners-admit-logistical-nightmare-over-charging",
+          "publishedOn": "2023-02-26T23:00:03.000Z",
+          "wordCount": 1748,
+          "title": "\"Neither Easy Nor Fast\": Electric Vehicle Owners Admit To \"Logistical Nightmare\" Over Charging | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/gakonst/pyrevm",
           "author": null,
           "description": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
           "link": "https://github.com/gakonst/pyrevm",
           "publishedOn": "2023-02-26T21:30:03.000Z",
-          "wordCount": 807,
+          "wordCount": 713,
           "title": "GitHub - gakonst/pyrevm: Python wrapper around https://github.com/bluealloy/revm/ using PyO3",
-          "imageUrl": "https://opengraph.githubassets.com/b422760039a7132299d6bc748feb91c3660133edb4838491f69a98e33aaa9a12/gakonst/pyrevm"
+          "imageUrl": "https://opengraph.githubassets.com/4a606a7455ef3286215470dd06dc42ec8515dce78cd4880afaf0c27cf946821d/gakonst/pyrevm"
         },
         {
           "id": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
@@ -61,7 +111,7 @@
           "description": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "link": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
           "publishedOn": "2023-02-26T21:30:03.000Z",
-          "wordCount": 19582,
+          "wordCount": 19692,
           "title": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "imageUrl": "https://www.coindesk.com/resizer/Uk6DKZJqj1-zoOEOVfYIpTHTkAY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NUUOEX35RNDDLNPL2FEXGGFCTQ.jpg"
         },
@@ -76,64 +126,14 @@
           "imageUrl": "https://opengraph.githubassets.com/12add964d51e88278188f00227ee433df2c79cacf4ee64a1d9fea8072f27ccc1/LeXpunK-Army/Crypto-CaseLaw"
         },
         {
-          "id": "https://github.com/delegatable/delegatable-sol/pull/34/files#diff-28407ecc015f2329e36dcb87f0c3b7ea6d1336791444f9a83909d48f8dd5c5a3R36",
-          "author": null,
-          "description": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
-          "link": "https://github.com/delegatable/delegatable-sol/pull/34/files#diff-28407ecc015f2329e36dcb87f0c3b7ea6d1336791444f9a83909d48f8dd5c5a3R36",
-          "publishedOn": "2023-02-26T21:00:03.000Z",
-          "wordCount": 2119,
-          "title": "Eip1271 Support by danfinlay · Pull Request #34 · delegatable/delegatable-sol",
-          "imageUrl": "https://avatars.githubusercontent.com/u/542863?s=400&v=4"
-        },
-        {
           "id": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a?mod=e2tw",
           "author": null,
           "description": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, Energy Department Now Says",
           "link": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a?mod=e2tw",
           "publishedOn": "2023-02-26T21:00:03.000Z",
-          "wordCount": 7861,
+          "wordCount": 7863,
           "title": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, Energy Department Now Says",
           "imageUrl": "https://images.wsj.net/im-731640/social"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/epa-halts-norfolk-southerns-removal-toxic-ohio-train-derailment-debris",
-          "author": null,
-          "description": "EPA Halts Norfolk Southern's Removal Of Toxic Ohio Train Derailment Debris | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/epa-halts-norfolk-southerns-removal-toxic-ohio-train-derailment-debris",
-          "publishedOn": "2023-02-26T21:00:03.000Z",
-          "wordCount": 883,
-          "title": "EPA Halts Norfolk Southern's Removal Of Toxic Ohio Train Derailment Debris | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/bush-era-us-ambassador-accuses-israel-creeping-annexation-west-bank",
-          "author": null,
-          "description": "Bush-Era US Ambassador Accuses Israel Of 'Creeping Annexation' Of West Bank | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/bush-era-us-ambassador-accuses-israel-creeping-annexation-west-bank",
-          "publishedOn": "2023-02-26T21:00:03.000Z",
-          "wordCount": 1185,
-          "title": "Bush-Era US Ambassador Accuses Israel Of 'Creeping Annexation' Of West Bank | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/governments-cannot-blame-inflation-energy-anymore",
-          "author": null,
-          "description": "Governments Cannot Blame Inflation On Energy Anymore | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/governments-cannot-blame-inflation-energy-anymore",
-          "publishedOn": "2023-02-26T19:00:03.000Z",
-          "wordCount": 1680,
-          "title": "Governments Cannot Blame Inflation On Energy Anymore | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/zelensky-berates-threatens-unsupportive-americans",
-          "author": null,
-          "description": "Zelensky Berates, Threatens Unsupportive Americans | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/zelensky-berates-threatens-unsupportive-americans",
-          "publishedOn": "2023-02-26T19:00:03.000Z",
-          "wordCount": 946,
-          "title": "Zelensky Berates, Threatens Unsupportive Americans | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://scottaaronson.blog/?p=7042",
@@ -146,14 +146,14 @@
           "imageUrl": "https://149663533.v2.pressablecdn.com/wp-content/uploads/2021/10/cropped-Jacket.gif"
         },
         {
-          "id": "https://www.youtube.com/live/RzcgrWfUhlw?feature=share",
+          "id": "https://www.youtube.com/watch?v=RzcgrWfUhlw&feature=youtu.be",
           "author": null,
           "description": "The COH | C1:S5 | Judgment Day",
-          "link": "https://www.youtube.com/live/RzcgrWfUhlw?feature=share",
+          "link": "https://www.youtube.com/watch?v=RzcgrWfUhlw&feature=youtu.be",
           "publishedOn": "2023-02-26T15:00:03.000Z",
-          "wordCount": 3819,
+          "wordCount": null,
           "title": "The COH | C1:S5 | Judgment Day",
-          "imageUrl": "https://i.ytimg.com/vi/RzcgrWfUhlw/maxresdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
@@ -161,7 +161,7 @@
           "description": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "link": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
           "publishedOn": "2023-02-26T14:00:03.000Z",
-          "wordCount": 7861,
+          "wordCount": 7863,
           "title": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "imageUrl": "https://images.wsj.net/im-731640/social"
         },
@@ -201,7 +201,7 @@
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-26T03:30:03.000Z",
-          "wordCount": 29079,
+          "wordCount": 29087,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
         }
