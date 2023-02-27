@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.obol.tech/road-to-mainnet-and-beyond-for-distributed-validators/",
+          "author": null,
+          "description": "Road to Mainnet for Distributed Validators",
+          "link": "https://blog.obol.tech/road-to-mainnet-and-beyond-for-distributed-validators/",
+          "publishedOn": "2023-02-27T06:00:02.000Z",
+          "wordCount": 2519,
+          "title": "Road to Mainnet for Distributed Validators",
+          "imageUrl": "https://blog.obol.tech/content/images/2023/02/Road-to-Mainnet-3.png"
+        },
+        {
           "id": "https://isethereumasecurity.com/",
           "author": null,
           "description": "Is Ethereum a Security? | Is Ethereum a Security?",
@@ -13,6 +23,16 @@
           "publishedOn": "2023-02-27T05:00:03.000Z",
           "wordCount": 2010,
           "title": "Is Ethereum a Security? | Is Ethereum a Security?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/crypto-friendly-asia-what-it-will-mean-markets",
+          "author": null,
+          "description": "A Crypto Friendly Asia: What It Will Mean For Markets | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/crypto-friendly-asia-what-it-will-mean-markets",
+          "publishedOn": "2023-02-27T05:00:03.000Z",
+          "wordCount": 4082,
+          "title": "A Crypto Friendly Asia: What It Will Mean For Markets | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -66,44 +86,24 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.zerohedge.com/political/project-veritas-staffers-release-new-statement-whistleblowers-say-they-stand-james-okeefe",
+          "author": null,
+          "description": "Project Veritas Staffers Release New Statement As Whistleblowers Say They Stand With James O'Keefe | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/project-veritas-staffers-release-new-statement-whistleblowers-say-they-stand-james-okeefe",
+          "publishedOn": "2023-02-27T05:00:02.000Z",
+          "wordCount": 1100,
+          "title": "Project Veritas Staffers Release New Statement As Whistleblowers Say They Stand With James O'Keefe | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://rettig.substack.com/p/running-is-life?utm_source=twitter&sd=pf",
           "author": null,
           "description": "Running is Life",
           "link": "https://rettig.substack.com/p/running-is-life?utm_source=twitter&sd=pf",
           "publishedOn": "2023-02-27T04:30:02.000Z",
-          "wordCount": 5644,
+          "wordCount": 5438,
           "title": "Running is Life",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5914367e-5933-43c2-b729-2a38a0297145_768x768.png"
-        },
-        {
-          "id": "https://www.lyceummiami.com/",
-          "author": null,
-          "description": "LYCEUM Miami",
-          "link": "https://www.lyceummiami.com/",
-          "publishedOn": "2023-02-27T03:00:03.000Z",
-          "wordCount": 7606,
-          "title": "LYCEUM Miami",
-          "imageUrl": "http://static1.squarespace.com/static/6348740b8f36810bdf72209f/t/63496cb8b950302c3f51cad1/1665756344859/LYCEUMMIAMI_LOGO-01.png?format=1500w"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ngiRX_T6ih8&feature=youtu.be",
-          "author": null,
-          "description": "Raoul Pal: Everything You Need to Know About The RV Collective",
-          "link": "https://www.youtube.com/watch?v=ngiRX_T6ih8&feature=youtu.be",
-          "publishedOn": "2023-02-27T03:00:03.000Z",
-          "wordCount": null,
-          "title": "Raoul Pal: Everything You Need to Know About The RV Collective",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/economics/former-treasury-secretary-admits-doubts-soft-economic-landing-looks-global-institutions",
-          "author": null,
-          "description": "Former Treasury Secretary Admits Doubts On Soft Economic Landing - Looks To Global Institutions For Solutions |...",
-          "link": "https://www.zerohedge.com/economics/former-treasury-secretary-admits-doubts-soft-economic-landing-looks-global-institutions",
-          "publishedOn": "2023-02-27T03:00:03.000Z",
-          "wordCount": 985,
-          "title": "Former Treasury Secretary Admits Doubts On Soft Economic Landing - Looks To Global Institutions For Solutions |...",
-          "imageUrl": null
         },
         {
           "id": "https://www.politico.com/news/2023/02/26/europe-crypto-u-s-00084322",
@@ -141,7 +141,7 @@
           "description": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "link": "https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 3392,
+          "wordCount": 3598,
           "title": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e9206-20b2-402a-9f80-0fa0b4a97bc0_1600x900.png"
         },
@@ -151,7 +151,7 @@
           "description": "Round Tripping",
           "link": "https://pageone.gg/p/round-tripping-87f",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 7323,
+          "wordCount": 4196,
           "title": "Round Tripping",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F903e62ba-8f9a-4797-a050-c023cb3faa51_1614x1208.jpeg"
         },
@@ -161,7 +161,7 @@
           "description": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "link": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
           "publishedOn": "2023-02-26T21:30:03.000Z",
-          "wordCount": 19691,
+          "wordCount": 19688,
           "title": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
           "imageUrl": "https://www.coindesk.com/resizer/Uk6DKZJqj1-zoOEOVfYIpTHTkAY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NUUOEX35RNDDLNPL2FEXGGFCTQ.jpg"
         },
