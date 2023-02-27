@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.trailofbits.com/2023/02/27/reusable-properties-ethereum-contracts-echidna/",
+          "author": null,
+          "description": "Reusable properties for Ethereum contracts",
+          "link": "https://blog.trailofbits.com/2023/02/27/reusable-properties-ethereum-contracts-echidna/",
+          "publishedOn": "2023-02-27T20:30:03.000Z",
+          "wordCount": 2415,
+          "title": "Reusable properties for Ethereum contracts",
+          "imageUrl": "https://i0.wp.com/blog.trailofbits.com/wp-content/uploads/2020/07/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
+          "author": null,
+          "description": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
+          "publishedOn": "2023-02-27T20:00:04.000Z",
+          "wordCount": 1265,
+          "title": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://collective.flashbots.net/t/backrunning-private-transactions-using-multi-party-computation/1198",
           "author": null,
           "description": "Backrunning Private Transactions using Multi-Party Computation",
@@ -26,34 +46,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.rainbowkit.com/",
+          "id": "https://getpurple.xyz/?tab=eth-denver",
           "author": null,
-          "description": "RainbowKit",
-          "link": "https://www.rainbowkit.com/",
+          "description": "Purple",
+          "link": "https://getpurple.xyz/?tab=eth-denver",
           "publishedOn": "2023-02-27T19:00:02.000Z",
-          "wordCount": 615,
-          "title": "RainbowKit",
-          "imageUrl": "https://rainbowkit.com/social/default.png"
-        },
-        {
-          "id": "https://www.stake.capital/content-coc",
-          "author": null,
-          "description": "STAKE CAPITAL - Code Of Conduct",
-          "link": "https://www.stake.capital/content-coc",
-          "publishedOn": "2023-02-27T19:00:02.000Z",
-          "wordCount": 348,
-          "title": "STAKE CAPITAL - Code Of Conduct",
-          "imageUrl": "/assets/logo.png"
-        },
-        {
-          "id": "https://www.reddit.com/r/charts/comments/11d3r7x/tripadvisor_reviews_of_each_us_airline/",
-          "author": null,
-          "description": "r/charts - TripAdvisor Reviews of Each US Airline",
-          "link": "https://www.reddit.com/r/charts/comments/11d3r7x/tripadvisor_reviews_of_each_us_airline/",
-          "publishedOn": "2023-02-27T19:00:02.000Z",
-          "wordCount": 13344,
-          "title": "r/charts - TripAdvisor Reviews of Each US Airline",
-          "imageUrl": "https://preview.redd.it/5dooj0ts2oka1.jpg?auto=webp&v=enabled&s=0f7b7b31563e4cc2646a9f06c9c5d0b1f10476be"
+          "wordCount": 14,
+          "title": "Purple",
+          "imageUrl": "https://d3nfvt6lbqhp16.cloudfront.net/assets/images/meta/purple-og.png"
         },
         {
           "id": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
@@ -96,12 +96,22 @@
           "imageUrl": "https://writings.flashbots.net/img/posts/backrunning-MPC/header.jpg"
         },
         {
+          "id": "https://rotki.com/jobs/backend",
+          "author": null,
+          "description": "python backend developer | rotki",
+          "link": "https://rotki.com/jobs/backend",
+          "publishedOn": "2023-02-27T15:00:02.000Z",
+          "wordCount": 4953,
+          "title": "python backend developer | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
           "id": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "author": null,
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-27T14:30:02.000Z",
-          "wordCount": 29056,
+          "wordCount": 29100,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
         },
@@ -181,19 +191,9 @@
           "description": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "link": "https://rhinoreview.substack.com/p/rhino-review-ethereum-staking-journal",
           "publishedOn": "2023-02-26T23:00:03.000Z",
-          "wordCount": 3400,
+          "wordCount": 3606,
           "title": "🦏 Rhino Review - Ethereum Staking Journal #1",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd93e9206-20b2-402a-9f80-0fa0b4a97bc0_1600x900.png"
-        },
-        {
-          "id": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
-          "author": null,
-          "description": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
-          "link": "https://www.coindesk.com/policy/2023/02/24/crypto-investors-28m-black-thursday-lawsuit-against-defi-giant-maker-dismissed-by-us-judge/?utm_campaign=coindesk_main&utm_medium=social&utm_term=organic&utm_content=editorial&utm_source=twitter",
-          "publishedOn": "2023-02-26T21:30:03.000Z",
-          "wordCount": 19060,
-          "title": "Crypto Investors' $28M ‘Black Thursday’ Lawsuit Against DeFi Giant Maker Dismissed by US Judge",
-          "imageUrl": "https://www.coindesk.com/resizer/Uk6DKZJqj1-zoOEOVfYIpTHTkAY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NUUOEX35RNDDLNPL2FEXGGFCTQ.jpg"
         },
         {
           "id": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
@@ -201,7 +201,7 @@
           "description": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "link": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
           "publishedOn": "2023-02-26T14:00:03.000Z",
-          "wordCount": 8072,
+          "wordCount": 8091,
           "title": "WSJ News Exclusive | Lab Leak Most Likely Origin of Covid-19 Pandemic, U.S. Agency Now Says",
           "imageUrl": "https://images.wsj.net/im-731640/social"
         }
