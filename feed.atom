@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T20:20:55.610Z</id>
+    <id>urn:2023-02-28T21:17:04.468Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T20:20:55.610Z</updated>
+    <updated>2023-02-28T21:17:04.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -71,6 +71,16 @@
         <link href="https://blog.ethereum.org/2023/02/28/devcon-7-update"/>
         <updated>2023-02-28T15:00:03.000Z</updated>
         <summary type="html"><![CDATA[Announcing Devcon 7! | Ethereum Foundation Blog]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Patch Wallet]]></title>
+        <id>https://launch.mirror.xyz/Kwb5Cx_Uj0rrTtR-pnJT0WrVBYa_X-iVpEb1x7SSPNE</id>
+        <link href="https://launch.mirror.xyz/Kwb5Cx_Uj0rrTtR-pnJT0WrVBYa_X-iVpEb1x7SSPNE"/>
+        <updated>2023-02-28T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Patch Wallet]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -181,16 +191,6 @@
         <link href="https://www.theblock.co/post/215504/yuga-labs-drops-bitcoin-based-nft-collection-twelvefold?utm_source=twitter&amp;utm_medium=social"/>
         <updated>2023-02-28T01:00:02.000Z</updated>
         <summary type="html"><![CDATA[Yuga Labs drops bitcoin-based NFT collection TwelveFold]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reusable properties for Ethereum contracts]]></title>
-        <id>https://blog.trailofbits.com/2023/02/27/reusable-properties-ethereum-contracts-echidna/</id>
-        <link href="https://blog.trailofbits.com/2023/02/27/reusable-properties-ethereum-contracts-echidna/"/>
-        <updated>2023-02-27T20:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Reusable properties for Ethereum contracts]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
