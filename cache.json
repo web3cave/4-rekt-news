@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://openordex.org/",
+          "author": null,
+          "description": "OpenOrdex - Open Ordinals Decentralized Exchange",
+          "link": "https://openordex.org/",
+          "publishedOn": "2023-02-28T02:30:02.000Z",
+          "wordCount": 39,
+          "title": "OpenOrdex - Open Ordinals Decentralized Exchange",
+          "imageUrl": "img/screenshot.png"
+        },
+        {
+          "id": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
+          "author": null,
+          "description": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
+          "link": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
+          "publishedOn": "2023-02-28T02:00:04.000Z",
+          "wordCount": 5262,
+          "title": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/q8EZm6T3FUbTJltMfE4T6.png?height=363&width=725&h=363&w=725&auto=compress"
+        },
+        {
           "id": "https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days",
           "author": null,
           "description": "Bitcoin NFTs!?!?! A Wild 30 Days",
@@ -16,14 +36,14 @@
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F287b6c06-82fb-4ffc-8c4d-8749ee2d82b1_1131x1600.png"
         },
         {
-          "id": "https://github.com/djrtwo/writing/blob/main/docs/2023-02-23_2023-Reflections.md",
+          "id": "https://sips.synthetix.io/sips/sip-2003/",
           "author": null,
-          "description": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
-          "link": "https://github.com/djrtwo/writing/blob/main/docs/2023-02-23_2023-Reflections.md",
+          "description": "SIP-2003: Perps V2 Trading Incentives",
+          "link": "https://sips.synthetix.io/sips/sip-2003/",
           "publishedOn": "2023-02-28T01:00:03.000Z",
-          "wordCount": 5260,
-          "title": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
-          "imageUrl": "https://opengraph.githubassets.com/4f79869cc8b752b7e4b5f976886250b214818dd4cdffe9ff0607a1e805625ec7/djrtwo/writing"
+          "wordCount": 805,
+          "title": "SIP-2003: Perps V2 Trading Incentives",
+          "imageUrl": null
         },
         {
           "id": "https://twelvefold.io/",
@@ -71,19 +91,9 @@
           "description": "Uncle Sam could replace Satoshi as the king of digital currency—if U.S. regulators get stablecoins right",
           "link": "https://fortune.com/crypto/2023/02/26/stablecoins-statecraft-uncle-sam-satoshi-digital-currency/",
           "publishedOn": "2023-02-27T20:00:03.000Z",
-          "wordCount": 5816,
+          "wordCount": 5814,
           "title": "Uncle Sam could replace Satoshi as the king of digital currency—if U.S. regulators get stablecoins right",
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/02/Stablecoins_as_stagecraft_Uncle_Sam.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://collective.flashbots.net/t/backrunning-private-transactions-using-multi-party-computation/1198",
-          "author": null,
-          "description": "Backrunning Private Transactions using Multi-Party Computation",
-          "link": "https://collective.flashbots.net/t/backrunning-private-transactions-using-multi-party-computation/1198",
-          "publishedOn": "2023-02-27T19:30:03.000Z",
-          "wordCount": 4693,
-          "title": "Backrunning Private Transactions using Multi-Party Computation",
-          "imageUrl": "https://collective.flashbots.net/uploads/default/optimized/2X/e/e7988629f7e30a4507e1cf5f9a6b5c90fa2b8291_2_1024x512.jpeg"
         },
         {
           "id": "https://solana.sec3.dev/",
@@ -111,7 +121,7 @@
           "description": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
           "link": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
           "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 11452,
+          "wordCount": 12110,
           "title": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63fbf46bdf3e33323a36e761/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         },
@@ -131,7 +141,7 @@
           "description": "UPA Privacy Summit @ BUIDLweek\n · Luma",
           "link": "https://lu.ma/0r6ggwwv",
           "publishedOn": "2023-02-27T15:00:03.000Z",
-          "wordCount": 1374,
+          "wordCount": 1373,
           "title": "UPA Privacy Summit @ BUIDLweek\n · Luma",
           "imageUrl": "https://cdn.lu.ma/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=85,width=1000,height=500/event-covers/k0/91e0b377-c8fb-42c2-9408-b7d30f226513"
         },
@@ -194,16 +204,6 @@
           "wordCount": 1625,
           "title": "Europe entices crypto firms burned by U.S.",
           "imageUrl": "https://static.politico.com/24/b5/7d36fd4242bea2fd3981978c4f67/https-delivery-gettyimages.com/downloads/1238503260"
-        },
-        {
-          "id": "https://corpgov.law.harvard.edu/2017/05/18/looking-behind-the-declining-number-of-public-companies/",
-          "author": null,
-          "description": "Looking Behind the Declining Number of Public Companies",
-          "link": "https://corpgov.law.harvard.edu/2017/05/18/looking-behind-the-declining-number-of-public-companies/",
-          "publishedOn": "2023-02-27T02:00:03.000Z",
-          "wordCount": 4353,
-          "title": "Looking Behind the Declining Number of Public Companies",
-          "imageUrl": "https://corpgov.law.harvard.edu/wp-content/uploads/2021/03/new-shield-facebook.png"
         }
       ]
     }
