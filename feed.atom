@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T08:25:38.928Z</id>
+    <id>urn:2023-02-28T09:20:03.470Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T08:25:38.928Z</updated>
+    <updated>2023-02-28T09:20:03.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -81,6 +81,16 @@
         <link href="https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days"/>
         <updated>2023-02-28T01:00:03.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin NFTs!?!?! A Wild 30 Days]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIP-2003: Perps V2 Trading Incentives]]></title>
+        <id>https://sips.synthetix.io/sips/sip-2003/</id>
+        <link href="https://sips.synthetix.io/sips/sip-2003/"/>
+        <updated>2023-02-28T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[SIP-2003: Perps V2 Trading Incentives]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -173,16 +183,6 @@
         <link href="https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html"/>
         <updated>2023-02-27T14:30:02.000Z</updated>
         <summary type="html"><![CDATA[Gary Gensler on Meeting With SBF and His Crypto Crackdown]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGD. Rescue of tokens locked on Aave. Overview and Phase 1]]></title>
-        <id>https://governance.aave.com/t/bgd-rescue-of-tokens-locked-on-aave-overview-and-phase-1/8150/80</id>
-        <link href="https://governance.aave.com/t/bgd-rescue-of-tokens-locked-on-aave-overview-and-phase-1/8150/80"/>
-        <updated>2023-02-27T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[BGD. Rescue of tokens locked on Aave. Overview and Phase 1]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
