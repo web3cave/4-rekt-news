@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coincenter.org/",
+          "author": null,
+          "description": "Coin Center - The leading non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.",
+          "link": "https://www.coincenter.org/",
+          "publishedOn": "2023-02-28T23:00:02.000Z",
+          "wordCount": 565,
+          "title": "Coin Center - The leading non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.friendsofpooly.com/",
+          "author": null,
+          "description": "Friends of Pooly",
+          "link": "https://www.friendsofpooly.com/",
+          "publishedOn": "2023-02-28T23:00:02.000Z",
+          "wordCount": 3398,
+          "title": "Friends of Pooly",
+          "imageUrl": "http://static1.squarespace.com/static/630a6a055e046a3a592ee33a/t/631219be2c8f6e3a19076281/1667931657431/home_minimal.jpeg?format=1500w"
+        },
+        {
           "id": "https://mirror.xyz/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A/cVcbjamgvc4iw3zFhgpEAdvyoTQXtKXxTx7dCIQCE0Q",
           "author": null,
           "description": "Introducing Lore",
@@ -14,26 +34,6 @@
           "wordCount": 2809,
           "title": "Introducing Lore",
           "imageUrl": "https://mirror-media.imgix.net/nft/YHlTWB_vFILUWBYi_cQeT.png?h=null&w=null&auto=compress"
-        },
-        {
-          "id": "https://podcasts.apple.com/us/podcast/nic-carter-operation-choke-point-2-0s-mission-to-cut/id1438148082?i=1000601996843",
-          "author": null,
-          "description": "‎The Delphi Podcast: Nic Carter: Operation Choke-Point 2.0’s Mission To Cut Crypto Off From The Banking Sector Is...",
-          "link": "https://podcasts.apple.com/us/podcast/nic-carter-operation-choke-point-2-0s-mission-to-cut/id1438148082?i=1000601996843",
-          "publishedOn": "2023-02-28T19:30:04.000Z",
-          "wordCount": 9243,
-          "title": "‎The Delphi Podcast: Nic Carter: Operation Choke-Point 2.0’s Mission To Cut Crypto Off From The Banking Sector Is...",
-          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6d/8e/39/6d8e398d-1975-0773-960d-c0d1e18884e0/mza_5264122656635325073.jpg/1200x630wp.png"
-        },
-        {
-          "id": "https://getblock.net/en/news/crypto-blogger-yuri-boytsov-had-284-000-stolen-in-bitcoins",
-          "author": null,
-          "description": "Crypto blogger Yuri Boytsov had $284 000 stolen in bitcoins",
-          "link": "https://getblock.net/en/news/crypto-blogger-yuri-boytsov-had-284-000-stolen-in-bitcoins",
-          "publishedOn": "2023-02-28T19:30:04.000Z",
-          "wordCount": 1470,
-          "title": "Crypto blogger Yuri Boytsov had $284 000 stolen in bitcoins",
-          "imageUrl": "https://storage.getblock.net/source/1/oZzcexLKT_1FJapiKLk2VZfYCdyDlIZ-.png"
         },
         {
           "id": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
@@ -61,7 +61,7 @@
           "description": "The Original King of Crypto Is Back",
           "link": "https://nymag.com/intelligencer/article/arthur-hayes-bitmex-crypto-interview.html",
           "publishedOn": "2023-02-28T17:00:02.000Z",
-          "wordCount": 33206,
+          "wordCount": 33208,
           "title": "The Original King of Crypto Is Back",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3a8/213/d8e42c546ec297e8a2f40e8c8e4a618913-AH-HRwide.1x.rsocial.w1200.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "link": "https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines",
           "publishedOn": "2023-02-28T14:30:03.000Z",
-          "wordCount": 7913,
+          "wordCount": 7928,
           "title": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "imageUrl": "https://images.wsj.net/im-732904/social"
         },
@@ -101,7 +101,7 @@
           "description": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "link": "https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main",
           "publishedOn": "2023-02-28T14:00:04.000Z",
-          "wordCount": 19072,
+          "wordCount": 19075,
           "title": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "imageUrl": "https://www.coindesk.com/resizer/1egm8BaM516lHqkqQ3STm67O92s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KA23WHV3KNBX3NBTFGYYQPWABI.jpg"
         },
