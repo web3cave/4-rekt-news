@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "publishedOn": "2023-02-28T19:00:03.000Z",
+          "wordCount": 514,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
+        },
+        {
+          "id": "https://www.theblock.co/post/215343/scrolls-zk-evm-layer-2-goes-live-on-ethereums-goerli-testnet",
+          "author": null,
+          "description": "Scroll’s zk-EVM Layer 2 goes live on Ethereum’s Goerli testnet",
+          "link": "https://www.theblock.co/post/215343/scrolls-zk-evm-layer-2-goes-live-on-ethereums-goerli-testnet",
+          "publishedOn": "2023-02-28T18:00:04.000Z",
+          "wordCount": 70788,
+          "title": "Scroll’s zk-EVM Layer 2 goes live on Ethereum’s Goerli testnet",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/scroll-logo-logo-full-color-rgb-svg.png"
+        },
+        {
           "id": "https://www.reuters.com/technology/visa-mastercard-pause-crypto-push-wake-industry-meltdown-sources-2023-02-28/",
           "author": null,
           "description": "Visa, Mastercard pause crypto push in wake of industry meltdown - sources",
           "link": "https://www.reuters.com/technology/visa-mastercard-pause-crypto-push-wake-industry-meltdown-sources-2023-02-28/",
           "publishedOn": "2023-02-28T17:00:03.000Z",
-          "wordCount": 4135,
+          "wordCount": 4174,
           "title": "Visa, Mastercard pause crypto push in wake of industry meltdown - sources",
           "imageUrl": "https://www.reuters.com/resizer/brs4qQ_M9VMooGR7BptMbpMmKkc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZYKTVE5RPVNNHLNKVZPR7XSR3M.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
-          "author": null,
-          "description": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/subprime-auto-lender-and-used-car-retailer-collapses-distress-cycle-finally-arrives",
-          "publishedOn": "2023-02-28T17:00:03.000Z",
-          "wordCount": 1265,
-          "title": "Subprime Auto Lender And Used Car Retailer Collapses As Distress Cycle Finally Arrives | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://nymag.com/intelligencer/article/arthur-hayes-bitmex-crypto-interview.html",
@@ -31,7 +41,7 @@
           "description": "The Original King of Crypto Is Back",
           "link": "https://nymag.com/intelligencer/article/arthur-hayes-bitmex-crypto-interview.html",
           "publishedOn": "2023-02-28T17:00:02.000Z",
-          "wordCount": 32900,
+          "wordCount": 32909,
           "title": "The Original King of Crypto Is Back",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/3a8/213/d8e42c546ec297e8a2f40e8c8e4a618913-AH-HRwide.1x.rsocial.w1200.jpg"
         },
@@ -51,7 +61,7 @@
           "description": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "link": "https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines",
           "publishedOn": "2023-02-28T14:30:03.000Z",
-          "wordCount": 7947,
+          "wordCount": 7899,
           "title": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
           "imageUrl": "https://images.wsj.net/im-732904/social"
         },
@@ -61,7 +71,7 @@
           "description": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "link": "https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main",
           "publishedOn": "2023-02-28T14:00:04.000Z",
-          "wordCount": 18941,
+          "wordCount": 19030,
           "title": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "imageUrl": "https://www.coindesk.com/resizer/1egm8BaM516lHqkqQ3STm67O92s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KA23WHV3KNBX3NBTFGYYQPWABI.jpg"
         },
@@ -101,9 +111,9 @@
           "description": "GitHub - randlabs/encrypted-local-storage",
           "link": "https://github.com/randlabs/encrypted-local-storage",
           "publishedOn": "2023-02-28T03:00:02.000Z",
-          "wordCount": 1117,
+          "wordCount": 1170,
           "title": "GitHub - randlabs/encrypted-local-storage",
-          "imageUrl": "https://opengraph.githubassets.com/de99e5ccd838f62913e5277bffe80fa3b3c8536d1eb961ef05d2b59fa19f80c3/randlabs/encrypted-local-storage"
+          "imageUrl": "https://opengraph.githubassets.com/75544abed5498dd7386b7d71b9e88218196e9a797415835828ac491cdc18093c/randlabs/encrypted-local-storage"
         },
         {
           "id": "https://openordex.org/",
@@ -116,22 +126,12 @@
           "imageUrl": "img/screenshot.png"
         },
         {
-          "id": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
-          "author": null,
-          "description": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
-          "link": "https://rabbithole.mirror.xyz/s1BFIgK1oIDAiQnUpyIJtsfx18zvN0U6tWh4fW76DV8",
-          "publishedOn": "2023-02-28T02:00:04.000Z",
-          "wordCount": 5262,
-          "title": "Beyond Hype: Understanding the Impact of Airdrops on NFT Marketp…",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/q8EZm6T3FUbTJltMfE4T6.png?height=363&width=725&h=363&w=725&auto=compress"
-        },
-        {
           "id": "https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days",
           "author": null,
           "description": "Bitcoin NFTs!?!?! A Wild 30 Days",
           "link": "https://venturepunk.substack.com/p/bitcoin-nfts-a-wild-30-days",
           "publishedOn": "2023-02-28T01:00:03.000Z",
-          "wordCount": 3493,
+          "wordCount": 3492,
           "title": "Bitcoin NFTs!?!?! A Wild 30 Days",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F287b6c06-82fb-4ffc-8c4d-8749ee2d82b1_1131x1600.png"
         },
@@ -161,7 +161,7 @@
           "description": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "link": "https://www.theblock.co/post/215504/yuga-labs-drops-bitcoin-based-nft-collection-twelvefold?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-28T01:00:02.000Z",
-          "wordCount": 68198,
+          "wordCount": 68500,
           "title": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/thumbnail_BTCNFT_BASE12_v10_00001-1-675x675.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-27T14:30:02.000Z",
-          "wordCount": 29068,
+          "wordCount": 29077,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
         }
