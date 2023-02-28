@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.ethereum.org/2023/02/28/devcon-7-update",
+          "author": null,
+          "description": "Announcing Devcon 7! | Ethereum Foundation Blog",
+          "link": "https://blog.ethereum.org/2023/02/28/devcon-7-update",
+          "publishedOn": "2023-02-28T15:00:03.000Z",
+          "wordCount": 2381,
+          "title": "Announcing Devcon 7! | Ethereum Foundation Blog",
+          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_5c48708771e113e99244cbfb722992e6.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines",
+          "author": null,
+          "description": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
+          "link": "https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines",
+          "publishedOn": "2023-02-28T14:30:03.000Z",
+          "wordCount": 7523,
+          "title": "WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.",
+          "imageUrl": "https://images.wsj.net/im-732904/social"
+        },
+        {
           "id": "https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main",
           "author": null,
           "description": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "link": "https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&utm_content=editorial&utm_source=twitter&utm_medium=social&utm_campaign=coindesk_main",
           "publishedOn": "2023-02-28T14:00:04.000Z",
-          "wordCount": 19061,
+          "wordCount": 19025,
           "title": "Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork",
           "imageUrl": "https://www.coindesk.com/resizer/1egm8BaM516lHqkqQ3STm67O92s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KA23WHV3KNBX3NBTFGYYQPWABI.jpg"
-        },
-        {
-          "id": "https://supermodular.xyz/",
-          "author": null,
-          "description": "supermodular.xyz",
-          "link": "https://supermodular.xyz/",
-          "publishedOn": "2023-02-28T13:30:04.000Z",
-          "wordCount": 247,
-          "title": "supermodular.xyz",
-          "imageUrl": "https://supermodular.xyz/images/super-modular-card.png"
         },
         {
           "id": "https://www.youtube.com/watch?v=VEi7rub0jcs",
@@ -61,7 +71,7 @@
           "description": "GitHub - randlabs/encrypted-local-storage",
           "link": "https://github.com/randlabs/encrypted-local-storage",
           "publishedOn": "2023-02-28T03:00:02.000Z",
-          "wordCount": 1170,
+          "wordCount": 1117,
           "title": "GitHub - randlabs/encrypted-local-storage",
           "imageUrl": "https://opengraph.githubassets.com/4cb2299625190cd9f11818cef7aaf35d9576a070520d819060fdf4880e78a9fb/randlabs/encrypted-local-storage"
         },
@@ -121,7 +131,7 @@
           "description": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "link": "https://www.theblock.co/post/215504/yuga-labs-drops-bitcoin-based-nft-collection-twelvefold?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-02-28T01:00:02.000Z",
-          "wordCount": 65792,
+          "wordCount": 67021,
           "title": "Yuga Labs drops bitcoin-based NFT collection TwelveFold",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/thumbnail_BTCNFT_BASE12_v10_00001-1-675x675.jpeg"
         },
@@ -156,24 +166,24 @@
           "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/02/Stablecoins_as_stagecraft_Uncle_Sam.jpg?resize=1200,600"
         },
         {
-          "id": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
+          "id": "https://solana.sec3.dev/",
           "author": null,
-          "description": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
-          "link": "https://www.forbes.com/sites/javierpaz/2023/02/27/binances-asset-shuffling-eerily-similar-to-maneuvers-by-ftx/?sh=12d8872abccd",
-          "publishedOn": "2023-02-27T17:00:03.000Z",
-          "wordCount": 12173,
-          "title": "Binance’s Asset Shuffling Eerily Similar To Maneuvers By FTX",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63fbf46bdf3e33323a36e761/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+          "description": "sec3 security",
+          "link": "https://solana.sec3.dev/",
+          "publishedOn": "2023-02-27T19:30:03.000Z",
+          "wordCount": 10,
+          "title": "sec3 security",
+          "imageUrl": null
         },
         {
-          "id": "https://valitraitors.info/",
+          "id": "https://getpurple.xyz/?tab=eth-denver",
           "author": null,
-          "description": "Valitraitors",
-          "link": "https://valitraitors.info/",
-          "publishedOn": "2023-02-27T17:00:02.000Z",
-          "wordCount": 446,
-          "title": "Valitraitors",
-          "imageUrl": null
+          "description": "Purple",
+          "link": "https://getpurple.xyz/?tab=eth-denver",
+          "publishedOn": "2023-02-27T19:00:02.000Z",
+          "wordCount": 14,
+          "title": "Purple",
+          "imageUrl": "https://d3nfvt6lbqhp16.cloudfront.net/assets/images/meta/purple-og.png"
         },
         {
           "id": "https://writings.flashbots.net/backrunning-private-txs-MPC",
@@ -191,19 +201,9 @@
           "description": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "link": "https://nymag.com/intelligencer/2023/02/gary-gensler-on-meeting-with-sbf-and-his-crypto-crackdown.html",
           "publishedOn": "2023-02-27T14:30:02.000Z",
-          "wordCount": 29105,
+          "wordCount": 29100,
           "title": "Gary Gensler on Meeting With SBF and His Crypto Crackdown",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/aa8/154/456f6fb3c6ab532c255bac8c62cf741b12-gensler.1x.rsocial.w1200.jpg"
-        },
-        {
-          "id": "https://www.politico.com/news/2023/02/26/europe-crypto-u-s-00084322",
-          "author": null,
-          "description": "Europe entices crypto firms burned by U.S.",
-          "link": "https://www.politico.com/news/2023/02/26/europe-crypto-u-s-00084322",
-          "publishedOn": "2023-02-27T03:00:02.000Z",
-          "wordCount": 1625,
-          "title": "Europe entices crypto firms burned by U.S.",
-          "imageUrl": "https://static.politico.com/24/b5/7d36fd4242bea2fd3981978c4f67/https-delivery-gettyimages.com/downloads/1238503260"
         }
       ]
     }
