@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T03:23:38.464Z</id>
+    <id>urn:2023-02-28T04:23:37.505Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T03:23:38.464Z</updated>
+    <updated>2023-02-28T04:23:37.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ANIME ROCK, PAPER, SCISSORS]]></title>
+        <id>https://www.youtube.com/watch?v=GVT3WUa-48Y&amp;feature=youtu.be</id>
+        <link href="https://www.youtube.com/watch?v=GVT3WUa-48Y&amp;feature=youtu.be"/>
+        <updated>2023-02-28T03:30:04.000Z</updated>
+        <summary type="html"><![CDATA[ANIME ROCK, PAPER, SCISSORS]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abuse Is Not Love]]></title>
         <id>https://www.abuseisnotlove.com/</id>
@@ -16,21 +26,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub - randlabs/encrypted-local-storage]]></title>
-        <id>https://github.com/randlabs/encrypted-local-storage</id>
-        <link href="https://github.com/randlabs/encrypted-local-storage"/>
-        <updated>2023-02-28T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[GitHub - randlabs/encrypted-local-storage]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some personal user experiences]]></title>
         <id>https://vitalik.eth.limo/general/2023/02/28/ux.html</id>
         <link href="https://vitalik.eth.limo/general/2023/02/28/ux.html"/>
         <updated>2023-02-28T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[Some personal user experiences]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - randlabs/encrypted-local-storage]]></title>
+        <id>https://github.com/randlabs/encrypted-local-storage</id>
+        <link href="https://github.com/randlabs/encrypted-local-storage"/>
+        <updated>2023-02-28T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub - randlabs/encrypted-local-storage]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -121,16 +131,6 @@
         <link href="https://fortune.com/crypto/2023/02/26/stablecoins-statecraft-uncle-sam-satoshi-digital-currency/"/>
         <updated>2023-02-27T20:00:03.000Z</updated>
         <summary type="html"><![CDATA[Uncle Sam could replace Satoshi as the king of digital currency—if U.S. regulators get stablecoins right]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sec3 security]]></title>
-        <id>https://solana.sec3.dev/</id>
-        <link href="https://solana.sec3.dev/"/>
-        <updated>2023-02-27T19:30:03.000Z</updated>
-        <summary type="html"><![CDATA[sec3 security]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
