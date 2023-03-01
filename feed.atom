@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T05:18:24.447Z</id>
+    <id>urn:2023-03-01T06:25:52.330Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T05:18:24.447Z</updated>
+    <updated>2023-03-01T06:25:52.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -86,6 +86,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zkp-web3-hackathon]]></title>
+        <id>https://rdi.berkeley.edu/zkp-web3-hackathon/</id>
+        <link href="https://rdi.berkeley.edu/zkp-web3-hackathon/"/>
+        <updated>2023-02-28T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[zkp-web3-hackathon]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zero Knowledge Proofs]]></title>
         <id>https://zk-learning.org/</id>
         <link href="https://zk-learning.org/"/>
@@ -161,16 +171,6 @@
         <link href="https://www.wsj.com/articles/huawei-export-licenses-could-be-revoked-by-u-s-567c998d?mod=latest_headlines"/>
         <updated>2023-02-28T14:30:03.000Z</updated>
         <summary type="html"><![CDATA[WSJ News Exclusive | Huawei Export Licenses Could be Revoked by U.S.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork]]></title>
-        <id>https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&amp;utm_content=editorial&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=coindesk_main</id>
-        <link href="https://www.coindesk.com/tech/2023/02/28/second-ethereum-testnet-successfully-simulates-shanghai-hard-fork/?utm_term=organic&amp;utm_content=editorial&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=coindesk_main"/>
-        <updated>2023-02-28T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Second Ethereum Testnet Successfully Simulates Shanghai Hard Fork]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
