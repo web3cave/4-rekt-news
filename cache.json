@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://schellingpoint.gitcoin.co/",
+          "author": null,
+          "description": "SCHELLING POINT DENVER",
+          "link": "https://schellingpoint.gitcoin.co/",
+          "publishedOn": "2023-03-02T06:30:02.000Z",
+          "wordCount": 1075,
+          "title": "SCHELLING POINT DENVER",
+          "imageUrl": "https://schellingpoint.gitcoin.co/images/schelling-point-twitter-card.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/business/2023/03/02/hosts-of-bankless-podcast-raising-35m-crypto-venture-fund-sources/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main",
           "author": null,
           "description": "Hosts of Bankless Podcast Raising $35M Crypto Venture Fund: Sources",
           "link": "https://www.coindesk.com/business/2023/03/02/hosts-of-bankless-podcast-raising-35m-crypto-venture-fund-sources/?utm_source=twitter&utm_term=organic&utm_medium=social&utm_content=editorial&utm_campaign=coindesk_main",
           "publishedOn": "2023-03-02T05:00:02.000Z",
-          "wordCount": 19704,
+          "wordCount": 19667,
           "title": "Hosts of Bankless Podcast Raising $35M Crypto Venture Fund: Sources",
           "imageUrl": "https://www.coindesk.com/resizer/3msGL6WnFicnUpz1Pn7rn_aakQM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/N2TYP6P74NETZB5QR6HW6A2P7I.jpg"
         },
@@ -21,9 +31,9 @@
           "description": "GitHub - blockchain-etl/ethereum-etl: Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks,...",
           "link": "https://github.com/blockchain-etl/ethereum-etl",
           "publishedOn": "2023-03-02T04:30:03.000Z",
-          "wordCount": 1151,
+          "wordCount": 1014,
           "title": "GitHub - blockchain-etl/ethereum-etl: Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks,...",
-          "imageUrl": "https://opengraph.githubassets.com/d08f60110d0fa11e6d5192fd7007536c3fb85100f9d4e36d743e83586ade6290/blockchain-etl/ethereum-etl"
+          "imageUrl": "https://opengraph.githubassets.com/834db26950ab7c9a701687a43d79053ef1491305481dbb5c4c6936e7690ecfc5/blockchain-etl/ethereum-etl"
         },
         {
           "id": "https://www.polygon.technology/blog/polygon-id-open-source-release-brings-better-digital-trust-for-all",
@@ -41,7 +51,7 @@
           "description": "Startup Decoupling & Reckoning",
           "link": "https://blog.eladgil.com/p/startup-decoupling-and-reckoning",
           "publishedOn": "2023-03-02T02:00:04.000Z",
-          "wordCount": 8874,
+          "wordCount": 8868,
           "title": "Startup Decoupling & Reckoning",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10f166be-a9da-4ed0-91a0-817225994ca9_1344x892.png"
         },
@@ -54,16 +64,6 @@
           "wordCount": 556,
           "title": "Spotify",
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aae7ddb231b9124298744b9c6"
-        },
-        {
-          "id": "https://offchain.medium.com/time-boost-a-new-transaction-ordering-policy-for-arbitrum-5b3066382d62",
-          "author": null,
-          "description": "Time boost: a new transaction ordering policy for Arbitrum",
-          "link": "https://offchain.medium.com/time-boost-a-new-transaction-ordering-policy-for-arbitrum-5b3066382d62",
-          "publishedOn": "2023-03-02T01:00:02.000Z",
-          "wordCount": 2656,
-          "title": "Time boost: a new transaction ordering policy for Arbitrum",
-          "imageUrl": "https://miro.medium.com/max/1200/0*qnCYhATMzQO82xwQ.png"
         },
         {
           "id": "https://thedefiant.io/oasis-reverse-exploit-patch",
@@ -81,7 +81,7 @@
           "description": "Ethereum Activates ‘Account Abstraction’ Touted by Co-Founder Buterin as Key Advance",
           "link": "https://www.coindesk.com/tech/2023/03/01/ethereum-activates-account-abstraction-touted-by-founder-buterin-as-key-advance/?utm_campaign=coindesk_main&utm_term=organic&utm_source=twitter&utm_medium=social&utm_content=editorial",
           "publishedOn": "2023-03-01T21:00:03.000Z",
-          "wordCount": 19983,
+          "wordCount": 19946,
           "title": "Ethereum Activates ‘Account Abstraction’ Touted by Co-Founder Buterin as Key Advance",
           "imageUrl": "https://www.coindesk.com/resizer/pL4QDjZ1F_boKpthlDCGdRmOnCQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B5ZTNK3UAZE3ZNKT2N4IFXIC6Y.jpg"
         },
