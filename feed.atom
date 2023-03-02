@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T11:16:51.942Z</id>
+    <id>urn:2023-03-02T12:36:47.051Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T11:16:51.942Z</updated>
+    <updated>2023-03-02T12:36:47.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,16 @@
         <link href="https://www.polygon.technology/blog/polygon-id-open-source-release-brings-better-digital-trust-for-all"/>
         <updated>2023-03-02T03:00:03.000Z</updated>
         <summary type="html"><![CDATA[Polygon ID Open Source Release Brings Better Digital Trust for All]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LACMA + Cactoid Labs]]></title>
+        <id>https://lacma.cactoidlabs.io/</id>
+        <link href="https://lacma.cactoidlabs.io/"/>
+        <updated>2023-03-02T03:00:03.000Z</updated>
+        <summary type="html"><![CDATA[LACMA + Cactoid Labs]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -106,6 +116,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HyperPlay]]></title>
+        <id>https://www.hyperplay.xyz/</id>
+        <link href="https://www.hyperplay.xyz/"/>
+        <updated>2023-03-01T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[HyperPlay]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jumper]]></title>
         <id>https://jumper.exchange/</id>
         <link href="https://jumper.exchange/"/>
@@ -151,26 +171,6 @@
         <link href="https://www.theblock.co/post/216083/mt-gox-creditors-may-finally-start-seeing-their-bitcoins-this-month"/>
         <updated>2023-03-01T17:30:03.000Z</updated>
         <summary type="html"><![CDATA[Mt. Gox creditors may finally start seeing their bitcoins this month]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ARFC] Onboard AgEUR to Aave Optimism V3]]></title>
-        <id>https://governance.aave.com/t/arfc-onboard-ageur-to-aave-optimism-v3/12106</id>
-        <link href="https://governance.aave.com/t/arfc-onboard-ageur-to-aave-optimism-v3/12106"/>
-        <updated>2023-03-01T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[[ARFC] Onboard AgEUR to Aave Optimism V3]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ARFC] Onboard AgEUR to Aave Arbitrum V3]]></title>
-        <id>https://governance.aave.com/t/arfc-onboard-ageur-to-aave-arbitrum-v3/12107</id>
-        <link href="https://governance.aave.com/t/arfc-onboard-ageur-to-aave-arbitrum-v3/12107"/>
-        <updated>2023-03-01T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[[ARFC] Onboard AgEUR to Aave Arbitrum V3]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
