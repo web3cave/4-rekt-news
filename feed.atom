@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T12:35:46.567Z</id>
+    <id>urn:2023-03-03T13:25:23.334Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T12:35:46.567Z</updated>
+    <updated>2023-03-03T13:25:23.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,36 @@
         <link href="https://eips.ethereum.org/EIPS/eip-6046"/>
         <updated>2023-03-03T11:00:02.000Z</updated>
         <summary type="html"><![CDATA[EIP-6046: Replace SELFDESTRUCT with DEACTIVATE]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intro to the Polygon zkEVM with Jordi Baylina]]></title>
+        <id>https://www.youtube.com/watch?v=sIbw5qqiXFk</id>
+        <link href="https://www.youtube.com/watch?v=sIbw5qqiXFk"/>
+        <updated>2023-03-03T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Intro to the Polygon zkEVM with Jordi Baylina]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify]]></title>
+        <id>https://open.spotify.com/episode/1myKAW02KhC93fIREzPgEo?si=fcc52ef07f594a10</id>
+        <link href="https://open.spotify.com/episode/1myKAW02KhC93fIREzPgEo?si=fcc52ef07f594a10"/>
+        <updated>2023-03-03T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Spotify]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts]]></title>
+        <id>https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483</id>
+        <link href="https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483"/>
+        <updated>2023-03-03T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -106,26 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another first: Xapo Bank now supports Lightning Network payments]]></title>
-        <id>https://www.xapobank.com/blog/another-first-xapo-bank-now-supports-lightning-network-payments?utm_source=twitter&amp;utm_medium=video&amp;utm_campaign=gaq12023_owned&amp;utm_content=ln_launch</id>
-        <link href="https://www.xapobank.com/blog/another-first-xapo-bank-now-supports-lightning-network-payments?utm_source=twitter&amp;utm_medium=video&amp;utm_campaign=gaq12023_owned&amp;utm_content=ln_launch"/>
-        <updated>2023-03-03T03:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Another first: Xapo Bank now supports Lightning Network payments]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Orderflow Auction Design Space]]></title>
-        <id>https://frontier.tech/the-orderflow-auction-design-space</id>
-        <link href="https://frontier.tech/the-orderflow-auction-design-space"/>
-        <updated>2023-03-03T03:00:03.000Z</updated>
-        <summary type="html"><![CDATA[The Orderflow Auction Design Space]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ethereum Developers Push Back Shanghai Upgrade to Early April]]></title>
         <id>https://blockworks.co/news/ethereum-developers-push-back-shanghai?nocache</id>
         <link href="https://blockworks.co/news/ethereum-developers-push-back-shanghai?nocache"/>
@@ -181,16 +191,6 @@
         <link href="https://www.theblock.co/post/216537/coinbase-drops-silvergate-for-signature-for-prime-customers?utm_source=rss&amp;utm_medium=rss"/>
         <updated>2023-03-02T17:00:03.000Z</updated>
         <summary type="html"><![CDATA[Coinbase is no longer accepting, initiating payments with Silvergate]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposed Location: Kuala Lumpur, Malaysia 🇲🇾]]></title>
-        <id>https://forum.devcon.org/t/proposed-location-kuala-lumpur-malaysia/2448</id>
-        <link href="https://forum.devcon.org/t/proposed-location-kuala-lumpur-malaysia/2448"/>
-        <updated>2023-03-02T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Proposed Location: Kuala Lumpur, Malaysia 🇲🇾]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
