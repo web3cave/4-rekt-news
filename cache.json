@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://podcasts.apple.com/us/podcast/this-is-the-most-important-thing-on-bitcoin-in-the-past/id1350649166?i=1000602448305",
+          "id": "https://lacma.cactoidlabs.io/",
           "author": null,
-          "description": "‎The Blockcrunch Podcast: “This is the Most Important Thing on Bitcoin in the Past 5 Years” - Stack’s Muneeb Ali on...",
-          "link": "https://podcasts.apple.com/us/podcast/this-is-the-most-important-thing-on-bitcoin-in-the-past/id1350649166?i=1000602448305",
-          "publishedOn": "2023-03-03T20:00:04.000Z",
-          "wordCount": 10406,
-          "title": "‎The Blockcrunch Podcast: “This is the Most Important Thing on Bitcoin in the Past 5 Years” - Stack’s Muneeb Ali on...",
-          "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts112/v4/85/f0/ab/85f0ab37-c70f-2b59-4527-6571ca4f0f9b/mza_9538112224270508865.jpg/1200x630wp.png"
+          "description": "LACMA + Cactoid Labs",
+          "link": "https://lacma.cactoidlabs.io/",
+          "publishedOn": "2023-03-03T20:30:03.000Z",
+          "wordCount": 641,
+          "title": "LACMA + Cactoid Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483",
+          "author": null,
+          "description": "‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts",
+          "link": "https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483",
+          "publishedOn": "2023-03-03T20:30:03.000Z",
+          "wordCount": 9367,
+          "title": "‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts",
+          "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/fd/53/cafd5395-a0b5-76d2-443c-ed8d8fc439a0/mza_9999863897578528300.jpg/1200x630wp.png"
+        },
+        {
+          "id": "https://blog.blockstream.com/core-lightning-23-02/",
+          "author": null,
+          "description": "Core Lightning v23.02: \"CBDC Backing Layer\"",
+          "link": "https://blog.blockstream.com/core-lightning-23-02/",
+          "publishedOn": "2023-03-03T20:30:03.000Z",
+          "wordCount": 1444,
+          "title": "Core Lightning v23.02: \"CBDC Backing Layer\"",
+          "imageUrl": "https://blog.blockstream.com/content/images/2023/03/23-02-release-img.png"
         },
         {
           "id": "https://www.galaxy.com/research/whitepapers/bitcoin-ordinals-inscriptions-5-billion-nft-market/",
@@ -96,30 +116,20 @@
           "imageUrl": null
         },
         {
-          "id": "https://open.spotify.com/episode/48ClrMh2EnKzmHeb36C5a8",
-          "author": null,
-          "description": "“This is the Most Important Thing on Bitcoin in the Past 5 Years” - Stack’s Muneeb Ali on Bitcoin Ordinals, Ep. 231",
-          "link": "https://open.spotify.com/episode/48ClrMh2EnKzmHeb36C5a8",
-          "publishedOn": "2023-03-03T03:00:03.000Z",
-          "wordCount": 649,
-          "title": "“This is the Most Important Thing on Bitcoin in the Past 5 Years” - Stack’s Muneeb Ali on Bitcoin Ordinals, Ep. 231",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8ac8888e889d5b712d01124b05"
-        },
-        {
           "id": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/",
           "author": null,
           "description": "FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strategy | The White House",
           "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/",
           "publishedOn": "2023-03-03T03:00:03.000Z",
-          "wordCount": 1548,
+          "wordCount": 3040,
           "title": "FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strategy | The White House",
           "imageUrl": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
         },
         {
-          "id": "https://blueskyweb.org/blog/3-2-2023-bluesky-beta-app",
+          "id": "https://blueskyweb.xyz/blog/3-2-2023-bluesky-beta-app",
           "author": null,
           "description": "Bluesky Private Beta Update",
-          "link": "https://blueskyweb.org/blog/3-2-2023-bluesky-beta-app",
+          "link": "https://blueskyweb.xyz/blog/3-2-2023-bluesky-beta-app",
           "publishedOn": "2023-03-03T03:00:03.000Z",
           "wordCount": 1523,
           "title": "Bluesky Private Beta Update",
@@ -136,22 +146,12 @@
           "imageUrl": "https://www.wfla.com/wp-content/uploads/sites/71/2022/10/GettyImages-623826556.jpg?w=1280"
         },
         {
-          "id": "https://www.xapobank.com/blog/another-first-xapo-bank-now-supports-lightning-network-payments?utm_source=twitter&utm_medium=video&utm_campaign=gaq12023_owned&utm_content=ln_launch",
-          "author": null,
-          "description": "Another first: Xapo Bank now supports Lightning Network payments",
-          "link": "https://www.xapobank.com/blog/another-first-xapo-bank-now-supports-lightning-network-payments?utm_source=twitter&utm_medium=video&utm_campaign=gaq12023_owned&utm_content=ln_launch",
-          "publishedOn": "2023-03-03T03:00:03.000Z",
-          "wordCount": 1664,
-          "title": "Another first: Xapo Bank now supports Lightning Network payments",
-          "imageUrl": "https://assets-global.website-files.com/63e50679266c6faf1406bae0/63ffaa939775a95e16702036_Xapo%20Bank%20Blog_%20Lightning%20Network.webp"
-        },
-        {
           "id": "https://stonecoldpat.substack.com/p/sharp-superchain-layer-3s-temporary",
           "author": null,
           "description": "SHARP? SuperChain? Layer-3s? Temporary Rollups? AHHHHHH",
           "link": "https://stonecoldpat.substack.com/p/sharp-superchain-layer-3s-temporary",
           "publishedOn": "2023-03-03T03:00:03.000Z",
-          "wordCount": 7580,
+          "wordCount": 7577,
           "title": "SHARP? SuperChain? Layer-3s? Temporary Rollups? AHHHHHH",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09f8531c-fe11-4163-82f1-e7c9e7865195_2850x1344.png"
         },
@@ -171,7 +171,7 @@
           "description": "Ethereum Developers Push Back Shanghai Upgrade to Early April",
           "link": "https://blockworks.co/news/ethereum-developers-push-back-shanghai?nocache",
           "publishedOn": "2023-03-03T03:00:02.000Z",
-          "wordCount": 20306,
+          "wordCount": 21190,
           "title": "Ethereum Developers Push Back Shanghai Upgrade to Early April",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/hashrate-after-the-ethereum-merge.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "SEC Chair Gensler Says Crypto Exchanges May Not Be 'Qualified Custodians'",
           "link": "https://www.coindesk.com/policy/2023/03/02/sec-chair-gensler-says-crypto-exchanges-may-not-be-qualified-custodians/",
           "publishedOn": "2023-03-02T19:00:03.000Z",
-          "wordCount": 21125,
+          "wordCount": 20929,
           "title": "SEC Chair Gensler Says Crypto Exchanges May Not Be 'Qualified Custodians'",
           "imageUrl": "https://www.coindesk.com/resizer/GaDRGzjyLyNxtw-S6bdlPmNo944=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEEOCADY6VGBXPGIE76JMNORW4.jpg"
         },
