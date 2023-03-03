@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/tech/2023/03/03/flashbots-open-sources-privacy-enhanced-block-builder-on-ethereum-testnet-sepolia/?utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter",
+          "author": null,
+          "description": "Flashbots Makes Privacy-Enhanced Block Builder Open Source on Ethereum Testnet Sepolia",
+          "link": "https://www.coindesk.com/tech/2023/03/03/flashbots-open-sources-privacy-enhanced-block-builder-on-ethereum-testnet-sepolia/?utm_campaign=coindesk_main&utm_term=organic&utm_content=editorial&utm_medium=social&utm_source=twitter",
+          "publishedOn": "2023-03-03T22:30:03.000Z",
+          "wordCount": 20291,
+          "title": "Flashbots Makes Privacy-Enhanced Block Builder Open Source on Ethereum Testnet Sepolia",
+          "imageUrl": "https://www.coindesk.com/resizer/CFFvMw--bUGF0yo3p44Xfgflu8Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VDC4ZL3EP5EKJI3XS7XNLJFV4Q.jpg"
+        },
+        {
           "id": "https://www.coindesk.com/consensus-magazine/2023/03/03/ethdenver-looks-cringey-to-you-because-ethereum-has-an-actual-community/",
           "author": null,
           "description": "ETHDenver Looks Cringey to You Because Ethereum Has an Actual Community",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/03/ethdenver-looks-cringey-to-you-because-ethereum-has-an-actual-community/",
           "publishedOn": "2023-03-03T22:00:03.000Z",
-          "wordCount": 23484,
+          "wordCount": 23478,
           "title": "ETHDenver Looks Cringey to You Because Ethereum Has an Actual Community",
           "imageUrl": "https://www.coindesk.com/resizer/-E6LTCTe6XzXLxV3C5fKEiy0glg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TNITSWBSJZESVLBQ5WMH63RIG4.jpg"
+        },
+        {
+          "id": "https://writings.flashbots.net/block-building-inside-sgx",
+          "author": null,
+          "description": "Block Building inside SGX | Flashbots",
+          "link": "https://writings.flashbots.net/block-building-inside-sgx",
+          "publishedOn": "2023-03-03T21:30:03.000Z",
+          "wordCount": 1108,
+          "title": "Block Building inside SGX | Flashbots",
+          "imageUrl": "https://writings.flashbots.net/img/posts/sgx-og.jpg"
         },
         {
           "id": "https://lacma.cactoidlabs.io/",
@@ -24,16 +44,6 @@
           "wordCount": 641,
           "title": "LACMA + Cactoid Labs",
           "imageUrl": null
-        },
-        {
-          "id": "https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483",
-          "author": null,
-          "description": "‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts",
-          "link": "https://podcasts.apple.com/us/podcast/jordi-baylina-a-deep-dive-into-the-polygon-zkevm/id1642468048?i=1000602458483",
-          "publishedOn": "2023-03-03T20:30:03.000Z",
-          "wordCount": 9324,
-          "title": "‎Devs Do Something: A Deep Dive into the Polygon zkEVM with Jordi Baylina on Apple Podcasts",
-          "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ca/fd/53/cafd5395-a0b5-76d2-443c-ed8d8fc439a0/mza_9999863897578528300.jpg/1200x630wp.png"
         },
         {
           "id": "https://www.galaxy.com/research/whitepapers/bitcoin-ordinals-inscriptions-5-billion-nft-market/",
@@ -51,9 +61,9 @@
           "description": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 · Pull Request #73 ·...",
           "link": "https://github.com/facebookresearch/llama/pull/73",
           "publishedOn": "2023-03-03T17:00:03.000Z",
-          "wordCount": 3026,
+          "wordCount": 3419,
           "title": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 · Pull Request #73 ·...",
-          "imageUrl": "https://opengraph.githubassets.com/b9865197a71524b23a10118440d62e24cfefe48ea4ddc1ddfbdfcc67903bb344/facebookresearch/llama/pull/73"
+          "imageUrl": "https://opengraph.githubassets.com/ec3f0ce11cc81c3d30c8259f609b11a87703fd23e448325f18aad265c7edd2ee/facebookresearch/llama/pull/73"
         },
         {
           "id": "https://unchainedcrypto.com/podcast/bitcoin-ordinal-nfts-are-hot-and-getting-hotter-whats-the-hype-about/",
@@ -151,7 +161,7 @@
           "description": "Florida bill would require bloggers who write about governor to register with the state",
           "link": "https://www.wfla.com/news/politics/florida-bill-would-require-bloggers-who-write-about-governor-to-register-with-the-state/",
           "publishedOn": "2023-03-03T03:00:03.000Z",
-          "wordCount": 8147,
+          "wordCount": 8125,
           "title": "Florida bill would require bloggers who write about governor to register with the state",
           "imageUrl": "https://www.wfla.com/wp-content/uploads/sites/71/2022/10/GettyImages-623826556.jpg?w=1280"
         },
@@ -164,16 +174,6 @@
           "wordCount": 7580,
           "title": "SHARP? SuperChain? Layer-3s? Temporary Rollups? AHHHHHH",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09f8531c-fe11-4163-82f1-e7c9e7865195_2850x1344.png"
-        },
-        {
-          "id": "https://blockworks.co/news/ethereum-developers-push-back-shanghai?nocache",
-          "author": null,
-          "description": "Ethereum Developers Push Back Shanghai Upgrade to Early April",
-          "link": "https://blockworks.co/news/ethereum-developers-push-back-shanghai?nocache",
-          "publishedOn": "2023-03-03T03:00:02.000Z",
-          "wordCount": 21192,
-          "title": "Ethereum Developers Push Back Shanghai Upgrade to Early April",
-          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/hashrate-after-the-ethereum-merge.jpg"
         },
         {
           "id": "https://alpha.near.org/",
@@ -191,7 +191,7 @@
           "description": "SEC Chair Gensler Says Crypto Exchanges May Not Be 'Qualified Custodians'",
           "link": "https://www.coindesk.com/policy/2023/03/02/sec-chair-gensler-says-crypto-exchanges-may-not-be-qualified-custodians/",
           "publishedOn": "2023-03-02T19:00:03.000Z",
-          "wordCount": 20772,
+          "wordCount": 20770,
           "title": "SEC Chair Gensler Says Crypto Exchanges May Not Be 'Qualified Custodians'",
           "imageUrl": "https://www.coindesk.com/resizer/GaDRGzjyLyNxtw-S6bdlPmNo944=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HEEOCADY6VGBXPGIE76JMNORW4.jpg"
         },
