@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/clip/Ugkx7LeQPvONM0OFOfAUazyjf0JSj_9y7Tqw",
+          "author": null,
+          "description": "✂️ Vitalik's Tornado v2",
+          "link": "https://www.youtube.com/clip/Ugkx7LeQPvONM0OFOfAUazyjf0JSj_9y7Tqw",
+          "publishedOn": "2023-03-04T21:00:03.000Z",
+          "wordCount": 4542,
+          "title": "✂️ Vitalik's Tornado v2",
+          "imageUrl": "https://i.ytimg.com/vi/GUhDXUA4mfQ/maxresdefault.jpg"
+        },
+        {
+          "id": "https://www.lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate",
+          "author": null,
+          "description": "The Hanson-Yudkowsky AI-Foom Debate - LessWrong",
+          "link": "https://www.lesswrong.com/tag/the-hanson-yudkowsky-ai-foom-debate",
+          "publishedOn": "2023-03-04T21:00:02.000Z",
+          "wordCount": null,
+          "title": "The Hanson-Yudkowsky AI-Foom Debate - LessWrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://developers.flow.com/account-linking",
+          "author": null,
+          "description": "Account Linking Overview",
+          "link": "https://developers.flow.com/account-linking",
+          "publishedOn": "2023-03-04T21:00:02.000Z",
+          "wordCount": 1349,
+          "title": "Account Linking Overview",
+          "imageUrl": "https://flow-og-image.vercel.app/**Account Linking Overview**%20Flow Developer Documentation.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fstorage.googleapis.com%2Fflow-resources%2Fdocumentation-assets%2Fflow-docs.png&widths=auto&heights=350\""
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/india-next-front-war-brics",
+          "author": null,
+          "description": "India: The Next Front In The War On The BRICS | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/india-next-front-war-brics",
+          "publishedOn": "2023-03-04T21:00:02.000Z",
+          "wordCount": 3392,
+          "title": "India: The Next Front In The War On The BRICS | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/watch-samantha-power-lets-slip-us-war-russia-ukrainians-doing-fighting",
+          "author": null,
+          "description": "Watch: Samantha Power Lets Slip The US Is At War With Russia, But \"Ukrainians Doing The Fighting\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/watch-samantha-power-lets-slip-us-war-russia-ukrainians-doing-fighting",
+          "publishedOn": "2023-03-04T21:00:02.000Z",
+          "wordCount": 737,
+          "title": "Watch: Samantha Power Lets Slip The US Is At War With Russia, But \"Ukrainians Doing The Fighting\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ameensol/privacy-pools",
           "author": null,
           "description": "GitHub - ameensol/privacy-pools",
@@ -14,36 +64,6 @@
           "wordCount": 2399,
           "title": "GitHub - ameensol/privacy-pools",
           "imageUrl": "https://opengraph.githubassets.com/695f442750353dd340f0b2b5af42e73787974d143cce6e1e9e86183d06d43eba/ameensol/privacy-pools"
-        },
-        {
-          "id": "https://github.com/ameensol/pools-ui",
-          "author": null,
-          "description": "GitHub - ameensol/pools-ui",
-          "link": "https://github.com/ameensol/pools-ui",
-          "publishedOn": "2023-03-04T19:00:02.000Z",
-          "wordCount": 749,
-          "title": "GitHub - ameensol/pools-ui",
-          "imageUrl": "https://opengraph.githubassets.com/68807f342c771a37be9a9f2f4630d0970cb44a228cd6cb8b41aea43b8a859a79/ameensol/pools-ui"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/russia-suspended-new-start-because-attacks-strategic-sites",
-          "author": null,
-          "description": "Russia Suspended New START Because Of Attacks On Strategic Sites | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/russia-suspended-new-start-because-attacks-strategic-sites",
-          "publishedOn": "2023-03-04T19:00:02.000Z",
-          "wordCount": 888,
-          "title": "Russia Suspended New START Because Of Attacks On Strategic Sites | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/first-time-homebuyers-are-absolutely-screwed-right-now",
-          "author": null,
-          "description": "First-Time Homebuyers Are Absolutely Screwed Right Now | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/first-time-homebuyers-are-absolutely-screwed-right-now",
-          "publishedOn": "2023-03-04T18:00:05.000Z",
-          "wordCount": 2101,
-          "title": "First-Time Homebuyers Are Absolutely Screwed Right Now | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=mG38t1chZ5I&ab_channel=UnchainedPodcast",
@@ -64,26 +84,6 @@
           "wordCount": 2748,
           "title": "Why Nostr Matters",
           "imageUrl": "https://blog.lopp.net/content/images/2023/03/ostrich.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/brace-yourself-extreme-economic-turbulence",
-          "author": null,
-          "description": "Brace Yourself For Extreme Economic Turbulence | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/brace-yourself-extreme-economic-turbulence",
-          "publishedOn": "2023-03-04T17:00:02.000Z",
-          "wordCount": 2396,
-          "title": "Brace Yourself For Extreme Economic Turbulence | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/twitter-challenges-persist-december-revenues-adjusted-earnings-dropped-40",
-          "author": null,
-          "description": "Twitter Challenges Persist As December Revenues, Adjusted Earnings Dropped 40% | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/twitter-challenges-persist-december-revenues-adjusted-earnings-dropped-40",
-          "publishedOn": "2023-03-04T17:00:02.000Z",
-          "wordCount": 967,
-          "title": "Twitter Challenges Persist As December Revenues, Adjusted Earnings Dropped 40% | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://unchainedcrypto.com/podcast-chopping-block/the-chopping-block-is-coinbases-base-the-binance-smart-chain-for-white-people/",
@@ -171,7 +171,7 @@
           "description": "ETHDenver Looks Cringey to You Because Ethereum Has an Actual Community",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/03/ethdenver-looks-cringey-to-you-because-ethereum-has-an-actual-community/",
           "publishedOn": "2023-03-03T22:00:03.000Z",
-          "wordCount": 22728,
+          "wordCount": 22727,
           "title": "ETHDenver Looks Cringey to You Because Ethereum Has an Actual Community",
           "imageUrl": "https://www.coindesk.com/resizer/-E6LTCTe6XzXLxV3C5fKEiy0glg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TNITSWBSJZESVLBQ5WMH63RIG4.jpg"
         },
