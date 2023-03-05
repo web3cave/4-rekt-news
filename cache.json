@@ -6,6 +6,56 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://arxiv.org/abs/2103.14769",
+          "author": null,
+          "description": "Replicating Market Makers",
+          "link": "https://arxiv.org/abs/2103.14769",
+          "publishedOn": "2023-03-05T21:00:03.000Z",
+          "wordCount": 555,
+          "title": "Replicating Market Makers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.primitive.xyz/papers/yellow.pdf",
+          "author": null,
+          "description": "[PDF] yellow.pdf",
+          "link": "https://www.primitive.xyz/papers/yellow.pdf",
+          "publishedOn": "2023-03-05T21:00:03.000Z",
+          "wordCount": 16087,
+          "title": "[PDF] yellow.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/4eWrEJnQITrx4Oc91srQ8D?si=l0oBAQLoQjuSucSsg_ilSA",
+          "publishedOn": "2023-03-05T21:00:03.000Z",
+          "wordCount": 514,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
+        },
+        {
+          "id": "https://github.com/blunt-instruments/rtb",
+          "author": null,
+          "description": "GitHub - blunt-instruments/rtb: Real-time bidding API scaffold for MevWallet transactions",
+          "link": "https://github.com/blunt-instruments/rtb",
+          "publishedOn": "2023-03-05T21:00:03.000Z",
+          "wordCount": 1133,
+          "title": "GitHub - blunt-instruments/rtb: Real-time bidding API scaffold for MevWallet transactions",
+          "imageUrl": "https://opengraph.githubassets.com/789470856579f91652c2f4bf7bbf5606f97d82b270b71172ed133f3500ace793/blunt-instruments/rtb"
+        },
+        {
+          "id": "https://www.zerohedge.com/economics/china-peoples-congress-reveals-conservative-gdp-target-just-5-2023",
+          "author": null,
+          "description": "China People's Congress Reveals Conservative GDP Target Of Just 5% For 2023 | ZeroHedge",
+          "link": "https://www.zerohedge.com/economics/china-peoples-congress-reveals-conservative-gdp-target-just-5-2023",
+          "publishedOn": "2023-03-05T21:00:02.000Z",
+          "wordCount": 2516,
+          "title": "China People's Congress Reveals Conservative GDP Target Of Just 5% For 2023 | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/weather/help-us-southern-california-mountain-residents-go-survival-mode-after-snowpocalypse",
           "author": null,
           "description": "\"HELP US!!\": Southern California Mountain Residents Go Into Survival Mode After Snowpocalypse | ZeroHedge",
@@ -26,6 +76,16 @@
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Gary-Gensler-SEC-1200x675.jpg"
         },
         {
+          "id": "https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/",
+          "author": null,
+          "description": "Sovereign rollups on Bitcoin with Rollkit | Rollkit",
+          "link": "https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/",
+          "publishedOn": "2023-03-05T19:45:03.000Z",
+          "wordCount": 885,
+          "title": "Sovereign rollups on Bitcoin with Rollkit | Rollkit",
+          "imageUrl": "https://rollkit.dev/img/Rollkit-og.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_V5J4FjOMDQ",
           "author": null,
           "description": "How crypto can regenerate the world - Kevin Owocki ETHDenver 2023 Talk",
@@ -34,26 +94,6 @@
           "wordCount": null,
           "title": "How crypto can regenerate the world - Kevin Owocki ETHDenver 2023 Talk",
           "imageUrl": null
-        },
-        {
-          "id": "https://d14n.info/",
-          "author": null,
-          "description": "Measuring Decentralization for Gnosis Chain and Ethereum",
-          "link": "https://d14n.info/",
-          "publishedOn": "2023-03-05T19:00:02.000Z",
-          "wordCount": 13,
-          "title": "Measuring Decentralization for Gnosis Chain and Ethereum",
-          "imageUrl": "/images/og_thumbnail.png"
-        },
-        {
-          "id": "https://raoulpal.substack.com/p/the-economies-of-crypto?sd=pf",
-          "author": null,
-          "description": "The Economies of Crypto",
-          "link": "https://raoulpal.substack.com/p/the-economies-of-crypto?sd=pf",
-          "publishedOn": "2023-03-05T19:00:02.000Z",
-          "wordCount": 3869,
-          "title": "The Economies of Crypto",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b9f14a1-0b3f-40b9-abb0-b5fd511726fa_4500x3000.jpeg"
         },
         {
           "id": "https://www.zerohedge.com/geopolitical/viktor-orban-war-taking-place-europe-americans-have-final-word",
@@ -66,54 +106,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/easy-jobs-are-mostly-gone",
-          "author": null,
-          "description": "The Easy Jobs Are (Mostly) Gone | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/easy-jobs-are-mostly-gone",
-          "publishedOn": "2023-03-05T19:00:02.000Z",
-          "wordCount": 1874,
-          "title": "The Easy Jobs Are (Mostly) Gone | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/bidens-executive-order-nightmare-government-will-track-every-dime-you-spend",
-          "author": null,
-          "description": "Biden's Executive Order Nightmare: Government Will Track Every Dime You Spend | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/bidens-executive-order-nightmare-government-will-track-every-dime-you-spend",
-          "publishedOn": "2023-03-05T19:00:02.000Z",
-          "wordCount": 1054,
-          "title": "Biden's Executive Order Nightmare: Government Will Track Every Dime You Spend | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/matt-king-explains-why-stocks-refuse-go-down-two-minutes",
-          "author": null,
-          "description": "Matt King Explains Why Stocks Refuse To Go Down In Two Minutes | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/matt-king-explains-why-stocks-refuse-go-down-two-minutes",
-          "publishedOn": "2023-03-05T17:30:03.000Z",
-          "wordCount": 425,
-          "title": "Matt King Explains Why Stocks Refuse To Go Down In Two Minutes | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://michellerempelgarner.substack.com/p/is-it-time-to-hit-the-pause-button",
           "author": null,
           "description": "Is it time to hit the pause button on AI?",
           "link": "https://michellerempelgarner.substack.com/p/is-it-time-to-hit-the-pause-button",
           "publishedOn": "2023-03-05T17:00:02.000Z",
-          "wordCount": 3873,
+          "wordCount": 3667,
           "title": "Is it time to hit the pause button on AI?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa148c01c-4150-4d09-b1f8-5b74a4c8afb4_1024x1024.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/employers-frequently-overlook-resumes-including-theythem-pronouns",
-          "author": null,
-          "description": "Employers Frequently Overlook Resumes Which Include \"They/Them\" Pronouns | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/employers-frequently-overlook-resumes-including-theythem-pronouns",
-          "publishedOn": "2023-03-05T17:00:02.000Z",
-          "wordCount": 1897,
-          "title": "Employers Frequently Overlook Resumes Which Include \"They/Them\" Pronouns | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
@@ -201,7 +201,7 @@
           "description": "Multicoin Capital’s Hedge Fund Lost 91.4% Last Year, Investor Letter Reveals",
           "link": "https://www.coindesk.com/business/2023/03/04/multicoin-capitals-hedge-fund-lost-914-last-year-investor-letter-reveals/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main",
           "publishedOn": "2023-03-04T23:00:02.000Z",
-          "wordCount": 20487,
+          "wordCount": 20481,
           "title": "Multicoin Capital’s Hedge Fund Lost 91.4% Last Year, Investor Letter Reveals",
           "imageUrl": "https://www.coindesk.com/resizer/TBBCgl12Pmxg1TJQ4PRy4GoXjkE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6WZVRHKM3ZGNZO6HD3M3HQIBFM.jpg"
         }
