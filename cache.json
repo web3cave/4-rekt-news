@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://clientdiversity.org/",
+          "author": null,
+          "description": "Client Diversity | Ethereum",
+          "link": "https://clientdiversity.org/",
+          "publishedOn": "2023-03-05T12:30:02.000Z",
+          "wordCount": 696,
+          "title": "Client Diversity | Ethereum",
+          "imageUrl": "/assets/img/cover/cover.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vL3Kw7rHErM",
           "author": null,
           "description": "This Adventure Rig Has a Crane, a Shop, and May Survive the End of Times",
@@ -76,12 +86,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=LqBhtnO9ob8&feature=youtu.be",
+          "author": null,
+          "description": "Gabriel is Ranting #2 - King of Cringe (ETH Denver)",
+          "link": "https://www.youtube.com/watch?v=LqBhtnO9ob8&feature=youtu.be",
+          "publishedOn": "2023-03-05T06:00:05.000Z",
+          "wordCount": null,
+          "title": "Gabriel is Ranting #2 - King of Cringe (ETH Denver)",
+          "imageUrl": null
+        },
+        {
           "id": "https://sceneswithsimon.substack.com/p/why-nft-royalties-matter",
           "author": null,
           "description": "Why NFT Royalties Matter",
           "link": "https://sceneswithsimon.substack.com/p/why-nft-royalties-matter",
           "publishedOn": "2023-03-05T06:00:05.000Z",
-          "wordCount": 6177,
+          "wordCount": 5971,
           "title": "Why NFT Royalties Matter",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c36e186-0964-4f28-aedb-b42a396c73d1_2532x1268.png"
         },
@@ -116,26 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/personal-finance/these-are-most-and-least-expensive-cities-live",
-          "author": null,
-          "description": "These Are The Most (And Least) Expensive Cities To Live In | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/these-are-most-and-least-expensive-cities-live",
-          "publishedOn": "2023-03-05T05:00:02.000Z",
-          "wordCount": 1152,
-          "title": "These Are The Most (And Least) Expensive Cities To Live In | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_OpC4fH3mEk",
-          "author": null,
-          "description": "How Long Would Society Last During a Total Grid Collapse?",
-          "link": "https://www.youtube.com/watch?v=_OpC4fH3mEk",
-          "publishedOn": "2023-03-05T04:30:02.000Z",
-          "wordCount": null,
-          "title": "How Long Would Society Last During a Total Grid Collapse?",
-          "imageUrl": null
-        },
-        {
           "id": "https://research.stlouisfed.org/publications/review/2023/02/03/tornado-cash-and-blockchain-privacy-a-primer-for-economists-and-policymakers",
           "author": null,
           "description": "Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers | St. Louis Fed",
@@ -151,7 +151,7 @@
           "description": "Multicoin Capital’s Hedge Fund Lost 91.4% Last Year, Investor Letter Reveals",
           "link": "https://www.coindesk.com/business/2023/03/04/multicoin-capitals-hedge-fund-lost-914-last-year-investor-letter-reveals/?utm_medium=social&utm_term=organic&utm_source=twitter&utm_content=editorial&utm_campaign=coindesk_main",
           "publishedOn": "2023-03-04T23:00:02.000Z",
-          "wordCount": 20495,
+          "wordCount": 20489,
           "title": "Multicoin Capital’s Hedge Fund Lost 91.4% Last Year, Investor Letter Reveals",
           "imageUrl": "https://www.coindesk.com/resizer/TBBCgl12Pmxg1TJQ4PRy4GoXjkE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6WZVRHKM3ZGNZO6HD3M3HQIBFM.jpg"
         },
@@ -173,7 +173,7 @@
           "publishedOn": "2023-03-04T19:30:04.000Z",
           "wordCount": 2399,
           "title": "GitHub - ameensol/privacy-pools",
-          "imageUrl": "https://opengraph.githubassets.com/f1975fa2603c91b182d4020f19673d002caee6b9de5f9642bb3c8e88529986dc/ameensol/privacy-pools"
+          "imageUrl": "https://opengraph.githubassets.com/8e765594f6cec10c8d7a041df8e76dc4be324ce34a257435c8bc7c29c14390ed/ameensol/privacy-pools"
         },
         {
           "id": "https://www.youtube.com/watch?v=mG38t1chZ5I&ab_channel=UnchainedPodcast",
