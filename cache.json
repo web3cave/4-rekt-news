@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://anchor.fm/edgepod",
+          "author": null,
+          "description": "The Edge • A podcast on Anchor",
+          "link": "https://anchor.fm/edgepod",
+          "publishedOn": "2023-03-06T03:00:03.000Z",
+          "wordCount": 3956,
+          "title": "The Edge • A podcast on Anchor",
+          "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/36571632/36571632-1675977102966-2eb02f550280c.jpg"
+        },
+        {
+          "id": "https://www.binance.us/",
+          "author": null,
+          "description": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
+          "link": "https://www.binance.us/",
+          "publishedOn": "2023-03-06T03:00:03.000Z",
+          "wordCount": 1389,
+          "title": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
+          "imageUrl": "https://public.bnbstatic.us/static/images/binance_previewImage.png"
+        },
+        {
+          "id": "https://www.wsj.com/articles/texts-from-crypto-giant-binance-reveal-plan-to-elude-u-s-authorities-3a17ddeb",
+          "author": null,
+          "description": "Texts From Crypto Giant Binance Reveal Plan to Elude U.S. Authorities",
+          "link": "https://www.wsj.com/articles/texts-from-crypto-giant-binance-reveal-plan-to-elude-u-s-authorities-3a17ddeb",
+          "publishedOn": "2023-03-06T03:00:02.000Z",
+          "wordCount": 7373,
+          "title": "Texts From Crypto Giant Binance Reveal Plan to Elude U.S. Authorities",
+          "imageUrl": "https://images.wsj.net/im-736222/social"
+        },
+        {
           "id": "https://web3inbox.com/",
           "author": null,
           "description": "Home | Web3Inbox waitlist",
@@ -14,26 +44,6 @@
           "wordCount": 379,
           "title": "Home | Web3Inbox waitlist",
           "imageUrl": "https://minisite-web3inbox-walletconnect1.vercel.app/banner.png"
-        },
-        {
-          "id": "https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/",
-          "author": null,
-          "description": "Space Quest III: The Pirates of Pestulon (1989) - MobyGames",
-          "link": "https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/",
-          "publishedOn": "2023-03-06T01:00:04.000Z",
-          "wordCount": 1786,
-          "title": "Space Quest III: The Pirates of Pestulon (1989) - MobyGames",
-          "imageUrl": "https://cdn.mobygames.com/covers/8819610-space-quest-iii-the-pirates-of-pestulon-front-cover.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BdKFLi8GGh8&feature=youtu.be",
-          "author": null,
-          "description": "[UNCHAINED LIVE] The Fight Over TestNet ETH: Scarce, Tradeable Commodity or Public Good?",
-          "link": "https://www.youtube.com/watch?v=BdKFLi8GGh8&feature=youtu.be",
-          "publishedOn": "2023-03-06T01:00:04.000Z",
-          "wordCount": null,
-          "title": "[UNCHAINED LIVE] The Fight Over TestNet ETH: Scarce, Tradeable Commodity or Public Good?",
-          "imageUrl": null
         },
         {
           "id": "https://www.youtube.com/watch?v=dimUOYzhkmk&ab_channel=ETHDenver",
@@ -61,7 +71,7 @@
           "description": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "link": "https://yewtu.be/watch?v=_hLvvZGST_E&t=979",
           "publishedOn": "2023-03-05T23:00:02.000Z",
-          "wordCount": 759,
+          "wordCount": 770,
           "title": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "imageUrl": "/vi/_hLvvZGST_E/maxres.jpg"
         },
@@ -71,9 +81,9 @@
           "description": "Deep Agency",
           "link": "https://www.deepagency.com/",
           "publishedOn": "2023-03-05T23:00:02.000Z",
-          "wordCount": 519,
+          "wordCount": 527,
           "title": "Deep Agency",
-          "imageUrl": "https://www.deepagency.com/og-main.jpg"
+          "imageUrl": "https://www.deepagency.com/og-main.png"
         },
         {
           "id": "https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/",
@@ -114,16 +124,6 @@
           "wordCount": null,
           "title": "How crypto can regenerate the world - Kevin Owocki ETHDenver 2023 Talk",
           "imageUrl": null
-        },
-        {
-          "id": "https://michellerempelgarner.substack.com/p/is-it-time-to-hit-the-pause-button",
-          "author": null,
-          "description": "Is it time to hit the pause button on AI?",
-          "link": "https://michellerempelgarner.substack.com/p/is-it-time-to-hit-the-pause-button",
-          "publishedOn": "2023-03-05T17:00:02.000Z",
-          "wordCount": 3627,
-          "title": "Is it time to hit the pause button on AI?",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa148c01c-4150-4d09-b1f8-5b74a4c8afb4_1024x1024.png"
         },
         {
           "id": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
