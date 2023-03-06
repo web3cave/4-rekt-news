@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/djrtwo/writing/blob/main/docs/2023-02-23_2023-Reflections.md",
+          "author": null,
+          "description": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
+          "link": "https://github.com/djrtwo/writing/blob/main/docs/2023-02-23_2023-Reflections.md",
+          "publishedOn": "2023-03-06T20:00:05.000Z",
+          "wordCount": 5260,
+          "title": "writing/2023-02-23_2023-Reflections.md at main · djrtwo/writing",
+          "imageUrl": "https://opengraph.githubassets.com/f1fbb9866a17eafeca2521028c5b2153a67b7ec8a63e49fbcdfa7855c822fbb9/djrtwo/writing"
+        },
+        {
+          "id": "https://www.axios.com/2023/03/06/crypto-register-sec-securities-exchange-commission",
+          "author": null,
+          "description": "We now have an idea about the few crypto companies that have registered with the SEC",
+          "link": "https://www.axios.com/2023/03/06/crypto-register-sec-securities-exchange-commission",
+          "publishedOn": "2023-03-06T20:00:04.000Z",
+          "wordCount": 2897,
+          "title": "We now have an idea about the few crypto companies that have registered with the SEC",
+          "imageUrl": "https://images.axios.com/dNO9x13ZXKwa_L27JbbTQAgr06A=/1366x768/smart/2023/03/06/1678119491135.jpg"
+        },
+        {
+          "id": "https://viem.sh/",
+          "author": null,
+          "description": "viem · TypeScript Interface for Ethereum",
+          "link": "https://viem.sh/",
+          "publishedOn": "2023-03-06T20:00:04.000Z",
+          "wordCount": 243,
+          "title": "viem · TypeScript Interface for Ethereum",
+          "imageUrl": "https://viem.sh/og-image.png"
+        },
+        {
           "id": "https://t.co/",
           "author": null,
           "description": "t.co / Twitter",
@@ -14,16 +44,6 @@
           "wordCount": 280,
           "title": "t.co / Twitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
-          "author": null,
-          "description": "Crypto startups, beware the 'dry powder fallacy'",
-          "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
-          "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 67401,
-          "title": "Crypto startups, beware the 'dry powder fallacy'",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
         },
         {
           "id": "https://stacks-network.github.io/stacks/sbtc.pdf",
@@ -36,34 +56,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/four-americans-kidnapped-armed-gunmen-minivan-mexico",
+          "id": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
           "author": null,
-          "description": "Four Americans Kidnapped By Armed Gunmen From Minivan In Mexico | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/four-americans-kidnapped-armed-gunmen-minivan-mexico",
+          "description": "Crypto startups, beware the 'dry powder fallacy'",
+          "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
           "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 707,
-          "title": "Four Americans Kidnapped By Armed Gunmen From Minivan In Mexico | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/esg-artifact-zirp",
-          "author": null,
-          "description": "ESG As An Artifact Of ZIRP | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/esg-artifact-zirp",
-          "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 2602,
-          "title": "ESG As An Artifact Of ZIRP | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/ex-cnn-president-jeff-zucker-ordered-staff-ignore-lab-leak-theory",
-          "author": null,
-          "description": "Ex-CNN President Jeff Zucker Ordered Staff To Ignore Lab-Leak Theory | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/ex-cnn-president-jeff-zucker-ordered-staff-ignore-lab-leak-theory",
-          "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 1628,
-          "title": "Ex-CNN President Jeff Zucker Ordered Staff To Ignore Lab-Leak Theory | ZeroHedge",
-          "imageUrl": null
+          "wordCount": 66313,
+          "title": "Crypto startups, beware the 'dry powder fallacy'",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
         },
         {
           "id": "https://coinmarketcap.com/alexandria/article/importance-of-kyc-verification-for-crypto-exchanges",
@@ -81,7 +81,7 @@
           "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 63658,
+          "wordCount": 62556,
           "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         },
@@ -91,7 +91,7 @@
           "description": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "link": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-06T13:00:02.000Z",
-          "wordCount": 64036,
+          "wordCount": 62934,
           "title": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Kraken-1200x675.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "link": "https://yewtu.be/watch?v=_hLvvZGST_E&t=979",
           "publishedOn": "2023-03-05T23:00:02.000Z",
-          "wordCount": 765,
+          "wordCount": 750,
           "title": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "imageUrl": "/vi/_hLvvZGST_E/maxres.jpg"
         },
