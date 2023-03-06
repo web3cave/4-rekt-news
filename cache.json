@@ -6,6 +6,66 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://t.co/",
+          "author": null,
+          "description": "t.co / Twitter",
+          "link": "https://t.co/",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 280,
+          "title": "t.co / Twitter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
+          "author": null,
+          "description": "Crypto startups, beware the 'dry powder fallacy'",
+          "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 67401,
+          "title": "Crypto startups, beware the 'dry powder fallacy'",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
+        },
+        {
+          "id": "https://stacks-network.github.io/stacks/sbtc.pdf",
+          "author": null,
+          "description": "[PDF] sbtc.pdf",
+          "link": "https://stacks-network.github.io/stacks/sbtc.pdf",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 28984,
+          "title": "[PDF] sbtc.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/four-americans-kidnapped-armed-gunmen-minivan-mexico",
+          "author": null,
+          "description": "Four Americans Kidnapped By Armed Gunmen From Minivan In Mexico | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/four-americans-kidnapped-armed-gunmen-minivan-mexico",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 707,
+          "title": "Four Americans Kidnapped By Armed Gunmen From Minivan In Mexico | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/esg-artifact-zirp",
+          "author": null,
+          "description": "ESG As An Artifact Of ZIRP | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/esg-artifact-zirp",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 2602,
+          "title": "ESG As An Artifact Of ZIRP | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/ex-cnn-president-jeff-zucker-ordered-staff-ignore-lab-leak-theory",
+          "author": null,
+          "description": "Ex-CNN President Jeff Zucker Ordered Staff To Ignore Lab-Leak Theory | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/ex-cnn-president-jeff-zucker-ordered-staff-ignore-lab-leak-theory",
+          "publishedOn": "2023-03-06T19:00:02.000Z",
+          "wordCount": 1628,
+          "title": "Ex-CNN President Jeff Zucker Ordered Staff To Ignore Lab-Leak Theory | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://coinmarketcap.com/alexandria/article/importance-of-kyc-verification-for-crypto-exchanges",
           "author": null,
           "description": "Importance of KYC Verification for Crypto Exchanges | CoinMarketCap",
@@ -16,54 +76,14 @@
           "imageUrl": "https://academy-public.coinmarketcap.com/optimized-uploads/9dc192c1577745049768d799700b480f.png"
         },
         {
-          "id": "https://github.com/bitcoin/bitcoin/blob/2a0c05defd32c37f083fa2cc890e03aecc451555/src/policy/policy.h#L47",
+          "id": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "author": null,
-          "description": "bitcoin/policy.h at 2a0c05defd32c37f083fa2cc890e03aecc451555 · bitcoin/bitcoin",
-          "link": "https://github.com/bitcoin/bitcoin/blob/2a0c05defd32c37f083fa2cc890e03aecc451555/src/policy/policy.h#L47",
-          "publishedOn": "2023-03-06T17:30:03.000Z",
-          "wordCount": 1322,
-          "title": "bitcoin/policy.h at 2a0c05defd32c37f083fa2cc890e03aecc451555 · bitcoin/bitcoin",
-          "imageUrl": "https://opengraph.githubassets.com/a96f491e57c3d69d2dada0521e5d3656814b76db72507bee1007553a2420afbc/bitcoin/bitcoin"
-        },
-        {
-          "id": "https://github.com/rotki/rotki/releases",
-          "author": null,
-          "description": "Releases · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/releases",
-          "publishedOn": "2023-03-06T17:30:03.000Z",
-          "wordCount": 6805,
-          "title": "Releases · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/3dab3641cf3fa28a0c8e56fb878279377c3647091b6f2613b5974f0b71010152/rotki/rotki"
-        },
-        {
-          "id": "https://rotki.com/products",
-          "author": null,
-          "description": "premium subscription | rotki",
-          "link": "https://rotki.com/products",
-          "publishedOn": "2023-03-06T17:30:03.000Z",
-          "wordCount": 4885,
-          "title": "premium subscription | rotki",
-          "imageUrl": "https://rotki.com/img/share.png"
-        },
-        {
-          "id": "https://github.com/eth-clients/holesky/issues/9",
-          "author": null,
-          "description": "Mass distributions via transactions instead of the genesis state · Issue #9 · eth-clients/holesky",
-          "link": "https://github.com/eth-clients/holesky/issues/9",
+          "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
+          "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 982,
-          "title": "Mass distributions via transactions instead of the genesis state · Issue #9 · eth-clients/holesky",
-          "imageUrl": "https://opengraph.githubassets.com/1e50ede79108e83a8e81d45794f815dd618db56eee4b807d1384c980dacb9454/eth-clients/holesky/issues/9"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/jill-biden-slams-questions-over-bidens-mental-competency-ridiculous",
-          "author": null,
-          "description": "Jill Biden Slams Questions Over Biden's Mental Competency As \"Ridiculous\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/jill-biden-slams-questions-over-bidens-mental-competency-ridiculous",
-          "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 1141,
-          "title": "Jill Biden Slams Questions Over Biden's Mental Competency As \"Ridiculous\" | ZeroHedge",
-          "imageUrl": null
+          "wordCount": 63658,
+          "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         },
         {
           "id": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
@@ -71,7 +91,7 @@
           "description": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "link": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-06T13:00:02.000Z",
-          "wordCount": 63928,
+          "wordCount": 64036,
           "title": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Kraken-1200x675.jpg"
         },
@@ -81,7 +101,7 @@
           "description": "Opinion: Is it time to start considering personhood rights for AI chatbots?",
           "link": "https://www.latimes.com/opinion/story/2023-03-05/chatgpt-ai-feelings-consciousness-rights",
           "publishedOn": "2023-03-06T07:00:03.000Z",
-          "wordCount": 4962,
+          "wordCount": 4966,
           "title": "Opinion: Is it time to start considering personhood rights for AI chatbots?",
           "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/bfcf79d/2147483647/strip/true/crop/5028x2640+0+356/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5e%2F1e%2Ff128d2fa4ee2b4dd1906eebf56eb%2Famazon-alexa-privacy-15155.jpg"
         },
@@ -91,9 +111,9 @@
           "description": "GitHub - marktoda/sponsor: Generalized sponsored transactions using Permit2",
           "link": "https://github.com/marktoda/sponsor",
           "publishedOn": "2023-03-06T06:30:02.000Z",
-          "wordCount": 872,
+          "wordCount": 931,
           "title": "GitHub - marktoda/sponsor: Generalized sponsored transactions using Permit2",
-          "imageUrl": "https://opengraph.githubassets.com/386d48ed5b9b10a0f9fcb03e156fb68625e180d9692851bd7337eb48c52b932c/marktoda/sponsor"
+          "imageUrl": "https://opengraph.githubassets.com/6fce5f1492718f8771a94dafcb079c5f17c990af2b8c3428f28581b3ab21553a/marktoda/sponsor"
         },
         {
           "id": "https://vitalik.ca/general/2021/01/05/rollup.html",
@@ -114,16 +134,6 @@
           "wordCount": 1389,
           "title": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
           "imageUrl": "https://public.bnbstatic.us/static/images/binance_previewImage.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/texts-from-crypto-giant-binance-reveal-plan-to-elude-u-s-authorities-3a17ddeb",
-          "author": null,
-          "description": "Texts From Crypto Giant Binance Reveal Plan to Elude U.S. Authorities",
-          "link": "https://www.wsj.com/articles/texts-from-crypto-giant-binance-reveal-plan-to-elude-u-s-authorities-3a17ddeb",
-          "publishedOn": "2023-03-06T03:00:02.000Z",
-          "wordCount": 7412,
-          "title": "Texts From Crypto Giant Binance Reveal Plan to Elude U.S. Authorities",
-          "imageUrl": "https://images.wsj.net/im-736222/social"
         },
         {
           "id": "https://web3inbox.com/",
@@ -151,7 +161,7 @@
           "description": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "link": "https://yewtu.be/watch?v=_hLvvZGST_E&t=979",
           "publishedOn": "2023-03-05T23:00:02.000Z",
-          "wordCount": 771,
+          "wordCount": 765,
           "title": "StarkWare Sessions 23 | Why a Bitcoiner Loves Rollups | Eric Wall",
           "imageUrl": "/vi/_hLvvZGST_E/maxres.jpg"
         },
@@ -186,22 +196,12 @@
           "imageUrl": "https://rollkit.dev/img/Rollkit-og.png"
         },
         {
-          "id": "https://www.theblock.co/post/217232/binance-once-sought-to-hire-gensler-as-an-adviser-wsj?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Binance once sought to hire Gensler as an adviser: WSJ",
-          "link": "https://www.theblock.co/post/217232/binance-once-sought-to-hire-gensler-as-an-adviser-wsj?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-05T19:45:03.000Z",
-          "wordCount": 62967,
-          "title": "Binance once sought to hire Gensler as an adviser: WSJ",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Gary-Gensler-SEC-1200x675.jpg"
-        },
-        {
           "id": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
           "author": null,
           "description": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "link": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
           "publishedOn": "2023-03-05T16:00:03.000Z",
-          "wordCount": 10840,
+          "wordCount": 10823,
           "title": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F977414b7-0b2a-413f-a483-ff43bf6d8a98_1026x615.png"
         }
