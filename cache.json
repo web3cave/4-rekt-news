@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://perawallet.app/",
+          "author": null,
+          "description": "Pera Algo Wallet – Simply the best Algorand wallet.",
+          "link": "https://perawallet.app/",
+          "publishedOn": "2023-03-07T01:00:02.000Z",
+          "wordCount": 1242,
+          "title": "Pera Algo Wallet – Simply the best Algorand wallet.",
+          "imageUrl": "https://perawallet.s3.amazonaws.com/images/pera-header.png"
+        },
+        {
+          "id": "https://defly.app/",
+          "author": null,
+          "description": "Defly Wallet - Algorand Wallet enhanced!",
+          "link": "https://defly.app/",
+          "publishedOn": "2023-03-07T01:00:02.000Z",
+          "wordCount": 4536,
+          "title": "Defly Wallet - Algorand Wallet enhanced!",
+          "imageUrl": "https://defly.app/images/logo-socialmedia.png"
+        },
+        {
+          "id": "https://blockworks.co/news/amazon-nfts-real-world-assets-token",
+          "author": null,
+          "description": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
+          "link": "https://blockworks.co/news/amazon-nfts-real-world-assets-token",
+          "publishedOn": "2023-03-07T01:00:02.000Z",
+          "wordCount": 17932,
+          "title": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/amazon.jpg"
+        },
+        {
+          "id": "https://github.com/paradigmxyz/reth/",
+          "author": null,
+          "description": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
+          "link": "https://github.com/paradigmxyz/reth/",
+          "publishedOn": "2023-03-07T01:00:02.000Z",
+          "wordCount": 1892,
+          "title": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
+          "imageUrl": "https://repository-images.githubusercontent.com/537233603/ef226434-9521-4138-8dde-935fd1fed473"
+        },
+        {
           "id": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
           "author": null,
           "description": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
@@ -13,26 +53,6 @@
           "publishedOn": "2023-03-06T23:00:02.000Z",
           "wordCount": 11138,
           "title": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kermankohli.substack.com/p/value-capture-ai-and-crypto?utm_source=twitter&utm_campaign=auto_share",
-          "author": null,
-          "description": "Value Capture, AI and Crypto",
-          "link": "https://kermankohli.substack.com/p/value-capture-ai-and-crypto?utm_source=twitter&utm_campaign=auto_share",
-          "publishedOn": "2023-03-06T23:00:02.000Z",
-          "wordCount": 1873,
-          "title": "Value Capture, AI and Crypto",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1bdd65c-355b-4397-be5f-8abf3fdbd172_1024x1024.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "author": null,
-          "description": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "publishedOn": "2023-03-06T23:00:02.000Z",
-          "wordCount": 765,
-          "title": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -54,16 +74,6 @@
           "wordCount": 1789,
           "title": "Rekt - Iron Bank vs Alpha Homora",
           "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/iron-alpha-header.png"
-        },
-        {
-          "id": "https://blog.ethereum.org/",
-          "author": null,
-          "description": "Home | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/",
-          "publishedOn": "2023-03-06T21:00:02.000Z",
-          "wordCount": 47801,
-          "title": "Home | Ethereum Foundation Blog",
-          "imageUrl": "https://blog.ethereum.org/images/ethereum-blog-og-image.png"
         },
         {
           "id": "https://viem.sh/",
@@ -111,7 +121,7 @@
           "description": "Crypto startups, beware the 'dry powder fallacy'",
           "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
           "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 65967,
+          "wordCount": 66771,
           "title": "Crypto startups, beware the 'dry powder fallacy'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
         },
@@ -131,7 +141,7 @@
           "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 62210,
+          "wordCount": 63453,
           "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         },
@@ -141,7 +151,7 @@
           "description": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "link": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-06T13:00:02.000Z",
-          "wordCount": 63216,
+          "wordCount": 64006,
           "title": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Kraken-1200x675.jpg"
         },
@@ -166,20 +176,10 @@
           "imageUrl": "https://public.bnbstatic.us/static/images/binance_previewImage.png"
         },
         {
-          "id": "https://web3inbox.com/",
-          "author": null,
-          "description": "Home | Web3Inbox waitlist",
-          "link": "https://web3inbox.com/",
-          "publishedOn": "2023-03-06T01:30:03.000Z",
-          "wordCount": 379,
-          "title": "Home | Web3Inbox waitlist",
-          "imageUrl": "https://minisite-web3inbox-walletconnect1.vercel.app/banner.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dimUOYzhkmk",
+          "id": "https://www.youtube.com/watch?v=dimUOYzhkmk&ab_channel=ETHDenver",
           "author": null,
           "description": "The Limits of L2 - Martin Köppelmann",
-          "link": "https://www.youtube.com/watch?v=dimUOYzhkmk",
+          "link": "https://www.youtube.com/watch?v=dimUOYzhkmk&ab_channel=ETHDenver",
           "publishedOn": "2023-03-05T23:30:03.000Z",
           "wordCount": null,
           "title": "The Limits of L2 - Martin Köppelmann",
