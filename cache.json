@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "http://www.appleseedpermaculture.com/8-forms-of-capital/",
+          "author": null,
+          "description": "8 Forms of Capital - AppleSeed Permaculture",
+          "link": "http://www.appleseedpermaculture.com/8-forms-of-capital/",
+          "publishedOn": "2023-03-07T17:30:03.000Z",
+          "wordCount": 5005,
+          "title": "8 Forms of Capital - AppleSeed Permaculture",
+          "imageUrl": "http://appleseedpermaculture.com/wp-content/uploads/2011/04/Fig_1_Eight_Forms_of_Captial.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VDUKyMPTIIE",
           "author": null,
           "description": "The United States Court of Appeals for the DC Circuit",
@@ -13,16 +23,6 @@
           "publishedOn": "2023-03-07T17:00:02.000Z",
           "wordCount": null,
           "title": "The United States Court of Appeals for the DC Circuit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://t.co/",
-          "author": null,
-          "description": "t.co / Twitter",
-          "link": "https://t.co/",
-          "publishedOn": "2023-03-07T16:00:03.000Z",
-          "wordCount": 280,
-          "title": "t.co / Twitter",
           "imageUrl": null
         },
         {
@@ -41,7 +41,7 @@
           "description": "The $9 billion dirty secret of an Australian gold icon",
           "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
           "publishedOn": "2023-03-07T13:00:02.000Z",
-          "wordCount": 5226,
+          "wordCount": 5261,
           "title": "The $9 billion dirty secret of an Australian gold icon",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
         },
@@ -51,7 +51,7 @@
           "description": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
           "link": "https://blockworks.co/news/circle-dapper-labs-automated-clearing-house",
           "publishedOn": "2023-03-07T13:00:01.000Z",
-          "wordCount": 17322,
+          "wordCount": 17148,
           "title": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/Jeremy-Allaire-Circle-CEO-WEF.jpeg"
         },
@@ -84,6 +84,16 @@
           "wordCount": 780,
           "title": "ETH Denver Debate: Should Testnet ETH Be Free or Have a Price?",
           "imageUrl": "https://unchainedcrypto.com/wp-content/uploads/2023/03/UN464-SOCIAL-1.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?app=desktop&v=m4OvQIGDg4I",
+          "author": null,
+          "description": "What would you say...you do here?",
+          "link": "https://www.youtube.com/watch?app=desktop&v=m4OvQIGDg4I",
+          "publishedOn": "2023-03-07T07:30:04.000Z",
+          "wordCount": null,
+          "title": "What would you say...you do here?",
+          "imageUrl": null
         },
         {
           "id": "https://www.avalanchesummit.com/",
@@ -131,7 +141,7 @@
           "description": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
           "link": "https://blockworks.co/news/amazon-nfts-real-world-assets-token",
           "publishedOn": "2023-03-07T01:00:02.000Z",
-          "wordCount": 17598,
+          "wordCount": 17424,
           "title": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/amazon.jpg"
         },
@@ -156,6 +166,16 @@
           "imageUrl": "https://defly.app/images/logo-socialmedia.png"
         },
         {
+          "id": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
+          "author": null,
+          "description": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
+          "link": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
+          "publishedOn": "2023-03-06T23:00:02.000Z",
+          "wordCount": 11138,
+          "title": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.prnewswire.com/news-releases/ftx-debtors-file-lawsuit-against-grayscale-investments-llc-and-its-ceo-and-owners-301763694.html",
           "author": null,
           "description": "FTX Debtors File Lawsuit Against Grayscale Investments, LLC and its CEO and Owners",
@@ -164,16 +184,6 @@
           "wordCount": 1761,
           "title": "FTX Debtors File Lawsuit Against Grayscale Investments, LLC and its CEO and Owners",
           "imageUrl": "https://mma.prnewswire.com/media/1950453/FTX_Logo.jpg?p=facebook"
-        },
-        {
-          "id": "https://rekt.news/iron-alpha/",
-          "author": null,
-          "description": "Rekt - Iron Bank vs Alpha Homora",
-          "link": "https://rekt.news/iron-alpha/",
-          "publishedOn": "2023-03-06T21:00:02.000Z",
-          "wordCount": 1789,
-          "title": "Rekt - Iron Bank vs Alpha Homora",
-          "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/iron-alpha-header.png"
         },
         {
           "id": "https://viem.sh/",
@@ -194,16 +204,6 @@
           "wordCount": 2894,
           "title": "We now have an idea about the few crypto companies that have registered with the SEC",
           "imageUrl": "https://images.axios.com/dNO9x13ZXKwa_L27JbbTQAgr06A=/1366x768/smart/2023/03/06/1678119491135.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
-          "author": null,
-          "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
-          "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
-          "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 64471,
-          "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         }
       ]
     }
