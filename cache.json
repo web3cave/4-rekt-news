@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+          "author": null,
+          "description": "The $9 billion dirty secret of an Australian gold icon",
+          "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+          "publishedOn": "2023-03-07T13:00:02.000Z",
+          "wordCount": 5156,
+          "title": "The $9 billion dirty secret of an Australian gold icon",
+          "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
+        },
+        {
+          "id": "https://blockworks.co/news/circle-dapper-labs-automated-clearing-house",
+          "author": null,
+          "description": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
+          "link": "https://blockworks.co/news/circle-dapper-labs-automated-clearing-house",
+          "publishedOn": "2023-03-07T13:00:01.000Z",
+          "wordCount": 16771,
+          "title": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/Jeremy-Allaire-Circle-CEO-WEF.jpeg"
+        },
+        {
+          "id": "https://wrongalot.substack.com/p/the-big-gamble",
+          "author": null,
+          "description": "The Big Gamble",
+          "link": "https://wrongalot.substack.com/p/the-big-gamble",
+          "publishedOn": "2023-03-07T13:00:01.000Z",
+          "wordCount": 3067,
+          "title": "The Big Gamble",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F160ce28c-bf25-4cbb-938f-f7d893fd468f_1414x790.jpeg"
+        },
+        {
           "id": "https://github.com/randlabs/encrypted-local-storage",
           "author": null,
           "description": "GitHub - randlabs/encrypted-local-storage",
           "link": "https://github.com/randlabs/encrypted-local-storage",
           "publishedOn": "2023-03-07T10:00:03.000Z",
-          "wordCount": 1117,
+          "wordCount": 1170,
           "title": "GitHub - randlabs/encrypted-local-storage",
           "imageUrl": "https://opengraph.githubassets.com/dce82f53251dcf78ee7ee4f3a63a24f58e97a72f693fa9fec7fdf8eaf5b5df23/randlabs/encrypted-local-storage"
         },
@@ -24,16 +54,6 @@
           "wordCount": 780,
           "title": "ETH Denver Debate: Should Testnet ETH Be Free or Have a Price?",
           "imageUrl": "https://unchainedcrypto.com/wp-content/uploads/2023/03/UN464-SOCIAL-1.jpg"
-        },
-        {
-          "id": "https://bitcoinhackers.org/",
-          "author": null,
-          "description": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
-          "link": "https://bitcoinhackers.org/",
-          "publishedOn": "2023-03-07T05:30:04.000Z",
-          "wordCount": 169,
-          "title": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
-          "imageUrl": "https://BitcoinHackers.org/og-image.png"
         },
         {
           "id": "https://www.avalanchesummit.com/",
@@ -136,16 +156,6 @@
           "imageUrl": "https://images.axios.com/dNO9x13ZXKwa_L27JbbTQAgr06A=/1366x768/smart/2023/03/06/1678119491135.jpg"
         },
         {
-          "id": "https://t.co/",
-          "author": null,
-          "description": "t.co / Twitter",
-          "link": "https://t.co/",
-          "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 280,
-          "title": "t.co / Twitter",
-          "imageUrl": null
-        },
-        {
           "id": "https://stacks-network.github.io/stacks/sbtc.pdf",
           "author": null,
           "description": "[PDF] sbtc.pdf",
@@ -161,19 +171,9 @@
           "description": "Crypto startups, beware the 'dry powder fallacy'",
           "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
           "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 66135,
+          "wordCount": 66948,
           "title": "Crypto startups, beware the 'dry powder fallacy'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
-        },
-        {
-          "id": "https://coinmarketcap.com/alexandria/article/importance-of-kyc-verification-for-crypto-exchanges",
-          "author": null,
-          "description": "Importance of KYC Verification for Crypto Exchanges | CoinMarketCap",
-          "link": "https://coinmarketcap.com/alexandria/article/importance-of-kyc-verification-for-crypto-exchanges",
-          "publishedOn": "2023-03-06T18:00:04.000Z",
-          "wordCount": 5549,
-          "title": "Importance of KYC Verification for Crypto Exchanges | CoinMarketCap",
-          "imageUrl": "https://academy-public.coinmarketcap.com/optimized-uploads/9dc192c1577745049768d799700b480f.png"
         },
         {
           "id": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
@@ -181,7 +181,7 @@
           "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 62805,
+          "wordCount": 63618,
           "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "link": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-06T13:00:02.000Z",
-          "wordCount": 63358,
+          "wordCount": 64171,
           "title": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Kraken-1200x675.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "link": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
           "publishedOn": "2023-03-05T16:00:03.000Z",
-          "wordCount": 10823,
+          "wordCount": 10840,
           "title": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F977414b7-0b2a-413f-a483-ff43bf6d8a98_1026x615.png"
         }
