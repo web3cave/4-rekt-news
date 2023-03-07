@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://bitcoinhackers.org/",
+          "author": null,
+          "description": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
+          "link": "https://bitcoinhackers.org/",
+          "publishedOn": "2023-03-07T05:30:04.000Z",
+          "wordCount": 169,
+          "title": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
+          "imageUrl": "https://BitcoinHackers.org/og-image.png"
+        },
+        {
           "id": "https://www.avalanchesummit.com/",
           "author": null,
           "description": "Avalanche Summit II: May 3-5 in Barcelona, Spain",
           "link": "https://www.avalanchesummit.com/",
           "publishedOn": "2023-03-07T03:30:03.000Z",
-          "wordCount": 2002,
+          "wordCount": 2215,
           "title": "Avalanche Summit II: May 3-5 in Barcelona, Spain",
           "imageUrl": "https://assets.website-files.com/6393369d6d8df43a519d0520/639b102a4a1bd67b42ea534b_Summit-Avalanche-P1-OG%20(1)-min.png"
         },
@@ -33,16 +43,6 @@
           "publishedOn": "2023-03-07T03:00:03.000Z",
           "wordCount": 4362,
           "title": "Luongo: The War For The Dollar Is Already Over, Part I | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "author": null,
-          "description": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "publishedOn": "2023-03-07T03:00:03.000Z",
-          "wordCount": 765,
-          "title": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -151,7 +151,7 @@
           "description": "Importance of KYC Verification for Crypto Exchanges | CoinMarketCap",
           "link": "https://coinmarketcap.com/alexandria/article/importance-of-kyc-verification-for-crypto-exchanges",
           "publishedOn": "2023-03-06T18:00:04.000Z",
-          "wordCount": 5565,
+          "wordCount": 5549,
           "title": "Importance of KYC Verification for Crypto Exchanges | CoinMarketCap",
           "imageUrl": "https://academy-public.coinmarketcap.com/optimized-uploads/9dc192c1577745049768d799700b480f.png"
         },
@@ -201,7 +201,7 @@
           "description": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "link": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
           "publishedOn": "2023-03-05T16:00:03.000Z",
-          "wordCount": 10823,
+          "wordCount": 11046,
           "title": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F977414b7-0b2a-413f-a483-ff43bf6d8a98_1026x615.png"
         }
