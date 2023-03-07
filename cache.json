@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://t.co/",
+          "author": null,
+          "description": "t.co / Twitter",
+          "link": "https://t.co/",
+          "publishedOn": "2023-03-07T16:00:03.000Z",
+          "wordCount": 280,
+          "title": "t.co / Twitter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://bitcoinhackers.org/",
+          "author": null,
+          "description": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
+          "link": "https://bitcoinhackers.org/",
+          "publishedOn": "2023-03-07T16:00:03.000Z",
+          "wordCount": 169,
+          "title": "BitcoinHackers.org | Welcome to BitcoinHackers.org",
+          "imageUrl": "https://BitcoinHackers.org/og-image.png"
+        },
+        {
           "id": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
           "author": null,
           "description": "The $9 billion dirty secret of an Australian gold icon",
           "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
           "publishedOn": "2023-03-07T13:00:02.000Z",
-          "wordCount": 5143,
+          "wordCount": 5147,
           "title": "The $9 billion dirty secret of an Australian gold icon",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
         },
@@ -21,7 +41,7 @@
           "description": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
           "link": "https://blockworks.co/news/circle-dapper-labs-automated-clearing-house",
           "publishedOn": "2023-03-07T13:00:01.000Z",
-          "wordCount": 16887,
+          "wordCount": 16837,
           "title": "Circle Dropped Automated Clearing House Payments: Dapper Labs",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/Jeremy-Allaire-Circle-CEO-WEF.jpeg"
         },
@@ -31,7 +51,7 @@
           "description": "The Big Gamble",
           "link": "https://wrongalot.substack.com/p/the-big-gamble",
           "publishedOn": "2023-03-07T13:00:01.000Z",
-          "wordCount": 3273,
+          "wordCount": 3067,
           "title": "The Big Gamble",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F160ce28c-bf25-4cbb-938f-f7d893fd468f_1414x790.jpeg"
         },
@@ -76,32 +96,12 @@
           "imageUrl": "https://pepe.wtf/cover.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/luongo-war-dollar-already-over-part-i",
-          "author": null,
-          "description": "Luongo: The War For The Dollar Is Already Over, Part I | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/luongo-war-dollar-already-over-part-i",
-          "publishedOn": "2023-03-07T03:00:03.000Z",
-          "wordCount": 4362,
-          "title": "Luongo: The War For The Dollar Is Already Over, Part I | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "author": null,
-          "description": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
-          "publishedOn": "2023-03-07T03:00:03.000Z",
-          "wordCount": 765,
-          "title": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://blockworks.co/news/amazon-nfts-real-world-assets-token",
           "author": null,
           "description": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
           "link": "https://blockworks.co/news/amazon-nfts-real-world-assets-token",
           "publishedOn": "2023-03-07T01:00:02.000Z",
-          "wordCount": 17163,
+          "wordCount": 17113,
           "title": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/amazon.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "Crypto startups, beware the 'dry powder fallacy'",
           "link": "https://www.theblock.co/post/217264/crypto-startups-beware-dry-powder-fallacy",
           "publishedOn": "2023-03-06T19:00:02.000Z",
-          "wordCount": 66795,
+          "wordCount": 67133,
           "title": "Crypto startups, beware the 'dry powder fallacy'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230302_DryPowder_News-1200x675.jpg"
         },
@@ -191,7 +191,7 @@
           "description": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "link": "https://www.theblock.co/post/217340/ethereum-scaling-scroll-50-million-funding-round-1-8-billion-valuation",
           "publishedOn": "2023-03-06T17:00:05.000Z",
-          "wordCount": 63452,
+          "wordCount": 63790,
           "title": "Ethereum L2 Scroll reaches $1.8 billion valuation in new funding round: Source",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/02/20230227_Scroll_News-1200x675.jpg"
         },
@@ -201,7 +201,7 @@
           "description": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "link": "https://www.theblock.co/post/217177/kraken-is-on-track-to-launch-bank-very-soon-despite-regulatory-weird-place?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-06T13:00:02.000Z",
-          "wordCount": 64018,
+          "wordCount": 64356,
           "title": "Kraken is on track to launch bank 'very soon' despite regulatory 'weird place'",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Kraken-1200x675.jpg"
         }
