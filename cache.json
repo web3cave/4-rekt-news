@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://pepe.wtf/",
+          "author": null,
+          "description": "Pepe.wtf",
+          "link": "https://pepe.wtf/",
+          "publishedOn": "2023-03-07T03:00:03.000Z",
+          "wordCount": 1010,
+          "title": "Pepe.wtf",
+          "imageUrl": "https://pepe.wtf/cover.png"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/luongo-war-dollar-already-over-part-i",
+          "author": null,
+          "description": "Luongo: The War For The Dollar Is Already Over, Part I | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/luongo-war-dollar-already-over-part-i",
+          "publishedOn": "2023-03-07T03:00:03.000Z",
+          "wordCount": 4362,
+          "title": "Luongo: The War For The Dollar Is Already Over, Part I | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
+          "author": null,
+          "description": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
+          "link": "https://www.zerohedge.com/geopolitical/west-ready-give-security-guarantees-ukraine-after-conflict-germanys-scholz",
+          "publishedOn": "2023-03-07T03:00:03.000Z",
+          "wordCount": 765,
+          "title": "West Ready To Give Security Guarantees To Ukraine After Conflict: Germany's Scholz | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://perawallet.app/",
           "author": null,
           "description": "Pera Algo Wallet – Simply the best Algorand wallet.",
@@ -34,26 +64,6 @@
           "wordCount": 17932,
           "title": "Amazon NFTs Will Be Tied to Real-world Assets, Token Possible",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/amazon.jpg"
-        },
-        {
-          "id": "https://github.com/paradigmxyz/reth/",
-          "author": null,
-          "description": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
-          "link": "https://github.com/paradigmxyz/reth/",
-          "publishedOn": "2023-03-07T01:00:02.000Z",
-          "wordCount": 1892,
-          "title": "GitHub - paradigmxyz/reth: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in...",
-          "imageUrl": "https://repository-images.githubusercontent.com/537233603/ef226434-9521-4138-8dde-935fd1fed473"
-        },
-        {
-          "id": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
-          "author": null,
-          "description": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
-          "link": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
-          "publishedOn": "2023-03-06T23:00:02.000Z",
-          "wordCount": 11138,
-          "title": "The Unreasonable Sufficiency of Protocols - Summer of Protocols",
-          "imageUrl": null
         },
         {
           "id": "https://www.prnewswire.com/news-releases/ftx-debtors-file-lawsuit-against-grayscale-investments-llc-and-its-ceo-and-owners-301763694.html",
@@ -166,16 +176,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.binance.us/",
-          "author": null,
-          "description": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
-          "link": "https://www.binance.us/",
-          "publishedOn": "2023-03-06T03:00:03.000Z",
-          "wordCount": 1389,
-          "title": "Binance.US | Buy, Sell, & Trade Crypto & Altcoins In The US",
-          "imageUrl": "https://public.bnbstatic.us/static/images/binance_previewImage.png"
-        },
-        {
           "id": "https://www.youtube.com/watch?v=dimUOYzhkmk&ab_channel=ETHDenver",
           "author": null,
           "description": "The Limits of L2 - Martin Köppelmann",
@@ -201,7 +201,7 @@
           "description": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "link": "https://fintechbusinessweekly.substack.com/p/eco-said-it-was-lending-to-fidelity",
           "publishedOn": "2023-03-05T16:00:03.000Z",
-          "wordCount": 10823,
+          "wordCount": 11046,
           "title": "Eco Said It Was Lending To Fidelity & Goldman. Really, User Funds Went To Risky Crypto Lenders & DeFi Protocols.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F977414b7-0b2a-413f-a483-ff43bf6d8a98_1026x615.png"
         }
