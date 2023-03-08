@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ilga.gov/legislation/103/HB/10300HB3479lv.htm",
+          "author": null,
+          "description": "HB3479 103RD GENERAL ASSEMBLY",
+          "link": "https://ilga.gov/legislation/103/HB/10300HB3479lv.htm",
+          "publishedOn": "2023-03-08T04:00:03.000Z",
+          "wordCount": 45581,
+          "title": "HB3479 103RD GENERAL ASSEMBLY",
+          "imageUrl": null
+        },
+        {
           "id": "https://blockworks.co/news/cosmos-greenlights-interchain-security",
           "author": null,
           "description": "Cosmos Governance Gives Greenlight to Interchain Security",
@@ -31,7 +41,7 @@
           "description": "A New Crypto Mixer Promises to Be Tornado Cash Without the Crime",
           "link": "https://www.wired.com/story/new-crypto-mixer-promises-to-be-tornado-cash-crime/",
           "publishedOn": "2023-03-07T23:30:04.000Z",
-          "wordCount": 21275,
+          "wordCount": 21267,
           "title": "A New Crypto Mixer Promises to Be Tornado Cash Without the Crime",
           "imageUrl": "https://media.wired.com/photos/64006ced0150a6d7be9f1a28/191:100/w_1280,c_limit/business_privacy_pool_crypto_mixers.png"
         },
@@ -91,7 +101,7 @@
           "description": "Judges Express Skepticism of SEC Arguments in Grayscale Bitcoin ETF Hearing",
           "link": "https://www.coindesk.com/policy/2023/03/07/judges-express-skepticism-of-sec-arguments-in-grayscale-bitcoin-etf-hearing/",
           "publishedOn": "2023-03-07T20:00:04.000Z",
-          "wordCount": 21471,
+          "wordCount": 21457,
           "title": "Judges Express Skepticism of SEC Arguments in Grayscale Bitcoin ETF Hearing",
           "imageUrl": "https://www.coindesk.com/resizer/nb9eoXzbNOqgen7Yudm_IqWB-Bk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z4S6ARAAT5GMHOUGR66VYMUEWQ.jpg"
         },
@@ -154,16 +164,6 @@
           "wordCount": 604,
           "title": "A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithm",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/randlabs/encrypted-local-storage",
-          "author": null,
-          "description": "GitHub - randlabs/encrypted-local-storage",
-          "link": "https://github.com/randlabs/encrypted-local-storage",
-          "publishedOn": "2023-03-07T10:00:03.000Z",
-          "wordCount": 1170,
-          "title": "GitHub - randlabs/encrypted-local-storage",
-          "imageUrl": "https://opengraph.githubassets.com/dce82f53251dcf78ee7ee4f3a63a24f58e97a72f693fa9fec7fdf8eaf5b5df23/randlabs/encrypted-local-storage"
         },
         {
           "id": "https://unchainedcrypto.com/eth-denver-debate-should-testnet-eth-be-free-or-have-a-price/",
