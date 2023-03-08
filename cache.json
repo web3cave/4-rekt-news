@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bankless.com/",
+          "author": null,
+          "description": "Bankless 2.0 👀 🚀",
+          "link": "https://www.bankless.com/",
+          "publishedOn": "2023-03-08T17:00:03.000Z",
+          "wordCount": 322,
+          "title": "Bankless 2.0 👀 🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zeeprime.capital/the-future-of-medicine-is-tokens",
+          "author": null,
+          "description": "The Future Of Medicine Is Tokens",
+          "link": "https://zeeprime.capital/the-future-of-medicine-is-tokens",
+          "publishedOn": "2023-03-08T17:00:02.000Z",
+          "wordCount": 9378,
+          "title": "The Future Of Medicine Is Tokens",
+          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zeeprime_capital_blog_desci_research_vitadao_molecule_healthcare_science_5aa628a60f/zeeprime_capital_blog_desci_research_vitadao_molecule_healthcare_science_5aa628a60f.png"
+        },
+        {
           "id": "https://doomberg.substack.com/p/pandoras-precedent",
           "author": null,
           "description": "Pandora’s Precedent",
           "link": "https://doomberg.substack.com/p/pandoras-precedent",
           "publishedOn": "2023-03-08T16:00:03.000Z",
-          "wordCount": 2858,
+          "wordCount": 2859,
           "title": "Pandora’s Precedent",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6ad9ee5-b024-42da-bb29-db727cabc1c3_840x600.jpeg"
         },
@@ -56,16 +76,6 @@
           "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/1e/0b/bf/1e0bbf59-47cd-dc47-4c13-1b6ab509a4a5/mza_15845337563040645815.jpg/1200x630wp.png"
         },
         {
-          "id": "https://www.youtube.com/watch?v=AplDLgAsqMA",
-          "author": null,
-          "description": "DAO Drops with Magenta Ceiba & Ori Shimony",
-          "link": "https://www.youtube.com/watch?v=AplDLgAsqMA",
-          "publishedOn": "2023-03-08T06:00:04.000Z",
-          "wordCount": null,
-          "title": "DAO Drops with Magenta Ceiba & Ori Shimony",
-          "imageUrl": null
-        },
-        {
           "id": "https://ilga.gov/legislation/103/HB/10300HB3479lv.htm",
           "author": null,
           "description": "HB3479 103RD GENERAL ASSEMBLY",
@@ -81,7 +91,7 @@
           "description": "Cosmos Governance Gives Greenlight to Interchain Security",
           "link": "https://blockworks.co/news/cosmos-greenlights-interchain-security",
           "publishedOn": "2023-03-08T03:00:02.000Z",
-          "wordCount": 18051,
+          "wordCount": 18042,
           "title": "Cosmos Governance Gives Greenlight to Interchain Security",
           "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/Cosmos-web-security.jpg"
         },
@@ -101,9 +111,19 @@
           "description": "A New Crypto Mixer Promises to Be Tornado Cash Without the Crime",
           "link": "https://www.wired.com/story/new-crypto-mixer-promises-to-be-tornado-cash-crime/",
           "publishedOn": "2023-03-07T23:30:04.000Z",
-          "wordCount": 21266,
+          "wordCount": 21399,
           "title": "A New Crypto Mixer Promises to Be Tornado Cash Without the Crime",
           "imageUrl": "https://media.wired.com/photos/64006ced0150a6d7be9f1a28/191:100/w_1280,c_limit/business_privacy_pool_crypto_mixers.png"
+        },
+        {
+          "id": "https://collect.100thieves.com/",
+          "author": null,
+          "description": "2022 World Championship Ring",
+          "link": "https://collect.100thieves.com/",
+          "publishedOn": "2023-03-07T23:30:04.000Z",
+          "wordCount": 584,
+          "title": "2022 World Championship Ring",
+          "imageUrl": null
         },
         {
           "id": "https://liquidcollective.io/eth-liquid-staking-live/",
@@ -151,7 +171,7 @@
           "description": "Judges Express Skepticism of SEC Arguments in Grayscale Bitcoin ETF Hearing",
           "link": "https://www.coindesk.com/policy/2023/03/07/judges-express-skepticism-of-sec-arguments-in-grayscale-bitcoin-etf-hearing/",
           "publishedOn": "2023-03-07T20:00:04.000Z",
-          "wordCount": 21482,
+          "wordCount": 20983,
           "title": "Judges Express Skepticism of SEC Arguments in Grayscale Bitcoin ETF Hearing",
           "imageUrl": "https://www.coindesk.com/resizer/nb9eoXzbNOqgen7Yudm_IqWB-Bk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z4S6ARAAT5GMHOUGR66VYMUEWQ.jpg"
         },
@@ -164,26 +184,6 @@
           "wordCount": 7396,
           "title": "Esports Giant TSM Forges Ahead With Web3 Gaming on Avalanche - Decrypt",
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Esports-shutterstock_1950002116-16x9-1-gID_2.jpg@png"
-        },
-        {
-          "id": "https://collective.flashbots.net/t/decentralized-crypto-needs-you-to-be-a-geographical-decentralization-maxi/1385",
-          "author": null,
-          "description": "Decentralized crypto needs you: to be a geographical decentralization maxi",
-          "link": "https://collective.flashbots.net/t/decentralized-crypto-needs-you-to-be-a-geographical-decentralization-maxi/1385",
-          "publishedOn": "2023-03-07T19:00:04.000Z",
-          "wordCount": 3198,
-          "title": "Decentralized crypto needs you: to be a geographical decentralization maxi",
-          "imageUrl": "https://collective.flashbots.net/uploads/default/original/2X/c/c2f86764a8541bf4a63bdbe20ee0d1bf8ccb5fc4.jpeg"
-        },
-        {
-          "id": "https://eprint.iacr.org/2023/331",
-          "author": null,
-          "description": "A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithm",
-          "link": "https://eprint.iacr.org/2023/331",
-          "publishedOn": "2023-03-07T10:00:03.000Z",
-          "wordCount": 604,
-          "title": "A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithm",
-          "imageUrl": null
         },
         {
           "id": "https://unchainedcrypto.com/podcast/eth-denver-debate-should-testnet-eth-be-free-or-have-a-price/",
