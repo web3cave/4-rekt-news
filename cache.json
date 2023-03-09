@@ -6,12 +6,42 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EGMp7nNxue8",
+          "author": null,
+          "description": "Summer of Protocols with Venkatesh Rao",
+          "link": "https://www.youtube.com/watch?v=EGMp7nNxue8",
+          "publishedOn": "2023-03-09T19:30:03.000Z",
+          "wordCount": null,
+          "title": "Summer of Protocols with Venkatesh Rao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nounscontest.wtf/?utm_source=twitter&utm_medium=social&utm_campaign=Machete",
+          "author": null,
+          "description": "Nouns Contest",
+          "link": "https://nounscontest.wtf/?utm_source=twitter&utm_medium=social&utm_campaign=Machete",
+          "publishedOn": "2023-03-09T19:30:03.000Z",
+          "wordCount": 438,
+          "title": "Nouns Contest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eventbrite.com/e/layer-2-london-2-tickets-547489314277",
+          "author": null,
+          "description": "Layer 2 London #2",
+          "link": "https://www.eventbrite.com/e/layer-2-london-2-tickets-547489314277",
+          "publishedOn": "2023-03-09T19:30:03.000Z",
+          "wordCount": 2751,
+          "title": "Layer 2 London #2",
+          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F445865279%2F1245603261543%2F1%2Foriginal.20230113-103649?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C225%2C1260%2C630&s=36d00225936d074ddd8629389f48971c"
+        },
+        {
           "id": "https://www.theblock.co/post/218447/coinbase-ventures-brevan-howard-among-early-backers-of-compliant-dex-mauve",
           "author": null,
           "description": "Coinbase Ventures, Brevan Howard among early backers of compliant DEX Mauve",
           "link": "https://www.theblock.co/post/218447/coinbase-ventures-brevan-howard-among-early-backers-of-compliant-dex-mauve",
           "publishedOn": "2023-03-09T18:00:04.000Z",
-          "wordCount": 64809,
+          "wordCount": 65422,
           "title": "Coinbase Ventures, Brevan Howard among early backers of compliant DEX Mauve",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/09/20200901_Decentralized_Exchanges-Daily-1200x675.jpg"
         },
@@ -31,7 +61,7 @@
           "description": "Gyroscope unveils $4.5 million in funding as it prepares to launch 'unique' stablecoin",
           "link": "https://www.theblock.co/post/218376/decentralized-stablecoin-protocol-gyroscope-raises-seed-funding",
           "publishedOn": "2023-03-09T17:00:03.000Z",
-          "wordCount": 65172,
+          "wordCount": 65785,
           "title": "Gyroscope unveils $4.5 million in funding as it prepares to launch 'unique' stablecoin",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/Gyroscope-Logo-1920x1080p-1200x675.png"
         },
@@ -51,7 +81,7 @@
           "description": "Silvergate’s Story Is About Fundamentals, Not Just Crypto",
           "link": "https://www.wsj.com/articles/silvergates-story-is-about-fundamentals-not-just-crypto-30f08fc6",
           "publishedOn": "2023-03-09T16:30:03.000Z",
-          "wordCount": 7555,
+          "wordCount": 7586,
           "title": "Silvergate’s Story Is About Fundamentals, Not Just Crypto",
           "imageUrl": "https://images.wsj.net/im-739251/social"
         },
@@ -106,16 +136,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://polynya.mirror.xyz/VLLgbn3ma0Xrp-lhW62YAOrzGGst9ls0-75TdfcHTDs",
-          "author": null,
-          "description": "Governance and DAOs",
-          "link": "https://polynya.mirror.xyz/VLLgbn3ma0Xrp-lhW62YAOrzGGst9ls0-75TdfcHTDs",
-          "publishedOn": "2023-03-09T05:30:04.000Z",
-          "wordCount": 2282,
-          "title": "Governance and DAOs",
-          "imageUrl": ""
-        },
-        {
           "id": "https://unchainedcrypto.substack.com/p/how-thessy-mehrain-is-breaking-down?utm_source=substack&publication_id=1192637&post_id=106847486&utm_medium=email&utm_content=share&action=share&triggerShare=true&isFreemail=false&token=eyJ1c2VyX2lkIjoxMDUwNzI3MSwicG9zdF9pZCI6MTA2ODQ3NDg2LCJpYXQiOjE2NzgzMDkyNTEsImV4cCI6MTY4MDkwMTI1MSwiaXNzIjoicHViLTExOTI2MzciLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ObJWS_65JiiDhD47p4iKTeR6n-7f3GvGZetHKlnUMH8",
           "author": null,
           "description": "How Thessy Mehrain Is Breaking Down for Women in Blockchain",
@@ -136,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://blog.ethereum.org/2023/03/08/goerli-shapella-announcement",
-          "author": null,
-          "description": "Goerli Shapella Announcement | Ethereum Foundation Blog",
-          "link": "https://blog.ethereum.org/2023/03/08/goerli-shapella-announcement",
-          "publishedOn": "2023-03-09T03:00:03.000Z",
-          "wordCount": 2510,
-          "title": "Goerli Shapella Announcement | Ethereum Foundation Blog",
-          "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_c721600b9f9448a141574b76a38159e6.jpg"
-        },
-        {
           "id": "https://ethglobal.medium.com/introducing-pragma-c543f4259da4",
           "author": null,
           "description": "Introducing: Pragma",
@@ -156,22 +166,12 @@
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3gqsM4NFqYewURwkIZeIKQ.png"
         },
         {
-          "id": "https://open.spotify.com/episode/4nGw6LsdeiYWjHfmD1bHPQ?si=4L5OlEcuSfyAnSVJZvMzCQ",
-          "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/4nGw6LsdeiYWjHfmD1bHPQ?si=4L5OlEcuSfyAnSVJZvMzCQ",
-          "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 481,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/ab6765630000ba8ab8cab4bda2674adf87a6df2a"
-        },
-        {
           "id": "https://www.theblock.co/post/218223/silvergate-will-liquidate-bank-wind-down-operations",
           "author": null,
           "description": "Silvergate will liquidate bank, wind down operations",
           "link": "https://www.theblock.co/post/218223/silvergate-will-liquidate-bank-wind-down-operations",
           "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 67534,
+          "wordCount": 68147,
           "title": "Silvergate will liquidate bank, wind down operations",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230301_BankruptCompanies_Silvergate-1200x675.jpg"
         },
@@ -181,7 +181,7 @@
           "description": "The $9 billion dirty secret of an Australian gold icon",
           "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622",
           "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 5121,
+          "wordCount": 5149,
           "title": "The $9 billion dirty secret of an Australian gold icon",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
         },
@@ -201,7 +201,7 @@
           "description": "Reducing challenge times in rollups",
           "link": "https://ethresear.ch/t/reducing-challenge-times-in-rollups/14997",
           "publishedOn": "2023-03-08T19:00:02.000Z",
-          "wordCount": 1555,
+          "wordCount": 1628,
           "title": "Reducing challenge times in rollups",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         }
