@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec",
+          "author": null,
+          "description": "Dust on Crust",
+          "link": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec",
+          "publishedOn": "2023-03-09T07:00:02.000Z",
+          "wordCount": 11556,
+          "title": "Dust on Crust",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0YdncCkGQUg?feature=share",
+          "author": null,
+          "description": "why can't AI draw hands",
+          "link": "https://www.youtube.com/shorts/0YdncCkGQUg?feature=share",
+          "publishedOn": "2023-03-09T06:30:04.000Z",
+          "wordCount": 1121,
+          "title": "why can't AI draw hands",
+          "imageUrl": "https://i.ytimg.com/vi/0YdncCkGQUg/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRiBOKGUwDw==&rs=AOn4CLBlZLQ1DEoSZTHluiGIuL-LW0-Vww"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dOeieTvHEXc&feature=youtu.be",
           "author": null,
           "description": "Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023 Interview #4",
@@ -16,24 +36,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://domo-2.gitbook.io/brc-20-experiment/",
+          "id": "https://polynya.mirror.xyz/VLLgbn3ma0Xrp-lhW62YAOrzGGst9ls0-75TdfcHTDs",
           "author": null,
-          "description": "brc-20 - brc-20 experiment",
-          "link": "https://domo-2.gitbook.io/brc-20-experiment/",
+          "description": "Governance and DAOs",
+          "link": "https://polynya.mirror.xyz/VLLgbn3ma0Xrp-lhW62YAOrzGGst9ls0-75TdfcHTDs",
           "publishedOn": "2023-03-09T05:30:04.000Z",
-          "wordCount": 2564,
-          "title": "brc-20 - brc-20 experiment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XzSYGAqW5CI&feature=youtu.be",
-          "author": null,
-          "description": "Squid with Fig | ETHDenver 2023 Interview #5",
-          "link": "https://www.youtube.com/watch?v=XzSYGAqW5CI&feature=youtu.be",
-          "publishedOn": "2023-03-09T05:00:04.000Z",
-          "wordCount": null,
-          "title": "Squid with Fig | ETHDenver 2023 Interview #5",
-          "imageUrl": null
+          "wordCount": 2282,
+          "title": "Governance and DAOs",
+          "imageUrl": ""
         },
         {
           "id": "https://unchainedcrypto.substack.com/p/how-thessy-mehrain-is-breaking-down?utm_source=substack&publication_id=1192637&post_id=106847486&utm_medium=email&utm_content=share&action=share&triggerShare=true&isFreemail=false&token=eyJ1c2VyX2lkIjoxMDUwNzI3MSwicG9zdF9pZCI6MTA2ODQ3NDg2LCJpYXQiOjE2NzgzMDkyNTEsImV4cCI6MTY4MDkwMTI1MSwiaXNzIjoicHViLTExOTI2MzciLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ObJWS_65JiiDhD47p4iKTeR6n-7f3GvGZetHKlnUMH8",
@@ -54,16 +64,6 @@
           "wordCount": 3176,
           "title": "Blockchain apps - take two",
           "imageUrl": ""
-        },
-        {
-          "id": "https://github.com/ameensol/pools-ui",
-          "author": null,
-          "description": "GitHub - ameensol/pools-ui",
-          "link": "https://github.com/ameensol/pools-ui",
-          "publishedOn": "2023-03-09T04:00:04.000Z",
-          "wordCount": 768,
-          "title": "GitHub - ameensol/pools-ui",
-          "imageUrl": "https://opengraph.githubassets.com/6f9cb6540a92e70a4a0c8fca2568582784ced4e49f1e3ba3673e756a2b536940/ameensol/pools-ui"
         },
         {
           "id": "https://pcaobus.org/resources/information-for-investors/investor-advisories/investor-advisory-exercise-caution-with-third-party-verification-proof-of-reserve-reports#:~:text=Investor%20Advisories-,Investor%20Advisory%3A%20Exercise%20Caution%20With%20Third%2DParty%20Verification%2FProof,assets%20to%20meet%20customer%20liabilities",
@@ -121,7 +121,7 @@
           "description": "The $9 billion dirty secret of an Australian gold icon",
           "link": "https://www.abc.net.au/news/2023-03-06/perth-mint-gold-doping-china-cover-up-four-corners/102048622",
           "publishedOn": "2023-03-09T01:00:03.000Z",
-          "wordCount": 5102,
+          "wordCount": 5116,
           "title": "The $9 billion dirty secret of an Australian gold icon",
           "imageUrl": "https://live-production.wcms.abc-cdn.net.au/c042f6378bdc15fa2b40142a180997bb?impolicy=wcms_crop_resize&cropH=2116&cropW=3762&xPos=3&yPos=193&width=862&height=485"
         },
@@ -151,7 +151,7 @@
           "description": "JPMorgan Is Cutting Ties With Crypto Exchange Gemini: Source",
           "link": "https://www.coindesk.com/business/2023/03/08/jpmorgan-is-cutting-ties-with-crypto-exchange-gemini-source/?utm_term=organic&utm_campaign=coindesk_main&utm_medium=social&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-03-08T19:30:03.000Z",
-          "wordCount": 20013,
+          "wordCount": 19971,
           "title": "JPMorgan Is Cutting Ties With Crypto Exchange Gemini: Source",
           "imageUrl": "https://www.coindesk.com/resizer/uglBgz5ncm1MotdY7cVKlFitc5I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PUPMMW7DN5CQDLWOIFJXF6W4LA.jpg"
         },
