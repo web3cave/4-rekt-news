@@ -6,24 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bankless.com/",
+          "author": null,
+          "description": "Bankless 2.0 👀 🚀",
+          "link": "https://www.bankless.com/",
+          "publishedOn": "2023-03-10T18:00:03.000Z",
+          "wordCount": 2377,
+          "title": "Bankless 2.0 👀 🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chamathreads.substack.com/p/what-i-read-this-week-79b?sd=pf",
+          "author": null,
+          "description": "What I read this week...",
+          "link": "https://chamathreads.substack.com/p/what-i-read-this-week-79b?sd=pf",
+          "publishedOn": "2023-03-10T18:00:03.000Z",
+          "wordCount": 2210,
+          "title": "What I read this week...",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15bf1bac-da35-49ce-80da-f7396fcfafe9_1280x640.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rlBwpi4M6Is&feature=youtu.be",
+          "author": null,
+          "description": "AXIE INFINITY: THE MUSICAL!",
+          "link": "https://www.youtube.com/watch?v=rlBwpi4M6Is&feature=youtu.be",
+          "publishedOn": "2023-03-10T18:00:03.000Z",
+          "wordCount": null,
+          "title": "AXIE INFINITY: THE MUSICAL!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fHosr86bvJ8&feature=youtu.be",
+          "author": null,
+          "description": "Chuck Fresco vs JihoZ #1 - Axie Infinity at BETA 2018",
+          "link": "https://www.youtube.com/watch?v=fHosr86bvJ8&feature=youtu.be",
+          "publishedOn": "2023-03-10T18:00:03.000Z",
+          "wordCount": null,
+          "title": "Chuck Fresco vs JihoZ #1 - Axie Infinity at BETA 2018",
+          "imageUrl": null
+        },
+        {
           "id": "https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016",
           "author": null,
           "description": "Based rollups—superpowers from L1 sequencing",
           "link": "https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016",
           "publishedOn": "2023-03-10T17:00:02.000Z",
-          "wordCount": 1145,
+          "wordCount": 1147,
           "title": "Based rollups—superpowers from L1 sequencing",
           "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
-        },
-        {
-          "id": "https://pomp.substack.com/p/silicon-valley-bank-is-a-casualty#details",
-          "author": null,
-          "description": "Silicon Valley Bank Is A Casualty Of The Fed's Market Intervention",
-          "link": "https://pomp.substack.com/p/silicon-valley-bank-is-a-casualty#details",
-          "publishedOn": "2023-03-10T17:00:02.000Z",
-          "wordCount": 4800,
-          "title": "Silicon Valley Bank Is A Casualty Of The Fed's Market Intervention",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2958c423-59fb-4e5b-9638-162e82b806fc_1200x822.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=JoF1bE6TRcw",
@@ -41,9 +71,9 @@
           "description": "U.S. Treasury Department Proposes 30% Excise Tax on Crypto Mining Firms",
           "link": "https://www.coindesk.com/policy/2023/03/09/us-treasury-department-proposes-30-excise-tax-on-crypto-mining-firms/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2023-03-10T15:00:02.000Z",
-          "wordCount": 20608,
+          "wordCount": 20897,
           "title": "U.S. Treasury Department Proposes 30% Excise Tax on Crypto Mining Firms",
-          "imageUrl": "https://www.coindesk.com/resizer/omq5vFLkfQxVeG4wJJ5pzc6x4Bs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RCQO5ZDXGBDRFCUPXXU3MKYFHQ.jpg"
+          "imageUrl": "https://www.coindesk.com/resizer/kg7BSYEUOF1OpQcf10-7Sd0ZQ0g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ILMBRT5HNVAJFGKVWVN6AE3SNU.jpg"
         },
         {
           "id": "https://jonathanhaidt.substack.com/p/mental-health-liberal-girls",
@@ -51,7 +81,7 @@
           "description": "Why the Mental Health of Liberal Girls Sank First and Fastest",
           "link": "https://jonathanhaidt.substack.com/p/mental-health-liberal-girls",
           "publishedOn": "2023-03-10T14:00:03.000Z",
-          "wordCount": 12778,
+          "wordCount": 12773,
           "title": "Why the Mental Health of Liberal Girls Sank First and Fastest",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ef20560-9f6d-4c74-9360-311686d99d00_1600x900.png"
         },
@@ -106,16 +136,6 @@
           "imageUrl": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/64064bb87f76f7e45341ed38_AI-DD-Blog-Header.png"
         },
         {
-          "id": "https://techcrunch.com/2023/03/09/silicon-valley-back-withdrawal-issues/?tpcc=tcplustwitter",
-          "author": null,
-          "description": "Some SVB customers are struggling to wire funds out of the bank",
-          "link": "https://techcrunch.com/2023/03/09/silicon-valley-back-withdrawal-issues/?tpcc=tcplustwitter",
-          "publishedOn": "2023-03-10T01:30:03.000Z",
-          "wordCount": 7469,
-          "title": "Some SVB customers are struggling to wire funds out of the bank",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1035425002.jpg"
-        },
-        {
           "id": "https://www.coincenter.org/no-ether-is-not-a-security/",
           "author": null,
           "description": "No, ether is not a security.",
@@ -136,34 +156,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://treasurydirect.gov/",
-          "author": null,
-          "description": "Home — TreasuryDirect",
-          "link": "https://treasurydirect.gov/",
-          "publishedOn": "2023-03-09T23:00:02.000Z",
-          "wordCount": 1161,
-          "title": "Home — TreasuryDirect",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.coindesk.com/business/2023/03/09/zero-knowledge-crypto-startup-proven-raises-158m-in-seed-round/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial",
           "author": null,
           "description": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "link": "https://www.coindesk.com/business/2023/03/09/zero-knowledge-crypto-startup-proven-raises-158m-in-seed-round/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-03-09T22:00:03.000Z",
-          "wordCount": 19807,
+          "wordCount": 20104,
           "title": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "imageUrl": "https://www.coindesk.com/resizer/Uf8pvU4Eo_tWDBMZJTXlDvV1rVc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/57NMZPK535AN3LDCTXOQAO75DA.jpg"
-        },
-        {
-          "id": "https://www.theinformation.com/articles/silicon-valley-bank-ceo-tells-vc-clients-to-stay-calm?rc=hwneun",
-          "author": null,
-          "description": "Silicon Valley Bank CEO Tells VC Clients to ‘Stay Calm’",
-          "link": "https://www.theinformation.com/articles/silicon-valley-bank-ceo-tells-vc-clients-to-stay-calm?rc=hwneun",
-          "publishedOn": "2023-03-09T21:30:03.000Z",
-          "wordCount": 2266,
-          "title": "Silicon Valley Bank CEO Tells VC Clients to ‘Stay Calm’",
-          "imageUrl": "https://tii.imgix.net/production/articles/9998/5e6cdb3e-d3e4-4780-9fda-155ee2c70ba8.png?fm=jpg&auto=compress&w=1200&frame=0"
         },
         {
           "id": "https://www.youtube.com/watch?v=aOUUy4_KwNU",
