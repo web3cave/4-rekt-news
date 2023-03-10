@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vNlJzE_tdcU&feature=youtu.be",
+          "author": null,
+          "description": "What Happened to Silvergate Bank?",
+          "link": "https://www.youtube.com/watch?v=vNlJzE_tdcU&feature=youtu.be",
+          "publishedOn": "2023-03-10T03:00:03.000Z",
+          "wordCount": null,
+          "title": "What Happened to Silvergate Bank?",
+          "imageUrl": null
+        },
+        {
           "id": "https://collective.flashbots.net/t/decentralized-crypto-needs-you-to-be-a-geographical-decentralization-maxi/1385",
           "author": null,
           "description": "Decentralized crypto needs you: to be a geographical decentralization maxi",
@@ -41,7 +51,7 @@
           "description": "Some SVB customers are struggling to wire funds out of the bank",
           "link": "https://techcrunch.com/2023/03/09/silicon-valley-back-withdrawal-issues/?tpcc=tcplustwitter",
           "publishedOn": "2023-03-10T01:30:03.000Z",
-          "wordCount": 7291,
+          "wordCount": 8195,
           "title": "Some SVB customers are struggling to wire funds out of the bank",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1035425002.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "link": "https://www.coindesk.com/business/2023/03/09/zero-knowledge-crypto-startup-proven-raises-158m-in-seed-round/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-03-09T22:00:03.000Z",
-          "wordCount": 18681,
+          "wordCount": 18551,
           "title": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "imageUrl": "https://www.coindesk.com/resizer/Uf8pvU4Eo_tWDBMZJTXlDvV1rVc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/57NMZPK535AN3LDCTXOQAO75DA.jpg"
         },
@@ -94,16 +104,6 @@
           "wordCount": 12135,
           "title": "Deploy your crypto into DeFi - Oasis.app",
           "imageUrl": "https://oasis.app/static/img/og_images/og_default.png?0f258461-de3f-4869-8307-9c637c77d7ee"
-        },
-        {
-          "id": "https://bungee.exchange/",
-          "author": null,
-          "description": "Bungee",
-          "link": "https://bungee.exchange/",
-          "publishedOn": "2023-03-09T21:00:02.000Z",
-          "wordCount": 9,
-          "title": "Bungee",
-          "imageUrl": "https://bungee.exchange/preview-banner-1200.jpg"
         },
         {
           "id": "https://www.federalreserve.gov/newsevents/speech/barr20230309a.htm",
@@ -134,6 +134,16 @@
           "wordCount": 438,
           "title": "Nouns Contest",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.eventbrite.com/e/layer-2-london-2-tickets-547489314277",
+          "author": null,
+          "description": "Layer 2 London #2",
+          "link": "https://www.eventbrite.com/e/layer-2-london-2-tickets-547489314277",
+          "publishedOn": "2023-03-09T19:30:03.000Z",
+          "wordCount": 2750,
+          "title": "Layer 2 London #2",
+          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F445865279%2F1245603261543%2F1%2Foriginal.20230113-103649?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C225%2C1260%2C630&s=36d00225936d074ddd8629389f48971c"
         },
         {
           "id": "https://www.theblock.co/post/218447/coinbase-ventures-brevan-howard-among-early-backers-of-compliant-dex-mauve",
@@ -171,7 +181,7 @@
           "description": "Silvergate’s Story Is About Fundamentals, Not Just Crypto",
           "link": "https://www.wsj.com/articles/silvergates-story-is-about-fundamentals-not-just-crypto-30f08fc6",
           "publishedOn": "2023-03-09T16:30:03.000Z",
-          "wordCount": 7595,
+          "wordCount": 7603,
           "title": "Silvergate’s Story Is About Fundamentals, Not Just Crypto",
           "imageUrl": "https://images.wsj.net/im-739251/social"
         },
@@ -194,16 +204,6 @@
           "wordCount": null,
           "title": "Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023 Interview #4",
           "imageUrl": null
-        },
-        {
-          "id": "https://ethresear.ch/t/reducing-challenge-times-in-rollups/14997",
-          "author": null,
-          "description": "Reducing challenge times in rollups",
-          "link": "https://ethresear.ch/t/reducing-challenge-times-in-rollups/14997",
-          "publishedOn": "2023-03-08T19:00:02.000Z",
-          "wordCount": 1700,
-          "title": "Reducing challenge times in rollups",
-          "imageUrl": "https://ethresear.ch/uploads/default/original/2X/6/6097a53a28665397488e4a3ae79aa3c6384d6cc3.png"
         }
       ]
     }
