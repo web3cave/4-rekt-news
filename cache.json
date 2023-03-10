@@ -6,24 +6,44 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.fdic.gov/news/press-releases/2023/pr23016.html",
+          "author": null,
+          "description": "FDIC Creates a Deposit Insurance National Bank of Santa Clara to Protect\r\nInsured Depositors of Silicon Valley Bank,...",
+          "link": "https://www.fdic.gov/news/press-releases/2023/pr23016.html",
+          "publishedOn": "2023-03-10T19:00:02.000Z",
+          "wordCount": 1692,
+          "title": "FDIC Creates a Deposit Insurance National Bank of Santa Clara to Protect\r\nInsured Depositors of Silicon Valley Bank,...",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+        },
+        {
+          "id": "https://blockworks.co/news/bankless-enhances-web3-push-with-new-2-0-launch",
+          "author": null,
+          "description": "Bankless Enhances Web3 Push With New 2.0 Launch",
+          "link": "https://blockworks.co/news/bankless-enhances-web3-push-with-new-2-0-launch",
+          "publishedOn": "2023-03-10T19:00:02.000Z",
+          "wordCount": 18642,
+          "title": "Bankless Enhances Web3 Push With New 2.0 Launch",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/03/bankless-founder-adams.jpg"
+        },
+        {
+          "id": "https://www.fdic.gov/resources/deposit-insurance/faq/",
+          "author": null,
+          "description": "FDIC: Deposit Insurance FAQs",
+          "link": "https://www.fdic.gov/resources/deposit-insurance/faq/",
+          "publishedOn": "2023-03-10T18:30:02.000Z",
+          "wordCount": 3062,
+          "title": "FDIC: Deposit Insurance FAQs",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+        },
+        {
           "id": "https://www.bankless.com/",
           "author": null,
           "description": "Bankless 2.0 👀 🚀",
           "link": "https://www.bankless.com/",
           "publishedOn": "2023-03-10T18:00:03.000Z",
-          "wordCount": 2377,
+          "wordCount": 2375,
           "title": "Bankless 2.0 👀 🚀",
           "imageUrl": null
-        },
-        {
-          "id": "https://chamathreads.substack.com/p/what-i-read-this-week-79b?sd=pf",
-          "author": null,
-          "description": "What I read this week...",
-          "link": "https://chamathreads.substack.com/p/what-i-read-this-week-79b?sd=pf",
-          "publishedOn": "2023-03-10T18:00:03.000Z",
-          "wordCount": 2210,
-          "title": "What I read this week...",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15bf1bac-da35-49ce-80da-f7396fcfafe9_1280x640.jpeg"
         },
         {
           "id": "https://www.youtube.com/watch?v=rlBwpi4M6Is&feature=youtu.be",
@@ -71,7 +91,7 @@
           "description": "U.S. Treasury Department Proposes 30% Excise Tax on Crypto Mining Firms",
           "link": "https://www.coindesk.com/policy/2023/03/09/us-treasury-department-proposes-30-excise-tax-on-crypto-mining-firms/?utm_medium=social&utm_term=organic&utm_content=editorial&utm_campaign=coindesk_main&utm_source=twitter",
           "publishedOn": "2023-03-10T15:00:02.000Z",
-          "wordCount": 20897,
+          "wordCount": 20901,
           "title": "U.S. Treasury Department Proposes 30% Excise Tax on Crypto Mining Firms",
           "imageUrl": "https://www.coindesk.com/resizer/kg7BSYEUOF1OpQcf10-7Sd0ZQ0g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ILMBRT5HNVAJFGKVWVN6AE3SNU.jpg"
         },
@@ -81,7 +101,7 @@
           "description": "Why the Mental Health of Liberal Girls Sank First and Fastest",
           "link": "https://jonathanhaidt.substack.com/p/mental-health-liberal-girls",
           "publishedOn": "2023-03-10T14:00:03.000Z",
-          "wordCount": 12773,
+          "wordCount": 12778,
           "title": "Why the Mental Health of Liberal Girls Sank First and Fastest",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ef20560-9f6d-4c74-9360-311686d99d00_1600x900.png"
         },
@@ -126,16 +146,6 @@
           "imageUrl": "https://raw.githubusercontent.com/RektHQ/Assets/main/images/2023/01/silvergate-header.png"
         },
         {
-          "id": "https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends",
-          "author": null,
-          "description": "Discord is Your Place for AI with Friends",
-          "link": "https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends",
-          "publishedOn": "2023-03-10T01:30:03.000Z",
-          "wordCount": 2159,
-          "title": "Discord is Your Place for AI with Friends",
-          "imageUrl": "https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/64064bb87f76f7e45341ed38_AI-DD-Blog-Header.png"
-        },
-        {
           "id": "https://www.coincenter.org/no-ether-is-not-a-security/",
           "author": null,
           "description": "No, ether is not a security.",
@@ -161,7 +171,7 @@
           "description": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "link": "https://www.coindesk.com/business/2023/03/09/zero-knowledge-crypto-startup-proven-raises-158m-in-seed-round/?utm_medium=social&utm_term=organic&utm_campaign=coindesk_main&utm_source=twitter&utm_content=editorial",
           "publishedOn": "2023-03-09T22:00:03.000Z",
-          "wordCount": 20104,
+          "wordCount": 20108,
           "title": "Zero-Knowledge Crypto Startup Proven Raises $15.8M in Seed Round",
           "imageUrl": "https://www.coindesk.com/resizer/Uf8pvU4Eo_tWDBMZJTXlDvV1rVc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/57NMZPK535AN3LDCTXOQAO75DA.jpg"
         },
@@ -194,16 +204,6 @@
           "wordCount": 4649,
           "title": "Speech by Vice Chair for Supervision Barr on crypto",
           "imageUrl": "/Social_Default_Image.jpg"
-        },
-        {
-          "id": "https://nounscontest.wtf/?utm_source=twitter&utm_medium=social&utm_campaign=Machete",
-          "author": null,
-          "description": "Nouns Contest",
-          "link": "https://nounscontest.wtf/?utm_source=twitter&utm_medium=social&utm_campaign=Machete",
-          "publishedOn": "2023-03-09T19:30:03.000Z",
-          "wordCount": 438,
-          "title": "Nouns Contest",
-          "imageUrl": null
         }
       ]
     }
