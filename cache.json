@@ -6,14 +6,14 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Imdekis5BPQ&feature=youtu.be",
+          "id": "https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki",
           "author": null,
-          "description": "Why America Hates Big Tech",
-          "link": "https://www.youtube.com/watch?v=Imdekis5BPQ&feature=youtu.be",
-          "publishedOn": "2023-03-12T01:00:03.000Z",
-          "wordCount": null,
-          "title": "Why America Hates Big Tech",
-          "imageUrl": null
+          "description": "bips/bip-0050.mediawiki at master · bitcoin/bips",
+          "link": "https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki",
+          "publishedOn": "2023-03-12T02:30:03.000Z",
+          "wordCount": 1503,
+          "title": "bips/bip-0050.mediawiki at master · bitcoin/bips",
+          "imageUrl": "https://opengraph.githubassets.com/7f536cc9a2790a64b273252d7f2868f32af82d5928fc46fea47a46b83920fb59/bitcoin/bips"
         },
         {
           "id": "https://noelleacheson.substack.com/p/weekly-mar-11-2023",
@@ -36,16 +36,6 @@
           "imageUrl": "https://static.wixstatic.com/media/aaa324_58c850648be14f2f86131080d7a0a018~mv2.jpg/v1/fill/w_1600,h_836,al_c/aaa324_58c850648be14f2f86131080d7a0a018~mv2.jpg"
         },
         {
-          "id": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
-          "author": null,
-          "description": "Release v23.3.0 · status-im/nimbus-eth2",
-          "link": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
-          "publishedOn": "2023-03-11T23:00:02.000Z",
-          "wordCount": 793,
-          "title": "Release v23.3.0 · status-im/nimbus-eth2",
-          "imageUrl": "https://opengraph.githubassets.com/fb3640764f18b1c8eff5c8048378add0592de7816386c9953956c3ba22c08ea1/status-im/nimbus-eth2/releases/tag/v23.3.0"
-        },
-        {
           "id": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
           "author": null,
           "description": "Circle Reserve Fund | USDXX | Institutional",
@@ -54,6 +44,16 @@
           "wordCount": 8188,
           "title": "Circle Reserve Fund | USDXX | Institutional",
           "imageUrl": "/blk-inst-c-assets/include/common/images/blackrock_logo.png"
+        },
+        {
+          "id": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
+          "author": null,
+          "description": "Release v23.3.0 · status-im/nimbus-eth2",
+          "link": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
+          "publishedOn": "2023-03-11T23:00:02.000Z",
+          "wordCount": 793,
+          "title": "Release v23.3.0 · status-im/nimbus-eth2",
+          "imageUrl": "https://opengraph.githubassets.com/fb3640764f18b1c8eff5c8048378add0592de7816386c9953956c3ba22c08ea1/status-im/nimbus-eth2/releases/tag/v23.3.0"
         },
         {
           "id": "https://nayafia.substack.com/p/a-bank-of-ones-own",
@@ -81,7 +81,7 @@
           "description": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "link": "https://finance.yahoo.com/news/binance-considers-buying-banks-bridging-041209870.html",
           "publishedOn": "2023-03-11T19:30:03.000Z",
-          "wordCount": 13650,
+          "wordCount": 13627,
           "title": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dVPA01qbx9HFj7D2ZV8r3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/forkast_news_articles_672/65d373b52d7ac51c4f23f69c3b779623"
         },
@@ -116,6 +116,16 @@
           "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/16/04/8b/16048bf1-eb93-f098-d9ea-598ebdfa754b/mza_4664219288972665091.jpeg/1200x630wp.png"
         },
         {
+          "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228268",
+          "author": null,
+          "description": "Macroprudential Considerations for Tokenized Cash",
+          "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4228268",
+          "publishedOn": "2023-03-11T16:00:04.000Z",
+          "wordCount": 2185,
+          "title": "Macroprudential Considerations for Tokenized Cash",
+          "imageUrl": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vSvVkm7gViE",
           "author": null,
           "description": "The Chopping Block: Arthur Hayes on Why Crypto Needs to Ditch the Banks - Ep. 466",
@@ -144,16 +154,6 @@
           "wordCount": 2277,
           "title": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
           "imageUrl": "https://crypto.com/images/meta-og/home.png"
-        },
-        {
-          "id": "https://unchainedcrypto.com/the-chopping-block-arthur-hayes-on-why-crypto-needs-to-ditch-the-banks/",
-          "author": null,
-          "description": "The Chopping Block: Arthur Hayes on Why Crypto Needs to Ditch the Banks",
-          "link": "https://unchainedcrypto.com/the-chopping-block-arthur-hayes-on-why-crypto-needs-to-ditch-the-banks/",
-          "publishedOn": "2023-03-11T05:00:02.000Z",
-          "wordCount": 860,
-          "title": "The Chopping Block: Arthur Hayes on Why Crypto Needs to Ditch the Banks",
-          "imageUrl": "https://unchainedcrypto.com/wp-content/uploads/2023/03/UN466-SOCIAL.jpg"
         },
         {
           "id": "https://www.theblock.co/post/218971/circle-says-3-3-billion-of-usdc-reserves-are-with-silicon-valley-bank",
