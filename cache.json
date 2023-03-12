@@ -6,12 +6,62 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Imdekis5BPQ&feature=youtu.be",
+          "author": null,
+          "description": "Why America Hates Big Tech",
+          "link": "https://www.youtube.com/watch?v=Imdekis5BPQ&feature=youtu.be",
+          "publishedOn": "2023-03-12T01:00:03.000Z",
+          "wordCount": null,
+          "title": "Why America Hates Big Tech",
+          "imageUrl": null
+        },
+        {
+          "id": "https://noelleacheson.substack.com/p/weekly-mar-11-2023",
+          "author": null,
+          "description": "WEEKLY, Mar 11, 2023",
+          "link": "https://noelleacheson.substack.com/p/weekly-mar-11-2023",
+          "publishedOn": "2023-03-12T01:00:02.000Z",
+          "wordCount": 8941,
+          "title": "WEEKLY, Mar 11, 2023",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7a9cca3-6314-4340-b497-d81dbffef84a_1282x723.png"
+        },
+        {
+          "id": "https://www.nicktimiraos.com/book",
+          "author": null,
+          "description": "Trillion Dollar Triage | Nick Timiraos",
+          "link": "https://www.nicktimiraos.com/book",
+          "publishedOn": "2023-03-11T23:30:03.000Z",
+          "wordCount": 5243,
+          "title": "Trillion Dollar Triage | Nick Timiraos",
+          "imageUrl": "https://static.wixstatic.com/media/aaa324_58c850648be14f2f86131080d7a0a018~mv2.jpg/v1/fill/w_1600,h_836,al_c/aaa324_58c850648be14f2f86131080d7a0a018~mv2.jpg"
+        },
+        {
+          "id": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
+          "author": null,
+          "description": "Release v23.3.0 · status-im/nimbus-eth2",
+          "link": "https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.0",
+          "publishedOn": "2023-03-11T23:00:02.000Z",
+          "wordCount": 793,
+          "title": "Release v23.3.0 · status-im/nimbus-eth2",
+          "imageUrl": "https://opengraph.githubassets.com/fb3640764f18b1c8eff5c8048378add0592de7816386c9953956c3ba22c08ea1/status-im/nimbus-eth2/releases/tag/v23.3.0"
+        },
+        {
+          "id": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
+          "author": null,
+          "description": "Circle Reserve Fund | USDXX | Institutional",
+          "link": "https://www.blackrock.com/cash/en-us/products/329365/circle-reserve-fund",
+          "publishedOn": "2023-03-11T23:00:02.000Z",
+          "wordCount": 8188,
+          "title": "Circle Reserve Fund | USDXX | Institutional",
+          "imageUrl": "/blk-inst-c-assets/include/common/images/blackrock_logo.png"
+        },
+        {
           "id": "https://nayafia.substack.com/p/a-bank-of-ones-own",
           "author": null,
           "description": "A Bank of One's Own",
           "link": "https://nayafia.substack.com/p/a-bank-of-ones-own",
           "publishedOn": "2023-03-11T21:30:04.000Z",
-          "wordCount": 3825,
+          "wordCount": 3829,
           "title": "A Bank of One's Own",
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnayafia.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D462786425%26version%3D9"
         },
@@ -21,7 +71,7 @@
           "description": "An Update on USDC and Silicon Valley Bank",
           "link": "https://www.circle.com/blog/an-update-on-usdc-and-silicon-valley-bank",
           "publishedOn": "2023-03-11T21:30:03.000Z",
-          "wordCount": 2356,
+          "wordCount": 2368,
           "title": "An Update on USDC and Silicon Valley Bank",
           "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/svb.png#keepProtocol"
         },
@@ -31,7 +81,7 @@
           "description": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "link": "https://finance.yahoo.com/news/binance-considers-buying-banks-bridging-041209870.html",
           "publishedOn": "2023-03-11T19:30:03.000Z",
-          "wordCount": 13711,
+          "wordCount": 13650,
           "title": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dVPA01qbx9HFj7D2ZV8r3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/forkast_news_articles_672/65d373b52d7ac51c4f23f69c3b779623"
         },
@@ -41,9 +91,19 @@
           "description": "Circle says outstanding USDC transactions won’t process until Monday",
           "link": "https://www.theblock.co/post/219045/circle-says-outstanding-usdc-transactions-wont-process-until-monday",
           "publishedOn": "2023-03-11T19:00:02.000Z",
-          "wordCount": 65298,
+          "wordCount": 65183,
           "title": "Circle says outstanding USDC transactions won’t process until Monday",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-1-1200x675.jpg"
+        },
+        {
+          "id": "https://blog.lopp.net/2022-bitcoin-node-performance-tests/",
+          "author": null,
+          "description": "2022 Bitcoin Node Performance Tests",
+          "link": "https://blog.lopp.net/2022-bitcoin-node-performance-tests/",
+          "publishedOn": "2023-03-11T18:00:03.000Z",
+          "wordCount": 2581,
+          "title": "2022 Bitcoin Node Performance Tests",
+          "imageUrl": "https://blog.lopp.net/content/images/2022/12/bitcoin-performance.png"
         },
         {
           "id": "https://podcasts.apple.com/us/podcast/unchained/id1123922160?i=1000603667675",
@@ -86,16 +146,6 @@
           "imageUrl": "https://crypto.com/images/meta-og/home.png"
         },
         {
-          "id": "https://www.zerohedge.com/markets/record-bank-run-drained-quarter-or-42-billion-svbs-deposits-hours-leaving-it-negative-1bn",
-          "author": null,
-          "description": "Record Bank Run Drained A Quarter, Or $42BN, Of SVB's Deposits In Hours, Leaving It With Negative $1BN In Cash |...",
-          "link": "https://www.zerohedge.com/markets/record-bank-run-drained-quarter-or-42-billion-svbs-deposits-hours-leaving-it-negative-1bn",
-          "publishedOn": "2023-03-11T07:00:03.000Z",
-          "wordCount": 3516,
-          "title": "Record Bank Run Drained A Quarter, Or $42BN, Of SVB's Deposits In Hours, Leaving It With Negative $1BN In Cash |...",
-          "imageUrl": null
-        },
-        {
           "id": "https://unchainedcrypto.com/the-chopping-block-arthur-hayes-on-why-crypto-needs-to-ditch-the-banks/",
           "author": null,
           "description": "The Chopping Block: Arthur Hayes on Why Crypto Needs to Ditch the Banks",
@@ -111,7 +161,7 @@
           "description": "Circle says $3.3 billion of USDC reserves are with Silicon Valley Bank",
           "link": "https://www.theblock.co/post/218971/circle-says-3-3-billion-of-usdc-reserves-are-with-silicon-valley-bank",
           "publishedOn": "2023-03-11T05:00:02.000Z",
-          "wordCount": 65532,
+          "wordCount": 65417,
           "title": "Circle says $3.3 billion of USDC reserves are with Silicon Valley Bank",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
         },
@@ -126,52 +176,12 @@
           "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
-          "id": "https://www.fdic.gov/bank/historical/bank/",
-          "author": null,
-          "description": "FDIC: Bank Failures in Brief",
-          "link": "https://www.fdic.gov/bank/historical/bank/",
-          "publishedOn": "2023-03-11T01:30:04.000Z",
-          "wordCount": 1034,
-          "title": "FDIC: Bank Failures in Brief",
-          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
-        },
-        {
-          "id": "https://school.taprootwizards.com/",
-          "author": null,
-          "description": "Taproot Wizards School",
-          "link": "https://school.taprootwizards.com/",
-          "publishedOn": "2023-03-11T01:00:02.000Z",
-          "wordCount": 64,
-          "title": "Taproot Wizards School",
-          "imageUrl": "https://school.taprootwizards.com/images/share/joined_wizard_school-4473102ca46850fe084b477143659861.jpg?vsn=d"
-        },
-        {
-          "id": "https://zbiotics.com/",
-          "author": null,
-          "description": "ZBiotics",
-          "link": "https://zbiotics.com/",
-          "publishedOn": "2023-03-11T01:00:02.000Z",
-          "wordCount": 6070,
-          "title": "ZBiotics",
-          "imageUrl": "http://cdn.shopify.com/s/files/1/0117/5139/1332/files/logo_shop_2103a8da-3319-4138-980e-fd2e20fd14bd.png?v=1630194744"
-        },
-        {
-          "id": "https://thecoh.build/",
-          "author": null,
-          "description": "the COH",
-          "link": "https://thecoh.build/",
-          "publishedOn": "2023-03-11T01:00:02.000Z",
-          "wordCount": 7205,
-          "title": "the COH",
-          "imageUrl": "https://thecoh.build/assets/images/share.jpg?v=1a6f3b68"
-        },
-        {
           "id": "https://www.circle.com/en/transparency",
           "author": null,
           "description": "Transparency & Stability - Circle",
           "link": "https://www.circle.com/en/transparency",
           "publishedOn": "2023-03-11T00:30:02.000Z",
-          "wordCount": 1696,
+          "wordCount": 1698,
           "title": "Transparency & Stability - Circle",
           "imageUrl": "https://www.circle.com/hubfs/Page%20cards/share-tns.png#keepProtocol"
         },
@@ -184,16 +194,6 @@
           "wordCount": 9972,
           "title": "Uncertainty stands around multibillion USDC empire as issuer Circle held reserves at Silicon Valley Bank",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1362847684.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://www.house.gov/representatives/find-your-representative",
-          "author": null,
-          "description": "Find Your Representative | house.gov",
-          "link": "https://www.house.gov/representatives/find-your-representative",
-          "publishedOn": "2023-03-10T21:30:03.000Z",
-          "wordCount": 810,
-          "title": "Find Your Representative | house.gov",
-          "imageUrl": null
         },
         {
           "id": "https://explorer.roninchain.com/tx/0x45420f57914eea4a1b7bb0d94599ccbf3b71c216ce2f1462b337157c09a7c879",
