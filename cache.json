@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/yellen-says-government-will-help-svb-depositors-no-bailout-fed-fdic-hopes-talk-special",
+          "author": null,
+          "description": "Yellen Says Government Will Help SVB Depositors But \"No Bailout\" As Fed, FDIC \"Hope\" Talk Of Special Vehicle Prevents...",
+          "link": "https://www.zerohedge.com/markets/yellen-says-government-will-help-svb-depositors-no-bailout-fed-fdic-hopes-talk-special",
+          "publishedOn": "2023-03-12T17:00:02.000Z",
+          "wordCount": 1973,
+          "title": "Yellen Says Government Will Help SVB Depositors But \"No Bailout\" As Fed, FDIC \"Hope\" Talk Of Special Vehicle Prevents...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ft.com/content/cde4aa95-1cb5-408d-b35f-3216eaee46ae?shareType=nongift",
           "author": null,
           "description": "UK government seeks to tap Middle East money to buy out Silicon Valley Bank unit",
@@ -14,26 +24,6 @@
           "wordCount": 1667,
           "title": "UK government seeks to tap Middle East money to buy out Silicon Valley Bank unit",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=g9aTwwe98xk&feature=youtu.be",
-          "author": null,
-          "description": "ETHDenver recap, USDC drama and much more - The Daily Gwei Refuel #547 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=g9aTwwe98xk&feature=youtu.be",
-          "publishedOn": "2023-03-12T15:00:03.000Z",
-          "wordCount": null,
-          "title": "ETHDenver recap, USDC drama and much more - The Daily Gwei Refuel #547 - Ethereum Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sceneswithsimon.substack.com/p/stop-smoking-the-algorithms",
-          "author": null,
-          "description": "Stop Smoking The Algorithms",
-          "link": "https://sceneswithsimon.substack.com/p/stop-smoking-the-algorithms",
-          "publishedOn": "2023-03-12T15:00:03.000Z",
-          "wordCount": 4417,
-          "title": "Stop Smoking The Algorithms",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ebc9c12-5d30-4ccb-803b-d4b9e7ad05f6_2046x1416.png"
         },
         {
           "id": "https://dergigi.com/2023/03/12/lightning-prisms/",
@@ -61,7 +51,7 @@
           "description": "Moonbirds whale sells almost 500 NFTs on Blur for significant losses",
           "link": "https://www.theblock.co/post/219097/moonbirds-whale-sells-almost-500-nfts-on-blur-for-significant-losses?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-12T15:00:02.000Z",
-          "wordCount": 63132,
+          "wordCount": 63460,
           "title": "Moonbirds whale sells almost 500 NFTs on Blur for significant losses",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221107_Blur5-1200x675.jpg"
         },
@@ -161,9 +151,19 @@
           "description": "USDC will remain redeemable 1 for 1 with U.S. dollar, Circle says",
           "link": "https://www.theblock.co/post/219075/usdc-will-remain-redeemable-1-for-1-with-u-s-dollar-circle-says?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-11T22:00:03.000Z",
-          "wordCount": 63705,
+          "wordCount": 64033,
           "title": "USDC will remain redeemable 1 for 1 with U.S. dollar, Circle says",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-1-1200x675.jpg"
+        },
+        {
+          "id": "https://github.com/ethereum/pm/issues/741",
+          "author": null,
+          "description": "Shapella Community Call #2 · Issue #741 · ethereum/pm",
+          "link": "https://github.com/ethereum/pm/issues/741",
+          "publishedOn": "2023-03-11T22:00:03.000Z",
+          "wordCount": 465,
+          "title": "Shapella Community Call #2 · Issue #741 · ethereum/pm",
+          "imageUrl": "https://opengraph.githubassets.com/15f3e4e4f418250efe71c83d17f6cdb7fa4b11bc6522363bfb740c81f19516b0/ethereum/pm/issues/741"
         },
         {
           "id": "https://nayafia.substack.com/p/a-bank-of-ones-own",
@@ -191,7 +191,7 @@
           "description": "Circle says outstanding USDC transactions won’t process until Monday",
           "link": "https://www.theblock.co/post/219045/circle-says-outstanding-usdc-transactions-wont-process-until-monday",
           "publishedOn": "2023-03-11T19:00:02.000Z",
-          "wordCount": 63611,
+          "wordCount": 63939,
           "title": "Circle says outstanding USDC transactions won’t process until Monday",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-1-1200x675.jpg"
         },
