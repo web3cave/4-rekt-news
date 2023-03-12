@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://school.taprootwizards.com/",
+          "author": null,
+          "description": "Taproot Wizards School",
+          "link": "https://school.taprootwizards.com/",
+          "publishedOn": "2023-03-12T03:30:03.000Z",
+          "wordCount": 64,
+          "title": "Taproot Wizards School",
+          "imageUrl": "https://school.taprootwizards.com/images/share/joined_wizard_school-4473102ca46850fe084b477143659861.jpg?vsn=d"
+        },
+        {
+          "id": "https://www.sec.gov/news/statement/peirce-uyeda-statement-vaneck-bitcoin-trust-031023",
+          "author": null,
+          "description": "SEC.gov | Statement Regarding the Commission’s Disapproval of a Proposed Rule Change to List and Trade Shares of the...",
+          "link": "https://www.sec.gov/news/statement/peirce-uyeda-statement-vaneck-bitcoin-trust-031023",
+          "publishedOn": "2023-03-12T03:30:03.000Z",
+          "wordCount": 3751,
+          "title": "SEC.gov | Statement Regarding the Commission’s Disapproval of a Proposed Rule Change to List and Trade Shares of the...",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki",
           "author": null,
           "description": "bips/bip-0050.mediawiki at master · bitcoin/bips",
@@ -56,12 +76,22 @@
           "imageUrl": "https://opengraph.githubassets.com/fb3640764f18b1c8eff5c8048378add0592de7816386c9953956c3ba22c08ea1/status-im/nimbus-eth2/releases/tag/v23.3.0"
         },
         {
+          "id": "https://www.theblock.co/post/219075/usdc-will-remain-redeemable-1-for-1-with-u-s-dollar-circle-says?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "USDC will remain redeemable 1 for 1 with U.S. dollar, Circle says",
+          "link": "https://www.theblock.co/post/219075/usdc-will-remain-redeemable-1-for-1-with-u-s-dollar-circle-says?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2023-03-11T22:00:03.000Z",
+          "wordCount": 65277,
+          "title": "USDC will remain redeemable 1 for 1 with U.S. dollar, Circle says",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-1-1200x675.jpg"
+        },
+        {
           "id": "https://nayafia.substack.com/p/a-bank-of-ones-own",
           "author": null,
           "description": "A Bank of One's Own",
           "link": "https://nayafia.substack.com/p/a-bank-of-ones-own",
           "publishedOn": "2023-03-11T21:30:04.000Z",
-          "wordCount": 3829,
+          "wordCount": 3822,
           "title": "A Bank of One's Own",
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnayafia.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D462786425%26version%3D9"
         },
@@ -81,7 +111,7 @@
           "description": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "link": "https://finance.yahoo.com/news/binance-considers-buying-banks-bridging-041209870.html",
           "publishedOn": "2023-03-11T19:30:03.000Z",
-          "wordCount": 13531,
+          "wordCount": 13638,
           "title": "Binance considers buying banks, bridging gap between crypto, TradFi",
           "imageUrl": "https://s.yimg.com/ny/api/res/1.2/dVPA01qbx9HFj7D2ZV8r3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MzY-/https://media.zenfs.com/en/forkast_news_articles_672/65d373b52d7ac51c4f23f69c3b779623"
         },
@@ -146,26 +176,6 @@
           "imageUrl": "https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/1X/68e5b859631b8f66624f5880acb8c189a32aee64.png"
         },
         {
-          "id": "https://crypto.com/",
-          "author": null,
-          "description": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
-          "link": "https://crypto.com/",
-          "publishedOn": "2023-03-11T12:00:03.000Z",
-          "wordCount": 2277,
-          "title": "Crypto.com: The best place to buy Bitcoin, Ethereum, and 250+ altcoins",
-          "imageUrl": "https://crypto.com/images/meta-og/home.png"
-        },
-        {
-          "id": "https://www.theblock.co/post/218971/circle-says-3-3-billion-of-usdc-reserves-are-with-silicon-valley-bank",
-          "author": null,
-          "description": "Circle says $3.3 billion of USDC reserves are with Silicon Valley Bank",
-          "link": "https://www.theblock.co/post/218971/circle-says-3-3-billion-of-usdc-reserves-are-with-silicon-valley-bank",
-          "publishedOn": "2023-03-11T05:00:02.000Z",
-          "wordCount": 65417,
-          "title": "Circle says $3.3 billion of USDC reserves are with Silicon Valley Bank",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
-        },
-        {
           "id": "https://www.fdic.gov/news/speeches/2023/spmar0623.html",
           "author": null,
           "description": "Remarks by FDIC Chairman Martin Gruenberg at the Institute of International Bankers",
@@ -184,16 +194,6 @@
           "wordCount": 1698,
           "title": "Transparency & Stability - Circle",
           "imageUrl": "https://www.circle.com/hubfs/Page%20cards/share-tns.png#keepProtocol"
-        },
-        {
-          "id": "https://techcrunch.com/2023/03/10/uncertainty-stands-around-multi-billion-usdc-empire-as-issuer-circle-held-reserves-at-silicon-valley-bank/",
-          "author": null,
-          "description": "Uncertainty stands around multibillion USDC empire as issuer Circle held reserves at Silicon Valley Bank",
-          "link": "https://techcrunch.com/2023/03/10/uncertainty-stands-around-multi-billion-usdc-empire-as-issuer-circle-held-reserves-at-silicon-valley-bank/",
-          "publishedOn": "2023-03-10T22:00:03.000Z",
-          "wordCount": 9972,
-          "title": "Uncertainty stands around multibillion USDC empire as issuer Circle held reserves at Silicon Valley Bank",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1362847684.jpg?resize=1200,800"
         },
         {
           "id": "https://explorer.roninchain.com/tx/0x45420f57914eea4a1b7bb0d94599ccbf3b71c216ce2f1462b337157c09a7c879",
