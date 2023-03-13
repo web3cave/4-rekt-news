@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T02:40:49.665Z</id>
+    <id>urn:2023-03-13T03:19:21.225Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-13T02:40:49.665Z</updated>
+    <updated>2023-03-13T03:19:21.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SVB DAO]]></title>
+        <id>https://svbdao.xyz/</id>
+        <link href="https://svbdao.xyz/"/>
+        <updated>2023-03-13T03:00:09.000Z</updated>
+        <summary type="html"><![CDATA[SVB DAO]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICS and CDARS - High-Balance Personal Deposit Accounts with FDIC Insurance]]></title>
         <id>https://www.stearnsbank.com/personal/high-balance-deposit</id>
@@ -171,16 +181,6 @@
         <link href="https://www.binance.com/en/support/announcement/binance-adds-bnb-usdc-btc-usdc-eth-usdc-trading-pairs-0f1a3f8a7af640b6bd296752ec3d0ada"/>
         <updated>2023-03-12T05:00:04.000Z</updated>
         <summary type="html"><![CDATA[Binance Adds BNB/USDC, BTC/USDC & ETH/USDC Trading Pairs | Binance Support]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taproot Wizards School]]></title>
-        <id>https://school.taprootwizards.com/</id>
-        <link href="https://school.taprootwizards.com/"/>
-        <updated>2023-03-12T03:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Taproot Wizards School]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
