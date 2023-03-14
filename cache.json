@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6NNoDmHd-h8&feature=youtu.be",
+          "author": null,
+          "description": "The Secret To Thriving In A Recession | Codie Sanchez",
+          "link": "https://www.youtube.com/watch?v=6NNoDmHd-h8&feature=youtu.be",
+          "publishedOn": "2023-03-14T05:00:03.000Z",
+          "wordCount": null,
+          "title": "The Secret To Thriving In A Recession | Codie Sanchez",
+          "imageUrl": null
+        },
+        {
+          "id": "https://skymavis.com/careers/head-of-people-F67FD5306D",
+          "author": null,
+          "description": "Head of People - Ho Chi Minh City",
+          "link": "https://skymavis.com/careers/head-of-people-F67FD5306D",
+          "publishedOn": "2023-03-14T05:00:03.000Z",
+          "wordCount": 2427,
+          "title": "Head of People - Ho Chi Minh City",
+          "imageUrl": "../thumbnail.png"
+        },
+        {
+          "id": "https://parallel.life/game-manual/world-of-parallel/",
+          "author": null,
+          "description": "Parallel | Game Manual",
+          "link": "https://parallel.life/game-manual/world-of-parallel/",
+          "publishedOn": "2023-03-14T05:00:02.000Z",
+          "wordCount": 1338,
+          "title": "Parallel | Game Manual",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=g9aTwwe98xk&feature=youtu.be",
+          "author": null,
+          "description": "ETHDenver recap, USDC drama and much more - The Daily Gwei Refuel #547 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=g9aTwwe98xk&feature=youtu.be",
+          "publishedOn": "2023-03-14T04:30:03.000Z",
+          "wordCount": null,
+          "title": "ETHDenver recap, USDC drama and much more - The Daily Gwei Refuel #547 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cftc.gov/PressRoom/PressReleases/8674-23",
           "author": null,
           "description": "Commissioner Goldsmith Romero Announces Newly Constituted Technology Advisory Committee and Announces Chair and Vice...",
@@ -14,16 +54,6 @@
           "wordCount": 2077,
           "title": "Commissioner Goldsmith Romero Announces Newly Constituted Technology Advisory Committee and Announces Chair and Vice...",
           "imageUrl": "https://www.cftc.gov/sites/default/files/CFTC-OB-Photo-200113-Press-6.jpg"
-        },
-        {
-          "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230313a.htm",
-          "author": null,
-          "description": "Federal Reserve Board announces that Vice Chair for Supervision Michael S. Barr is leading a review of the...",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230313a.htm",
-          "publishedOn": "2023-03-13T23:00:03.000Z",
-          "wordCount": 1314,
-          "title": "Federal Reserve Board announces that Vice Chair for Supervision Michael S. Barr is leading a review of the...",
-          "imageUrl": ""
         },
         {
           "id": "https://www.warren.senate.gov/imo/media/doc/2023.01.30%20Follow-up%20Letter%20to%20Silvergate%20Bank%20re%20Crypto%20Exposure%20and%20FTX%20Impropriety1.pdf",
@@ -36,32 +66,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/rotki/rotki/blob/d4f432fa4e0a1cdbcd6f95874bf1faee4f6127c3/rotkehlchen/chain/evm/transactions.py#L76",
-          "author": null,
-          "description": "rotki/transactions.py at d4f432fa4e0a1cdbcd6f95874bf1faee4f6127c3 · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/blob/d4f432fa4e0a1cdbcd6f95874bf1faee4f6127c3/rotkehlchen/chain/evm/transactions.py#L76",
-          "publishedOn": "2023-03-13T21:30:04.000Z",
-          "wordCount": 2591,
-          "title": "rotki/transactions.py at d4f432fa4e0a1cdbcd6f95874bf1faee4f6127c3 · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/707e40c1b73233e580e6954a6f61733a94383ce8117196aec9d6dbef4c20fcd2/rotki/rotki"
-        },
-        {
-          "id": "https://github.com/rotki/rotki/issues/478",
-          "author": null,
-          "description": "Importing data from Trueblocks · Issue #478 · rotki/rotki",
-          "link": "https://github.com/rotki/rotki/issues/478",
-          "publishedOn": "2023-03-13T21:30:04.000Z",
-          "wordCount": 524,
-          "title": "Importing data from Trueblocks · Issue #478 · rotki/rotki",
-          "imageUrl": "https://opengraph.githubassets.com/b4d9357ca672a1eb5afae0878642519bf9e66ecb5c8327e7506d7ca6b610d906/rotki/rotki/issues/478"
-        },
-        {
           "id": "https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html",
           "author": null,
           "description": "Why regulators seized Signature Bank in third-biggest bank failure in U.S. history",
           "link": "https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html",
           "publishedOn": "2023-03-13T21:00:03.000Z",
-          "wordCount": 17157,
+          "wordCount": 17158,
           "title": "Why regulators seized Signature Bank in third-biggest bank failure in U.S. history",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107207276-1678675550867-gettyimages-1248106828-AA_13032023_1107077.jpeg?v=1678722151&w=1920&h=1080"
         },
@@ -91,7 +101,7 @@
           "description": "SVB Banking Crisis, Fed Pivot, BTC ETH price action📈",
           "link": "https://www.youtube.com/live/XB1_NHj8gXk?feature=share",
           "publishedOn": "2023-03-13T21:00:03.000Z",
-          "wordCount": 4322,
+          "wordCount": 4437,
           "title": "SVB Banking Crisis, Fed Pivot, BTC ETH price action📈",
           "imageUrl": "https://i.ytimg.com/vi/XB1_NHj8gXk/hqdefault.jpg"
         },
@@ -136,10 +146,10 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=1WDXmRstAmc&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?t=1432&v=1WDXmRstAmc&feature=youtu.be",
           "author": null,
           "description": "Uniswap record volumes, ethOS 2.0 released and more - The Daily Gwei Refuel #548 - Ethereum Updates",
-          "link": "https://www.youtube.com/watch?v=1WDXmRstAmc&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?t=1432&v=1WDXmRstAmc&feature=youtu.be",
           "publishedOn": "2023-03-13T18:00:03.000Z",
           "wordCount": null,
           "title": "Uniswap record volumes, ethOS 2.0 released and more - The Daily Gwei Refuel #548 - Ethereum Updates",
@@ -151,7 +161,7 @@
           "description": "A lot of people heard what Barney Frank said about the new banking law. Few knew he works for a bank.",
           "link": "https://www.washingtonpost.com/news/wonk/wp/2018/05/24/a-lot-of-people-heard-what-barney-frank-said-about-the-new-banking-law-few-knew-he-works-for-a-bank/",
           "publishedOn": "2023-03-13T16:00:12.000Z",
-          "wordCount": 7121,
+          "wordCount": 7142,
           "title": "A lot of people heard what Barney Frank said about the new banking law. Few knew he works for a bank.",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/rf/image_960w/2010-2019/Wires/Images/2018-05-02/AP/Banking_Bill_50821.jpg-c360a.jpg&w=1440"
         },
@@ -184,16 +194,6 @@
           "wordCount": 3262,
           "title": "Sunsetting Aztec Connect",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*tJ35TUJdi_Myry-NgblnRg.png"
-        },
-        {
-          "id": "https://www.circle.com/en/pressroom/3.3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes",
-          "author": null,
-          "description": "$3.3 Billion of USDC Reserve Risk Removed, Dollar De-peg Closes",
-          "link": "https://www.circle.com/en/pressroom/3.3-billion-of-usdc-reserve-risk-removed-dollar-de-peg-closes",
-          "publishedOn": "2023-03-13T06:34:08.000Z",
-          "wordCount": 1776,
-          "title": "$3.3 Billion of USDC Reserve Risk Removed, Dollar De-peg Closes",
-          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/svb-response2.png#keepProtocol"
         },
         {
           "id": "https://www.cbsnews.com/news/janet-yellen-face-the-nation-transcript-03-12-2023/",
