@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T01:35:49.036Z</id>
+    <id>urn:2023-03-15T02:39:42.690Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T01:35:49.036Z</updated>
+    <updated>2023-03-15T02:39:42.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://www.kansascityfed.org/banking/community-banking-bulletin/highlight-unrealized-losses-lowering-tangible-equity-capital/"/>
         <updated>2023-03-14T21:00:02.000Z</updated>
         <summary type="html"><![CDATA[Highlight: Unrealized Losses Lowering Tangible Equity Capital]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rotki Usage Guide — rotki 1.27.1 documentation]]></title>
+        <id>https://rotki.readthedocs.io/en/latest/usage_guide.html</id>
+        <link href="https://rotki.readthedocs.io/en/latest/usage_guide.html"/>
+        <updated>2023-03-14T21:00:02.000Z</updated>
+        <summary type="html"><![CDATA[rotki Usage Guide — rotki 1.27.1 documentation]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -57,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4 Developer Livestream]]></title>
-        <id>https://www.youtube.com/live/outcGtbnMuQ?feature=share&amp;t=3267</id>
-        <link href="https://www.youtube.com/live/outcGtbnMuQ?feature=share&amp;t=3267"/>
+        <id>https://www.youtube.com/live/outcGtbnMuQ?feature=share</id>
+        <link href="https://www.youtube.com/live/outcGtbnMuQ?feature=share"/>
         <updated>2023-03-14T19:00:03.000Z</updated>
         <summary type="html"><![CDATA[GPT-4 Developer Livestream]]></summary>
         <author>
@@ -151,16 +161,6 @@
         <link href="https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016/2"/>
         <updated>2023-03-14T11:00:03.000Z</updated>
         <summary type="html"><![CDATA[Based rollups—superpowers from L1 sequencing]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Oracle Manipulation after the Merge so cheap? Multi-Block MEV.]]></title>
-        <id>https://chainsecurity.com/oracle-manipulation-after-merge/</id>
-        <link href="https://chainsecurity.com/oracle-manipulation-after-merge/"/>
-        <updated>2023-03-14T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Why is Oracle Manipulation after the Merge so cheap? Multi-Block MEV.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
