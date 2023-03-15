@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
+          "author": null,
+          "description": "The End of Silicon Valley (Bank)",
+          "link": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
+          "publishedOn": "2023-03-15T13:00:04.000Z",
+          "wordCount": 5591,
+          "title": "The End of Silicon Valley (Bank)",
+          "imageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2023/03/svb-1.png"
+        },
+        {
+          "id": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
+          "author": null,
+          "description": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
+          "link": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
+          "publishedOn": "2023-03-15T13:00:04.000Z",
+          "wordCount": 12837,
+          "title": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
+          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/640bb2b5c25a8a2fb67aa269/0x0.jpg?format=jpg&crop=1623,913,x0,y84,safe&width=1200"
+        },
+        {
           "id": "https://www.circle.com/blog/march-14-2023-update-on-usdc-operations?utm_campaign=Campaign%20%7C%20Comms%20Announcement&utm_content=241538349&utm_medium=social&utm_source=twitter&hss_channel=tw-235916868",
           "author": null,
           "description": "March 14, 2023 | Update on USDC Operations",
@@ -26,16 +46,6 @@
           "imageUrl": "https://1inch.io/assets/social-image/limit-order-protocol.png"
         },
         {
-          "id": "https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/",
-          "author": null,
-          "description": "50 Landfills Mining Bitcoin = A Net zero emission Bitcoin network – Batcoinz",
-          "link": "https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/",
-          "publishedOn": "2023-03-15T11:00:02.000Z",
-          "wordCount": 4068,
-          "title": "50 Landfills Mining Bitcoin = A Net zero emission Bitcoin network – Batcoinz",
-          "imageUrl": null
-        },
-        {
           "id": "https://checkpoint.tessera.co/",
           "author": null,
           "description": "Checkpoint",
@@ -51,7 +61,7 @@
           "description": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "link": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
           "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 4423,
+          "wordCount": 4237,
           "title": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "imageUrl": "https://i.ytimg.com/vi/mGmZ1jNX4_k/maxresdefault_live.jpg"
         },
@@ -151,19 +161,9 @@
           "description": "Moody's cuts outlook on U.S. banking system to negative, citing 'rapidly deteriorating operating environment'",
           "link": "https://www.cnbc.com/2023/03/14/moodys-cuts-outlook-on-us-banking-system-to-negative-citing-rapidly-deteriorating-operating-environment.html?__source=sharebar|twitter&par=sharebar",
           "publishedOn": "2023-03-14T19:00:03.000Z",
-          "wordCount": 17194,
+          "wordCount": 17069,
           "title": "Moody's cuts outlook on U.S. banking system to negative, citing 'rapidly deteriorating operating environment'",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107208047-1678762927308-gettyimages-1473390101-vcg111427121595.jpeg?v=1678807255&w=1920&h=1080"
-        },
-        {
-          "id": "https://www.gmicrypto.media/",
-          "author": null,
-          "description": "GMI Crypto Media",
-          "link": "https://www.gmicrypto.media/",
-          "publishedOn": "2023-03-14T19:00:03.000Z",
-          "wordCount": 2213,
-          "title": "GMI Crypto Media",
-          "imageUrl": "http://static1.squarespace.com/static/633de25bdc48c320184e3bba/t/63467d57a515fd6e88bddc31/1665563991991/gmi+logo.png?format=1500w"
         },
         {
           "id": "https://openai.com/research/gpt-4",
@@ -181,7 +181,7 @@
           "description": "EU Parliament passes smart contract regulation under Data Act",
           "link": "https://www.theblock.co/post/219590/eu-parliament-passes-smart-contract-regulation-under-data-act?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-14T13:30:04.000Z",
-          "wordCount": 64823,
+          "wordCount": 64857,
           "title": "EU Parliament passes smart contract regulation under Data Act",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221220_EU_Parliament-Brussels-1-1200x675.jpg"
         },
