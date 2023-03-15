@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aJNbtGmPosw&ab_channel=ETHDenver",
+          "author": null,
+          "description": "2022 in Review: the Year of “Collateral” Damage by Haseeb Qureshi",
+          "link": "https://www.youtube.com/watch?v=aJNbtGmPosw&ab_channel=ETHDenver",
+          "publishedOn": "2023-03-15T21:30:03.000Z",
+          "wordCount": null,
+          "title": "2022 in Review: the Year of “Collateral” Damage by Haseeb Qureshi",
+          "imageUrl": null
+        },
+        {
           "id": "https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html",
           "author": null,
           "description": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "link": "https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html",
           "publishedOn": "2023-03-15T21:00:04.000Z",
-          "wordCount": 28169,
+          "wordCount": 28191,
           "title": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/11f/a99/2fdce08e37c103fe92d5ad83a02711a43b-Barney-Frank.1x.rsocial.w1200.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "link": "https://www.coindesk.com/policy/2023/03/15/silvergate-was-not-cut-off-from-fhlb-loans-bank-says/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 20482,
+          "wordCount": 20496,
           "title": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "imageUrl": "https://www.coindesk.com/resizer/UwdgF0mNVe1Vr-MkSGtn8OoKmHA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5TM5IYZYUREE5A2XZFWHTIUUPE.png"
         },
@@ -61,7 +71,7 @@
           "description": "Client Diversity | Ethereum",
           "link": "https://clientdiversity.org/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 696,
+          "wordCount": 697,
           "title": "Client Diversity | Ethereum",
           "imageUrl": "/assets/img/cover/cover.png"
         },
@@ -71,19 +81,9 @@
           "description": "How Africans Are Using Bitcoin Without Internet Access",
           "link": "https://www.forbes.com/sites/digital-assets/2023/03/15/how-africans-are-using-bitcoin-without-internet-access/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 11259,
+          "wordCount": 11223,
           "title": "How Africans Are Using Bitcoin Without Internet Access",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/640f66e43486310717216405/0x0.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://www.alphacaster.xyz/feed/nouns",
-          "author": null,
-          "description": "Alphacaster",
-          "link": "https://www.alphacaster.xyz/feed/nouns",
-          "publishedOn": "2023-03-15T20:00:03.000Z",
-          "wordCount": 2656,
-          "title": "Alphacaster",
-          "imageUrl": "https://alphacaster.xyz/api/og?path=/feed/nouns"
         },
         {
           "id": "https://www.zerohedge.com/markets/investor-carl-icahn-issues-grim-warning-us-economy-breaking-down",
@@ -121,7 +121,7 @@
           "description": "SVB and the Fed",
           "link": "https://noahpinion.substack.com/p/svb-and-the-fed",
           "publishedOn": "2023-03-15T15:00:02.000Z",
-          "wordCount": 6165,
+          "wordCount": 6170,
           "title": "SVB and the Fed",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249160da-fb89-4bb8-ac92-8e48e43062f1_1207x807.jpeg"
         },
@@ -191,19 +191,19 @@
           "description": "Fortnite's Epic Has 'Close to 20' Crypto Games in Store Pipeline",
           "link": "https://blockworks.co/news/epic-games-fortnite-store-crypto-blockchain",
           "publishedOn": "2023-03-15T03:00:03.000Z",
-          "wordCount": 20429,
+          "wordCount": 19535,
           "title": "Fortnite's Epic Has 'Close to 20' Crypto Games in Store Pipeline",
           "imageUrl": "https://blockworks.co/_next/image?url=https://cms.blockworks.co/wp-content/uploads/2023/03/epicgames.jpg&w=1920&q=75&webp=false"
         },
         {
-          "id": "https://openai.com/research/gpt-4",
+          "id": "https://openai.com/product/gpt-4",
           "author": null,
           "description": "GPT-4",
-          "link": "https://openai.com/research/gpt-4",
+          "link": "https://openai.com/product/gpt-4",
           "publishedOn": "2023-03-14T18:00:03.000Z",
-          "wordCount": 4513,
+          "wordCount": 956,
           "title": "GPT-4",
-          "imageUrl": "https://openaicom.imgix.net/243b509f-9d19-438e-a2ce-05e9ea5086a9/gpt-4.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2048%2C1367"
+          "imageUrl": "https://openaicom.imgix.net/b10b0822-5e3d-4161-b02a-9117a2d69302/GPT-4-cover.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=769%2C0%2C2160%2C2160"
         }
       ]
     }
