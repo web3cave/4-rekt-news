@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/passing-buck-svb-bank-run",
+          "author": null,
+          "description": "Passing The Buck On The SVB Bank-Run | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/passing-buck-svb-bank-run",
+          "publishedOn": "2023-03-15T16:30:03.000Z",
+          "wordCount": 1947,
+          "title": "Passing The Buck On The SVB Bank-Run | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/peter-schiff-latest-bank-bailout-another-nail-capitalisms-coffin",
+          "author": null,
+          "description": "Peter Schiff: The Latest Bank Bailout Is Another Nail In Capitalism's Coffin | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/peter-schiff-latest-bank-bailout-another-nail-capitalisms-coffin",
+          "publishedOn": "2023-03-15T16:00:04.000Z",
+          "wordCount": 1724,
+          "title": "Peter Schiff: The Latest Bank Bailout Is Another Nail In Capitalism's Coffin | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://noahpinion.substack.com/p/svb-and-the-fed",
           "author": null,
           "description": "SVB and the Fed",
           "link": "https://noahpinion.substack.com/p/svb-and-the-fed",
           "publishedOn": "2023-03-15T15:00:02.000Z",
-          "wordCount": 5593,
+          "wordCount": 5592,
           "title": "SVB and the Fed",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249160da-fb89-4bb8-ac92-8e48e43062f1_1207x807.jpeg"
-        },
-        {
-          "id": "https://archive.is/CtW1B#selection-1031.109-1031.259",
-          "author": null,
-          "description": "Banks Are Bingeing on Bonds, but Not Because They Want To - The New Y…",
-          "link": "https://archive.is/CtW1B#selection-1031.109-1031.259",
-          "publishedOn": "2023-03-15T14:00:04.000Z",
-          "wordCount": null,
-          "title": "Banks Are Bingeing on Bonds, but Not Because They Want To - The New Y…",
-          "imageUrl": null
         },
         {
           "id": "https://saifedean.com/poe",
@@ -61,7 +71,7 @@
           "description": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
           "link": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
           "publishedOn": "2023-03-15T13:00:04.000Z",
-          "wordCount": 12837,
+          "wordCount": 12844,
           "title": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/640bb2b5c25a8a2fb67aa269/0x0.jpg?format=jpg&crop=1623,913,x0,y84,safe&width=1200"
         },
@@ -101,7 +111,7 @@
           "description": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "link": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
           "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 4233,
+          "wordCount": 4305,
           "title": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "imageUrl": "https://i.ytimg.com/vi/mGmZ1jNX4_k/maxresdefault.jpg"
         },
@@ -146,16 +156,6 @@
           "imageUrl": "https://blockworks.co/_next/image?url=https://cms.blockworks.co/wp-content/uploads/2023/03/epicgames.jpg&w=1920&q=75&webp=false"
         },
         {
-          "id": "https://fortune.com/crypto/2023/03/14/nothing-to-do-with-crypto-regulators-barney-frank-signature/",
-          "author": null,
-          "description": "'Nothing to do with crypto': Regulators pour cold water on Barney Frank's claim Signature Bank was targeted",
-          "link": "https://fortune.com/crypto/2023/03/14/nothing-to-do-with-crypto-regulators-barney-frank-signature/",
-          "publishedOn": "2023-03-15T03:00:03.000Z",
-          "wordCount": 4866,
-          "title": "'Nothing to do with crypto': Regulators pour cold water on Barney Frank's claim Signature Bank was targeted",
-          "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/03/GettyImages-1240766274-e1678808773504.jpg?resize=1200,600"
-        },
-        {
           "id": "https://blog.usecapsule.com/onboarding-is-dead-long-live-transacting-introducing-capsule/",
           "author": null,
           "description": "Onboarding is Dead. Long live Transacting.",
@@ -191,7 +191,7 @@
           "description": "GPT-4 Developer Livestream",
           "link": "https://www.youtube.com/live/outcGtbnMuQ?feature=share",
           "publishedOn": "2023-03-14T19:00:03.000Z",
-          "wordCount": 3454,
+          "wordCount": 3616,
           "title": "GPT-4 Developer Livestream",
           "imageUrl": "https://i.ytimg.com/vi/outcGtbnMuQ/maxresdefault.jpg"
         },
