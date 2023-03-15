@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.alphacaster.xyz/feed/nouns",
+          "author": null,
+          "description": "Alphacaster",
+          "link": "https://www.alphacaster.xyz/feed/nouns",
+          "publishedOn": "2023-03-15T20:00:03.000Z",
+          "wordCount": 2548,
+          "title": "Alphacaster",
+          "imageUrl": "https://alphacaster.xyz/api/og?path=/feed/nouns"
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/investor-carl-icahn-issues-grim-warning-us-economy-breaking-down",
+          "author": null,
+          "description": "Investor Carl Icahn Issues Grim Warning On US Economy \"Breaking Down\" | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/investor-carl-icahn-issues-grim-warning-us-economy-breaking-down",
+          "publishedOn": "2023-03-15T20:00:03.000Z",
+          "wordCount": 2202,
+          "title": "Investor Carl Icahn Issues Grim Warning On US Economy \"Breaking Down\" | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&utm_medium=rss",
           "author": null,
           "description": "'We're trying to save crypto from the banks': Circle CEO Allaire",
           "link": "https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&utm_medium=rss",
           "publishedOn": "2023-03-15T19:00:03.000Z",
-          "wordCount": 64227,
+          "wordCount": 65195,
           "title": "'We're trying to save crypto from the banks': Circle CEO Allaire",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "SVB and the Fed",
           "link": "https://noahpinion.substack.com/p/svb-and-the-fed",
           "publishedOn": "2023-03-15T15:00:02.000Z",
-          "wordCount": 6108,
+          "wordCount": 6171,
           "title": "SVB and the Fed",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249160da-fb89-4bb8-ac92-8e48e43062f1_1207x807.jpeg"
         },
@@ -91,19 +111,9 @@
           "description": "The End of Silicon Valley (Bank)",
           "link": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
           "publishedOn": "2023-03-15T13:00:04.000Z",
-          "wordCount": 5595,
+          "wordCount": 5594,
           "title": "The End of Silicon Valley (Bank)",
           "imageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2023/03/svb-1.png"
-        },
-        {
-          "id": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
-          "author": null,
-          "description": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
-          "link": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
-          "publishedOn": "2023-03-15T13:00:04.000Z",
-          "wordCount": 12907,
-          "title": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
-          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/640bb2b5c25a8a2fb67aa269/0x0.jpg?format=jpg&crop=1623,913,x0,y84,safe&width=1200"
         },
         {
           "id": "https://www.circle.com/blog/march-14-2023-update-on-usdc-operations?utm_campaign=Campaign%20%7C%20Comms%20Announcement&utm_content=241538349&utm_medium=social&utm_source=twitter&hss_channel=tw-235916868",
@@ -146,16 +156,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://freenft.com/",
-          "author": null,
-          "description": "FreeNFT",
-          "link": "https://freenft.com/",
-          "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 623,
-          "title": "FreeNFT",
-          "imageUrl": "https://hosting.photobucket.com/images/i/lucas71/Group_33527439.png"
-        },
-        {
           "id": "https://zengo.com/aa-and-mpc-frens-with-benefits/",
           "author": null,
           "description": "Account Abstraction and MPC: Frens with benefits! - ZenGo",
@@ -191,9 +191,9 @@
           "description": "The Filecoin Virtual Machine (FVM) is live on Mainnet!",
           "link": "https://filecoin.io/blog/posts/fvm-is-live-on-mainnet/",
           "publishedOn": "2023-03-14T19:30:03.000Z",
-          "wordCount": 1894,
+          "wordCount": null,
           "title": "The Filecoin Virtual Machine (FVM) is live on Mainnet!",
-          "imageUrl": "https://filecoin.io/uploads/fvm_launch_og.jpg?c=1678879536"
+          "imageUrl": null
         },
         {
           "id": "https://openai.com/research/gpt-4",
