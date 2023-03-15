@@ -6,14 +6,14 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.zerohedge.com/markets/passing-buck-svb-bank-run",
+          "id": "https://github.com/LaurentMazare/diffusers-rs",
           "author": null,
-          "description": "Passing The Buck On The SVB Bank-Run | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/passing-buck-svb-bank-run",
-          "publishedOn": "2023-03-15T16:30:03.000Z",
-          "wordCount": 1947,
-          "title": "Passing The Buck On The SVB Bank-Run | ZeroHedge",
-          "imageUrl": null
+          "description": "GitHub - LaurentMazare/diffusers-rs: An implementation of the diffusers api in Rust",
+          "link": "https://github.com/LaurentMazare/diffusers-rs",
+          "publishedOn": "2023-03-15T18:00:04.000Z",
+          "wordCount": 1390,
+          "title": "GitHub - LaurentMazare/diffusers-rs: An implementation of the diffusers api in Rust",
+          "imageUrl": "https://opengraph.githubassets.com/beb5de0ce01336415d9580ebbe9cde999242564bd1f43e09c5aab783de470d96/LaurentMazare/diffusers-rs"
         },
         {
           "id": "https://www.zerohedge.com/markets/peter-schiff-latest-bank-bailout-another-nail-capitalisms-coffin",
@@ -31,7 +31,7 @@
           "description": "SVB and the Fed",
           "link": "https://noahpinion.substack.com/p/svb-and-the-fed",
           "publishedOn": "2023-03-15T15:00:02.000Z",
-          "wordCount": 5592,
+          "wordCount": 5590,
           "title": "SVB and the Fed",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F249160da-fb89-4bb8-ac92-8e48e43062f1_1207x807.jpeg"
         },
@@ -71,7 +71,7 @@
           "description": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
           "link": "https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Gordie",
           "publishedOn": "2023-03-15T13:00:04.000Z",
-          "wordCount": 12844,
+          "wordCount": 13003,
           "title": "SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/640bb2b5c25a8a2fb67aa269/0x0.jpg?format=jpg&crop=1623,913,x0,y84,safe&width=1200"
         },
@@ -106,12 +106,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
+          "id": "https://www.youtube.com/live/mGmZ1jNX4_k",
           "author": null,
           "description": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
-          "link": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
+          "link": "https://www.youtube.com/live/mGmZ1jNX4_k",
           "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 4305,
+          "wordCount": 4470,
           "title": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "imageUrl": "https://i.ytimg.com/vi/mGmZ1jNX4_k/maxresdefault.jpg"
         },
@@ -121,7 +121,7 @@
           "description": "Account Abstraction and MPC: Frens with benefits! - ZenGo",
           "link": "https://zengo.com/aa-and-mpc-frens-with-benefits/",
           "publishedOn": "2023-03-15T03:30:04.000Z",
-          "wordCount": 6272,
+          "wordCount": 6296,
           "title": "Account Abstraction and MPC: Frens with benefits! - ZenGo",
           "imageUrl": "https://zengo.com/wp-content/uploads/3840x960-6.png"
         },
@@ -186,14 +186,14 @@
           "imageUrl": "https://filecoin.io/uploads/fvm_launch_og.jpg?c=1678879536"
         },
         {
-          "id": "https://www.youtube.com/live/outcGtbnMuQ?feature=share",
+          "id": "https://www.youtube.com/watch?v=outcGtbnMuQ",
           "author": null,
           "description": "GPT-4 Developer Livestream",
-          "link": "https://www.youtube.com/live/outcGtbnMuQ?feature=share",
+          "link": "https://www.youtube.com/watch?v=outcGtbnMuQ",
           "publishedOn": "2023-03-14T19:00:03.000Z",
-          "wordCount": 3616,
+          "wordCount": null,
           "title": "GPT-4 Developer Livestream",
-          "imageUrl": "https://i.ytimg.com/vi/outcGtbnMuQ/maxresdefault.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://openai.com/research/gpt-4",
