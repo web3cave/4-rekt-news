@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&utm_medium=rss",
+          "author": null,
+          "description": "'We're trying to save crypto from the banks': Circle CEO Allaire",
+          "link": "https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&utm_medium=rss",
+          "publishedOn": "2023-03-16T08:00:04.000Z",
+          "wordCount": 63304,
+          "title": "'We're trying to save crypto from the banks': Circle CEO Allaire",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2020/12/20201218_Circle-2-1200x675.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview",
+          "author": null,
+          "description": "OpenAI co-founder on company’s past approach to openly sharing research: “We were wrong”",
+          "link": "https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview",
+          "publishedOn": "2023-03-16T07:30:04.000Z",
+          "wordCount": 11552,
+          "title": "OpenAI co-founder on company’s past approach to openly sharing research: “We were wrong”",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
+        },
+        {
           "id": "https://www.streetinsider.com/Mergers+and+Acquisitions/Exclusive-U.S.+regulator+eyes+Friday+bids+for+SVB%2C+Signature+Bank-sources/21375498.html",
           "author": null,
           "description": "Exclusive-U.S. regulator eyes Friday bids for SVB, Signature Bank-sources",
           "link": "https://www.streetinsider.com/Mergers+and+Acquisitions/Exclusive-U.S.+regulator+eyes+Friday+bids+for+SVB%2C+Signature+Bank-sources/21375498.html",
           "publishedOn": "2023-03-16T07:00:05.000Z",
-          "wordCount": 2654,
+          "wordCount": 2666,
           "title": "Exclusive-U.S. regulator eyes Friday bids for SVB, Signature Bank-sources",
           "imageUrl": "http://www.streetinsider.com/images/news2/213/21375498/resize_LYNXMPEJ2E0QB.jpg"
         },
@@ -24,16 +44,6 @@
           "wordCount": 224,
           "title": "Doodles Sock Piling",
           "imageUrl": "/images/social_image.jpg"
-        },
-        {
-          "id": "https://dreamsneverdie.xyz/minting/",
-          "author": null,
-          "description": "Minting – Dreams Never Die",
-          "link": "https://dreamsneverdie.xyz/minting/",
-          "publishedOn": "2023-03-16T05:00:04.000Z",
-          "wordCount": 3614,
-          "title": "Minting – Dreams Never Die",
-          "imageUrl": null
         },
         {
           "id": "https://www.circle.com/blog/march-15-update-on-usdc-operations?utm_content=241691274&utm_medium=social&utm_source=twitter&hss_channel=tw-2151686839",
@@ -51,7 +61,7 @@
           "description": "Exclusive: U.S. regulator taps Piper Sandler in new bid to sell Silicon Valley Bank -sources",
           "link": "https://www.reuters.com/business/finance/us-regulator-taps-piper-sandler-new-bid-sell-silicon-valley-bank-sources-2023-03-15/",
           "publishedOn": "2023-03-16T04:30:05.000Z",
-          "wordCount": 5535,
+          "wordCount": 5587,
           "title": "Exclusive: U.S. regulator taps Piper Sandler in new bid to sell Silicon Valley Bank -sources",
           "imageUrl": "https://www.reuters.com/resizer/cVn9yPs76K5J2KIvTJiYgmML88M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MNJ4TST7NJOXFJYOWZPMZR2VWY.jpg"
         },
@@ -81,7 +91,7 @@
           "description": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "link": "https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html",
           "publishedOn": "2023-03-15T21:00:04.000Z",
-          "wordCount": 28189,
+          "wordCount": 28199,
           "title": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/11f/a99/2fdce08e37c103fe92d5ad83a02711a43b-Barney-Frank.1x.rsocial.w1200.jpg"
         },
@@ -91,7 +101,7 @@
           "description": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "link": "https://www.coindesk.com/policy/2023/03/15/silvergate-was-not-cut-off-from-fhlb-loans-bank-says/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 20488,
+          "wordCount": 20341,
           "title": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "imageUrl": "https://www.coindesk.com/resizer/UwdgF0mNVe1Vr-MkSGtn8OoKmHA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5TM5IYZYUREE5A2XZFWHTIUUPE.png"
         },
@@ -111,7 +121,7 @@
           "description": "Fidelity Crypto quietly went live, giving millions of retail customers access to bitcoin, ether",
           "link": "https://www.theblock.co/post/220298/fidelity-crypto-quietly-went-live-giving-millions-of-retail-customers-access-to-bitcoin-ether?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 64562,
+          "wordCount": 63067,
           "title": "Fidelity Crypto quietly went live, giving millions of retail customers access to bitcoin, ether",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
         },
@@ -191,19 +201,9 @@
           "description": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "link": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
           "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 4916,
+          "wordCount": 4943,
           "title": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "imageUrl": "https://i.ytimg.com/vi/mGmZ1jNX4_k/maxresdefault.jpg"
-        },
-        {
-          "id": "https://jacob.energy/mint-first.html",
-          "author": null,
-          "description": "Mint First",
-          "link": "https://jacob.energy/mint-first.html",
-          "publishedOn": "2023-03-15T03:00:03.000Z",
-          "wordCount": 1010,
-          "title": "Mint First",
-          "imageUrl": "https://jacob.energy/img/mint-first.png"
         }
       ]
     }
