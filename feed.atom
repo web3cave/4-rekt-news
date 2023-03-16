@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T17:17:29.929Z</id>
+    <id>urn:2023-03-16T18:23:49.246Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T17:17:29.929Z</updated>
+    <updated>2023-03-16T18:23:49.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Minting – Dreams Never Die]]></title>
+        <id>https://dreamsneverdie.xyz/minting/</id>
+        <link href="https://dreamsneverdie.xyz/minting/"/>
+        <updated>2023-03-16T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Minting – Dreams Never Die]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Federal Reserve Board announces denial of application by Custodia Bank, Inc. to become a member of the Federal...]]></title>
         <id>https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm</id>
@@ -51,16 +61,6 @@
         <link href="https://unchainedcrypto.com/the-chopping-block-was-crypto-just-debanked/"/>
         <updated>2023-03-16T16:00:03.000Z</updated>
         <summary type="html"><![CDATA[The Chopping Block: Was Crypto Just Debanked?]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['We're trying to save crypto from the banks': Circle CEO Allaire]]></title>
-        <id>https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&amp;utm_medium=rss</id>
-        <link href="https://www.theblock.co/post/220214/circle-ceo-jeremy-allaire-talks-crypto-banks?utm_source=rss&amp;utm_medium=rss"/>
-        <updated>2023-03-16T08:00:04.000Z</updated>
-        <summary type="html"><![CDATA['We're trying to save crypto from the banks': Circle CEO Allaire]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -126,16 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 in Review: the Year of “Collateral” Damage by Haseeb Qureshi]]></title>
-        <id>https://www.youtube.com/watch?v=aJNbtGmPosw&amp;ab_channel=ETHDenver</id>
-        <link href="https://www.youtube.com/watch?v=aJNbtGmPosw&amp;ab_channel=ETHDenver"/>
-        <updated>2023-03-15T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[2022 in Review: the Year of “Collateral” Damage by Haseeb Qureshi]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Barney Frank Talks More About the Surprise Shuttering of Signature Bank]]></title>
         <id>https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html</id>
         <link href="https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html"/>
@@ -186,21 +176,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9. Membership — protocol-guild  documentation]]></title>
-        <id>https://protocol-guild.readthedocs.io/en/latest/9-membership.html</id>
-        <link href="https://protocol-guild.readthedocs.io/en/latest/9-membership.html"/>
-        <updated>2023-03-15T19:00:02.000Z</updated>
-        <summary type="html"><![CDATA[9. Membership — protocol-guild  documentation]]></summary>
+        <title type="html"><![CDATA[Clients - ethernodes.org - The Ethereum Network & Node Explorer]]></title>
+        <id>https://ethernodes.org/</id>
+        <link href="https://ethernodes.org/"/>
+        <updated>2023-03-15T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Clients - ethernodes.org - The Ethereum Network & Node Explorer]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uniswap Interface]]></title>
-        <id>https://app.uniswap.org/</id>
-        <link href="https://app.uniswap.org/"/>
-        <updated>2023-03-15T18:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Interface]]></summary>
+        <title type="html"><![CDATA[Ordinals — Hiro]]></title>
+        <id>https://ordinals.hiro.so/</id>
+        <link href="https://ordinals.hiro.so/"/>
+        <updated>2023-03-15T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Ordinals — Hiro]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9. Membership — protocol-guild  documentation]]></title>
+        <id>https://protocol-guild.readthedocs.io/en/latest/9-membership.html</id>
+        <link href="https://protocol-guild.readthedocs.io/en/latest/9-membership.html"/>
+        <updated>2023-03-15T19:00:02.000Z</updated>
+        <summary type="html"><![CDATA[9. Membership — protocol-guild  documentation]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
