@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.interfluidity.com/v2/2669.html",
+          "author": null,
+          "description": "interfluidity  » Why is finance so complex?",
+          "link": "https://www.interfluidity.com/v2/2669.html",
+          "publishedOn": "2023-03-16T04:00:04.000Z",
+          "wordCount": 13481,
+          "title": "interfluidity  » Why is finance so complex?",
+          "imageUrl": null
+        },
+        {
           "id": "https://stripe.com/en-gb-us/newsroom/news/stripe-series-i-employee-liquidity",
           "author": null,
           "description": "Stripe announces new round of funding and plan to provide employee liquidity",
@@ -26,16 +36,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/political/svb-collapse-how-financial-crisis-boosts-cbdc-threat",
-          "author": null,
-          "description": "The SVB Collapse: How Financial Crisis Boosts The CBDC 'Threat' | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/svb-collapse-how-financial-crisis-boosts-cbdc-threat",
-          "publishedOn": "2023-03-16T02:00:03.000Z",
-          "wordCount": 2216,
-          "title": "The SVB Collapse: How Financial Crisis Boosts The CBDC 'Threat' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=aJNbtGmPosw&ab_channel=ETHDenver",
           "author": null,
           "description": "2022 in Review: the Year of “Collateral” Damage by Haseeb Qureshi",
@@ -51,7 +51,7 @@
           "description": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "link": "https://nymag.com/intelligencer/2023/03/barney-frank-says-more-shuttering-signature-bank.html",
           "publishedOn": "2023-03-15T21:00:04.000Z",
-          "wordCount": 28200,
+          "wordCount": 28189,
           "title": "Barney Frank Talks More About the Surprise Shuttering of Signature Bank",
           "imageUrl": "https://pyxis.nymag.com/v1/imgs/11f/a99/2fdce08e37c103fe92d5ad83a02711a43b-Barney-Frank.1x.rsocial.w1200.jpg"
         },
@@ -61,7 +61,7 @@
           "description": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "link": "https://www.coindesk.com/policy/2023/03/15/silvergate-was-not-cut-off-from-fhlb-loans-bank-says/",
           "publishedOn": "2023-03-15T21:00:03.000Z",
-          "wordCount": 20601,
+          "wordCount": 20585,
           "title": "Silvergate Was Not Cut Off From Loans, FHLB Says",
           "imageUrl": "https://www.coindesk.com/resizer/UwdgF0mNVe1Vr-MkSGtn8OoKmHA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5TM5IYZYUREE5A2XZFWHTIUUPE.png"
         },
@@ -191,7 +191,7 @@
           "description": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "link": "https://www.youtube.com/live/mGmZ1jNX4_k?feature=share",
           "publishedOn": "2023-03-15T05:00:02.000Z",
-          "wordCount": 4530,
+          "wordCount": 4496,
           "title": "Circle's CEO, Jeremy Allaire on USDC, SVB's Collapse, & the U.S. Banking System",
           "imageUrl": "https://i.ytimg.com/vi/mGmZ1jNX4_k/maxresdefault.jpg"
         },
