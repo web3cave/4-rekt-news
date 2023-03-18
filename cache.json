@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://greshake.github.io/",
+          "author": null,
+          "description": "Prompt Injections are bad, mkay?",
+          "link": "https://greshake.github.io/",
+          "publishedOn": "2023-03-18T06:00:04.000Z",
+          "wordCount": 389,
+          "title": "Prompt Injections are bad, mkay?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://podcasts.apple.com/us/podcast/sec-commissioner-peirce-inside-the-sec-with-cryptomom/id1438148082?i=1000604448038",
+          "author": null,
+          "description": "‎The Delphi Podcast: SEC Commissioner Peirce: Inside the SEC with Cryptomom on Apple Podcasts",
+          "link": "https://podcasts.apple.com/us/podcast/sec-commissioner-peirce-inside-the-sec-with-cryptomom/id1438148082?i=1000604448038",
+          "publishedOn": "2023-03-18T05:30:04.000Z",
+          "wordCount": 9187,
+          "title": "‎The Delphi Podcast: SEC Commissioner Peirce: Inside the SEC with Cryptomom on Apple Podcasts",
+          "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/5e/79/d2/5e79d25f-6e02-a581-9835-4a73e839d673/mza_4342590511474000365.jpg/1200x630wp.png"
+        },
+        {
           "id": "https://www.wsj.com/articles/signature-banks-crypto-execution-c707bb48?mod=e2two",
           "author": null,
           "description": "Opinion | Signature Bank’s Crypto Execution",
@@ -21,7 +41,7 @@
           "description": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
           "publishedOn": "2023-03-18T01:00:02.000Z",
-          "wordCount": 22081,
+          "wordCount": 22079,
           "title": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
           "imageUrl": "https://www.coindesk.com/resizer/PEEE7lrz82bXMLEeeC-sNbopYvw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KVPAXYOCLFCSRPVXJZC7GPXFLM.jpg"
         },
@@ -151,7 +171,7 @@
           "description": "How I think about choosing guardians for multisig and social recovery wallets",
           "link": "https://old.reddit.com/r/ethereum/comments/11tijiv/how_i_think_about_choosing_guardians_for_multisig/",
           "publishedOn": "2023-03-17T09:00:03.000Z",
-          "wordCount": 7126,
+          "wordCount": 7142,
           "title": "How I think about choosing guardians for multisig and social recovery wallets",
           "imageUrl": "https://external-preview.redd.it/Ky-u6eJ1b-n9DXNOR4N3IacWOxo5UgGeKs6JtjhFq9w.jpg?width=1200&height=628.272251309&auto=webp&crop=1200:628.272251309,smart&v=enabled&s=a8e45ee716d01c67a2eeabefdd091e57277fa726"
         },
@@ -161,7 +181,7 @@
           "description": "The Silicon Valley Bank fallout makes the case for digital currencies",
           "link": "https://www.ft.com/content/c66e6980-2d64-407a-ad79-2d85c3e32e69",
           "publishedOn": "2023-03-17T01:30:03.000Z",
-          "wordCount": 1672,
+          "wordCount": 1668,
           "title": "The Silicon Valley Bank fallout makes the case for digital currencies",
           "imageUrl": null
         },
@@ -184,26 +204,6 @@
           "wordCount": 7328,
           "title": "The Espresso Sequencer - HackMD",
           "imageUrl": "https://i.imgur.com/tysiC5J.png"
-        },
-        {
-          "id": "http://demo.zksub.io/",
-          "author": null,
-          "description": "Subscribe to gated mailing lists with privacy",
-          "link": "http://demo.zksub.io/",
-          "publishedOn": "2023-03-16T19:00:02.000Z",
-          "wordCount": 9,
-          "title": "Subscribe to gated mailing lists with privacy",
-          "imageUrl": "https://i.imgur.com/aflDcwL.png"
-        },
-        {
-          "id": "https://docs.sismo.io/sismo-docs/",
-          "author": null,
-          "description": "What is Sismo? - Sismo Docs",
-          "link": "https://docs.sismo.io/sismo-docs/",
-          "publishedOn": "2023-03-16T19:00:02.000Z",
-          "wordCount": 2440,
-          "title": "What is Sismo? - Sismo Docs",
-          "imageUrl": null
         }
       ]
     }
