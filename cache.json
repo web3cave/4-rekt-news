@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.proofofhumanity.org/",
+          "author": null,
+          "description": "Proof of Humanity, a sybil-proof list of humans.",
+          "link": "https://www.proofofhumanity.org/",
+          "publishedOn": "2023-03-18T18:00:03.000Z",
+          "wordCount": 27,
+          "title": "Proof of Humanity, a sybil-proof list of humans.",
+          "imageUrl": "https://proofofhumanity.org/images/open-graph-image.png"
+        },
+        {
           "id": "https://podcasts.apple.com/us/podcast/the-breakdown/id1438693620?i=1000604576272",
           "author": null,
           "description": "‎The Breakdown: Apparently, U.S. Regulated Banks Are Riskier Than Stablecoins on Apple Podcasts",
@@ -31,7 +41,7 @@
           "description": "\"Take Our Nation Back\": Trump Calls For Protests As 'Imminent' Arrest Expected | ZeroHedge",
           "link": "https://www.zerohedge.com/political/big-distraction-fox-news-says-manhattan-da-planning-trump-indictment-next-week",
           "publishedOn": "2023-03-18T17:00:02.000Z",
-          "wordCount": 3548,
+          "wordCount": 3801,
           "title": "\"Take Our Nation Back\": Trump Calls For Protests As 'Imminent' Arrest Expected | ZeroHedge",
           "imageUrl": null
         },
@@ -121,7 +131,7 @@
           "description": "Opinion | Signature Bank’s Crypto Execution",
           "link": "https://www.wsj.com/articles/signature-banks-crypto-execution-c707bb48?mod=e2two",
           "publishedOn": "2023-03-18T03:00:03.000Z",
-          "wordCount": 7488,
+          "wordCount": 7490,
           "title": "Opinion | Signature Bank’s Crypto Execution",
           "imageUrl": "https://images.wsj.net/im-746168/social"
         },
@@ -131,9 +141,9 @@
           "description": "GitHub - Anish-Agnihotri/Hyperbitcoinization: $1 Million USDC vs 1 Wrapped Bitcoin 90-day term bet, inspired by...",
           "link": "https://github.com/Anish-Agnihotri/Hyperbitcoinization",
           "publishedOn": "2023-03-18T03:00:03.000Z",
-          "wordCount": 648,
+          "wordCount": 712,
           "title": "GitHub - Anish-Agnihotri/Hyperbitcoinization: $1 Million USDC vs 1 Wrapped Bitcoin 90-day term bet, inspired by...",
-          "imageUrl": "https://opengraph.githubassets.com/b9806e000b230602e6f311c347fab5770e987ea7e389ea84907606e4092b1122/Anish-Agnihotri/Hyperbitcoinization"
+          "imageUrl": "https://opengraph.githubassets.com/369ad279beacf93f487fb34dd84d3d8c5bbd2ebe549387f3b65335e911edd525/Anish-Agnihotri/Hyperbitcoinization"
         },
         {
           "id": "https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
@@ -141,19 +151,9 @@
           "description": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
           "link": "https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/?utm_content=editorial&utm_source=twitter&utm_campaign=coindesk_main&utm_medium=social&utm_term=organic",
           "publishedOn": "2023-03-18T01:00:02.000Z",
-          "wordCount": 22019,
+          "wordCount": 22008,
           "title": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
           "imageUrl": "https://www.coindesk.com/resizer/PEEE7lrz82bXMLEeeC-sNbopYvw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KVPAXYOCLFCSRPVXJZC7GPXFLM.jpg"
-        },
-        {
-          "id": "https://www.theblock.co/post/216718/polygon-labs-rebecca-rettig-on-policy-regulation?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Smart contracts are neither smart, nor contracts. Polygon’s policy chief on jargon and pushing ahead.",
-          "link": "https://www.theblock.co/post/216718/polygon-labs-rebecca-rettig-on-policy-regulation?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-17T23:00:04.000Z",
-          "wordCount": 63755,
-          "title": "Smart contracts are neither smart, nor contracts. Polygon’s policy chief on jargon and pushing ahead.",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/IMG_9934-1-1013x675.jpg"
         },
         {
           "id": "https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852",
@@ -161,7 +161,7 @@
           "description": "UBS in talks to acquire Credit Suisse",
           "link": "https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852",
           "publishedOn": "2023-03-17T22:30:04.000Z",
-          "wordCount": 1676,
+          "wordCount": 1679,
           "title": "UBS in talks to acquire Credit Suisse",
           "imageUrl": null
         },
