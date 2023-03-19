@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/personal-finance/france-enjoys-comparably-low-retirement-age",
+          "author": null,
+          "description": "France Enjoys Comparably Low Retirement Age | ZeroHedge",
+          "link": "https://www.zerohedge.com/personal-finance/france-enjoys-comparably-low-retirement-age",
+          "publishedOn": "2023-03-19T13:00:03.000Z",
+          "wordCount": 1110,
+          "title": "France Enjoys Comparably Low Retirement Age | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/us-funding-experiment-digital-control-ukraine",
           "author": null,
           "description": "Is The US Funding An Experiment In Digital Control In Ukraine? | ZeroHedge",
@@ -46,26 +56,6 @@
           "imageUrl": "https://www.bitcoin.com/images/uploads/facebook.png"
         },
         {
-          "id": "https://www.meetup.com/ja-JP/web3tokyo/events/292331630/",
-          "author": null,
-          "description": "ミームチェーンの王「DogeChain」東京パーティ／ King of MemeChains \"DogeChain\" Tokyo Party, 2023年4月21日(金) 21:30   | Meetup",
-          "link": "https://www.meetup.com/ja-JP/web3tokyo/events/292331630/",
-          "publishedOn": "2023-03-19T09:30:05.000Z",
-          "wordCount": 763,
-          "title": "ミームチェーンの王「DogeChain」東京パーティ／ King of MemeChains \"DogeChain\" Tokyo Party, 2023年4月21日(金) 21:30   | Meetup",
-          "imageUrl": "https://secure.meetupstatic.com/photos/event/7/c/9/0/600_511411888.jpeg"
-        },
-        {
-          "id": "https://radiant.capital/",
-          "author": null,
-          "description": "Radiant",
-          "link": "https://radiant.capital/",
-          "publishedOn": "2023-03-19T09:00:03.000Z",
-          "wordCount": 193,
-          "title": "Radiant",
-          "imageUrl": "/preview.jpg"
-        },
-        {
           "id": "https://joncharbonneau.substack.com/p/rollups-arent-real",
           "author": null,
           "description": "Rollups Aren't Real",
@@ -74,6 +64,16 @@
           "wordCount": 27353,
           "title": "Rollups Aren't Real",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa82696e7-f656-4c9b-86a0-66ef5c7340e9_1283x881.jpeg"
+        },
+        {
+          "id": "https://ordiscan.com/",
+          "author": null,
+          "description": "Ordiscan - Bitcoin Ordinal Explorer",
+          "link": "https://ordiscan.com/",
+          "publishedOn": "2023-03-19T04:00:03.000Z",
+          "wordCount": 88,
+          "title": "Ordiscan - Bitcoin Ordinal Explorer",
+          "imageUrl": "https://ordiscan.com/images/og-banner.jpg"
         },
         {
           "id": "https://www.ft.com/content/fbd9e3d4-2df5-4a65-adbd-01e5de2c5053",
@@ -171,7 +171,7 @@
           "description": "Opinion | From bank runs to a credit crunch, the financial future looks bleak",
           "link": "https://www.washingtonpost.com/opinions/2023/03/17/svb-first-republic-bank-credit/?utm_source=twitter&utm_medium=social&utm_campaign=wp_opinions",
           "publishedOn": "2023-03-18T11:30:03.000Z",
-          "wordCount": 10272,
+          "wordCount": 10487,
           "title": "Opinion | From bank runs to a credit crunch, the financial future looks bleak",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NTIAD7GEWEI63AVHNKDVKXAYPA_size-normalized.jpg&w=1440"
         },
