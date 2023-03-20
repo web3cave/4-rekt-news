@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.bitmex.com/arb-listing/",
+          "author": null,
+          "description": "Coming Soon: Tether-Margined ARB Listing | BitMEX Blog",
+          "link": "https://blog.bitmex.com/arb-listing/",
+          "publishedOn": "2023-03-20T05:00:02.000Z",
+          "wordCount": 6222,
+          "title": "Coming Soon: Tether-Margined ARB Listing | BitMEX Blog",
+          "imageUrl": "https://blog.bitmex.com/wp-content/uploads/2023/03/Now-Live-New-ARB-Futures-Contract_1200x675_EN-1.jpg"
+        },
+        {
           "id": "https://www.bitsaboutmoney.com/archive/banking-in-very-uncertain-times/",
           "author": null,
           "description": "Banking in very uncertain times",
@@ -23,16 +33,6 @@
           "publishedOn": "2023-03-20T03:30:04.000Z",
           "wordCount": 4283,
           "title": "Were The Bank Bailouts The Result Of Rising Wealth Concentration? | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/mike-wilson-why-earth-did-us-stocks-rally-last-week",
-          "author": null,
-          "description": "Mike Wilson: \"Why On Earth Did US Stocks Rally Last Week?\" | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/mike-wilson-why-earth-did-us-stocks-rally-last-week",
-          "publishedOn": "2023-03-20T03:30:04.000Z",
-          "wordCount": 1806,
-          "title": "Mike Wilson: \"Why On Earth Did US Stocks Rally Last Week?\" | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -81,7 +81,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7608,
+          "wordCount": 7735,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
