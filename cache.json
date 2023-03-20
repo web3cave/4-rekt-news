@@ -6,6 +6,36 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://onthebrink-podcast.com/nick-hansen/",
+          "author": null,
+          "description": "Nick Hansen (Luxor) on Ordinals, Blockspace, and Mining Pools (EP.407) - On the Brink Podcast",
+          "link": "https://onthebrink-podcast.com/nick-hansen/",
+          "publishedOn": "2023-03-20T15:00:02.000Z",
+          "wordCount": 1672,
+          "title": "Nick Hansen (Luxor) on Ordinals, Blockspace, and Mining Pools (EP.407) - On the Brink Podcast",
+          "imageUrl": "https://onthebrink-podcast.com/wp-content/uploads/hansen_otb.png"
+        },
+        {
+          "id": "https://rotki.com/products",
+          "author": null,
+          "description": "premium subscription | rotki",
+          "link": "https://rotki.com/products",
+          "publishedOn": "2023-03-20T15:00:02.000Z",
+          "wordCount": 4885,
+          "title": "premium subscription | rotki",
+          "imageUrl": "https://rotki.com/img/share.png"
+        },
+        {
+          "id": "https://github.com/rotki/rotki/releases",
+          "author": null,
+          "description": "Releases · rotki/rotki",
+          "link": "https://github.com/rotki/rotki/releases",
+          "publishedOn": "2023-03-20T15:00:02.000Z",
+          "wordCount": 6805,
+          "title": "Releases · rotki/rotki",
+          "imageUrl": "https://opengraph.githubassets.com/a2bfaa2370b348aa323c576f4154a1d88c100ca11ad69c9cb4daa76424dd14a9/rotki/rotki"
+        },
+        {
           "id": "https://www.credit-suisse.com/about-us-news/en/articles/media-releases/credit-suisse-and-ubs-to-merge-202303.html",
           "author": null,
           "description": "Credit Suisse and UBS to Merge",
@@ -24,26 +54,6 @@
           "wordCount": 10033,
           "title": "Binance Will List Arbitrum (ARB) | Binance Support",
           "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
-        },
-        {
-          "id": "https://skybox.blockadelabs.com/",
-          "author": null,
-          "description": "Skybox Lab",
-          "link": "https://skybox.blockadelabs.com/",
-          "publishedOn": "2023-03-20T13:00:02.000Z",
-          "wordCount": 682,
-          "title": "Skybox Lab",
-          "imageUrl": "/img/default-og.jpg"
-        },
-        {
-          "id": "https://trufflesuite.com/blog/introducing-truffle-dashboard/",
-          "author": null,
-          "description": "Introducing Truffle Dashboard - Stop copy + pasting your private keys! - Truffle Suite",
-          "link": "https://trufflesuite.com/blog/introducing-truffle-dashboard/",
-          "publishedOn": "2023-03-20T09:30:07.000Z",
-          "wordCount": 5006,
-          "title": "Introducing Truffle Dashboard - Stop copy + pasting your private keys! - Truffle Suite",
-          "imageUrl": null
         },
         {
           "id": "https://blog.bitmex.com/arb-listing/",
@@ -111,7 +121,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7732,
+          "wordCount": 7693,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
@@ -151,7 +161,7 @@
           "description": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "link": "https://www.wsj.com/articles/snb-offers-roughly-100-billion-liquidity-line-to-ubs-as-part-of-credit-suisse-deal-sources-19ea0ecd?reflink=e2twmkts",
           "publishedOn": "2023-03-19T18:00:04.000Z",
-          "wordCount": 7351,
+          "wordCount": 7312,
           "title": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "imageUrl": null
         },
@@ -164,16 +174,6 @@
           "wordCount": 3,
           "title": "Yield Guild Games",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/221063/defillama-internal-war?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Internal war breaks out at DefiLlama as 'rogue' employees reject token plan",
-          "link": "https://www.theblock.co/post/221063/defillama-internal-war?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-19T15:30:03.000Z",
-          "wordCount": 63783,
-          "title": "Internal war breaks out at DefiLlama as 'rogue' employees reject token plan",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210513_Hack_Generic_1-1200x675.png"
         },
         {
           "id": "https://llama.fi/",
@@ -201,7 +201,7 @@
           "description": "Highlight: Unrealized Losses Lowering Tangible Equity Capital",
           "link": "https://www.kansascityfed.org/banking/community-banking-bulletin/highlight-unrealized-losses-lowering-tangible-equity-capital/",
           "publishedOn": "2023-03-18T15:30:04.000Z",
-          "wordCount": 44164,
+          "wordCount": 44168,
           "title": "Highlight: Unrealized Losses Lowering Tangible Equity Capital",
           "imageUrl": "https://www.kansascityfed.org/images/Banking_BusinessWomanReviewingReports_Hero.original.jpg"
         }
