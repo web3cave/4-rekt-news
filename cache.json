@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PJYzvrP3soE&feature=youtu.be",
+          "author": null,
+          "description": "Dennis Lockhart on UBS-CS Deal",
+          "link": "https://www.youtube.com/watch?v=PJYzvrP3soE&feature=youtu.be",
+          "publishedOn": "2023-03-20T06:00:05.000Z",
+          "wordCount": null,
+          "title": "Dennis Lockhart on UBS-CS Deal",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.bitmex.com/arb-listing/",
           "author": null,
           "description": "Coming Soon: Tether-Margined ARB Listing | BitMEX Blog",
@@ -23,16 +33,6 @@
           "publishedOn": "2023-03-20T04:00:05.000Z",
           "wordCount": 7674,
           "title": "Banking in very uncertain times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/personal-finance/were-bank-bailouts-result-rising-wealth-concentration",
-          "author": null,
-          "description": "Were The Bank Bailouts The Result Of Rising Wealth Concentration? | ZeroHedge",
-          "link": "https://www.zerohedge.com/personal-finance/were-bank-bailouts-result-rising-wealth-concentration",
-          "publishedOn": "2023-03-20T03:30:04.000Z",
-          "wordCount": 4283,
-          "title": "Were The Bank Bailouts The Result Of Rising Wealth Concentration? | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -81,7 +81,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7735,
+          "wordCount": 7775,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
@@ -121,7 +121,7 @@
           "description": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "link": "https://www.wsj.com/articles/snb-offers-roughly-100-billion-liquidity-line-to-ubs-as-part-of-credit-suisse-deal-sources-19ea0ecd?reflink=e2twmkts",
           "publishedOn": "2023-03-19T18:00:04.000Z",
-          "wordCount": 7366,
+          "wordCount": 7412,
           "title": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "UBS offers to buy Credit Suisse for up to $1bn",
           "link": "https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd",
           "publishedOn": "2023-03-19T13:30:04.000Z",
-          "wordCount": 1690,
+          "wordCount": 1683,
           "title": "UBS offers to buy Credit Suisse for up to $1bn",
           "imageUrl": null
         },
@@ -181,7 +181,7 @@
           "description": "Rollups Aren't Real",
           "link": "https://joncharbonneau.substack.com/p/rollups-arent-real",
           "publishedOn": "2023-03-19T07:00:02.000Z",
-          "wordCount": 27352,
+          "wordCount": 27558,
           "title": "Rollups Aren't Real",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa82696e7-f656-4c9b-86a0-66ef5c7340e9_1283x881.jpeg"
         },
@@ -191,7 +191,7 @@
           "description": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "link": "https://www.ft.com/content/fbd9e3d4-2df5-4a65-adbd-01e5de2c5053",
           "publishedOn": "2023-03-19T03:00:03.000Z",
-          "wordCount": 1683,
+          "wordCount": 1676,
           "title": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "imageUrl": null
         },
