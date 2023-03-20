@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://trufflesuite.com/blog/introducing-truffle-dashboard/",
+          "author": null,
+          "description": "Introducing Truffle Dashboard - Stop copy + pasting your private keys! - Truffle Suite",
+          "link": "https://trufflesuite.com/blog/introducing-truffle-dashboard/",
+          "publishedOn": "2023-03-20T09:30:07.000Z",
+          "wordCount": 5006,
+          "title": "Introducing Truffle Dashboard - Stop copy + pasting your private keys! - Truffle Suite",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PJYzvrP3soE&feature=youtu.be",
           "author": null,
           "description": "Dennis Lockhart on UBS-CS Deal",
@@ -66,22 +76,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
-          "author": null,
-          "description": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
-          "publishedOn": "2023-03-20T00:30:03.000Z",
-          "wordCount": 1103,
-          "title": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "author": null,
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7730,
+          "wordCount": 7713,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
@@ -121,7 +121,7 @@
           "description": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "link": "https://www.wsj.com/articles/snb-offers-roughly-100-billion-liquidity-line-to-ubs-as-part-of-credit-suisse-deal-sources-19ea0ecd?reflink=e2twmkts",
           "publishedOn": "2023-03-19T18:00:04.000Z",
-          "wordCount": 7370,
+          "wordCount": 7354,
           "title": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "UBS offers to buy Credit Suisse for up to $1bn",
           "link": "https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd",
           "publishedOn": "2023-03-19T13:30:04.000Z",
-          "wordCount": 1684,
+          "wordCount": 1685,
           "title": "UBS offers to buy Credit Suisse for up to $1bn",
           "imageUrl": null
         },
@@ -191,7 +191,7 @@
           "description": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "link": "https://www.ft.com/content/fbd9e3d4-2df5-4a65-adbd-01e5de2c5053",
           "publishedOn": "2023-03-19T03:00:03.000Z",
-          "wordCount": 1677,
+          "wordCount": 1678,
           "title": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "imageUrl": null
         },
