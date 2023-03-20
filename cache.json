@@ -6,6 +6,76 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
+          "author": null,
+          "description": "The End of Silicon Valley (Bank)",
+          "link": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
+          "publishedOn": "2023-03-20T01:00:02.000Z",
+          "wordCount": 5595,
+          "title": "The End of Silicon Valley (Bank)",
+          "imageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2023/03/svb-1.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NpgwlaHCy3I&feature=youtu.be",
+          "author": null,
+          "description": "Bitcoin & The 2023 Financial Crisis | Raoul Pal",
+          "link": "https://www.youtube.com/watch?v=NpgwlaHCy3I&feature=youtu.be",
+          "publishedOn": "2023-03-20T00:30:03.000Z",
+          "wordCount": null,
+          "title": "Bitcoin & The 2023 Financial Crisis | Raoul Pal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
+          "author": null,
+          "description": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
+          "publishedOn": "2023-03-20T00:30:03.000Z",
+          "wordCount": 1103,
+          "title": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/political/true-stories-could-fuel-hesitancy-stanford-project-worked-censor-even-true-stories-social",
+          "author": null,
+          "description": "\"True Stories... Could Fuel Hesitancy\": Stanford Project Worked To Censor Even True Stories On Social Media | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/true-stories-could-fuel-hesitancy-stanford-project-worked-censor-even-true-stories-social",
+          "publishedOn": "2023-03-20T00:30:03.000Z",
+          "wordCount": 1898,
+          "title": "\"True Stories... Could Fuel Hesitancy\": Stanford Project Worked To Censor Even True Stories On Social Media | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
+          "author": null,
+          "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
+          "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
+          "publishedOn": "2023-03-20T00:00:08.000Z",
+          "wordCount": 7601,
+          "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
+          "imageUrl": "https://images.wsj.net/im-746832/social"
+        },
+        {
+          "id": "https://diyhpl.us/wiki/transcripts/2023-03-17-on-the-margin-nic-carter-caitlin-long/",
+          "author": null,
+          "description": "2023-03-17-on-the-margin-nic-carter-caitlin-long",
+          "link": "https://diyhpl.us/wiki/transcripts/2023-03-17-on-the-margin-nic-carter-caitlin-long/",
+          "publishedOn": "2023-03-20T00:00:07.000Z",
+          "wordCount": 8329,
+          "title": "2023-03-17-on-the-margin-nic-carter-caitlin-long",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/not-qe-fed-trapped-between-rock-and-hard-place",
+          "author": null,
+          "description": "'Not QE' As Fed Trapped Between A 'Rock And A Hard Place' | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/not-qe-fed-trapped-between-rock-and-hard-place",
+          "publishedOn": "2023-03-19T23:30:03.000Z",
+          "wordCount": 3115,
+          "title": "'Not QE' As Fed Trapped Between A 'Rock And A Hard Place' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
           "author": null,
           "description": "Coordinated central bank action to enhance the provision of U.S. dollar liquidity",
@@ -26,66 +96,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://fnordprefekt.de/",
-          "author": null,
-          "description": "",
-          "link": "https://fnordprefekt.de/",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 94,
-          "title": "<?php echo $title; ?>",
-          "imageUrl": "https://fnordprefekt.de/screenshot.png"
-        },
-        {
-          "id": "https://www.zerohedge.com/geopolitical/reagan-ally-worked-prolong-iran-hostage-crisis-aging-witness",
-          "author": null,
-          "description": "Reagan Ally Worked To Prolong Iran Hostage Crisis: Aging 'Witness' | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/reagan-ally-worked-prolong-iran-hostage-crisis-aging-witness",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 1699,
-          "title": "Reagan Ally Worked To Prolong Iran Hostage Crisis: Aging 'Witness' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/comex-far-worse-shape-svb-if-run-physical-accelerates",
-          "author": null,
-          "description": "The Comex Is In Far Worse Shape Than SVB If The Run On Physical Accelerates | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/comex-far-worse-shape-svb-if-run-physical-accelerates",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 3224,
-          "title": "The Comex Is In Far Worse Shape Than SVB If The Run On Physical Accelerates | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/liz-warren-makes-war-powell-and-how-woke-sf-fed-chief-failed-svb",
-          "author": null,
-          "description": "Liz Warren Makes War On Powell, And How 'Woke' SF Fed Chief Failed On SVB | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/liz-warren-makes-war-powell-and-how-woke-sf-fed-chief-failed-svb",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 1803,
-          "title": "Liz Warren Makes War On Powell, And How 'Woke' SF Fed Chief Failed On SVB | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/leftist-parents-flee-florida-gender-treatments-children-made-illegal",
-          "author": null,
-          "description": "Leftist Parents Flee Florida As Gender Treatments For Children Made Illegal | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/leftist-parents-flee-florida-gender-treatments-children-made-illegal",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 1066,
-          "title": "Leftist Parents Flee Florida As Gender Treatments For Children Made Illegal | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/political/occupy-wall-street-redux",
-          "author": null,
-          "description": "'Occupy Wall Street' Redux | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/occupy-wall-street-redux",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 3605,
-          "title": "'Occupy Wall Street' Redux | ZeroHedge",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=KKbHA76-Hi0&feature=youtu.be",
           "author": null,
           "description": "Arnold Schwarzenegger Economics & Socialism - Free To Choose",
@@ -101,7 +111,7 @@
           "description": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "link": "https://www.wsj.com/articles/snb-offers-roughly-100-billion-liquidity-line-to-ubs-as-part-of-credit-suisse-deal-sources-19ea0ecd?reflink=e2twmkts",
           "publishedOn": "2023-03-19T18:00:04.000Z",
-          "wordCount": 7348,
+          "wordCount": 7360,
           "title": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "imageUrl": null
         },
@@ -131,7 +141,7 @@
           "description": "You Can't Automate Authenticity",
           "link": "https://sceneswithsimon.substack.com/p/you-cant-automate-authenticity",
           "publishedOn": "2023-03-19T15:00:02.000Z",
-          "wordCount": 5188,
+          "wordCount": 5394,
           "title": "You Can't Automate Authenticity",
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/-YeKsXCXJx8"
         },
@@ -151,7 +161,7 @@
           "description": "UBS offers to buy Credit Suisse for up to $1bn",
           "link": "https://www.ft.com/content/ec4be743-052a-4381-a923-c2fbd7ea9cfd",
           "publishedOn": "2023-03-19T13:30:04.000Z",
-          "wordCount": 1680,
+          "wordCount": 1692,
           "title": "UBS offers to buy Credit Suisse for up to $1bn",
           "imageUrl": null
         },
@@ -171,7 +181,7 @@
           "description": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "link": "https://www.ft.com/content/fbd9e3d4-2df5-4a65-adbd-01e5de2c5053",
           "publishedOn": "2023-03-19T03:00:03.000Z",
-          "wordCount": 1673,
+          "wordCount": 1685,
           "title": "Silicon Valley Bank was warned by BlackRock that risk controls were weak",
           "imageUrl": null
         },
@@ -194,16 +204,6 @@
           "wordCount": 44164,
           "title": "Highlight: Unrealized Losses Lowering Tangible Equity Capital",
           "imageUrl": "https://www.kansascityfed.org/images/Banking_BusinessWomanReviewingReports_Hero.original.jpg"
-        },
-        {
-          "id": "https://hbr.org/2023/03/how-payment-banks-could-prevent-the-next-bank-collapse",
-          "author": null,
-          "description": "How “Payment Banks” Could Prevent the Next Bank Collapse",
-          "link": "https://hbr.org/2023/03/how-payment-banks-could-prevent-the-next-bank-collapse",
-          "publishedOn": "2023-03-18T15:00:02.000Z",
-          "wordCount": 2950,
-          "title": "How “Payment Banks” Could Prevent the Next Bank Collapse",
-          "imageUrl": "https://hbr.org/resources/images/article_assets/2023/03/Mar23_18_MarkHarris.jpg"
         }
       ]
     }
