@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://decrypt.co/news-explorer",
+          "author": null,
+          "description": "News Explorer - Decrypt",
+          "link": "https://decrypt.co/news-explorer",
+          "publishedOn": "2023-03-20T22:00:03.000Z",
+          "wordCount": 8078,
+          "title": "News Explorer - Decrypt",
+          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2019/03/decrypt-wordmark-grey-bg.jpg"
+        },
+        {
+          "id": "https://www.zerohedge.com/energy/russia-overtakes-saudi-arabia-become-chinas-top-oil-supplier",
+          "author": null,
+          "description": "Russia Overtakes Saudi Arabia To Become China's Top Oil Supplier | ZeroHedge",
+          "link": "https://www.zerohedge.com/energy/russia-overtakes-saudi-arabia-become-chinas-top-oil-supplier",
+          "publishedOn": "2023-03-20T22:00:03.000Z",
+          "wordCount": 1039,
+          "title": "Russia Overtakes Saudi Arabia To Become China's Top Oil Supplier | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.zerohedge.com/markets/it-turns-out-jpmorgan-bought-nickel-was-actually-bag-rocks",
+          "author": null,
+          "description": "It Turns Out That JPMorgan Bought The 'Nickel' That Was Actually 'A Bag Of Rocks' | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/it-turns-out-jpmorgan-bought-nickel-was-actually-bag-rocks",
+          "publishedOn": "2023-03-20T22:00:03.000Z",
+          "wordCount": 1205,
+          "title": "It Turns Out That JPMorgan Bought The 'Nickel' That Was Actually 'A Bag Of Rocks' | ZeroHedge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pleasr.house/",
+          "author": null,
+          "description": "PleasrHouse",
+          "link": "https://pleasr.house/",
+          "publishedOn": "2023-03-20T21:00:03.000Z",
+          "wordCount": 3269,
+          "title": "PleasrHouse",
+          "imageUrl": "https://pleasr.house/meta-sock.png?98"
+        },
+        {
           "id": "https://variant.fund/articles/about-the-variant-network/",
           "author": null,
           "description": "About The Variant Network – Variant",
@@ -16,53 +56,13 @@
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
         },
         {
-          "id": "https://pleasr.house/",
+          "id": "https://www.zerohedge.com/markets/deflation-or-inflation",
           "author": null,
-          "description": "PleasrHouse",
-          "link": "https://pleasr.house/",
+          "description": "Deflation Or Inflation? | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/deflation-or-inflation",
           "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": 684,
-          "title": "PleasrHouse",
-          "imageUrl": "https://pleasr.house/meta-sock.png?98"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VwtB0zC_VNE",
-          "author": null,
-          "description": "Ben Desai - The Future of Augmented & Virtual Reality - ep 138",
-          "link": "https://www.youtube.com/watch?v=VwtB0zC_VNE",
-          "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": null,
-          "title": "Ben Desai - The Future of Augmented & Virtual Reality - ep 138",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblock.co/post/221281/desantis-touts-bill-that-would-ban-use-of-cbdcs-in-florida?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "DeSantis touts bill that would ban use of CBDCs in Florida",
-          "link": "https://www.theblock.co/post/221281/desantis-touts-bill-that-would-ban-use-of-cbdcs-in-florida?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-20T20:00:04.000Z",
-          "wordCount": 63728,
-          "title": "DeSantis touts bill that would ban use of CBDCs in Florida",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2019/02/florida-1200x675.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/fednow-instant-payments-are-coming-and-cbdcs-will-follow",
-          "author": null,
-          "description": "FedNow Instant Payments Are Coming And CBDCs Will Follow | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/fednow-instant-payments-are-coming-and-cbdcs-will-follow",
-          "publishedOn": "2023-03-20T19:30:03.000Z",
-          "wordCount": 4372,
-          "title": "FedNow Instant Payments Are Coming And CBDCs Will Follow | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/commodities/ukraine-russia-agree-extend-black-sea-grain-deal",
-          "author": null,
-          "description": "Ukraine, Russia Agree To Extend Black Sea Grain Deal | ZeroHedge",
-          "link": "https://www.zerohedge.com/commodities/ukraine-russia-agree-extend-black-sea-grain-deal",
-          "publishedOn": "2023-03-20T19:30:03.000Z",
-          "wordCount": 851,
-          "title": "Ukraine, Russia Agree To Extend Black Sea Grain Deal | ZeroHedge",
+          "wordCount": 955,
+          "title": "Deflation Or Inflation? | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -171,7 +171,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7686,
+          "wordCount": 7666,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
