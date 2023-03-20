@@ -6,64 +6,74 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://variant.fund/articles/about-the-variant-network/",
+          "author": null,
+          "description": "About The Variant Network – Variant",
+          "link": "https://variant.fund/articles/about-the-variant-network/",
+          "publishedOn": "2023-03-20T21:00:03.000Z",
+          "wordCount": 1572,
+          "title": "About The Variant Network – Variant",
+          "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
+        },
+        {
+          "id": "https://pleasr.house/",
+          "author": null,
+          "description": "PleasrHouse",
+          "link": "https://pleasr.house/",
+          "publishedOn": "2023-03-20T21:00:03.000Z",
+          "wordCount": 684,
+          "title": "PleasrHouse",
+          "imageUrl": "https://pleasr.house/meta-sock.png?98"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VwtB0zC_VNE",
+          "author": null,
+          "description": "Ben Desai - The Future of Augmented & Virtual Reality - ep 138",
+          "link": "https://www.youtube.com/watch?v=VwtB0zC_VNE",
+          "publishedOn": "2023-03-20T21:00:03.000Z",
+          "wordCount": null,
+          "title": "Ben Desai - The Future of Augmented & Virtual Reality - ep 138",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblock.co/post/221281/desantis-touts-bill-that-would-ban-use-of-cbdcs-in-florida?utm_source=twitter&utm_medium=social",
           "author": null,
           "description": "DeSantis touts bill that would ban use of CBDCs in Florida",
           "link": "https://www.theblock.co/post/221281/desantis-touts-bill-that-would-ban-use-of-cbdcs-in-florida?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-20T20:00:04.000Z",
-          "wordCount": 63778,
+          "wordCount": 63728,
           "title": "DeSantis touts bill that would ban use of CBDCs in Florida",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/02/florida-1200x675.jpg"
         },
         {
-          "id": "https://www.youtube.com/watch?v=OeV3LCovV4w&feature=youtu.be",
+          "id": "https://www.zerohedge.com/political/fednow-instant-payments-are-coming-and-cbdcs-will-follow",
           "author": null,
-          "description": "Why Bitcoin Now: Michael Casey and Niall Ferguson on How Bitcoin Fits in the History of Money Ep.181",
-          "link": "https://www.youtube.com/watch?v=OeV3LCovV4w&feature=youtu.be",
-          "publishedOn": "2023-03-20T19:00:03.000Z",
-          "wordCount": null,
-          "title": "Why Bitcoin Now: Michael Casey and Niall Ferguson on How Bitcoin Fits in the History of Money Ep.181",
+          "description": "FedNow Instant Payments Are Coming And CBDCs Will Follow | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/fednow-instant-payments-are-coming-and-cbdcs-will-follow",
+          "publishedOn": "2023-03-20T19:30:03.000Z",
+          "wordCount": 4372,
+          "title": "FedNow Instant Payments Are Coming And CBDCs Will Follow | ZeroHedge",
           "imageUrl": null
         },
         {
-          "id": "https://vote.makerdao.com/polling/QmQ1fYm3#poll-detail",
+          "id": "https://www.zerohedge.com/commodities/ukraine-russia-agree-extend-black-sea-grain-deal",
           "author": null,
-          "description": "Governance Portal",
-          "link": "https://vote.makerdao.com/polling/QmQ1fYm3#poll-detail",
-          "publishedOn": "2023-03-20T19:00:03.000Z",
-          "wordCount": 2121,
-          "title": "Governance Portal",
+          "description": "Ukraine, Russia Agree To Extend Black Sea Grain Deal | ZeroHedge",
+          "link": "https://www.zerohedge.com/commodities/ukraine-russia-agree-extend-black-sea-grain-deal",
+          "publishedOn": "2023-03-20T19:30:03.000Z",
+          "wordCount": 851,
+          "title": "Ukraine, Russia Agree To Extend Black Sea Grain Deal | ZeroHedge",
           "imageUrl": null
         },
         {
-          "id": "https://web.archive.org/web/20130513043044/http://finney.org/~hal/why_rem2.html",
+          "id": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
           "author": null,
-          "description": "Hal Finney Essays: Why Remailers II",
-          "link": "https://web.archive.org/web/20130513043044/http://finney.org/~hal/why_rem2.html",
-          "publishedOn": "2023-03-20T19:00:03.000Z",
-          "wordCount": 740,
-          "title": "Hal Finney Essays: Why Remailers II",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cryptopunks.app/cryptopunks/details/3996",
-          "author": null,
-          "description": "CryptoPunks: Details for Punk #3996",
-          "link": "https://cryptopunks.app/cryptopunks/details/3996",
-          "publishedOn": "2023-03-20T19:00:03.000Z",
-          "wordCount": null,
-          "title": "CryptoPunks: Details for Punk #3996",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/eu-contagion-risk-spreads-cds-market-puts-focus-deutsche-bank",
-          "author": null,
-          "description": "EU Contagion Risk Spreads As CDS Market Puts Focus On Deutsche Bank | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/eu-contagion-risk-spreads-cds-market-puts-focus-deutsche-bank",
-          "publishedOn": "2023-03-20T19:00:03.000Z",
-          "wordCount": 650,
-          "title": "EU Contagion Risk Spreads As CDS Market Puts Focus On Deutsche Bank | ZeroHedge",
-          "imageUrl": null
+          "description": "BGD. Aave Governance V3",
+          "link": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
+          "publishedOn": "2023-03-20T19:00:02.000Z",
+          "wordCount": 5022,
+          "title": "BGD. Aave Governance V3",
+          "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/optimized/2X/b/b23dafcf3feffba174bf0621743e74b826cc06c4_2_1024x643.jpeg"
         },
         {
           "id": "https://github.com/ethereum/consensus-specs/pull/3302/files",
@@ -74,16 +84,6 @@
           "wordCount": 1488,
           "title": "Release v1.3.0-rc.5 by hwwhww · Pull Request #3302 · ethereum/consensus-specs",
           "imageUrl": "https://avatars.githubusercontent.com/u/9263930?s=400&v=4"
-        },
-        {
-          "id": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
-          "author": null,
-          "description": "BGD. Aave Governance V3",
-          "link": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
-          "publishedOn": "2023-03-20T19:00:02.000Z",
-          "wordCount": 4915,
-          "title": "BGD. Aave Governance V3",
-          "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/optimized/2X/b/b23dafcf3feffba174bf0621743e74b826cc06c4_2_1024x643.jpeg"
         },
         {
           "id": "https://us06web.zoom.us/webinar/register/9416780889784/WN_y3vZmYwbSXWUyepTGJ3N8Q?utm_source=twitter&utm_medium=twitter&utm_campaign=nansen-query-launch-webinar",
@@ -171,7 +171,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7661,
+          "wordCount": 7686,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
