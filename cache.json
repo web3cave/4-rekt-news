@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.credit-suisse.com/about-us-news/en/articles/media-releases/credit-suisse-and-ubs-to-merge-202303.html",
+          "author": null,
+          "description": "Credit Suisse and UBS to Merge",
+          "link": "https://www.credit-suisse.com/about-us-news/en/articles/media-releases/credit-suisse-and-ubs-to-merge-202303.html",
+          "publishedOn": "2023-03-20T13:30:04.000Z",
+          "wordCount": 2911,
+          "title": "Credit Suisse and UBS to Merge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.binance.com/en/support/announcement/binance-will-list-arbitrum-arb-c9cae13aa4ed405e97af29da3e509b46",
+          "author": null,
+          "description": "Binance Will List Arbitrum (ARB) | Binance Support",
+          "link": "https://www.binance.com/en/support/announcement/binance-will-list-arbitrum-arb-c9cae13aa4ed405e97af29da3e509b46",
+          "publishedOn": "2023-03-20T13:30:03.000Z",
+          "wordCount": 10033,
+          "title": "Binance Will List Arbitrum (ARB) | Binance Support",
+          "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
+        },
+        {
           "id": "https://skybox.blockadelabs.com/",
           "author": null,
           "description": "Skybox Lab",
@@ -26,16 +46,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=PJYzvrP3soE&feature=youtu.be",
-          "author": null,
-          "description": "Dennis Lockhart on UBS-CS Deal",
-          "link": "https://www.youtube.com/watch?v=PJYzvrP3soE&feature=youtu.be",
-          "publishedOn": "2023-03-20T06:00:05.000Z",
-          "wordCount": null,
-          "title": "Dennis Lockhart on UBS-CS Deal",
-          "imageUrl": null
-        },
-        {
           "id": "https://blog.bitmex.com/arb-listing/",
           "author": null,
           "description": "Coming Soon: Tether-Margined ARB Listing | BitMEX Blog",
@@ -53,16 +63,6 @@
           "publishedOn": "2023-03-20T04:00:05.000Z",
           "wordCount": 7674,
           "title": "Banking in very uncertain times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/weather/half-california-lifted-out-drought-flooding-now-concern-more-rain-looms",
-          "author": null,
-          "description": "Half Of California Lifted Out Of Drought; Flooding Now A Concern As More Rain Looms | ZeroHedge",
-          "link": "https://www.zerohedge.com/weather/half-california-lifted-out-drought-flooding-now-concern-more-rain-looms",
-          "publishedOn": "2023-03-20T04:00:05.000Z",
-          "wordCount": 747,
-          "title": "Half Of California Lifted Out Of Drought; Flooding Now A Concern As More Rain Looms | ZeroHedge",
           "imageUrl": null
         },
         {
@@ -111,7 +111,7 @@
           "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
           "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7708,
+          "wordCount": 7732,
           "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
           "imageUrl": "https://images.wsj.net/im-746832/social"
         },
@@ -151,7 +151,7 @@
           "description": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "link": "https://www.wsj.com/articles/snb-offers-roughly-100-billion-liquidity-line-to-ubs-as-part-of-credit-suisse-deal-sources-19ea0ecd?reflink=e2twmkts",
           "publishedOn": "2023-03-19T18:00:04.000Z",
-          "wordCount": 7327,
+          "wordCount": 7351,
           "title": "SNB Offers Roughly $100 Billion Liquidity Line to UBS as Part of Credit Suisse Deal, Sources",
           "imageUrl": null
         },
@@ -171,7 +171,7 @@
           "description": "Internal war breaks out at DefiLlama as 'rogue' employees reject token plan",
           "link": "https://www.theblock.co/post/221063/defillama-internal-war?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-19T15:30:03.000Z",
-          "wordCount": 63350,
+          "wordCount": 63783,
           "title": "Internal war breaks out at DefiLlama as 'rogue' employees reject token plan",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/05/20210513_Hack_Generic_1-1200x675.png"
         },
