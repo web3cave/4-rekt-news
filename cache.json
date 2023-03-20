@@ -6,6 +6,46 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://open.spotify.com/episode/0DAeAIXAgPxhPt4StM0TKK?si=c9fcaa6b570e4f73",
+          "author": null,
+          "description": "Spotify",
+          "link": "https://open.spotify.com/episode/0DAeAIXAgPxhPt4StM0TKK?si=c9fcaa6b570e4f73",
+          "publishedOn": "2023-03-20T23:00:03.000Z",
+          "wordCount": 261,
+          "title": "Spotify",
+          "imageUrl": "https://i.scdn.co/image/e1a9c8fe25dd48c95b4afedcb024757583124a54"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JecCJOleP2g&feature=youtu.be",
+          "author": null,
+          "description": "Crypto Post-FTX: How Can the Industry Rebuild Trust?",
+          "link": "https://www.youtube.com/watch?v=JecCJOleP2g&feature=youtu.be",
+          "publishedOn": "2023-03-20T23:00:02.000Z",
+          "wordCount": null,
+          "title": "Crypto Post-FTX: How Can the Industry Rebuild Trust?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/farcasterxyz/hubble",
+          "author": null,
+          "description": "GitHub - farcasterxyz/hubble",
+          "link": "https://github.com/farcasterxyz/hubble",
+          "publishedOn": "2023-03-20T22:30:02.000Z",
+          "wordCount": 888,
+          "title": "GitHub - farcasterxyz/hubble",
+          "imageUrl": "https://opengraph.githubassets.com/40fb0d87a9997462cd23ab2039ff6e33334d8eeb541d3e52f24cc7c5f2105463/farcasterxyz/hubble"
+        },
+        {
+          "id": "https://www.zerohedge.com/political/miami-beach-declares-state-emergency-amid-spring-break-chaos",
+          "author": null,
+          "description": "Miami Beach Declares State Of Emergency Amid Spring Break Chaos  | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/miami-beach-declares-state-emergency-amid-spring-break-chaos",
+          "publishedOn": "2023-03-20T22:30:02.000Z",
+          "wordCount": 933,
+          "title": "Miami Beach Declares State Of Emergency Amid Spring Break Chaos  | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://decrypt.co/news-explorer",
           "author": null,
           "description": "News Explorer - Decrypt",
@@ -36,12 +76,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/shorts/SIcAwsCH62s?feature=share",
+          "author": null,
+          "description": "This is how Blinkit delivers in 8 minutes 🛒 #shorts @letsblinkit @zomato #zomato #blinkit  #comedy",
+          "link": "https://www.youtube.com/shorts/SIcAwsCH62s?feature=share",
+          "publishedOn": "2023-03-20T22:00:03.000Z",
+          "wordCount": 1121,
+          "title": "This is how Blinkit delivers in 8 minutes 🛒 #shorts @letsblinkit @zomato #zomato #blinkit  #comedy",
+          "imageUrl": "https://i.ytimg.com/vi/SIcAwsCH62s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBUKEEwDw==&rs=AOn4CLDSEkmijVlANVA040279xPm77OeJA"
+        },
+        {
           "id": "https://pleasr.house/",
           "author": null,
           "description": "PleasrHouse",
           "link": "https://pleasr.house/",
           "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": 3269,
+          "wordCount": 1919,
           "title": "PleasrHouse",
           "imageUrl": "https://pleasr.house/meta-sock.png?98"
         },
@@ -54,16 +104,6 @@
           "wordCount": 1572,
           "title": "About The Variant Network – Variant",
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/deflation-or-inflation",
-          "author": null,
-          "description": "Deflation Or Inflation? | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/deflation-or-inflation",
-          "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": 955,
-          "title": "Deflation Or Inflation? | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
@@ -156,36 +196,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
-          "author": null,
-          "description": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/longer-it-takes-fed-go-big-deeper-damage-will-be-and-bigger-big-will-be",
-          "publishedOn": "2023-03-20T00:30:03.000Z",
-          "wordCount": 1103,
-          "title": "The Longer It Takes The Fed To \"Go Big\", The Deeper The Damage Will Be, And The Bigger The \"Big\" Will Be | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
-          "author": null,
-          "description": "Fed Raised Concerns About SVB’s Risk Management in 2019",
-          "link": "https://www.wsj.com/articles/fed-raised-concerns-about-svbs-risk-management-in-2019-4a1d802c",
-          "publishedOn": "2023-03-20T00:00:08.000Z",
-          "wordCount": 7666,
-          "title": "Fed Raised Concerns About SVB’s Risk Management in 2019",
-          "imageUrl": "https://images.wsj.net/im-746832/social"
-        },
-        {
-          "id": "https://diyhpl.us/wiki/transcripts/2023-03-17-on-the-margin-nic-carter-caitlin-long/",
-          "author": null,
-          "description": "2023-03-17-on-the-margin-nic-carter-caitlin-long",
-          "link": "https://diyhpl.us/wiki/transcripts/2023-03-17-on-the-margin-nic-carter-caitlin-long/",
-          "publishedOn": "2023-03-20T00:00:07.000Z",
-          "wordCount": 8329,
-          "title": "2023-03-17-on-the-margin-nic-carter-caitlin-long",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.ecb.europa.eu/press/pr/date/2023/html/ecb.pr230319~744758829c.en.html",
           "author": null,
           "description": "Statement by Christine Lagarde, President of the European Central Bank, on the announcement on 19 March 2023 by the...",
@@ -194,16 +204,6 @@
           "wordCount": 714,
           "title": "Statement by Christine Lagarde, President of the European Central Bank, on the announcement on 19 March 2023 by the...",
           "imageUrl": "https://www.ecb.europa.eu/press/shared/img/socialmedia/social-default.jpg?0ef1632c35edede913681bb76af694a4"
-        },
-        {
-          "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
-          "author": null,
-          "description": "Coordinated central bank action to enhance the provision of U.S. dollar liquidity",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
-          "publishedOn": "2023-03-19T23:00:03.000Z",
-          "wordCount": 1343,
-          "title": "Coordinated central bank action to enhance the provision of U.S. dollar liquidity",
-          "imageUrl": ""
         }
       ]
     }
