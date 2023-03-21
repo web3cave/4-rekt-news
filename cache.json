@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/ethereum/go-ethereum/releases/tag/v1.11.5",
+          "author": null,
+          "description": "Release Erszbat (v1.11.5) · ethereum/go-ethereum",
+          "link": "https://github.com/ethereum/go-ethereum/releases/tag/v1.11.5",
+          "publishedOn": "2023-03-21T11:00:02.000Z",
+          "wordCount": 519,
+          "title": "Release Erszbat (v1.11.5) · ethereum/go-ethereum",
+          "imageUrl": "https://opengraph.githubassets.com/7d7949ba6a1b9c20cd9b5dcc0b755664e712394473a94d90d5dbd099a1896a8d/ethereum/go-ethereum/releases/tag/v1.11.5"
+        },
+        {
           "id": "https://www.coindesk.com/business/2023/03/20/coinbase-no-longer-supporting-signature-banks-signet-network-wsj/",
           "author": null,
           "description": "Coinbase No Longer Supporting Signature Bank’s Signet Network: WSJ",
           "link": "https://www.coindesk.com/business/2023/03/20/coinbase-no-longer-supporting-signature-banks-signet-network-wsj/",
           "publishedOn": "2023-03-21T09:00:03.000Z",
-          "wordCount": 19896,
+          "wordCount": 19949,
           "title": "Coinbase No Longer Supporting Signature Bank’s Signet Network: WSJ",
           "imageUrl": "https://www.coindesk.com/resizer/G8Tb3-A4c6pHar0A38JAGVrkZ5k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HKOTSVQQWFGZJPAEFIEGHCTGF4.jpg"
         },
@@ -73,17 +83,7 @@
           "publishedOn": "2023-03-21T00:30:02.000Z",
           "wordCount": 1027,
           "title": "DefiLlama",
-          "imageUrl": "https://og-cards-chi.vercel.app/Overall.jpeg?theme=dark&valueHeader=Total+Value+Locked&tvl=%2448.96b&volumeChange=-0.11%25&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
-        },
-        {
-          "id": "https://thereload.com/federal-judge-blocks-california-handgun-restrictions/",
-          "author": null,
-          "description": "Federal Judge Blocks California Handgun Restrictions",
-          "link": "https://thereload.com/federal-judge-blocks-california-handgun-restrictions/",
-          "publishedOn": "2023-03-20T23:30:04.000Z",
-          "wordCount": 5024,
-          "title": "Federal Judge Blocks California Handgun Restrictions",
-          "imageUrl": "https://thereload.com/app/uploads/2022/06/Pistol-display-close-up-5-at-the-2022-NRA-Annual-Meeting-scaled.jpg"
+          "imageUrl": "https://og-cards-chi.vercel.app/Overall.jpeg?theme=dark&valueHeader=Total+Value+Locked&tvl=%2449.18b&volumeChange=%2B0.34%25&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
         },
         {
           "id": "https://hackmd.io/@Arrose/H1uPQ78gn",
@@ -111,7 +111,7 @@
           "description": "PleasrHouse",
           "link": "https://pleasr.house/",
           "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": 719,
+          "wordCount": 1619,
           "title": "PleasrHouse",
           "imageUrl": "https://pleasr.house/meta-sock.png?98"
         },
@@ -161,7 +161,7 @@
           "description": "EIP-4844 Fee Market Analysis",
           "link": "https://ethresear.ch/t/eip-4844-fee-market-analysis/15078",
           "publishedOn": "2023-03-20T15:30:03.000Z",
-          "wordCount": 3472,
+          "wordCount": 3651,
           "title": "EIP-4844 Fee Market Analysis",
           "imageUrl": "https://ethresear.ch/uploads/default/optimized/2X/7/7bf816afe78d4730a680859eb42486dddef45fd5_2_1024x378.png"
         },
