@@ -6,14 +6,64 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://open.spotify.com/episode/0DAeAIXAgPxhPt4StM0TKK?si=c9fcaa6b570e4f73",
+          "id": "https://www.youtube.com/watch?v=xguam0TKMw8&feature=youtu.be",
           "author": null,
-          "description": "Spotify",
-          "link": "https://open.spotify.com/episode/0DAeAIXAgPxhPt4StM0TKK?si=c9fcaa6b570e4f73",
+          "description": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "link": "https://www.youtube.com/watch?v=xguam0TKMw8&feature=youtu.be",
+          "publishedOn": "2023-03-21T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://shop.metafactory.ai/products/fork-the-fed-tee",
+          "author": null,
+          "description": "Fork the Fed Tee",
+          "link": "https://shop.metafactory.ai/products/fork-the-fed-tee",
+          "publishedOn": "2023-03-21T01:00:02.000Z",
+          "wordCount": 4584,
+          "title": "Fork the Fed Tee",
+          "imageUrl": "http://cdn.shopify.com/s/files/1/0258/8924/3182/products/1614_Thumb_202c20eebcf442728ae6d33618371ec5-614_1200x1200.png?v=1678906834"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fJvoqDYDUms",
+          "author": null,
+          "description": "Ethics of Decentralized Social Technologies with Danielle Allen & Glen Weyl",
+          "link": "https://www.youtube.com/watch?v=fJvoqDYDUms",
+          "publishedOn": "2023-03-21T01:00:02.000Z",
+          "wordCount": null,
+          "title": "Ethics of Decentralized Social Technologies with Danielle Allen & Glen Weyl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://defillama.com/",
+          "author": null,
+          "description": "DefiLlama",
+          "link": "https://defillama.com/",
+          "publishedOn": "2023-03-21T00:30:02.000Z",
+          "wordCount": 1027,
+          "title": "DefiLlama",
+          "imageUrl": "https://og-cards-chi.vercel.app/Overall.jpeg?theme=dark&valueHeader=Total+Value+Locked&tvl=%2448.85b&volumeChange=-0.22%25&footerURL=&images=https%3A%2F%2Fdefillama.com%2Fdefillama-press-kit%2Fdefi%2FSVG%2Fdefillama.svg"
+        },
+        {
+          "id": "https://thereload.com/federal-judge-blocks-california-handgun-restrictions/",
+          "author": null,
+          "description": "Federal Judge Blocks California Handgun Restrictions",
+          "link": "https://thereload.com/federal-judge-blocks-california-handgun-restrictions/",
+          "publishedOn": "2023-03-20T23:30:04.000Z",
+          "wordCount": 5024,
+          "title": "Federal Judge Blocks California Handgun Restrictions",
+          "imageUrl": "https://thereload.com/app/uploads/2022/06/Pistol-display-close-up-5-at-the-2022-NRA-Annual-Meeting-scaled.jpg"
+        },
+        {
+          "id": "https://hackmd.io/@Arrose/H1uPQ78gn",
+          "author": null,
+          "description": "HackMD - Collaborative Markdown Knowledge Base",
+          "link": "https://hackmd.io/@Arrose/H1uPQ78gn",
           "publishedOn": "2023-03-20T23:00:03.000Z",
-          "wordCount": 261,
-          "title": "Spotify",
-          "imageUrl": "https://i.scdn.co/image/e1a9c8fe25dd48c95b4afedcb024757583124a54"
+          "wordCount": 1834,
+          "title": "HackMD - Collaborative Markdown Knowledge Base",
+          "imageUrl": "https://i.imgur.com/nypBu3v.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=JecCJOleP2g&feature=youtu.be",
@@ -26,72 +76,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/farcasterxyz/hubble",
-          "author": null,
-          "description": "GitHub - farcasterxyz/hubble",
-          "link": "https://github.com/farcasterxyz/hubble",
-          "publishedOn": "2023-03-20T22:30:02.000Z",
-          "wordCount": 888,
-          "title": "GitHub - farcasterxyz/hubble",
-          "imageUrl": "https://opengraph.githubassets.com/40fb0d87a9997462cd23ab2039ff6e33334d8eeb541d3e52f24cc7c5f2105463/farcasterxyz/hubble"
-        },
-        {
-          "id": "https://www.zerohedge.com/political/miami-beach-declares-state-emergency-amid-spring-break-chaos",
-          "author": null,
-          "description": "Miami Beach Declares State Of Emergency Amid Spring Break Chaos  | ZeroHedge",
-          "link": "https://www.zerohedge.com/political/miami-beach-declares-state-emergency-amid-spring-break-chaos",
-          "publishedOn": "2023-03-20T22:30:02.000Z",
-          "wordCount": 933,
-          "title": "Miami Beach Declares State Of Emergency Amid Spring Break Chaos  | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://decrypt.co/news-explorer",
-          "author": null,
-          "description": "News Explorer - Decrypt",
-          "link": "https://decrypt.co/news-explorer",
-          "publishedOn": "2023-03-20T22:00:03.000Z",
-          "wordCount": 8078,
-          "title": "News Explorer - Decrypt",
-          "imageUrl": "https://cdn.decrypt.co/wp-content/uploads/2019/03/decrypt-wordmark-grey-bg.jpg"
-        },
-        {
-          "id": "https://www.zerohedge.com/energy/russia-overtakes-saudi-arabia-become-chinas-top-oil-supplier",
-          "author": null,
-          "description": "Russia Overtakes Saudi Arabia To Become China's Top Oil Supplier | ZeroHedge",
-          "link": "https://www.zerohedge.com/energy/russia-overtakes-saudi-arabia-become-chinas-top-oil-supplier",
-          "publishedOn": "2023-03-20T22:00:03.000Z",
-          "wordCount": 1039,
-          "title": "Russia Overtakes Saudi Arabia To Become China's Top Oil Supplier | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/it-turns-out-jpmorgan-bought-nickel-was-actually-bag-rocks",
-          "author": null,
-          "description": "It Turns Out That JPMorgan Bought The 'Nickel' That Was Actually 'A Bag Of Rocks' | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/it-turns-out-jpmorgan-bought-nickel-was-actually-bag-rocks",
-          "publishedOn": "2023-03-20T22:00:03.000Z",
-          "wordCount": 1205,
-          "title": "It Turns Out That JPMorgan Bought The 'Nickel' That Was Actually 'A Bag Of Rocks' | ZeroHedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/SIcAwsCH62s?feature=share",
-          "author": null,
-          "description": "This is how Blinkit delivers in 8 minutes 🛒 #shorts @letsblinkit @zomato #zomato #blinkit  #comedy",
-          "link": "https://www.youtube.com/shorts/SIcAwsCH62s?feature=share",
-          "publishedOn": "2023-03-20T22:00:03.000Z",
-          "wordCount": 1121,
-          "title": "This is how Blinkit delivers in 8 minutes 🛒 #shorts @letsblinkit @zomato #zomato #blinkit  #comedy",
-          "imageUrl": "https://i.ytimg.com/vi/SIcAwsCH62s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBUKEEwDw==&rs=AOn4CLDSEkmijVlANVA040279xPm77OeJA"
-        },
-        {
           "id": "https://pleasr.house/",
           "author": null,
           "description": "PleasrHouse",
           "link": "https://pleasr.house/",
           "publishedOn": "2023-03-20T21:00:03.000Z",
-          "wordCount": 1919,
+          "wordCount": 719,
           "title": "PleasrHouse",
           "imageUrl": "https://pleasr.house/meta-sock.png?98"
         },
@@ -106,12 +96,22 @@
           "imageUrl": "https://variant.fund/wp-content/uploads/2022/08/variant_pres_02.jpg"
         },
         {
+          "id": "http://zkpod.ai/",
+          "author": null,
+          "description": "zkpod.ai",
+          "link": "http://zkpod.ai/",
+          "publishedOn": "2023-03-20T21:00:03.000Z",
+          "wordCount": 307,
+          "title": "zkpod.ai",
+          "imageUrl": "https://media.discordapp.net/attachments/1055865735009808454/1082365853888167936/kobigurk_podcaster_with_a_bunch_of_math_equations_flying_around_5dba2463-6a92-4d20-9aec-ed239d7c0d86.png?width=636&height=636"
+        },
+        {
           "id": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
           "author": null,
           "description": "BGD. Aave Governance V3",
           "link": "https://governance.aave.com/t/bgd-aave-governance-v3/12367",
           "publishedOn": "2023-03-20T19:00:02.000Z",
-          "wordCount": 5022,
+          "wordCount": 5229,
           "title": "BGD. Aave Governance V3",
           "imageUrl": "https://europe1.discourse-cdn.com/standard21/uploads/aave/optimized/2X/b/b23dafcf3feffba174bf0621743e74b826cc06c4_2_1024x643.jpeg"
         },
@@ -124,6 +124,16 @@
           "wordCount": 1488,
           "title": "Release v1.3.0-rc.5 by hwwhww · Pull Request #3302 · ethereum/consensus-specs",
           "imageUrl": "https://avatars.githubusercontent.com/u/9263930?s=400&v=4"
+        },
+        {
+          "id": "https://discuss.ens.domains/t/draft-executable-activate-new-eth-controller-and-new-reverse-registrar/16599/7?u=jefflau.eth",
+          "author": null,
+          "description": "[Draft] [Executable] Activate new .eth controller and new Reverse Registrar",
+          "link": "https://discuss.ens.domains/t/draft-executable-activate-new-eth-controller-and-new-reverse-registrar/16599/7?u=jefflau.eth",
+          "publishedOn": "2023-03-20T17:30:03.000Z",
+          "wordCount": 597,
+          "title": "[Draft] [Executable] Activate new .eth controller and new Reverse Registrar",
+          "imageUrl": "https://discuss.ens.domains/uploads/db9688/original/1X/8dff9ce9c14b40a5c82a00f4cf47ed9b4b43a06d.png"
         },
         {
           "id": "https://us06web.zoom.us/webinar/register/9416780889784/WN_y3vZmYwbSXWUyepTGJ3N8Q?utm_source=twitter&utm_medium=twitter&utm_campaign=nansen-query-launch-webinar",
@@ -176,20 +186,10 @@
           "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
-          "id": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
-          "author": null,
-          "description": "The End of Silicon Valley (Bank)",
-          "link": "https://stratechery.com/2023/the-death-of-silicon-valley-bank/",
-          "publishedOn": "2023-03-20T01:00:02.000Z",
-          "wordCount": 5599,
-          "title": "The End of Silicon Valley (Bank)",
-          "imageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2023/03/svb-1.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NpgwlaHCy3I&feature=youtu.be",
+          "id": "https://www.youtube.com/watch?v=NpgwlaHCy3I&t=3437s",
           "author": null,
           "description": "Bitcoin & The 2023 Financial Crisis | Raoul Pal",
-          "link": "https://www.youtube.com/watch?v=NpgwlaHCy3I&feature=youtu.be",
+          "link": "https://www.youtube.com/watch?v=NpgwlaHCy3I&t=3437s",
           "publishedOn": "2023-03-20T00:30:03.000Z",
           "wordCount": null,
           "title": "Bitcoin & The 2023 Financial Crisis | Raoul Pal",
