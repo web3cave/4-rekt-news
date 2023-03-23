@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://chainlist.org/",
+          "author": null,
+          "description": "Chainlist",
+          "link": "https://chainlist.org/",
+          "publishedOn": "2023-03-23T10:30:02.000Z",
+          "wordCount": 14567,
+          "title": "Chainlist",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cCVJX2ekoAg",
           "author": null,
           "description": "0 to 1 Coordination Games w. Ameen Soleimani",
@@ -61,19 +71,9 @@
           "description": "Grantfarm: Crypto Grants Directory - Blockworks",
           "link": "https://blockworks.co/grants",
           "publishedOn": "2023-03-22T22:00:04.000Z",
-          "wordCount": 7794,
+          "wordCount": 7795,
           "title": "Grantfarm: Crypto Grants Directory - Blockworks",
           "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks.co/images/grants/preview-grants.png&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Co3WU9xjQkM",
-          "author": null,
-          "description": "FOMC Press Conference March 22, 2023",
-          "link": "https://www.youtube.com/watch?v=Co3WU9xjQkM",
-          "publishedOn": "2023-03-22T19:30:05.000Z",
-          "wordCount": null,
-          "title": "FOMC Press Conference March 22, 2023",
-          "imageUrl": null
         },
         {
           "id": "https://www.codastory.com/authoritarian-tech/texas-isps-bill/",
@@ -91,7 +91,7 @@
           "description": "Telegram Users Can Now Transfer USDT Through Chats",
           "link": "https://www.coindesk.com/business/2023/03/22/telegram-users-can-now-transfer-usdt-through-chats/",
           "publishedOn": "2023-03-22T18:00:04.000Z",
-          "wordCount": 19722,
+          "wordCount": 19690,
           "title": "Telegram Users Can Now Transfer USDT Through Chats",
           "imageUrl": "https://www.coindesk.com/resizer/-mhwblSMs2MDkbooJ_e53HE-En0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KQIG63GGJZEVDLDPW343ASP6BI.jpg"
         },
@@ -171,7 +171,7 @@
           "description": "America’s banks are missing hundreds of billions of dollars",
           "link": "https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars",
           "publishedOn": "2023-03-22T05:00:02.000Z",
-          "wordCount": 8474,
+          "wordCount": 8486,
           "title": "America’s banks are missing hundreds of billions of dollars",
           "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230325_FNP502.jpg"
         },
