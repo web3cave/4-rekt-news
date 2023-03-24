@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.binance.com/en/support/announcement/binance-temporary-system-maintenance-complete-2023-03-24-813a31506e9f478ea8c1058b425df87a",
+          "author": null,
+          "description": "Binance Temporary System Maintenance Complete (2023-03-24) | Binance Support",
+          "link": "https://www.binance.com/en/support/announcement/binance-temporary-system-maintenance-complete-2023-03-24-813a31506e9f478ea8c1058b425df87a",
+          "publishedOn": "2023-03-24T17:00:03.000Z",
+          "wordCount": 11032,
+          "title": "Binance Temporary System Maintenance Complete (2023-03-24) | Binance Support",
+          "imageUrl": "https://public.bnbstatic.com/images/common/ogImage.jpg"
+        },
+        {
+          "id": "https://variant.fund/variant-founder-fellowship/",
+          "author": null,
+          "description": "Variant Founder Fellowship – Variant",
+          "link": "https://variant.fund/variant-founder-fellowship/",
+          "publishedOn": "2023-03-24T17:00:03.000Z",
+          "wordCount": 1371,
+          "title": "Variant Founder Fellowship – Variant",
+          "imageUrl": "https://variant.fund/wp-content/uploads/2023/03/vff_wordmark_blue_tw-scaled.jpg"
+        },
+        {
           "id": "https://blog.matter-labs.io/gm-zkevm-171b12a26b36?gi=5c14ab9313ec",
           "author": null,
           "description": "gm zkEVM!",
           "link": "https://blog.matter-labs.io/gm-zkevm-171b12a26b36?gi=5c14ab9313ec",
           "publishedOn": "2023-03-24T15:00:02.000Z",
-          "wordCount": 3597,
+          "wordCount": 3515,
           "title": "gm zkEVM!",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1YpSNt7B_qqithCMpEwJUA.jpeg"
         },
@@ -43,7 +63,7 @@
           "publishedOn": "2023-03-24T14:00:04.000Z",
           "wordCount": 2072,
           "title": "GitHub - RGB-Tools/rgb-lightning-sample",
-          "imageUrl": "https://opengraph.githubassets.com/91946dbf8b9be9dc81966d3865745f6fb900bbcb51d2024829153e4358d5d38a/RGB-Tools/rgb-lightning-sample"
+          "imageUrl": "https://opengraph.githubassets.com/74a6fd8329081b31197687449805fb43d975ee665e1be893c27df96e9d7549fe/RGB-Tools/rgb-lightning-sample"
         },
         {
           "id": "https://www.washingtonpost.com/business/2023/03/24/bank-deposits-withdrawals-money-markets/",
@@ -51,7 +71,7 @@
           "description": "Bye, banks: Recent turmoil is spurring many to move their money",
           "link": "https://www.washingtonpost.com/business/2023/03/24/bank-deposits-withdrawals-money-markets/",
           "publishedOn": "2023-03-24T13:30:03.000Z",
-          "wordCount": 9282,
+          "wordCount": 9060,
           "title": "Bye, banks: Recent turmoil is spurring many to move their money",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4OBF3WJVII63HGFUWFE63MEZU_size-normalized.jpg&w=1440"
         },
@@ -61,7 +81,7 @@
           "description": "Binance Temporarily Halts Spot Trading Citing Bug in 'Matching Engine'",
           "link": "https://www.coindesk.com/business/2023/03/24/binance-temporarily-suspends-spot-trading/",
           "publishedOn": "2023-03-24T13:30:03.000Z",
-          "wordCount": 8911,
+          "wordCount": 8950,
           "title": "Binance Temporarily Halts Spot Trading Citing Bug in 'Matching Engine'",
           "imageUrl": "https://www.coindesk.com/resizer/yFbrKX4gL0m3zMrqGHlswhpA4NM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JQI3SFR25NERJHWL3F5FVQE654.jpg"
         },
@@ -151,7 +171,7 @@
           "description": "Jargon: an LLM-based pseudolanguage for prompt engineering",
           "link": "https://jake.mirror.xyz/sPZECVTkrbVq4DerB13Thvqq_XqsDGwTBDD3SSzdI44",
           "publishedOn": "2023-03-23T19:30:04.000Z",
-          "wordCount": 8216,
+          "wordCount": 8207,
           "title": "Jargon: an LLM-based pseudolanguage for prompt engineering",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/cZpcqi9X7yqJnj0HZTtKa.jpeg?height=512&width=1024&h=512&w=1024&auto=compress"
         },
@@ -161,7 +181,7 @@
           "description": "Stablecoin Issuer MakerDAO Votes to Retain USDC as Primary Reserve Even After Depeg",
           "link": "https://www.coindesk.com/business/2023/03/23/stablecoin-issuer-makerdao-votes-to-retain-usdc-as-primary-reserve-even-after-depeg/",
           "publishedOn": "2023-03-23T19:00:02.000Z",
-          "wordCount": 8627,
+          "wordCount": 8662,
           "title": "Stablecoin Issuer MakerDAO Votes to Retain USDC as Primary Reserve Even After Depeg",
           "imageUrl": "https://www.coindesk.com/resizer/Du8PQVrnLVi_BuBDOmvB8zKwgAM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FYJF3KTE2BERRNEGQZE2G2IUYI.png"
         },
@@ -174,26 +194,6 @@
           "wordCount": 2905,
           "title": "ChatGPT plugins",
           "imageUrl": "https://openaicom.imgix.net/c51f2c96-3595-48ae-9fb6-165563fbb086/chat-plugins.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2048%2C2048"
-        },
-        {
-          "id": "https://www.eventbrite.co.uk/e/from-zero-to-dapp-rapid-prototyping-with-austin-griffiths-scaffold-eth-tickets-580173232757",
-          "author": null,
-          "description": "From Zero to DApp: Rapid Prototyping with Austin Griffith's Scaffold-ETH",
-          "link": "https://www.eventbrite.co.uk/e/from-zero-to-dapp-rapid-prototyping-with-austin-griffiths-scaffold-eth-tickets-580173232757",
-          "publishedOn": "2023-03-23T18:00:04.000Z",
-          "wordCount": 3153,
-          "title": "From Zero to DApp: Rapid Prototyping with Austin Griffith's Scaffold-ETH",
-          "imageUrl": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F465685559%2F1425751855783%2F1%2Foriginal.20230310-095222?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2666%2C1333&s=97086e7bd32ee1c81659d0cb2e630efb"
-        },
-        {
-          "id": "https://www.nowpass.xyz/",
-          "author": null,
-          "description": "Now Pass",
-          "link": "https://www.nowpass.xyz/",
-          "publishedOn": "2023-03-23T17:00:02.000Z",
-          "wordCount": 1091,
-          "title": "Now Pass",
-          "imageUrl": "/nowpassog.jpg"
         },
         {
           "id": "https://www.piratewires.com/p/2023-banking-crisis",
