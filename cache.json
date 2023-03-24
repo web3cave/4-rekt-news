@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://ecosystem.zksync.io/",
+          "author": null,
+          "description": "zkSync Ecosystem — Explore the Chosen Solution for Scaling Ethereum",
+          "link": "https://ecosystem.zksync.io/",
+          "publishedOn": "2023-03-24T22:00:04.000Z",
+          "wordCount": 33,
+          "title": "zkSync Ecosystem — Explore the Chosen Solution for Scaling Ethereum",
+          "imageUrl": "https://ecosystem.zksync.io/social.png"
+        },
+        {
+          "id": "https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/",
+          "author": null,
+          "description": "Post Mortem: Past KyberSwap Frontend Exploit (Sept 2022) - KyberSwap Content Hub",
+          "link": "https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/",
+          "publishedOn": "2023-03-24T22:00:04.000Z",
+          "wordCount": 6813,
+          "title": "Post Mortem: Past KyberSwap Frontend Exploit (Sept 2022) - KyberSwap Content Hub",
+          "imageUrl": "https://blog.kyberswap.com/wp-content/uploads/2022/12/KyberSwap-Post-Mortem-KyberSwap-Frontend-Exploit-1.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RAYkgNke6hM&feature=youtu.be",
           "author": null,
           "description": "Bitcoin is built for this moment as global banking credibility falters: Placeholder's Chris Burniske",
@@ -131,7 +151,7 @@
           "description": "Bye, banks: Recent turmoil is spurring many to move their money",
           "link": "https://www.washingtonpost.com/business/2023/03/24/bank-deposits-withdrawals-money-markets/",
           "publishedOn": "2023-03-24T13:30:03.000Z",
-          "wordCount": 9537,
+          "wordCount": 9413,
           "title": "Bye, banks: Recent turmoil is spurring many to move their money",
           "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4OBF3WJVII63HGFUWFE63MEZU_size-normalized.jpg&w=1440"
         },
@@ -156,16 +176,6 @@
           "imageUrl": "https://developers.cloudflare.com/core-services-preview.png"
         },
         {
-          "id": "https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/?tpcc=tcplustwitter",
-          "author": null,
-          "description": "Hivemapper is 1M kilometers closer to goal of beating Google Maps",
-          "link": "https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/?tpcc=tcplustwitter",
-          "publishedOn": "2023-03-23T23:00:02.000Z",
-          "wordCount": 8042,
-          "title": "Hivemapper is 1M kilometers closer to goal of beating Google Maps",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/03/Screen-Shot-2023-03-23-at-11.42.17-am.png?resize=1200,676"
-        },
-        {
           "id": "https://policy.paradigm.xyz/writing/secs-path-to-registration-part-i",
           "author": null,
           "description": "Due to SEC Inaction, Registration is Not a Viable Path for Crypto Projects | Paradigm Policy",
@@ -186,22 +196,12 @@
           "imageUrl": "https://mirror-media.imgix.net/publication-images/cZpcqi9X7yqJnj0HZTtKa.jpeg?height=512&width=1024&h=512&w=1024&auto=compress"
         },
         {
-          "id": "https://openai.com/blog/chatgpt-plugins",
-          "author": null,
-          "description": "ChatGPT plugins",
-          "link": "https://openai.com/blog/chatgpt-plugins",
-          "publishedOn": "2023-03-23T18:30:03.000Z",
-          "wordCount": 2905,
-          "title": "ChatGPT plugins",
-          "imageUrl": "https://openaicom.imgix.net/c51f2c96-3595-48ae-9fb6-165563fbb086/chat-plugins.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2048%2C2048"
-        },
-        {
           "id": "https://www.piratewires.com/p/2023-banking-crisis",
           "author": null,
           "description": "Did The Government Start A Global Financial Crisis In An Attempt To Destroy Crypto?",
           "link": "https://www.piratewires.com/p/2023-banking-crisis",
           "publishedOn": "2023-03-23T16:00:04.000Z",
-          "wordCount": 16465,
+          "wordCount": 16477,
           "title": "Did The Government Start A Global Financial Crisis In An Attempt To Destroy Crypto?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F407ee2ce-d99b-4259-adcb-a1e66ec990fa_1024x682.jpeg"
         }
