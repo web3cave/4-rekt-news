@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://gurwinder.substack.com/p/why-smart-people-hold-stupid-beliefs",
+          "author": null,
+          "description": "Why Smart People Believe Stupid Things",
+          "link": "https://gurwinder.substack.com/p/why-smart-people-hold-stupid-beliefs",
+          "publishedOn": "2023-03-24T12:30:03.000Z",
+          "wordCount": 6088,
+          "title": "Why Smart People Believe Stupid Things",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bac6a7d-7639-4e84-af5a-77a795d0af83_1896x1335.jpeg"
+        },
+        {
+          "id": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf",
+          "author": null,
+          "description": "[PDF] ERP-2023.pdf",
+          "link": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf",
+          "publishedOn": "2023-03-24T12:00:05.000Z",
+          "wordCount": 307395,
+          "title": "[PDF] ERP-2023.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/paradigmxyz/reth/issues/1923",
           "author": null,
           "description": "Support for Block Building · Issue #1923 · paradigmxyz/reth",
@@ -36,34 +56,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.coindesk.com/tech/2023/03/23/ethereum-usage-will-drop-if-the-blockchain-doesnt-increase-its-throughput-bank-of-america/?utm_medium=social&utm_content=editorial&utm_source=twitter&utm_term=organic&utm_campaign=coindesk_main",
-          "author": null,
-          "description": "Ethereum Usage Will Drop if the Blockchain Doesn’t Increase Its Throughput: Bank of America",
-          "link": "https://www.coindesk.com/tech/2023/03/23/ethereum-usage-will-drop-if-the-blockchain-doesnt-increase-its-throughput-bank-of-america/?utm_medium=social&utm_content=editorial&utm_source=twitter&utm_term=organic&utm_campaign=coindesk_main",
-          "publishedOn": "2023-03-24T01:00:02.000Z",
-          "wordCount": 7445,
-          "title": "Ethereum Usage Will Drop if the Blockchain Doesn’t Increase Its Throughput: Bank of America",
-          "imageUrl": "https://www.coindesk.com/resizer/mmAjLMx5-rLyCsdbnkI2L81hkpI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QV32OBOD6VDDJIYIALYDFT22J4"
-        },
-        {
           "id": "https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/?tpcc=tcplustwitter",
           "author": null,
           "description": "Hivemapper is 1M kilometers closer to goal of beating Google Maps",
           "link": "https://techcrunch.com/2023/03/23/hivemapper-is-1m-kilometers-closer-to-goal-of-beating-google-maps/?tpcc=tcplustwitter",
           "publishedOn": "2023-03-23T23:00:02.000Z",
-          "wordCount": 9024,
+          "wordCount": 7900,
           "title": "Hivemapper is 1M kilometers closer to goal of beating Google Maps",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/03/Screen-Shot-2023-03-23-at-11.42.17-am.png?resize=1200,676"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/fed-balance-sheet-surges-another-100bn-amid-bank-runs-foreign-repos-soar-record-and-cash",
-          "author": null,
-          "description": "Fed Balance Sheet Surges By Another $100BN Amid Bank Runs As Foreign Repos Soar By Record And Cash Floods Into...",
-          "link": "https://www.zerohedge.com/markets/fed-balance-sheet-surges-another-100bn-amid-bank-runs-foreign-repos-soar-record-and-cash",
-          "publishedOn": "2023-03-23T23:00:02.000Z",
-          "wordCount": 2099,
-          "title": "Fed Balance Sheet Surges By Another $100BN Amid Bank Runs As Foreign Repos Soar By Record And Cash Floods Into...",
-          "imageUrl": null
         },
         {
           "id": "https://policy.paradigm.xyz/writing/secs-path-to-registration-part-i",
@@ -111,7 +111,7 @@
           "description": "Stablecoin Issuer MakerDAO Votes to Retain USDC as Primary Reserve Even After Depeg",
           "link": "https://www.coindesk.com/business/2023/03/23/stablecoin-issuer-makerdao-votes-to-retain-usdc-as-primary-reserve-even-after-depeg/",
           "publishedOn": "2023-03-23T19:00:02.000Z",
-          "wordCount": 8323,
+          "wordCount": 8384,
           "title": "Stablecoin Issuer MakerDAO Votes to Retain USDC as Primary Reserve Even After Depeg",
           "imageUrl": "https://www.coindesk.com/resizer/Du8PQVrnLVi_BuBDOmvB8zKwgAM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FYJF3KTE2BERRNEGQZE2G2IUYI.png"
         },
@@ -161,7 +161,7 @@
           "description": "Did The Government Start A Global Financial Crisis In An Attempt To Destroy Crypto?",
           "link": "https://www.piratewires.com/p/2023-banking-crisis",
           "publishedOn": "2023-03-23T16:00:04.000Z",
-          "wordCount": 16479,
+          "wordCount": 16467,
           "title": "Did The Government Start A Global Financial Crisis In An Attempt To Destroy Crypto?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F407ee2ce-d99b-4259-adcb-a1e66ec990fa_1024x682.jpeg"
         },
@@ -171,7 +171,7 @@
           "description": "Offers are LIVE on App.axie!",
           "link": "https://axie.substack.com/p/offers-are-live-on-appaxie",
           "publishedOn": "2023-03-23T14:30:03.000Z",
-          "wordCount": 2063,
+          "wordCount": 1857,
           "title": "Offers are LIVE on App.axie!",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf4f9928-b341-43e9-8e18-dd04d8e95197_2400x1350.jpeg"
         },
