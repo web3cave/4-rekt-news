@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T14:14:26.002Z</id>
+    <id>urn:2023-03-25T15:16:26.258Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-25T14:14:26.002Z</updated>
+    <updated>2023-03-25T15:16:26.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Post Mortem: Past KyberSwap Frontend Exploit (Sept 2022) - KyberSwap Content Hub]]></title>
+        <id>https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/</id>
+        <link href="https://blog.kyberswap.com/post-mortem-past-kyberswap-frontend-exploit-sept-2022/"/>
+        <updated>2023-03-25T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Post Mortem: Past KyberSwap Frontend Exploit (Sept 2022) - KyberSwap Content Hub]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben Hunt says, “Cut the BS! The Banks Are Solvent!]]></title>
+        <id>https://www.bankless.com/ben-hunt-says-cut-the-bs-the-banks-are-solvent</id>
+        <link href="https://www.bankless.com/ben-hunt-says-cut-the-bs-the-banks-are-solvent"/>
+        <updated>2023-03-25T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Ben Hunt says, “Cut the BS! The Banks Are Solvent!]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Estimating inclusion delays for censored transactions]]></title>
         <id>https://ethresear.ch/t/estimating-inclusion-delays-for-censored-transactions/15115</id>
         <link href="https://ethresear.ch/t/estimating-inclusion-delays-for-censored-transactions/15115"/>
         <updated>2023-03-25T14:00:04.000Z</updated>
         <summary type="html"><![CDATA[Estimating inclusion delays for censored transactions]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variant Founder Fellowship – Variant]]></title>
-        <id>https://variant.fund/variant-founder-fellowship/</id>
-        <link href="https://variant.fund/variant-founder-fellowship/"/>
-        <updated>2023-03-25T12:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Variant Founder Fellowship – Variant]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -51,16 +61,6 @@
         <link href="https://maven11.substack.com/p/modular-mev-part-2-finality-actors"/>
         <updated>2023-03-24T23:00:04.000Z</updated>
         <summary type="html"><![CDATA[Modular MEV Part 2: Finality, Actors, State of Rollups, DA Layer and Cross-Domain MEV.]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Ecosystem — Explore the Chosen Solution for Scaling Ethereum]]></title>
-        <id>https://ecosystem.zksync.io/</id>
-        <link href="https://ecosystem.zksync.io/"/>
-        <updated>2023-03-24T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[zkSync Ecosystem — Explore the Chosen Solution for Scaling Ethereum]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
