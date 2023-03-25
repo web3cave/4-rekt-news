@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T03:17:44.539Z</id>
+    <id>urn:2023-03-25T04:20:51.136Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-25T03:17:44.539Z</updated>
+    <updated>2023-03-25T04:20:51.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://www.youtube.com/watch?v=Ml12gVdj7W0"/>
         <updated>2023-03-25T02:00:04.000Z</updated>
         <summary type="html"><![CDATA[We Took Over Paris]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modular MEV Part 2: Finality, Actors, State of Rollups, DA Layer and Cross-Domain MEV.]]></title>
+        <id>https://maven11.substack.com/p/modular-mev-part-2-finality-actors</id>
+        <link href="https://maven11.substack.com/p/modular-mev-part-2-finality-actors"/>
+        <updated>2023-03-24T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Modular MEV Part 2: Finality, Actors, State of Rollups, DA Layer and Cross-Domain MEV.]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -131,16 +141,6 @@
         <link href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html"/>
         <updated>2023-03-24T15:00:02.000Z</updated>
         <summary type="html"><![CDATA[Hello Dolly: Democratizing the magic of ChatGPT with open models]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Coinbase is Leading Institutional Adoption | Real Vision]]></title>
-        <id>https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/how-coinbase-is-leading-institutional-adoption-123e</id>
-        <link href="https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/how-coinbase-is-leading-institutional-adoption-123e"/>
-        <updated>2023-03-24T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[How Coinbase is Leading Institutional Adoption | Real Vision]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
