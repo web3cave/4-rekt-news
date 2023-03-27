@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/political/sunday-satire-11-great-reasons-stay-california",
+          "author": null,
+          "description": "Sunday Satire: 11 Great Reasons To Stay In California | ZeroHedge",
+          "link": "https://www.zerohedge.com/political/sunday-satire-11-great-reasons-stay-california",
+          "publishedOn": "2023-03-27T02:00:04.000Z",
+          "wordCount": 975,
+          "title": "Sunday Satire: 11 Great Reasons To Stay In California | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/ruvnet/promptlang",
           "author": null,
           "description": "GitHub - ruvnet/promptlang: A Prompt based programming language for prompts and AI interactions. Simple and...",
@@ -93,7 +103,7 @@
           "publishedOn": "2023-03-26T23:00:02.000Z",
           "wordCount": 848,
           "title": "GitHub - refcell/run-wild: Augment GPT-4 Environment Access",
-          "imageUrl": "https://opengraph.githubassets.com/4974f8de3366169f678abcf1b4c41d4064fec783757370fbeed48cf9f390321c/refcell/run-wild"
+          "imageUrl": "https://opengraph.githubassets.com/552b9a18e7f15fd5aac344ceb1e44907d9abee30181bbaa6c23f45161a629e10/refcell/run-wild"
         },
         {
           "id": "https://www.tesla.com/VehicleSafetyReport",
@@ -121,7 +131,7 @@
           "description": "Fed Liquidity: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "link": "https://raoulpal.substack.com/p/fed-liquidity-the-gmi-top-5-weekly?sd=pf",
           "publishedOn": "2023-03-26T23:00:02.000Z",
-          "wordCount": 3356,
+          "wordCount": 3384,
           "title": "Fed Liquidity: The GMI Top 5 Weekly Charts That Make You Go Hmmm...",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7899dd6-ace6-4d40-8751-a48327a52774_1924x1085.png"
         },
@@ -141,7 +151,7 @@
           "description": "Panic In Philly As Chemical Spill Sends Residents Scrambling For Bottled Water | ZeroHedge",
           "link": "https://www.zerohedge.com/medical/panic-philly-chemical-spill-sends-residents-scrambling-bottled-water",
           "publishedOn": "2023-03-26T22:00:03.000Z",
-          "wordCount": 1000,
+          "wordCount": 1298,
           "title": "Panic In Philly As Chemical Spill Sends Residents Scrambling For Bottled Water | ZeroHedge",
           "imageUrl": null
         },
@@ -186,24 +196,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://vitalik.ca/general/2020/11/08/concave.html",
-          "author": null,
-          "description": "Convex and Concave Dispositions",
-          "link": "https://vitalik.ca/general/2020/11/08/concave.html",
-          "publishedOn": "2023-03-26T05:00:01.000Z",
-          "wordCount": 1987,
-          "title": "Convex and Concave Dispositions",
-          "imageUrl": null
-        },
-        {
           "id": "http://blog.archive.org/2023/03/25/the-fight-continues/",
           "author": null,
           "description": "The Fight Continues - Internet Archive Blogs",
           "link": "http://blog.archive.org/2023/03/25/the-fight-continues/",
           "publishedOn": "2023-03-25T02:00:04.000Z",
-          "wordCount": 10353,
+          "wordCount": null,
           "title": "The Fight Continues - Internet Archive Blogs",
-          "imageUrl": "http://blog.archive.org/wp-content/uploads/2023/03/16_9-logo-white-letters-on-black-1-1024x575.png"
+          "imageUrl": null
         }
       ]
     }
