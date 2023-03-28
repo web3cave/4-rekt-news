@@ -6,24 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coincenter.org/the-restrict-act-creates-blanket-authority-with-few-checks-to-ban-just-about-anything-linked-to-a-foreign-adversary/",
+          "author": null,
+          "description": "The RESTRICT Act creates blanket authority, with few checks, to ban just about anything linked to a ‘foreign adversary’",
+          "link": "https://www.coincenter.org/the-restrict-act-creates-blanket-authority-with-few-checks-to-ban-just-about-anything-linked-to-a-foreign-adversary/",
+          "publishedOn": "2023-03-28T21:30:03.000Z",
+          "wordCount": 1562,
+          "title": "The RESTRICT Act creates blanket authority, with few checks, to ban just about anything linked to a ‘foreign adversary’",
+          "imageUrl": "https://www.coincenter.org/app/uploads/2023/03/a04b1aa0-c8f6-11ed-bbaa-77c11ee54bcb.jpeg"
+        },
+        {
+          "id": "https://www.circle.com/blog/how-the-usdc-reserve-is-structured-and-managed",
+          "author": null,
+          "description": "How the USDC Reserve is Structured and Managed",
+          "link": "https://www.circle.com/blog/how-the-usdc-reserve-is-structured-and-managed",
+          "publishedOn": "2023-03-28T21:30:03.000Z",
+          "wordCount": 2309,
+          "title": "How the USDC Reserve is Structured and Managed",
+          "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/blog-inside-usdc-reserve.png#keepProtocol"
+        },
+        {
           "id": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
           "author": null,
           "description": "Cheap FTX crypto tokens were offered to Genesis executives",
           "link": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
           "publishedOn": "2023-03-28T21:00:02.000Z",
-          "wordCount": 1651,
+          "wordCount": 1644,
           "title": "Cheap FTX crypto tokens were offered to Genesis executives",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/OpenBazaar/openbazaar3-rust",
-          "author": null,
-          "description": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
-          "link": "https://github.com/OpenBazaar/openbazaar3-rust",
-          "publishedOn": "2023-03-28T21:00:02.000Z",
-          "wordCount": 575,
-          "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
-          "imageUrl": "https://opengraph.githubassets.com/7f1d1f118862ae819bd89352d7f4ac230f8c34ed66d03dcbfd02754464efb2c3/OpenBazaar/openbazaar3-rust"
         },
         {
           "id": "https://flux.paradigm.xyz/",
@@ -91,7 +101,7 @@
           "description": "Fidelity is hiring for its crypto and token research team",
           "link": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-28T14:00:04.000Z",
-          "wordCount": 63047,
+          "wordCount": 63272,
           "title": "Fidelity is hiring for its crypto and token research team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
         },
@@ -111,7 +121,7 @@
           "description": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-shares-its-recent-response-to-us-senators-inquiry-1968152125579137703",
           "publishedOn": "2023-03-28T09:30:04.000Z",
-          "wordCount": 17206,
+          "wordCount": 17237,
           "title": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230320/b3fec360-9c2f-4e74-adc9-1381cb972b04.png"
         },
@@ -171,7 +181,7 @@
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6348,
+          "wordCount": 6397,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -181,7 +191,7 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7191,
+          "wordCount": 7203,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
         },
@@ -194,16 +204,6 @@
           "wordCount": 5093,
           "title": "Why Did I Join the Arbitrum Foundation?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4247f59f-fc93-41ba-832d-442b28a3475a_1094x1476.png"
-        },
-        {
-          "id": "https://ethglobal.com/showcase/opclave-opstack-impr-erc4337-and-apple-sign-94def",
-          "author": null,
-          "description": "Opclave | ETHGlobal",
-          "link": "https://ethglobal.com/showcase/opclave-opstack-impr-erc4337-and-apple-sign-94def",
-          "publishedOn": "2023-03-26T21:00:02.000Z",
-          "wordCount": 9295,
-          "title": "Opclave | ETHGlobal",
-          "imageUrl": "https://storage.googleapis.com/ethglobal-api-production/projects%2F94def%2Fimages%2Fopclave.png"
         }
       ]
     }
