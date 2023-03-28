@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf",
+          "author": null,
+          "description": "[PDF] gov.uscourts.casd.732409.49.0.pdf",
+          "link": "https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf",
+          "publishedOn": "2023-03-28T02:00:03.000Z",
+          "wordCount": 8890,
+          "title": "[PDF] gov.uscourts.casd.732409.49.0.pdf",
+          "imageUrl": null
+        },
+        {
           "id": "https://abcnews.go.com/Video",
           "author": null,
           "description": "ABC News – Breaking News, Latest News and Videos",
           "link": "https://abcnews.go.com/Video",
           "publishedOn": "2023-03-28T01:30:04.000Z",
-          "wordCount": 15321,
+          "wordCount": 15315,
           "title": "ABC News – Breaking News, Latest News and Videos",
           "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         },
@@ -36,22 +46,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
-          "author": null,
-          "description": "Release V4.0.0 · prysmaticlabs/prysm",
-          "link": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
-          "publishedOn": "2023-03-28T01:00:02.000Z",
-          "wordCount": 816,
-          "title": "Release V4.0.0 · prysmaticlabs/prysm",
-          "imageUrl": "https://opengraph.githubassets.com/f18ab84e2094821133ff819d6df9c6e90880cecba4091f750c5f59e470ebcce6/prysmaticlabs/prysm/releases/tag/v4.0.0"
-        },
-        {
           "id": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "author": null,
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6360,
+          "wordCount": 6304,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -61,7 +61,7 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7183,
+          "wordCount": 7191,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
         },
@@ -71,7 +71,7 @@
           "description": "The Age of AI has begun",
           "link": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
           "publishedOn": "2023-03-27T20:00:03.000Z",
-          "wordCount": 135321,
+          "wordCount": 135325,
           "title": "The Age of AI has begun",
           "imageUrl": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg"
         },
@@ -131,7 +131,7 @@
           "description": "Why Did I Join the Arbitrum Foundation?",
           "link": "https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation",
           "publishedOn": "2023-03-27T17:00:03.000Z",
-          "wordCount": 5090,
+          "wordCount": 5094,
           "title": "Why Did I Join the Arbitrum Foundation?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4247f59f-fc93-41ba-832d-442b28a3475a_1094x1476.png"
         },
@@ -181,7 +181,7 @@
           "description": "Chinese banks court crypto firms in Hong Kong after mainland ban",
           "link": "https://www.straitstimes.com/business/chinese-banks-court-crypto-firms-in-hong-kong-after-mainland-ban?utm_source=twitter&utm_medium=social-organic&utm_keyword=dlvr.it",
           "publishedOn": "2023-03-27T07:30:03.000Z",
-          "wordCount": 4764,
+          "wordCount": 4753,
           "title": "Chinese banks court crypto firms in Hong Kong after mainland ban",
           "imageUrl": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/27/2023-01-18T210847Z146942264RC28TY9UY0P9RTRMADP3FINTECH-CRYPTO-CFTC_5.JPG?VersionId=REwZG2bzDxZNr0gHQtc.2lHxI1_iTrBL"
         },
