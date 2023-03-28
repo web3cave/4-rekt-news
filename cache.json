@@ -6,14 +6,34 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=0xrmYTzQY24",
+          "id": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
           "author": null,
-          "description": "Jarrod Dicker - TCG: Investing in companies that define culture - ep 139",
-          "link": "https://www.youtube.com/watch?v=0xrmYTzQY24",
-          "publishedOn": "2023-03-28T19:00:02.000Z",
-          "wordCount": null,
-          "title": "Jarrod Dicker - TCG: Investing in companies that define culture - ep 139",
+          "description": "Cheap FTX crypto tokens were offered to Genesis executives",
+          "link": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
+          "publishedOn": "2023-03-28T21:00:02.000Z",
+          "wordCount": 1651,
+          "title": "Cheap FTX crypto tokens were offered to Genesis executives",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/OpenBazaar/openbazaar3-rust",
+          "author": null,
+          "description": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
+          "link": "https://github.com/OpenBazaar/openbazaar3-rust",
+          "publishedOn": "2023-03-28T21:00:02.000Z",
+          "wordCount": 575,
+          "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
+          "imageUrl": "https://opengraph.githubassets.com/7f1d1f118862ae819bd89352d7f4ac230f8c34ed66d03dcbfd02754464efb2c3/OpenBazaar/openbazaar3-rust"
+        },
+        {
+          "id": "https://flux.paradigm.xyz/",
+          "author": null,
+          "description": "Flux",
+          "link": "https://flux.paradigm.xyz/",
+          "publishedOn": "2023-03-28T21:00:01.000Z",
+          "wordCount": 3,
+          "title": "Flux",
+          "imageUrl": "https://flux.paradigm.xyz/meta.jpg"
         },
         {
           "id": "https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement",
@@ -21,7 +41,7 @@
           "description": "Mainnet Shapella Announcement | Ethereum Foundation Blog",
           "link": "https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement",
           "publishedOn": "2023-03-28T17:00:02.000Z",
-          "wordCount": 2614,
+          "wordCount": 2606,
           "title": "Mainnet Shapella Announcement | Ethereum Foundation Blog",
           "imageUrl": "https://storage.googleapis.com/ethereum-hackmd/upload_5fc486ebf659fc2e64c38f805468f54c.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "Fidelity is hiring for its crypto and token research team",
           "link": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-28T14:00:04.000Z",
-          "wordCount": 63040,
+          "wordCount": 63047,
           "title": "Fidelity is hiring for its crypto and token research team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
         },
@@ -91,7 +111,7 @@
           "description": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-shares-its-recent-response-to-us-senators-inquiry-1968152125579137703",
           "publishedOn": "2023-03-28T09:30:04.000Z",
-          "wordCount": 17189,
+          "wordCount": 17206,
           "title": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230320/b3fec360-9c2f-4e74-adc9-1381cb972b04.png"
         },
@@ -104,16 +124,6 @@
           "wordCount": 1824,
           "title": "NEW WHITE PAPER UNCOVERS HOW FEDERAL BANKING REGULATORS ARE WAGING \"OPERATION CHOKE POINT 2.0\" AGAINST THE...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
-          "author": null,
-          "description": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
-          "link": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
-          "publishedOn": "2023-03-28T03:30:04.000Z",
-          "wordCount": 7569,
-          "title": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
-          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf",
@@ -161,7 +171,7 @@
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6373,
+          "wordCount": 6348,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -171,19 +181,9 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7195,
+          "wordCount": 7191,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
-        },
-        {
-          "id": "https://polygon.technology/blog/polygon-zkevm-is-now-fully-open-source?utm_source=twitter&utm_medium=social&utm_campaign=zkevm-launch&utm_term=open-source&utm_content=blog",
-          "author": null,
-          "description": "Polygon zkEVM Is Now Fully Open-Source",
-          "link": "https://polygon.technology/blog/polygon-zkevm-is-now-fully-open-source?utm_source=twitter&utm_medium=social&utm_campaign=zkevm-launch&utm_term=open-source&utm_content=blog",
-          "publishedOn": "2023-03-27T21:00:03.000Z",
-          "wordCount": 3361,
-          "title": "Polygon zkEVM Is Now Fully Open-Source",
-          "imageUrl": "https://assets-global.website-files.com/637e2b6d602973ea0941d482/6420a5cad85f0c0896a964e5_OS%20blog%20cover.png"
         },
         {
           "id": "https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation",
