@@ -21,7 +21,7 @@
           "description": "ABC News – Breaking News, Latest News and Videos",
           "link": "https://abcnews.go.com/Video",
           "publishedOn": "2023-03-28T01:30:04.000Z",
-          "wordCount": 15315,
+          "wordCount": 15331,
           "title": "ABC News – Breaking News, Latest News and Videos",
           "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         },
@@ -46,12 +46,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
+          "author": null,
+          "description": "Release V4.0.0 · prysmaticlabs/prysm",
+          "link": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
+          "publishedOn": "2023-03-28T01:00:02.000Z",
+          "wordCount": 816,
+          "title": "Release V4.0.0 · prysmaticlabs/prysm",
+          "imageUrl": "https://opengraph.githubassets.com/f18ab84e2094821133ff819d6df9c6e90880cecba4091f750c5f59e470ebcce6/prysmaticlabs/prysm/releases/tag/v4.0.0"
+        },
+        {
           "id": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "author": null,
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6304,
+          "wordCount": 6356,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -66,14 +76,14 @@
           "imageUrl": "https://images.wsj.net/im-751483/social"
         },
         {
-          "id": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
+          "id": "https://polygon.technology/blog/polygon-zkevm-is-now-fully-open-source?utm_source=twitter&utm_medium=social&utm_campaign=zkevm-launch&utm_term=open-source&utm_content=blog",
           "author": null,
-          "description": "The Age of AI has begun",
-          "link": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
-          "publishedOn": "2023-03-27T20:00:03.000Z",
-          "wordCount": 135325,
-          "title": "The Age of AI has begun",
-          "imageUrl": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg"
+          "description": "Polygon zkEVM Is Now Fully Open-Source",
+          "link": "https://polygon.technology/blog/polygon-zkevm-is-now-fully-open-source?utm_source=twitter&utm_medium=social&utm_campaign=zkevm-launch&utm_term=open-source&utm_content=blog",
+          "publishedOn": "2023-03-27T21:00:03.000Z",
+          "wordCount": 3361,
+          "title": "Polygon zkEVM Is Now Fully Open-Source",
+          "imageUrl": "https://assets-global.website-files.com/637e2b6d602973ea0941d482/6420a5cad85f0c0896a964e5_OS%20blog%20cover.png"
         },
         {
           "id": "https://dune.com/blog/llm-roadmap",
@@ -84,16 +94,6 @@
           "wordCount": 1385,
           "title": "Dune’s LLM Roadmap: Transforming the Way You Interact with Data",
           "imageUrl": "https://global-uploads.webflow.com/62fca6954348cf321d918ef1/6421b9cb8c79ec2971e94c6f_Blog%20post.png"
-        },
-        {
-          "id": "https://restofworld.org/2023/twitter-blocked-access-punjab-amritpal-singh-sandhu/",
-          "author": null,
-          "description": "Twitter blocked 122 accounts in India at the government’s request",
-          "link": "https://restofworld.org/2023/twitter-blocked-access-punjab-amritpal-singh-sandhu/",
-          "publishedOn": "2023-03-27T19:00:03.000Z",
-          "wordCount": 1513,
-          "title": "Twitter blocked 122 accounts in India at the government’s request",
-          "imageUrl": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2023/03/GettyImages-1248343449-1600x900.jpg"
         },
         {
           "id": "https://unchainedcrypto.com/coinbase-proposes-creating-inflation-pegged-stablecoins-on-base-network/",
@@ -156,6 +156,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://research.imperator.co/p/sommelier-finance-a-global-overview?sd=pf",
+          "author": null,
+          "description": "Sommelier finance - A Global Overview",
+          "link": "https://research.imperator.co/p/sommelier-finance-a-global-overview?sd=pf",
+          "publishedOn": "2023-03-27T15:00:02.000Z",
+          "wordCount": 4607,
+          "title": "Sommelier finance - A Global Overview",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72537577-3b82-4df5-89e0-e79f06c827d7_591x591.png"
+        },
+        {
           "id": "https://github.com/ethereum/EIPs/issues/29",
           "author": null,
           "description": "EIP 102 (Serenity): Rename \"gas\" to \"mana\" · Issue #29 · ethereum/EIPs",
@@ -194,16 +204,6 @@
           "wordCount": 9295,
           "title": "Opclave | ETHGlobal",
           "imageUrl": "https://storage.googleapis.com/ethglobal-api-production/projects%2F94def%2Fimages%2Fopclave.png"
-        },
-        {
-          "id": "https://www.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html?utm_medium=social&utm_term=link&utm_content=2023-03-26T11%3A59%3A59&utm_source=twCNN",
-          "author": null,
-          "description": "What's 'digital blackface?'  And why is it wrong when White people use it? | CNN",
-          "link": "https://www.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html?utm_medium=social&utm_term=link&utm_content=2023-03-26T11%3A59%3A59&utm_source=twCNN",
-          "publishedOn": "2023-03-26T16:30:02.000Z",
-          "wordCount": 21665,
-          "title": "What's 'digital blackface?'  And why is it wrong when White people use it? | CNN",
-          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230323113009-sweet-brown-kfor.jpg?c=16x9&q=w_800,c_fill"
         }
       ]
     }
