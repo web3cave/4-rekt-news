@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://unchainedcrypto.com/podcast/why-zero-knowledge-proofs-are-critical-to-ethereums-future/",
+          "author": null,
+          "description": "Why Zero-Knowledge Proofs Are Critical to Ethereum’s Future",
+          "link": "https://unchainedcrypto.com/podcast/why-zero-knowledge-proofs-are-critical-to-ethereums-future/",
+          "publishedOn": "2023-03-28T23:00:04.000Z",
+          "wordCount": 879,
+          "title": "Why Zero-Knowledge Proofs Are Critical to Ethereum’s Future",
+          "imageUrl": "https://unchainedcrypto.com/wp-content/uploads/2023/03/UN473-SOCIAL.jpg"
+        },
+        {
           "id": "https://www.coincenter.org/the-restrict-act-creates-blanket-authority-with-few-checks-to-ban-just-about-anything-linked-to-a-foreign-adversary/",
           "author": null,
           "description": "The RESTRICT Act creates blanket authority, with few checks, to ban just about anything linked to a ‘foreign adversary’",
@@ -26,14 +36,14 @@
           "imageUrl": "https://www.circle.com/hubfs/Blog%20Posts/blog-inside-usdc-reserve.png#keepProtocol"
         },
         {
-          "id": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
+          "id": "https://github.com/OpenBazaar/openbazaar3-rust",
           "author": null,
-          "description": "Cheap FTX crypto tokens were offered to Genesis executives",
-          "link": "https://www.ft.com/content/563a289c-f8f6-427e-9b6d-f4dcfaa1d1ea",
+          "description": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
+          "link": "https://github.com/OpenBazaar/openbazaar3-rust",
           "publishedOn": "2023-03-28T21:00:02.000Z",
-          "wordCount": 1644,
-          "title": "Cheap FTX crypto tokens were offered to Genesis executives",
-          "imageUrl": null
+          "wordCount": 575,
+          "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
+          "imageUrl": "https://opengraph.githubassets.com/7f1d1f118862ae819bd89352d7f4ac230f8c34ed66d03dcbfd02754464efb2c3/OpenBazaar/openbazaar3-rust"
         },
         {
           "id": "https://flux.paradigm.xyz/",
@@ -66,24 +76,14 @@
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
         },
         {
-          "id": "https://podcasts.apple.com/us/podcast/sreeram-kannan-eigenlayer-is-expanding-eths-security/id1438148082?i=1000606301388",
-          "author": null,
-          "description": "‎The Delphi Podcast: Sreeram Kannan: EigenLayer Is Expanding ETH’s Security to Bootstrap Future Use Cases on Apple...",
-          "link": "https://podcasts.apple.com/us/podcast/sreeram-kannan-eigenlayer-is-expanding-eths-security/id1438148082?i=1000606301388",
-          "publishedOn": "2023-03-28T16:30:03.000Z",
-          "wordCount": 9502,
-          "title": "‎The Delphi Podcast: Sreeram Kannan: EigenLayer Is Expanding ETH’s Security to Bootstrap Future Use Cases on Apple...",
-          "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/bb/b9/e0/bbb9e0ae-71a4-75b3-f0ed-71dfe5f1acfb/mza_1183106734299525379.jpg/1200x630wp.png"
-        },
-        {
           "id": "https://github.com/ensdomains/ens-contracts/pull/236",
           "author": null,
           "description": "Mainnet deploy of new contracts by Arachnid · Pull Request #236 · ensdomains/ens-contracts",
           "link": "https://github.com/ensdomains/ens-contracts/pull/236",
           "publishedOn": "2023-03-28T16:00:04.000Z",
-          "wordCount": 694,
+          "wordCount": 781,
           "title": "Mainnet deploy of new contracts by Arachnid · Pull Request #236 · ensdomains/ens-contracts",
-          "imageUrl": "https://opengraph.githubassets.com/5873dbe3d605bee2e85c7ce21fc9b37b320aa3c29d107365d1491579338b11d2/ensdomains/ens-contracts/pull/236"
+          "imageUrl": "https://opengraph.githubassets.com/ddb52c691ceaed57df2f6d1df50a770fb7c11e38339867b31e35cddd16d3621c/ensdomains/ens-contracts/pull/236"
         },
         {
           "id": "https://www.zerohedge.com/markets/sbf-charged-funneling-40m-crypto-bribe-ccp-officials",
@@ -121,7 +121,7 @@
           "description": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-shares-its-recent-response-to-us-senators-inquiry-1968152125579137703",
           "publishedOn": "2023-03-28T09:30:04.000Z",
-          "wordCount": 17237,
+          "wordCount": 17216,
           "title": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230320/b3fec360-9c2f-4e74-adc9-1381cb972b04.png"
         },
@@ -181,7 +181,7 @@
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6397,
+          "wordCount": 6335,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -191,7 +191,7 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7203,
+          "wordCount": 7218,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
         },
