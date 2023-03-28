@@ -6,24 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
-          "id": "https://github.com/farcasterxyz/hubble",
+          "id": "https://abcnews.go.com/Video",
           "author": null,
-          "description": "GitHub - farcasterxyz/hubble",
-          "link": "https://github.com/farcasterxyz/hubble",
-          "publishedOn": "2023-03-27T23:00:02.000Z",
-          "wordCount": 660,
-          "title": "GitHub - farcasterxyz/hubble",
-          "imageUrl": "https://opengraph.githubassets.com/0fe98ded07c797db338b241a5a27bb97be548d3e740f5fdde073dee6419fa886/farcasterxyz/hubble"
+          "description": "ABC News – Breaking News, Latest News and Videos",
+          "link": "https://abcnews.go.com/Video",
+          "publishedOn": "2023-03-28T01:30:04.000Z",
+          "wordCount": 15460,
+          "title": "ABC News – Breaking News, Latest News and Videos",
+          "imageUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         },
         {
-          "id": "https://www.zerohedge.com/geopolitical/hungary-approves-finlands-nato-membership-while-sweden-sidelined",
+          "id": "https://www.congress.gov/118/bills/s686/BILLS-118s686is.pdf",
           "author": null,
-          "description": "Hungary Approves Finland's NATO Membership, While Sweden Sidelined | ZeroHedge",
-          "link": "https://www.zerohedge.com/geopolitical/hungary-approves-finlands-nato-membership-while-sweden-sidelined",
-          "publishedOn": "2023-03-27T22:30:02.000Z",
-          "wordCount": 825,
-          "title": "Hungary Approves Finland's NATO Membership, While Sweden Sidelined | ZeroHedge",
+          "description": "[PDF] BILLS-118s686is.pdf",
+          "link": "https://www.congress.gov/118/bills/s686/BILLS-118s686is.pdf",
+          "publishedOn": "2023-03-28T01:30:03.000Z",
+          "wordCount": 7334,
+          "title": "[PDF] BILLS-118s686is.pdf",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.cooperkirk.com/wp-content/uploads/2023/03/Operation-Choke-Point-2.0.pdf",
+          "author": null,
+          "description": "[PDF] Operation-Choke-Point-2.0.pdf",
+          "link": "https://www.cooperkirk.com/wp-content/uploads/2023/03/Operation-Choke-Point-2.0.pdf",
+          "publishedOn": "2023-03-28T01:00:02.000Z",
+          "wordCount": 11289,
+          "title": "[PDF] Operation-Choke-Point-2.0.pdf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
+          "author": null,
+          "description": "Release V4.0.0 · prysmaticlabs/prysm",
+          "link": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
+          "publishedOn": "2023-03-28T01:00:02.000Z",
+          "wordCount": 815,
+          "title": "Release V4.0.0 · prysmaticlabs/prysm",
+          "imageUrl": "https://opengraph.githubassets.com/f18ab84e2094821133ff819d6df9c6e90880cecba4091f750c5f59e470ebcce6/prysmaticlabs/prysm/releases/tag/v4.0.0"
+        },
+        {
+          "id": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
+          "author": null,
+          "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
+          "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
+          "publishedOn": "2023-03-27T23:30:03.000Z",
+          "wordCount": 6318,
+          "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
+          "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
         {
           "id": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
@@ -31,29 +61,9 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7174,
+          "wordCount": 7183,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
-        },
-        {
-          "id": "https://www.whatbitcoindid.com/podcast/a-bitcoin-reality-check",
-          "author": null,
-          "description": "A Bitcoin Reality Check with Sergej Kotliar — What Bitcoin Did",
-          "link": "https://www.whatbitcoindid.com/podcast/a-bitcoin-reality-check",
-          "publishedOn": "2023-03-27T21:30:03.000Z",
-          "wordCount": 1354,
-          "title": "A Bitcoin Reality Check with Sergej Kotliar — What Bitcoin Did",
-          "imageUrl": "http://static1.squarespace.com/static/59641a28ff7c5099c12a5eda/5a1830d2f9619afa6af38f18/64218fedb7b95e2cd7664ab8/1679922038852/WBD637+-+Sergej+Kotliar+-+Large+Banner.png?format=1500w"
-        },
-        {
-          "id": "https://fortune.com/crypto/2023/03/27/polygon-launches-holy-grail-zkevm-mainnet-beta-mass-scale-cost-savings-to-ethereum-transactions/?utm_campaign=fortunemagazine&utm_source=twitter.com&xid=soc_socialflow_twitter_FORTUNE&utm_medium=social",
-          "author": null,
-          "description": "Polygon launches 'holy grail' zkEVM mainnet beta that aims to increase scale and decrease costs of Ethereum transactions",
-          "link": "https://fortune.com/crypto/2023/03/27/polygon-launches-holy-grail-zkevm-mainnet-beta-mass-scale-cost-savings-to-ethereum-transactions/?utm_campaign=fortunemagazine&utm_source=twitter.com&xid=soc_socialflow_twitter_FORTUNE&utm_medium=social",
-          "publishedOn": "2023-03-27T21:30:03.000Z",
-          "wordCount": 4421,
-          "title": "Polygon launches 'holy grail' zkEVM mainnet beta that aims to increase scale and decrease costs of Ethereum transactions",
-          "imageUrl": "https://content.fortune.com/wp-content/uploads/2023/03/MihailoBjelicHeadshot.jpg?resize=1200,600"
         },
         {
           "id": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
@@ -61,7 +71,7 @@
           "description": "The Age of AI has begun",
           "link": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
           "publishedOn": "2023-03-27T20:00:03.000Z",
-          "wordCount": 135325,
+          "wordCount": 135321,
           "title": "The Age of AI has begun",
           "imageUrl": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg"
         },
@@ -106,6 +116,16 @@
           "imageUrl": "https://variant.fund/wp-content/uploads/2023/03/vff_wordmark_blue_tw-scaled.jpg"
         },
         {
+          "id": "https://www.avalanchesummit.com/",
+          "author": null,
+          "description": "Avalanche Summit II: May 3-5, 2023 in Barcelona, Spain",
+          "link": "https://www.avalanchesummit.com/",
+          "publishedOn": "2023-03-27T17:00:03.000Z",
+          "wordCount": 2264,
+          "title": "Avalanche Summit II: May 3-5, 2023 in Barcelona, Spain",
+          "imageUrl": "https://assets.website-files.com/6393369d6d8df43a519d0520/639b102a4a1bd67b42ea534b_Summit-Avalanche-P1-OG%20(1)-min.png"
+        },
+        {
           "id": "https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation",
           "author": null,
           "description": "Why Did I Join the Arbitrum Foundation?",
@@ -134,16 +154,6 @@
           "wordCount": null,
           "title": "Wassies NFT Prices Surge as Crypto Twitter Lore-Themed Hotel Opens in Singapore",
           "imageUrl": null
-        },
-        {
-          "id": "https://research.imperator.co/p/sommelier-finance-a-global-overview?sd=pf",
-          "author": null,
-          "description": "Sommelier finance - A Global Overview",
-          "link": "https://research.imperator.co/p/sommelier-finance-a-global-overview?sd=pf",
-          "publishedOn": "2023-03-27T15:00:02.000Z",
-          "wordCount": 4607,
-          "title": "Sommelier finance - A Global Overview",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72537577-3b82-4df5-89e0-e79f06c827d7_591x591.png"
         },
         {
           "id": "https://github.com/ethereum/EIPs/issues/29",
@@ -184,16 +194,6 @@
           "wordCount": 9295,
           "title": "Opclave | ETHGlobal",
           "imageUrl": "https://storage.googleapis.com/ethglobal-api-production/projects%2F94def%2Fimages%2Fopclave.png"
-        },
-        {
-          "id": "https://archive.is/ahpbI",
-          "author": null,
-          "description": "Federal Reserve Board - Statement by Secretary of the Treasury Janet …",
-          "link": "https://archive.is/ahpbI",
-          "publishedOn": "2023-03-26T19:30:03.000Z",
-          "wordCount": null,
-          "title": "Federal Reserve Board - Statement by Secretary of the Treasury Janet …",
-          "imageUrl": null
         },
         {
           "id": "https://www.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html?utm_medium=social&utm_term=link&utm_content=2023-03-26T11%3A59%3A59&utm_source=twCNN",
