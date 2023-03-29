@@ -6,34 +6,54 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.coindesk.com/markets/2023/03/29/binances-on-chain-balance-stands-at-64b-nansen-data-shows/",
+          "author": null,
+          "description": "Binance’s On-Chain Balance Stands at $64B, Nansen Data Shows",
+          "link": "https://www.coindesk.com/markets/2023/03/29/binances-on-chain-balance-stands-at-64b-nansen-data-shows/",
+          "publishedOn": "2023-03-29T14:30:04.000Z",
+          "wordCount": 8125,
+          "title": "Binance’s On-Chain Balance Stands at $64B, Nansen Data Shows",
+          "imageUrl": "https://www.coindesk.com/resizer/yFbrKX4gL0m3zMrqGHlswhpA4NM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JQI3SFR25NERJHWL3F5FVQE654.jpg"
+        },
+        {
+          "id": "https://bankless.pallet.com/jobs/f39528ec-e381-4c1f-a9ad-907e69ac27bf",
+          "author": null,
+          "description": "Media Operations  @ Bankless | Bankless",
+          "link": "https://bankless.pallet.com/jobs/f39528ec-e381-4c1f-a9ad-907e69ac27bf",
+          "publishedOn": "2023-03-29T13:30:04.000Z",
+          "wordCount": 829,
+          "title": "Media Operations  @ Bankless | Bankless",
+          "imageUrl": "https://cardea.imgix.net/media/companies/logos/675eba97-f761-4ece-a8e9-a29dc592d68a_256x256_1zE8Qhn.png"
+        },
+        {
+          "id": "https://github.com/ledgerwatch/erigon/releases/tag/v2.42.0",
+          "author": null,
+          "description": "Release v2.42.0 · ledgerwatch/erigon",
+          "link": "https://github.com/ledgerwatch/erigon/releases/tag/v2.42.0",
+          "publishedOn": "2023-03-29T13:30:04.000Z",
+          "wordCount": 355,
+          "title": "Release v2.42.0 · ledgerwatch/erigon",
+          "imageUrl": "https://opengraph.githubassets.com/120b8769c10b8a91e431275ab70d5c4251cf14c1d85048bd08efd7404f448596/ledgerwatch/erigon/releases/tag/v2.42.0"
+        },
+        {
+          "id": "https://www.forbes.com/sites/sarahemerson/2023/03/29/sam-bankman-fried-legal-fees-funded-by-alameda-money-gifted-to-father-joe-bankman/",
+          "author": null,
+          "description": "Sam Bankman-Fried’s Legal Defense Is Being Funded With Alameda Money He Gifted His Father",
+          "link": "https://www.forbes.com/sites/sarahemerson/2023/03/29/sam-bankman-fried-legal-fees-funded-by-alameda-money-gifted-to-father-joe-bankman/",
+          "publishedOn": "2023-03-29T11:30:04.000Z",
+          "wordCount": 11972,
+          "title": "Sam Bankman-Fried’s Legal Defense Is Being Funded With Alameda Money He Gifted His Father",
+          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6414d67c98e1d0a956990540/0x0.jpg?format=jpg&width=1200"
+        },
+        {
           "id": "https://www.reuters.com/legal/transactional/column-if-tiktok-is-banned-brace-epic-first-amendment-fight-2023-03-28/",
           "author": null,
           "description": "If TikTok is banned, brace for epic First Amendment fight",
           "link": "https://www.reuters.com/legal/transactional/column-if-tiktok-is-banned-brace-epic-first-amendment-fight-2023-03-28/",
           "publishedOn": "2023-03-29T09:30:04.000Z",
-          "wordCount": 5839,
+          "wordCount": 5920,
           "title": "If TikTok is banned, brace for epic First Amendment fight",
           "imageUrl": "https://www.reuters.com/resizer/q031ejx_MO03bJ5Z27baktTjcw0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VJ2GL6W5KROPLHWGKUXRAABJMU.jpg"
-        },
-        {
-          "id": "https://viktorbunin.medium.com/investing-in-eigenlayer-1020608cd69f",
-          "author": null,
-          "description": "Investing in EigenLayer",
-          "link": "https://viktorbunin.medium.com/investing-in-eigenlayer-1020608cd69f",
-          "publishedOn": "2023-03-29T07:00:02.000Z",
-          "wordCount": 2544,
-          "title": "Investing in EigenLayer",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1098/1*_Zba_0fdQ_DPvCNuug_3Hg.png"
-        },
-        {
-          "id": "https://polynya.mirror.xyz/EpFL1V1amxa8maE-TyjfiifJMij_KZNMvReTDxpVoA4",
-          "author": null,
-          "description": "Historical storage endgame bottleneck: how far can we push?",
-          "link": "https://polynya.mirror.xyz/EpFL1V1amxa8maE-TyjfiifJMij_KZNMvReTDxpVoA4",
-          "publishedOn": "2023-03-29T07:00:02.000Z",
-          "wordCount": 2695,
-          "title": "Historical storage endgame bottleneck: how far can we push?",
-          "imageUrl": ""
         },
         {
           "id": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
@@ -41,7 +61,7 @@
           "description": "Pause Giant AI Experiments: An Open Letter - Future of Life Institute",
           "link": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
           "publishedOn": "2023-03-29T05:30:05.000Z",
-          "wordCount": 6911,
+          "wordCount": 6958,
           "title": "Pause Giant AI Experiments: An Open Letter - Future of Life Institute",
           "imageUrl": "https://futureoflife.org/wp-content/uploads/2023/03/Open-letter-mockup-4.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "Binance Sees $2 Billion in Outflows as Troubles Compound",
           "link": "https://www.wsj.com/articles/binance-sees-2-billion-in-outflows-as-troubles-compound-9a136e21",
           "publishedOn": "2023-03-29T02:00:05.000Z",
-          "wordCount": 7655,
+          "wordCount": 7686,
           "title": "Binance Sees $2 Billion in Outflows as Troubles Compound",
           "imageUrl": "https://images.wsj.net/im-752562/social"
         },
@@ -103,7 +123,7 @@
           "publishedOn": "2023-03-28T21:00:02.000Z",
           "wordCount": 577,
           "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
-          "imageUrl": "https://opengraph.githubassets.com/9e5a782df37c05610b7f8b013aa709b5a67ed510c29eb6e686e1db324bd1f181/OpenBazaar/openbazaar3-rust"
+          "imageUrl": "https://opengraph.githubassets.com/eaed0a7575346b7e92fac219ce2bcfecc85bfd11bf0be2902895fa93169e8f9b/OpenBazaar/openbazaar3-rust"
         },
         {
           "id": "https://flux.paradigm.xyz/",
@@ -114,16 +134,6 @@
           "wordCount": 3,
           "title": "Flux",
           "imageUrl": "https://flux.paradigm.xyz/meta.jpg"
-        },
-        {
-          "id": "https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk",
-          "author": null,
-          "description": "Announcing USDC on Noble",
-          "link": "https://mirror.xyz/nobleassets.eth/WDLXdp7xt0-kkN7zE5aTzxblynh_SHDO_AtHsGtpUnk",
-          "publishedOn": "2023-03-28T19:30:04.000Z",
-          "wordCount": 3153,
-          "title": "Announcing USDC on Noble",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/NbNuZqyFb_YyzHM70V5-D.png?height=960&width=1920&h=960&w=1920&auto=compress"
         },
         {
           "id": "https://www.youtube.com/watch?v=0xrmYTzQY24",
@@ -154,16 +164,6 @@
           "wordCount": 476,
           "title": "Spotify",
           "imageUrl": "https://i.scdn.co/image/ab6765630000ba8aac27a885ecc3ad8a751f129d"
-        },
-        {
-          "id": "https://www.zerohedge.com/markets/sbf-charged-funneling-40m-crypto-bribe-ccp-officials",
-          "author": null,
-          "description": "SBF Charged With Funneling $40M In Crypto To Bribe CCP Officials | ZeroHedge",
-          "link": "https://www.zerohedge.com/markets/sbf-charged-funneling-40m-crypto-bribe-ccp-officials",
-          "publishedOn": "2023-03-28T15:30:04.000Z",
-          "wordCount": 656,
-          "title": "SBF Charged With Funneling $40M In Crypto To Bribe CCP Officials | ZeroHedge",
-          "imageUrl": null
         },
         {
           "id": "https://linea.mirror.xyz/6G30hwV2wPs_wPv0VEgHYaIdghMkIQaad-OI_0br1hM",
@@ -201,7 +201,7 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7198,
+          "wordCount": 7216,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
         }
