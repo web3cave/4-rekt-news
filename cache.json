@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
+          "author": null,
+          "description": "Fidelity is hiring for its crypto and token research team",
+          "link": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
+          "publishedOn": "2023-03-29T02:30:03.000Z",
+          "wordCount": 63182,
+          "title": "Fidelity is hiring for its crypto and token research team",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CJSQZNenkt4&feature=youtu.be",
+          "author": null,
+          "description": "Polygon zkEVM live, Binance hit by CFTC suit & more - The Daily Gwei Refuel #557 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=CJSQZNenkt4&feature=youtu.be",
+          "publishedOn": "2023-03-29T02:00:05.000Z",
+          "wordCount": null,
+          "title": "Polygon zkEVM live, Binance hit by CFTC suit & more - The Daily Gwei Refuel #557 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.fdic.gov/buying/franchisemarketing/",
           "author": null,
           "description": "FDIC: Failing Bank Acquisitions",
@@ -53,7 +73,7 @@
           "publishedOn": "2023-03-28T21:00:02.000Z",
           "wordCount": 577,
           "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
-          "imageUrl": "https://opengraph.githubassets.com/4100b83bf41688e3c30f4347cf866b3a7ec2ed5c3423cfd6b1639fab614bd4b0/OpenBazaar/openbazaar3-rust"
+          "imageUrl": "https://opengraph.githubassets.com/1c937326567b0fcb21a86463b907fac75dd2496e344a735bee9ccad054bc9ed8/OpenBazaar/openbazaar3-rust"
         },
         {
           "id": "https://flux.paradigm.xyz/",
@@ -106,16 +126,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
-          "author": null,
-          "description": "Fidelity is hiring for its crypto and token research team",
-          "link": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
-          "publishedOn": "2023-03-28T14:00:04.000Z",
-          "wordCount": 63182,
-          "title": "Fidelity is hiring for its crypto and token research team",
-          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
-        },
-        {
           "id": "https://linea.mirror.xyz/6G30hwV2wPs_wPv0VEgHYaIdghMkIQaad-OI_0br1hM",
           "author": null,
           "description": "Say Hello to Linea, a  Developer Friendly zk-Rollup, Powered by ConsenSys",
@@ -131,7 +141,7 @@
           "description": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-shares-its-recent-response-to-us-senators-inquiry-1968152125579137703",
           "publishedOn": "2023-03-28T09:30:04.000Z",
-          "wordCount": 17186,
+          "wordCount": 17197,
           "title": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230320/b3fec360-9c2f-4e74-adc9-1381cb972b04.png"
         },
@@ -144,16 +154,6 @@
           "wordCount": 1824,
           "title": "NEW WHITE PAPER UNCOVERS HOW FEDERAL BANKING REGULATORS ARE WAGING \"OPERATION CHOKE POINT 2.0\" AGAINST THE...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
-          "author": null,
-          "description": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
-          "link": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
-          "publishedOn": "2023-03-28T03:30:04.000Z",
-          "wordCount": 7569,
-          "title": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
-          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf",
@@ -191,7 +191,7 @@
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6328,
+          "wordCount": 6385,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -201,7 +201,7 @@
           "description": "Opinion | How U.S. Regulators Are Choking Crypto",
           "link": "https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152",
           "publishedOn": "2023-03-27T22:00:03.000Z",
-          "wordCount": 7218,
+          "wordCount": 7204,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
         }
