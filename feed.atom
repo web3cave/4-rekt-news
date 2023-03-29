@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T23:17:08.547Z</id>
+    <id>urn:2023-03-29T01:40:03.171Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T23:17:08.547Z</updated>
+    <updated>2023-03-29T01:40:03.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FDIC: Failing Bank Acquisitions]]></title>
+        <id>https://www.fdic.gov/buying/franchisemarketing/</id>
+        <link href="https://www.fdic.gov/buying/franchisemarketing/"/>
+        <updated>2023-03-29T01:00:02.000Z</updated>
+        <summary type="html"><![CDATA[FDIC: Failing Bank Acquisitions]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Zero-Knowledge Proofs Are Critical to Ethereum’s Future]]></title>
         <id>https://unchainedcrypto.com/podcast/why-zero-knowledge-proofs-are-critical-to-ethereums-future/</id>
@@ -136,6 +146,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...]]></title>
+        <id>https://www.fdic.gov/news/speeches/2023/spmar2723.html</id>
+        <link href="https://www.fdic.gov/news/speeches/2023/spmar2723.html"/>
+        <updated>2023-03-28T03:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[PDF] gov.uscourts.casd.732409.49.0.pdf]]></title>
         <id>https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf</id>
         <link href="https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf"/>
@@ -166,16 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Release V4.0.0 · prysmaticlabs/prysm]]></title>
-        <id>https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0</id>
-        <link href="https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0"/>
-        <updated>2023-03-28T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Release V4.0.0 · prysmaticlabs/prysm]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CZ’s Response to the CFTC Complaint | Binance Blog]]></title>
         <id>https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282</id>
         <link href="https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282"/>
@@ -191,16 +201,6 @@
         <link href="https://www.wsj.com/articles/us-regulators-choke-point-for-crypto-blockchain-occ-framework-backdoor-fdic-banks-warning-8b426152"/>
         <updated>2023-03-27T22:00:03.000Z</updated>
         <summary type="html"><![CDATA[Opinion | How U.S. Regulators Are Choking Crypto]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did I Join the Arbitrum Foundation?]]></title>
-        <id>https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation</id>
-        <link href="https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation"/>
-        <updated>2023-03-27T17:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Why Did I Join the Arbitrum Foundation?]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

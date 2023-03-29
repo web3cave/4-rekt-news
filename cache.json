@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.fdic.gov/buying/franchisemarketing/",
+          "author": null,
+          "description": "FDIC: Failing Bank Acquisitions",
+          "link": "https://www.fdic.gov/buying/franchisemarketing/",
+          "publishedOn": "2023-03-29T01:00:02.000Z",
+          "wordCount": 1837,
+          "title": "FDIC: Failing Bank Acquisitions",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
+        },
+        {
           "id": "https://unchainedcrypto.com/podcast/why-zero-knowledge-proofs-are-critical-to-ethereums-future/",
           "author": null,
           "description": "Why Zero-Knowledge Proofs Are Critical to Ethereum’s Future",
@@ -41,9 +51,9 @@
           "description": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
           "link": "https://github.com/OpenBazaar/openbazaar3-rust",
           "publishedOn": "2023-03-28T21:00:02.000Z",
-          "wordCount": 575,
+          "wordCount": 577,
           "title": "GitHub - OpenBazaar/openbazaar3-rust: Rust implementation of OpenBazaar 3.0",
-          "imageUrl": "https://opengraph.githubassets.com/7f1d1f118862ae819bd89352d7f4ac230f8c34ed66d03dcbfd02754464efb2c3/OpenBazaar/openbazaar3-rust"
+          "imageUrl": "https://opengraph.githubassets.com/4100b83bf41688e3c30f4347cf866b3a7ec2ed5c3423cfd6b1639fab614bd4b0/OpenBazaar/openbazaar3-rust"
         },
         {
           "id": "https://flux.paradigm.xyz/",
@@ -101,7 +111,7 @@
           "description": "Fidelity is hiring for its crypto and token research team",
           "link": "https://www.theblock.co/post/223190/fidelity-hiring-crypto-token-research-team?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-28T14:00:04.000Z",
-          "wordCount": 63272,
+          "wordCount": 63182,
           "title": "Fidelity is hiring for its crypto and token research team",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2022/11/20221103_Fidelity-2-News-1200x675.jpg"
         },
@@ -121,7 +131,7 @@
           "description": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "link": "https://www.binance.com/en/blog/ecosystem/binance-shares-its-recent-response-to-us-senators-inquiry-1968152125579137703",
           "publishedOn": "2023-03-28T09:30:04.000Z",
-          "wordCount": 17216,
+          "wordCount": 17186,
           "title": "Binance Shares Its Recent Response to US Senators Inquiry | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230320/b3fec360-9c2f-4e74-adc9-1381cb972b04.png"
         },
@@ -134,6 +144,16 @@
           "wordCount": 1824,
           "title": "NEW WHITE PAPER UNCOVERS HOW FEDERAL BANKING REGULATORS ARE WAGING \"OPERATION CHOKE POINT 2.0\" AGAINST THE...",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
+          "author": null,
+          "description": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
+          "link": "https://www.fdic.gov/news/speeches/2023/spmar2723.html",
+          "publishedOn": "2023-03-28T03:30:04.000Z",
+          "wordCount": 7569,
+          "title": "Remarks by Chairman Martin J. Gruenberg on Recent Bank Failures and the Federal Regulatory Response before the...",
+          "imageUrl": "https://www.fdic.gov/assets/images/share-fdic-default-1200x630.png"
         },
         {
           "id": "https://storage.courtlistener.com/recap/gov.uscourts.casd.732409/gov.uscourts.casd.732409.49.0.pdf",
@@ -166,22 +186,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
-          "author": null,
-          "description": "Release V4.0.0 · prysmaticlabs/prysm",
-          "link": "https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.0",
-          "publishedOn": "2023-03-28T01:00:02.000Z",
-          "wordCount": 815,
-          "title": "Release V4.0.0 · prysmaticlabs/prysm",
-          "imageUrl": "https://opengraph.githubassets.com/f18ab84e2094821133ff819d6df9c6e90880cecba4091f750c5f59e470ebcce6/prysmaticlabs/prysm/releases/tag/v4.0.0"
-        },
-        {
           "id": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "author": null,
           "description": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "link": "https://www.binance.com/en/blog/from-cz/czs-response-to-the-cftc-complaint-2408916493005890282",
           "publishedOn": "2023-03-27T23:30:03.000Z",
-          "wordCount": 6335,
+          "wordCount": 6328,
           "title": "CZ’s Response to the CFTC Complaint | Binance Blog",
           "imageUrl": "https://public.bnbstatic.com/image/cms/blog/20230327/2f14ed65-7838-4bad-83d2-92d072d80482.png"
         },
@@ -194,16 +204,6 @@
           "wordCount": 7218,
           "title": "Opinion | How U.S. Regulators Are Choking Crypto",
           "imageUrl": "https://images.wsj.net/im-751483/social"
-        },
-        {
-          "id": "https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation",
-          "author": null,
-          "description": "Why Did I Join the Arbitrum Foundation?",
-          "link": "https://stonecoldpat.substack.com/p/why-did-i-join-the-arbitrum-foundation",
-          "publishedOn": "2023-03-27T17:00:03.000Z",
-          "wordCount": 5093,
-          "title": "Why Did I Join the Arbitrum Foundation?",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4247f59f-fc93-41ba-832d-442b28a3475a_1094x1476.png"
         }
       ]
     }
