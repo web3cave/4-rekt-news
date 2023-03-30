@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T14:16:34.458Z</id>
+    <id>urn:2023-03-30T15:18:48.756Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-30T14:16:34.458Z</updated>
+    <updated>2023-03-30T15:18:48.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,16 @@
         <link href="https://roninblockchain.substack.com/p/beyondlunacia"/>
         <updated>2023-03-30T13:00:02.000Z</updated>
         <summary type="html"><![CDATA[RON Staking. Ronin Games. Wen? NOW.]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO Drops]]></title>
+        <id>https://daodrops.io/</id>
+        <link href="https://daodrops.io/"/>
+        <updated>2023-03-30T09:30:04.000Z</updated>
+        <summary type="html"><![CDATA[DAO Drops]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
@@ -86,6 +96,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gambit: A Solidity Mutation Testing Tool for Formal Verification]]></title>
+        <id>https://medium.com/certora/gambit-23ef5cab02f5</id>
+        <link href="https://medium.com/certora/gambit-23ef5cab02f5"/>
+        <updated>2023-03-30T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Gambit: A Solidity Mutation Testing Tool for Formal Verification]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried]]></title>
         <id>https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/</id>
         <link href="https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/"/>
@@ -121,26 +141,6 @@
         <link href="https://open.spotify.com/episode/2zzBAEmnhBB1cxHDr8osIU?si=STKiRWsZRTaWZPIUGHQ_Qw"/>
         <updated>2023-03-29T19:00:02.000Z</updated>
         <summary type="html"><![CDATA[Spotify]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Teen Mental Illness Epidemic is International: The Anglosphere]]></title>
-        <id>https://jonathanhaidt.substack.com/p/international-mental-illness-part-one</id>
-        <link href="https://jonathanhaidt.substack.com/p/international-mental-illness-part-one"/>
-        <updated>2023-03-29T18:30:02.000Z</updated>
-        <summary type="html"><![CDATA[The Teen Mental Illness Epidemic is International: The Anglosphere]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Sales]]></title>
-        <id>https://flip.xyz/private-sales</id>
-        <link href="https://flip.xyz/private-sales"/>
-        <updated>2023-03-29T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Private Sales]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
