@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.injective.com/injective-launches-cascade-first-ever-interchain-solana-svm-rollup/",
+          "author": null,
+          "description": "Injective Launches Cascade: First Ever Interchain Solana SVM Rollup",
+          "link": "https://blog.injective.com/injective-launches-cascade-first-ever-interchain-solana-svm-rollup/",
+          "publishedOn": "2023-03-30T22:00:03.000Z",
+          "wordCount": 1631,
+          "title": "Injective Launches Cascade: First Ever Interchain Solana SVM Rollup",
+          "imageUrl": "https://blog.injective.com/content/images/2023/03/Solana-SVM-Live-on-Injective2-1.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RQ2WtyevRXE",
+          "author": null,
+          "description": "Execution Layer Meeting 158 [2023-03-30]",
+          "link": "https://www.youtube.com/watch?v=RQ2WtyevRXE",
+          "publishedOn": "2023-03-30T21:00:02.000Z",
+          "wordCount": null,
+          "title": "Execution Layer Meeting 158 [2023-03-30]",
+          "imageUrl": null
+        },
+        {
           "id": "https://gbn.gd/grenadas-former-wto-ambassador-charged/",
           "author": null,
           "description": "GRENADA’S FORMER WTO AMBASSADOR CHARGED | Grenada Broadcasting Network",
@@ -61,9 +81,9 @@
           "description": "SIMD: Asynchronous Program Execution and Broadcast by aeyakovenko · Pull Request #45 ·...",
           "link": "https://github.com/solana-foundation/solana-improvement-documents/pull/45",
           "publishedOn": "2023-03-30T16:30:03.000Z",
-          "wordCount": 5995,
+          "wordCount": 6063,
           "title": "SIMD: Asynchronous Program Execution and Broadcast by aeyakovenko · Pull Request #45 ·...",
-          "imageUrl": "https://opengraph.githubassets.com/218e38d74506946cf0691b7a0fb016bfac366f6698f07e960e726854a5fa9015/solana-foundation/solana-improvement-documents/pull/45"
+          "imageUrl": "https://opengraph.githubassets.com/a1d6635537329be0531ebc474beeb5c49d98a7ebedb34e882de35b082211bb25/solana-foundation/solana-improvement-documents/pull/45"
         },
         {
           "id": "https://www.economist.com/finance-and-economics/2023/03/21/americas-banks-are-missing-hundreds-of-billions-of-dollars",
@@ -106,12 +126,12 @@
           "imageUrl": "https://i.imgur.com/qURnh6d.jpg"
         },
         {
-          "id": "https://roninblockchain.substack.com/p/beyondlunacia",
+          "id": "https://axie.substack.com/p/beyondlunacia",
           "author": null,
           "description": "RON Staking. Ronin Games. Wen? NOW.",
-          "link": "https://roninblockchain.substack.com/p/beyondlunacia",
+          "link": "https://axie.substack.com/p/beyondlunacia",
           "publishedOn": "2023-03-30T13:00:02.000Z",
-          "wordCount": 3804,
+          "wordCount": 3758,
           "title": "RON Staking. Ronin Games. Wen? NOW.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa93b95-4974-4008-baa2-5023e6f3b1ae_2400x1350.png"
         },
@@ -131,7 +151,7 @@
           "description": "The Open Letter on AI Doesn't Go Far Enough",
           "link": "https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/",
           "publishedOn": "2023-03-30T03:00:02.000Z",
-          "wordCount": 4915,
+          "wordCount": 4919,
           "title": "The Open Letter on AI Doesn't Go Far Enough",
           "imageUrl": "https://api.time.com/wp-content/uploads/2023/03/AI-mushroom-cloud.gif?w=1200&h=628&crop=1"
         },
@@ -161,19 +181,9 @@
           "description": "SEC Chair Gensler: Existing rules regulate crypto, legislation unnecessary",
           "link": "https://www.theblock.co/post/223887/sec-chair-gensler-existing-rules-regulate-crypto-legislation-unnecessary?utm_source=twitter&utm_medium=social",
           "publishedOn": "2023-03-30T01:00:02.000Z",
-          "wordCount": 62977,
+          "wordCount": 63725,
           "title": "SEC Chair Gensler: Existing rules regulate crypto, legislation unnecessary",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2021/09/20210917_Gary-Gensler-SEC-1200x675.jpg"
-        },
-        {
-          "id": "https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/",
-          "author": null,
-          "description": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/03/17/how-effective-altruism-power-brokers-helped-make-sam-bankman-fried/",
-          "publishedOn": "2023-03-29T22:00:04.000Z",
-          "wordCount": 10251,
-          "title": "How Effective Altruism Power Brokers Helped Make Sam Bankman-Fried",
-          "imageUrl": "https://www.coindesk.com/resizer/PEEE7lrz82bXMLEeeC-sNbopYvw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KVPAXYOCLFCSRPVXJZC7GPXFLM.jpg"
         },
         {
           "id": "https://frontier.tech/the-nft-mev-landscape",
@@ -184,16 +194,6 @@
           "wordCount": 7373,
           "title": "The NFT MEV Landscape",
           "imageUrl": "https://potion.nyc3.cdn.digitaloceanspaces.com/63812136f84afb001891dd39/site_image.png"
-        },
-        {
-          "id": "https://mirror.xyz/hydraventures.eth/Yf39VQ57T9QEOw0fsepDF5Q02Xl2pqHgUeSL9U7m_ao",
-          "author": null,
-          "description": "Summoning Hydra Ventures.",
-          "link": "https://mirror.xyz/hydraventures.eth/Yf39VQ57T9QEOw0fsepDF5Q02Xl2pqHgUeSL9U7m_ao",
-          "publishedOn": "2023-03-29T15:00:03.000Z",
-          "wordCount": 1879,
-          "title": "Summoning Hydra Ventures.",
-          "imageUrl": "https://mirror-media.imgix.net/nft/fTIkcF3R0rkBo3zVs9E-w.png?h=null&w=null&auto=compress"
         },
         {
           "id": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
