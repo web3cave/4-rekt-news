@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T17:15:24.607Z</id>
+    <id>urn:2023-03-31T18:20:20.858Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T17:15:24.607Z</updated>
+    <updated>2023-03-31T18:20:20.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fortune Crypto | Newsletters]]></title>
+        <id>https://content.fortune.com/newsletter/fortune-crypto/</id>
+        <link href="https://content.fortune.com/newsletter/fortune-crypto/"/>
+        <updated>2023-03-31T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Fortune Crypto | Newsletters]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Block lays off a third of staffers amid leadership shakeup]]></title>
         <id>https://www.axios.com/2023/03/31/the-block-layoffs-leadership-shakeup</id>
@@ -21,16 +31,6 @@
         <link href="https://www.hacksummit.org/"/>
         <updated>2023-03-31T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[hack.summit("blockchain")]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT banned in Italy over privacy concerns]]></title>
-        <id>https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&amp;at_bbc_team=editorial&amp;at_medium=social&amp;at_link_type=web_link&amp;at_link_origin=BBCTech&amp;at_ptr_name=twitter&amp;at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&amp;at_format=link&amp;at_campaign=Social_Flow&amp;at_campaign_type=owned</id>
-        <link href="https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&amp;at_bbc_team=editorial&amp;at_medium=social&amp;at_link_type=web_link&amp;at_link_origin=BBCTech&amp;at_ptr_name=twitter&amp;at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&amp;at_format=link&amp;at_campaign=Social_Flow&amp;at_campaign_type=owned"/>
-        <updated>2023-03-31T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT banned in Italy over privacy concerns]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>
