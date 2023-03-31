@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://networkpoints.9dcc.xyz/",
+          "author": null,
+          "description": "9dcc.eth Network Points",
+          "link": "https://networkpoints.9dcc.xyz/",
+          "publishedOn": "2023-03-31T03:30:04.000Z",
+          "wordCount": 4743,
+          "title": "9dcc.eth Network Points",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8Pl-IDd65a0",
           "author": null,
           "description": "A New Chapter for Ronin - Trailer",
@@ -24,16 +34,6 @@
           "wordCount": 1631,
           "title": "Injective Launches Cascade: First Ever Interchain Solana SVM Rollup",
           "imageUrl": "https://blog.injective.com/content/images/2023/03/Solana-SVM-Live-on-Injective2-1.png"
-        },
-        {
-          "id": "https://www.politico.com/news/2023/03/30/biden-fed-regional-banks-svb-00089686",
-          "author": null,
-          "description": "Biden steps up pressure on Fed to toughen rules for regional banks",
-          "link": "https://www.politico.com/news/2023/03/30/biden-fed-regional-banks-svb-00089686",
-          "publishedOn": "2023-03-30T22:00:03.000Z",
-          "wordCount": 1342,
-          "title": "Biden steps up pressure on Fed to toughen rules for regional banks",
-          "imageUrl": "https://static.politico.com/63/90/5b8c013f485d9098dcc3cf7ab092/federal-reserve.JPEG"
         },
         {
           "id": "https://www.youtube.com/watch?v=RQ2WtyevRXE",
@@ -111,7 +111,7 @@
           "description": "US Senator Elizabeth Warren Launches \"Anti-Crypto\" Re-Election Campaign",
           "link": "https://watcher.guru/news/us-senator-elizabeth-warren-launches-anti-crypto-re-election-campaign",
           "publishedOn": "2023-03-30T17:00:03.000Z",
-          "wordCount": 7221,
+          "wordCount": 7222,
           "title": "US Senator Elizabeth Warren Launches \"Anti-Crypto\" Re-Election Campaign",
           "imageUrl": "https://watcher.guru/news/wp-content/uploads/2023/03/warren-restaurant-association.jpg"
         },
@@ -161,7 +161,7 @@
           "description": "RON Staking. Ronin Games. Wen? NOW.",
           "link": "https://axie.substack.com/p/beyondlunacia",
           "publishedOn": "2023-03-30T13:00:02.000Z",
-          "wordCount": 3758,
+          "wordCount": 3552,
           "title": "RON Staking. Ronin Games. Wen? NOW.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa93b95-4974-4008-baa2-5023e6f3b1ae_2400x1350.png"
         },
@@ -181,7 +181,7 @@
           "description": "The Open Letter on AI Doesn't Go Far Enough",
           "link": "https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/",
           "publishedOn": "2023-03-30T03:00:02.000Z",
-          "wordCount": 4937,
+          "wordCount": 4933,
           "title": "The Open Letter on AI Doesn't Go Far Enough",
           "imageUrl": "https://api.time.com/wp-content/uploads/2023/03/AI-mushroom-cloud.gif?w=1200&h=628&crop=1"
         },
