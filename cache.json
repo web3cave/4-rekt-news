@@ -6,12 +6,32 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.axios.com/2023/03/31/the-block-layoffs-leadership-shakeup",
+          "author": null,
+          "description": "The Block lays off a third of staffers amid leadership shakeup",
+          "link": "https://www.axios.com/2023/03/31/the-block-layoffs-leadership-shakeup",
+          "publishedOn": "2023-03-31T17:00:02.000Z",
+          "wordCount": 1638,
+          "title": "The Block lays off a third of staffers amid leadership shakeup",
+          "imageUrl": "https://images.axios.com/iRiB_T4Cuv1wdATb1Ibw29Udm2I=/0x0:1920x1080/1366x768/2023/03/31/1680270798545.jpg"
+        },
+        {
+          "id": "https://www.hacksummit.org/",
+          "author": null,
+          "description": "hack.summit(\"blockchain\")",
+          "link": "https://www.hacksummit.org/",
+          "publishedOn": "2023-03-31T17:00:02.000Z",
+          "wordCount": 1301,
+          "title": "hack.summit(\"blockchain\")",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_medium=social&at_link_type=web_link&at_link_origin=BBCTech&at_ptr_name=twitter&at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned",
           "author": null,
           "description": "ChatGPT banned in Italy over privacy concerns",
           "link": "https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_medium=social&at_link_type=web_link&at_link_origin=BBCTech&at_ptr_name=twitter&at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned",
           "publishedOn": "2023-03-31T16:00:04.000Z",
-          "wordCount": 8381,
+          "wordCount": 8224,
           "title": "ChatGPT banned in Italy over privacy concerns",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7402/production/_129089692_0e6750b2-5da6-4922-89f4-b31e2fb74859.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1497,
+          "wordCount": 1521,
           "title": "Financial Times",
           "imageUrl": null
         },
@@ -34,16 +54,6 @@
           "wordCount": 1539,
           "title": "Italian privacy regulator bans ChatGPT",
           "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/31/iStock-1468873339-scaled.jpg"
-        },
-        {
-          "id": "https://ideas.skip.money/t/x-builder-the-first-sovereign-mev-module-for-protocol-owned-building/57",
-          "author": null,
-          "description": "X/builder: The first Sovereign MEV module for protocol-owned building",
-          "link": "https://ideas.skip.money/t/x-builder-the-first-sovereign-mev-module-for-protocol-owned-building/57",
-          "publishedOn": "2023-03-31T15:00:03.000Z",
-          "wordCount": 1394,
-          "title": "X/builder: The first Sovereign MEV module for protocol-owned building",
-          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/skip/original/1X/e5c6952393accacd5dfe23a0f5c30f9dcd4c9815.png"
         },
         {
           "id": "https://www.politico.com/newsletters/digital-future-daily/2023/03/30/space-force-major-to-pentagon-mine-bitcoin-00089745",
@@ -76,14 +86,14 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.hashcast.xyz/",
+          "id": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
           "author": null,
-          "description": "HashCast",
-          "link": "https://www.hashcast.xyz/",
-          "publishedOn": "2023-03-31T11:30:03.000Z",
-          "wordCount": 12,
-          "title": "HashCast",
-          "imageUrl": null
+          "description": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
+          "link": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
+          "publishedOn": "2023-03-31T11:00:03.000Z",
+          "wordCount": 11043,
+          "title": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5dea2be-9ee3-4171-9f3f-67dfb7ff20cb_930x1258.png"
         },
         {
           "id": "https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html",
@@ -91,7 +101,7 @@
           "description": "Put algebra 1 back in eighth grade",
           "link": "https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html",
           "publishedOn": "2023-03-31T08:30:03.000Z",
-          "wordCount": 15007,
+          "wordCount": 14998,
           "title": "Put algebra 1 back in eighth grade",
           "imageUrl": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/f/0a/f0aa15d8-c61e-5c3a-ab1a-9f9f81e7766d/628d6073baf4e.image.jpg?crop=1542%2C810%2C0%2C107&resize=1200%2C630&order=crop%2Cresize"
         },
@@ -181,19 +191,9 @@
           "description": "RON Staking. Ronin Games. Wen? NOW.",
           "link": "https://roninblockchain.substack.com/p/beyondlunacia",
           "publishedOn": "2023-03-30T13:00:02.000Z",
-          "wordCount": 3803,
+          "wordCount": 3597,
           "title": "RON Staking. Ronin Games. Wen? NOW.",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa93b95-4974-4008-baa2-5023e6f3b1ae_2400x1350.png"
-        },
-        {
-          "id": "https://frontier.tech/the-nft-mev-landscape",
-          "author": null,
-          "description": "The NFT MEV Landscape",
-          "link": "https://frontier.tech/the-nft-mev-landscape",
-          "publishedOn": "2023-03-29T20:00:04.000Z",
-          "wordCount": 7373,
-          "title": "The NFT MEV Landscape",
-          "imageUrl": "https://potion.nyc3.cdn.digitaloceanspaces.com/63812136f84afb001891dd39/site_image.png"
         },
         {
           "id": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
