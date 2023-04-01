@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://hackmd.io/@dlubarov/HydKgJBW2",
+          "author": null,
+          "description": "A comparison of zkEVMs - HackMD",
+          "link": "https://hackmd.io/@dlubarov/HydKgJBW2",
+          "publishedOn": "2023-04-01T05:30:03.000Z",
+          "wordCount": 1483,
+          "title": "A comparison of zkEVMs - HackMD",
+          "imageUrl": "https://www.gravatar.com/avatar/dcfb9e0cd502e1a8948a7ca30da1469a?s=400"
+        },
+        {
           "id": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
           "author": null,
           "description": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
           "link": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
           "publishedOn": "2023-04-01T02:00:05.000Z",
-          "wordCount": 11256,
+          "wordCount": 11050,
           "title": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5dea2be-9ee3-4171-9f3f-67dfb7ff20cb_930x1258.png"
         },
@@ -93,7 +103,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/f98837a05f24dd53ff48066c3e7b65fe863813fde46daf9fdaa8c5462f5785f0/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/45b18ac4e3bfe9b9d700e3f9d3673f110ca679fa4f7c6d830dd4b3de106d673a/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -101,7 +111,7 @@
           "description": "ON #163: NFT Lending",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-163",
           "publishedOn": "2023-03-31T19:30:04.000Z",
-          "wordCount": 4547,
+          "wordCount": 4546,
           "title": "ON #163: NFT Lending",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465d7cb3-e24c-4612-aeb9-4c59f0777999_420x300.jpeg"
         },
@@ -151,7 +161,7 @@
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1507,
+          "wordCount": 1505,
           "title": "Financial Times",
           "imageUrl": null
         },
@@ -184,16 +194,6 @@
           "wordCount": 64083,
           "title": "Justin Sun claims he remains WTO ambassador for Grenada, shares screenshots",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/Justin-Sun-getty-2-1200x675.jpg"
-        },
-        {
-          "id": "https://p256.alembic.tech/",
-          "author": null,
-          "description": "Cometh secp256r1 signature using solidity",
-          "link": "https://p256.alembic.tech/",
-          "publishedOn": "2023-03-31T11:30:03.000Z",
-          "wordCount": 651,
-          "title": "Cometh secp256r1 signature using solidity",
-          "imageUrl": null
         },
         {
           "id": "https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI?rpgf=2",
