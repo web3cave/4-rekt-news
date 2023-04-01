@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://github.com/transmissions11/flux/issues",
+          "author": null,
+          "description": "Issues · transmissions11/flux",
+          "link": "https://github.com/transmissions11/flux/issues",
+          "publishedOn": "2023-04-01T07:00:03.000Z",
+          "wordCount": 622,
+          "title": "Issues · transmissions11/flux",
+          "imageUrl": "https://repository-images.githubusercontent.com/620411982/bc4ad272-06d0-42b2-baef-22a9df876406"
+        },
+        {
+          "id": "https://base.mirror.xyz/rA5v_0BTc5AwmZdnui7ku82FzF1aTE6TJ_3vds9ymBc",
+          "author": null,
+          "description": "How the Builders Met Base",
+          "link": "https://base.mirror.xyz/rA5v_0BTc5AwmZdnui7ku82FzF1aTE6TJ_3vds9ymBc",
+          "publishedOn": "2023-04-01T05:30:03.000Z",
+          "wordCount": 2012,
+          "title": "How the Builders Met Base",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/rj5mHMIGE6DOUGXBWoh07.png?height=1200&width=2400&h=1200&w=2400&auto=compress"
+        },
+        {
           "id": "https://hackmd.io/@dlubarov/HydKgJBW2",
           "author": null,
           "description": "A comparison of zkEVMs - HackMD",
@@ -14,16 +34,6 @@
           "wordCount": 1483,
           "title": "A comparison of zkEVMs - HackMD",
           "imageUrl": "https://www.gravatar.com/avatar/dcfb9e0cd502e1a8948a7ca30da1469a?s=400"
-        },
-        {
-          "id": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
-          "author": null,
-          "description": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
-          "link": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
-          "publishedOn": "2023-04-01T02:00:05.000Z",
-          "wordCount": 11050,
-          "title": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5dea2be-9ee3-4171-9f3f-67dfb7ff20cb_930x1258.png"
         },
         {
           "id": "https://vitalik.eth.limo/general/2023/03/31/zkmulticlient.html",
@@ -76,16 +86,6 @@
           "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/03/pentagonbitcoin.jpg&w=1920&q=75&webp=false"
         },
         {
-          "id": "https://www.fwbfest.xyz/",
-          "author": null,
-          "description": "FWB Fest 2023 - RSVP Now",
-          "link": "https://www.fwbfest.xyz/",
-          "publishedOn": "2023-03-31T21:30:03.000Z",
-          "wordCount": 1031,
-          "title": "FWB Fest 2023 - RSVP Now",
-          "imageUrl": "https://cdn.sanity.io/images/muknps09/production/6adc11e8bcaa0d54461b76a583a9e582d7b15bf2-1200x630.jpg"
-        },
-        {
           "id": "https://bittrex.com/discover/important-message-for-bittrex-u-s-customers",
           "author": null,
           "description": "Important Message For Bittrex U.S. Customers | Bittrex.com - The Next Generation Crypto-Currency Exchange",
@@ -103,7 +103,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/45b18ac4e3bfe9b9d700e3f9d3673f110ca679fa4f7c6d830dd4b3de106d673a/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/93b97e12123922ef49f0567a40571cf749851d73db4e5b586d953120a1df423c/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -111,7 +111,7 @@
           "description": "ON #163: NFT Lending",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-163",
           "publishedOn": "2023-03-31T19:30:04.000Z",
-          "wordCount": 4546,
+          "wordCount": 4547,
           "title": "ON #163: NFT Lending",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465d7cb3-e24c-4612-aeb9-4c59f0777999_420x300.jpeg"
         },
@@ -161,7 +161,7 @@
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1505,
+          "wordCount": 1497,
           "title": "Financial Times",
           "imageUrl": null
         },
