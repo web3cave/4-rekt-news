@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T12:29:56.196Z</id>
+    <id>urn:2023-04-01T13:17:56.053Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-01T12:29:56.196Z</updated>
+    <updated>2023-04-01T13:17:56.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Manifesto]]></title>
+        <id>https://manifesto.t2.world/</id>
+        <link href="https://manifesto.t2.world/"/>
+        <updated>2023-04-01T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Manifesto]]></summary>
+        <author>
+            <name>Rekt - Feed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PDF] 2016_06_30_BRIDGES_Emergency_motion_exhibit_A.pdf]]></title>
         <id>https://antilop.cc/sr/files/2016_06_30_BRIDGES_Emergency_motion_exhibit_A.pdf</id>
@@ -183,16 +193,6 @@ in the Age of AI]]></summary>
         <link href="https://www.hacksummit.org/"/>
         <updated>2023-03-31T17:00:02.000Z</updated>
         <summary type="html"><![CDATA[hack.summit("blockchain")]]></summary>
-        <author>
-            <name>Rekt - Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial Times]]></title>
-        <id>https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303</id>
-        <link href="https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303"/>
-        <updated>2023-03-31T15:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Financial Times]]></summary>
         <author>
             <name>Rekt - Feed</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://manifesto.t2.world/",
+          "author": null,
+          "description": "Manifesto",
+          "link": "https://manifesto.t2.world/",
+          "publishedOn": "2023-04-01T13:00:03.000Z",
+          "wordCount": 1394,
+          "title": "Manifesto",
+          "imageUrl": null
+        },
+        {
           "id": "https://antilop.cc/sr/files/2016_06_30_BRIDGES_Emergency_motion_exhibit_A.pdf",
           "author": null,
           "description": "[PDF] 2016_06_30_BRIDGES_Emergency_motion_exhibit_A.pdf",
@@ -141,9 +151,9 @@
           "description": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
           "link": "https://github.com/twitter/the-algorithm/",
           "publishedOn": "2023-03-31T21:00:01.000Z",
-          "wordCount": 1179,
+          "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/343fdfa98c43657ef0736b86a1de4a14e536227e0a2feca26fe106b6e7a66534/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/61d00652987dec5d1c681c0305ed42f0e036e32cd405e3149a24fcc4f77ef706/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -151,7 +161,7 @@
           "description": "ON #163: NFT Lending",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-163",
           "publishedOn": "2023-03-31T19:30:04.000Z",
-          "wordCount": 4753,
+          "wordCount": 4547,
           "title": "ON #163: NFT Lending",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465d7cb3-e24c-4612-aeb9-4c59f0777999_420x300.jpeg"
         },
@@ -183,16 +193,6 @@
           "publishedOn": "2023-03-31T17:00:02.000Z",
           "wordCount": 1301,
           "title": "hack.summit(\"blockchain\")",
-          "imageUrl": null
-        },
-        {
-          "id": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
-          "author": null,
-          "description": "Financial Times",
-          "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
-          "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1521,
-          "title": "Financial Times",
           "imageUrl": null
         },
         {
