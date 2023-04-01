@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://vitalik.eth.limo/general/2023/03/31/zkmulticlient.html",
+          "author": null,
+          "description": "How will Ethereum's multi-client philosophy interact with ZK-EVMs?",
+          "link": "https://vitalik.eth.limo/general/2023/03/31/zkmulticlient.html",
+          "publishedOn": "2023-04-01T01:00:03.000Z",
+          "wordCount": 3223,
+          "title": "How will Ethereum's multi-client philosophy interact with ZK-EVMs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blockworks.co/news/amazon-nft-crypto-beeple-pudgy-penguins",
+          "author": null,
+          "description": "Amazon NFT Marketplace Could Feature Beeple, Pudgy Penguins",
+          "link": "https://blockworks.co/news/amazon-nft-crypto-beeple-pudgy-penguins",
+          "publishedOn": "2023-03-31T23:30:03.000Z",
+          "wordCount": 20522,
+          "title": "Amazon NFT Marketplace Could Feature Beeple, Pudgy Penguins",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/03/Amazon-NFT-Beeple-Pudgy-Penguins-BitPay.jpg&w=1920&q=75&webp=false"
+        },
+        {
           "id": "https://blockcrunch.substack.com/p/is-flashbots-a-bad-business-the-flashy",
           "author": null,
           "description": "Is Flashbots a Bad Business? The Flashy Elephant in the Room",
@@ -63,7 +83,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/8a0dfcfe6d5716c2f36e47588da565ea6972fa593b305b51fa7533d9aead15de/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/42dbbf2019fbca0ccd89828144f03339edf4e4bd1740a2c70210eb81e0a00050/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -81,7 +101,7 @@
           "description": "Fortune Crypto | Newsletters",
           "link": "https://content.fortune.com/newsletter/fortune-crypto/",
           "publishedOn": "2023-03-31T18:00:05.000Z",
-          "wordCount": 1749,
+          "wordCount": 2598,
           "title": "Fortune Crypto | Newsletters",
           "imageUrl": null
         },
@@ -116,22 +136,12 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_medium=social&at_link_type=web_link&at_link_origin=BBCTech&at_ptr_name=twitter&at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned",
-          "author": null,
-          "description": "ChatGPT banned in Italy over privacy concerns",
-          "link": "https://www.bbc.com/news/technology-65139406?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_bbc_team=editorial&at_medium=social&at_link_type=web_link&at_link_origin=BBCTech&at_ptr_name=twitter&at_link_id=91C8E84C-CFC5-11ED-A862-CC944744363C&at_format=link&at_campaign=Social_Flow&at_campaign_type=owned",
-          "publishedOn": "2023-03-31T16:00:04.000Z",
-          "wordCount": 8272,
-          "title": "ChatGPT banned in Italy over privacy concerns",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7402/production/_129089692_0e6750b2-5da6-4922-89f4-b31e2fb74859.jpg"
-        },
-        {
           "id": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "author": null,
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1515,
+          "wordCount": 1509,
           "title": "Financial Times",
           "imageUrl": null
         },
@@ -144,16 +154,6 @@
           "wordCount": 1539,
           "title": "Italian privacy regulator bans ChatGPT",
           "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/31/iStock-1468873339-scaled.jpg"
-        },
-        {
-          "id": "https://ideas.skip.money/t/x-builder-the-first-sovereign-mev-module-for-protocol-owned-building/57",
-          "author": null,
-          "description": "X/builder: The first Sovereign MEV module for protocol-owned building",
-          "link": "https://ideas.skip.money/t/x-builder-the-first-sovereign-mev-module-for-protocol-owned-building/57",
-          "publishedOn": "2023-03-31T15:00:03.000Z",
-          "wordCount": 1543,
-          "title": "X/builder: The first Sovereign MEV module for protocol-owned building",
-          "imageUrl": "https://global.discourse-cdn.com/standard11/uploads/skip/original/1X/e5c6952393accacd5dfe23a0f5c30f9dcd4c9815.png"
         },
         {
           "id": "https://www.politico.com/newsletters/digital-future-daily/2023/03/30/space-force-major-to-pentagon-mine-bitcoin-00089745",
@@ -171,7 +171,7 @@
           "description": "Justin Sun claims he remains WTO ambassador for Grenada, shares screenshots",
           "link": "https://www.theblock.co/post/224253/justin-sun-claims-he-remains-wto-ambassador-for-grenada-shares-screenshots",
           "publishedOn": "2023-03-31T12:30:02.000Z",
-          "wordCount": 64627,
+          "wordCount": 64083,
           "title": "Justin Sun claims he remains WTO ambassador for Grenada, shares screenshots",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2019/12/Justin-Sun-getty-2-1200x675.jpg"
         },
