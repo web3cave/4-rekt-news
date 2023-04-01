@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://dcinvestor.substack.com/p/ai-is-here-and-theres-nothing-you?sd=pf",
+          "author": null,
+          "description": "AI is here, and there's nothing you can do to stop it",
+          "link": "https://dcinvestor.substack.com/p/ai-is-here-and-theres-nothing-you?sd=pf",
+          "publishedOn": "2023-04-01T15:30:04.000Z",
+          "wordCount": 8644,
+          "title": "AI is here, and there's nothing you can do to stop it",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44afbad2-6dba-49c8-9ded-ac3b68cb9a71_869x1000.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FyK4P7ZdOK8&feature=youtu.be",
+          "author": null,
+          "description": "Cryptocurrency Explained: Money as a System-of-Control",
+          "link": "https://www.youtube.com/watch?v=FyK4P7ZdOK8&feature=youtu.be",
+          "publishedOn": "2023-04-01T15:30:04.000Z",
+          "wordCount": null,
+          "title": "Cryptocurrency Explained: Money as a System-of-Control",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/Souptacular/laurences-not-sketchy-haskell-ethereum-client",
           "author": null,
           "description": "GitHub - Souptacular/laurences-not-sketchy-haskell-ethereum-client: An Ethereum client written by Dr. Laurence Day in...",
@@ -64,26 +84,6 @@
           "wordCount": 4101,
           "title": "[PDF] Bridges.pdf",
           "imageUrl": null
-        },
-        {
-          "id": "https://antilop.cc/sr/files/2015_06_16_BRIDGES_information.pdf",
-          "author": null,
-          "description": "[PDF] 2015_06_16_BRIDGES_information.pdf",
-          "link": "https://antilop.cc/sr/files/2015_06_16_BRIDGES_information.pdf",
-          "publishedOn": "2023-04-01T11:30:06.000Z",
-          "wordCount": 28780,
-          "title": "[PDF] 2015_06_16_BRIDGES_information.pdf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/",
-          "author": null,
-          "description": "Stealing bitcoins with badges: How Silk Road’s dirty cops got caught",
-          "link": "https://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/",
-          "publishedOn": "2023-04-01T11:30:06.000Z",
-          "wordCount": 2749,
-          "title": "Stealing bitcoins with badges: How Silk Road’s dirty cops got caught",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/force-wrapup-e1471461145239-760x380.jpg"
         },
         {
           "id": "https://thenetworkstate.com/towards-a-recentralized-center",
@@ -153,7 +153,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/dc57c7c44775b3605479ac1f8a99f4690a4aa3f1fdcab76da38181836cdaba0d/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/cca331ae44470406fde7dbcff1ad64170ddff8cc2d426bd954a7af3957d361ea/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -161,7 +161,7 @@
           "description": "ON #163: NFT Lending",
           "link": "https://ournetwork.substack.com/p/ournetwork-issue-163",
           "publishedOn": "2023-03-31T19:30:04.000Z",
-          "wordCount": 4753,
+          "wordCount": 4547,
           "title": "ON #163: NFT Lending",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F465d7cb3-e24c-4612-aeb9-4c59f0777999_420x300.jpeg"
         },
@@ -201,7 +201,7 @@
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1527,
+          "wordCount": 1553,
           "title": "Financial Times",
           "imageUrl": null
         }
