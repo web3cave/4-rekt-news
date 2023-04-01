@@ -6,12 +6,22 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.bankless.com/join",
+          "author": null,
+          "description": "Become a Citizen | Bankless",
+          "link": "https://www.bankless.com/join",
+          "publishedOn": "2023-04-01T09:30:04.000Z",
+          "wordCount": 995,
+          "title": "Become a Citizen | Bankless",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/transmissions11/flux/issues",
           "author": null,
           "description": "Issues · transmissions11/flux",
           "link": "https://github.com/transmissions11/flux/issues",
           "publishedOn": "2023-04-01T07:00:03.000Z",
-          "wordCount": 622,
+          "wordCount": 618,
           "title": "Issues · transmissions11/flux",
           "imageUrl": "https://repository-images.githubusercontent.com/620411982/bc4ad272-06d0-42b2-baef-22a9df876406"
         },
@@ -76,16 +86,6 @@
           "imageUrl": "https://images.prismic.io/worldcoin-company-website/f6ac4ec3-719c-4009-bd2f-f9c98bf0c090_humanness-in-the-age-of-ai-42.png?auto=compress,format"
         },
         {
-          "id": "https://blockworks.co/news/pentagon-mine-bitcoin-space-force",
-          "author": null,
-          "description": "Pentagon, Mine Bitcoin To Stay Superpower: Space Force Major",
-          "link": "https://blockworks.co/news/pentagon-mine-bitcoin-space-force",
-          "publishedOn": "2023-03-31T21:30:03.000Z",
-          "wordCount": 22127,
-          "title": "Pentagon, Mine Bitcoin To Stay Superpower: Space Force Major",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/03/pentagonbitcoin.jpg&w=1920&q=75&webp=false"
-        },
-        {
           "id": "https://bittrex.com/discover/important-message-for-bittrex-u-s-customers",
           "author": null,
           "description": "Important Message For Bittrex U.S. Customers | Bittrex.com - The Next Generation Crypto-Currency Exchange",
@@ -103,7 +103,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/fc5ba602ca44a9e0e54bca965e037f050cbdab224366b936aba3cd252ea2825b/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/6ad23d84c22c9e6abcff6417353aa5696ea9ebf063590ecc3176f505bc701c63/twitter/the-algorithm"
         },
         {
           "id": "https://ournetwork.substack.com/p/ournetwork-issue-163",
@@ -161,7 +161,7 @@
           "description": "Financial Times",
           "link": "https://enterprise-sharing.ft.com/error-pages/expired-link?contentId=653bbb26-8a22-4db3-b43d-c34a0b774303",
           "publishedOn": "2023-03-31T15:30:04.000Z",
-          "wordCount": 1507,
+          "wordCount": 1521,
           "title": "Financial Times",
           "imageUrl": null
         },
