@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://blog.lopp.net/history-of-bitcoin-maximalism/",
+          "author": null,
+          "description": "A History of Bitcoin Maximalism",
+          "link": "https://blog.lopp.net/history-of-bitcoin-maximalism/",
+          "publishedOn": "2023-04-02T04:00:04.000Z",
+          "wordCount": 10718,
+          "title": "A History of Bitcoin Maximalism",
+          "imageUrl": "https://blog.lopp.net/content/images/2023/02/toxic.png"
+        },
+        {
           "id": "https://www.alignmentforum.org/posts/CoZhXrhpQxpy9xw9y/where-i-agree-and-disagree-with-eliezer",
           "author": null,
           "description": "Where I agree and disagree with Eliezer - AI Alignment Forum",
@@ -34,16 +44,6 @@
           "wordCount": 12489,
           "title": "Solana | Web3 Infrastructure for Everyone",
           "imageUrl": "https://solana.com/social/solana.jpg"
-        },
-        {
-          "id": "https://www.ft.com/content/6c337371-0c34-38f4-9330-2ac88c0b7ce2",
-          "author": null,
-          "description": "How did Cypriots respond to the 2013 banking crisis?",
-          "link": "https://www.ft.com/content/6c337371-0c34-38f4-9330-2ac88c0b7ce2",
-          "publishedOn": "2023-04-01T19:30:04.000Z",
-          "wordCount": 1568,
-          "title": "How did Cypriots respond to the 2013 banking crisis?",
-          "imageUrl": null
         },
         {
           "id": "https://thecradle.co/article-view/23096",
@@ -203,7 +203,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/37be1eeeb8edc0819481b10ae2c1d0b4590c4f1eae6d984972745f90a084ed6d/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/5a54e0668cdd36776fce8f00a090089a99fd8a2a631b4ec37f50d8d91bea9f63/twitter/the-algorithm"
         }
       ]
     }
