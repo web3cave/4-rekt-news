@@ -6,6 +6,26 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.9dcc.market/",
+          "author": null,
+          "description": "9dcc",
+          "link": "https://www.9dcc.market/",
+          "publishedOn": "2023-04-02T05:00:03.000Z",
+          "wordCount": 358,
+          "title": "9dcc",
+          "imageUrl": "https://9dcc.xyz/9dcc-og-image.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=w1dtC9_qOzU&feature=youtu.be",
+          "author": null,
+          "description": "Becoming an Alien 👽 Finding your Jedi 🧙‍♂️ Sensing a Cult 🔮",
+          "link": "https://www.youtube.com/watch?v=w1dtC9_qOzU&feature=youtu.be",
+          "publishedOn": "2023-04-02T04:30:03.000Z",
+          "wordCount": null,
+          "title": "Becoming an Alien 👽 Finding your Jedi 🧙‍♂️ Sensing a Cult 🔮",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.lopp.net/history-of-bitcoin-maximalism/",
           "author": null,
           "description": "A History of Bitcoin Maximalism",
@@ -36,16 +56,6 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/1GaLkJkbkivTw3Rxk6Ei_.jpeg?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://solana.com/",
-          "author": null,
-          "description": "Solana | Web3 Infrastructure for Everyone",
-          "link": "https://solana.com/",
-          "publishedOn": "2023-04-01T20:00:04.000Z",
-          "wordCount": 12489,
-          "title": "Solana | Web3 Infrastructure for Everyone",
-          "imageUrl": "https://solana.com/social/solana.jpg"
-        },
-        {
           "id": "https://thecradle.co/article-view/23096",
           "author": null,
           "description": "ASEAN nations meet, discuss dumping US Dollar, Euro for trade",
@@ -61,7 +71,7 @@
           "description": "When a 9-year-old girl didn't want her goat to be slaughtered, county fair officials sent deputies after it",
           "link": "https://www.latimes.com/california/story/2023-03-30/goat-slaughter-shasta-county-fair",
           "publishedOn": "2023-04-01T18:00:03.000Z",
-          "wordCount": 5621,
+          "wordCount": 5624,
           "title": "When a 9-year-old girl didn't want her goat to be slaughtered, county fair officials sent deputies after it",
           "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/a27506a/2147483647/strip/true/crop/480x252+0+58/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F31%2F3f%2F275b8b4a410fb43488d7af7897cd%2Fimg-4505.jpeg"
         },
@@ -71,7 +81,7 @@
           "description": "AI is here, and there's nothing you can do to stop it",
           "link": "https://dcinvestor.substack.com/p/ai-is-here-and-theres-nothing-you?sd=pf",
           "publishedOn": "2023-04-01T15:30:04.000Z",
-          "wordCount": 8884,
+          "wordCount": 8875,
           "title": "AI is here, and there's nothing you can do to stop it",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44afbad2-6dba-49c8-9ded-ac3b68cb9a71_869x1000.png"
         },
@@ -136,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://base.mirror.xyz/rA5v_0BTc5AwmZdnui7ku82FzF1aTE6TJ_3vds9ymBc",
-          "author": null,
-          "description": "How the Builders Met Base",
-          "link": "https://base.mirror.xyz/rA5v_0BTc5AwmZdnui7ku82FzF1aTE6TJ_3vds9ymBc",
-          "publishedOn": "2023-04-01T05:30:03.000Z",
-          "wordCount": 2012,
-          "title": "How the Builders Met Base",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/rj5mHMIGE6DOUGXBWoh07.png?height=1200&width=2400&h=1200&w=2400&auto=compress"
-        },
-        {
           "id": "https://hackmd.io/@dlubarov/HydKgJBW2",
           "author": null,
           "description": "A comparison of zkEVMs - HackMD",
@@ -203,7 +203,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1177,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/5a54e0668cdd36776fce8f00a090089a99fd8a2a631b4ec37f50d8d91bea9f63/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/44dfddb95fa8b6762bad700f322c7f7352493a46f75abfc4b2e5e22851abf681/twitter/the-algorithm"
         }
       ]
     }
