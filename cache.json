@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iNzrwh2Z2hQ&feature=youtu.be",
+          "author": null,
+          "description": "DJ Earworm - United State of Pop 2009 (Blame It on the Pop)",
+          "link": "https://www.youtube.com/watch?v=iNzrwh2Z2hQ&feature=youtu.be",
+          "publishedOn": "2023-04-02T07:30:04.000Z",
+          "wordCount": null,
+          "title": "DJ Earworm - United State of Pop 2009 (Blame It on the Pop)",
+          "imageUrl": null
+        },
+        {
           "id": "https://kyberswap.com/",
           "author": null,
           "description": "KyberSwap - Swap and earn tokens at the best rates",
@@ -76,16 +86,6 @@
           "imageUrl": "https://mirror-media.imgix.net/nft/1GaLkJkbkivTw3Rxk6Ei_.jpeg?h=null&w=null&auto=compress"
         },
         {
-          "id": "https://solana.com/",
-          "author": null,
-          "description": "Solana | Web3 Infrastructure for Everyone",
-          "link": "https://solana.com/",
-          "publishedOn": "2023-04-01T20:00:04.000Z",
-          "wordCount": 12489,
-          "title": "Solana | Web3 Infrastructure for Everyone",
-          "imageUrl": "https://solana.com/social/solana.jpg"
-        },
-        {
           "id": "https://thecradle.co/article-view/23096",
           "author": null,
           "description": "ASEAN nations meet, discuss dumping US Dollar, Euro for trade",
@@ -111,7 +111,7 @@
           "description": "AI is here, and there's nothing you can do to stop it",
           "link": "https://dcinvestor.substack.com/p/ai-is-here-and-theres-nothing-you?sd=pf",
           "publishedOn": "2023-04-01T15:30:04.000Z",
-          "wordCount": 8875,
+          "wordCount": 8884,
           "title": "AI is here, and there's nothing you can do to stop it",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44afbad2-6dba-49c8-9ded-ac3b68cb9a71_869x1000.png"
         },
@@ -203,7 +203,7 @@
           "publishedOn": "2023-03-31T21:00:01.000Z",
           "wordCount": 1179,
           "title": "GitHub - twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm",
-          "imageUrl": "https://opengraph.githubassets.com/2ec9dd7cfd9128a80ed58c39e1285aa64c8be4b69ddc6a428d7a722c487cc538/twitter/the-algorithm"
+          "imageUrl": "https://opengraph.githubassets.com/3cfa483e27a60774d4322ff5ea9676d252df45815dd245292382075d21617bb7/twitter/the-algorithm"
         }
       ]
     }
