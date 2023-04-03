@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G98Z0jWSApw&feature=youtu.be",
+          "author": null,
+          "description": "Arbitrum drama, Scaling Ethereum finalists and more - The Daily Gwei Refuel #560 - Ethereum Updates",
+          "link": "https://www.youtube.com/watch?v=G98Z0jWSApw&feature=youtu.be",
+          "publishedOn": "2023-04-03T22:30:02.000Z",
+          "wordCount": null,
+          "title": "Arbitrum drama, Scaling Ethereum finalists and more - The Daily Gwei Refuel #560 - Ethereum Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/personal-finance/ism-manufacturing-tumbles-post-covid-lows-employment-slumps",
           "author": null,
           "description": "ISM Manufacturing Tumbles To Post-COVID Lows, Employment Slumps | ZeroHedge",
@@ -34,6 +44,16 @@
           "wordCount": 1495,
           "title": "Jim Jordan: Trump Indictment \"Is About Going After Anyone Who Opposes The Left's Agenda, The Establishment's Agenda\"...",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/consensus-magazine/2023/04/03/crypto-regulation-biden/?utm_campaign=coindesk_main&utm_content=editorial&utm_medium=social&utm_source=twitter&utm_term=organic",
+          "author": null,
+          "description": "The Crypto Industry Needs to Fix Itself Before It Can Progress",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/04/03/crypto-regulation-biden/?utm_campaign=coindesk_main&utm_content=editorial&utm_medium=social&utm_source=twitter&utm_term=organic",
+          "publishedOn": "2023-04-03T20:00:03.000Z",
+          "wordCount": 10323,
+          "title": "The Crypto Industry Needs to Fix Itself Before It Can Progress",
+          "imageUrl": "https://www.coindesk.com/resizer/O9Vx1x1cZLxXCIf_NHSGDrzq9mA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KZOBTSPAGRHADOYTMTDCMUJ6LI.jpg"
         },
         {
           "id": "https://www.youtube.com/watch?v=uDewbAnqE7g&feature=youtu.be",
@@ -131,9 +151,19 @@
           "description": "Uniswap volume beats Coinbase and registers its best month since 2022",
           "link": "https://www.theblock.co/post/224490/uniswap-volume-coinbase-best-month",
           "publishedOn": "2023-04-03T14:00:03.000Z",
-          "wordCount": 63117,
+          "wordCount": 63026,
           "title": "Uniswap volume beats Coinbase and registers its best month since 2022",
           "imageUrl": "https://www.tbstat.com/wp/uploads/2023/03/20230327_MarketsUp_Down_Generic_2-1200x675.jpg"
+        },
+        {
+          "id": "https://ourworldindata.org/",
+          "author": null,
+          "description": "Our World in Data",
+          "link": "https://ourworldindata.org/",
+          "publishedOn": "2023-04-03T14:00:03.000Z",
+          "wordCount": 5271,
+          "title": "Our World in Data",
+          "imageUrl": "https://ourworldindata.org/default-thumbnail.jpg"
         },
         {
           "id": "https://newsdirect.com/news/mask-acquires-rara-in-big-bet-on-web3-social-protocols-323692071",
@@ -174,36 +204,6 @@
           "wordCount": 3,
           "title": "Flux",
           "imageUrl": "https://flux.paradigm.xyz/meta.jpg"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/h7-1j14xNzE",
-          "author": null,
-          "description": "Telegram is NOT Private! #shorts",
-          "link": "https://www.youtube.com/shorts/h7-1j14xNzE",
-          "publishedOn": "2023-04-03T00:00:04.000Z",
-          "wordCount": 1140,
-          "title": "Telegram is NOT Private! #shorts",
-          "imageUrl": "https://i.ytimg.com/vi/h7-1j14xNzE/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBgKGUwDw==&rs=AOn4CLAN_upnlz9P_rSrBEp0hTeDBII_oA"
-        },
-        {
-          "id": "http://jpkoning.blogspot.com/2023/04/fednow-is-not-tool-for-freezing-money.html",
-          "author": null,
-          "description": "FedNow is not a tool for freezing money",
-          "link": "http://jpkoning.blogspot.com/2023/04/fednow-is-not-tool-for-freezing-money.html",
-          "publishedOn": "2023-04-02T21:00:02.000Z",
-          "wordCount": 3912,
-          "title": "FedNow is not a tool for freezing money",
-          "imageUrl": null
-        },
-        {
-          "id": "https://forum.arbitrum.foundation/t/clarity-around-the-ratification-of-aip-1/12864",
-          "author": null,
-          "description": "Clarity around the ratification of AIP-1",
-          "link": "https://forum.arbitrum.foundation/t/clarity-around-the-ratification-of-aip-1/12864",
-          "publishedOn": "2023-04-02T13:00:02.000Z",
-          "wordCount": 4381,
-          "title": "Clarity around the ratification of AIP-1",
-          "imageUrl": "https://sjc6.discourse-cdn.com/standard17/images/discourse-logo-sketch-small.png"
         }
       ]
     }
