@@ -6,6 +6,16 @@
       "siteUrl": "https://feed.rekt.news/",
       "articles": [
         {
+          "id": "https://www.zerohedge.com/markets/key-events-week-good-friday-payrolls-jolts-ism-and-even-more-fed-speakers",
+          "author": null,
+          "description": "Key Events This Week: Good Friday Payrolls, JOLTS, ISM And Even More Fed Speakers | ZeroHedge",
+          "link": "https://www.zerohedge.com/markets/key-events-week-good-friday-payrolls-jolts-ism-and-even-more-fed-speakers",
+          "publishedOn": "2023-04-04T04:00:04.000Z",
+          "wordCount": 3835,
+          "title": "Key Events This Week: Good Friday Payrolls, JOLTS, ISM And Even More Fed Speakers | ZeroHedge",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zerohedge.com/geopolitical/chinese-spy-balloon-gained-intel-us-military-sites-transmitted-beijing-real-time",
           "author": null,
           "description": "Chinese Spy Balloon Gained Intel On US Military Sites, Transmitted To Beijing In Real Time | ZeroHedge",
@@ -194,16 +204,6 @@
           "wordCount": 1021,
           "title": "Publish block before returning to proposer by metachris · Pull Request #330 · flashbots/mev-boost-relay",
           "imageUrl": "https://opengraph.githubassets.com/415613cf0ec142ae63bd35176e8648944f86bc18e40b2a31f8bb97d2f25fd8d7/flashbots/mev-boost-relay/pull/330"
-        },
-        {
-          "id": "https://flux.paradigm.xyz/",
-          "author": null,
-          "description": "Flux",
-          "link": "https://flux.paradigm.xyz/",
-          "publishedOn": "2023-04-03T12:00:04.000Z",
-          "wordCount": 3,
-          "title": "Flux",
-          "imageUrl": "https://flux.paradigm.xyz/meta.jpg"
         }
       ]
     }
